@@ -1160,10 +1160,6 @@
         "src": "enchanted"
     },
     {
-        "dest": "dirt",
-        "src": "remove"
-    },
-    {
         "dest": "enchanted_glowstone_dust",
         "src": "enchanted_glowstone"
     },
@@ -1254,5 +1250,9 @@
     {
         "dest": "superior_dragon_chestplate",
         "src": "superior_dragon_chest"
+    },
+    {
+        "dest": "enchanted_diamond",
+        "src": "edia"
     }
 ]
