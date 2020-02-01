@@ -540,10 +540,6 @@
         "src": "tier_10_perfect_helmet"
     },
     {
-        "dest": "perfect_helmet_x",
-        "src": "maxed_perfect_helmet"
-    },
-    {
         "dest": "perfect_helmet_i",
         "src": "tier_i_perfect_helmet"
     },
@@ -1274,5 +1270,9 @@
     {
         "dest": "perfect_leggings_i",
         "src": "perfect_leg"
+    },
+    {
+        "dest": "mana_flux_power_orb",
+        "src": "over_mana"
     }
 ]
