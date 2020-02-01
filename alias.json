@@ -1152,10 +1152,6 @@
         "src": "tara_boots"
     },
     {
-        "dest": "glowstone",
-        "src": "enchanted"
-    },
-    {
         "dest": "enchanted_glowstone_dust",
         "src": "enchanted_glowstone"
     },
@@ -1282,5 +1278,9 @@
     {
         "dest": "revenant_viscera",
         "src": "vis"
+    },
+    {
+        "dest": "seal_of_the_family",
+        "src": "seal_family"
     }
 ]
