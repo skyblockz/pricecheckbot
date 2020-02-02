@@ -951,8 +951,8 @@
     },
     {
         "512000": "980000",
-        "hi": 935902,
-        "low": 935902,
+        "hi": 830000,
+        "low": 700000,
         "name": "enchanted_hopper",
         "revised": "enchanted_hopper"
     },
@@ -4393,6 +4393,7 @@
     {
         "hi": 50000,
         "low": 50000,
-        "name": "krampus_helmet"
+        "name": "krampus_helmet",
+        "revised": "krampus_helmet"
     }
 ]
