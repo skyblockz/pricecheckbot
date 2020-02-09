@@ -424,5 +424,11 @@
         "hi": 15000,
         "low": 2000,
         "name": "critical_v"
+    },
+    {
+        "ac": true,
+        "hi": 15000,
+        "low": 5000,
+        "name": "diamond_spreading"
     }
 ]
