@@ -1048,5 +1048,11 @@
         "hi": 30000,
         "low": 10000,
         "name": "potion_affinity_ring"
+    },
+    {
+        "ac": true,
+        "hi": 450000,
+        "low": 375000,
+        "name": "potion_affinity_artifact"
     }
 ]
