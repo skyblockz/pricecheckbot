@@ -6,12 +6,6 @@
         "name": "summoning_eye"
     },
     {
-        "ac": false,
-        "hi": 1,
-        "low": 1,
-        "name": "boat"
-    },
-    {
         "ac": true,
         "hi": 1050000,
         "low": 900000,
@@ -214,5 +208,11 @@
         "hi": 450000,
         "low": 325000,
         "name": "bat_ring"
+    },
+    {
+        "ac": true,
+        "hi": 75000,
+        "low": 50000,
+        "name": "bat_talisman"
     }
 ]
