@@ -1,14 +1,20 @@
 [
     {
-        "low": 560000,
+        "ac": true,
         "hi": 610000,
-        "name": "summoning_eye",
-        "ac": true
+        "low": 560000,
+        "name": "summoning_eye"
     },
     {
+        "ac": false,
         "hi": 1,
         "low": 1,
-        "name": "boat",
-        "ac": false
+        "name": "boat"
+    },
+    {
+        "ac": true,
+        "hi": "105000000",
+        "low": "92000000",
+        "name": "overflux_power_orb"
     }
 ]
