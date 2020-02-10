@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 610000,
-        "low": 560000,
+        "hi": "620000",
+        "low": "550000",
         "name": "summoning_eye"
     },
     {
@@ -1450,5 +1450,11 @@
         "hi": 3500000,
         "low": 2900000,
         "name": "silk-edge_sword"
+    },
+    {
+        "ac": true,
+        "hi": 95000,
+        "low": 65000,
+        "name": "enchanted_lily_pad"
     }
 ]
