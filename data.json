@@ -1273,8 +1273,8 @@
     },
     {
         "ac": true,
-        "hi": 0,
-        "low": 0,
+        "hi": "1",
+        "low": "1",
         "name": "stick"
     },
     {
@@ -1282,5 +1282,11 @@
         "hi": 940000,
         "low": 820000,
         "name": "mastiff_crown"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 500000,
+        "name": "unstable_dragon_helmet"
     }
 ]
