@@ -1351,8 +1351,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 55000,
+        "hi": 130000,
+        "low": 85000,
         "name": "spider_talisman"
     },
     {
@@ -1966,5 +1966,11 @@
         "hi": 8500,
         "low": 2000,
         "name": "night_vision_charm"
+    },
+    {
+        "ac": true,
+        "hi": 646000,
+        "low": 646000,
+        "name": "weak_wolf_catalyst"
     }
 ]
