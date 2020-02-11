@@ -1987,8 +1987,14 @@
     },
     {
         "ac": true,
-        "hi": 31000,
-        "low": 31000,
+        "hi": 40000,
+        "low": 30000,
         "name": "enchanted_ink_sack"
+    },
+    {
+        "ac": true,
+        "hi": 460,
+        "low": 375,
+        "name": "ink_sack"
     }
 ]
