@@ -1933,12 +1933,6 @@
     },
     {
         "ac": true,
-        "hi": 4000000,
-        "low": 3200000,
-        "name": "divers_chestplate"
-    },
-    {
-        "ac": true,
         "hi": 1600000,
         "low": 1100000,
         "name": "divers_boots"
@@ -1947,6 +1941,18 @@
         "ac": true,
         "hi": 2100000,
         "low": 1600000,
-        "name": "divers_helmet"
+        "name": "divers_mask"
+    },
+    {
+        "ac": true,
+        "hi": 4000000,
+        "low": 3200000,
+        "name": "divers_shirt"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 200000,
+        "name": "rainbow_rune"
     }
 ]
