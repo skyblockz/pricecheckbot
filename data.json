@@ -2,7 +2,7 @@
     {
         "ac": true,
         "hi": 620000,
-        "low": 550000,
+        "low": 545000,
         "name": "summoning_eye"
     },
     {
@@ -68,7 +68,7 @@
     {
         "ac": true,
         "hi": 215000,
-        "low": 165000,
+        "low": 160000,
         "name": "aspect_of_the_end"
     },
     {
@@ -2026,5 +2026,11 @@
         "hi": 576,
         "low": 576,
         "name": "enchanted_string"
+    },
+    {
+        "ac": true,
+        "hi": 280000,
+        "low": 280000,
+        "name": "revenant_chestplate"
     }
 ]
