@@ -433,7 +433,7 @@
     },
     {
         "ac": true,
-        "hi": 95000,
+        "hi": 100000,
         "low": 85000,
         "name": "enchanted_lapis_block"
     },
@@ -2062,5 +2062,11 @@
         "hi": 1200000,
         "low": 900000,
         "name": "bat_person_chestplate"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 5000,
+        "name": "lava_talisman"
     }
 ]
