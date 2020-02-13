@@ -1411,8 +1411,8 @@
     },
     {
         "ac": true,
-        "hi": 75000,
-        "low": 25000,
+        "hi": 180000,
+        "low": 120000,
         "name": "spider_catalyst"
     },
     {
@@ -2056,5 +2056,11 @@
         "hi": 35000,
         "low": 23500,
         "name": "enchanted_dandelion"
+    },
+    {
+        "ac": true,
+        "hi": 1200000,
+        "low": 900000,
+        "name": "bat_person_chestplate"
     }
 ]
