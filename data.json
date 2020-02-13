@@ -1681,7 +1681,7 @@
     },
     {
         "ac": true,
-        "hi": 400000,
+        "hi": 425000,
         "low": 325000,
         "name": "emperor's_skull"
     },
@@ -2074,5 +2074,11 @@
         "hi": 2000,
         "low": 1200,
         "name": "grappling_hook"
+    },
+    {
+        "ac": true,
+        "hi": 9000000,
+        "low": 6000000,
+        "name": "shredder"
     }
 ]
