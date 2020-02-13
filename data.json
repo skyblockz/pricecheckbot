@@ -2107,8 +2107,14 @@
     },
     {
         "ac": true,
-        "hi": 6000,
-        "low": 6000,
+        "hi": 200000,
+        "low": 160000,
         "name": "large_storage"
+    },
+    {
+        "ac": true,
+        "hi": 12500,
+        "low": 9000,
+        "name": "catalyst"
     }
 ]
