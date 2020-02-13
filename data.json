@@ -757,8 +757,8 @@
     },
     {
         "ac": true,
-        "hi": 175000,
-        "low": 150000,
+        "hi": 165000,
+        "low": 125000,
         "name": "farmer_boots"
     },
     {
@@ -2047,8 +2047,14 @@
     },
     {
         "ac": true,
-        "hi": 3800000,
+        "hi": 3500000,
         "low": 3000000,
         "name": "wood_singularity"
+    },
+    {
+        "ac": true,
+        "hi": 35000,
+        "low": 23500,
+        "name": "enchanted_dandelion"
     }
 ]
