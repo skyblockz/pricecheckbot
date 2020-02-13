@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 6000,
-        "low": 3000,
+        "hi": 2200,
+        "low": 1300,
         "name": "enchanted_quartz"
     },
     {
@@ -2086,5 +2086,11 @@
         "hi": 55000000,
         "low": 46000000,
         "name": "reaper_scythe"
+    },
+    {
+        "ac": true,
+        "hi": 115000,
+        "low": 90000,
+        "name": "enchanted_fermented_spider_eye"
     }
 ]
