@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 81920,
-        "low": 50000,
+        "hi": 6000,
+        "low": 3000,
         "name": "enchanted_quartz"
     },
     {
@@ -2068,5 +2068,11 @@
         "hi": 20000,
         "low": 5000,
         "name": "lava_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1200,
+        "name": "grappling_hook"
     }
 ]
