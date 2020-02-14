@@ -1645,8 +1645,8 @@
     },
     {
         "ac": true,
-        "hi": 73000,
-        "low": 73000,
+        "hi": 100000,
+        "low": 80000,
         "name": "revenant_viscera"
     },
     {
@@ -2146,5 +2146,11 @@
         "hi": 6,
         "low": 6,
         "name": "iron_ingot"
+    },
+    {
+        "ac": true,
+        "hi": 3200,
+        "low": 3200,
+        "name": "giant_killer_v"
     }
 ]
