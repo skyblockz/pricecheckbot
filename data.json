@@ -139,8 +139,8 @@
     },
     {
         "ac": true,
-        "hi": 10000,
-        "low": 2500,
+        "hi": 7000,
+        "low": 2000,
         "name": "silver_fang"
     },
     {
@@ -1645,8 +1645,8 @@
     },
     {
         "ac": true,
-        "hi": 73000,
-        "low": 73000,
+        "hi": 100000,
+        "low": 80000,
         "name": "revenant_viscera"
     },
     {
@@ -2104,5 +2104,77 @@
         "hi": 425000,
         "low": 325000,
         "name": "emperors_skull"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 160000,
+        "name": "large_storage"
+    },
+    {
+        "ac": true,
+        "hi": 12500,
+        "low": 9000,
+        "name": "catalyst"
+    },
+    {
+        "ac": true,
+        "hi": 4000000,
+        "low": 3000000,
+        "name": "spider_artifact"
+    },
+    {
+        "ac": true,
+        "hi": 3750000,
+        "low": 2500000,
+        "name": "zombie_artifact"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 50000,
+        "name": "beheaded_horror"
+    },
+    {
+        "ac": true,
+        "hi": 125000,
+        "low": 100000,
+        "name": "fish_affinity_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 6,
+        "low": 6,
+        "name": "iron_ingot"
+    },
+    {
+        "ac": true,
+        "hi": 3200,
+        "low": 3200,
+        "name": "giant_killer_v"
+    },
+    {
+        "ac": true,
+        "hi": 35000,
+        "low": 35000,
+        "name": "tactician_sword"
+    },
+    {
+        "ac": true,
+        "hi": 4200,
+        "low": 3500,
+        "name": "enchanted_eye_of_ender"
+    },
+    {
+        "ac": true,
+        "hi": 980000,
+        "low": 600000,
+        "name": "creeper_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 6000000,
+        "low": 4500000,
+        "name": "scorpion_bow"
     }
 ]
