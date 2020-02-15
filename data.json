@@ -19,8 +19,8 @@
     },
     {
         "ac": true,
-        "hi": 570,
-        "low": 520,
+        "hi": 550,
+        "low": 550,
         "name": "wolf_tooth"
     },
     {
@@ -2011,8 +2011,8 @@
     },
     {
         "ac": true,
-        "hi": 576,
-        "low": 576,
+        "hi": 1796,
+        "low": 1796,
         "name": "enchanted_string"
     },
     {
@@ -2194,5 +2194,11 @@
         "hi": 2800000,
         "low": 2000000,
         "name": "protection_vi"
+    },
+    {
+        "ac": true,
+        "hi": 100000,
+        "low": 80000,
+        "name": "protector_dragon_chestplate"
     }
 ]
