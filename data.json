@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 65000,
+        "hi": 120000,
+        "low": 80000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -2392,5 +2392,11 @@
         "hi": 7000000,
         "low": 5000000,
         "name": "hilt_of_true_ice"
+    },
+    {
+        "ac": true,
+        "hi": 35000,
+        "low": 35000,
+        "name": "tacticion_sword"
     }
 ]
