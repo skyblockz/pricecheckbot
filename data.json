@@ -1621,8 +1621,8 @@
     },
     {
         "ac": true,
-        "hi": 5500000,
-        "low": 4500000,
+        "hi": 5000000,
+        "low": 3500000,
         "name": "flower_minion"
     },
     {
@@ -2470,5 +2470,11 @@
         "hi": 2500,
         "low": 2500,
         "name": "Silky_Lichen"
+    },
+    {
+        "ac": true,
+        "hi": 5,
+        "low": 5,
+        "name": "Ender_Pearl"
     }
 ]
