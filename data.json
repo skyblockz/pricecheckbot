@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 4500000,
+        "hi": 15000000,
+        "low": 14000000,
         "name": "scorpion_bow"
     },
     {
@@ -2323,8 +2323,8 @@
     },
     {
         "ac": true,
-        "hi": 1,
-        "low": 1,
+        "hi": 420,
+        "low": 69,
         "name": "aspect_of_the_jerry"
     },
     {
@@ -2416,5 +2416,11 @@
         "hi": 2100000,
         "low": 2100000,
         "name": "weird_tuba"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 1500000,
+        "name": "survivor_cube"
     }
 ]
