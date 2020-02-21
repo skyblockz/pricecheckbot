@@ -85,8 +85,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4300,
+        "hi": 4000,
+        "low": 3500,
         "name": "grand_experience_bottle"
     },
     {
@@ -2422,5 +2422,11 @@
         "hi": 2500000,
         "low": 1500000,
         "name": "survivor_cube"
+    },
+    {
+        "ac": true,
+        "hi": 18000000,
+        "low": 14500000,
+        "name": "reaper_mask"
     }
 ]
