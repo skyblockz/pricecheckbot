@@ -111,9 +111,12 @@
                 ]
             },
             "Snow_Minion": {
-                "from": null,
-                "to": [
+                "from": [
                     1000000,
+                    100000
+                ],
+                "to": [
+                    100000,
                     100000
                 ]
             },
@@ -132,7 +135,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "339820544851574784": {
         "modification_history": {
