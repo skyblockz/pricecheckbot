@@ -88,10 +88,6 @@
         "src": "aspect_of_the_dragon"
     },
     {
-        "dest": "enchanted_coal_block",
-        "src": "ecoal_block"
-    },
-    {
         "dest": "enchanted_cobblestone",
         "src": "ecobblestone"
     },
@@ -316,7 +312,15 @@
         "src": "wise_frag"
     },
     {
-        "dest": "enchanted_coal_block",
+        "dest": "enchanted_block_of_coal",
+        "src": "ecoal_block"
+    },
+    {
+        "dest": "enchanted_block_of_coal",
         "src": "enchanted_block_of_coal"
+    },
+    {
+        "dest": "enchanted_block_of_coal",
+        "src": "enchanted_coal_block"
     }
 ]
