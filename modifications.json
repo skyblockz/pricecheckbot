@@ -76,10 +76,13 @@
                 ]
             },
             "Crystal_helmet": {
-                "from": null,
-                "to": [
+                "from": [
                     50000,
                     50000
+                ],
+                "to": [
+                    4000,
+                    4000
                 ]
             },
             "Enchanted_Ender_Pearl": {
@@ -149,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "339820544851574784": {
         "modification_history": {
