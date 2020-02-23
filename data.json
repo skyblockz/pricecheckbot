@@ -1089,12 +1089,6 @@
         "ac": true,
         "hi": 320,
         "low": 320,
-        "name": "enchanted_spruce"
-    },
-    {
-        "ac": true,
-        "hi": 320,
-        "low": 320,
         "name": "enchanted_acacia"
     },
     {
@@ -2584,5 +2578,17 @@
         "hi": 400000,
         "low": 400000,
         "name": "personal_harp"
+    },
+    {
+        "ac": true,
+        "hi": 320,
+        "low": 320,
+        "name": "enchanted_spruce_wood"
+    },
+    {
+        "ac": true,
+        "hi": 2100000,
+        "low": 2100000,
+        "name": "silk_edge"
     }
 ]
