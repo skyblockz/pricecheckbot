@@ -229,6 +229,13 @@
                     4
                 ]
             },
+            "scavenger_iv": {
+                "from": null,
+                "to": [
+                    15000,
+                    15000
+                ]
+            },
             "silk_edge": {
                 "from": null,
                 "to": [
@@ -237,7 +244,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "339820544851574784": {
         "modification_history": {
