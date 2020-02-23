@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 275000,
-        "low": 150000,
+        "hi": 500000,
+        "low": 500000,
         "name": "fly_swatter"
     },
     {
@@ -2542,5 +2542,11 @@
         "hi": 500,
         "low": 500,
         "name": "nether_biome_stick"
+    },
+    {
+        "ac": true,
+        "hi": 5000,
+        "low": 5000,
+        "name": "blessing_v"
     }
 ]
