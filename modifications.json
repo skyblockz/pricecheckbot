@@ -298,9 +298,19 @@
                     3500,
                     4000
                 ]
+            },
+            "redstone_block": {
+                "from": [
+                    500,
+                    5000
+                ],
+                "to": [
+                    9,
+                    9
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "351251469250461697": {
         "modification_history": {},
