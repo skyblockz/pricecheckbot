@@ -1615,8 +1615,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3000,
+        "hi": 2500,
+        "low": 2500,
         "name": "wise_dragon_fragment"
     },
     {
@@ -2485,12 +2485,6 @@
     },
     {
         "ac": true,
-        "hi": 2500,
-        "low": 2500,
-        "name": "wise_dragon_fragment"
-    },
-    {
-        "ac": true,
         "hi": 4000,
         "low": 4000,
         "name": "crystal_helmet"
@@ -2614,5 +2608,11 @@
         "hi": 80000,
         "low": 50000,
         "name": "snow_minion"
+    },
+    {
+        "ac": true,
+        "hi": 350000,
+        "low": 275000,
+        "name": "courture_rune_1"
     }
 ]
