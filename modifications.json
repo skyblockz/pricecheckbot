@@ -614,13 +614,16 @@
     "508337831798636544": {
         "modification_history": {
             "Enderman_Pet": {
-                "from": null,
+                "from": [
+                    5000,
+                    15000
+                ],
                 "to": [
                     5000,
                     15000
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     }
 }
