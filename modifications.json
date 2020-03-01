@@ -96,8 +96,16 @@
         "total_mods": -9998
     },
     "508337831798636544": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "magic_find_iv": {
+                "from": null,
+                "to": [
+                    250000,
+                    450000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "508529699098591242": {
         "modification_history": {},
