@@ -152,6 +152,16 @@
                     5500000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    250000,
+                    280000
+                ],
+                "to": [
+                    345000,
+                    402000
+                ]
+            },
             "legendary_ocelot_pet": {
                 "from": null,
                 "to": [
@@ -167,7 +177,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
