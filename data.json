@@ -1417,8 +1417,8 @@
     },
     {
         "ac": true,
-        "hi": 950000,
-        "low": 650000,
+        "hi": 920000,
+        "low": 810000,
         "name": "runaans_bow"
     },
     {
@@ -2686,5 +2686,11 @@
         "hi": 3500000,
         "low": 2500000,
         "name": "spicy_leaping_sword"
+    },
+    {
+        "ac": true,
+        "hi": 450000,
+        "low": 250000,
+        "name": "magic_find_iv"
     }
 ]
