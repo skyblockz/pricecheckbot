@@ -163,8 +163,8 @@
     },
     {
         "ac": true,
-        "hi": 1280,
-        "low": 1280,
+        "hi": 1520,
+        "low": 1520,
         "name": "enchanted_diamond"
     },
     {
@@ -1237,8 +1237,8 @@
     },
     {
         "ac": true,
-        "hi": 478,
-        "low": 478,
+        "hi": 160,
+        "low": 160,
         "name": "enchanted_clay"
     },
     {
@@ -2734,5 +2734,11 @@
         "hi": 9000000,
         "low": 7500000,
         "name": "legendary_wolf_pet"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 2500000,
+        "name": "legendary_rabbit_pet"
     }
 ]
