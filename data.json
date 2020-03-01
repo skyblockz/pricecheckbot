@@ -85,8 +85,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3500,
+        "hi": 5000,
+        "low": 4000,
         "name": "grand_experience_bottle"
     },
     {
@@ -2716,5 +2716,11 @@
         "hi": 15000,
         "low": 15000,
         "name": "hunk_of_blue_ice"
+    },
+    {
+        "ac": true,
+        "hi": 500000,
+        "low": 250000,
+        "name": "golden_gift"
     }
 ]
