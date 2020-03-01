@@ -152,6 +152,16 @@
                     5500000
                 ]
             },
+            "enchanted_coal_block": {
+                "from": [
+                    120000,
+                    155000
+                ],
+                "to": [
+                    120000,
+                    165000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     250000,
@@ -177,7 +187,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "466769036122783744": {
         "modification_history": {},
