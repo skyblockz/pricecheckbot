@@ -321,6 +321,13 @@
                     5500000
                 ]
             },
+            "candy_artifact": {
+                "from": null,
+                "to": [
+                    450000,
+                    650000
+                ]
+            },
             "enchanted_coal_block": {
                 "from": [
                     120000,
@@ -393,7 +400,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {},
