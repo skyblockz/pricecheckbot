@@ -313,8 +313,8 @@
     },
     {
         "ac": true,
-        "hi": 625,
-        "low": 545,
+        "hi": 320,
+        "low": 320,
         "name": "enchanted_coal"
     },
     {
@@ -325,14 +325,14 @@
     },
     {
         "ac": true,
-        "hi": 1060,
-        "low": 960,
+        "hi": 480,
+        "low": 480,
         "name": "enchanted_iron"
     },
     {
         "ac": true,
-        "hi": 180000,
-        "low": 10000,
+        "hi": 1200,
+        "low": 1200,
         "name": "budget_hopper"
     },
     {
@@ -355,8 +355,8 @@
     },
     {
         "ac": true,
-        "hi": 1165,
-        "low": 960,
+        "hi": 640,
+        "low": 640,
         "name": "enchanted_gold"
     },
     {
@@ -421,8 +421,8 @@
     },
     {
         "ac": true,
-        "hi": 625,
-        "low": 312,
+        "hi": 160,
+        "low": 160,
         "name": "enchanted_lapis_lazuli"
     },
     {
@@ -577,8 +577,8 @@
     },
     {
         "ac": true,
-        "hi": 1330,
-        "low": 1015,
+        "hi": 640,
+        "low": 640,
         "name": "enchanted_flint"
     },
     {
@@ -691,8 +691,8 @@
     },
     {
         "ac": true,
-        "hi": 625,
-        "low": 315,
+        "hi": 160,
+        "low": 160,
         "name": "enchanted_potato"
     },
     {
@@ -913,7 +913,7 @@
     },
     {
         "ac": true,
-        "hi": 865,
+        "hi": 640,
         "low": 640,
         "name": "enchanted_raw_beef"
     },
@@ -1237,8 +1237,8 @@
     },
     {
         "ac": true,
-        "hi": 160,
-        "low": 160,
+        "hi": 480,
+        "low": 480,
         "name": "enchanted_clay"
     },
     {
@@ -2461,8 +2461,8 @@
     },
     {
         "ac": true,
-        "hi": 5,
-        "low": 5,
+        "hi": 10,
+        "low": 10,
         "name": "ender_pearl"
     },
     {
@@ -2758,5 +2758,11 @@
         "hi": 250,
         "low": 250,
         "name": "clay_minion"
+    },
+    {
+        "ac": true,
+        "hi": 10,
+        "low": 10,
+        "name": "sponge"
     }
 ]
