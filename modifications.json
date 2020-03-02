@@ -399,6 +399,16 @@
                     3500000
                 ]
             },
+            "super_enchanted_egg": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    500000,
+                    1200000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     9000000,
@@ -410,7 +420,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
