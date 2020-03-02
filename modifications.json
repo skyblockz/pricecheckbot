@@ -254,6 +254,16 @@
                     10
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    85000,
+                    110000
+                ],
+                "to": [
+                    85000,
+                    97250
+                ]
+            },
             "sponge": {
                 "from": null,
                 "to": [
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "420437729696808962": {
         "modification_history": {},
