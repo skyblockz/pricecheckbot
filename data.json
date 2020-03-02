@@ -427,8 +427,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 85000,
+        "hi": 65000,
+        "low": 35000,
         "name": "enchanted_lapis_block"
     },
     {
@@ -1315,8 +1315,8 @@
     },
     {
         "ac": true,
-        "hi": 10500000,
-        "low": 9000000,
+        "hi": 11500000,
+        "low": 10500000,
         "name": "wither_artifact"
     },
     {
@@ -1339,8 +1339,8 @@
     },
     {
         "ac": true,
-        "hi": 7500000,
-        "low": 6500000,
+        "hi": 9200000,
+        "low": 8500000,
         "name": "ender_artifact"
     },
     {
@@ -2794,5 +2794,11 @@
         "hi": 85000,
         "low": 30000,
         "name": "jingle_bells"
+    },
+    {
+        "ac": true,
+        "hi": 650000,
+        "low": 450000,
+        "name": "candy_artifact"
     }
 ]
