@@ -104,10 +104,13 @@
                 ]
             },
             "lightning_rune_iii": {
-                "from": null,
-                "to": [
+                "from": [
                     500000,
                     8000000
+                ],
+                "to": [
+                    500000,
+                    800000
                 ]
             },
             "yeti_rod": {
@@ -118,7 +121,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "339820544851574784": {
         "modification_history": {
