@@ -368,6 +368,16 @@
                     9200000
                 ]
             },
+            "feather_artifact": {
+                "from": [
+                    230000,
+                    310000
+                ],
+                "to": [
+                    27000,
+                    36000
+                ]
+            },
             "jingle_bells": {
                 "from": null,
                 "to": [
@@ -400,7 +410,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
