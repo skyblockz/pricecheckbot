@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 6200000,
-        "low": 5600000,
+        "hi": 5500000,
+        "low": 4300000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -199,8 +199,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 250000,
+        "hi": 402000,
+        "low": 345000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -319,7 +319,7 @@
     },
     {
         "ac": true,
-        "hi": 155000,
+        "hi": 165000,
         "low": 120000,
         "name": "enchanted_coal_block"
     },
@@ -2746,5 +2746,11 @@
         "hi": 4000000,
         "low": 3000000,
         "name": "legendary_ocelot_pet"
+    },
+    {
+        "ac": true,
+        "hi": 5800000,
+        "low": 5000000,
+        "name": "yeti_rod"
     }
 ]
