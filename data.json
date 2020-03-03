@@ -901,8 +901,8 @@
     },
     {
         "ac": true,
-        "hi": 310000,
-        "low": 230000,
+        "hi": 36000,
+        "low": 27000,
         "name": "feather_artifact"
     },
     {
@@ -967,8 +967,8 @@
     },
     {
         "ac": true,
-        "hi": 850,
-        "low": 640,
+        "hi": 4688,
+        "low": 3906,
         "name": "enchanted_raw_chicken"
     },
     {
@@ -1255,8 +1255,8 @@
     },
     {
         "ac": true,
-        "hi": 2800000,
-        "low": 2000000,
+        "hi": 2300000,
+        "low": 1725000,
         "name": "leaping_sword"
     },
     {
@@ -2617,8 +2617,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1400000,
+        "hi": 1200000,
+        "low": 500000,
         "name": "super_enchanted_egg"
     },
     {
@@ -2800,5 +2800,11 @@
         "hi": 650000,
         "low": 450000,
         "name": "candy_artifact"
+    },
+    {
+        "ac": true,
+        "hi": 500,
+        "low": 160,
+        "name": "feather_talisman"
     }
 ]
