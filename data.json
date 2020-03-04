@@ -697,8 +697,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 80000,
+        "hi": 75000,
+        "low": 65000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -949,8 +949,8 @@
     },
     {
         "ac": true,
-        "hi": 195000,
-        "low": 150000,
+        "hi": 400000,
+        "low": 250000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -967,8 +967,8 @@
     },
     {
         "ac": true,
-        "hi": 4688,
-        "low": 3906,
+        "hi": 2066,
+        "low": 1562,
         "name": "enchanted_raw_chicken"
     },
     {
@@ -1003,8 +1003,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 375000,
+        "hi": 500000,
+        "low": 425000,
         "name": "potion_affinity_artifact"
     },
     {
@@ -1123,8 +1123,8 @@
     },
     {
         "ac": true,
-        "hi": 97250,
-        "low": 85000,
+        "hi": 80000,
+        "low": 60000,
         "name": "hot_potato_book"
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 8550000,
+        "hi": 7666666,
+        "low": 7150000,
         "name": "tarantula_talisman"
     },
     {
@@ -2824,5 +2824,11 @@
         "hi": 133000000,
         "low": 1050000,
         "name": "legendary_phoenix_pet"
+    },
+    {
+        "ac": true,
+        "hi": 62000000,
+        "low": 55000000,
+        "name": "legendary_enderman_pet"
     }
 ]
