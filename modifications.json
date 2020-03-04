@@ -142,6 +142,16 @@
                     5000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    125000,
+                    165000
+                ],
+                "to": [
+                    165000,
+                    187000
+                ]
+            },
             "legendary_wolf_pet": {
                 "from": null,
                 "to": [
@@ -170,7 +180,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "351251469250461697": {
         "modification_history": {
