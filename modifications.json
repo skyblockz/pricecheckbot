@@ -177,6 +177,16 @@
                     75000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    150000,
+                    195000
+                ],
+                "to": [
+                    250000,
+                    400000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     375000,
@@ -198,7 +208,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "390661701046894592": {
         "modification_history": {
