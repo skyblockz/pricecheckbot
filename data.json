@@ -1465,32 +1465,32 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 150000,
+        "hi": 115000,
+        "low": 100000,
         "name": "old_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 120000,
+        "hi": 115000,
+        "low": 100000,
         "name": "old_dragon_helmet"
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 400000,
+        "hi": 160000,
+        "low": 87000,
         "name": "old_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 180000,
+        "hi": 145000,
+        "low": 115000,
         "name": "old_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2000,
+        "hi": 2000,
+        "low": 750,
         "name": "old_dragon_fragment"
     },
     {
@@ -2617,14 +2617,14 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
+        "hi": 820000,
         "low": 500000,
         "name": "super_enchanted_egg"
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 10000,
+        "hi": 5000,
+        "low": 4000,
         "name": "enchanted_egg"
     },
     {
@@ -2818,5 +2818,11 @@
         "hi": 35000,
         "low": 10000,
         "name": "zombie_ring"
+    },
+    {
+        "ac": true,
+        "hi": 133000000,
+        "low": 1050000,
+        "name": "legendary_phoenix_pet"
     }
 ]
