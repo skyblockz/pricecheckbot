@@ -187,6 +187,16 @@
                     400000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    85000,
+                    97250
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     375000,
@@ -208,7 +218,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "390661701046894592": {
         "modification_history": {
