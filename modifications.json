@@ -177,6 +177,16 @@
                     75000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    375000,
+                    450000
+                ],
+                "to": [
+                    425000,
+                    500000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     8550000,
@@ -188,7 +198,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "390661701046894592": {
         "modification_history": {
