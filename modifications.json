@@ -1228,6 +1228,16 @@
                     12000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     30000000,
@@ -1313,7 +1323,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "508337831798636544": {
         "modification_history": {
