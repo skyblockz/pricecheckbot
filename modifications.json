@@ -176,6 +176,16 @@
                     2300
                 ]
             },
+            "strong_dragon_chestplate": {
+                "from": [
+                    2300000,
+                    2600000
+                ],
+                "to": [
+                    1800000,
+                    2400000
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     25000,
@@ -317,7 +327,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "289122035005652992": {
         "modification_history": {},
