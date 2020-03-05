@@ -3037,8 +3037,14 @@
     },
     {
         "ac": true,
-        "hi": 400000,
+        "hi": 40000,
         "low": 30000,
         "name": "enchanted_ink"
+    },
+    {
+        "ac": true,
+        "hi": 9000000,
+        "low": 6500000,
+        "name": "squid"
     }
 ]
