@@ -3058,5 +3058,11 @@
         "hi": 50000000,
         "low": 20000000,
         "name": "game_breaker"
+    },
+    {
+        "ac": true,
+        "hi": 700000,
+        "low": 500000,
+        "name": "beacon_block"
     }
 ]
