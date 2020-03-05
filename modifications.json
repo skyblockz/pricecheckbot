@@ -506,6 +506,16 @@
                     1420
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    105000,
+                    135000
+                ],
+                "to": [
+                    75000,
+                    150000
+                ]
+            },
             "ender_pearl": {
                 "from": [
                     5,
@@ -589,7 +599,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "420437729696808962": {
         "modification_history": {},
