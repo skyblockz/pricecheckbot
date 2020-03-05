@@ -1484,6 +1484,13 @@
                     7000000
                 ]
             },
+            "squid": {
+                "from": null,
+                "to": [
+                    6500000,
+                    9000000
+                ]
+            },
             "turtle": {
                 "from": null,
                 "to": [
@@ -1492,7 +1499,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "508337831798636544": {
         "modification_history": {
