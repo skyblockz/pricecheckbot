@@ -7,8 +7,8 @@
     },
     {
         "ac": true,
-        "hi": 1050000,
-        "low": 900000,
+        "hi": 800000,
+        "low": 700000,
         "name": "strong_dragon_helmet"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "ac": true,
-        "hi": 1150000,
-        "low": 950000,
+        "hi": 1300000,
+        "low": 1000000,
         "name": "strong_dragon_boots"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
         "ac": true,
-        "hi": 2400000,
-        "low": 1900000,
+        "hi": 2100000,
+        "low": 1600000,
         "name": "strong_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 5500000,
-        "low": 4300000,
+        "hi": 4800000,
+        "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
     {
         "ac": true,
-        "hi": 2600000,
-        "low": 2300000,
+        "hi": 2400000,
+        "low": 1800000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
         "ac": true,
-        "hi": 215000,
-        "low": 160000,
+        "hi": 160000,
+        "low": 130000,
         "name": "aspect_of_the_end"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 275000,
+        "hi": 400000,
+        "low": 370000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -565,8 +565,8 @@
     },
     {
         "ac": true,
-        "hi": 115000,
-        "low": 95000,
+        "hi": 200000,
+        "low": 160000,
         "name": "enchanted_glowstone"
     },
     {
@@ -697,8 +697,8 @@
     },
     {
         "ac": true,
-        "hi": 75000,
-        "low": 65000,
+        "hi": 100000,
+        "low": 80000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -949,8 +949,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 250000,
+        "hi": 450000,
+        "low": 400000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -1129,26 +1129,26 @@
     },
     {
         "ac": true,
-        "hi": 14000000,
+        "hi": 13600000,
         "low": 13000000,
         "name": "superior_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 7600000,
-        "low": 6900000,
+        "hi": 7000000,
+        "low": 6300000,
         "name": "superior_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 12500000,
-        "low": 11500000,
+        "hi": 12800000,
+        "low": 12100000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 9300000,
-        "low": 8500000,
+        "hi": 8500000,
+        "low": 8000000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -2347,8 +2347,8 @@
     },
     {
         "ac": true,
-        "hi": 36000000,
-        "low": 31000000,
+        "hi": 20000000,
+        "low": 17000000,
         "name": "scythe_blade"
     },
     {
@@ -2926,5 +2926,11 @@
         "hi": 2500,
         "low": 1000,
         "name": "jungle_axe"
+    },
+    {
+        "ac": true,
+        "hi": 6000000,
+        "low": 5000000,
+        "name": "skeleton_horse"
     }
 ]
