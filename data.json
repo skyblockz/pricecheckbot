@@ -751,8 +751,8 @@
     },
     {
         "ac": true,
-        "hi": 165000,
-        "low": 125000,
+        "hi": 187000,
+        "low": 165000,
         "name": "farmer_boots"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "ac": true,
-        "hi": 185000,
-        "low": 100000,
+        "hi": 175000,
+        "low": 75000,
         "name": "large_backpack"
     },
     {
@@ -1219,8 +1219,8 @@
     },
     {
         "ac": true,
-        "hi": 1340000,
-        "low": 1100000,
+        "hi": 1450000,
+        "low": 1450000,
         "name": "mastiff_leggings"
     },
     {
@@ -1231,8 +1231,8 @@
     },
     {
         "ac": true,
-        "hi": 850000,
-        "low": 760000,
+        "hi": 1100000,
+        "low": 1100000,
         "name": "mastiff_boots"
     },
     {
@@ -1267,14 +1267,14 @@
     },
     {
         "ac": true,
-        "hi": 1150000,
-        "low": 1150000,
+        "hi": 1300000,
+        "low": 1100000,
         "name": "mastiff_crown"
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 2250000,
+        "hi": 1500000,
+        "low": 1250000,
         "name": "mastiff_chestplate"
     },
     {
@@ -2890,5 +2890,11 @@
         "hi": 14000000,
         "low": 10000000,
         "name": "legenadry_pigman_pet"
+    },
+    {
+        "ac": true,
+        "hi": 30000000,
+        "low": 30000000,
+        "name": "elegant_tuxedo_jacket"
     }
 ]
