@@ -61,6 +61,16 @@
                     256000
                 ]
             },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    160,
+                    160
+                ],
+                "to": [
+                    500,
+                    800
+                ]
+            },
             "enchanted_mutton": {
                 "from": null,
                 "to": [
@@ -128,7 +138,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "339820544851574784": {
         "modification_history": {
