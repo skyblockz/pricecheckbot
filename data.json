@@ -271,8 +271,8 @@
     },
     {
         "ac": true,
-        "hi": 700,
-        "low": 575,
+        "hi": 1920,
+        "low": 1920,
         "name": "enchanted_cobblestone"
     },
     {
@@ -421,8 +421,8 @@
     },
     {
         "ac": true,
-        "hi": 160,
-        "low": 160,
+        "hi": 800,
+        "low": 500,
         "name": "enchanted_lapis_lazuli"
     },
     {
@@ -889,8 +889,8 @@
     },
     {
         "ac": true,
-        "hi": 135000,
-        "low": 105000,
+        "hi": 150000,
+        "low": 75000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -1453,8 +1453,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 350000,
+        "hi": 325000,
+        "low": 300000,
         "name": "zombie_heart"
     },
     {
@@ -2920,5 +2920,11 @@
         "hi": 650,
         "low": 650,
         "name": "miner_boots"
+    },
+    {
+        "ac": true,
+        "hi": 99999999,
+        "low": 99999999,
+        "name": "technoblade"
     }
 ]
