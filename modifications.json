@@ -483,6 +483,13 @@
                     800000
                 ]
             },
+            "magic_find_iv_potion": {
+                "from": null,
+                "to": [
+                    80000,
+                    150000
+                ]
+            },
             "yeti_rod": {
                 "from": null,
                 "to": [
@@ -491,7 +498,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "333214758436208640": {
         "modification_history": {
