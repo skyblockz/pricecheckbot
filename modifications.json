@@ -1187,6 +1187,13 @@
                     36000
                 ]
             },
+            "fire_talisman": {
+                "from": null,
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "jingle_bells": {
                 "from": null,
                 "to": [
@@ -1289,7 +1296,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "466769036122783744": {
         "modification_history": {
