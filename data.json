@@ -43,7 +43,7 @@
     },
     {
         "ac": true,
-        "hi": 4800000,
+        "hi": 5300000,
         "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
@@ -925,8 +925,8 @@
     },
     {
         "ac": true,
-        "hi": 10000,
-        "low": 8600,
+        "hi": 15000,
+        "low": 10000,
         "name": "enchanted_leather"
     },
     {
@@ -1279,8 +1279,8 @@
     },
     {
         "ac": true,
-        "hi": 10500000,
-        "low": 9000000,
+        "hi": 12000000,
+        "low": 11000000,
         "name": "red_claw_artifact"
     },
     {
@@ -2989,8 +2989,8 @@
     },
     {
         "ac": true,
-        "hi": 1300000,
-        "low": 1000000,
+        "hi": 13000000,
+        "low": 10000000,
         "name": "snowman_pet"
     },
     {
@@ -3028,5 +3028,11 @@
         "hi": 500,
         "low": 500,
         "name": "magic_find_ii_potion"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 30000,
+        "name": "fire_talisman"
     }
 ]
