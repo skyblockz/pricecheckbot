@@ -400,6 +400,13 @@
                     2500
                 ]
             },
+            "critical_iv_potion": {
+                "from": null,
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": null,
                 "to": [
@@ -498,7 +505,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "333214758436208640": {
         "modification_history": {
