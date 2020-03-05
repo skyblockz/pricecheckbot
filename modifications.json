@@ -852,6 +852,16 @@
                     30000000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    115000
+                ]
+            },
             "enchanted_clay": {
                 "from": [
                     160,
@@ -1102,7 +1112,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "420437729696808962": {
         "modification_history": {},
