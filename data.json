@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 620000,
-        "low": 545000,
+        "hi": 700000,
+        "low": 550000,
         "name": "summoning_eye"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
         "ac": true,
-        "hi": 28000,
-        "low": 25000,
+        "hi": 25000,
+        "low": 22000,
         "name": "strong_dragon_fragment"
     },
     {
         "ac": true,
         "hi": 165000,
-        "low": 150000,
+        "low": 155000,
         "name": "superior_dragon_fragment"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 80000,
+        "hi": 100000,
+        "low": 90000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -199,8 +199,8 @@
     },
     {
         "ac": true,
-        "hi": 402000,
-        "low": 345000,
+        "hi": 320000,
+        "low": 280000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -265,8 +265,8 @@
     },
     {
         "ac": true,
-        "hi": 475000,
-        "low": 400000,
+        "hi": 400000,
+        "low": 360000,
         "name": "super_compactor_3000"
     },
     {
@@ -889,8 +889,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 75000,
+        "hi": 135000,
+        "low": 125000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -901,8 +901,8 @@
     },
     {
         "ac": true,
-        "hi": 36000,
-        "low": 27000,
+        "hi": 45000,
+        "low": 30000,
         "name": "feather_artifact"
     },
     {
@@ -1123,8 +1123,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 60000,
+        "hi": 100000,
+        "low": 70000,
         "name": "hot_potato_book"
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
         "ac": true,
-        "hi": 16000,
-        "low": 14000,
+        "hi": 20000,
+        "low": 15000,
         "name": "crystal_fragment"
     },
     {
@@ -1489,8 +1489,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 750,
+        "hi": 2400,
+        "low": 2000,
         "name": "old_dragon_fragment"
     },
     {
@@ -1561,8 +1561,8 @@
     },
     {
         "ac": true,
-        "hi": 5500,
-        "low": 4500,
+        "hi": 7000,
+        "low": 6000,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -1616,7 +1616,7 @@
     {
         "ac": true,
         "hi": 2500,
-        "low": 2500,
+        "low": 2000,
         "name": "wise_dragon_fragment"
     },
     {
@@ -1981,8 +1981,8 @@
     },
     {
         "ac": true,
-        "hi": 5100,
-        "low": 5100,
+        "hi": 7000,
+        "low": 5000,
         "name": "young_dragon_fragment"
     },
     {
@@ -2041,8 +2041,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 1200,
+        "hi": 8000,
+        "low": 6000,
         "name": "grappling_hook"
     },
     {
@@ -2191,8 +2191,8 @@
     },
     {
         "ac": true,
-        "hi": 1750,
-        "low": 1000,
+        "hi": 2300,
+        "low": 2000,
         "name": "protector_dragon_fragment"
     },
     {
@@ -2617,14 +2617,14 @@
     },
     {
         "ac": true,
-        "hi": 820000,
+        "hi": 600000,
         "low": 500000,
         "name": "super_enchanted_egg"
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4000,
+        "hi": 8000,
+        "low": 2000,
         "name": "enchanted_egg"
     },
     {
@@ -2920,5 +2920,11 @@
         "hi": 650,
         "low": 650,
         "name": "miner_boots"
+    },
+    {
+        "ac": true,
+        "hi": 2500,
+        "low": 1000,
+        "name": "jungle_axe"
     }
 ]
