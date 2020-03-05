@@ -49,6 +49,16 @@
                     100000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    75000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    135000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     27000,
@@ -180,7 +190,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "289122035005652992": {
         "modification_history": {},
