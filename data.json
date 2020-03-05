@@ -895,8 +895,8 @@
     },
     {
         "ac": true,
-        "hi": 1250,
-        "low": 625,
+        "hi": 487,
+        "low": 487,
         "name": "enchanted_feather"
     },
     {
@@ -967,8 +967,8 @@
     },
     {
         "ac": true,
-        "hi": 2066,
-        "low": 1562,
+        "hi": 3750,
+        "low": 3750,
         "name": "enchanted_raw_chicken"
     },
     {
@@ -1555,8 +1555,8 @@
     },
     {
         "ac": true,
-        "hi": 870000,
-        "low": 670000,
+        "hi": 450000,
+        "low": 175000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -2761,8 +2761,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 2000,
+        "hi": 1420,
+        "low": 1420,
         "name": "enchanted_sponge"
     },
     {
@@ -2896,5 +2896,11 @@
         "hi": 30000000,
         "low": 30000000,
         "name": "elegant_tuxedo_jacket"
+    },
+    {
+        "ac": true,
+        "hi": 700,
+        "low": 700,
+        "name": "miner_helmet"
     }
 ]
