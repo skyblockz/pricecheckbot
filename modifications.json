@@ -49,6 +49,16 @@
                     100000
                 ]
             },
+            "grappling_hook": {
+                "from": [
+                    1200,
+                    2000
+                ],
+                "to": [
+                    6000,
+                    8000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     60000,
@@ -160,7 +170,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "289122035005652992": {
         "modification_history": {},
