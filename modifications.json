@@ -49,6 +49,16 @@
                     8000
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    95000,
+                    115000
+                ],
+                "to": [
+                    160000,
+                    200000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     345000,
@@ -227,7 +237,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "289122035005652992": {
         "modification_history": {},
