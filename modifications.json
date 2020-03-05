@@ -452,6 +452,13 @@
                     200000
                 ]
             },
+            "game_breaker": {
+                "from": null,
+                "to": [
+                    20000000,
+                    50000000
+                ]
+            },
             "grinch_minion_skin": {
                 "from": null,
                 "to": [
@@ -526,7 +533,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "333214758436208640": {
         "modification_history": {
