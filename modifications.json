@@ -386,6 +386,13 @@
     },
     "308262271262654464": {
         "modification_history": {
+            "beacon_block": {
+                "from": null,
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "challenging_rod": {
                 "from": null,
                 "to": [
@@ -533,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "333214758436208640": {
         "modification_history": {
