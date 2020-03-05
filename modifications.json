@@ -501,14 +501,17 @@
     "333214758436208640": {
         "modification_history": {
             "snowman_pet": {
-                "from": null,
-                "to": [
+                "from": [
                     1000000,
                     1300000
+                ],
+                "to": [
+                    10000000,
+                    13000000
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "339820544851574784": {
         "modification_history": {
