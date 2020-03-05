@@ -496,6 +496,16 @@
                     97250
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    100000,
+                    185000
+                ],
+                "to": [
+                    75000,
+                    175000
+                ]
+            },
             "polished_pebble": {
                 "from": null,
                 "to": [
@@ -511,7 +521,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "420437729696808962": {
         "modification_history": {},
