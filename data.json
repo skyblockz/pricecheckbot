@@ -3010,5 +3010,11 @@
         "hi": 150000,
         "low": 80000,
         "name": "magic_find_iv_potion"
+    },
+    {
+        "ac": true,
+        "hi": 80000,
+        "low": 50000,
+        "name": "critical_iv_potion"
     }
 ]
