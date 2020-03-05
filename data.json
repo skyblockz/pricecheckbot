@@ -3052,5 +3052,11 @@
         "hi": 400000,
         "low": 300000,
         "name": "challenging_rod"
+    },
+    {
+        "ac": true,
+        "hi": 50000000,
+        "low": 20000000,
+        "name": "game_breaker"
     }
 ]
