@@ -490,6 +490,13 @@
                     800000
                 ]
             },
+            "magic_find_i_potion": {
+                "from": null,
+                "to": [
+                    5000,
+                    25000
+                ]
+            },
             "magic_find_iv_potion": {
                 "from": null,
                 "to": [
@@ -505,7 +512,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "333214758436208640": {
         "modification_history": {
