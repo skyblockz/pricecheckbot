@@ -19,6 +19,16 @@
                     8000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    80000,
+                    120000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     60000,
@@ -60,7 +70,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "289122035005652992": {
         "modification_history": {},
