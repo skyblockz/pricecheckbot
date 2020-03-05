@@ -393,6 +393,13 @@
                     250
                 ]
             },
+            "critical_iii_potion": {
+                "from": null,
+                "to": [
+                    500,
+                    2500
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": null,
                 "to": [
@@ -484,7 +491,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "333214758436208640": {
         "modification_history": {
