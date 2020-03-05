@@ -1202,14 +1202,17 @@
                 ]
             },
             "skeleton_horse": {
-                "from": null,
-                "to": [
+                "from": [
                     5000000,
                     6000000
+                ],
+                "to": [
+                    6000000,
+                    7000000
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "508337831798636544": {
         "modification_history": {
