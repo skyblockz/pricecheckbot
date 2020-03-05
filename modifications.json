@@ -79,6 +79,16 @@
                     200000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    250000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     345000,
@@ -257,7 +267,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "289122035005652992": {
         "modification_history": {},
