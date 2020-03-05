@@ -487,10 +487,13 @@
                 ]
             },
             "enchanted_sponge": {
-                "from": null,
-                "to": [
+                "from": [
                     2000,
                     2000
+                ],
+                "to": [
+                    1420,
+                    1420
                 ]
             },
             "ender_pearl": {
@@ -548,7 +551,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "420437729696808962": {
         "modification_history": {},
