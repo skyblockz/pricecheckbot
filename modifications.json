@@ -1381,10 +1381,13 @@
                 ]
             },
             "enchanted_ink": {
-                "from": null,
-                "to": [
+                "from": [
                     30000,
                     400000
+                ],
+                "to": [
+                    30000,
+                    40000
                 ]
             },
             "fancy_tuxedo_jacket": {
@@ -1489,7 +1492,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "508337831798636544": {
         "modification_history": {
