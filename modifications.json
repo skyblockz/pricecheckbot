@@ -1238,6 +1238,16 @@
                     125000
                 ]
             },
+            "legendary_chicken_pet": {
+                "from": [
+                    5500000,
+                    6500000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
             "pigman": {
                 "from": null,
                 "to": [
@@ -1293,7 +1303,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "508337831798636544": {
         "modification_history": {
