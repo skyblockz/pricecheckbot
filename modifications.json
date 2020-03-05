@@ -1277,10 +1277,13 @@
                 ]
             },
             "fancy_tuxedo_pants": {
-                "from": null,
-                "to": [
+                "from": [
                     43000000,
                     43000000
+                ],
+                "to": [
+                    4300000,
+                    4300000
                 ]
             },
             "golden_tooth": {
@@ -1358,7 +1361,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "508337831798636544": {
         "modification_history": {
