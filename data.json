@@ -1352,7 +1352,7 @@
     {
         "ac": true,
         "hi": 20000,
-        "low": 15000,
+        "low": 20000,
         "name": "crystal_fragment"
     },
     {
@@ -2659,8 +2659,8 @@
     },
     {
         "ac": true,
-        "hi": 6500000,
-        "low": 5500000,
+        "hi": 3000000,
+        "low": 2000000,
         "name": "legendary_chicken_pet"
     },
     {
@@ -2863,8 +2863,8 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 34000000,
+        "hi": 34000000,
+        "low": 30000000,
         "name": "legendary_turtle_pet"
     },
     {
@@ -2950,5 +2950,11 @@
         "hi": 32000000,
         "low": 32000000,
         "name": "turtle"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 300000,
+        "name": "Cheap_tuxedo_jacket"
     }
 ]
