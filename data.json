@@ -697,7 +697,7 @@
     },
     {
         "ac": true,
-        "hi": 100000,
+        "hi": 115000,
         "low": 80000,
         "name": "enchanted_baked_potato"
     },
@@ -3034,5 +3034,11 @@
         "hi": 50000,
         "low": 30000,
         "name": "fire_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 400000,
+        "low": 30000,
+        "name": "enchanted_ink"
     }
 ]
