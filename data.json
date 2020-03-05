@@ -3037,7 +3037,7 @@
     },
     {
         "ac": true,
-        "hi": 40000,
+        "hi": 30000,
         "low": 30000,
         "name": "enchanted_ink"
     },
@@ -3046,5 +3046,11 @@
         "hi": 9000000,
         "low": 6500000,
         "name": "squid"
+    },
+    {
+        "ac": true,
+        "hi": 400000,
+        "low": 300000,
+        "name": "challenging_rod"
     }
 ]
