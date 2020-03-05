@@ -389,9 +389,19 @@
                     4000,
                     5000
                 ]
+            },
+            "overflux_capacitor": {
+                "from": [
+                    68000000,
+                    80000000
+                ],
+                "to": [
+                    55000000,
+                    55000000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "308262271262654464": {
         "modification_history": {
