@@ -2941,12 +2941,6 @@
     },
     {
         "ac": true,
-        "hi": 13000000,
-        "low": 11500000,
-        "name": "pigman"
-    },
-    {
-        "ac": true,
         "hi": 32000000,
         "low": 32000000,
         "name": "turtle"
@@ -3088,5 +3082,17 @@
         "hi": 50,
         "low": 50,
         "name": "plumbers_sponge"
+    },
+    {
+        "ac": true,
+        "hi": 13000000,
+        "low": 11500000,
+        "name": "legendary_pigman"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 30000,
+        "name": "tiger"
     }
 ]
