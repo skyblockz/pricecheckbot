@@ -19,8 +19,8 @@
     },
     {
         "ac": true,
-        "hi": 487,
-        "low": 487,
+        "hi": 546,
+        "low": 546,
         "name": "wolf_tooth"
     },
     {
@@ -271,8 +271,8 @@
     },
     {
         "ac": true,
-        "hi": 1920,
-        "low": 1920,
+        "hi": 800,
+        "low": 800,
         "name": "enchanted_cobblestone"
     },
     {
@@ -890,7 +890,7 @@
     {
         "ac": true,
         "hi": 135000,
-        "low": 125000,
+        "low": 120000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -1075,7 +1075,7 @@
     },
     {
         "ac": true,
-        "hi": 39000000,
+        "hi": 35000000,
         "low": 30000000,
         "name": "hunter_ring"
     },
@@ -1124,7 +1124,7 @@
     {
         "ac": true,
         "hi": 100000,
-        "low": 70000,
+        "low": 69000,
         "name": "hot_potato_book"
     },
     {
@@ -1249,8 +1249,8 @@
     },
     {
         "ac": true,
-        "hi": 7500000,
-        "low": 6500000,
+        "hi": 7100000,
+        "low": 5900000,
         "name": "giant_killer_vi"
     },
     {
@@ -1339,14 +1339,14 @@
     },
     {
         "ac": true,
-        "hi": 9200000,
-        "low": 8500000,
+        "hi": 8000000,
+        "low": 8000000,
         "name": "ender_artifact"
     },
     {
         "ac": true,
         "hi": 7666666,
-        "low": 7150000,
+        "low": 6300000,
         "name": "tarantula_talisman"
     },
     {
@@ -1375,8 +1375,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 175000,
+        "hi": 500000,
+        "low": 350000,
         "name": "critical_vi"
     },
     {
@@ -1393,8 +1393,8 @@
     },
     {
         "ac": true,
-        "hi": 1650000,
-        "low": 1100000,
+        "hi": 1100000,
+        "low": 900000,
         "name": "bat_artifact"
     },
     {
@@ -1495,8 +1495,8 @@
     },
     {
         "ac": true,
-        "hi": 30000,
-        "low": 20000,
+        "hi": 200000,
+        "low": 100000,
         "name": "smite_vi"
     },
     {
@@ -2059,8 +2059,8 @@
     },
     {
         "ac": true,
-        "hi": 115000,
-        "low": 90000,
+        "hi": 130000,
+        "low": 110000,
         "name": "enchanted_fermented_spider_eye"
     },
     {
@@ -2852,7 +2852,7 @@
     {
         "ac": true,
         "hi": 26000000,
-        "low": 25000000,
+        "low": 22000000,
         "name": "epic_parrot_pet"
     },
     {
@@ -3106,5 +3106,11 @@
         "hi": 155000000,
         "low": 155000000,
         "name": "legendary_phoenix"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 3000000,
+        "name": "ink_wand"
     }
 ]
