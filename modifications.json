@@ -606,6 +606,16 @@
                     8000000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    100000,
+                    125000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "giant_killer_vi": {
                 "from": [
                     6500000,
@@ -677,7 +687,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "339820544851574784": {
         "modification_history": {
