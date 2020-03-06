@@ -3064,5 +3064,11 @@
         "hi": 700000,
         "low": 500000,
         "name": "beacon_block"
+    },
+    {
+        "ac": true,
+        "hi": 12500,
+        "low": 1000,
+        "name": "silverfish_pet"
     }
 ]
