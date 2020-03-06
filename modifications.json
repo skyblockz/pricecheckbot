@@ -544,6 +544,16 @@
     },
     "333214758436208640": {
         "modification_history": {
+            "critical_vi": {
+                "from": [
+                    175000,
+                    350000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     8600,
@@ -565,7 +575,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "339820544851574784": {
         "modification_history": {
