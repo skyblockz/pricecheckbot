@@ -1,8 +1,4 @@
 {
-    "181297673318563840": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "267523838106009611": {
         "modification_history": {
             "aspect_of_the_dragons": {
@@ -345,10 +341,6 @@
         },
         "total_mods": 34
     },
-    "289122035005652992": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "298613178601046017": {
         "modification_history": {
             "clay": {
@@ -634,6 +626,16 @@
                     13000000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    370000,
+                    400000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     487,
@@ -645,7 +647,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "339820544851574784": {
         "modification_history": {
@@ -1278,10 +1280,6 @@
         "modification_history": {},
         "total_mods": 0
     },
-    "420437729696808962": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "437305878257860608": {
         "modification_history": {
             "aspect_of_the_dragons": {
@@ -1671,39 +1669,6 @@
             }
         },
         "total_mods": 27
-    },
-    "508337831798636544": {
-        "modification_history": {
-            "feather_ring": {
-                "from": null,
-                "to": [
-                    1800,
-                    5000
-                ]
-            },
-            "feather_talisman": {
-                "from": null,
-                "to": [
-                    160,
-                    500
-                ]
-            },
-            "magic_find_iv": {
-                "from": null,
-                "to": [
-                    250000,
-                    450000
-                ]
-            },
-            "zombie_ring": {
-                "from": null,
-                "to": [
-                    10000,
-                    35000
-                ]
-            }
-        },
-        "total_mods": 4
     },
     "508529699098591242": {
         "modification_history": {},
