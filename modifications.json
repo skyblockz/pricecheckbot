@@ -59,6 +59,16 @@
                     1000
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    325000,
+                    425000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     3000,
@@ -138,7 +148,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
