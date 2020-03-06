@@ -152,7 +152,7 @@
     {
         "ac": true,
         "hi": 100000,
-        "low": 90000,
+        "low": 70000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 370000,
+        "hi": 300000,
+        "low": 250000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
         "ac": true,
-        "hi": 1750000,
-        "low": 1250000,
+        "hi": 1400000,
+        "low": 11500000,
         "name": "sea_creature_artifact"
     },
     {
@@ -1411,8 +1411,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 65000,
+        "hi": 100000,
+        "low": 50000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -2053,8 +2053,8 @@
     },
     {
         "ac": true,
-        "hi": 55000000,
-        "low": 46000000,
+        "hi": 46000000,
+        "low": 32200000,
         "name": "reaper_scythe"
     },
     {
@@ -2119,8 +2119,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 100000,
+        "hi": 200000,
+        "low": 150000,
         "name": "fish_affinity_talisman"
     },
     {
@@ -3031,8 +3031,8 @@
     },
     {
         "ac": true,
-        "hi": 30000,
-        "low": 30000,
+        "hi": 36000,
+        "low": 36000,
         "name": "enchanted_ink"
     },
     {
@@ -3112,5 +3112,11 @@
         "hi": 3000000,
         "low": 3000000,
         "name": "ink_wand"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 4000000,
+        "name": "wither_skeleton"
     }
 ]
