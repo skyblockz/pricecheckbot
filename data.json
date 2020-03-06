@@ -319,12 +319,6 @@
     },
     {
         "ac": true,
-        "hi": 165000,
-        "low": 120000,
-        "name": "enchanted_coal_block"
-    },
-    {
-        "ac": true,
         "hi": 480,
         "low": 480,
         "name": "enchanted_iron"
@@ -2941,6 +2935,12 @@
     },
     {
         "ac": true,
+        "hi": 13000000,
+        "low": 11500000,
+        "name": "legendary_pigman"
+    },
+    {
+        "ac": true,
         "hi": 32000000,
         "low": 32000000,
         "name": "turtle"
@@ -2986,173 +2986,5 @@
         "hi": 13000000,
         "low": 10000000,
         "name": "snowman_pet"
-    },
-    {
-        "ac": true,
-        "hi": 1300,
-        "low": 1200,
-        "name": "enchanted_endstone"
-    },
-    {
-        "ac": true,
-        "hi": 2500,
-        "low": 500,
-        "name": "critical_iii_potion"
-    },
-    {
-        "ac": true,
-        "hi": 150000,
-        "low": 80000,
-        "name": "magic_find_iv_potion"
-    },
-    {
-        "ac": true,
-        "hi": 80000,
-        "low": 50000,
-        "name": "critical_iv_potion"
-    },
-    {
-        "ac": true,
-        "hi": 25000,
-        "low": 5000,
-        "name": "magic_find_i_potion"
-    },
-    {
-        "ac": true,
-        "hi": 500,
-        "low": 500,
-        "name": "magic_find_ii_potion"
-    },
-    {
-        "ac": true,
-        "hi": 50000,
-        "low": 30000,
-        "name": "fire_talisman"
-    },
-    {
-        "ac": true,
-        "hi": 36000,
-        "low": 36000,
-        "name": "enchanted_ink"
-    },
-    {
-        "ac": true,
-        "hi": 9000000,
-        "low": 6500000,
-        "name": "squid"
-    },
-    {
-        "ac": true,
-        "hi": 400000,
-        "low": 300000,
-        "name": "challenging_rod"
-    },
-    {
-        "ac": true,
-        "hi": 50000000,
-        "low": 20000000,
-        "name": "game_breaker"
-    },
-    {
-        "ac": true,
-        "hi": 700000,
-        "low": 500000,
-        "name": "beacon_block"
-    },
-    {
-        "ac": true,
-        "hi": 12500,
-        "low": 1000,
-        "name": "silverfish_pet"
-    },
-    {
-        "ac": true,
-        "hi": 9000000,
-        "low": 7500000,
-        "name": "legendary_flying_fish_pet"
-    },
-    {
-        "ac": true,
-        "hi": 12000000,
-        "low": 11000000,
-        "name": "legendary_guardian_pet"
-    },
-    {
-        "ac": true,
-        "hi": 50,
-        "low": 50,
-        "name": "plumbers_sponge"
-    },
-    {
-        "ac": true,
-        "hi": 13000000,
-        "low": 11500000,
-        "name": "legendary_pigman"
-    },
-    {
-        "ac": true,
-        "hi": 150000,
-        "low": 30000,
-        "name": "tiger"
-    },
-    {
-        "ac": true,
-        "hi": 17000000,
-        "low": 12000000,
-        "name": "epic_phoenix"
-    },
-    {
-        "ac": true,
-        "hi": 155000000,
-        "low": 155000000,
-        "name": "legendary_phoenix"
-    },
-    {
-        "ac": true,
-        "hi": 3000000,
-        "low": 3000000,
-        "name": "ink_wand"
-    },
-    {
-        "ac": true,
-        "hi": 300000,
-        "low": 300000,
-        "name": "epic_wither_skeleton"
-    },
-    {
-        "ac": true,
-        "hi": 2000000,
-        "low": 1500000,
-        "name": "mystery_wither_skeleton"
-    },
-    {
-        "ac": true,
-        "hi": 1000,
-        "low": 1000,
-        "name": "uncommon_horse_pet"
-    },
-    {
-        "ac": true,
-        "hi": 5000,
-        "low": 5000,
-        "name": "rare_horse_pet"
-    },
-    {
-        "ac": true,
-        "hi": 250000,
-        "low": 200000,
-        "name": "epic_horse_pet"
-    },
-    {
-        "ac": true,
-        "hi": 1000,
-        "low": 50,
-        "name": "combat_xp_boost_i"
-    },
-    {
-        "ac": true,
-        "hi": 300000000,
-        "low": 300000000,
-        "name": "legendary_enderdragon_pet"
     }
 ]
