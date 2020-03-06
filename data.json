@@ -1177,8 +1177,8 @@
     },
     {
         "ac": true,
-        "hi": 96000000,
-        "low": 84000000,
+        "hi": 85000000,
+        "low": 69000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1585,8 +1585,8 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 7000000,
+        "hi": 6500000,
+        "low": 5000000,
         "name": "thick_scorpion_foil"
     },
     {
@@ -2083,8 +2083,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 325000,
+        "hi": 230000,
+        "low": 200000,
         "name": "emperors_skull"
     },
     {
@@ -2257,8 +2257,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 120000,
+        "hi": 10000,
+        "low": 500,
         "name": "spider_ring"
     },
     {
@@ -2689,8 +2689,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 3000,
+        "hi": 6000,
+        "low": 5000,
         "name": "enchanted_mutton"
     },
     {
@@ -3128,12 +3128,6 @@
     {
         "ac": true,
         "hi": 1000,
-        "low": 50,
-        "name": "combat_xp_boost_I"
-    },
-    {
-        "ac": true,
-        "hi": 1000,
         "low": 1000,
         "name": "uncommon_horse_pet"
     },
@@ -3148,5 +3142,17 @@
         "hi": 250000,
         "low": 200000,
         "name": "epic_horse_pet"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 50,
+        "name": "combat_xp_boost_i"
+    },
+    {
+        "ac": true,
+        "hi": 300000000,
+        "low": 300000000,
+        "name": "legendary_enderdragon_pet"
     }
 ]
