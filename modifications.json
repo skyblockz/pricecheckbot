@@ -59,6 +59,13 @@
                     1000
                 ]
             },
+            "epic_horse_pet": {
+                "from": null,
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "epic_wither_skeleton": {
                 "from": null,
                 "to": [
@@ -91,7 +98,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
