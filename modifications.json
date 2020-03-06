@@ -100,6 +100,16 @@
                     10000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    7000000,
+                    8000000
+                ],
+                "to": [
+                    5000000,
+                    6500000
+                ]
+            },
             "uncommon_horse_pet": {
                 "from": null,
                 "to": [
@@ -118,7 +128,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "614661627513536526": {
         "modification_history": {},
