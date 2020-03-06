@@ -1098,6 +1098,13 @@
                     500
                 ]
             },
+            "silverfish_pet": {
+                "from": null,
+                "to": [
+                    1000,
+                    12500
+                ]
+            },
             "sponge": {
                 "from": null,
                 "to": [
@@ -1133,7 +1140,11 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
+    },
+    "412046616934088714": {
+        "modification_history": {},
+        "total_mods": 0
     },
     "420437729696808962": {
         "modification_history": {},
