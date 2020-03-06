@@ -3127,8 +3127,14 @@
     },
     {
         "ac": true,
-        "hi": 10000,
+        "hi": 1000,
         "low": 50,
         "name": "combat_xp_boost_I"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 1000,
+        "name": "uncommon_horse_pet"
     }
 ]
