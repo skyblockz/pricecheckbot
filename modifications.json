@@ -20,8 +20,19 @@
         "total_mods": 10
     },
     "339820544851574784": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "wither_artifact": {
+                "from": [
+                    10500000,
+                    11500000
+                ],
+                "to": [
+                    11000000,
+                    12500000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "351251469250461697": {
         "modification_history": {},
