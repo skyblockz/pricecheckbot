@@ -50,10 +50,13 @@
     "497643063020355604": {
         "modification_history": {
             "combat_xp_boost_I": {
-                "from": null,
-                "to": [
+                "from": [
                     50,
                     10000
+                ],
+                "to": [
+                    50,
+                    1000
                 ]
             },
             "epic_wither_skeleton": {
@@ -74,7 +77,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "614661627513536526": {
         "modification_history": {},
