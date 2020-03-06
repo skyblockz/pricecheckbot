@@ -66,6 +66,13 @@
                     300000
                 ]
             },
+            "rare_horse_pet": {
+                "from": null,
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
             "uncommon_horse_pet": {
                 "from": null,
                 "to": [
@@ -84,7 +91,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "614661627513536526": {
         "modification_history": {},
