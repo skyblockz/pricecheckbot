@@ -586,6 +586,16 @@
                     15000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    65000,
+                    95000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     8500000,
@@ -657,7 +667,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "339820544851574784": {
         "modification_history": {
@@ -1105,10 +1115,6 @@
         },
         "total_mods": 36
     },
-    "412046616934088714": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "437305878257860608": {
         "modification_history": {
             "aspect_of_the_dragons": {
@@ -1498,10 +1504,6 @@
             }
         },
         "total_mods": 27
-    },
-    "508529699098591242": {
-        "modification_history": {},
-        "total_mods": 0
     },
     "614661627513536526": {
         "modification_history": {},
