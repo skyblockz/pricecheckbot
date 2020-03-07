@@ -79,6 +79,16 @@
                     500000
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    1820,
+                    1820
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     550000,
@@ -90,7 +100,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "437305878257860608": {
         "modification_history": {},
