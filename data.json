@@ -901,7 +901,7 @@
     },
     {
         "ac": true,
-        "hi": 640,
+        "hi": 1430,
         "low": 640,
         "name": "enchanted_raw_beef"
     },
@@ -913,8 +913,8 @@
     },
     {
         "ac": true,
-        "hi": 1820,
-        "low": 1820,
+        "hi": 14375,
+        "low": 6500,
         "name": "enchanted_leather"
     },
     {
@@ -3010,5 +3010,11 @@
         "hi": 300000,
         "low": 256000,
         "name": "enchanted_cooked_fish"
+    },
+    {
+        "ac": true,
+        "hi": 1850000,
+        "low": 1000000,
+        "name": "zombie_chestplate"
     }
 ]
