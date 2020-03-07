@@ -2995,8 +2995,14 @@
     },
     {
         "ac": true,
-        "hi": 8500000,
-        "low": 11750000,
+        "hi": 11750000,
+        "low": 8500000,
         "name": "legendary_guardian_pet"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 3500000,
+        "name": "epic_guardian_pet"
     }
 ]
