@@ -2803,8 +2803,8 @@
     },
     {
         "ac": true,
-        "hi": 133000000,
-        "low": 1050000,
+        "hi": 155000000,
+        "low": 155000000,
         "name": "legendary_phoenix_pet"
     },
     {
@@ -3028,5 +3028,11 @@
         "hi": 10000,
         "low": 1250,
         "name": "bane_of_arthropods_vi"
+    },
+    {
+        "ac": true,
+        "hi": 17500000,
+        "low": 10500000,
+        "name": "epic_phoenix_pet"
     }
 ]
