@@ -31,6 +31,16 @@
                     750
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    550000
+                ]
+            },
             "lightning_rune_i": {
                 "from": [
                     5000,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "267523838106009611": {
         "modification_history": {},
