@@ -178,6 +178,16 @@
                     1820
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    25000,
+                    70000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     550000,
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "437305878257860608": {
         "modification_history": {
