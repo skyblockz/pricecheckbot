@@ -43,7 +43,7 @@
     },
     {
         "ac": true,
-        "hi": 5300000,
+        "hi": 5000000,
         "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
@@ -2839,8 +2839,8 @@
     },
     {
         "ac": true,
-        "hi": 39000000,
-        "low": 36800000,
+        "hi": 50600000,
+        "low": 44000000,
         "name": "epic_ender_dragon_pet"
     },
     {
@@ -3040,5 +3040,11 @@
         "hi": 330000000,
         "low": 295000000,
         "name": "legendary_ender_dragon_pet"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 500,
+        "name": "prismarine_shard"
     }
 ]
