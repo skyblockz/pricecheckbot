@@ -2179,8 +2179,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 80000,
+        "hi": 135000,
+        "low": 95000,
         "name": "protector_dragon_chestplate"
     },
     {
@@ -2617,8 +2617,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 500000,
+        "hi": 550000,
+        "low": 485000,
         "name": "super_enchanted_egg"
     },
     {
@@ -2749,8 +2749,8 @@
     },
     {
         "ac": true,
-        "hi": 250,
-        "low": 250,
+        "hi": 256,
+        "low": 256,
         "name": "clay_minion"
     },
     {
@@ -3160,5 +3160,11 @@
         "hi": 10,
         "low": 10,
         "name": "web"
+    },
+    {
+        "ac": true,
+        "hi": 1437,
+        "low": 1437,
+        "name": "enchanted_bone"
     }
 ]
