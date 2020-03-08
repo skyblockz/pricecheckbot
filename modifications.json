@@ -358,6 +358,13 @@
                     3500000
                 ]
             },
+            "medium_storage": {
+                "from": null,
+                "to": [
+                    6400,
+                    6500
+                ]
+            },
             "mystery_wither_skeleton": {
                 "from": null,
                 "to": [
@@ -366,7 +373,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "497643063020355604": {
         "modification_history": {},
