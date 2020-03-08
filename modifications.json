@@ -198,6 +198,16 @@
                     70000
                 ]
             },
+            "pumpkin_boots": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    100,
+                    300
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     575000,
@@ -216,7 +226,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "437305878257860608": {
         "modification_history": {
