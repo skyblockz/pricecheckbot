@@ -86,9 +86,12 @@
     "308262271262654464": {
         "modification_history": {
             "ink_wand": {
-                "from": null,
-                "to": [
+                "from": [
                     25000000,
+                    25000000
+                ],
+                "to": [
+                    2500000,
                     25000000
                 ]
             },
@@ -100,7 +103,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "333214758436208640": {
         "modification_history": {
