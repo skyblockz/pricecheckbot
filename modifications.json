@@ -245,6 +245,16 @@
                     300
                 ]
             },
+            "solar_panel": {
+                "from": [
+                    50000,
+                    80000
+                ],
+                "to": [
+                    70000,
+                    95000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     575000,
@@ -290,7 +300,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "437305878257860608": {
         "modification_history": {
