@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 625000,
-        "low": 575000,
+        "hi": 550000,
+        "low": 495000,
         "name": "summoning_eye"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4100000,
+        "hi": 6100000,
+        "low": 5300000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -691,8 +691,8 @@
     },
     {
         "ac": true,
-        "hi": 200,
-        "low": 50,
+        "hi": 300,
+        "low": 100,
         "name": "pumpkin_boots"
     },
     {
@@ -1339,8 +1339,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 20000,
+        "hi": 15000,
+        "low": 15000,
         "name": "crystal_fragment"
     },
     {
@@ -1537,8 +1537,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 450000,
+        "hi": 615000,
+        "low": 495000,
         "name": "unstable_dragon_helmet"
     },
     {
@@ -3058,5 +3058,11 @@
         "hi": 35000,
         "low": 15000,
         "name": "tiger_pet"
+    },
+    {
+        "ac": true,
+        "hi": 6500,
+        "low": 6400,
+        "name": "medium_storage"
     }
 ]
