@@ -178,6 +178,16 @@
                     500000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    15000,
+                    15000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     10000,
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "437305878257860608": {
         "modification_history": {
