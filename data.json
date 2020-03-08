@@ -1993,8 +1993,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 87000,
+        "hi": 105000,
+        "low": 90000,
         "name": "tarantula_silk"
     },
     {
@@ -2209,8 +2209,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 500000,
+        "hi": 517500,
+        "low": 450000,
         "name": "fly_swatter"
     },
     {
@@ -3070,5 +3070,11 @@
         "hi": 4,
         "low": 4,
         "name": "snow_block"
+    },
+    {
+        "ac": true,
+        "hi": 9950000,
+        "low": 8970000,
+        "name": "flycatcher"
     }
 ]
