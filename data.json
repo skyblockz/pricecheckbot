@@ -1045,8 +1045,8 @@
     },
     {
         "ac": true,
-        "hi": 615000,
-        "low": 500000,
+        "hi": 350000,
+        "low": 260000,
         "name": "unstable_dragon_boots"
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 750000,
+        "hi": 700000,
+        "low": 500000,
         "name": "unstable_dragon_leggings"
     },
     {
@@ -1537,14 +1537,14 @@
     },
     {
         "ac": true,
-        "hi": 615000,
-        "low": 495000,
+        "hi": 450000,
+        "low": 325000,
         "name": "unstable_dragon_helmet"
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 175000,
+        "hi": 750000,
+        "low": 425000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -3064,5 +3064,11 @@
         "hi": 6500,
         "low": 6400,
         "name": "medium_storage"
+    },
+    {
+        "ac": true,
+        "hi": 4,
+        "low": 4,
+        "name": "snow_block"
     }
 ]
