@@ -311,6 +311,16 @@
                     17500000
                 ]
             },
+            "fly_swatter": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    450000,
+                    517500
+                ]
+            },
             "grizzly_bait": {
                 "from": null,
                 "to": [
@@ -387,7 +397,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "466769036122783744": {
         "modification_history": {
