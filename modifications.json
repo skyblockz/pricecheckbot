@@ -51,6 +51,16 @@
                     20000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    300000,
+                    300000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     250000,
@@ -62,7 +72,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "267523838106009611": {
         "modification_history": {},
