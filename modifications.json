@@ -562,6 +562,16 @@
     },
     "497643063020355604": {
         "modification_history": {
+            "devour_ring": {
+                "from": [
+                    3600000,
+                    4100000
+                ],
+                "to": [
+                    3100000,
+                    3600000
+                ]
+            },
             "epic_pigman_pet": {
                 "from": null,
                 "to": [
@@ -590,7 +600,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "614661627513536526": {
         "modification_history": {},
