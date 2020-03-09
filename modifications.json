@@ -51,6 +51,16 @@
                     550000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    700000,
+                    850000
+                ],
+                "to": [
+                    100000,
+                    250000
+                ]
+            },
             "lightning_rune_i": {
                 "from": [
                     5000,
@@ -92,7 +102,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "267523838106009611": {
         "modification_history": {},
