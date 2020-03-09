@@ -61,6 +61,16 @@
                     250000
                 ]
             },
+            "legendary_phoenix_pet": {
+                "from": [
+                    1050000,
+                    133000000
+                ],
+                "to": [
+                    120000000,
+                    180000000
+                ]
+            },
             "lightning_rune_i": {
                 "from": [
                     5000,
@@ -102,7 +112,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "267523838106009611": {
         "modification_history": {},
