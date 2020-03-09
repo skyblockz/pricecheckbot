@@ -1561,8 +1561,8 @@
     },
     {
         "ac": true,
-        "hi": 7000,
-        "low": 6000,
+        "hi": 8950,
+        "low": 7500,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -3166,5 +3166,11 @@
         "hi": 1437,
         "low": 1437,
         "name": "enchanted_bone"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 50000,
+        "name": "epic_pigman_pet"
     }
 ]
