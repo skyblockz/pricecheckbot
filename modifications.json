@@ -572,6 +572,16 @@
                     3600000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    640000,
+                    750000
+                ],
+                "to": [
+                    850000,
+                    1000000
+                ]
+            },
             "epic_pigman_pet": {
                 "from": null,
                 "to": [
@@ -610,7 +620,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "614661627513536526": {
         "modification_history": {},
