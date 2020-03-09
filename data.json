@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 22000,
+        "hi": 27500,
+        "low": 23500,
         "name": "strong_dragon_fragment"
     },
     {
@@ -235,8 +235,8 @@
     },
     {
         "ac": true,
-        "hi": 470000,
-        "low": 360000,
+        "hi": 480000,
+        "low": 375000,
         "name": "wise_dragon_leggings"
     },
     {
@@ -547,8 +547,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 50000,
+        "hi": 95000,
+        "low": 70000,
         "name": "solar_panel"
     },
     {
@@ -1123,8 +1123,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 69000,
+        "hi": 105000,
+        "low": 70000,
         "name": "hot_potato_book"
     },
     {
@@ -2317,8 +2317,8 @@
     },
     {
         "ac": true,
-        "hi": 4200,
-        "low": 3500,
+        "hi": 5400,
+        "low": 3250,
         "name": "teleport_pad"
     },
     {
@@ -3166,5 +3166,11 @@
         "hi": 1437,
         "low": 1437,
         "name": "enchanted_bone"
+    },
+    {
+        "ac": true,
+        "hi": 69,
+        "low": 69,
+        "name": "chrai"
     }
 ]
