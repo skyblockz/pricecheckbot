@@ -150,6 +150,16 @@
                     8500000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    70000,
+                    105000
+                ],
+                "to": [
+                    112500,
+                    120000
+                ]
+            },
             "legendary_squid": {
                 "from": null,
                 "to": [
@@ -198,7 +208,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "308262271262654464": {
         "modification_history": {
