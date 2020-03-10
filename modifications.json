@@ -922,6 +922,16 @@
     },
     "640849699297034250": {
         "modification_history": {
+            "devour_ring": {
+                "from": [
+                    3600000,
+                    4100000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     450000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "664325814531391528": {
         "modification_history": {},
