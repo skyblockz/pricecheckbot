@@ -212,6 +212,16 @@
                     90000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    550000,
+                    700000
+                ],
+                "to": [
+                    598000,
+                    625000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     220,
@@ -233,7 +243,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "308262271262654464": {
         "modification_history": {
