@@ -141,10 +141,13 @@
                 ]
             },
             "epic_squid": {
-                "from": null,
-                "to": [
+                "from": [
                     8000000,
                     8000000
+                ],
+                "to": [
+                    8000000,
+                    8500000
                 ]
             },
             "legendary_squid": {
@@ -155,7 +158,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "308262271262654464": {
         "modification_history": {
