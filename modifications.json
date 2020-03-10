@@ -180,6 +180,16 @@
                     60000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    69000000,
+                    85000000
+                ],
+                "to": [
+                    69000000,
+                    73000000
+                ]
+            },
             "protection_vi": {
                 "from": [
                     2000000,
@@ -201,7 +211,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "298613178601046017": {
         "modification_history": {
