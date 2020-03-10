@@ -175,6 +175,16 @@
                     8500000
                 ]
             },
+            "green_gift": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    7000,
+                    16500
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     70000,
@@ -253,7 +263,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "308262271262654464": {
         "modification_history": {
