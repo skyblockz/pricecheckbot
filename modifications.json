@@ -812,6 +812,16 @@
                     575000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     200000,
@@ -833,7 +843,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "664325814531391528": {
         "modification_history": {},
