@@ -811,9 +811,19 @@
                     100000,
                     200000
                 ]
+            },
+            "green_candy": {
+                "from": [
+                    325,
+                    1150
+                ],
+                "to": [
+                    575,
+                    775
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "664325814531391528": {
         "modification_history": {},
