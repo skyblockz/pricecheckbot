@@ -170,6 +170,16 @@
                     4800000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    55000000,
+                    55000000
+                ],
+                "to": [
+                    50000000,
+                    60000000
+                ]
+            },
             "protection_vi": {
                 "from": [
                     2000000,
@@ -191,7 +201,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "298613178601046017": {
         "modification_history": {
