@@ -167,6 +167,16 @@
                     55
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    83000,
+                    90000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     220,
@@ -178,7 +188,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "308262271262654464": {
         "modification_history": {
