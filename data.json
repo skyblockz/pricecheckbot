@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 700000,
-        "low": 550000,
+        "hi": 625000,
+        "low": 598000,
         "name": "summoning_eye"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
         "ac": true,
-        "hi": 546,
-        "low": 546,
+        "hi": 127500,
+        "low": 120000,
         "name": "wolf_tooth"
     },
     {
@@ -31,8 +31,8 @@
     },
     {
         "ac": true,
-        "hi": 220,
-        "low": 220,
+        "hi": 105,
+        "low": 98,
         "name": "tarantula_web"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
         "ac": true,
-        "hi": 5300000,
+        "hi": 4900000,
         "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
@@ -277,8 +277,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 10000,
+        "hi": 600,
+        "low": 600,
         "name": "compactor"
     },
     {
@@ -1123,8 +1123,8 @@
     },
     {
         "ac": true,
-        "hi": 105000,
-        "low": 70000,
+        "hi": 120000,
+        "low": 112500,
         "name": "hot_potato_book"
     },
     {
@@ -1621,14 +1621,14 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 450,
+        "hi": 55,
+        "low": 50,
         "name": "revenant_flesh"
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 80000,
+        "hi": 90000,
+        "low": 83000,
         "name": "revenant_viscera"
     },
     {
@@ -2293,8 +2293,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 450000,
+        "hi": 575000,
+        "low": 500000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2720,7 +2720,7 @@
     {
         "ac": true,
         "hi": 200000,
-        "low": 200000,
+        "low": 100000,
         "name": "frozen_chicken"
     },
     {
@@ -2863,18 +2863,6 @@
     },
     {
         "ac": true,
-        "hi": 34000000,
-        "low": 30000000,
-        "name": "legendary_turtle_pet"
-    },
-    {
-        "ac": true,
-        "hi": 600000,
-        "low": 600000,
-        "name": "epic_turtle_pet"
-    },
-    {
-        "ac": true,
         "hi": 14500000,
         "low": 14500000,
         "name": "legendary_squid_pet"
@@ -2938,12 +2926,6 @@
         "hi": 30000000,
         "low": 25000000,
         "name": "Parrot"
-    },
-    {
-        "ac": true,
-        "hi": 32000000,
-        "low": 32000000,
-        "name": "turtle"
     },
     {
         "ac": true,
@@ -3163,7 +3145,7 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
+        "hi": 8500000,
         "low": 8000000,
         "name": "epic_squid"
     },
@@ -3172,5 +3154,17 @@
         "hi": 8500000,
         "low": 8500000,
         "name": "legendary_squid"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 600000,
+        "name": "epic_turtle"
+    },
+    {
+        "ac": true,
+        "hi": 34000000,
+        "low": 30000000,
+        "name": "legendary_turtle"
     }
 ]
