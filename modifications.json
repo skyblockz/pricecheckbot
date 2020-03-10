@@ -140,6 +140,16 @@
                     4900000
                 ]
             },
+            "giant_killer_vi": {
+                "from": [
+                    5900000,
+                    7100000
+                ],
+                "to": [
+                    5750000,
+                    6500000
+                ]
+            },
             "sharpness_vi": {
                 "from": [
                     8500000,
@@ -151,7 +161,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "298613178601046017": {
         "modification_history": {
