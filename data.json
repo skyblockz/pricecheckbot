@@ -121,8 +121,8 @@
     },
     {
         "ac": true,
-        "hi": 30000,
-        "low": 10000,
+        "hi": 15000,
+        "low": 9000,
         "name": "ember_rod"
     },
     {
@@ -1033,8 +1033,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 110000,
+        "hi": 117500,
+        "low": 105000,
         "name": "golden_tooth"
     },
     {
@@ -3304,5 +3304,11 @@
         "hi": 750000,
         "low": 750000,
         "name": "perfect_boots_tier_ii"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 250000,
+        "name": "new_years_cake_bag"
     }
 ]
