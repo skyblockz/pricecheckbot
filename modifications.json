@@ -170,6 +170,13 @@
                     4800000
                 ]
             },
+            "legendary_magma_pet": {
+                "from": null,
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     55000000,
@@ -231,7 +238,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "298613178601046017": {
         "modification_history": {
