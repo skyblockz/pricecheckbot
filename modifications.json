@@ -1089,16 +1089,16 @@
             },
             "toxic_arrow_poison": {
                 "from": [
-                    1800,
-                    2000
-                ],
-                "to": [
                     20000,
                     20000
+                ],
+                "to": [
+                    2000,
+                    2000
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "664325814531391528": {
         "modification_history": {},
