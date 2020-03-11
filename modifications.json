@@ -1086,9 +1086,19 @@
                     575,
                     775
                 ]
+            },
+            "toxic_arrow_poison": {
+                "from": [
+                    1800,
+                    2000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "664325814531391528": {
         "modification_history": {},
