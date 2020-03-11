@@ -1019,6 +1019,16 @@
                     100000
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    2340,
+                    3800
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     200000,
@@ -1040,7 +1050,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "664325814531391528": {
         "modification_history": {},
