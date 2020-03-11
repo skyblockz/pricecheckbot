@@ -1009,6 +1009,16 @@
                     575000
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    3600,
+                    4000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     70000,
@@ -1050,7 +1060,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "664325814531391528": {
         "modification_history": {},
