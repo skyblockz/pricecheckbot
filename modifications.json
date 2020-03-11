@@ -464,9 +464,12 @@
                 ]
             },
             "perfect_boots_tier_i": {
-                "from": null,
-                "to": [
+                "from": [
                     420000,
+                    420000
+                ],
+                "to": [
+                    370000,
                     420000
                 ]
             },
@@ -513,7 +516,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "333214758436208640": {
         "modification_history": {
