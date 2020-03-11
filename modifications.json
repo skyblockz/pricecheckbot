@@ -618,6 +618,16 @@
                     15000
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    10000,
+                    30000
+                ],
+                "to": [
+                    9000,
+                    15000
+                ]
+            },
             "enchanted_bone": {
                 "from": null,
                 "to": [
@@ -850,7 +860,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "437305878257860608": {
         "modification_history": {
