@@ -496,6 +496,16 @@
                     1820
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    55000,
+                    97500
+                ]
+            },
             "enchanted_string": {
                 "from": [
                     1796,
@@ -681,7 +691,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "437305878257860608": {
         "modification_history": {
