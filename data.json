@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 27500,
-        "low": 23500,
+        "hi": 25800,
+        "low": 21500,
         "name": "strong_dragon_fragment"
     },
     {
@@ -152,7 +152,7 @@
     {
         "ac": true,
         "hi": 100000,
-        "low": 70000,
+        "low": 50000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -199,8 +199,8 @@
     },
     {
         "ac": true,
-        "hi": 320000,
-        "low": 280000,
+        "hi": 330000,
+        "low": 295000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -1111,8 +1111,8 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8500000,
+        "hi": 11000000,
+        "low": 10000000,
         "name": "sharpness_vi"
     },
     {
@@ -1177,7 +1177,7 @@
     },
     {
         "ac": true,
-        "hi": 85000000,
+        "hi": 73000000,
         "low": 69000000,
         "name": "overflux_power_orb"
     },
@@ -1201,8 +1201,8 @@
     },
     {
         "ac": true,
-        "hi": 14500,
-        "low": 13500,
+        "hi": 8000,
+        "low": 6500,
         "name": "purple_candy"
     },
     {
@@ -1249,8 +1249,8 @@
     },
     {
         "ac": true,
-        "hi": 7100000,
-        "low": 5900000,
+        "hi": 6500000,
+        "low": 5750000,
         "name": "giant_killer_vi"
     },
     {
@@ -1399,8 +1399,8 @@
     },
     {
         "ac": true,
-        "hi": 4100000,
-        "low": 3600000,
+        "hi": 3500000,
+        "low": 2500000,
         "name": "devour_ring"
     },
     {
@@ -1573,8 +1573,8 @@
     },
     {
         "ac": true,
-        "hi": 6000,
-        "low": 5000,
+        "hi": 16500,
+        "low": 14500,
         "name": "green_gift"
     },
     {
@@ -1639,8 +1639,8 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 2800000,
+        "hi": 4800000,
+        "low": 3800000,
         "name": "growth_vi"
     },
     {
@@ -1981,8 +1981,8 @@
     },
     {
         "ac": true,
-        "hi": 7000,
-        "low": 5000,
+        "hi": 8000,
+        "low": 5750,
         "name": "young_dragon_fragment"
     },
     {
@@ -2053,8 +2053,8 @@
     },
     {
         "ac": true,
-        "hi": 46000000,
-        "low": 32200000,
+        "hi": 40000000,
+        "low": 30000000,
         "name": "reaper_scythe"
     },
     {
@@ -2173,8 +2173,8 @@
     },
     {
         "ac": true,
-        "hi": 2800000,
-        "low": 2000000,
+        "hi": 3250000,
+        "low": 2500000,
         "name": "protection_vi"
     },
     {
@@ -2221,8 +2221,8 @@
     },
     {
         "ac": true,
-        "hi": 1150,
-        "low": 325,
+        "hi": 1000,
+        "low": 750,
         "name": "green_candy"
     },
     {
@@ -2341,14 +2341,14 @@
     },
     {
         "ac": true,
-        "hi": 850000,
-        "low": 700000,
+        "hi": 300000,
+        "low": 100000,
         "name": "golden_powder"
     },
     {
         "ac": true,
-        "hi": 20000000,
-        "low": 17000000,
+        "hi": 17000000,
+        "low": 14000000,
         "name": "scythe_blade"
     },
     {
@@ -2389,8 +2389,8 @@
     },
     {
         "ac": true,
-        "hi": 55000000,
-        "low": 55000000,
+        "hi": 60000000,
+        "low": 50000000,
         "name": "overflux_capacitor"
     },
     {
@@ -2593,8 +2593,8 @@
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 781,
+        "low": 600,
         "name": "enchanted_snow_block"
     },
     {
@@ -3151,14 +3151,20 @@
     },
     {
         "ac": true,
+        "hi": 34000000,
+        "low": 30000000,
+        "name": "legendary_turtle"
+    },
+    {
+        "ac": true,
         "hi": 600000,
         "low": 600000,
         "name": "epic_turtle"
     },
     {
         "ac": true,
-        "hi": 34000000,
-        "low": 30000000,
-        "name": "legendary_turtle"
+        "hi": 1000000,
+        "low": 800000,
+        "name": "legendary_magma_pet"
     }
 ]
