@@ -395,10 +395,13 @@
                 ]
             },
             "cobblestone_minion_xi": {
-                "from": null,
-                "to": [
+                "from": [
                     460000,
                     460000
+                ],
+                "to": [
+                    240000,
+                    240000
                 ]
             },
             "ink_wand": {
@@ -440,7 +443,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "333214758436208640": {
         "modification_history": {
