@@ -711,6 +711,16 @@
                     170000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    55000,
+                    97500
+                ],
+                "to": [
+                    25000,
+                    25000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     660000,
@@ -732,7 +742,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "390661701046894592": {
         "modification_history": {
