@@ -21,6 +21,16 @@
                     10000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    18000,
+                    25000
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     800,
@@ -192,7 +202,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "267523838106009611": {
         "modification_history": {},
