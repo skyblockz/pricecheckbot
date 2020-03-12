@@ -121,6 +121,16 @@
                     5000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    5000000,
+                    6500000
+                ],
+                "to": [
+                    7000000,
+                    9500000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     250000,
@@ -132,7 +142,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "267523838106009611": {
         "modification_history": {},
