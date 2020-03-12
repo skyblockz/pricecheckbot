@@ -111,6 +111,16 @@
                     450000
                 ]
             },
+            "magic_find_iv": {
+                "from": [
+                    250000,
+                    450000
+                ],
+                "to": [
+                    100000,
+                    250000
+                ]
+            },
             "protector_dragon_leggings": {
                 "from": [
                     70000,
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "267523838106009611": {
         "modification_history": {},
