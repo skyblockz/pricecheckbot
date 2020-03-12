@@ -51,6 +51,16 @@
                     550000
                 ]
             },
+            "farmers_boots": {
+                "from": [
+                    250000,
+                    250000
+                ],
+                "to": [
+                    170000,
+                    250000
+                ]
+            },
             "golden_powder": {
                 "from": [
                     100000,
@@ -162,7 +172,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "267523838106009611": {
         "modification_history": {},
