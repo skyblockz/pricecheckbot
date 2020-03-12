@@ -61,6 +61,16 @@
                     250000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    75000,
+                    175000
+                ],
+                "to": [
+                    130000,
+                    350000
+                ]
+            },
             "legendary_phoenix_pet": {
                 "from": [
                     1050000,
@@ -122,7 +132,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "267523838106009611": {
         "modification_history": {},
