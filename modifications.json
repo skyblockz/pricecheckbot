@@ -795,6 +795,16 @@
                     48000000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "legendary_enderman_pet": {
                 "from": [
                     55000000,
@@ -846,7 +856,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "390661701046894592": {
         "modification_history": {
