@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 660000,
-        "low": 660000,
+        "hi": 670000,
+        "low": 550000,
         "name": "summoning_eye"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 97500,
-        "low": 55000,
+        "hi": 25000,
+        "low": 25000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -265,8 +265,8 @@
     },
     {
         "ac": true,
-        "hi": 515000,
-        "low": 475000,
+        "hi": 460000,
+        "low": 460000,
         "name": "super_compactor_3000"
     },
     {
@@ -565,8 +565,8 @@
     },
     {
         "ac": true,
-        "hi": 171000,
-        "low": 140000,
+        "hi": 170000,
+        "low": 100000,
         "name": "enchanted_glowstone"
     },
     {
@@ -1825,8 +1825,8 @@
     },
     {
         "ac": true,
-        "hi": 18000000,
-        "low": 17000000,
+        "hi": 12500000,
+        "low": 11500000,
         "name": "digested_mosquito"
     },
     {
@@ -2389,8 +2389,8 @@
     },
     {
         "ac": true,
-        "hi": 60000000,
-        "low": 50000000,
+        "hi": 65000000,
+        "low": 56000000,
         "name": "overflux_capacitor"
     },
     {
@@ -2827,8 +2827,8 @@
     },
     {
         "ac": true,
-        "hi": 62000000,
-        "low": 55000000,
+        "hi": 52000000,
+        "low": 42500000,
         "name": "legendary_enderman_pet"
     },
     {
@@ -2845,8 +2845,8 @@
     },
     {
         "ac": true,
-        "hi": 22000000,
-        "low": 22000000,
+        "hi": 25000000,
+        "low": 25000000,
         "name": "legendary_parrot_pet"
     },
     {
@@ -2857,8 +2857,8 @@
     },
     {
         "ac": true,
-        "hi": 39000000,
-        "low": 36800000,
+        "hi": 48000000,
+        "low": 45000000,
         "name": "epic_ender_dragon_pet"
     },
     {
@@ -2881,8 +2881,8 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 30000000,
+        "hi": 37500000,
+        "low": 36000000,
         "name": "elegant_tuxedo_jacket"
     },
     {
@@ -3322,5 +3322,11 @@
         "hi": 20000,
         "low": 20000,
         "name": "obsidian_chestplate"
+    },
+    {
+        "ac": true,
+        "hi": 20000000,
+        "low": 13000000,
+        "name": "elegant_tuxedo_pants"
     }
 ]
