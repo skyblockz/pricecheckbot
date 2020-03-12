@@ -980,6 +980,16 @@
                     5400000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    52000,
+                    65000
+                ]
+            },
             "challenging_rod": {
                 "from": null,
                 "to": [
@@ -1296,7 +1306,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "437305878257860608": {
         "modification_history": {
