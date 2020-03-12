@@ -1268,6 +1268,16 @@
                     615000
                 ]
             },
+            "vaccine_talisman": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "web": {
                 "from": null,
                 "to": [
@@ -1306,7 +1316,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "437305878257860608": {
         "modification_history": {
