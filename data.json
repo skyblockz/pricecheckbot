@@ -1585,8 +1585,8 @@
     },
     {
         "ac": true,
-        "hi": 550,
-        "low": 450,
+        "hi": 2000,
+        "low": 1500,
         "name": "enchanted_spider_eye"
     },
     {
@@ -2053,7 +2053,7 @@
     },
     {
         "ac": true,
-        "hi": 130000,
+        "hi": 135000,
         "low": 110000,
         "name": "enchanted_fermented_spider_eye"
     },
@@ -3370,5 +3370,11 @@
         "hi": 15,
         "low": 10,
         "name": "spider_eye"
+    },
+    {
+        "ac": true,
+        "hi": 13,
+        "low": 10,
+        "name": "string"
     }
 ]
