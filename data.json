@@ -241,8 +241,8 @@
     },
     {
         "ac": true,
-        "hi": 270000,
-        "low": 200000,
+        "hi": 200000,
+        "low": 100000,
         "name": "wise_dragon_boots"
     },
     {
@@ -571,8 +571,8 @@
     },
     {
         "ac": true,
-        "hi": 640,
-        "low": 640,
+        "hi": 5000,
+        "low": 2000,
         "name": "enchanted_flint"
     },
     {
@@ -1069,32 +1069,32 @@
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 3600,
+        "low": 1500,
         "name": "enchanted_acacia"
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 3000,
+        "low": 2000,
         "name": "enchanted_birch"
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 2700,
+        "low": 1000,
         "name": "enchanted_oak"
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 3300,
+        "low": 2000,
         "name": "enchanted_dark_oak"
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3600,
+        "hi": 4100,
+        "low": 2100,
         "name": "enchanted_jungle_wood"
     },
     {
@@ -1112,7 +1112,7 @@
     {
         "ac": true,
         "hi": 120000,
-        "low": 100000,
+        "low": 105000,
         "name": "hot_potato_book"
     },
     {
@@ -1231,8 +1231,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 650000,
+        "hi": 900000,
+        "low": 550000,
         "name": "tarantula_helmet"
     },
     {
@@ -2713,12 +2713,6 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 7500000,
-        "name": "legendary_wolf_pet"
-    },
-    {
-        "ac": true,
         "hi": 3500000,
         "low": 2500000,
         "name": "legendary_rabbit_pet"
@@ -2734,12 +2728,6 @@
         "hi": 5800000,
         "low": 5000000,
         "name": "yeti_rod"
-    },
-    {
-        "ac": true,
-        "hi": 500000,
-        "low": 400000,
-        "name": "clay_minion"
     },
     {
         "ac": true,
@@ -3382,5 +3370,23 @@
         "hi": 800000,
         "low": 425000,
         "name": "cheap_tuxedo_jacket"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 200000,
+        "name": "clay_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 9000000,
+        "low": 7500000,
+        "name": "legendary_wolf"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 3000000,
+        "name": "legendary_bee"
     }
 ]
