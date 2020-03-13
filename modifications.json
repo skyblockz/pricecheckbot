@@ -21,6 +21,16 @@
                     3000
                 ]
             },
+            "enchanted_oak": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    1000,
+                    2700
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     25000,
@@ -72,7 +82,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "267523838106009611": {
         "modification_history": {},
