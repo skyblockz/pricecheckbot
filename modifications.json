@@ -21,6 +21,16 @@
                     3000
                 ]
             },
+            "enchanted_dark_oak": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    2000,
+                    3300
+                ]
+            },
             "enchanted_oak": {
                 "from": [
                     320,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "267523838106009611": {
         "modification_history": {},
