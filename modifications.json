@@ -216,6 +216,16 @@
                     35000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    2000,
+                    8000
+                ],
+                "to": [
+                    1500,
+                    3000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     295000,
@@ -347,7 +357,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "268844820317863936": {
         "modification_history": {
