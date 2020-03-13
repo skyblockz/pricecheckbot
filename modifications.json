@@ -162,6 +162,16 @@
                     5500
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    800000,
+                    800000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1000,
@@ -183,7 +193,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "308262271262654464": {
         "modification_history": {},
