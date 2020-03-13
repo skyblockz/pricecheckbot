@@ -1987,8 +1987,8 @@
     },
     {
         "ac": true,
-        "hi": 1850,
-        "low": 1450,
+        "hi": 2500,
+        "low": 2300,
         "name": "enchanted_string"
     },
     {
@@ -3376,5 +3376,11 @@
         "hi": 13,
         "low": 10,
         "name": "string"
+    },
+    {
+        "ac": true,
+        "hi": 75000,
+        "low": 50000,
+        "name": "epic_wolf_pet"
     }
 ]
