@@ -206,6 +206,16 @@
     },
     "267523838106009611": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    600,
+                    600
+                ],
+                "to": [
+                    3000,
+                    7000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     12540,
@@ -367,7 +377,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "268844820317863936": {
         "modification_history": {
