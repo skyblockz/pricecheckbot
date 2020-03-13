@@ -152,6 +152,16 @@
                     75
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    5200,
+                    5500
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1000,
@@ -173,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "308262271262654464": {
         "modification_history": {},
