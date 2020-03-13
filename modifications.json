@@ -31,6 +31,16 @@
                     3300
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    640,
+                    640
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "enchanted_jungle_wood": {
                 "from": [
                     3600,
@@ -112,7 +122,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "267523838106009611": {
         "modification_history": {},
