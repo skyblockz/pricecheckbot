@@ -226,6 +226,16 @@
                     300000
                 ]
             },
+            "enchanted_spider_eye": {
+                "from": [
+                    450,
+                    550
+                ],
+                "to": [
+                    1500,
+                    2000
+                ]
+            },
             "ghast_tear": {
                 "from": [
                     50,
@@ -271,7 +281,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "308262271262654464": {
         "modification_history": {},
