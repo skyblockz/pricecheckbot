@@ -256,6 +256,16 @@
                     120000
                 ]
             },
+            "jungle_axe": {
+                "from": [
+                    1000,
+                    2500
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2000,
@@ -357,7 +367,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "268844820317863936": {
         "modification_history": {
