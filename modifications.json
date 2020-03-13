@@ -192,6 +192,16 @@
                     7000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    640,
+                    640
+                ],
+                "to": [
+                    4500,
+                    5000
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1000,
@@ -254,7 +264,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "308262271262654464": {
         "modification_history": {},
