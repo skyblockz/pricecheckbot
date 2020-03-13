@@ -1274,7 +1274,7 @@
     {
         "ac": true,
         "hi": 1400000,
-        "low": 11500000,
+        "low": 1150000,
         "name": "sea_creature_artifact"
     },
     {
@@ -3388,5 +3388,11 @@
         "hi": 3500000,
         "low": 3000000,
         "name": "legendary_bee"
+    },
+    {
+        "ac": true,
+        "hi": 450000,
+        "low": 325000,
+        "name": "snow_minion_xi"
     }
 ]
