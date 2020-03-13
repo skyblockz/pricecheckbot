@@ -137,6 +137,16 @@
                     75
                 ]
             },
+            "clay_minion_xi": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     2000,
@@ -293,7 +303,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "308262271262654464": {
         "modification_history": {},
