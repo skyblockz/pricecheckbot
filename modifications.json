@@ -271,6 +271,16 @@
                     25
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    105000,
+                    120000
+                ]
+            },
             "magma_cream": {
                 "from": [
                     8,
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "308262271262654464": {
         "modification_history": {},
