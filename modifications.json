@@ -192,6 +192,16 @@
                     7000
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    110000,
+                    130000
+                ],
+                "to": [
+                    110000,
+                    135000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     640,
@@ -281,7 +291,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "308262271262654464": {
         "modification_history": {},
