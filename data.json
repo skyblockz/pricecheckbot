@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 670000,
-        "low": 550000,
+        "hi": 600000,
+        "low": 520000,
         "name": "summoning_eye"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 250000,
+        "hi": 400000,
+        "low": 350000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -686,7 +686,7 @@
     {
         "ac": true,
         "hi": 1000,
-        "low": 500,
+        "low": 1000,
         "name": "vaccine_talisman"
     },
     {
@@ -1027,8 +1027,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 20000,
+        "hi": 28000,
+        "low": 22000,
         "name": "foul_flesh"
     },
     {
@@ -1106,7 +1106,7 @@
     {
         "ac": true,
         "hi": 11000000,
-        "low": 10000000,
+        "low": 9000000,
         "name": "sharpness_vi"
     },
     {
@@ -1117,8 +1117,8 @@
     },
     {
         "ac": true,
-        "hi": 130000,
-        "low": 130000,
+        "hi": 105000,
+        "low": 85000,
         "name": "hot_potato_book"
     },
     {
@@ -1345,8 +1345,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 20000,
+        "hi": 15400,
+        "low": 12540,
         "name": "crystal_fragment"
     },
     {
@@ -1429,7 +1429,7 @@
     },
     {
         "ac": true,
-        "hi": 25000,
+        "hi": 17500,
         "low": 10000,
         "name": "ender_leggings"
     },
@@ -1489,8 +1489,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 100000,
+        "hi": 5000,
+        "low": 50,
         "name": "smite_vi"
     },
     {
@@ -1609,8 +1609,8 @@
     },
     {
         "ac": true,
-        "hi": 13500,
-        "low": 13500,
+        "hi": 2500,
+        "low": 500,
         "name": "wise_dragon_fragment"
     },
     {
@@ -1963,8 +1963,8 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 50000,
+        "hi": 65000,
+        "low": 52000,
         "name": "bat_talisman"
     },
     {
@@ -1975,8 +1975,8 @@
     },
     {
         "ac": true,
-        "hi": 8000,
-        "low": 5750,
+        "hi": 9200,
+        "low": 6100,
         "name": "young_dragon_fragment"
     },
     {
@@ -2197,7 +2197,7 @@
     },
     {
         "ac": true,
-        "hi": 80000,
+        "hi": 100000,
         "low": 70000,
         "name": "protector_dragon_leggings"
     },
@@ -2234,7 +2234,7 @@
     {
         "ac": true,
         "hi": 250000,
-        "low": 250000,
+        "low": 170000,
         "name": "farmers_boots"
     },
     {
@@ -2677,8 +2677,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 250000,
+        "hi": 250000,
+        "low": 100000,
         "name": "magic_find_iv"
     },
     {
@@ -3328,5 +3328,11 @@
         "hi": 6200000,
         "low": 6000000,
         "name": "elegant_tuxedo_oxfords"
+    },
+    {
+        "ac": true,
+        "hi": 69,
+        "low": 69,
+        "name": "jerry_egg"
     }
 ]
