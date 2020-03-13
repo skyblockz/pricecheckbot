@@ -73,8 +73,8 @@
     },
     {
         "ac": true,
-        "hi": 1240000,
-        "low": 820000,
+        "hi": 2000000,
+        "low": 1200000,
         "name": "tarantula_boots"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 580000,
+        "hi": 1000000,
+        "low": 720000,
         "name": "tarantula_leggings"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
         "ac": true,
-        "hi": 795000,
-        "low": 675000,
+        "hi": 1750000,
+        "low": 1100000,
         "name": "tarantula_chestplate"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 25000,
+        "hi": 90000,
+        "low": 50000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -184,12 +184,6 @@
         "hi": 1,
         "low": 1,
         "name": "boat"
-    },
-    {
-        "ac": true,
-        "hi": 300000,
-        "low": 250000,
-        "name": "300001"
     },
     {
         "ac": true,
@@ -577,8 +571,8 @@
     },
     {
         "ac": true,
-        "hi": 4699,
-        "low": 4400,
+        "hi": 640,
+        "low": 640,
         "name": "enchanted_flint"
     },
     {
@@ -1237,8 +1231,8 @@
     },
     {
         "ac": true,
-        "hi": 620000,
-        "low": 550000,
+        "hi": 1000000,
+        "low": 650000,
         "name": "tarantula_helmet"
     },
     {
@@ -2917,12 +2911,6 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 425000,
-        "name": "Cheap_tuxedo_jacket"
-    },
-    {
-        "ac": true,
         "hi": 500000,
         "low": 400000,
         "name": "cheap_tuxedo_pants"
@@ -3388,5 +3376,11 @@
         "hi": 20000,
         "low": 15000,
         "name": "personal_bank_item"
+    },
+    {
+        "ac": true,
+        "hi": 800000,
+        "low": 425000,
+        "name": "cheap_tuxedo_jacket"
     }
 ]
