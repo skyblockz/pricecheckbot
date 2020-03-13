@@ -216,6 +216,16 @@
                     35000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    295000,
+                    330000
+                ],
+                "to": [
+                    400000,
+                    410000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     85000,
@@ -257,7 +267,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "268844820317863936": {
         "modification_history": {
