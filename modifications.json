@@ -216,6 +216,16 @@
                     5000000
                 ]
             },
+            "aspect_of_the_end": {
+                "from": [
+                    130000,
+                    160000
+                ],
+                "to": [
+                    200000,
+                    230000
+                ]
+            },
             "compactor": {
                 "from": [
                     600,
@@ -407,7 +417,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "268844820317863936": {
         "modification_history": {
