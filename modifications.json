@@ -256,6 +256,16 @@
                     3000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2000,
+                    2300
+                ],
+                "to": [
+                    1500,
+                    2500
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     21500,
@@ -337,7 +347,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "268844820317863936": {
         "modification_history": {
