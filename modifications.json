@@ -298,6 +298,16 @@
                     11
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    11500000,
+                    1400000
+                ],
+                "to": [
+                    1150000,
+                    1400000
+                ]
+            },
             "slime_ball": {
                 "from": null,
                 "to": [
@@ -330,7 +340,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "308262271262654464": {
         "modification_history": {},
