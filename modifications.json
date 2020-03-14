@@ -561,6 +561,16 @@
                     360000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    10000000,
+                    13500000
+                ],
+                "to": [
+                    11000000,
+                    15000000
+                ]
+            },
             "snow_minion_xi": {
                 "from": null,
                 "to": [
@@ -689,7 +699,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "466769036122783744": {
         "modification_history": {
