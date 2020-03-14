@@ -261,6 +261,16 @@
                     240
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "gunpowder": {
                 "from": [
                     40,
@@ -340,7 +350,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "308262271262654464": {
         "modification_history": {},
