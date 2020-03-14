@@ -521,6 +521,16 @@
                     1265000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    190000,
+                    360000
+                ]
+            },
             "snow_minion_xi": {
                 "from": null,
                 "to": [
@@ -549,7 +559,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "466769036122783744": {
         "modification_history": {
