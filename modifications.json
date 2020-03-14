@@ -298,6 +298,16 @@
                     120000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    130000,
+                    350000
+                ],
+                "to": [
+                    225000,
+                    350000
+                ]
+            },
             "legendary_bee": {
                 "from": null,
                 "to": [
@@ -367,7 +377,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "308262271262654464": {
         "modification_history": {},
