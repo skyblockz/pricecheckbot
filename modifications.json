@@ -332,6 +332,16 @@
                     15
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    85000,
+                    130000
+                ],
+                "to": [
+                    80000,
+                    160000
+                ]
+            },
             "string": {
                 "from": null,
                 "to": [
@@ -350,7 +360,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "308262271262654464": {
         "modification_history": {},
