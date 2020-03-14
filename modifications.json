@@ -521,6 +521,16 @@
                     1265000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    400000,
+                    410000
+                ],
+                "to": [
+                    400000,
+                    445000
+                ]
+            },
             "farmer_orb": {
                 "from": [
                     140000,
@@ -619,7 +629,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {
