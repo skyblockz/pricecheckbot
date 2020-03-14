@@ -2611,12 +2611,6 @@
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 5000,
-        "name": "enderman_pet"
-    },
-    {
-        "ac": true,
         "hi": 60000000,
         "low": 48000000,
         "name": "Enderman_Pet"
@@ -3397,8 +3391,8 @@
     },
     {
         "ac": true,
-        "hi": 50,
-        "low": 50,
+        "hi": 500,
+        "low": 1,
         "name": "sunflower"
     }
 ]
