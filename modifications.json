@@ -521,6 +521,16 @@
                     1265000
                 ]
             },
+            "farmer_orb": {
+                "from": [
+                    140000,
+                    200000
+                ],
+                "to": [
+                    175000,
+                    280000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     150000,
@@ -569,7 +579,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "466769036122783744": {
         "modification_history": {
