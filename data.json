@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 20000,
+        "hi": 22250,
+        "low": 17250,
         "name": "strong_dragon_fragment"
     },
     {
@@ -1057,7 +1057,7 @@
     },
     {
         "ac": true,
-        "hi": 35000000,
+        "hi": 32500000,
         "low": 30000000,
         "name": "hunter_ring"
     },
@@ -1957,7 +1957,7 @@
     },
     {
         "ac": true,
-        "hi": 6750,
+        "hi": 8000,
         "low": 6750,
         "name": "young_dragon_fragment"
     },
@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 2500,
-        "low": 1500,
+        "hi": 1750,
+        "low": 1750,
         "name": "protector_dragon_fragment"
     },
     {
@@ -2581,8 +2581,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 265000,
+        "hi": 280000,
+        "low": 250000,
         "name": "super_enchanted_egg"
     },
     {
@@ -3424,5 +3424,11 @@
         "hi": 1500,
         "low": 500,
         "name": "bite_rune_i"
+    },
+    {
+        "ac": true,
+        "hi": 69,
+        "low": 69,
+        "name": "jerry"
     }
 ]
