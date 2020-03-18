@@ -2971,8 +2971,8 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 7500000,
+        "hi": 5000000,
+        "low": 4500000,
         "name": "legendary_flying_fish_pet"
     },
     {
@@ -3424,5 +3424,11 @@
         "hi": 1500,
         "low": 500,
         "name": "bite_rune_i"
+    },
+    {
+        "ac": true,
+        "hi": 400000,
+        "low": 50000,
+        "name": "revenant_leggings"
     }
 ]
