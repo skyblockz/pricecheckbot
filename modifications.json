@@ -578,6 +578,16 @@
                     4500
                 ]
             },
+            "epic_pigman_pet": {
+                "from": [
+                    50000,
+                    300000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
             "fire_talisman": {
                 "from": [
                     30000,
@@ -726,7 +736,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "437305878257860608": {
         "modification_history": {
