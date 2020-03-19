@@ -7,8 +7,8 @@
     },
     {
         "ac": true,
-        "hi": 1050000,
-        "low": 825000,
+        "hi": 1000000,
+        "low": 900000,
         "name": "strong_dragon_helmet"
     },
     {
@@ -2227,8 +2227,8 @@
     },
     {
         "ac": true,
-        "hi": 11,
-        "low": 10,
+        "hi": 8,
+        "low": 6,
         "name": "magma_cream"
     },
     {
@@ -3490,5 +3490,11 @@
         "hi": 2500,
         "low": 1800,
         "name": "enchanted_pufferfish"
+    },
+    {
+        "ac": true,
+        "hi": 29000000,
+        "low": 29000000,
+        "name": "legendary_sheep_pat"
     }
 ]
