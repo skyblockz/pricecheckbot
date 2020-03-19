@@ -11,6 +11,16 @@
                     3600
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    80000,
+                    115000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "enchanted_birch": {
                 "from": [
                     320,
@@ -212,7 +222,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "268844820317863936": {
         "modification_history": {
