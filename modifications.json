@@ -151,6 +151,16 @@
                     90000
                 ]
             },
+            "enchanted_slimeball": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    1600,
+                    2350
+                ]
+            },
             "golden_tooth": {
                 "from": [
                     105000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "268844820317863936": {
         "modification_history": {
