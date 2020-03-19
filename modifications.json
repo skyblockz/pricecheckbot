@@ -541,6 +541,13 @@
                     17250
                 ]
             },
+            "day_saver": {
+                "from": null,
+                "to": [
+                    1250,
+                    1500
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     4400,
@@ -679,7 +686,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "437305878257860608": {
         "modification_history": {
