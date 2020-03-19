@@ -568,6 +568,16 @@
                     640
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    50000,
+                    90000
+                ],
+                "to": [
+                    85000,
+                    110000
+                ]
+            },
             "end_stone_bow": {
                 "from": [
                     2500,
@@ -776,7 +786,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "437305878257860608": {
         "modification_history": {
