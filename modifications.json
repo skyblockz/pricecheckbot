@@ -505,6 +505,16 @@
                     14500
                 ]
             },
+            "ender_bow": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    2500,
+                    4500
+                ]
+            },
             "fire_talisman": {
                 "from": [
                     30000,
@@ -583,7 +593,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "437305878257860608": {
         "modification_history": {
