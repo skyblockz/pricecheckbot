@@ -173,6 +173,16 @@
                     65000000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    56000000,
+                    65000000
+                ],
+                "to": [
+                    60000000,
+                    70000000
+                ]
+            },
             "reaper_scythe": {
                 "from": [
                     30000000,
@@ -194,7 +204,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "298613178601046017": {
         "modification_history": {
