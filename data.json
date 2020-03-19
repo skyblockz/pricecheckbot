@@ -25,8 +25,8 @@
     },
     {
         "ac": true,
-        "hi": 1075000,
-        "low": 880000,
+        "hi": 710000,
+        "low": 600000,
         "name": "strong_dragon_boots"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "ac": true,
-        "hi": 2350000,
-        "low": 2000000,
+        "hi": 1500000,
+        "low": 1400000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -1045,8 +1045,8 @@
     },
     {
         "ac": true,
-        "hi": 615000,
-        "low": 500000,
+        "hi": 250000,
+        "low": 230000,
         "name": "unstable_dragon_boots"
     },
     {
@@ -1111,26 +1111,26 @@
     },
     {
         "ac": true,
-        "hi": 14750000,
-        "low": 13000000,
+        "hi": 25700000,
+        "low": 14800000,
         "name": "superior_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 7700000,
-        "low": 6500000,
+        "hi": 22000000,
+        "low": 9300000,
         "name": "superior_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 13000000,
-        "low": 12100000,
+        "hi": 18500000,
+        "low": 12000000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 9300000,
-        "low": 8400000,
+        "hi": 17800000,
+        "low": 11000000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -1159,8 +1159,8 @@
     },
     {
         "ac": true,
-        "hi": 80000000,
-        "low": 75000000,
+        "hi": 92000000,
+        "low": 86000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1339,8 +1339,8 @@
     },
     {
         "ac": true,
-        "hi": 890000,
-        "low": 675000,
+        "hi": 100000,
+        "low": 50000,
         "name": "unstable_dragon_leggings"
     },
     {
@@ -1537,8 +1537,8 @@
     },
     {
         "ac": true,
-        "hi": 740000,
-        "low": 400000,
+        "hi": 860000,
+        "low": 460000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -2365,7 +2365,7 @@
     },
     {
         "ac": true,
-        "hi": 70000000,
+        "hi": 66700000,
         "low": 60000000,
         "name": "overflux_capacitor"
     },
@@ -2767,8 +2767,8 @@
     },
     {
         "ac": true,
-        "hi": 52000000,
-        "low": 42500000,
+        "hi": 55000000,
+        "low": 45000000,
         "name": "legendary_enderman_pet"
     },
     {
@@ -2821,8 +2821,8 @@
     },
     {
         "ac": true,
-        "hi": 37500000,
-        "low": 36000000,
+        "hi": 38000000,
+        "low": 31111111,
         "name": "elegant_tuxedo_jacket"
     },
     {
@@ -3001,8 +3001,8 @@
     },
     {
         "ac": true,
-        "hi": 155000000,
-        "low": 155000000,
+        "hi": 145000000,
+        "low": 140000000,
         "name": "legendary_phoenix"
     },
     {
@@ -3037,8 +3037,8 @@
     },
     {
         "ac": true,
-        "hi": 380000000,
-        "low": 330000000,
+        "hi": 340000000,
+        "low": 340000000,
         "name": "legendary_enderdragon_pet"
     },
     {
@@ -3496,5 +3496,11 @@
         "hi": 29000000,
         "low": 29000000,
         "name": "legendary_sheep_pat"
+    },
+    {
+        "ac": true,
+        "hi": 5800000,
+        "low": 5000000,
+        "name": "treecapitator"
     }
 ]
