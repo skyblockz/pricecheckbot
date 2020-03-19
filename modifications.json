@@ -43,12 +43,12 @@
             },
             "enchanted_jungle_wood": {
                 "from": [
-                    3600,
-                    4000
-                ],
-                "to": [
                     2100,
                     4100
+                ],
+                "to": [
+                    2400,
+                    2700
                 ]
             },
             "enchanted_oak": {
@@ -132,7 +132,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "268844820317863936": {
         "modification_history": {
