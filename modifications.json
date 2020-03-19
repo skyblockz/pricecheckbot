@@ -627,12 +627,12 @@
             },
             "spider_ring": {
                 "from": [
-                    500,
-                    10000
-                ],
-                "to": [
                     1000,
                     1000
+                ],
+                "to": [
+                    55000,
+                    95000
                 ]
             },
             "strong_dragon_chestplate": {
@@ -706,7 +706,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "437305878257860608": {
         "modification_history": {
