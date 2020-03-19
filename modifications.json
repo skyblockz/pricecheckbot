@@ -111,6 +111,16 @@
                     2700
                 ]
             },
+            "enchanted_potato": {
+                "from": [
+                    160,
+                    160
+                ],
+                "to": [
+                    460,
+                    940
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     25000,
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "268844820317863936": {
         "modification_history": {
