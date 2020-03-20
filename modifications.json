@@ -379,6 +379,16 @@
                     300000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    12500,
+                    12500
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     2000,
@@ -649,7 +659,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "308262271262654464": {
         "modification_history": {
