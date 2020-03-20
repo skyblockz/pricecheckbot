@@ -1597,8 +1597,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 4000,
+        "hi": 5000,
+        "low": 3500,
         "name": "wise_dragon_fragment"
     },
     {
@@ -3538,5 +3538,11 @@
         "hi": 15000000,
         "low": 10000000,
         "name": "wolf_pet"
+    },
+    {
+        "ac": true,
+        "hi": 2,
+        "low": 2,
+        "name": "dirt"
     }
 ]
