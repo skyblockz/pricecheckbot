@@ -187,7 +187,7 @@
     },
     {
         "ac": true,
-        "hi": 15000,
+        "hi": 7500,
         "low": 7500,
         "name": "magical_water_bucket"
     },
@@ -259,8 +259,8 @@
     },
     {
         "ac": true,
-        "hi": 460000,
-        "low": 430000,
+        "hi": 500000,
+        "low": 445000,
         "name": "super_compactor_3000"
     },
     {
@@ -1141,8 +1141,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 280000,
+        "hi": 400000,
+        "low": 255000,
         "name": "young_dragon_boots"
     },
     {
@@ -1957,8 +1957,8 @@
     },
     {
         "ac": true,
-        "hi": 6500,
-        "low": 6500,
+        "hi": 7250,
+        "low": 7250,
         "name": "young_dragon_fragment"
     },
     {
@@ -2275,8 +2275,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 500000,
+        "hi": 625000,
+        "low": 525000,
         "name": "revenant_falchion"
     },
     {
@@ -2701,8 +2701,8 @@
     },
     {
         "ac": true,
-        "hi": 1420,
-        "low": 1420,
+        "hi": 1500,
+        "low": 1500,
         "name": "enchanted_sponge"
     },
     {
@@ -3349,7 +3349,7 @@
     },
     {
         "ac": true,
-        "hi": 410000,
+        "hi": 395000,
         "low": 320000,
         "name": "snow_minion_xi"
     },
@@ -3502,5 +3502,11 @@
         "hi": 5800000,
         "low": 5000000,
         "name": "treecapitator"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 5000000,
+        "name": "ocelot_pet"
     }
 ]
