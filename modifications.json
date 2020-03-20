@@ -652,14 +652,17 @@
                 ]
             },
             "treecapitator": {
-                "from": null,
-                "to": [
+                "from": [
                     5000000,
                     5800000
+                ],
+                "to": [
+                    4750000,
+                    5300000
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "308262271262654464": {
         "modification_history": {
