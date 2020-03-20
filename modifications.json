@@ -489,6 +489,16 @@
                     75
                 ]
             },
+            "catalyst": {
+                "from": [
+                    9000,
+                    12500
+                ],
+                "to": [
+                    12500,
+                    20000
+                ]
+            },
             "clay_minion_xi": {
                 "from": [
                     400000,
@@ -792,7 +802,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "308262271262654464": {
         "modification_history": {
