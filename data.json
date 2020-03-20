@@ -361,7 +361,7 @@
     },
     {
         "ac": true,
-        "hi": 50040000,
+        "hi": 56000000,
         "low": 100000,
         "name": "midas_sword"
     },
@@ -3508,5 +3508,11 @@
         "hi": 5000000,
         "low": 5000000,
         "name": "ocelot_pet"
+    },
+    {
+        "ac": true,
+        "hi": 750,
+        "low": 500,
+        "name": "miners_outfit_helmet"
     }
 ]
