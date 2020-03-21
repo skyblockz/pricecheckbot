@@ -275,6 +275,16 @@
                     35000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    11000000,
+                    15000000
+                ],
+                "to": [
+                    13500000,
+                    16700000
+                ]
+            },
             "revenant_boots": {
                 "from": null,
                 "to": [
@@ -458,7 +468,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "466769036122783744": {
         "modification_history": {
