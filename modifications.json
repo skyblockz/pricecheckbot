@@ -235,6 +235,16 @@
                     5200000
                 ]
             },
+            "legendary_ocelot_pet": {
+                "from": [
+                    5000000,
+                    5000000
+                ],
+                "to": [
+                    2000000,
+                    3200000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     3500000,
@@ -478,7 +488,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "466769036122783744": {
         "modification_history": {
