@@ -118,6 +118,16 @@
                     120000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    25000,
+                    55000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     20000,
@@ -257,7 +267,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "466769036122783744": {
         "modification_history": {
