@@ -99,6 +99,16 @@
                     8000000
                 ]
             },
+            "jungle_axe": {
+                "from": [
+                    2000,
+                    4000
+                ],
+                "to": [
+                    500,
+                    5000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     4750000,
@@ -110,7 +120,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "390661701046894592": {
         "modification_history": {},
