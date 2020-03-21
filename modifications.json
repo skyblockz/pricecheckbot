@@ -208,6 +208,16 @@
                     5200000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    1550000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     25000,
@@ -357,7 +367,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "466769036122783744": {
         "modification_history": {
