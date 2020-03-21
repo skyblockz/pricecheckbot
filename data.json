@@ -37,8 +37,8 @@
     },
     {
         "ac": true,
-        "hi": 2275000,
-        "low": 1880000,
+        "hi": 1700000,
+        "low": 1450000,
         "name": "strong_dragon_leggings"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
         "ac": true,
-        "hi": 1150000,
+        "hi": 1345000,
         "low": 800000,
         "name": "rod_of_champions"
     },
@@ -517,8 +517,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 12500,
+        "hi": 35000,
+        "low": 20000,
         "name": "minion_expander"
     },
     {
@@ -1045,8 +1045,8 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 230000,
+        "hi": 350000,
+        "low": 275000,
         "name": "unstable_dragon_boots"
     },
     {
@@ -1249,7 +1249,7 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
+        "hi": 1550000,
         "low": 1000000,
         "name": "mastiff_crown"
     },
@@ -1321,8 +1321,8 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 8000000,
+        "hi": 10000000,
+        "low": 9300000,
         "name": "ender_artifact"
     },
     {
@@ -1339,8 +1339,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 50000,
+        "hi": 700000,
+        "low": 525000,
         "name": "unstable_dragon_leggings"
     },
     {
@@ -1531,14 +1531,14 @@
     },
     {
         "ac": true,
-        "hi": 600000,
+        "hi": 550000,
         "low": 450000,
         "name": "unstable_dragon_helmet"
     },
     {
         "ac": true,
-        "hi": 860000,
-        "low": 460000,
+        "hi": 725000,
+        "low": 600000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -1591,8 +1591,8 @@
     },
     {
         "ac": true,
-        "hi": 5150000,
-        "low": 4500000,
+        "hi": 8000000,
+        "low": 5000000,
         "name": "flower_minion"
     },
     {
@@ -1904,7 +1904,7 @@
     {
         "ac": true,
         "hi": 180000,
-        "low": 135000,
+        "low": 75000,
         "name": "skeletons_helmet"
     },
     {
@@ -1975,8 +1975,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 280000,
+        "hi": 3500000,
+        "low": 2700000,
         "name": "revenant_chestplate"
     },
     {
@@ -2059,7 +2059,7 @@
     },
     {
         "ac": true,
-        "hi": 230000,
+        "hi": 260000,
         "low": 200000,
         "name": "emperors_skull"
     },
@@ -2090,7 +2090,7 @@
     {
         "ac": true,
         "hi": 250000,
-        "low": 50000,
+        "low": 95000,
         "name": "beheaded_horror"
     },
     {
@@ -2455,26 +2455,26 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 4000,
+        "hi": 65000,
+        "low": 30000,
         "name": "crystal_helmet"
     },
     {
         "ac": true,
-        "hi": 10000,
-        "low": 10000,
+        "hi": 120000,
+        "low": 70000,
         "name": "crystal_chestplate"
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 5000,
+        "hi": 95000,
+        "low": 45000,
         "name": "crystal_leggings"
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 2000,
+        "hi": 55000,
+        "low": 25000,
         "name": "crystal_boots"
     },
     {
@@ -3133,12 +3133,6 @@
     },
     {
         "ac": true,
-        "hi": 8200000,
-        "low": 8200000,
-        "name": "obsidian_minion"
-    },
-    {
-        "ac": true,
         "hi": 240000,
         "low": 240000,
         "name": "cobblestone_minion_xi"
@@ -3415,7 +3409,7 @@
     },
     {
         "ac": true,
-        "hi": 400000,
+        "hi": 300000,
         "low": 50000,
         "name": "revenant_leggings"
     },
@@ -3562,5 +3556,17 @@
         "hi": 2100000,
         "low": 1650000,
         "name": "sponge_boots"
+    },
+    {
+        "ac": true,
+        "hi": 8200000,
+        "low": 8200000,
+        "name": "obsidian_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 575000,
+        "low": 350000,
+        "name": "revenant_boots"
     }
 ]
