@@ -89,6 +89,16 @@
                     250000
                 ]
             },
+            "flower_minion": {
+                "from": [
+                    4500000,
+                    5150000
+                ],
+                "to": [
+                    5000000,
+                    8000000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     4750000,
@@ -100,7 +110,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "390661701046894592": {
         "modification_history": {},
