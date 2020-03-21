@@ -36,6 +36,16 @@
                     500000
                 ]
             },
+            "lily_pad": {
+                "from": [
+                    250,
+                    350
+                ],
+                "to": [
+                    450,
+                    540
+                ]
+            },
             "smite_vi": {
                 "from": [
                     5000,
@@ -47,7 +57,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "268844820317863936": {
         "modification_history": {},
