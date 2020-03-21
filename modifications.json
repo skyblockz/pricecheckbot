@@ -158,6 +158,16 @@
                     5200000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    25000,
+                    33000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "runaans_bow": {
                 "from": [
                     800000,
@@ -219,7 +229,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {
