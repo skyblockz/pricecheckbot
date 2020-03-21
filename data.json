@@ -2851,8 +2851,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 2000,
+        "hi": 5000,
+        "low": 500,
         "name": "jungle_axe"
     },
     {
@@ -3574,5 +3574,11 @@
         "hi": 85000,
         "low": 50000,
         "name": "snow_minion_i"
+    },
+    {
+        "ac": true,
+        "hi": 95000,
+        "low": 50000,
+        "name": "enchanted_firework_rocket"
     }
 ]
