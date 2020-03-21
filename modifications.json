@@ -150,12 +150,12 @@
             },
             "crystal_helmet": {
                 "from": [
-                    4000,
-                    4000
-                ],
-                "to": [
                     65000,
                     30000
+                ],
+                "to": [
+                    30000,
+                    65000
                 ]
             },
             "crystal_leggings": {
@@ -297,7 +297,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "466769036122783744": {
         "modification_history": {
