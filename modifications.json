@@ -238,6 +238,16 @@
                     50000
                 ]
             },
+            "minion_expander": {
+                "from": [
+                    12500,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    35000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     800000,
@@ -387,7 +397,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "466769036122783744": {
         "modification_history": {
