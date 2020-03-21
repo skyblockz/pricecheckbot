@@ -148,6 +148,16 @@
                     5200000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    3500000,
+                    4200000
+                ],
+                "to": [
+                    4250000,
+                    5200000
+                ]
+            },
             "runaans_bow": {
                 "from": [
                     800000,
@@ -209,7 +219,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {
