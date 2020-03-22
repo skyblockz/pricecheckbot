@@ -3511,12 +3511,6 @@
     },
     {
         "ac": true,
-        "hi": 15000000,
-        "low": 10000000,
-        "name": "wolf_pet"
-    },
-    {
-        "ac": true,
         "hi": 2,
         "low": 2,
         "name": "dirt"
@@ -3580,5 +3574,17 @@
         "hi": 550000,
         "low": 375000,
         "name": "epic_enderman_pet"
+    },
+    {
+        "ac": true,
+        "hi": 6100000,
+        "low": 4600000,
+        "name": "legendary_wolf_pet"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1500000,
+        "name": "slime_bow"
     }
 ]
