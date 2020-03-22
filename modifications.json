@@ -109,6 +109,13 @@
                     5000
                 ]
             },
+            "launch_pad": {
+                "from": null,
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "slime_bow": {
                 "from": null,
                 "to": [
@@ -127,7 +134,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "390661701046894592": {
         "modification_history": {},
