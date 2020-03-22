@@ -877,8 +877,8 @@
     },
     {
         "ac": true,
-        "hi": 117000,
-        "low": 117000,
+        "hi": 115000,
+        "low": 95000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -943,8 +943,8 @@
     },
     {
         "ac": true,
-        "hi": 15000000,
-        "low": 11000000,
+        "hi": 16700000,
+        "low": 13500000,
         "name": "pigman_sword"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "ac": true,
         "hi": 1000000,
-        "low": 500000,
+        "low": 750000,
         "name": "mastiff_boots"
     },
     {
@@ -1249,14 +1249,14 @@
     },
     {
         "ac": true,
-        "hi": 1550000,
+        "hi": 1750000,
         "low": 1000000,
         "name": "mastiff_crown"
     },
     {
         "ac": true,
-        "hi": 2250000,
-        "low": 2000000,
+        "hi": 2000000,
+        "low": 1600000,
         "name": "mastiff_chestplate"
     },
     {
@@ -2311,8 +2311,8 @@
     },
     {
         "ac": true,
-        "hi": 4000000,
-        "low": 3500000,
+        "hi": 2350000,
+        "low": 1600000,
         "name": "thick_tactician_sword"
     },
     {
@@ -2539,12 +2539,6 @@
     },
     {
         "ac": true,
-        "hi": 2100000,
-        "low": 2100000,
-        "name": "silk_edge"
-    },
-    {
-        "ac": true,
         "hi": 15000,
         "low": 15000,
         "name": "scavenger_iv"
@@ -2683,8 +2677,8 @@
     },
     {
         "ac": true,
-        "hi": 4000000,
-        "low": 3000000,
+        "hi": 3200000,
+        "low": 2000000,
         "name": "legendary_ocelot_pet"
     },
     {
@@ -3493,12 +3487,6 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 5000000,
-        "name": "ocelot_pet"
-    },
-    {
-        "ac": true,
         "hi": 750,
         "low": 500,
         "name": "miners_outfit_helmet"
@@ -3580,5 +3568,17 @@
         "hi": 95000,
         "low": 50000,
         "name": "enchanted_firework_rocket"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 2100000,
+        "name": "silk_edge_sword"
+    },
+    {
+        "ac": true,
+        "hi": 550000,
+        "low": 375000,
+        "name": "epic_enderman_pet"
     }
 ]
