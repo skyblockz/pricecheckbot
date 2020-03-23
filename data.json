@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1000000,
+        "hi": 2150000,
+        "low": 1600000,
         "name": "ornate_zombie_sword"
     },
     {
@@ -3616,5 +3616,11 @@
         "hi": 1450000,
         "low": 975000,
         "name": "zombie_sword"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 1500000,
+        "name": "zombie_chestplate"
     }
 ]
