@@ -134,6 +134,16 @@
                     10000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    1000000,
+                    1750000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "slime_bow": {
                 "from": null,
                 "to": [
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "390661701046894592": {
         "modification_history": {},
