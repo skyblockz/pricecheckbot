@@ -139,9 +139,16 @@
                     4800000,
                     5500000
                 ]
+            },
+            "voodoo_doll": {
+                "from": null,
+                "to": [
+                    500000,
+                    600000
+                ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "390661701046894592": {
         "modification_history": {},
