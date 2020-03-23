@@ -371,6 +371,16 @@
                     35000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    1600000,
+                    2150000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     11000000,
@@ -591,7 +601,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "466769036122783744": {
         "modification_history": {
