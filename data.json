@@ -3325,12 +3325,6 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 3000000,
-        "name": "legendary_bee"
-    },
-    {
-        "ac": true,
         "hi": 395000,
         "low": 320000,
         "name": "snow_minion_xi"
@@ -3598,5 +3592,17 @@
         "hi": 200,
         "low": 200,
         "name": "alchemy_xp_boost_iii_potion"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 3000000,
+        "name": "legendary_bee_pet"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 500000,
+        "name": "voodoo_doll"
     }
 ]
