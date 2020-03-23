@@ -586,9 +586,16 @@
                     36000000,
                     37500000
                 ]
+            },
+            "stock_of_stonks": {
+                "from": null,
+                "to": [
+                    0,
+                    0
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "614661627513536526": {
         "modification_history": {},
