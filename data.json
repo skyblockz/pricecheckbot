@@ -3253,8 +3253,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 5000,
+        "hi": 15000,
+        "low": 9000,
         "name": "wand_of_mending"
     },
     {
@@ -3646,5 +3646,11 @@
         "hi": 7500,
         "low": 2000,
         "name": "wand_of_healing"
+    },
+    {
+        "ac": true,
+        "hi": 170000,
+        "low": 50000,
+        "name": "wand_of_restoration"
     }
 ]
