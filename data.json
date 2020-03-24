@@ -667,8 +667,8 @@
     },
     {
         "ac": true,
-        "hi": 60000,
-        "low": 55000,
+        "hi": 90000,
+        "low": 60000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -751,8 +751,8 @@
     },
     {
         "ac": true,
-        "hi": 34500,
-        "low": 25600,
+        "hi": 38000,
+        "low": 32000,
         "name": "enchanted_melon_block"
     },
     {
@@ -799,8 +799,8 @@
     },
     {
         "ac": true,
-        "hi": 480,
-        "low": 480,
+        "hi": 1200,
+        "low": 600,
         "name": "enchanted_cocoa_bean"
     },
     {
@@ -847,8 +847,8 @@
     },
     {
         "ac": true,
-        "hi": 275000,
-        "low": 200000,
+        "hi": 355000,
+        "low": 275000,
         "name": "enchanted_cactus"
     },
     {
@@ -955,8 +955,8 @@
     },
     {
         "ac": true,
-        "hi": 3750,
-        "low": 3750,
+        "hi": 800,
+        "low": 750,
         "name": "enchanted_raw_chicken"
     },
     {
@@ -1201,8 +1201,8 @@
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 1000000,
+        "hi": 1700000,
+        "low": 1500000,
         "name": "mastiff_leggings"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "ac": true,
         "hi": 1000000,
-        "low": 750000,
+        "low": 600000,
         "name": "mastiff_boots"
     },
     {
@@ -1249,14 +1249,14 @@
     },
     {
         "ac": true,
-        "hi": 1750000,
-        "low": 1000000,
+        "hi": 1400000,
+        "low": 1200000,
         "name": "mastiff_crown"
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 1600000,
+        "hi": 1700000,
+        "low": 1300000,
         "name": "mastiff_chestplate"
     },
     {
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 30000,
+        "hi": 32000,
+        "low": 29000,
         "name": "enchanted_ink_sack"
     },
     {
@@ -3313,8 +3313,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 450000,
+        "hi": 400000,
+        "low": 300000,
         "name": "clay_minion_xi"
     },
     {
@@ -3634,5 +3634,11 @@
         "hi": 175000,
         "low": 138000,
         "name": "zombie_boots"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 260000,
+        "name": "enchanted_cooked_salmon"
     }
 ]
