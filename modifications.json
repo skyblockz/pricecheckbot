@@ -36,6 +36,16 @@
                     400000
                 ]
             },
+            "enchanted_cocoa_bean": {
+                "from": [
+                    480,
+                    480
+                ],
+                "to": [
+                    600,
+                    1200
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     25000,
@@ -77,7 +87,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "268844820317863936": {
         "modification_history": {
