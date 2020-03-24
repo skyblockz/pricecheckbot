@@ -36,6 +36,16 @@
                     400000
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    5200,
+                    5500
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "enchanted_cactus": {
                 "from": [
                     200000,
@@ -134,7 +144,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "268844820317863936": {
         "modification_history": {
