@@ -8,7 +8,7 @@
     {
         "ac": true,
         "hi": 1000000,
-        "low": 900000,
+        "low": 850000,
         "name": "strong_dragon_helmet"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
         "ac": true,
-        "hi": 255000,
-        "low": 125000,
+        "hi": 185000,
+        "low": 170000,
         "name": "wolf_talisman"
     },
     {
@@ -229,14 +229,14 @@
     },
     {
         "ac": true,
-        "hi": 480000,
-        "low": 375000,
+        "hi": 300000,
+        "low": 200000,
         "name": "wise_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 460000,
-        "low": 380000,
+        "hi": 300000,
+        "low": 200000,
         "name": "wise_dragon_chestplate"
     },
     {
@@ -3640,5 +3640,11 @@
         "hi": 300000,
         "low": 260000,
         "name": "enchanted_cooked_salmon"
+    },
+    {
+        "ac": true,
+        "hi": 7500,
+        "low": 2000,
+        "name": "wand_of_healing"
     }
 ]
