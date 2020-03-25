@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 5300000,
-        "low": 4500000,
+        "hi": 4700000,
+        "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -1333,8 +1333,8 @@
     },
     {
         "ac": true,
-        "hi": 14000,
-        "low": 10000,
+        "hi": 23000,
+        "low": 15000,
         "name": "crystal_fragment"
     },
     {
@@ -3025,12 +3025,6 @@
     },
     {
         "ac": true,
-        "hi": 340000000,
-        "low": 340000000,
-        "name": "legendary_enderdragon_pet"
-    },
-    {
-        "ac": true,
         "hi": 10,
         "low": 10,
         "name": "web"
@@ -3658,5 +3652,17 @@
         "hi": 1000000,
         "low": 800000,
         "name": "epic_ocelot_pet"
+    },
+    {
+        "ac": true,
+        "hi": 340000000,
+        "low": 340000000,
+        "name": "legendary_ender_dragon_pet"
+    },
+    {
+        "ac": true,
+        "hi": 61000,
+        "low": 61000,
+        "name": "armor_of_magma_chestplate"
     }
 ]
