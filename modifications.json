@@ -310,9 +310,12 @@
                 ]
             },
             "clay_minion_i": {
-                "from": null,
-                "to": [
+                "from": [
                     320,
+                    500
+                ],
+                "to": [
+                    1,
                     500
                 ]
             },
@@ -418,7 +421,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "390661701046894592": {
         "modification_history": {},
