@@ -208,6 +208,16 @@
     },
     "268844820317863936": {
         "modification_history": {
+            "critical_vi": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "epic_ender_dragon_pet": {
                 "from": [
                     50000000,
@@ -229,7 +239,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "298613178601046017": {
         "modification_history": {},
