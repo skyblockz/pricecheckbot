@@ -281,6 +281,16 @@
                     250000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    10000,
+                    14000
+                ],
+                "to": [
+                    15000,
+                    23000
+                ]
+            },
             "flower_minion": {
                 "from": [
                     4500000,
@@ -373,7 +383,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "390661701046894592": {
         "modification_history": {},
