@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 650000,
-        "low": 620000,
+        "hi": 680000,
+        "low": 635000,
         "name": "summoning_eye"
     },
     {
@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 350000,
+        "hi": 700000,
+        "low": 500000,
         "name": "critical_vi"
     },
     {
@@ -1915,8 +1915,8 @@
     },
     {
         "ac": true,
-        "hi": 646000,
-        "low": 646000,
+        "hi": 517000,
+        "low": 450000,
         "name": "weak_wolf_catalyst"
     },
     {
@@ -2791,8 +2791,8 @@
     },
     {
         "ac": true,
-        "hi": 54000000,
-        "low": 50000000,
+        "hi": 50000000,
+        "low": 45000000,
         "name": "epic_ender_dragon_pet"
     },
     {
@@ -3475,8 +3475,8 @@
     },
     {
         "ac": true,
-        "hi": 5500000,
-        "low": 4800000,
+        "hi": 5100000,
+        "low": 4000000,
         "name": "treecapitator"
     },
     {
@@ -3652,5 +3652,11 @@
         "hi": 170000,
         "low": 50000,
         "name": "wand_of_restoration"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 800000,
+        "name": "epic_ocelot_pet"
     }
 ]
