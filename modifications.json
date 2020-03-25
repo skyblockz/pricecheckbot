@@ -309,6 +309,13 @@
                     250000
                 ]
             },
+            "clay_minion_i": {
+                "from": null,
+                "to": [
+                    320,
+                    500
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     10000,
@@ -411,7 +418,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "390661701046894592": {
         "modification_history": {},
