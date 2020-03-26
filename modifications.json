@@ -11,6 +11,16 @@
                     950
                 ]
             },
+            "enchanted_coal_block": {
+                "from": [
+                    120000,
+                    165000
+                ],
+                "to": [
+                    200000,
+                    220000
+                ]
+            },
             "haste_ring": {
                 "from": [
                     85000,
@@ -142,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "192379146230300672": {
         "modification_history": {
