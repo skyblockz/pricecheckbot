@@ -429,6 +429,16 @@
                     1000000
                 ]
             },
+            "legendary_enderman_pet": {
+                "from": [
+                    45000000,
+                    55000000
+                ],
+                "to": [
+                    40000000,
+                    44000000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     3500000,
@@ -460,7 +470,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "298613178601046017": {
         "modification_history": {},
