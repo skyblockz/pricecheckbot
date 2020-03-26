@@ -301,26 +301,26 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 85000,
+        "hi": 200000,
+        "low": 150000,
         "name": "haste_ring"
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 950,
+        "low": 900,
         "name": "enchanted_coal"
     },
     {
         "ac": true,
-        "hi": 165000,
-        "low": 120000,
+        "hi": 220000,
+        "low": 200000,
         "name": "enchanted_coal_block"
     },
     {
         "ac": true,
         "hi": 1850,
-        "low": 1400,
+        "low": 1800,
         "name": "enchanted_iron"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
         "ac": true,
-        "hi": 160000,
-        "low": 100000,
+        "hi": 150000,
+        "low": 140000,
         "name": "enchanted_iron_block"
     },
     {
@@ -349,14 +349,14 @@
     },
     {
         "ac": true,
-        "hi": 3200,
-        "low": 3000,
+        "hi": 2800,
+        "low": 2600,
         "name": "enchanted_gold"
     },
     {
         "ac": true,
-        "hi": 170000,
-        "low": 100000,
+        "hi": 250000,
+        "low": 230000,
         "name": "enchanted_gold_block"
     },
     {
@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 200000,
+        "hi": 310000,
+        "low": 300000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -1195,8 +1195,8 @@
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 3500000,
+        "hi": 8100000,
+        "low": 6750000,
         "name": "revived_heart"
     },
     {
@@ -1435,8 +1435,8 @@
     },
     {
         "ac": true,
-        "hi": 325000,
-        "low": 300000,
+        "hi": 710000,
+        "low": 650000,
         "name": "zombie_heart"
     },
     {
@@ -1567,8 +1567,8 @@
     },
     {
         "ac": true,
-        "hi": 11500000,
-        "low": 10000000,
+        "hi": 12000000,
+        "low": 7800000,
         "name": "thick_scorpion_foil"
     },
     {
@@ -2377,7 +2377,7 @@
     },
     {
         "ac": true,
-        "hi": 2500000,
+        "hi": 1600000,
         "low": 1500000,
         "name": "survivor_cube"
     },
@@ -2389,8 +2389,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 250000,
+        "hi": 450000,
+        "low": 400000,
         "name": "healing_ring"
     },
     {
@@ -3607,26 +3607,26 @@
     },
     {
         "ac": true,
-        "hi": 1450000,
-        "low": 975000,
+        "hi": 700000,
+        "low": 600000,
         "name": "zombie_sword"
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 1500000,
+        "hi": 1700000,
+        "low": 1600000,
         "name": "zombie_chestplate"
     },
     {
         "ac": true,
-        "hi": 185000,
-        "low": 150000,
+        "hi": 150000,
+        "low": 140000,
         "name": "zombie_leggings"
     },
     {
         "ac": true,
-        "hi": 175000,
-        "low": 138000,
+        "hi": 150000,
+        "low": 130000,
         "name": "zombie_boots"
     },
     {
@@ -3700,5 +3700,11 @@
         "hi": 70000,
         "low": 30000,
         "name": "looting_iv"
+    },
+    {
+        "ac": true,
+        "hi": 2000000,
+        "low": 1500000,
+        "name": "flower_minion_xi"
     }
 ]
