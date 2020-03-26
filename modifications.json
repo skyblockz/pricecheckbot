@@ -1,6 +1,16 @@
 {
     "161144091894218752": {
         "modification_history": {
+            "healing_ring": {
+                "from": [
+                    250000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     30000000,
@@ -112,7 +122,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "192379146230300672": {
         "modification_history": {
