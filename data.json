@@ -2539,7 +2539,7 @@
     },
     {
         "ac": true,
-        "hi": 15000,
+        "hi": 30000,
         "low": 15000,
         "name": "scavenger_iv"
     },
@@ -3694,5 +3694,11 @@
         "hi": 8500,
         "low": 5500,
         "name": "enchanted_cake"
+    },
+    {
+        "ac": true,
+        "hi": 70000,
+        "low": 30000,
+        "name": "looting_iv"
     }
 ]
