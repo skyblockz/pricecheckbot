@@ -190,6 +190,13 @@
                     540
                 ]
             },
+            "looting_iv": {
+                "from": null,
+                "to": [
+                    30000,
+                    70000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     15000,
@@ -231,7 +238,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "268844820317863936": {
         "modification_history": {
