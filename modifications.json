@@ -429,6 +429,16 @@
                     1000000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    3500000,
+                    4300000
+                ],
+                "to": [
+                    8000000,
+                    9000000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     6300000,
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "298613178601046017": {
         "modification_history": {},
