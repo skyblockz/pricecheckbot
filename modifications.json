@@ -190,6 +190,16 @@
                     540
                 ]
             },
+            "scavenger_iv": {
+                "from": [
+                    15000,
+                    15000
+                ],
+                "to": [
+                    15000,
+                    30000
+                ]
+            },
             "smite_vi": {
                 "from": [
                     5000,
@@ -221,7 +231,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "268844820317863936": {
         "modification_history": {
