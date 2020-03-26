@@ -636,6 +636,16 @@
     },
     "390661701046894592": {
         "modification_history": {
+            "luck_vi": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     13,
@@ -657,7 +667,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "437305878257860608": {
         "modification_history": {
