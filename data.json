@@ -859,8 +859,8 @@
     },
     {
         "ac": true,
-        "hi": 320,
-        "low": 320,
+        "hi": 660,
+        "low": 620,
         "name": "enchanted_sugar"
     },
     {
@@ -3686,7 +3686,13 @@
     {
         "ac": true,
         "hi": 500,
-        "low": 320,
+        "low": 1,
         "name": "clay_minion_i"
+    },
+    {
+        "ac": true,
+        "hi": 8500,
+        "low": 5500,
+        "name": "enchanted_cake"
     }
 ]
