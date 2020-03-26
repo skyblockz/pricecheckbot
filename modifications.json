@@ -1117,6 +1117,16 @@
                     2500000
                 ]
             },
+            "zombie_heart": {
+                "from": [
+                    550000,
+                    700000
+                ],
+                "to": [
+                    650000,
+                    710000
+                ]
+            },
             "zombie_leggings": {
                 "from": null,
                 "to": [
@@ -1132,7 +1142,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "466769036122783744": {
         "modification_history": {
