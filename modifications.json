@@ -884,6 +884,16 @@
                     300000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    6750000,
+                    8100000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     800000,
@@ -1122,7 +1132,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "466769036122783744": {
         "modification_history": {
