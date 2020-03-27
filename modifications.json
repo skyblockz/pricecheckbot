@@ -869,9 +869,19 @@
                     95000,
                     120000
                 ]
+            },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "437305878257860608": {
         "modification_history": {
