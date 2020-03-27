@@ -91,6 +91,16 @@
                     1000
                 ]
             },
+            "enchanted_quartz": {
+                "from": [
+                    1300,
+                    2200
+                ],
+                "to": [
+                    2200,
+                    3000
+                ]
+            },
             "enchanted_quartz_block": {
                 "from": [
                     300000,
@@ -152,7 +162,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "333214758436208640": {
         "modification_history": {},
