@@ -666,6 +666,16 @@
                     4800000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    10000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "hunk_of_ice": {
                 "from": [
                     200,
@@ -727,7 +737,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "437305878257860608": {
         "modification_history": {
