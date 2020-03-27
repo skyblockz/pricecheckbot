@@ -560,6 +560,16 @@
                     18000000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    380000,
+                    480000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "spider_boots": {
                 "from": [
                     340000,
@@ -571,7 +581,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "390661701046894592": {
         "modification_history": {},
