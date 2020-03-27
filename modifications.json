@@ -141,6 +141,16 @@
                     140000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    4500,
+                    5000
+                ],
+                "to": [
+                    3800,
+                    4500
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     80,
@@ -432,7 +442,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "333214758436208640": {
         "modification_history": {},
