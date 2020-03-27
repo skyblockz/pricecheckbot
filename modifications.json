@@ -726,6 +726,16 @@
                     10000
                 ]
             },
+            "mushroom_boots": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    20,
+                    50
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     7000000,
@@ -847,7 +857,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "437305878257860608": {
         "modification_history": {
