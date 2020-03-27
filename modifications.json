@@ -41,6 +41,16 @@
                     1200000
                 ]
             },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    500,
+                    800
+                ],
+                "to": [
+                    850,
+                    1000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     545000,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "333214758436208640": {
         "modification_history": {},
