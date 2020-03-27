@@ -676,6 +676,16 @@
                     425000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    85000,
+                    110000
+                ],
+                "to": [
+                    85500,
+                    95000
+                ]
+            },
             "ender_helmet": {
                 "from": [
                     10000,
@@ -807,7 +817,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "437305878257860608": {
         "modification_history": {
