@@ -997,6 +997,16 @@
                     600000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    8000000,
+                    10500000
+                ],
+                "to": [
+                    3000000,
+                    8000000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1200000,
@@ -1048,7 +1058,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "614661627513536526": {
         "modification_history": {},
