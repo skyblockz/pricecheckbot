@@ -449,6 +449,16 @@
                     7400000
                 ]
             },
+            "growth_vi": {
+                "from": [
+                    4500000,
+                    5200000
+                ],
+                "to": [
+                    4500000,
+                    5000000
+                ]
+            },
             "legendary_enderman_pet": {
                 "from": [
                     45000000,
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "298613178601046017": {
         "modification_history": {},
