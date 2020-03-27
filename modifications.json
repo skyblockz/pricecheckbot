@@ -41,6 +41,16 @@
                     1200000
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    900,
+                    1200
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     35000,
@@ -102,7 +112,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "333214758436208640": {
         "modification_history": {},
