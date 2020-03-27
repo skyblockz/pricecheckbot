@@ -469,6 +469,16 @@
                     82000000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    425000,
+                    500000
+                ],
+                "to": [
+                    680000,
+                    750000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     3500000,
@@ -540,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "298613178601046017": {
         "modification_history": {},
