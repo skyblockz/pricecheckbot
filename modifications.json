@@ -550,6 +550,16 @@
                     750000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "legendary_guardian_pet": {
                 "from": [
                     11000000,
@@ -591,7 +601,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "390661701046894592": {
         "modification_history": {},
