@@ -351,6 +351,16 @@
                     12000000
                 ]
             },
+            "intimidation_talisman": {
+                "from": [
+                    200,
+                    200
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "magical_mushroom_soup": {
                 "from": [
                     10,
@@ -422,7 +432,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "333214758436208640": {
         "modification_history": {},
