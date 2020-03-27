@@ -560,6 +560,16 @@
                     400000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    650000,
+                    720000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
             "legendary_guardian_pet": {
                 "from": [
                     11000000,
@@ -621,7 +631,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "390661701046894592": {
         "modification_history": {},
