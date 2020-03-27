@@ -523,14 +523,14 @@
     },
     {
         "ac": true,
-        "hi": 480000,
-        "low": 380000,
+        "hi": 350000,
+        "low": 250000,
         "name": "night_crystal"
     },
     {
         "ac": true,
-        "hi": 480000,
-        "low": 380000,
+        "hi": 350000,
+        "low": 250000,
         "name": "day_crystal"
     },
     {
@@ -3742,5 +3742,11 @@
         "hi": 3850000,
         "low": 2900000,
         "name": "legendary_silverfish_pet"
+    },
+    {
+        "ac": true,
+        "hi": 500000,
+        "low": 200000,
+        "name": "epic_silverfish_pet"
     }
 ]
