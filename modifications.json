@@ -81,6 +81,16 @@
                     1200
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    61140,
+                    61140
+                ],
+                "to": [
+                    120000,
+                    180000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -332,7 +342,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "333214758436208640": {
         "modification_history": {},
