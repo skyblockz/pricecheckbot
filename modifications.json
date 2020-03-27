@@ -421,6 +421,16 @@
                     200000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    85000,
+                    110000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     600000,
@@ -462,7 +472,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "333214758436208640": {
         "modification_history": {},
