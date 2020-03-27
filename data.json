@@ -775,7 +775,7 @@
     },
     {
         "ac": true,
-        "hi": 150,
+        "hi": 50,
         "low": 20,
         "name": "mushroom_boots"
     },
@@ -1105,8 +1105,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 142000,
+        "hi": 175000,
+        "low": 156000,
         "name": "hot_potato_book"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "ac": true,
         "hi": 1200000,
-        "low": 800000,
+        "low": 825000,
         "name": "tarantula_helmet"
     },
     {
@@ -1297,8 +1297,8 @@
     },
     {
         "ac": true,
-        "hi": 11500000,
-        "low": 10500000,
+        "hi": 11000000,
+        "low": 10000000,
         "name": "wither_artifact"
     },
     {
@@ -1543,8 +1543,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4500,
+        "hi": 6250,
+        "low": 5000,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -3700,5 +3700,11 @@
         "hi": 2000000,
         "low": 1500000,
         "name": "flower_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 30000,
+        "low": 15000,
+        "name": "gift_compass"
     }
 ]
