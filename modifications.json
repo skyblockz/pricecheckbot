@@ -241,6 +241,16 @@
                     160000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    95000,
+                    115000
+                ],
+                "to": [
+                    82000,
+                    92000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     400000,
@@ -352,7 +362,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "333214758436208640": {
         "modification_history": {},
