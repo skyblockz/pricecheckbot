@@ -560,6 +560,16 @@
                     400000
                 ]
             },
+            "epic_parrot_pet": {
+                "from": [
+                    22000000,
+                    26000000
+                ],
+                "to": [
+                    24000000,
+                    28000000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     650000,
@@ -691,7 +701,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "390661701046894592": {
         "modification_history": {},
