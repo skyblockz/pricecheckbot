@@ -866,6 +866,16 @@
                     6250
                 ]
             },
+            "wither_artifact": {
+                "from": [
+                    10500000,
+                    11500000
+                ],
+                "to": [
+                    10000000,
+                    11000000
+                ]
+            },
             "young_dragon_fragment": {
                 "from": [
                     7250,
@@ -877,7 +887,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "437305878257860608": {
         "modification_history": {
