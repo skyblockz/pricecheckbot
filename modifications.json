@@ -251,6 +251,16 @@
                     12000000
                 ]
             },
+            "magical_mushroom_soup": {
+                "from": [
+                    10,
+                    40
+                ],
+                "to": [
+                    100,
+                    300
+                ]
+            },
             "night_crystal": {
                 "from": [
                     200000,
@@ -312,7 +322,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "333214758436208640": {
         "modification_history": {},
