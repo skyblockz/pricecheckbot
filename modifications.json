@@ -91,6 +91,16 @@
                     1200
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    60000,
+                    90000
+                ],
+                "to": [
+                    110000,
+                    140000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     80,
@@ -272,7 +282,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "333214758436208640": {
         "modification_history": {},
