@@ -121,6 +121,16 @@
                     480000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    35000,
+                    70000
+                ],
+                "to": [
+                    120000,
+                    160000
+                ]
+            },
             "night_crystal": {
                 "from": [
                     200000,
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "333214758436208640": {
         "modification_history": {},
