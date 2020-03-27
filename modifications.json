@@ -889,9 +889,16 @@
                     20000,
                     25000
                 ]
+            },
+            "revenant_minion": {
+                "from": null,
+                "to": [
+                    500000,
+                    700000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "437305878257860608": {
         "modification_history": {
