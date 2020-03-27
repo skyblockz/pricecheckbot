@@ -449,6 +449,16 @@
                     44000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    86000000,
+                    92000000
+                ],
+                "to": [
+                    79000000,
+                    82000000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     3500000,
@@ -510,7 +520,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "298613178601046017": {
         "modification_history": {},
