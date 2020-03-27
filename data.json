@@ -25,8 +25,8 @@
     },
     {
         "ac": true,
-        "hi": 710000,
-        "low": 600000,
+        "hi": 725000,
+        "low": 650000,
         "name": "strong_dragon_boots"
     },
     {
@@ -37,20 +37,20 @@
     },
     {
         "ac": true,
-        "hi": 1700000,
-        "low": 1450000,
+        "hi": 1400000,
+        "low": 1250000,
         "name": "strong_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 4700000,
-        "low": 4100000,
+        "hi": 5100000,
+        "low": 4400000,
         "name": "aspect_of_the_dragons"
     },
     {
         "ac": true,
         "hi": 1500000,
-        "low": 1400000,
+        "low": 1300000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -991,8 +991,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 425000,
+        "hi": 750000,
+        "low": 680000,
         "name": "potion_affinity_artifact"
     },
     {
@@ -1093,8 +1093,8 @@
     },
     {
         "ac": true,
-        "hi": 11000000,
-        "low": 9500000,
+        "hi": 10300000,
+        "low": 9700000,
         "name": "sharpness_vi"
     },
     {
@@ -1159,8 +1159,8 @@
     },
     {
         "ac": true,
-        "hi": 92000000,
-        "low": 86000000,
+        "hi": 82000000,
+        "low": 79000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1231,8 +1231,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 6500000,
+        "hi": 7400000,
+        "low": 6900000,
         "name": "giant_killer_vi"
     },
     {
@@ -1621,7 +1621,7 @@
     },
     {
         "ac": true,
-        "hi": 5200000,
+        "hi": 5000000,
         "low": 4500000,
         "name": "growth_vi"
     },
@@ -1807,8 +1807,8 @@
     },
     {
         "ac": true,
-        "hi": 12500000,
-        "low": 11500000,
+        "hi": 11500000,
+        "low": 10000000,
         "name": "digested_mosquito"
     },
     {
@@ -2149,8 +2149,8 @@
     },
     {
         "ac": true,
-        "hi": 3250000,
-        "low": 2500000,
+        "hi": 3500000,
+        "low": 3400000,
         "name": "protection_vi"
     },
     {
@@ -2323,8 +2323,8 @@
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 14000000,
+        "hi": 11500000,
+        "low": 10000000,
         "name": "scythe_blade"
     },
     {
@@ -2839,8 +2839,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 500,
+        "hi": 3500,
+        "low": 3500,
         "name": "jungle_axe"
     },
     {
@@ -3736,5 +3736,11 @@
         "hi": 500000,
         "low": 300000,
         "name": "speedster_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 800000,
+        "low": 800000,
+        "name": "true_protection_i"
     }
 ]
