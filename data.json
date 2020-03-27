@@ -43,7 +43,7 @@
     },
     {
         "ac": true,
-        "hi": 4400000,
+        "hi": 4300000,
         "low": 3800000,
         "name": "aspect_of_the_dragons"
     },
@@ -73,8 +73,8 @@
     },
     {
         "ac": true,
-        "hi": 2100000,
-        "low": 1800000,
+        "hi": 1600000,
+        "low": 1200000,
         "name": "tarantula_boots"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 900000,
+        "hi": 1200000,
+        "low": 1000000,
         "name": "tarantula_leggings"
     },
     {
@@ -103,8 +103,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 900000,
+        "hi": 1500000,
+        "low": 1000000,
         "name": "tarantula_chestplate"
     },
     {
@@ -193,8 +193,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 425000,
+        "hi": 420000,
+        "low": 360000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -679,8 +679,8 @@
     },
     {
         "ac": true,
-        "hi": 1100,
-        "low": 800,
+        "hi": 1150,
+        "low": 960,
         "name": "enchanted_potato"
     },
     {
@@ -877,8 +877,8 @@
     },
     {
         "ac": true,
-        "hi": 92000,
-        "low": 82000,
+        "hi": 120000,
+        "low": 95000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -938,7 +938,7 @@
     {
         "ac": true,
         "hi": 400000,
-        "low": 300000,
+        "low": 350000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
         "ac": true,
-        "hi": 20000,
+        "hi": 25000,
         "low": 20000,
         "name": "hamster_wheel"
     },
@@ -1225,8 +1225,8 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 825000,
+        "hi": 800000,
+        "low": 500000,
         "name": "tarantula_helmet"
     },
     {
@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 500000,
+        "hi": 600000,
+        "low": 300000,
         "name": "critical_vi"
     },
     {
@@ -1478,7 +1478,7 @@
     {
         "ac": true,
         "hi": 5000,
-        "low": 50,
+        "low": 5000,
         "name": "smite_vi"
     },
     {
@@ -2569,8 +2569,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 250000,
+        "hi": 400000,
+        "low": 365000,
         "name": "super_enchanted_egg"
     },
     {
@@ -2785,8 +2785,8 @@
     },
     {
         "ac": true,
-        "hi": 50000000,
-        "low": 45000000,
+        "hi": 55000000,
+        "low": 48000000,
         "name": "epic_ender_dragon_pet"
     },
     {
@@ -3589,8 +3589,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 600000,
+        "hi": 900000,
+        "low": 700000,
         "name": "zombie_sword"
     },
     {
@@ -3751,8 +3751,14 @@
     },
     {
         "ac": true,
-        "hi": 140000,
-        "low": 100000,
+        "hi": 125000,
+        "low": 75000,
         "name": "bane_of_anthropods_vi"
+    },
+    {
+        "ac": true,
+        "hi": 56000000,
+        "low": 50000000,
+        "name": "50_million_midas_sword"
     }
 ]
