@@ -361,6 +361,16 @@
                     12000000
                 ]
             },
+            "hunter_ring": {
+                "from": [
+                    30000000,
+                    32500000
+                ],
+                "to": [
+                    38000000,
+                    43500000
+                ]
+            },
             "intimidation_talisman": {
                 "from": [
                     200,
@@ -442,7 +452,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "333214758436208640": {
         "modification_history": {},
