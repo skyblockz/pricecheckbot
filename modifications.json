@@ -530,6 +530,16 @@
     },
     "335567131100053505": {
         "modification_history": {
+            "day_crystal": {
+                "from": [
+                    380000,
+                    480000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     800000,
@@ -581,7 +591,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "390661701046894592": {
         "modification_history": {},
