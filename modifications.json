@@ -51,6 +51,16 @@
                     480000
                 ]
             },
+            "enchanted_carrot": {
+                "from": [
+                    680,
+                    1050
+                ],
+                "to": [
+                    1000,
+                    1500
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "333214758436208640": {
         "modification_history": {},
