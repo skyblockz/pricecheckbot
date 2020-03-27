@@ -71,6 +71,16 @@
                     1500
                 ]
             },
+            "enchanted_cocoa_bean": {
+                "from": [
+                    600,
+                    1200
+                ],
+                "to": [
+                    900,
+                    1200
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -322,7 +332,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "333214758436208640": {
         "modification_history": {},
