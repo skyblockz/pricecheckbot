@@ -79,8 +79,8 @@
     },
     {
         "ac": true,
-        "hi": 410000,
-        "low": 340000,
+        "hi": 650000,
+        "low": 500000,
         "name": "spider_boots"
     },
     {
@@ -2269,8 +2269,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 800000,
+        "hi": 750000,
+        "low": 650000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -3736,5 +3736,11 @@
         "hi": 800000,
         "low": 800000,
         "name": "true_protection_i"
+    },
+    {
+        "ac": true,
+        "hi": 3850000,
+        "low": 2900000,
+        "name": "legendary_silverfish_pet"
     }
 ]
