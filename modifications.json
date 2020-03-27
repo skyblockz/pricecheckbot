@@ -890,6 +890,16 @@
                     25000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    7600000,
+                    11000000
+                ],
+                "to": [
+                    8000000,
+                    10500000
+                ]
+            },
             "revenant_minion": {
                 "from": null,
                 "to": [
@@ -898,7 +908,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "437305878257860608": {
         "modification_history": {
