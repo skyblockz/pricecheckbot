@@ -570,6 +570,16 @@
                     550000
                 ]
             },
+            "legendary_chicken_pet": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    700000,
+                    1500000
+                ]
+            },
             "legendary_guardian_pet": {
                 "from": [
                     11000000,
@@ -661,7 +671,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "390661701046894592": {
         "modification_history": {},
