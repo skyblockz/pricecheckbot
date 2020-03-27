@@ -101,6 +101,16 @@
                     480000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    200000,
+                    225000
+                ],
+                "to": [
+                    380000,
+                    480000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     545000,
@@ -142,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "333214758436208640": {
         "modification_history": {},
