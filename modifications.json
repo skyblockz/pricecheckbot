@@ -81,6 +81,16 @@
                     165000
                 ]
             },
+            "enchanted_birch": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    1700,
+                    2200
+                ]
+            },
             "enchanted_cactus_green": {
                 "from": [
                     450,
@@ -492,7 +502,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "333214758436208640": {
         "modification_history": {},
