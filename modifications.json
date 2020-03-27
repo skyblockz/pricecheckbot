@@ -91,6 +91,16 @@
                     1000
                 ]
             },
+            "enchanted_obsidian": {
+                "from": [
+                    9000,
+                    9750
+                ],
+                "to": [
+                    7000,
+                    9000
+                ]
+            },
             "enchanted_quartz": {
                 "from": [
                     1300,
@@ -172,7 +182,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "333214758436208640": {
         "modification_history": {},
