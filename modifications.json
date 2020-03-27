@@ -41,6 +41,16 @@
                     1200000
                 ]
             },
+            "day_crystal": {
+                "from": [
+                    200000,
+                    225000
+                ],
+                "to": [
+                    380000,
+                    480000
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     100000,
@@ -132,7 +142,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "333214758436208640": {
         "modification_history": {},
