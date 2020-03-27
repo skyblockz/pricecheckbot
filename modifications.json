@@ -231,6 +231,16 @@
                     480000
                 ]
             },
+            "enchanted_raw_beef": {
+                "from": [
+                    640,
+                    640
+                ],
+                "to": [
+                    1100,
+                    1500
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     35000,
@@ -362,7 +372,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "333214758436208640": {
         "modification_history": {},
