@@ -161,6 +161,16 @@
                     160000
                 ]
             },
+            "frozen_blaze_helmet": {
+                "from": [
+                    3000000,
+                    4500000
+                ],
+                "to": [
+                    10000000,
+                    13000000
+                ]
+            },
             "night_crystal": {
                 "from": [
                     200000,
@@ -222,7 +232,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "333214758436208640": {
         "modification_history": {},
