@@ -706,6 +706,16 @@
                     10000
                 ]
             },
+            "pooch_sword": {
+                "from": [
+                    7000000,
+                    7500000
+                ],
+                "to": [
+                    7000000,
+                    7000000
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     13,
@@ -777,7 +787,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "437305878257860608": {
         "modification_history": {
