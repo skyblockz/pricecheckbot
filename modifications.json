@@ -61,6 +61,16 @@
                     480000
                 ]
             },
+            "enchanted_acacia": {
+                "from": [
+                    1500,
+                    3600
+                ],
+                "to": [
+                    1400,
+                    1850
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     120000,
@@ -472,7 +482,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "333214758436208640": {
         "modification_history": {},
