@@ -933,6 +933,16 @@
                     4300000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    300000,
+                    600000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1200000,
@@ -974,7 +984,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
