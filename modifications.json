@@ -965,6 +965,16 @@
                     150000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    3800,
+                    4500
+                ],
+                "to": [
+                    3100,
+                    3900
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     83000,
@@ -996,7 +1006,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "600383557038374913": {
         "modification_history": {
