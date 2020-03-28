@@ -44,7 +44,7 @@
     {
         "ac": true,
         "hi": 4300000,
-        "low": 4000000,
+        "low": 3900000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -1591,12 +1591,6 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 5000000,
-        "name": "flower_minion"
-    },
-    {
-        "ac": true,
         "hi": 5000,
         "low": 3500,
         "name": "wise_dragon_fragment"
@@ -2173,14 +2167,14 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 70000,
+        "hi": 115000,
+        "low": 100000,
         "name": "protector_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 70000,
+        "hi": 130000,
+        "low": 100000,
         "name": "protector_dragon_leggings"
     },
     {
@@ -2353,8 +2347,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 300000,
+        "hi": 600000,
+        "low": 400000,
         "name": "beacon"
     },
     {
@@ -2583,12 +2577,6 @@
         "ac": true,
         "hi": 60000000,
         "low": 48000000,
-        "name": "Enderman_Pet"
-    },
-    {
-        "ac": true,
-        "hi": 60000000,
-        "low": 48000000,
         "name": "Legendary_Enderman_Pet"
     },
     {
@@ -2755,8 +2743,8 @@
     },
     {
         "ac": true,
-        "hi": 44000000,
-        "low": 40000000,
+        "hi": 57000000,
+        "low": 50500000,
         "name": "legendary_enderman_pet"
     },
     {
@@ -3595,8 +3583,8 @@
     },
     {
         "ac": true,
-        "hi": 1700000,
-        "low": 1600000,
+        "hi": 2500000,
+        "low": 2000000,
         "name": "zombie_chestplate"
     },
     {
@@ -3826,5 +3814,17 @@
         "hi": 160000,
         "low": 65000,
         "name": "combat_xp_potion_iii"
+    },
+    {
+        "ac": true,
+        "hi": 7000000,
+        "low": 5500000,
+        "name": "flower_minion_i"
+    },
+    {
+        "ac": true,
+        "hi": 2500,
+        "low": 1000,
+        "name": "magnet_vi"
     }
 ]
