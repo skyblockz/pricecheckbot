@@ -31,6 +31,16 @@
                     100000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    25000,
+                    55000
+                ],
+                "to": [
+                    500,
+                    25000
+                ]
+            },
             "shrimp_the_fish": {
                 "from": null,
                 "to": [
@@ -69,7 +79,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "310369675987124225": {
         "modification_history": {
