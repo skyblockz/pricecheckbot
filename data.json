@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 85500,
+        "hi": 82500,
+        "low": 70000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -1027,8 +1027,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 7000000,
+        "hi": 7500000,
+        "low": 6975000,
         "name": "pooch_sword"
     },
     {
@@ -1111,8 +1111,8 @@
     },
     {
         "ac": true,
-        "hi": 14500000,
-        "low": 11000000,
+        "hi": 14600000,
+        "low": 13300000,
         "name": "superior_dragon_chestplate"
     },
     {
@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 300000,
+        "hi": 550000,
+        "low": 425000,
         "name": "critical_vi"
     },
     {
@@ -1988,7 +1988,7 @@
     {
         "ac": true,
         "hi": 16000000,
-        "low": 16000000,
+        "low": 15350000,
         "name": "dragon_hunter_5"
     },
     {
@@ -2371,8 +2371,8 @@
     },
     {
         "ac": true,
-        "hi": 2100000,
-        "low": 2100000,
+        "hi": 2500000,
+        "low": 2200000,
         "name": "weird_tuba"
     },
     {
@@ -3814,5 +3814,11 @@
         "hi": 7250000,
         "low": 6800000,
         "name": "hunter_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 130000,
+        "low": 100000,
+        "name": "protector_dragon_helmet"
     }
 ]
