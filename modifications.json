@@ -1129,6 +1129,16 @@
                     700000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    78000,
+                    82000
+                ],
+                "to": [
+                    66500,
+                    72500
+                ]
+            },
             "revived_heart": {
                 "from": [
                     6750000,
@@ -1150,7 +1160,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "437305878257860608": {
         "modification_history": {
