@@ -472,6 +472,16 @@
                     480000
                 ]
             },
+            "silver_fang": {
+                "from": [
+                    2000,
+                    7000
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
             "solar_panel": {
                 "from": [
                     70000,
@@ -533,7 +543,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "333214758436208640": {
         "modification_history": {},
