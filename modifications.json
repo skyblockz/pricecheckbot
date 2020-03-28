@@ -1239,6 +1239,13 @@
     },
     "437305878257860608": {
         "modification_history": {
+            "combat_xp_potion_iii": {
+                "from": null,
+                "to": [
+                    65000,
+                    160000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     10000000,
@@ -1342,7 +1349,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "466769036122783744": {
         "modification_history": {},
