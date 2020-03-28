@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 670000,
-        "low": 600000,
+        "hi": 620000,
+        "low": 580000,
         "name": "summoning_eye"
     },
     {
@@ -44,7 +44,7 @@
     {
         "ac": true,
         "hi": 4300000,
-        "low": 3800000,
+        "low": 4000000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -61,14 +61,14 @@
     },
     {
         "ac": true,
-        "hi": 180000,
+        "hi": 190000,
         "low": 160000,
         "name": "superior_dragon_fragment"
     },
     {
         "ac": true,
-        "hi": 175000,
-        "low": 150000,
+        "hi": 200000,
+        "low": 175000,
         "name": "aspect_of_the_end"
     },
     {
@@ -259,14 +259,14 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 445000,
+        "hi": 480000,
+        "low": 460000,
         "name": "super_compactor_3000"
     },
     {
         "ac": true,
-        "hi": 970,
-        "low": 910,
+        "hi": 1400,
+        "low": 850,
         "name": "enchanted_cobblestone"
     },
     {
@@ -679,8 +679,8 @@
     },
     {
         "ac": true,
-        "hi": 1150,
-        "low": 960,
+        "hi": 1000,
+        "low": 800,
         "name": "enchanted_potato"
     },
     {
@@ -1057,8 +1057,8 @@
     },
     {
         "ac": true,
-        "hi": 43500000,
-        "low": 38000000,
+        "hi": 35000000,
+        "low": 32000000,
         "name": "hunter_ring"
     },
     {
@@ -1141,20 +1141,20 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 350000,
+        "hi": 450000,
+        "low": 400000,
         "name": "young_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 600000,
+        "hi": 850000,
+        "low": 700000,
         "name": "young_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 875000,
-        "low": 700000,
+        "hi": 770000,
+        "low": 600000,
         "name": "young_dragon_chestplate"
     },
     {
@@ -1195,7 +1195,7 @@
     },
     {
         "ac": true,
-        "hi": 8100000,
+        "hi": 7750000,
         "low": 6750000,
         "name": "revived_heart"
     },
@@ -1315,8 +1315,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 540000,
+        "hi": 685000,
+        "low": 575000,
         "name": "young_dragon_helmet"
     },
     {
@@ -1405,7 +1405,7 @@
     },
     {
         "ac": true,
-        "hi": 15000,
+        "hi": 25000,
         "low": 10000,
         "name": "ender_helmet"
     },
@@ -1423,7 +1423,7 @@
     },
     {
         "ac": true,
-        "hi": 25000,
+        "hi": 15000,
         "low": 10000,
         "name": "ender_boots"
     },
@@ -1609,8 +1609,8 @@
     },
     {
         "ac": true,
-        "hi": 82000,
-        "low": 78000,
+        "hi": 72500,
+        "low": 66500,
         "name": "revenant_viscera"
     },
     {
@@ -2041,8 +2041,8 @@
     },
     {
         "ac": true,
-        "hi": 55000,
-        "low": 25000,
+        "hi": 25000,
+        "low": 500,
         "name": "radiant_power_orb"
     },
     {
@@ -2119,8 +2119,8 @@
     },
     {
         "ac": true,
-        "hi": 7000,
-        "low": 6000,
+        "hi": 5600,
+        "low": 4200,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2275,8 +2275,8 @@
     },
     {
         "ac": true,
-        "hi": 625000,
-        "low": 525000,
+        "hi": 800000,
+        "low": 400000,
         "name": "revenant_falchion"
     },
     {
@@ -2293,8 +2293,8 @@
     },
     {
         "ac": true,
-        "hi": 5400,
-        "low": 3250,
+        "hi": 3250,
+        "low": 2650,
         "name": "teleport_pad"
     },
     {
@@ -3808,5 +3808,11 @@
         "hi": 10,
         "low": 10,
         "name": "rabbit_hat"
+    },
+    {
+        "ac": true,
+        "hi": 7250000,
+        "low": 6800000,
+        "name": "hunter_talisman"
     }
 ]
