@@ -965,6 +965,16 @@
                     150000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    230000,
+                    250000
+                ],
+                "to": [
+                    390000,
+                    415000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     3800,
@@ -1006,7 +1016,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "600383557038374913": {
         "modification_history": {
