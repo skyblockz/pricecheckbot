@@ -1160,6 +1160,16 @@
                     110000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5000000,
@@ -1312,7 +1322,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "437305878257860608": {
         "modification_history": {
