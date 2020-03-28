@@ -1051,8 +1051,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 50000,
+        "hi": 57000,
+        "low": 27500,
         "name": "spooky_shard"
     },
     {
@@ -1807,7 +1807,7 @@
     },
     {
         "ac": true,
-        "hi": 11500000,
+        "hi": 14500000,
         "low": 10000000,
         "name": "digested_mosquito"
     },
@@ -3790,5 +3790,11 @@
         "hi": 595000,
         "low": 430000,
         "name": "spooky_boots"
+    },
+    {
+        "ac": true,
+        "hi": 2000000,
+        "low": 700000,
+        "name": "shrimp_the_fish"
     }
 ]
