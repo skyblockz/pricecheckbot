@@ -51,6 +51,16 @@
                     25000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    525000,
+                    625000
+                ],
+                "to": [
+                    400000,
+                    800000
+                ]
+            },
             "shrimp_the_fish": {
                 "from": null,
                 "to": [
@@ -89,7 +99,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "310369675987124225": {
         "modification_history": {
