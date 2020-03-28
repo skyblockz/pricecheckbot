@@ -1263,6 +1263,16 @@
                     3850000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    2350000,
+                    4000000
+                ]
+            },
             "spooky_boots": {
                 "from": null,
                 "to": [
@@ -1302,7 +1312,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {},
