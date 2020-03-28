@@ -27,6 +27,16 @@
                     200000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    910,
+                    970
+                ],
+                "to": [
+                    850,
+                    1100
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     960,
@@ -109,7 +119,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "310369675987124225": {
         "modification_history": {
