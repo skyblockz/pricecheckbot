@@ -1263,6 +1263,16 @@
                     3850000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    375000,
+                    575000
+                ]
+            },
             "scorpion_foil": {
                 "from": [
                     2000000,
@@ -1312,7 +1322,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
