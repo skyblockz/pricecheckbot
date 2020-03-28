@@ -1579,8 +1579,8 @@
     },
     {
         "ac": true,
-        "hi": 550000,
-        "low": 400000,
+        "hi": 650000,
+        "low": 500000,
         "name": "explosive_bow"
     },
     {
@@ -3826,5 +3826,11 @@
         "hi": 2500,
         "low": 1000,
         "name": "magnet_vi"
+    },
+    {
+        "ac": true,
+        "hi": 13500000,
+        "low": 12000000,
+        "name": "flycatcher"
     }
 ]
