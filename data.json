@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 620000,
-        "low": 580000,
+        "hi": 660000,
+        "low": 600000,
         "name": "summoning_eye"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4000,
+        "hi": 6000,
+        "low": 4500,
         "name": "grand_experience_bottle"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
         "ac": true,
-        "hi": 950,
-        "low": 900,
+        "hi": 1600,
+        "low": 1200,
         "name": "enchanted_coal"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
         "ac": true,
-        "hi": 1850,
-        "low": 1800,
+        "hi": 2300,
+        "low": 1900,
         "name": "enchanted_iron"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 140000,
+        "hi": 190000,
+        "low": 160000,
         "name": "enchanted_iron_block"
     },
     {
@@ -355,8 +355,8 @@
     },
     {
         "ac": true,
-        "hi": 415000,
-        "low": 390000,
+        "hi": 350000,
+        "low": 270000,
         "name": "enchanted_gold_block"
     },
     {
@@ -397,7 +397,7 @@
     },
     {
         "ac": true,
-        "hi": 204800,
+        "hi": 210000,
         "low": 204800,
         "name": "enchanted_diamond_block"
     },
@@ -415,8 +415,8 @@
     },
     {
         "ac": true,
-        "hi": 1000,
-        "low": 850,
+        "hi": 1350,
+        "low": 1000,
         "name": "enchanted_lapis_lazuli"
     },
     {
@@ -427,8 +427,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 365000,
+        "hi": 560000,
+        "low": 400000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 1020,
-        "low": 780,
+        "hi": 1200,
+        "low": 900,
         "name": "enchanted_emerald"
     },
     {
@@ -1189,7 +1189,7 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
+        "hi": 11000000,
         "low": 7000000,
         "name": "reaper_falchion"
     },
@@ -3283,7 +3283,7 @@
     },
     {
         "ac": true,
-        "hi": 6750000,
+        "hi": 6000000,
         "low": 4750000,
         "name": "legendary_wolf"
     },
@@ -3832,5 +3832,11 @@
         "hi": 13500000,
         "low": 12000000,
         "name": "flycatcher"
+    },
+    {
+        "ac": true,
+        "hi": 25000,
+        "low": 10000,
+        "name": "savanna_bow"
     }
 ]
