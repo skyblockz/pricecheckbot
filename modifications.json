@@ -31,6 +31,16 @@
                     3000000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    425000,
+                    550000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5500000,
@@ -112,7 +122,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "192379146230300672": {
         "modification_history": {},
