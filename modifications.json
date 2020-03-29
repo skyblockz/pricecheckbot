@@ -902,6 +902,16 @@
                     120
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    50000,
+                    200000
+                ],
+                "to": [
+                    5000,
+                    12000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     66500,
@@ -1103,7 +1113,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "325104094530502684": {
         "modification_history": {
