@@ -1327,8 +1327,8 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 7000000,
+        "hi": 7250000,
+        "low": 6500000,
         "name": "tarantula_talisman"
     },
     {
@@ -3859,12 +3859,6 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1000000,
-        "name": "ocelot_pet"
-    },
-    {
-        "ac": true,
         "hi": 25000,
         "low": 15000,
         "name": "fishing_xp_boost_3"
@@ -3874,5 +3868,17 @@
         "hi": 100,
         "low": 50,
         "name": "frail_VI"
+    },
+    {
+        "ac": true,
+        "hi": 600,
+        "low": 400,
+        "name": "Magnet_VI"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 10000,
+        "name": "frost_snowball"
     }
 ]
