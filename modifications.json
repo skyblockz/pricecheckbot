@@ -2264,9 +2264,16 @@
                     500000,
                     750000
                 ]
+            },
+            "ocelot_pet": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1500000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "600383557038374913": {
         "modification_history": {
