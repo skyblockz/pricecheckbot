@@ -632,6 +632,16 @@
                     12000000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    4500,
+                    6000
+                ]
+            },
             "hunter_ring": {
                 "from": [
                     30000000,
@@ -743,7 +753,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "333214758436208640": {
         "modification_history": {},
