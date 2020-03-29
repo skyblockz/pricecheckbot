@@ -454,12 +454,12 @@
             },
             "enchanted_ice": {
                 "from": [
-                    80,
-                    330
-                ],
-                "to": [
                     560,
                     800
+                ],
+                "to": [
+                    700,
+                    1150
                 ]
             },
             "enchanted_iron": {
@@ -833,7 +833,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "325104094530502684": {
         "modification_history": {
