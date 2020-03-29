@@ -882,6 +882,16 @@
                     480000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1600000,
+                    2150000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
             "redstone_block": {
                 "from": [
                     500,
@@ -1093,7 +1103,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "325104094530502684": {
         "modification_history": {
