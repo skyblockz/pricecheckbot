@@ -41,6 +41,16 @@
                     10000000
                 ]
             },
+            "hunter_talisman": {
+                "from": [
+                    6800000,
+                    7250000
+                ],
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
             "savanna_bow": {
                 "from": [
                     10000,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "192379146230300672": {
         "modification_history": {},
