@@ -852,6 +852,16 @@
                     480000
                 ]
             },
+            "redstone_block": {
+                "from": [
+                    500,
+                    5000
+                ],
+                "to": [
+                    50,
+                    120
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     66500,
@@ -1013,7 +1023,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "325104094530502684": {
         "modification_history": {
