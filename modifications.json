@@ -247,6 +247,13 @@
                     25000
                 ]
             },
+            "fishing_xp_boost_iii_potion": {
+                "from": null,
+                "to": [
+                    200,
+                    20000
+                ]
+            },
             "frost_snowball": {
                 "from": null,
                 "to": [
@@ -376,7 +383,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "310369675987124225": {
         "modification_history": {
