@@ -252,6 +252,16 @@
                     11200000
                 ]
             },
+            "catalyst": {
+                "from": [
+                    12500,
+                    20000
+                ],
+                "to": [
+                    18000,
+                    30000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     650000,
@@ -1063,7 +1073,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "325104094530502684": {
         "modification_history": {
