@@ -302,6 +302,16 @@
                     2200
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    56,
+                    110
+                ]
+            },
             "enchanted_cactus_green": {
                 "from": [
                     450,
@@ -833,7 +843,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "325104094530502684": {
         "modification_history": {
