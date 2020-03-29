@@ -822,6 +822,16 @@
                     480000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    1150000,
+                    1400000
+                ],
+                "to": [
+                    800000,
+                    120000
+                ]
+            },
             "silver_fang": {
                 "from": [
                     2000,
@@ -903,7 +913,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "325104094530502684": {
         "modification_history": {
