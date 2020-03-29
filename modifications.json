@@ -992,6 +992,16 @@
                     560000
                 ]
             },
+            "toxic_arrow_poison": {
+                "from": [
+                    1800,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "vampirism_vi": {
                 "from": [
                     1700000,
@@ -1033,7 +1043,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "325104094530502684": {
         "modification_history": {
