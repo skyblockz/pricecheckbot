@@ -1667,6 +1667,16 @@
                     13500000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    4500,
+                    6000
+                ],
+                "to": [
+                    5000,
+                    6250
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -1829,7 +1839,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "437305878257860608": {
         "modification_history": {
