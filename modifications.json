@@ -382,6 +382,16 @@
                     1200
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    153600,
+                    153600
+                ],
+                "to": [
+                    160000,
+                    185000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -823,7 +833,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "325104094530502684": {
         "modification_history": {
