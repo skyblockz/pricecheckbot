@@ -362,6 +362,16 @@
                     1800
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    204800,
+                    204800
+                ],
+                "to": [
+                    204800,
+                    210000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -793,7 +803,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "333214758436208640": {
         "modification_history": {},
