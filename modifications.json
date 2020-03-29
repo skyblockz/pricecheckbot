@@ -952,6 +952,16 @@
                     3000000
                 ]
             },
+            "white_gift": {
+                "from": [
+                    2500,
+                    4000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     10000000,
@@ -973,7 +983,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "325104094530502684": {
         "modification_history": {
