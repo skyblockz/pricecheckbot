@@ -31,6 +31,16 @@
                     3000000
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    5500000,
+                    7000000
+                ],
+                "to": [
+                    4000000,
+                    5500000
+                ]
+            },
             "flycatcher": {
                 "from": [
                     12000000,
@@ -62,7 +72,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "192379146230300672": {
         "modification_history": {},
