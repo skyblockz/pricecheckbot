@@ -61,6 +61,16 @@
                     6000000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    500,
+                    25000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "savanna_bow": {
                 "from": [
                     10000,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "192379146230300672": {
         "modification_history": {},
