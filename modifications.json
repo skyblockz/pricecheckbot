@@ -412,6 +412,16 @@
                     4000
                 ]
             },
+            "enchanted_ghast_tear": {
+                "from": [
+                    100,
+                    110
+                ],
+                "to": [
+                    150,
+                    200
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     100000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "325104094530502684": {
         "modification_history": {
