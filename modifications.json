@@ -2265,6 +2265,13 @@
                     750000
                 ]
             },
+            "fishing_xp_boost_3": {
+                "from": null,
+                "to": [
+                    15000,
+                    25000
+                ]
+            },
             "ocelot_pet": {
                 "from": null,
                 "to": [
@@ -2273,7 +2280,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "600383557038374913": {
         "modification_history": {
