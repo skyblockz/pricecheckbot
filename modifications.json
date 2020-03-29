@@ -412,6 +412,16 @@
                     800
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1800,
+                    1850
+                ],
+                "to": [
+                    1900,
+                    2300
+                ]
+            },
             "enchanted_jungle_wood": {
                 "from": [
                     2400,
@@ -753,7 +763,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "333214758436208640": {
         "modification_history": {},
