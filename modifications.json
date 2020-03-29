@@ -1788,6 +1788,16 @@
                     7750000
                 ]
             },
+            "smite_vi": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    60000,
+                    120000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     11000000,
@@ -1819,7 +1829,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "437305878257860608": {
         "modification_history": {
