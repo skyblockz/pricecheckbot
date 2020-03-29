@@ -832,6 +832,16 @@
                     9000000
                 ]
             },
+            "runaans_bow": {
+                "from": [
+                    800000,
+                    975000
+                ],
+                "to": [
+                    650000,
+                    850000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     1150000,
@@ -943,7 +953,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "325104094530502684": {
         "modification_history": {
