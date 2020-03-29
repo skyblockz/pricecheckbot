@@ -662,6 +662,16 @@
                     1500
                 ]
             },
+            "enchanted_raw_chicken": {
+                "from": [
+                    750,
+                    800
+                ],
+                "to": [
+                    600,
+                    800
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     35000,
@@ -883,7 +893,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "325104094530502684": {
         "modification_history": {
