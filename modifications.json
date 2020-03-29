@@ -1954,6 +1954,16 @@
                     3900
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    13500000,
+                    16700000
+                ],
+                "to": [
+                    12700000,
+                    13800000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     83000,
@@ -1995,7 +2005,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "600383557038374913": {
         "modification_history": {
