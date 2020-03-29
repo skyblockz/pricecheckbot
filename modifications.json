@@ -912,6 +912,16 @@
                     12000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    400000,
+                    800000
+                ],
+                "to": [
+                    800000,
+                    1200000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     66500,
@@ -1113,7 +1123,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "325104094530502684": {
         "modification_history": {
