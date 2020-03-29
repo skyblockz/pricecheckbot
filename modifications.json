@@ -484,12 +484,12 @@
             },
             "enchanted_lapis_lazuli": {
                 "from": [
-                    500,
-                    800
-                ],
-                "to": [
                     850,
                     1000
+                ],
+                "to": [
+                    1000,
+                    1350
                 ]
             },
             "enchanted_leather": {
@@ -803,7 +803,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "333214758436208640": {
         "modification_history": {},
