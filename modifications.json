@@ -922,6 +922,16 @@
                     850000
                 ]
             },
+            "scorpion_bow": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    1500000,
+                    3000000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     1150000,
@@ -1073,7 +1083,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "325104094530502684": {
         "modification_history": {
