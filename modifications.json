@@ -247,6 +247,13 @@
                     25000
                 ]
             },
+            "frost_snowball": {
+                "from": null,
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "rabbit_hat": {
                 "from": null,
                 "to": [
@@ -369,7 +376,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "310369675987124225": {
         "modification_history": {
