@@ -1580,6 +1580,16 @@
                     16000000
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    600000,
+                    695000
+                ]
+            },
             "enchanted_emerald": {
                 "from": [
                     900,
@@ -1849,7 +1859,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "437305878257860608": {
         "modification_history": {
