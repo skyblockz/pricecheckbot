@@ -1033,8 +1033,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 20000,
+        "hi": 30000,
+        "low": 25000,
         "name": "hamster_wheel"
     },
     {
@@ -1189,7 +1189,7 @@
     },
     {
         "ac": true,
-        "hi": 11000000,
+        "hi": 9000000,
         "low": 7000000,
         "name": "reaper_falchion"
     },
@@ -1927,12 +1927,6 @@
     },
     {
         "ac": true,
-        "hi": 32000,
-        "low": 29000,
-        "name": "enchanted_ink_sack"
-    },
-    {
-        "ac": true,
         "hi": 460,
         "low": 375,
         "name": "ink_sack"
@@ -2017,8 +2011,8 @@
     },
     {
         "ac": true,
-        "hi": 14000000,
-        "low": 10000000,
+        "hi": 9000000,
+        "low": 8000000,
         "name": "shredder"
     },
     {
@@ -2923,12 +2917,6 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4500000,
-        "name": "legendary_flying_fish_pet"
-    },
-    {
-        "ac": true,
         "hi": 7000000,
         "low": 5750000,
         "name": "legendary_guardian_pet"
@@ -2959,8 +2947,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 3000000,
+        "hi": 2750000,
+        "low": 2000000,
         "name": "ink_wand"
     },
     {
@@ -3886,5 +3874,23 @@
         "hi": 20000,
         "low": 200,
         "name": "fishing_xp_boost_iii_potion"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 4500000,
+        "name": "legendary_flying_fish"
+    },
+    {
+        "ac": true,
+        "hi": 35000,
+        "low": 30000,
+        "name": "enchanted_ink_sac"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 150000,
+        "name": "angler_vi"
     }
 ]
