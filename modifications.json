@@ -1949,6 +1949,16 @@
                     25000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "legendary_enderman_pet": {
                 "from": [
                     48000000,
@@ -2121,7 +2131,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "437305878257860608": {
         "modification_history": {
