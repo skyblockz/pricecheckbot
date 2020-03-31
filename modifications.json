@@ -141,6 +141,16 @@
                     6000000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    1000,
+                    2200
+                ],
+                "to": [
+                    1500,
+                    1600
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     20000,
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "192379146230300672": {
         "modification_history": {},
