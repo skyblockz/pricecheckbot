@@ -71,6 +71,16 @@
                     400000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    165000,
+                    187000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5500000,
@@ -192,7 +202,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "192379146230300672": {
         "modification_history": {},
