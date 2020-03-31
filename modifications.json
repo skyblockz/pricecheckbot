@@ -71,6 +71,16 @@
                     400000
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1900,
+                    2300
+                ],
+                "to": [
+                    1800,
+                    1900
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     165000,
@@ -212,7 +222,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "192379146230300672": {
         "modification_history": {},
