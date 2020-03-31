@@ -151,6 +151,16 @@
                     8000000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    46,
+                    66
+                ],
+                "to": [
+                    80,
+                    90
+                ]
+            },
             "yeti_sword": {
                 "from": [
                     50000000,
@@ -162,7 +172,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "192379146230300672": {
         "modification_history": {},
