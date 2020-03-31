@@ -31,6 +31,16 @@
                     3000000
                 ]
             },
+            "blaze_rod": {
+                "from": [
+                    60,
+                    75
+                ],
+                "to": [
+                    60,
+                    60
+                ]
+            },
             "critical_vi": {
                 "from": [
                     425000,
@@ -142,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "192379146230300672": {
         "modification_history": {},
