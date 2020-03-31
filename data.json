@@ -37,8 +37,8 @@
     },
     {
         "ac": true,
-        "hi": 1400000,
-        "low": 1250000,
+        "hi": 1450000,
+        "low": 1300000,
         "name": "strong_dragon_leggings"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1300000,
+        "hi": 1800000,
+        "low": 1500000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
         "ac": true,
-        "hi": 1345000,
+        "hi": 900000,
         "low": 800000,
         "name": "rod_of_champions"
     },
@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 850000,
-        "low": 700000,
+        "hi": 650000,
+        "low": 575000,
         "name": "young_dragon_leggings"
     },
     {
@@ -1315,8 +1315,8 @@
     },
     {
         "ac": true,
-        "hi": 685000,
-        "low": 575000,
+        "hi": 550000,
+        "low": 475000,
         "name": "young_dragon_helmet"
     },
     {
@@ -1525,8 +1525,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 40000,
+        "hi": 400000,
+        "low": 300000,
         "name": "boots_of_growth"
     },
     {
@@ -2371,8 +2371,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 400000,
+        "hi": 300000,
+        "low": 250000,
         "name": "healing_ring"
     },
     {
@@ -3892,5 +3892,11 @@
         "hi": 250000,
         "low": 150000,
         "name": "angler_vi"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 100000,
+        "name": "tarantula_minion_i"
     }
 ]
