@@ -1410,8 +1410,19 @@
         "total_mods": 4
     },
     "333214758436208640": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "caster_vi": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "335567131100053505": {
         "modification_history": {
