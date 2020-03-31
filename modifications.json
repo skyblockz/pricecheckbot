@@ -41,6 +41,16 @@
                     60
                 ]
             },
+            "budget_hopper": {
+                "from": [
+                    1200,
+                    1200
+                ],
+                "to": [
+                    14000,
+                    15000
+                ]
+            },
             "critical_vi": {
                 "from": [
                     425000,
@@ -152,7 +162,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "192379146230300672": {
         "modification_history": {},
