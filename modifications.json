@@ -191,6 +191,16 @@
                     90
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "yeti_sword": {
                 "from": [
                     50000000,
@@ -202,7 +212,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "192379146230300672": {
         "modification_history": {},
