@@ -2130,6 +2130,13 @@
                     14600000
                 ]
             },
+            "tarantula_minion_i": {
+                "from": null,
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "teleport_pad": {
                 "from": [
                     3250,
@@ -2171,7 +2178,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "437305878257860608": {
         "modification_history": {
