@@ -81,6 +81,16 @@
                     400000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    850,
+                    1400
+                ],
+                "to": [
+                    700,
+                    800
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1900,
@@ -272,7 +282,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "192379146230300672": {
         "modification_history": {},
