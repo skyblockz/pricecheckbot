@@ -91,6 +91,16 @@
                     1900
                 ]
             },
+            "enchanted_potato": {
+                "from": [
+                    800,
+                    1000
+                ],
+                "to": [
+                    600,
+                    700
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     165000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "192379146230300672": {
         "modification_history": {},
