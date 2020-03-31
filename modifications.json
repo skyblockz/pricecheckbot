@@ -261,6 +261,16 @@
                     120000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    27500,
+                    57000
+                ],
+                "to": [
+                    27000,
+                    28000
+                ]
+            },
             "tarantula_helmet": {
                 "from": [
                     500000,
@@ -322,7 +332,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "192379146230300672": {
         "modification_history": {},
