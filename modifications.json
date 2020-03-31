@@ -111,6 +111,16 @@
                     700
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    2500,
+                    3500
+                ],
+                "to": [
+                    2300,
+                    2400
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     165000,
@@ -282,7 +292,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "192379146230300672": {
         "modification_history": {},
