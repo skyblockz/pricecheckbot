@@ -151,6 +151,16 @@
                     2400
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    91000,
+                    110000
+                ],
+                "to": [
+                    99000,
+                    100000
+                ]
+            },
             "ender_helmet": {
                 "from": [
                     10000,
@@ -402,7 +412,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "192379146230300672": {
         "modification_history": {},
