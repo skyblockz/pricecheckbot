@@ -1629,6 +1629,16 @@
                     190000
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    8000,
+                    17000
+                ],
+                "to": [
+                    8000,
+                    12000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     7000000,
@@ -1677,7 +1687,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "333214758436208640": {
         "modification_history": {
