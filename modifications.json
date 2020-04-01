@@ -542,8 +542,19 @@
         "total_mods": 56
     },
     "192379146230300672": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_hopper": {
+                "from": [
+                    640000,
+                    750000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "268844820317863936": {
         "modification_history": {
