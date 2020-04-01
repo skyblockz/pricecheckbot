@@ -251,6 +251,16 @@
                     6000000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    375000,
+                    575000
+                ],
+                "to": [
+                    450000,
+                    490000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2000,
@@ -412,7 +422,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "192379146230300672": {
         "modification_history": {},
