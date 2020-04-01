@@ -458,6 +458,16 @@
                     90
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    400000,
+                    560000
+                ],
+                "to": [
+                    340000,
+                    350000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     5000,
@@ -499,7 +509,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "192379146230300672": {
         "modification_history": {},
