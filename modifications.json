@@ -1639,6 +1639,16 @@
                     12000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    33000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     7000000,
@@ -1687,7 +1697,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "333214758436208640": {
         "modification_history": {
