@@ -2270,6 +2270,16 @@
                     13500000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    33000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4500,
@@ -2519,7 +2529,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "437305878257860608": {
         "modification_history": {
