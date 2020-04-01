@@ -2797,6 +2797,16 @@
                     600000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    500000,
+                    750000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     8000000,
@@ -2888,7 +2898,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "614661627513536526": {
         "modification_history": {},
