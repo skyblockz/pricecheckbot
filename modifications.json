@@ -291,6 +291,16 @@
                     1900
                 ]
             },
+            "potion_affinity_ring": {
+                "from": [
+                    10000,
+                    30000
+                ],
+                "to": [
+                    40000,
+                    43000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     1000,
@@ -442,7 +452,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "192379146230300672": {
         "modification_history": {},
