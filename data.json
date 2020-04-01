@@ -421,14 +421,14 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 90000,
+        "hi": 90000,
+        "low": 80000,
         "name": "enchanted_lapis_block"
     },
     {
         "ac": true,
-        "hi": 560000,
-        "low": 400000,
+        "hi": 350000,
+        "low": 340000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -1111,8 +1111,8 @@
     },
     {
         "ac": true,
-        "hi": 14600000,
-        "low": 13300000,
+        "hi": 15000000,
+        "low": 14000000,
         "name": "superior_dragon_chestplate"
     },
     {
@@ -1441,8 +1441,8 @@
     },
     {
         "ac": true,
-        "hi": 70000,
-        "low": 50000,
+        "hi": 55000,
+        "low": 45000,
         "name": "red_gift"
     },
     {
@@ -2215,8 +2215,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 55000,
+        "hi": 150000,
+        "low": 140000,
         "name": "spider_ring"
     },
     {
@@ -2845,8 +2845,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 4000000,
+        "hi": 10000000,
+        "low": 7000000,
         "name": "snowman_pet"
     },
     {
@@ -3163,8 +3163,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 20000,
+        "hi": 5000,
+        "low": 4500,
         "name": "obsidian_chestplate"
     },
     {
@@ -3910,5 +3910,11 @@
         "hi": 12000,
         "low": 11000,
         "name": "ember_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 1,
+        "low": -69420666,
+        "name": "prix"
     }
 ]
