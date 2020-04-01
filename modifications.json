@@ -3084,6 +3084,16 @@
                     55000
                 ]
             },
+            "snowman_pet": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    7000000,
+                    10000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     650000,
@@ -3165,7 +3175,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "614661627513536526": {
         "modification_history": {},
