@@ -148,6 +148,16 @@
                     1900
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     800,
@@ -489,7 +499,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "192379146230300672": {
         "modification_history": {},
