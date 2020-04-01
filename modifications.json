@@ -563,6 +563,16 @@
                     7500
                 ]
             },
+            "green_gift": {
+                "from": [
+                    8000,
+                    14000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "minion_expander": {
                 "from": [
                     20000,
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "268844820317863936": {
         "modification_history": {
