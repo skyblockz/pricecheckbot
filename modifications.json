@@ -552,9 +552,19 @@
                     800000,
                     1000000
                 ]
+            },
+            "minion_expander": {
+                "from": [
+                    20000,
+                    35000
+                ],
+                "to": [
+                    4000,
+                    25000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "268844820317863936": {
         "modification_history": {
