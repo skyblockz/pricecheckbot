@@ -101,6 +101,16 @@
                     800
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    2200,
+                    2400
+                ],
+                "to": [
+                    2300,
+                    2400
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1900,
@@ -372,7 +382,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "192379146230300672": {
         "modification_history": {},
