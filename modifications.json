@@ -2288,6 +2288,16 @@
                     650000
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    5250000,
+                    6250000
+                ],
+                "to": [
+                    5200000,
+                    6200000
+                ]
+            },
             "spider_talisman": {
                 "from": [
                     100000,
@@ -2319,7 +2329,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "419714628059267072": {
         "modification_history": {
