@@ -1961,6 +1961,16 @@
                     2500000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    6750000,
+                    7750000
+                ],
+                "to": [
+                    5500000,
+                    7000000
+                ]
+            },
             "savanna_bow": {
                 "from": null,
                 "to": [
@@ -2009,7 +2019,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "333214758436208640": {
         "modification_history": {
