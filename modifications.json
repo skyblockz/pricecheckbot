@@ -3207,6 +3207,16 @@
                     4000000
                 ]
             },
+            "spider_boots": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    350000,
+                    530000
+                ]
+            },
             "spooky_boots": {
                 "from": null,
                 "to": [
@@ -3306,7 +3316,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "466769036122783744": {
         "modification_history": {
