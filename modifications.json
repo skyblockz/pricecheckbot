@@ -3143,6 +3143,16 @@
                     500000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    800000,
+                    810000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     1725000,
@@ -3279,7 +3289,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "466769036122783744": {
         "modification_history": {
