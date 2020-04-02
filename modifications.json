@@ -2359,6 +2359,16 @@
                     650000
                 ]
             },
+            "farming_talisman": {
+                "from": [
+                    50,
+                    125
+                ],
+                "to": [
+                    120,
+                    120
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5250000,
@@ -2400,7 +2410,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "419714628059267072": {
         "modification_history": {
