@@ -2409,6 +2409,16 @@
                     10600000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    50000,
+                    85000
+                ],
+                "to": [
+                    45000,
+                    80000
+                ]
+            },
             "spider_talisman": {
                 "from": [
                     100000,
@@ -2470,7 +2480,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "419714628059267072": {
         "modification_history": {
