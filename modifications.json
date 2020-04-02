@@ -3106,6 +3106,16 @@
                     500000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1725000,
+                    2300000
+                ],
+                "to": [
+                    1600000,
+                    2400000
+                ]
+            },
             "legendary_silverfish_pet": {
                 "from": null,
                 "to": [
@@ -3192,7 +3202,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {
