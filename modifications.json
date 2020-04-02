@@ -745,6 +745,13 @@
                     1000
                 ]
             },
+            "end_portal_frame": {
+                "from": null,
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "ender_boots": {
                 "from": [
                     10000,
@@ -901,7 +908,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "310369675987124225": {
         "modification_history": {
