@@ -1351,8 +1351,8 @@
     },
     {
         "ac": true,
-        "hi": 40000000,
-        "low": 36000000,
+        "hi": 3600000,
+        "low": 3400000,
         "name": "mosquito_bow"
     },
     {
@@ -1381,8 +1381,8 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 2500000,
+        "hi": 3000000,
+        "low": 2750000,
         "name": "devour_ring"
     },
     {
@@ -1579,8 +1579,8 @@
     },
     {
         "ac": true,
-        "hi": 810000,
-        "low": 800000,
+        "hi": 900000,
+        "low": 700000,
         "name": "explosive_bow"
     },
     {
@@ -3922,5 +3922,11 @@
         "hi": 500,
         "low": 500,
         "name": "end_portal_frame"
+    },
+    {
+        "ac": true,
+        "hi": 4000000,
+        "low": 3000000,
+        "name": "legendary_bat_pet"
     }
 ]
