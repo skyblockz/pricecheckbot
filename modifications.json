@@ -3463,6 +3463,16 @@
                     2000000
                 ]
             },
+            "super_enchanted_egg": {
+                "from": [
+                    365000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    375000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1200000,
@@ -3514,7 +3524,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "614661627513536526": {
         "modification_history": {},
