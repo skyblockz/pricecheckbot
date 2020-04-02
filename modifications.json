@@ -2752,6 +2752,16 @@
                     375000
                 ]
             },
+            "epic_wolf_pet": {
+                "from": [
+                    100000,
+                    250000
+                ],
+                "to": [
+                    5000,
+                    25000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     400000,
@@ -3058,7 +3068,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "437305878257860608": {
         "modification_history": {
