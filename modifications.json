@@ -2339,6 +2339,16 @@
                     25000
                 ]
             },
+            "enchanted_diamond": {
+                "from": [
+                    1280,
+                    1320
+                ],
+                "to": [
+                    1200,
+                    1200
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     3000,
@@ -2410,7 +2420,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "419714628059267072": {
         "modification_history": {
