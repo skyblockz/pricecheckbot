@@ -2429,6 +2429,16 @@
                     112000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    19500,
+                    24500
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     79000000,
@@ -2540,7 +2550,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "419714628059267072": {
         "modification_history": {
