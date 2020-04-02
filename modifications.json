@@ -1953,12 +1953,12 @@
             },
             "revenant_leggings": {
                 "from": [
-                    50000,
-                    150000
-                ],
-                "to": [
                     100000,
                     250000
+                ],
+                "to": [
+                    1000000,
+                    2500000
                 ]
             },
             "savanna_bow": {
@@ -1999,7 +1999,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "333214758436208640": {
         "modification_history": {
