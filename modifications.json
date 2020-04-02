@@ -2419,6 +2419,16 @@
                     10600000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    825000,
+                    1100000
+                ]
+            },
             "snow_minion_i": {
                 "from": [
                     50000,
@@ -2490,7 +2500,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "419714628059267072": {
         "modification_history": {
