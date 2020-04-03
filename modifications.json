@@ -573,6 +573,13 @@
                     7000
                 ]
             },
+            "ice_rod": {
+                "from": null,
+                "to": [
+                    3000,
+                    11000
+                ]
+            },
             "minion_expander": {
                 "from": [
                     20000,
@@ -634,7 +641,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "268844820317863936": {
         "modification_history": {
