@@ -2893,6 +2893,16 @@
                     325000
                 ]
             },
+            "legendary_bat_pet": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    1800000,
+                    2400000
+                ]
+            },
             "legendary_enderman_pet": {
                 "from": [
                     48000000,
@@ -3132,7 +3142,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "437305878257860608": {
         "modification_history": {
