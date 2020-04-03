@@ -593,6 +593,16 @@
                     50000
                 ]
             },
+            "revenant_leggings": {
+                "from": [
+                    1000000,
+                    2500000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "solar_panel": {
                 "from": [
                     150000,
@@ -614,7 +624,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "268844820317863936": {
         "modification_history": {
