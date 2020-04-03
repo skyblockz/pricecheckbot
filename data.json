@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 22500,
-        "low": 17000,
+        "hi": 20000,
+        "low": 15000,
         "name": "strong_dragon_fragment"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 500000,
+        "hi": 530000,
+        "low": 350000,
         "name": "spider_boots"
     },
     {
@@ -1195,8 +1195,8 @@
     },
     {
         "ac": true,
-        "hi": 7750000,
-        "low": 6750000,
+        "hi": 7000000,
+        "low": 6500000,
         "name": "revived_heart"
     },
     {
@@ -1435,8 +1435,8 @@
     },
     {
         "ac": true,
-        "hi": 820000,
-        "low": 700000,
+        "hi": 720000,
+        "low": 600000,
         "name": "zombie_heart"
     },
     {
@@ -1946,7 +1946,7 @@
     {
         "ac": true,
         "hi": 11000,
-        "low": 10000,
+        "low": 9000,
         "name": "young_dragon_fragment"
     },
     {
@@ -3331,8 +3331,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 50000,
+        "hi": 200000,
+        "low": 100000,
         "name": "revenant_leggings"
     },
     {
@@ -3469,8 +3469,8 @@
     },
     {
         "ac": true,
-        "hi": 575000,
-        "low": 350000,
+        "hi": 160000,
+        "low": 100000,
         "name": "revenant_boots"
     },
     {
@@ -3925,8 +3925,14 @@
     },
     {
         "ac": true,
-        "hi": 4000000,
-        "low": 3000000,
+        "hi": 2400000,
+        "low": 1800000,
         "name": "legendary_bat_pet"
+    },
+    {
+        "ac": true,
+        "hi": 11000,
+        "low": 3000,
+        "name": "ice_rod"
     }
 ]
