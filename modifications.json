@@ -428,6 +428,16 @@
                     490000
                 ]
             },
+            "medium_storage": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    15000,
+                    16000
+                ]
+            },
             "obsidian_chestplate": {
                 "from": [
                     20000,
@@ -659,7 +669,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "192379146230300672": {
         "modification_history": {
