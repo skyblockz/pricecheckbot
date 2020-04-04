@@ -600,6 +600,16 @@
                     7500
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    400000,
+                    460000
+                ],
+                "to": [
+                    550000,
+                    675000
+                ]
+            },
             "golem_sword": {
                 "from": [
                     82000,
@@ -745,7 +755,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "298613178601046017": {
         "modification_history": {
