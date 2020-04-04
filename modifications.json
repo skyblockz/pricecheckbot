@@ -1,109 +1,3732 @@
 {
     "161144091894218752": {
         "modification_history": {
-            "seal_of_the_family": {
+            "aspect_of_the_dragons": {
                 "from": [
-                    30000000,
-                    30000000
+                    3900000,
+                    4500000
                 ],
                 "to": [
-                    35000000,
-                    37000000
+                    3800000,
+                    4000000
                 ]
             },
-            "tarantula_chestplate": {
-                "from": [
-                    800000,
-                    1400000
-                ],
-                "to": [
-                    900000,
-                    1000000
-                ]
-            }
-        },
-        "total_mods": 2
-    },
-    "192379146230300672": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "268844820317863936": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "298613178601046017": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "308262271262654464": {
-        "modification_history": {
             "aspect_of_the_end": {
                 "from": [
-                    125000,
+                    175000,
+                    200000
+                ],
+                "to": [
+                    160000,
+                    180000
+                ]
+            },
+            "blaze_chestplate": {
+                "from": [
+                    3250000,
+                    4500000
+                ],
+                "to": [
+                    3300000,
+                    3400000
+                ]
+            },
+            "blaze_helmet": {
+                "from": [
+                    1750000,
+                    2500000
+                ],
+                "to": [
+                    2100000,
+                    2200000
+                ]
+            },
+            "blaze_leggings": {
+                "from": [
+                    2500000,
+                    3250000
+                ],
+                "to": [
+                    2900000,
+                    3000000
+                ]
+            },
+            "blaze_rod": {
+                "from": [
+                    60,
+                    75
+                ],
+                "to": [
+                    60,
+                    60
+                ]
+            },
+            "budget_hopper": {
+                "from": [
+                    1200,
+                    1200
+                ],
+                "to": [
+                    14000,
+                    15000
+                ]
+            },
+            "chestplate_of_growth": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
+            "critical_vi": {
+                "from": [
+                    425000,
+                    550000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
+            "ember_leggings": {
+                "from": null,
+                "to": [
+                    11000,
+                    12000
+                ]
+            },
+            "enchanted_coal": {
+                "from": [
+                    1200,
+                    1600
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
+            "enchanted_cobblestone": {
+                "from": [
+                    850,
+                    1400
+                ],
+                "to": [
+                    700,
+                    800
+                ]
+            },
+            "enchanted_glowstone": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
+            "enchanted_gold": {
+                "from": [
+                    2200,
+                    2400
+                ],
+                "to": [
+                    2300,
+                    2400
+                ]
+            },
+            "enchanted_iron": {
+                "from": [
+                    1900,
+                    2300
+                ],
+                "to": [
+                    1800,
+                    1900
+                ]
+            },
+            "enchanted_lapis_block": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    800,
+                    1000
+                ],
+                "to": [
+                    600,
+                    700
+                ]
+            },
+            "enchanted_redstone_block": {
+                "from": [
+                    70000,
+                    82500
+                ],
+                "to": [
+                    90000,
+                    95000
+                ]
+            },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    2500,
+                    3500
+                ],
+                "to": [
+                    2300,
+                    2400
+                ]
+            },
+            "enchanted_sugar_cane": {
+                "from": [
+                    91000,
+                    110000
+                ],
+                "to": [
+                    99000,
+                    100000
+                ]
+            },
+            "ender_helmet": {
+                "from": [
+                    10000,
+                    25000
+                ],
+                "to": [
+                    19000,
+                    20000
+                ]
+            },
+            "explosive_bow": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    800000,
+                    810000
+                ]
+            },
+            "farmer_boots": {
+                "from": [
+                    165000,
+                    187000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
+            "flower_minion_i": {
+                "from": [
+                    5500000,
+                    7000000
+                ],
+                "to": [
+                    4000000,
+                    5500000
+                ]
+            },
+            "flycatcher": {
+                "from": [
+                    12000000,
+                    13500000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
+            "frozen_chicken": {
+                "from": [
+                    200000,
+                    350000
+                ],
+                "to": [
+                    280000,
+                    300000
+                ]
+            },
+            "golden_tooth": {
+                "from": [
+                    115000,
+                    140000
+                ],
+                "to": [
+                    115000,
+                    117000
+                ]
+            },
+            "helmet_of_growth": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
+            "hot_potato_book": {
+                "from": [
+                    156000,
                     175000
                 ],
                 "to": [
-                    175000,
-                    250000
+                    150000,
+                    160000
                 ]
             },
-            "treecapitator": {
+            "hunk_of_blue_ice": {
                 "from": [
-                    4750000,
-                    5300000
+                    15000,
+                    15000
                 ],
                 "to": [
-                    4800000,
-                    5500000
+                    27000,
+                    28000
                 ]
-            }
-        },
-        "total_mods": 2
-    },
-    "390661701046894592": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "437305878257860608": {
-        "modification_history": {
-            "crystal_fragment": {
+            },
+            "hunk_of_ice": {
+                "from": [
+                    3000,
+                    3000
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
+            "hunter_talisman": {
+                "from": [
+                    6800000,
+                    7250000
+                ],
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
+            "maddox_batphone": {
+                "from": [
+                    375000,
+                    575000
+                ],
+                "to": [
+                    450000,
+                    490000
+                ]
+            },
+            "obsidian_chestplate": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    4500,
+                    5000
+                ]
+            },
+            "old_dragon_fragment": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    1800,
+                    1900
+                ]
+            },
+            "potion_affinity_ring": {
+                "from": [
+                    10000,
+                    30000
+                ],
+                "to": [
+                    40000,
+                    43000
+                ]
+            },
+            "protector_dragon_fragment": {
+                "from": [
+                    1000,
+                    2200
+                ],
+                "to": [
+                    1500,
+                    1600
+                ]
+            },
+            "radiant_power_orb": {
                 "from": [
                     20000,
                     25000
                 ],
                 "to": [
-                    10000,
+                    22000,
+                    24000
+                ]
+            },
+            "red_claw_talisman": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    13000,
                     14000
                 ]
             },
-            "frozen_chicken": {
+            "runaans_bow": {
                 "from": [
+                    650000,
+                    850000
+                ],
+                "to": [
+                    900000,
+                    950000
+                ]
+            },
+            "savanna_bow": {
+                "from": [
+                    10000,
+                    25000
+                ],
+                "to": [
+                    3000,
+                    3000
+                ]
+            },
+            "spider_ring": {
+                "from": [
+                    55000,
+                    95000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
+            "spider_talisman": {
+                "from": [
+                    80000,
+                    160000
+                ],
+                "to": [
                     100000,
+                    120000
+                ]
+            },
+            "spooky_shard": {
+                "from": [
+                    27500,
+                    57000
+                ],
+                "to": [
+                    27000,
+                    28000
+                ]
+            },
+            "super_compactor_3000": {
+                "from": [
+                    460000,
+                    480000
+                ],
+                "to": [
+                    460000,
+                    470000
+                ]
+            },
+            "superior_dragon_chestplate": {
+                "from": [
+                    13300000,
+                    14600000
+                ],
+                "to": [
+                    14000000,
+                    15000000
+                ]
+            },
+            "tarantula_helmet": {
+                "from": [
+                    500000,
+                    800000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
+            "tarantula_talisman": {
+                "from": [
+                    6100000,
+                    6500000
+                ],
+                "to": [
+                    7000000,
+                    8000000
+                ]
+            },
+            "tarantula_web": {
+                "from": [
+                    46,
+                    66
+                ],
+                "to": [
+                    80,
+                    90
+                ]
+            },
+            "titanic_experience_bottle": {
+                "from": [
+                    400000,
+                    560000
+                ],
+                "to": [
+                    340000,
+                    350000
+                ]
+            },
+            "undead_catalyst": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
+            "wolf_talisman": {
+                "from": [
+                    170000,
+                    185000
+                ],
+                "to": [
+                    200000,
+                    230000
+                ]
+            },
+            "yeti_sword": {
+                "from": [
+                    50000000,
+                    80000000
+                ],
+                "to": [
+                    25000000,
+                    30000000
+                ]
+            },
+            "young_dragon_fragment": {
+                "from": [
+                    8000,
+                    9500
+                ],
+                "to": [
+                    10000,
+                    11000
+                ]
+            }
+        },
+        "total_mods": 56
+    },
+    "192379146230300672": {
+        "modification_history": {
+            "bait_ring": {
+                "from": [
+                    9000000,
+                    11200000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
+            "bat_ring": {
+                "from": [
+                    145000,
+                    210000
+                ],
+                "to": [
+                    300000,
+                    450000
+                ]
+            },
+            "candy_ring": {
+                "from": null,
+                "to": [
+                    100000,
+                    300000
+                ]
+            },
+            "devour_ring": {
+                "from": [
+                    2750000,
+                    3000000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
+            "enchanted_hopper": {
+                "from": [
+                    640000,
+                    750000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
+            "enchanted_obsidian": {
+                "from": [
+                    7000,
+                    9000
+                ],
+                "to": [
+                    6250,
+                    7500
+                ]
+            },
+            "experience_artifact": {
+                "from": [
+                    400000,
+                    460000
+                ],
+                "to": [
+                    550000,
+                    675000
+                ]
+            },
+            "golem_sword": {
+                "from": [
+                    82000,
+                    130000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
+            "green_gift": {
+                "from": [
+                    8000,
+                    14000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
+            "healing_ring": {
+                "from": [
+                    275000,
+                    325000
+                ],
+                "to": [
+                    300000,
+                    425000
+                ]
+            },
+            "ice_rod": {
+                "from": null,
+                "to": [
+                    3000,
+                    11000
+                ]
+            },
+            "intimidation_ring": {
+                "from": null,
+                "to": [
+                    65000,
+                    100000
+                ]
+            },
+            "minion_expander": {
+                "from": [
+                    20000,
+                    35000
+                ],
+                "to": [
+                    4000,
+                    25000
+                ]
+            },
+            "old_dragon_fragment": {
+                "from": [
+                    3000,
+                    6000
+                ],
+                "to": [
+                    1700,
+                    2100
+                ]
+            },
+            "red_gift": {
+                "from": [
+                    45000,
+                    55000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
+            "revenant_boots": {
+                "from": [
+                    350000,
+                    575000
+                ],
+                "to": [
+                    100000,
+                    160000
+                ]
+            },
+            "revenant_leggings": {
+                "from": [
+                    1000000,
+                    2500000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
+            "solar_panel": {
+                "from": [
+                    150000,
                     200000
                 ],
                 "to": [
                     200000,
+                    300000
+                ]
+            },
+            "superior_dragon_fragment": {
+                "from": [
+                    9500000,
+                    10000000
+                ],
+                "to": [
+                    170000,
+                    203000
+                ]
+            },
+            "superior_dragon_helmet": {
+                "from": [
+                    9000000,
+                    9750000
+                ],
+                "to": [
+                    9500000,
+                    11000000
+                ]
+            },
+            "white_gift": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    2300,
+                    3000
+                ]
+            },
+            "wolf_ring": {
+                "from": [
+                    750000,
+                    825000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
+            "zombie_artifact": {
+                "from": [
+                    2500000,
+                    3750000
+                ],
+                "to": [
+                    3250000,
+                    4500000
+                ]
+            }
+        },
+        "total_mods": 24
+    },
+    "298613178601046017": {
+        "modification_history": {
+            "enchanted_ink_sack": {
+                "from": [
+                    29000,
+                    32000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
+            "ink_wand": {
+                "from": [
+                    3000000,
+                    3000000
+                ],
+                "to": [
+                    2000000,
+                    2750000
+                ]
+            },
+            "prix": {
+                "from": null,
+                "to": [
+                    1,
+                    1
+                ]
+            },
+            "shredder": {
+                "from": [
+                    10000000,
+                    14000000
+                ],
+                "to": [
+                    8000000,
+                    9000000
+                ]
+            }
+        },
+        "total_mods": 4
+    },
+    "308262271262654464": {
+        "modification_history": {
+            "aspect_of_the_dragons": {
+                "from": [
+                    3800000,
+                    4300000
+                ],
+                "to": [
+                    4000000,
+                    4300000
+                ]
+            },
+            "aspect_of_the_end": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    175000,
+                    200000
+                ]
+            },
+            "enchanted_cobblestone": {
+                "from": [
+                    850,
+                    1100
+                ],
+                "to": [
+                    850,
+                    1400
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    960,
+                    1150
+                ],
+                "to": [
+                    800,
+                    1000
+                ]
+            },
+            "end_portal_frame": {
+                "from": null,
+                "to": [
+                    500,
+                    500
+                ]
+            },
+            "ender_boots": {
+                "from": [
+                    10000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
+            "ender_helmet": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    10000,
+                    25000
+                ]
+            },
+            "fishing_xp_boost_iii_potion": {
+                "from": null,
+                "to": [
+                    200,
+                    20000
+                ]
+            },
+            "frost_snowball": {
+                "from": null,
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
+            "rabbit_hat": {
+                "from": null,
+                "to": [
+                    10,
+                    10
+                ]
+            },
+            "rabbit_vi_potion": {
+                "from": null,
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
+            "radiant_power_orb": {
+                "from": [
+                    25000,
+                    55000
+                ],
+                "to": [
+                    500,
+                    25000
+                ]
+            },
+            "revenant_falchion": {
+                "from": [
+                    525000,
+                    625000
+                ],
+                "to": [
+                    400000,
+                    800000
+                ]
+            },
+            "shrimp_the_fish": {
+                "from": null,
+                "to": [
+                    700000,
+                    2000000
+                ]
+            },
+            "summoning_eye": {
+                "from": [
+                    600000,
+                    670000
+                ],
+                "to": [
+                    580000,
+                    620000
+                ]
+            },
+            "super_compactor_3000": {
+                "from": [
+                    445000,
+                    500000
+                ],
+                "to": [
+                    460000,
+                    480000
+                ]
+            },
+            "superior_dragon_fragment": {
+                "from": [
+                    160000,
+                    180000
+                ],
+                "to": [
+                    160000,
+                    190000
+                ]
+            },
+            "tarantula_boots": {
+                "from": [
+                    1800000,
+                    2100000
+                ],
+                "to": [
+                    1200000,
+                    1800000
+                ]
+            },
+            "young_dragon_boots": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
+            "young_dragon_chestplate": {
+                "from": [
+                    700000,
+                    875000
+                ],
+                "to": [
+                    600000,
+                    770000
+                ]
+            },
+            "young_dragon_helmet": {
+                "from": [
+                    540000,
+                    750000
+                ],
+                "to": [
+                    575000,
+                    685000
+                ]
+            },
+            "young_dragon_leggings": {
+                "from": [
+                    600000,
+                    900000
+                ],
+                "to": [
+                    700000,
+                    850000
+                ]
+            }
+        },
+        "total_mods": 23
+    },
+    "310369675987124225": {
+        "modification_history": {
+            "aspect_of_the_dragons": {
+                "from": [
+                    4400000,
+                    5100000
+                ],
+                "to": [
+                    3800000,
+                    4400000
+                ]
+            },
+            "bait_ring": {
+                "from": [
+                    11000000,
+                    12000000
+                ],
+                "to": [
+                    9000000,
+                    11200000
+                ]
+            },
+            "catalyst": {
+                "from": [
+                    12500,
+                    20000
+                ],
+                "to": [
+                    18000,
+                    30000
+                ]
+            },
+            "crystallized_heart": {
+                "from": [
+                    650000,
+                    800000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
+            "day_crystal": {
+                "from": [
+                    200000,
+                    225000
+                ],
+                "to": [
+                    380000,
+                    480000
+                ]
+            },
+            "enchanted_acacia": {
+                "from": [
+                    1500,
+                    3600
+                ],
+                "to": [
+                    1400,
+                    1850
+                ]
+            },
+            "enchanted_baked_potato": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    130000,
+                    165000
+                ]
+            },
+            "enchanted_birch": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    1700,
+                    2200
+                ]
+            },
+            "enchanted_bread": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    56,
+                    110
+                ]
+            },
+            "enchanted_cactus_green": {
+                "from": [
+                    450,
+                    780
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
+            "enchanted_carrot": {
+                "from": [
+                    1000,
+                    1500
+                ],
+                "to": [
+                    850,
+                    1300
+                ]
+            },
+            "enchanted_coal": {
+                "from": [
+                    900,
+                    950
+                ],
+                "to": [
+                    1200,
+                    1600
+                ]
+            },
+            "enchanted_cocoa_bean": {
+                "from": [
+                    600,
+                    1200
+                ],
+                "to": [
+                    900,
+                    1200
+                ]
+            },
+            "enchanted_cookie": {
+                "from": [
+                    61140,
+                    61140
+                ],
+                "to": [
+                    120000,
+                    180000
+                ]
+            },
+            "enchanted_dark_oak": {
+                "from": [
+                    2000,
+                    3300
+                ],
+                "to": [
+                    1500,
+                    1800
+                ]
+            },
+            "enchanted_diamond_block": {
+                "from": [
+                    204800,
+                    204800
+                ],
+                "to": [
+                    204800,
+                    210000
+                ]
+            },
+            "enchanted_emerald": {
+                "from": [
+                    780,
+                    1020
+                ],
+                "to": [
+                    900,
+                    1200
+                ]
+            },
+            "enchanted_emerald_block": {
+                "from": [
+                    153600,
+                    153600
+                ],
+                "to": [
+                    160000,
+                    185000
+                ]
+            },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    110000,
+                    135000
+                ],
+                "to": [
+                    125000,
+                    145000
+                ]
+            },
+            "enchanted_flint": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    3000,
+                    4000
+                ]
+            },
+            "enchanted_ghast_tear": {
+                "from": [
+                    100,
+                    110
+                ],
+                "to": [
+                    150,
+                    200
+                ]
+            },
+            "enchanted_glowstone": {
+                "from": [
+                    100000,
+                    170000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    320,
+                    320
+                ],
+                "to": [
+                    900,
+                    1200
+                ]
+            },
+            "enchanted_gold_block": {
+                "from": [
+                    390000,
+                    415000
+                ],
+                "to": [
+                    270000,
                     350000
+                ]
+            },
+            "enchanted_golden_carrot": {
+                "from": [
+                    60000,
+                    90000
+                ],
+                "to": [
+                    110000,
+                    140000
+                ]
+            },
+            "enchanted_gunpowder": {
+                "from": [
+                    4500,
+                    5000
+                ],
+                "to": [
+                    3800,
+                    4500
+                ]
+            },
+            "enchanted_hay_bale": {
+                "from": [
+                    3000,
+                    6500
+                ],
+                "to": [
+                    8000,
+                    17000
+                ]
+            },
+            "enchanted_ice": {
+                "from": [
+                    560,
+                    800
+                ],
+                "to": [
+                    700,
+                    1150
+                ]
+            },
+            "enchanted_iron": {
+                "from": [
+                    1800,
+                    1850
+                ],
+                "to": [
+                    1900,
+                    2300
+                ]
+            },
+            "enchanted_iron_block": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    160000,
+                    190000
+                ]
+            },
+            "enchanted_jungle_wood": {
+                "from": [
+                    2400,
+                    2700
+                ],
+                "to": [
+                    1800,
+                    2300
+                ]
+            },
+            "enchanted_lapis_block": {
+                "from": [
+                    35000,
+                    65000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    850,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1350
+                ]
+            },
+            "enchanted_leather": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    9000,
+                    11000
+                ]
+            },
+            "enchanted_melon": {
+                "from": [
+                    210,
+                    320
+                ],
+                "to": [
+                    200,
+                    300
+                ]
+            },
+            "enchanted_nether_wart": {
+                "from": [
+                    1275,
+                    1560
+                ],
+                "to": [
+                    2500,
+                    3200
+                ]
+            },
+            "enchanted_oak": {
+                "from": [
+                    1000,
+                    2700
+                ],
+                "to": [
+                    1600,
+                    2100
+                ]
+            },
+            "enchanted_obsidian": {
+                "from": [
+                    9000,
+                    9750
+                ],
+                "to": [
+                    7000,
+                    9000
+                ]
+            },
+            "enchanted_packed_ice": {
+                "from": [
+                    43000,
+                    54000
+                ],
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
+            "enchanted_pork": {
+                "from": [
+                    800,
+                    900
+                ],
+                "to": [
+                    2500,
+                    3500
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    460,
+                    940
+                ],
+                "to": [
+                    800,
+                    1100
+                ]
+            },
+            "enchanted_quartz": {
+                "from": [
+                    2200,
+                    3000
+                ],
+                "to": [
+                    2200,
+                    3300
+                ]
+            },
+            "enchanted_quartz_block": {
+                "from": [
+                    300000,
+                    310000
+                ],
+                "to": [
+                    380000,
+                    480000
+                ]
+            },
+            "enchanted_rabbit_foot": {
+                "from": [
+                    3125,
+                    5000
+                ],
+                "to": [
+                    6000,
+                    8000
+                ]
+            },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    15625,
+                    23750
+                ],
+                "to": [
+                    8500,
+                    12000
+                ]
+            },
+            "enchanted_raw_beef": {
+                "from": [
+                    640,
+                    640
+                ],
+                "to": [
+                    1100,
+                    1500
+                ]
+            },
+            "enchanted_raw_chicken": {
+                "from": [
+                    750,
+                    800
+                ],
+                "to": [
+                    600,
+                    800
+                ]
+            },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    35000,
+                    70000
+                ],
+                "to": [
+                    120000,
+                    160000
+                ]
+            },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1500,
+                    1500
+                ],
+                "to": [
+                    2500,
+                    3500
+                ]
+            },
+            "enchanted_spider_eye": {
+                "from": [
+                    1500,
+                    2000
+                ],
+                "to": [
+                    1700,
+                    2300
+                ]
+            },
+            "enchanted_spruce_wood": {
+                "from": [
+                    2340,
+                    3800
+                ],
+                "to": [
+                    1800,
+                    2500
+                ]
+            },
+            "enchanted_sugar": {
+                "from": [
+                    620,
+                    660
+                ],
+                "to": [
+                    620,
+                    800
+                ]
+            },
+            "enchanted_sugar_cane": {
+                "from": [
+                    95000,
+                    115000
+                ],
+                "to": [
+                    82000,
+                    92000
+                ]
+            },
+            "feather_artifact": {
+                "from": [
+                    32000,
+                    55000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
+            "foul_flesh": {
+                "from": [
+                    22000,
+                    28000
+                ],
+                "to": [
+                    25000,
+                    33000
+                ]
+            },
+            "frozen_blaze_boots": {
+                "from": [
+                    400000,
+                    5500000
+                ],
+                "to": [
+                    9000000,
+                    11500000
+                ]
+            },
+            "frozen_blaze_chestplate": {
+                "from": [
+                    5000000,
+                    7500000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
+            "frozen_blaze_helmet": {
+                "from": [
+                    3000000,
+                    4500000
+                ],
+                "to": [
+                    10000000,
+                    13000000
+                ]
+            },
+            "frozen_blaze_leggings": {
+                "from": [
+                    5000000,
+                    7500000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
+            "frozen_scythe": {
+                "from": [
+                    500000,
+                    900000
+                ],
+                "to": [
+                    1500000,
+                    3000000
+                ]
+            },
+            "ghast_tear": {
+                "from": [
+                    190,
+                    240
+                ],
+                "to": [
+                    25,
+                    50
+                ]
+            },
+            "grand_experience_bottle": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    4500,
+                    6000
+                ]
+            },
+            "green_gift": {
+                "from": [
+                    14500,
+                    16500
+                ],
+                "to": [
+                    8000,
+                    14000
+                ]
+            },
+            "hilt_of_true_ice": {
+                "from": [
+                    5000000,
+                    7000000
+                ],
+                "to": [
+                    3000000,
+                    5000000
+                ]
+            },
+            "hunter_ring": {
+                "from": [
+                    32000000,
+                    35000000
+                ],
+                "to": [
+                    36000000,
+                    42000000
+                ]
+            },
+            "intimidation_talisman": {
+                "from": [
+                    200,
+                    200
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
+            "luck_of_the_sea_vi": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    400000,
+                    700000
+                ]
+            },
+            "magical_mushroom_soup": {
+                "from": [
+                    10,
+                    40
+                ],
+                "to": [
+                    100,
+                    300
+                ]
+            },
+            "night_crystal": {
+                "from": [
+                    200000,
+                    225000
+                ],
+                "to": [
+                    380000,
+                    480000
+                ]
+            },
+            "ornate_zombie_sword": {
+                "from": [
+                    1600000,
+                    2150000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
+            "redstone_block": {
+                "from": [
+                    500,
+                    5000
+                ],
+                "to": [
+                    50,
+                    120
+                ]
+            },
+            "revenant_catalyst": {
+                "from": [
+                    50000,
+                    200000
+                ],
+                "to": [
+                    5000,
+                    12000
+                ]
+            },
+            "revenant_falchion": {
+                "from": [
+                    400000,
+                    800000
+                ],
+                "to": [
+                    800000,
+                    1200000
+                ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    66500,
+                    72500
+                ],
+                "to": [
+                    70000,
+                    82000
+                ]
+            },
+            "rod_of_legends": {
+                "from": [
+                    8000000,
+                    11000000
+                ],
+                "to": [
+                    6500000,
+                    9000000
+                ]
+            },
+            "runaans_bow": {
+                "from": [
+                    800000,
+                    975000
+                ],
+                "to": [
+                    650000,
+                    850000
+                ]
+            },
+            "scavenger_iv": {
+                "from": [
+                    15000,
+                    30000
+                ],
+                "to": [
+                    80000,
+                    120000
+                ]
+            },
+            "scorpion_bow": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    1500000,
+                    3000000
+                ]
+            },
+            "sea_creature_artifact": {
+                "from": [
+                    1150000,
+                    1400000
+                ],
+                "to": [
+                    800000,
+                    120000
+                ]
+            },
+            "shredder": {
+                "from": [
+                    7000000,
+                    8000000
+                ],
+                "to": [
+                    10000000,
+                    14000000
+                ]
+            },
+            "silver_fang": {
+                "from": [
+                    2000,
+                    7000
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
+            "solar_panel": {
+                "from": [
+                    70000,
+                    95000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
+            "spooky_shard": {
+                "from": [
+                    85000,
+                    110000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
+            "summoning_eye": {
+                "from": [
+                    580000,
+                    620000
+                ],
+                "to": [
+                    600000,
+                    660000
+                ]
+            },
+            "superior_dragon_fragment": {
+                "from": [
+                    150000,
+                    170000
+                ],
+                "to": [
+                    160000,
+                    180000
+                ]
+            },
+            "tarantula_leggings": {
+                "from": [
+                    1100000,
+                    1600000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
+            "tarantula_silk": {
+                "from": [
+                    110000,
+                    120000
+                ],
+                "to": [
+                    110000,
+                    135000
+                ]
+            },
+            "titanic_experience_bottle": {
+                "from": [
+                    365000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    560000
+                ]
+            },
+            "toxic_arrow_poison": {
+                "from": [
+                    1800,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
+            "vampirism_vi": {
+                "from": [
+                    1700000,
+                    2500000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
+            "white_gift": {
+                "from": [
+                    2500,
+                    4000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
+            "wither_artifact": {
+                "from": [
+                    10000000,
+                    11000000
+                ],
+                "to": [
+                    12000000,
+                    14000000
+                ]
+            },
+            "yeti_sword": {
+                "from": [
+                    13000000,
+                    16000000
+                ],
+                "to": [
+                    50000000,
+                    80000000
+                ]
+            },
+            "zombie_heart": {
+                "from": [
+                    650000,
+                    710000
+                ],
+                "to": [
+                    700000,
+                    820000
+                ]
+            }
+        },
+        "total_mods": 103
+    },
+    "325104094530502684": {
+        "modification_history": {
+            "angler_vi": {
+                "from": null,
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
+            "aspect_of_the_dragons": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    3500000,
+                    4500000
+                ]
+            },
+            "enchanted_baked_potato": {
+                "from": [
+                    140000,
+                    170000
+                ],
+                "to": [
+                    150000,
+                    170000
+                ]
+            },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    185000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
+            "enchanted_hay_bale": {
+                "from": [
+                    8000,
+                    17000
+                ],
+                "to": [
+                    8000,
+                    12000
+                ]
+            },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    33000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
+            "legendary_bat_pet": {
+                "from": null,
+                "to": [
+                    3000000,
+                    4000000
+                ]
+            },
+            "reaper_falchion": {
+                "from": [
+                    7000000,
+                    11000000
+                ],
+                "to": [
+                    7000000,
+                    9000000
+                ]
+            },
+            "revenant_leggings": {
+                "from": [
+                    100000,
+                    250000
+                ],
+                "to": [
+                    1000000,
+                    2500000
+                ]
+            },
+            "revived_heart": {
+                "from": [
+                    6750000,
+                    7750000
+                ],
+                "to": [
+                    5500000,
+                    7000000
+                ]
+            },
+            "savanna_bow": {
+                "from": null,
+                "to": [
+                    10000,
+                    25000
+                ]
+            },
+            "seal_of_the_family": {
+                "from": [
+                    35000000,
+                    37000000
+                ],
+                "to": [
+                    35000000,
+                    40000000
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    1300000,
+                    1500000
+                ],
+                "to": [
+                    1600000,
+                    2500000
+                ]
+            },
+            "young_dragon_fragment": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    9000,
+                    11000
+                ]
+            },
+            "zombie_heart": {
+                "from": [
+                    700000,
+                    820000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            }
+        },
+        "total_mods": 18
+    },
+    "335567131100053505": {
+        "modification_history": {
+            "bane_of_anthropods_vi": {
+                "from": [
+                    100000,
+                    140000
+                ],
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
+            "day_crystal": {
+                "from": [
+                    380000,
+                    480000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
+            "elegant_tuxedo_jacket": {
+                "from": [
+                    36000000,
+                    37500000
+                ],
+                "to": [
+                    32000000,
+                    36000000
+                ]
+            },
+            "elegant_tuxedo_oxfords": {
+                "from": [
+                    6000000,
+                    6200000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
+            "enchanted_blaze_rod": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    650000,
+                    750000
+                ]
+            },
+            "enchanted_grilled_pork": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
+            "epic_ender_dragon_pet": {
+                "from": [
+                    45000000,
+                    50000000
+                ],
+                "to": [
+                    48000000,
+                    55000000
+                ]
+            },
+            "epic_parrot_pet": {
+                "from": [
+                    22000000,
+                    26000000
+                ],
+                "to": [
+                    24000000,
+                    28000000
+                ]
+            },
+            "game_breaker": {
+                "from": [
+                    20000000,
+                    50000000
+                ],
+                "to": [
+                    10000000,
+                    15000000
+                ]
+            },
+            "greater_backpack": {
+                "from": [
+                    650000,
+                    720000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
+            "hunk_of_ice": {
+                "from": [
+                    200,
+                    600
+                ],
+                "to": [
+                    3000,
+                    3000
+                ]
+            },
+            "legenadry_pigman_pet": {
+                "from": [
+                    10000000,
+                    14000000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
+            "legendary_chicken_pet": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    700000,
+                    1500000
+                ]
+            },
+            "legendary_guardian_pet": {
+                "from": [
+                    11000000,
+                    12000000
+                ],
+                "to": [
+                    5750000,
+                    7000000
+                ]
+            },
+            "legendary_lion_pet": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    13000000,
+                    18000000
+                ]
+            },
+            "legendary_parrot_pet": {
+                "from": [
+                    25000000,
+                    25000000
+                ],
+                "to": [
+                    26000000,
+                    30000000
+                ]
+            },
+            "legendary_wolf": {
+                "from": [
+                    4500000,
+                    6000000
+                ],
+                "to": [
+                    4750000,
+                    6750000
+                ]
+            },
+            "mosquito_bow": {
+                "from": [
+                    34500000,
+                    36000000
+                ],
+                "to": [
+                    36000000,
+                    40000000
+                ]
+            },
+            "night_crystal": {
+                "from": [
+                    380000,
+                    480000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
+            "power_vi": {
+                "from": [
+                    2300000,
+                    3000000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
+            "purple_candy": {
+                "from": [
+                    6500,
+                    8000
+                ],
+                "to": [
+                    6900,
+                    9000
+                ]
+            },
+            "reaper_falchion": {
+                "from": [
+                    3000000,
+                    8000000
+                ],
+                "to": [
+                    7000000,
+                    1000000
+                ]
+            },
+            "reaper_mask": {
+                "from": [
+                    12000000,
+                    13000000
+                ],
+                "to": [
+                    14000000,
+                    16000000
+                ]
+            },
+            "reaper_scythe": {
+                "from": [
+                    34000000,
+                    38000000
+                ],
+                "to": [
+                    36000000,
+                    40000000
+                ]
+            },
+            "skeleton_horse": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
+            "smite_vi": {
+                "from": [
+                    50,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
+            "snowman_pet": {
+                "from": [
+                    10000000,
+                    13000000
+                ],
+                "to": [
+                    4000000,
+                    6000000
+                ]
+            },
+            "spider_boots": {
+                "from": [
+                    340000,
+                    410000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
+            "super_enchanted_egg": {
+                "from": [
+                    250000,
+                    280000
+                ],
+                "to": [
+                    365000,
+                    400000
+                ]
+            },
+            "thick_scorpion_foil": {
+                "from": [
+                    7800000,
+                    12000000
+                ],
+                "to": [
+                    9000000,
+                    12000000
+                ]
+            },
+            "white_gift": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    2500,
+                    4000
+                ]
+            }
+        },
+        "total_mods": 34
+    },
+    "390661701046894592": {
+        "modification_history": {
+            "aspect_of_the_end": {
+                "from": [
+                    155000,
+                    175500
+                ],
+                "to": [
+                    165000,
+                    175000
+                ]
+            },
+            "bat_artifact": {
+                "from": [
+                    1000000,
+                    1265000
+                ],
+                "to": [
+                    1100000,
+                    1250000
+                ]
+            },
+            "bat_ring": {
+                "from": [
+                    130000,
+                    245000
+                ],
+                "to": [
+                    145000,
+                    210000
+                ]
+            },
+            "crystal_fragment": {
+                "from": [
+                    18000,
+                    30000
+                ],
+                "to": [
+                    15000,
+                    25000
+                ]
+            },
+            "enchanted_diamond": {
+                "from": [
+                    1280,
+                    1320
+                ],
+                "to": [
+                    1200,
+                    1200
+                ]
+            },
+            "enchanted_flint": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    4000,
+                    5500
+                ]
+            },
+            "epic_turtle": {
+                "from": [
+                    600000,
+                    600000
+                ],
+                "to": [
+                    625000,
+                    650000
+                ]
+            },
+            "farming_talisman": {
+                "from": [
+                    50,
+                    125
+                ],
+                "to": [
+                    120,
+                    120
+                ]
+            },
+            "feather_ring": {
+                "from": [
+                    1800,
+                    5000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
+            "flower_minion_i": {
+                "from": [
+                    5250000,
+                    6250000
+                ],
+                "to": [
+                    5200000,
+                    6200000
+                ]
+            },
+            "golden_tooth": {
+                "from": [
+                    115000,
+                    117000
+                ],
+                "to": [
+                    110000,
+                    112000
+                ]
+            },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    19500,
+                    24500
+                ]
+            },
+            "overflux_power_orb": {
+                "from": [
+                    79000000,
+                    82000000
+                ],
+                "to": [
+                    78000000,
+                    82000000
+                ]
+            },
+            "rod_of_legends": {
+                "from": [
+                    9000000,
+                    10500000
+                ],
+                "to": [
+                    9100000,
+                    10600000
+                ]
+            },
+            "scorpion_bow": {
+                "from": [
+                    1500000,
+                    3000000
+                ],
+                "to": [
+                    1550000,
+                    310000
+                ]
+            },
+            "sea_creature_artifact": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    825000,
+                    1100000
+                ]
+            },
+            "shaman_sword": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    250000,
+                    250000
+                ]
+            },
+            "snow_minion_i": {
+                "from": [
+                    50000,
+                    85000
+                ],
+                "to": [
+                    45000,
+                    80000
+                ]
+            },
+            "spider_talisman": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    110000,
+                    122000
+                ]
+            },
+            "strong_dragon_boots": {
+                "from": [
+                    700000,
+                    1000000
+                ],
+                "to": [
+                    715000,
+                    985000
+                ]
+            },
+            "superior_dragon_helmet": {
+                "from": [
+                    9000000,
+                    10000000
+                ],
+                "to": [
+                    9000000,
+                    9750000
+                ]
+            },
+            "teleport_pad": {
+                "from": [
+                    2650,
+                    3250
+                ],
+                "to": [
+                    2500,
+                    2500
+                ]
+            },
+            "wolf_tooth": {
+                "from": [
+                    151,
+                    221
+                ],
+                "to": [
+                    165,
+                    165
+                ]
+            },
+            "young_dragon_leggings": {
+                "from": [
+                    575000,
+                    650000
+                ],
+                "to": [
+                    580000,
+                    695000
+                ]
+            }
+        },
+        "total_mods": 25
+    },
+    "419714628059267072": {
+        "modification_history": {
+            "aspect_of_the_dragons": {
+                "from": [
+                    3500000,
+                    4500000
+                ],
+                "to": [
+                    3500000,
+                    4300000
+                ]
+            },
+            "beacon": {
+                "from": [
+                    300000,
+                    500000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
+            "blaze_boots": {
+                "from": null,
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
+            "blaze_chestplate": {
+                "from": null,
+                "to": [
+                    3250000,
+                    4500000
+                ]
+            },
+            "blaze_helmet": {
+                "from": null,
+                "to": [
+                    1750000,
+                    2500000
+                ]
+            },
+            "blaze_leggings": {
+                "from": null,
+                "to": [
+                    2500000,
+                    3250000
+                ]
+            },
+            "boots_of_growth": {
+                "from": [
+                    40000,
+                    80000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
+            "critical_vi": {
+                "from": [
+                    300000,
+                    600000
+                ],
+                "to": [
+                    425000,
+                    550000
+                ]
+            },
+            "dragon_hunter_5": {
+                "from": [
+                    16000000,
+                    16000000
+                ],
+                "to": [
+                    15350000,
+                    16000000
+                ]
+            },
+            "enchanted_blaze_powder": {
+                "from": [
+                    3600,
+                    4000
+                ],
+                "to": [
+                    3600,
+                    4000
+                ]
+            },
+            "enchanted_blaze_rod": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    600000,
+                    695000
+                ]
+            },
+            "enchanted_emerald": {
+                "from": [
+                    900,
+                    1200
+                ],
+                "to": [
+                    960,
+                    1250
+                ]
+            },
+            "enchanted_eye_of_ender": {
+                "from": [
+                    6000,
+                    7000
+                ],
+                "to": [
+                    4200,
+                    5600
+                ]
+            },
+            "enchanted_lava_bucket": {
+                "from": [
+                    425000,
+                    425000
+                ],
+                "to": [
+                    360000,
+                    420000
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    800,
+                    1100
+                ],
+                "to": [
+                    960,
+                    1150
+                ]
+            },
+            "enchanted_raw_beef": {
+                "from": [
+                    1100,
+                    1500
+                ],
+                "to": [
+                    960,
+                    1100
+                ]
+            },
+            "enchanted_raw_mutton": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    3800,
+                    4800
+                ]
+            },
+            "enchanted_redstone_block": {
+                "from": [
+                    85500,
+                    95000
+                ],
+                "to": [
+                    70000,
+                    82500
+                ]
+            },
+            "enchanted_sugar_cane": {
+                "from": [
+                    95000,
+                    120000
+                ],
+                "to": [
+                    91000,
+                    110000
+                ]
+            },
+            "epic_chicken_pet": {
+                "from": [
+                    350000,
+                    550000
+                ],
+                "to": [
+                    250000,
+                    375000
+                ]
+            },
+            "epic_wolf_pet": {
+                "from": [
+                    100000,
+                    250000
+                ],
+                "to": [
+                    5000,
+                    25000
+                ]
+            },
+            "explosive_bow": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
+            "flower_minion_i": {
+                "from": [
+                    4000000,
+                    5500000
+                ],
+                "to": [
+                    5250000,
+                    6250000
+                ]
+            },
+            "flycatcher": {
+                "from": null,
+                "to": [
+                    12000000,
+                    13500000
+                ]
+            },
+            "foul_flesh": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    33000
+                ]
+            },
+            "grand_experience_bottle": {
+                "from": [
+                    4500,
+                    6000
+                ],
+                "to": [
+                    5000,
+                    6250
+                ]
+            },
+            "hamster_wheel": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
+            "healing_ring": {
+                "from": [
+                    500000,
+                    750000
+                ],
+                "to": [
+                    275000,
+                    325000
+                ]
+            },
+            "legendary_bat_pet": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    1800000,
+                    2400000
+                ]
+            },
+            "legendary_enderman_pet": {
+                "from": [
+                    48000000,
+                    60000000
+                ],
+                "to": [
+                    50500000,
+                    57000000
+                ]
+            },
+            "legendary_sheep_pet": {
+                "from": [
+                    29000000,
+                    29000000
+                ],
+                "to": [
+                    9000000,
+                    13500000
+                ]
+            },
+            "legendary_wolf": {
+                "from": [
+                    4750000,
+                    6750000
+                ],
+                "to": [
+                    4750000,
+                    6000000
+                ]
+            },
+            "magnet_vi": {
+                "from": null,
+                "to": [
+                    1000,
+                    2500
+                ]
+            },
+            "pooch_sword": {
+                "from": [
+                    7000000,
+                    7000000
+                ],
+                "to": [
+                    6975000,
+                    7500000
+                ]
+            },
+            "protector_dragon_boots": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    115000
+                ]
+            },
+            "protector_dragon_fragment": {
+                "from": [
+                    115000,
+                    115000
+                ],
+                "to": [
+                    1000,
+                    2200
+                ]
+            },
+            "protector_dragon_helmet": {
+                "from": null,
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
+            "protector_dragon_leggings": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
+            "reaper_falchion": {
+                "from": [
+                    7000000,
+                    1000000
+                ],
+                "to": [
+                    7000000,
+                    11000000
+                ]
+            },
+            "revenant_minion": {
+                "from": null,
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    78000,
+                    82000
+                ],
+                "to": [
+                    66500,
+                    72500
+                ]
+            },
+            "revived_heart": {
+                "from": [
+                    5500000,
+                    7000000
+                ],
+                "to": [
+                    6500000,
+                    7000000
+                ]
+            },
+            "rod_of_champions": {
+                "from": [
+                    800000,
+                    1345000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
+            "rod_of_legends": {
+                "from": [
+                    9000000,
+                    11000000
+                ],
+                "to": [
+                    9000000,
+                    10500000
+                ]
+            },
+            "smite_vi": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    60000,
+                    120000
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    1600000,
+                    2500000
+                ],
+                "to": [
+                    1500000,
+                    1800000
+                ]
+            },
+            "strong_dragon_fragment": {
+                "from": [
+                    17000,
+                    22500
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
+            "strong_dragon_leggings": {
+                "from": [
+                    1250000,
+                    1400000
+                ],
+                "to": [
+                    1300000,
+                    1450000
+                ]
+            },
+            "superior_dragon_chestplate": {
+                "from": [
+                    11000000,
+                    14500000
+                ],
+                "to": [
+                    13300000,
+                    14600000
+                ]
+            },
+            "tarantula_minion_i": {
+                "from": null,
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
+            "teleport_pad": {
+                "from": [
+                    3250,
+                    5400
+                ],
+                "to": [
+                    2650,
+                    3250
+                ]
+            },
+            "treecapitator": {
+                "from": [
+                    3650000,
+                    4800000
+                ],
+                "to": [
+                    3400000,
+                    4300000
+                ]
+            },
+            "young_dragon_helmet": {
+                "from": [
+                    575000,
+                    685000
+                ],
+                "to": [
+                    475000,
+                    550000
+                ]
+            },
+            "young_dragon_leggings": {
+                "from": [
+                    700000,
+                    850000
+                ],
+                "to": [
+                    575000,
+                    650000
+                ]
+            },
+            "zombie_chestplate": {
+                "from": [
+                    1600000,
+                    1700000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
+            "zombie_heart": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    600000,
+                    720000
+                ]
+            }
+        },
+        "total_mods": 65
+    },
+    "437305878257860608": {
+        "modification_history": {
+            "candy_artifact": {
+                "from": [
+                    450000,
+                    650000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
+            "combat_xp_potion_iii": {
+                "from": null,
+                "to": [
+                    65000,
+                    160000
+                ]
+            },
+            "digested_mosquito": {
+                "from": [
+                    10000000,
+                    11500000
+                ],
+                "to": [
+                    10000000,
+                    14500000
+                ]
+            },
+            "enchanted_bone": {
+                "from": [
+                    1437,
+                    1437
+                ],
+                "to": [
+                    1437,
+                    2113
+                ]
+            },
+            "epic_silverfish_pet": {
+                "from": null,
+                "to": [
+                    200000,
+                    500000
+                ]
+            },
+            "explosive_bow": {
+                "from": [
+                    800000,
+                    810000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
+            "leaping_sword": {
+                "from": [
+                    1725000,
+                    2300000
+                ],
+                "to": [
+                    1600000,
+                    2400000
+                ]
+            },
+            "legendary_silverfish_pet": {
+                "from": null,
+                "to": [
+                    2900000,
+                    3850000
+                ]
+            },
+            "maddox_batphone": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    375000,
+                    575000
+                ]
+            },
+            "scorpion_foil": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    2350000,
+                    4000000
+                ]
+            },
+            "spider_boots": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    350000,
+                    530000
+                ]
+            },
+            "spooky_boots": {
+                "from": null,
+                "to": [
+                    430000,
+                    595000
+                ]
+            },
+            "spooky_chestplate": {
+                "from": null,
+                "to": [
+                    350000,
+                    675000
+                ]
+            },
+            "spooky_helmet": {
+                "from": null,
+                "to": [
+                    400000,
+                    650000
+                ]
+            },
+            "spooky_leggings": {
+                "from": null,
+                "to": [
+                    460000,
+                    750000
+                ]
+            },
+            "spooky_shard": {
+                "from": [
+                    27500,
+                    45000
+                ],
+                "to": [
+                    27500,
+                    57000
+                ]
+            },
+            "strong_dragon_boots": {
+                "from": [
+                    715000,
+                    985000
+                ],
+                "to": [
+                    680000,
+                    875000
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    1800000,
+                    2200000
+                ],
+                "to": [
+                    1100000,
+                    1500000
+                ]
+            },
+            "strong_dragon_fragment": {
+                "from": [
+                    17000,
+                    25000
+                ],
+                "to": [
+                    17000,
+                    22500
+                ]
+            },
+            "strong_dragon_leggings": {
+                "from": [
+                    1500000,
+                    2000000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
+            "superior_dragon_chestplate": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    14000000,
+                    15500000
+                ]
+            },
+            "treecapitator": {
+                "from": [
+                    4000000,
+                    5100000
+                ],
+                "to": [
+                    3650000,
+                    4800000
+                ]
+            }
+        },
+        "total_mods": 23
+    },
+    "466769036122783744": {
+        "modification_history": {
+            "enchanted_blaze_powder": {
+                "from": [
+                    5200,
+                    5500
+                ],
+                "to": [
+                    3800,
+                    4000
+                ]
+            },
+            "enchanted_blaze_rod": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    650000,
+                    700000
                 ]
             }
         },
         "total_mods": 2
     },
-    "466769036122783744": {
+    "482781058656632832": {
         "modification_history": {
-            "elegant_tuxedo_jacket": {
+            "enchanted_cookie": {
                 "from": [
-                    31111111,
-                    38000000
+                    120000,
+                    180000
                 ],
                 "to": [
-                    36000000,
-                    37500000
+                    130000,
+                    150000
+                ]
+            },
+            "enchanted_gold": {
+                "from": [
+                    2600,
+                    2800
+                ],
+                "to": [
+                    2200,
+                    2400
+                ]
+            },
+            "enchanted_gold_block": {
+                "from": [
+                    230000,
+                    250000
+                ],
+                "to": [
+                    390000,
+                    415000
+                ]
+            },
+            "enchanted_gunpowder": {
+                "from": [
+                    3800,
+                    4500
+                ],
+                "to": [
+                    3100,
+                    3900
+                ]
+            },
+            "hilt_of_true_ice": {
+                "from": [
+                    3000000,
+                    5000000
+                ],
+                "to": [
+                    4500000,
+                    6000000
+                ]
+            },
+            "pigman_sword": {
+                "from": [
+                    13500000,
+                    16700000
+                ],
+                "to": [
+                    12700000,
+                    13800000
+                ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    83000,
+                    90000
+                ],
+                "to": [
+                    78000,
+                    82000
+                ]
+            },
+            "tarantula_boots": {
+                "from": [
+                    1500000,
+                    2000000
+                ],
+                "to": [
+                    1800000,
+                    2100000
+                ]
+            },
+            "tarantula_silk": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    110000,
+                    120000
+                ]
+            },
+            "tarantula_talisman": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    6100000,
+                    6500000
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 10
+    },
+    "600383557038374913": {
+        "modification_history": {
+            "50_million_midas_sword": {
+                "from": null,
+                "to": [
+                    50000000,
+                    56000000
+                ]
+            },
+            "aspect_of_the_dragons": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    3800000,
+                    4300000
+                ]
+            },
+            "critical_vi": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    300000,
+                    600000
+                ]
+            },
+            "epic_wolf_pet": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    100000,
+                    250000
+                ]
+            },
+            "healing_ring": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    500000,
+                    750000
+                ]
+            },
+            "prix": {
+                "from": null,
+                "to": [
+                    -69420666,
+                    1
+                ]
+            },
+            "reaper_falchion": {
+                "from": [
+                    8000000,
+                    10500000
+                ],
+                "to": [
+                    3000000,
+                    8000000
+                ]
+            },
+            "red_gift": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    45000,
+                    55000
+                ]
+            },
+            "snowman_pet": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    7000000,
+                    10000000
+                ]
+            },
+            "strong_dragon_boots": {
+                "from": [
+                    650000,
+                    725000
+                ],
+                "to": [
+                    700000,
+                    1000000
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    1500000,
+                    1800000
+                ],
+                "to": [
+                    1800000,
+                    2200000
+                ]
+            },
+            "strong_dragon_leggings": {
+                "from": [
+                    1300000,
+                    1450000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
+            "super_enchanted_egg": {
+                "from": [
+                    365000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    375000
+                ]
+            },
+            "tarantula_boots": {
+                "from": [
+                    1200000,
+                    1800000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
+            "tarantula_chestplate": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
+            "tarantula_helmet": {
+                "from": [
+                    825000,
+                    1200000
+                ],
+                "to": [
+                    500000,
+                    800000
+                ]
+            },
+            "tarantula_leggings": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
+            "zombie_sword": {
+                "from": [
+                    700000,
+                    900000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            }
+        },
+        "total_mods": 20
     },
     "614661627513536526": {
         "modification_history": {},
