@@ -61,8 +61,8 @@
     },
     {
         "ac": true,
-        "hi": 190000,
-        "low": 160000,
+        "hi": 203000,
+        "low": 170000,
         "name": "superior_dragon_fragment"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
         "ac": true,
-        "hi": 130000,
-        "low": 82000,
+        "hi": 200000,
+        "low": 100000,
         "name": "golem_sword"
     },
     {
@@ -1129,8 +1129,8 @@
     },
     {
         "ac": true,
-        "hi": 9750000,
-        "low": 9000000,
+        "hi": 11000000,
+        "low": 9500000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -1471,8 +1471,8 @@
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1800,
+        "hi": 2100,
+        "low": 1700,
         "name": "old_dragon_fragment"
     },
     {
@@ -1915,8 +1915,8 @@
     },
     {
         "ac": true,
-        "hi": 825000,
-        "low": 750000,
+        "hi": 1000000,
+        "low": 900000,
         "name": "wolf_ring"
     },
     {
@@ -2000,7 +2000,7 @@
     {
         "ac": true,
         "hi": 20000,
-        "low": 5000,
+        "low": 9500,
         "name": "lava_talisman"
     },
     {
@@ -2371,8 +2371,8 @@
     },
     {
         "ac": true,
-        "hi": 325000,
-        "low": 275000,
+        "hi": 425000,
+        "low": 300000,
         "name": "healing_ring"
     },
     {
@@ -3934,5 +3934,11 @@
         "hi": 11000,
         "low": 3000,
         "name": "ice_rod"
+    },
+    {
+        "ac": true,
+        "hi": 100000,
+        "low": 65000,
+        "name": "intimidation_ring"
     }
 ]
