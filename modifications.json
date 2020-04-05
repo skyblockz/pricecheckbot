@@ -919,6 +919,16 @@
                     35000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    90000,
+                    95000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -1007,7 +1017,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "308262271262654464": {
         "modification_history": {
