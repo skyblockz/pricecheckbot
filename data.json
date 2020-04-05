@@ -187,8 +187,8 @@
     },
     {
         "ac": true,
-        "hi": 420000,
-        "low": 360000,
+        "hi": 425000,
+        "low": 375000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 470000,
-        "low": 460000,
+        "hi": 450000,
+        "low": 435000,
         "name": "super_compactor_3000"
     },
     {
@@ -3940,5 +3940,11 @@
         "hi": 300000,
         "low": 100000,
         "name": "candy_ring"
+    },
+    {
+        "ac": true,
+        "hi": 30,
+        "low": 15,
+        "name": "quartz"
     }
 ]
