@@ -956,6 +956,16 @@
                     9000000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    600000,
+                    660000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
             "wood_singularity": {
                 "from": [
                     5000000,
@@ -967,7 +977,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "308262271262654464": {
         "modification_history": {
