@@ -966,6 +966,16 @@
                     700000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    80,
+                    90
+                ],
+                "to": [
+                    40,
+                    50
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     165,
@@ -987,7 +997,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "308262271262654464": {
         "modification_history": {
