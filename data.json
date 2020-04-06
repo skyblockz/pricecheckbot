@@ -61,8 +61,8 @@
     },
     {
         "ac": true,
-        "hi": 210000,
-        "low": 190000,
+        "hi": 250000,
+        "low": 200000,
         "name": "superior_dragon_fragment"
     },
     {
@@ -355,7 +355,7 @@
     },
     {
         "ac": true,
-        "hi": 56000000,
+        "hi": 54000000,
         "low": 100000,
         "name": "midas_sword"
     },
@@ -3946,5 +3946,11 @@
         "hi": 30,
         "low": 15,
         "name": "quartz"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 500,
+        "name": "lapis_minion_i"
     }
 ]
