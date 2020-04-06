@@ -1132,6 +1132,13 @@
                     20000
                 ]
             },
+            "lapis_minion_i": {
+                "from": null,
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "midas_sword": {
                 "from": [
                     100000,
@@ -1264,7 +1271,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "310369675987124225": {
         "modification_history": {
