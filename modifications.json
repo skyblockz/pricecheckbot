@@ -2426,6 +2426,16 @@
                     400000
                 ]
             },
+            "enchanted_ink_sac": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    25000,
+                    31000
+                ]
+            },
             "epic_ender_dragon_pet": {
                 "from": [
                     45000000,
@@ -2677,7 +2687,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "390661701046894592": {
         "modification_history": {
