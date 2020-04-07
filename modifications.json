@@ -3124,6 +3124,16 @@
                     375000
                 ]
             },
+            "epic_enderman_pet": {
+                "from": [
+                    375000,
+                    550000
+                ],
+                "to": [
+                    80000,
+                    150000
+                ]
+            },
             "epic_wolf_pet": {
                 "from": [
                     100000,
@@ -3480,7 +3490,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "437305878257860608": {
         "modification_history": {
