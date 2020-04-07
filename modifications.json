@@ -3298,6 +3298,16 @@
                     7500000
                 ]
             },
+            "power_vi": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    3250000,
+                    4250000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     70000,
@@ -3510,7 +3520,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "437305878257860608": {
         "modification_history": {
