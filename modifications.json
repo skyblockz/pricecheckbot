@@ -3412,6 +3412,13 @@
                     120000
                 ]
             },
+            "spiked_hook_vi": {
+                "from": null,
+                "to": [
+                    35000,
+                    65000
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     1600000,
@@ -3530,7 +3537,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "437305878257860608": {
         "modification_history": {
