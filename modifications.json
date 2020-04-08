@@ -3024,6 +3024,16 @@
                     16000000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    325000,
+                    400000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     3600,
@@ -3557,7 +3567,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "437305878257860608": {
         "modification_history": {
