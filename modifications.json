@@ -2297,6 +2297,16 @@
                     12000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    90000,
+                    95000
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     100000,
@@ -2442,7 +2452,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "335567131100053505": {
         "modification_history": {
