@@ -2277,6 +2277,16 @@
                     30000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    150000,
+                    160000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "legendary_bat_pet": {
                 "from": null,
                 "to": [
@@ -2362,7 +2372,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "335567131100053505": {
         "modification_history": {
