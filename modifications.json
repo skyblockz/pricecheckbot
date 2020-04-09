@@ -2267,6 +2267,16 @@
                     2500
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    270000,
+                    350000
+                ],
+                "to": [
+                    260000,
+                    280000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     8000,
@@ -2422,7 +2432,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "335567131100053505": {
         "modification_history": {
