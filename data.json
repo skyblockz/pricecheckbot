@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 450000,
+        "hi": 220000,
+        "low": 150000,
         "name": "emerald_blade"
     },
     {
@@ -3994,5 +3994,11 @@
         "hi": 200000,
         "low": 150000,
         "name": "bunny_jerry"
+    },
+    {
+        "ac": true,
+        "hi": 75000,
+        "low": 50000,
+        "name": "epic_flying_fish"
     }
 ]
