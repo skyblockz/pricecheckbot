@@ -3763,8 +3763,8 @@
     },
     {
         "ac": true,
-        "hi": 130000,
-        "low": 100000,
+        "hi": 100000,
+        "low": 90000,
         "name": "protector_dragon_helmet"
     },
     {
@@ -3982,5 +3982,11 @@
         "hi": 27000,
         "low": 23000,
         "name": "end_stone_sword"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 1800000,
+        "name": "maxed_thick_tactician"
     }
 ]
