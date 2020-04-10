@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 220000,
-        "low": 150000,
+        "hi": 380000,
+        "low": 280000,
         "name": "emerald_blade"
     },
     {
@@ -1321,8 +1321,8 @@
     },
     {
         "ac": true,
-        "hi": 7250000,
-        "low": 6500000,
+        "hi": 6500000,
+        "low": 5500000,
         "name": "tarantula_talisman"
     },
     {
@@ -4000,5 +4000,11 @@
         "hi": 3500,
         "low": 3000,
         "name": "enchanted_clownfish"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 10000,
+        "name": "lure_vi"
     }
 ]
