@@ -145,6 +145,16 @@
                     5000
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    110000,
+                    112000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     1500,
@@ -166,7 +176,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "335567131100053505": {
         "modification_history": {},
