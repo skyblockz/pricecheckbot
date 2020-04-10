@@ -98,6 +98,16 @@
                     800
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    1800,
+                    2500
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     8500,
@@ -136,7 +146,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "335567131100053505": {
         "modification_history": {},
