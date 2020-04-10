@@ -100,9 +100,19 @@
                     1900,
                     2150
                 ]
+            },
+            "skeletons_helmet": {
+                "from": [
+                    75000,
+                    180000
+                ],
+                "to": [
+                    75000,
+                    300000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "600383557038374913": {
         "modification_history": {},
