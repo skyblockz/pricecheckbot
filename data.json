@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 3900000,
-        "low": 3400000,
+        "hi": 4700000,
+        "low": 4100000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -661,8 +661,8 @@
     },
     {
         "ac": true,
-        "hi": 140000,
-        "low": 110000,
+        "hi": 120000,
+        "low": 100000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -673,7 +673,7 @@
     },
     {
         "ac": true,
-        "hi": 700,
+        "hi": 800,
         "low": 600,
         "name": "enchanted_potato"
     },
@@ -961,8 +961,8 @@
     },
     {
         "ac": true,
-        "hi": 12000,
-        "low": 8500,
+        "hi": 10000,
+        "low": 7500,
         "name": "enchanted_rabbit_hide"
     },
     {
@@ -1003,8 +1003,8 @@
     },
     {
         "ac": true,
-        "hi": 3900,
-        "low": 3100,
+        "hi": 5000,
+        "low": 4000,
         "name": "enchanted_gunpowder"
     },
     {
@@ -1891,7 +1891,7 @@
     },
     {
         "ac": true,
-        "hi": 180000,
+        "hi": 300000,
         "low": 75000,
         "name": "skeletons_helmet"
     },
@@ -2245,8 +2245,8 @@
     },
     {
         "ac": true,
-        "hi": 695000,
-        "low": 600000,
+        "hi": 800000,
+        "low": 700000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -3619,8 +3619,8 @@
     },
     {
         "ac": true,
-        "hi": 8500,
-        "low": 5500,
+        "hi": 8000,
+        "low": 6000,
         "name": "enchanted_cake"
     },
     {
@@ -3958,5 +3958,11 @@
         "hi": 65000,
         "low": 35000,
         "name": "spiked_hook_vi"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1500,
+        "name": "enchanted_raw_salmon"
     }
 ]
