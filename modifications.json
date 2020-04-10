@@ -125,6 +125,16 @@
                     2000
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    5000,
+                    22000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     1500,
@@ -146,7 +156,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "335567131100053505": {
         "modification_history": {},
