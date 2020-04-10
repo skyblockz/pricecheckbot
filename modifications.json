@@ -300,6 +300,16 @@
                     2500000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    100000,
+                    115000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "protector_dragon_helmet": {
                 "from": [
                     100000,
@@ -311,7 +321,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "390661701046894592": {
         "modification_history": {
