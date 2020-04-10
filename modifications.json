@@ -61,6 +61,16 @@
                     8000
                 ]
             },
+            "enchanted_endstone": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1300,
+                    1800
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": null,
                 "to": [
@@ -186,7 +196,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "335567131100053505": {
         "modification_history": {},
