@@ -231,9 +231,19 @@
                     3200,
                     3500
                 ]
+            },
+            "hot_potato_book": {
+                "from": [
+                    150000,
+                    160000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "390661701046894592": {
         "modification_history": {
