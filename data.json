@@ -61,7 +61,7 @@
     },
     {
         "ac": true,
-        "hi": 250000,
+        "hi": 220000,
         "low": 200000,
         "name": "superior_dragon_fragment"
     },
@@ -541,8 +541,8 @@
     },
     {
         "ac": true,
-        "hi": 7500,
-        "low": 6250,
+        "hi": 5900,
+        "low": 5700,
         "name": "enchanted_obsidian"
     },
     {
@@ -565,8 +565,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3000,
+        "hi": 3500,
+        "low": 3200,
         "name": "enchanted_flint"
     },
     {
@@ -1099,8 +1099,8 @@
     },
     {
         "ac": true,
-        "hi": 160000,
-        "low": 150000,
+        "hi": 150000,
+        "low": 140000,
         "name": "hot_potato_book"
     },
     {
@@ -2053,8 +2053,8 @@
     },
     {
         "ac": true,
-        "hi": 30000,
-        "low": 18000,
+        "hi": 29000,
+        "low": 27000,
         "name": "catalyst"
     },
     {
@@ -2743,8 +2743,8 @@
     },
     {
         "ac": true,
-        "hi": 55000000,
-        "low": 48000000,
+        "hi": 58000000,
+        "low": 53000000,
         "name": "epic_ender_dragon_pet"
     },
     {
@@ -3976,5 +3976,11 @@
         "hi": 3500,
         "low": 3000,
         "name": "enchanted_sand"
+    },
+    {
+        "ac": true,
+        "hi": 27000,
+        "low": 23000,
+        "name": "end_stone_sword"
     }
 ]
