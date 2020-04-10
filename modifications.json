@@ -31,6 +31,16 @@
                     120000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    3100,
+                    3900
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     600,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "335567131100053505": {
         "modification_history": {},
