@@ -415,8 +415,8 @@
     },
     {
         "ac": true,
-        "hi": 90000,
-        "low": 80000,
+        "hi": 120000,
+        "low": 100000,
         "name": "enchanted_lapis_block"
     },
     {
@@ -745,8 +745,8 @@
     },
     {
         "ac": true,
-        "hi": 38000,
-        "low": 32000,
+        "hi": 35000,
+        "low": 30000,
         "name": "enchanted_melon_block"
     },
     {
@@ -781,14 +781,14 @@
     },
     {
         "ac": true,
-        "hi": 2300,
-        "low": 500,
+        "hi": 35000,
+        "low": 25000,
         "name": "enchanted_brown_mushroom_block"
     },
     {
         "ac": true,
-        "hi": 22000,
-        "low": 5000,
+        "hi": 5000,
+        "low": 3000,
         "name": "enchanted_red_mushroom_block"
     },
     {
@@ -1015,8 +1015,8 @@
     },
     {
         "ac": true,
-        "hi": 112000,
-        "low": 110000,
+        "hi": 110000,
+        "low": 100000,
         "name": "golden_tooth"
     },
     {
@@ -1585,8 +1585,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 3500,
+        "hi": 6000,
+        "low": 5000,
         "name": "wise_dragon_fragment"
     },
     {
@@ -2143,7 +2143,7 @@
     },
     {
         "ac": true,
-        "hi": 1600,
+        "hi": 3000,
         "low": 1500,
         "name": "protector_dragon_fragment"
     },
@@ -2845,8 +2845,8 @@
     },
     {
         "ac": true,
-        "hi": 1300,
-        "low": 1200,
+        "hi": 1800,
+        "low": 1300,
         "name": "enchanted_endstone"
     },
     {
@@ -3392,7 +3392,7 @@
     {
         "ac": true,
         "hi": 2500,
-        "low": 1800,
+        "low": 2000,
         "name": "enchanted_pufferfish"
     },
     {
@@ -3970,5 +3970,11 @@
         "hi": 10000,
         "low": 5000,
         "name": "enchanted_glistering_melon"
+    },
+    {
+        "ac": true,
+        "hi": 3500,
+        "low": 3000,
+        "name": "enchanted_sand"
     }
 ]
