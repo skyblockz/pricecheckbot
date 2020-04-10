@@ -88,6 +88,16 @@
                     5000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "enchanted_melon_block": {
                 "from": [
                     32000,
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "335567131100053505": {
         "modification_history": {},
