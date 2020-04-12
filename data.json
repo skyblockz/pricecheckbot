@@ -67,8 +67,8 @@
     },
     {
         "ac": true,
-        "hi": 175000,
-        "low": 165000,
+        "hi": 150000,
+        "low": 100000,
         "name": "aspect_of_the_end"
     },
     {
@@ -103,7 +103,7 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
+        "hi": 1200000,
         "low": 1000000,
         "name": "tarantula_chestplate"
     },
@@ -127,8 +127,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 800000,
+        "hi": 750000,
+        "low": 575000,
         "name": "rod_of_champions"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "ac": true,
-        "hi": 120000,
+        "hi": 130000,
         "low": 100000,
         "name": "enchanted_redstone_block"
     },
@@ -385,8 +385,8 @@
     },
     {
         "ac": true,
-        "hi": 204800,
-        "low": 204800,
+        "hi": 220000,
+        "low": 200000,
         "name": "enchanted_diamond_block"
     },
     {
@@ -409,7 +409,7 @@
     },
     {
         "ac": true,
-        "hi": 120000,
+        "hi": 140000,
         "low": 100000,
         "name": "enchanted_lapis_block"
     },
@@ -553,8 +553,8 @@
     },
     {
         "ac": true,
-        "hi": 110000,
-        "low": 100000,
+        "hi": 135000,
+        "low": 105000,
         "name": "enchanted_redstone_lamp"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "ac": true,
-        "hi": 16700000,
-        "low": 13500000,
+        "hi": 15500000,
+        "low": 13000000,
         "name": "pigman_sword"
     },
     {
@@ -1172,7 +1172,7 @@
     {
         "ac": true,
         "hi": 9000,
-        "low": 6900,
+        "low": 7500,
         "name": "purple_candy"
     },
     {
@@ -1213,8 +1213,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 900000,
+        "hi": 800000,
+        "low": 600000,
         "name": "tarantula_helmet"
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
         "ac": true,
-        "hi": 14000000,
-        "low": 12000000,
+        "hi": 14600000,
+        "low": 12600000,
         "name": "wither_artifact"
     },
     {
@@ -1885,8 +1885,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 75000,
+        "hi": 400000,
+        "low": 100000,
         "name": "skeletons_helmet"
     },
     {
@@ -1903,8 +1903,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 750000,
+        "hi": 800000,
+        "low": 650000,
         "name": "wolf_ring"
     },
     {
@@ -2071,8 +2071,8 @@
     },
     {
         "ac": true,
-        "hi": 360000,
-        "low": 190000,
+        "hi": 250000,
+        "low": 150000,
         "name": "fish_affinity_talisman"
     },
     {
@@ -2245,8 +2245,8 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 800000,
+        "hi": 800000,
+        "low": 575000,
         "name": "revenant_falchion"
     },
     {
@@ -2737,7 +2737,7 @@
     },
     {
         "ac": true,
-        "hi": 58000000,
+        "hi": 60000000,
         "low": 53000000,
         "name": "epic_ender_dragon_pet"
     },
@@ -3463,8 +3463,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 45000,
+        "hi": 100000,
+        "low": 75000,
         "name": "snow_minion_i"
     },
     {
@@ -3487,8 +3487,8 @@
     },
     {
         "ac": true,
-        "hi": 6100000,
-        "low": 4600000,
+        "hi": 5200000,
+        "low": 3900000,
         "name": "legendary_wolf_pet"
     },
     {
@@ -3571,8 +3571,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 800000,
+        "hi": 750000,
+        "low": 500000,
         "name": "epic_ocelot_pet"
     },
     {
@@ -3769,8 +3769,8 @@
     },
     {
         "ac": true,
-        "hi": 6200000,
-        "low": 5200000,
+        "hi": 6500000,
+        "low": 5500000,
         "name": "flower_minion_i"
     },
     {
@@ -4018,5 +4018,11 @@
         "hi": 100,
         "low": 50,
         "name": "frail_vi"
+    },
+    {
+        "ac": true,
+        "hi": 16500000,
+        "low": 14500000,
+        "name": "legendary_tiger_pet"
     }
 ]
