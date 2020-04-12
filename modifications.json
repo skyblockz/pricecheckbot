@@ -483,6 +483,16 @@
                     150000
                 ]
             },
+            "epic_ocelot_pet": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    500000,
+                    750000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     190000,
@@ -574,7 +584,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "437305878257860608": {
         "modification_history": {},
