@@ -1981,8 +1981,8 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 900000,
+        "hi": 700000,
+        "low": 500000,
         "name": "bat_person_chestplate"
     },
     {
@@ -2467,20 +2467,20 @@
     },
     {
         "ac": true,
-        "hi": 800000,
+        "hi": 650000,
         "low": 550000,
         "name": "bat_person_leggings"
     },
     {
         "ac": true,
-        "hi": 500000,
+        "hi": 600000,
         "low": 400000,
         "name": "bat_person_helmet"
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 900000,
+        "hi": 550000,
+        "low": 400000,
         "name": "bat_person_boots"
     },
     {
@@ -4036,5 +4036,11 @@
         "hi": 2000,
         "low": 1200,
         "name": "whale_bait"
+    },
+    {
+        "ac": true,
+        "hi": 350000,
+        "low": 200000,
+        "name": "epic_rabbit_pet"
     }
 ]
