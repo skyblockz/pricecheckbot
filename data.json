@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 4700000,
-        "low": 4100000,
+        "hi": 3700000,
+        "low": 3400000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 100000,
+        "hi": 140000,
+        "low": 110000,
         "name": "aspect_of_the_end"
     },
     {
@@ -349,7 +349,7 @@
     },
     {
         "ac": true,
-        "hi": 54000000,
+        "hi": 49000000,
         "low": 100000,
         "name": "midas_sword"
     },
@@ -2641,8 +2641,8 @@
     },
     {
         "ac": true,
-        "hi": 1500,
-        "low": 1500,
+        "hi": 12000,
+        "low": 9800,
         "name": "enchanted_sponge"
     },
     {
@@ -4042,5 +4042,11 @@
         "hi": 350000,
         "low": 200000,
         "name": "epic_rabbit_pet"
+    },
+    {
+        "ac": true,
+        "hi": 420000,
+        "low": 380000,
+        "name": "enchanted_wet_sponge"
     }
 ]
