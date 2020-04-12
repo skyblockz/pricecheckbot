@@ -241,8 +241,8 @@
     },
     {
         "ac": true,
-        "hi": 330000,
-        "low": 260000,
+        "hi": 230000,
+        "low": 175000,
         "name": "wise_dragon_helmet"
     },
     {
@@ -304,12 +304,6 @@
         "hi": 1000,
         "low": 900,
         "name": "enchanted_coal"
-    },
-    {
-        "ac": true,
-        "hi": 230000,
-        "low": 215000,
-        "name": "enchanted_coal_block"
     },
     {
         "ac": true,
@@ -1075,8 +1069,8 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1500,
+        "hi": 1000,
+        "low": 850,
         "name": "enchanted_dark_oak"
     },
     {
@@ -2245,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 700000,
+        "hi": 700000,
+        "low": 685000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2497,8 +2491,8 @@
     },
     {
         "ac": true,
-        "hi": 3800,
-        "low": 2340,
+        "hi": 1900,
+        "low": 1700,
         "name": "enchanted_spruce_wood"
     },
     {
@@ -3865,8 +3859,8 @@
     },
     {
         "ac": true,
-        "hi": 31000,
-        "low": 25000,
+        "hi": 30000,
+        "low": 23000,
         "name": "enchanted_ink_sac"
     },
     {
@@ -3904,12 +3898,6 @@
         "hi": 1,
         "low": -69420666,
         "name": "prix"
-    },
-    {
-        "ac": true,
-        "hi": 100,
-        "low": 50,
-        "name": "frail_vi"
     },
     {
         "ac": true,
@@ -4018,5 +4006,11 @@
         "hi": 850000,
         "low": 800000,
         "name": "enchanted_cooked_fish"
+    },
+    {
+        "ac": true,
+        "hi": 230000,
+        "low": 215000,
+        "name": "enchanted_coal_block"
     }
 ]
