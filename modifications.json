@@ -630,6 +630,13 @@
                     6500000
                 ]
             },
+            "whale_bait": {
+                "from": null,
+                "to": [
+                    1200,
+                    2000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     12000000,
@@ -661,7 +668,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "437305878257860608": {
         "modification_history": {},
