@@ -524,6 +524,16 @@
                     2800
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    204800,
+                    204800
+                ],
+                "to": [
+                    200000,
+                    220000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     2300,
@@ -555,7 +565,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "600383557038374913": {
         "modification_history": {},
