@@ -49,8 +49,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1100000,
+        "hi": 1750000,
+        "low": 1400000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -4027,8 +4027,14 @@
     },
     {
         "ac": true,
-        "hi": 1600000,
-        "low": 1400000,
+        "hi": 16000000,
+        "low": 14000000,
         "name": "legendary_giraffe_pet"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1200,
+        "name": "whale_bait"
     }
 ]
