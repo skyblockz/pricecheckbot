@@ -483,6 +483,16 @@
                     250000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    165000,
+                    175000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     6500000,
@@ -504,7 +514,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "437305878257860608": {
         "modification_history": {},
