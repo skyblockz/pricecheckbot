@@ -493,6 +493,16 @@
                     250000
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    5200000,
+                    6200000
+                ],
+                "to": [
+                    5500000,
+                    6500000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     100000,
@@ -524,7 +534,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "437305878257860608": {
         "modification_history": {},
