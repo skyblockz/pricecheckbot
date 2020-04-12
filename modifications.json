@@ -503,6 +503,16 @@
                     6500000
                 ]
             },
+            "legendary_wolf_pet": {
+                "from": [
+                    4600000,
+                    6100000
+                ],
+                "to": [
+                    3900000,
+                    5200000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     13500000,
@@ -564,7 +574,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "437305878257860608": {
         "modification_history": {},
