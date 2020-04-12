@@ -273,6 +273,16 @@
                     850000
                 ]
             },
+            "enchanted_dark_oak": {
+                "from": [
+                    1500,
+                    1800
+                ],
+                "to": [
+                    850,
+                    1000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     3000,
@@ -399,7 +409,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "390661701046894592": {
         "modification_history": {
