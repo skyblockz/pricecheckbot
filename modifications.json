@@ -534,6 +534,16 @@
                     220000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    100000,
+                    140000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     2300,
@@ -565,7 +575,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "600383557038374913": {
         "modification_history": {},
