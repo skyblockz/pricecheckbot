@@ -483,6 +483,16 @@
                     150000
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "epic_ender_dragon_pet": {
                 "from": [
                     53000000,
@@ -668,7 +678,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "437305878257860608": {
         "modification_history": {},
