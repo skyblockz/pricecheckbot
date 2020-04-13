@@ -883,6 +883,16 @@
                     20000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    300000,
+                    425000
+                ],
+                "to": [
+                    240000,
+                    400000
+                ]
+            },
             "purple_candy": {
                 "from": [
                     6900,
@@ -924,7 +934,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "600383557038374913": {
         "modification_history": {},
