@@ -254,7 +254,7 @@
     {
         "ac": true,
         "hi": 450000,
-        "low": 435000,
+        "low": 370000,
         "name": "super_compactor_3000"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
         "ac": true,
-        "hi": 170000,
-        "low": 150000,
+        "hi": 145000,
+        "low": 135000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -925,8 +925,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 350000,
+        "hi": 300000,
+        "low": 280000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -1394,7 +1394,7 @@
     {
         "ac": true,
         "hi": 20000,
-        "low": 19000,
+        "low": 10000,
         "name": "ender_helmet"
     },
     {
@@ -2359,8 +2359,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 300000,
+        "hi": 400000,
+        "low": 240000,
         "name": "healing_ring"
     },
     {
@@ -3391,8 +3391,8 @@
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 3400000,
+        "hi": 3200000,
+        "low": 2700000,
         "name": "treecapitator"
     },
     {
@@ -4048,5 +4048,11 @@
         "hi": 420000,
         "low": 380000,
         "name": "enchanted_wet_sponge"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 15000,
+        "name": "thunderlord_v"
     }
 ]
