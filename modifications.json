@@ -873,6 +873,16 @@
                     2150
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    19000,
+                    20000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "purple_candy": {
                 "from": [
                     6900,
@@ -914,7 +924,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "600383557038374913": {
         "modification_history": {},
