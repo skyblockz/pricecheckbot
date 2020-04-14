@@ -805,9 +805,19 @@
                     800000,
                     1000000
                 ]
+            },
+            "young_dragon_fragment": {
+                "from": [
+                    9000,
+                    11000
+                ],
+                "to": [
+                    13000,
+                    16000
+                ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "437305878257860608": {
         "modification_history": {},
