@@ -300,10 +300,6 @@
         "src": "wise_frag"
     },
     {
-        "dest": "enchanted_coal_block",
-        "src": "ecoal_block"
-    },
-    {
         "dest": "enchanted_spruce_wood",
         "src": "espruce_wood"
     },
@@ -848,7 +844,7 @@
         "src": "protector_helmet"
     },
     {
-        "dest": "enchanted_coal_block",
-        "src": "enchanted_block_of_coal"
+        "dest": "enchanted_block_of_coal",
+        "src": "enchanted_coal_block"
     }
 ]
