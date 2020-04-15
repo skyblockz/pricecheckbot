@@ -652,6 +652,13 @@
                     6500000
                 ]
             },
+            "healing_talisman": {
+                "from": null,
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "legendary_blaze_pet": {
                 "from": null,
                 "to": [
@@ -831,7 +838,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "437305878257860608": {
         "modification_history": {},
