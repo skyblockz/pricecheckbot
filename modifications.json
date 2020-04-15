@@ -868,6 +868,16 @@
     },
     "523019950072266764": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    3000,
+                    7000
+                ],
+                "to": [
+                    3000,
+                    6000
+                ]
+            },
             "enchanted_bone": {
                 "from": [
                     1437,
@@ -1019,7 +1029,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "600383557038374913": {
         "modification_history": {},
