@@ -1018,6 +1018,16 @@
                     9000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    70000,
+                    82000
+                ],
+                "to": [
+                    60000,
+                    70000
+                ]
+            },
             "skeletons_helmet": {
                 "from": [
                     75000,
@@ -1049,7 +1059,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "600383557038374913": {
         "modification_history": {},
