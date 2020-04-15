@@ -187,8 +187,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 375000,
+        "hi": 445000,
+        "low": 420000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -265,7 +265,7 @@
     },
     {
         "ac": true,
-        "hi": 7000,
+        "hi": 6000,
         "low": 3000,
         "name": "compactor"
     },
@@ -1003,7 +1003,7 @@
     },
     {
         "ac": true,
-        "hi": 33000,
+        "hi": 27000,
         "low": 25000,
         "name": "foul_flesh"
     },
@@ -1099,8 +1099,8 @@
     },
     {
         "ac": true,
-        "hi": 15500000,
-        "low": 14000000,
+        "hi": 14800000,
+        "low": 13800000,
         "name": "superior_dragon_chestplate"
     },
     {
@@ -1381,8 +1381,8 @@
     },
     {
         "ac": true,
-        "hi": 65000,
-        "low": 57000,
+        "hi": 60000,
+        "low": 45000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -1591,8 +1591,8 @@
     },
     {
         "ac": true,
-        "hi": 82000,
-        "low": 70000,
+        "hi": 70000,
+        "low": 60000,
         "name": "revenant_viscera"
     },
     {
@@ -1897,8 +1897,8 @@
     },
     {
         "ac": true,
-        "hi": 517000,
-        "low": 450000,
+        "hi": 400000,
+        "low": 300000,
         "name": "weak_wolf_catalyst"
     },
     {
@@ -1915,8 +1915,8 @@
     },
     {
         "ac": true,
-        "hi": 460,
-        "low": 375,
+        "hi": 350,
+        "low": 280,
         "name": "ink_sack"
     },
     {
@@ -2257,8 +2257,8 @@
     },
     {
         "ac": true,
-        "hi": 540,
-        "low": 450,
+        "hi": 400,
+        "low": 280,
         "name": "lily_pad"
     },
     {
@@ -2311,8 +2311,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 3000000,
+        "hi": 12000000,
+        "low": 8000000,
         "name": "hilt_of_true_ice"
     },
     {
@@ -2731,8 +2731,8 @@
     },
     {
         "ac": true,
-        "hi": 28000000,
-        "low": 24000000,
+        "hi": 30000000,
+        "low": 26000000,
         "name": "epic_parrot_pet"
     },
     {
@@ -3217,8 +3217,8 @@
     },
     {
         "ac": true,
-        "hi": 25000,
-        "low": 5000,
+        "hi": 2000,
+        "low": 500,
         "name": "epic_wolf_pet"
     },
     {
@@ -4078,5 +4078,11 @@
         "hi": 50000,
         "low": 25000,
         "name": "healing_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 20,
+        "low": 10,
+        "name": "glowstone_dust"
     }
 ]
