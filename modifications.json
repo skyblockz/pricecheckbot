@@ -1008,6 +1008,13 @@
                     27000
                 ]
             },
+            "glowstone_dust": {
+                "from": null,
+                "to": [
+                    10,
+                    20
+                ]
+            },
             "healing_ring": {
                 "from": [
                     300000,
@@ -1109,7 +1116,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "600383557038374913": {
         "modification_history": {},
