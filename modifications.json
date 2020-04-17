@@ -41,6 +41,16 @@
                     11000000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    600000,
+                    750000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
