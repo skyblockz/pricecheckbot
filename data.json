@@ -2701,8 +2701,8 @@
     },
     {
         "ac": true,
-        "hi": 180000000,
-        "low": 120000000,
+        "hi": 145000000,
+        "low": 140000000,
         "name": "legendary_phoenix"
     },
     {
@@ -2737,8 +2737,8 @@
     },
     {
         "ac": true,
-        "hi": 14500000,
-        "low": 14500000,
+        "hi": 8500000,
+        "low": 8500000,
         "name": "legendary_squid"
     },
     {
@@ -2923,12 +2923,6 @@
     },
     {
         "ac": true,
-        "hi": 145000000,
-        "low": 140000000,
-        "name": "legendary_phoenix"
-    },
-    {
-        "ac": true,
         "hi": 2750000,
         "low": 2000000,
         "name": "ink_wand"
@@ -2986,12 +2980,6 @@
         "hi": 8500000,
         "low": 8000000,
         "name": "epic_squid"
-    },
-    {
-        "ac": true,
-        "hi": 8500000,
-        "low": 8500000,
-        "name": "legendary_squid"
     },
     {
         "ac": true,
@@ -3223,8 +3211,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 4750000,
+        "hi": 5000000,
+        "low": 3500000,
         "name": "legendary_wolf"
     },
     {
@@ -3460,12 +3448,6 @@
         "hi": 150000,
         "low": 80000,
         "name": "epic_enderman"
-    },
-    {
-        "ac": true,
-        "hi": 5000000,
-        "low": 3500000,
-        "name": "legendary_wolf"
     },
     {
         "ac": true,
@@ -4168,5 +4150,11 @@
         "hi": 26,
         "low": 20,
         "name": "red_mushroom_block"
+    },
+    {
+        "ac": true,
+        "hi": 16,
+        "low": 10,
+        "name": "brown_mushroom"
     }
 ]
