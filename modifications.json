@@ -1327,6 +1327,16 @@
                     7500000
                 ]
             },
+            "recluse_fang": {
+                "from": [
+                    100000,
+                    115000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     800000,
@@ -1479,7 +1489,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "437305878257860608": {
         "modification_history": {},
