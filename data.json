@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 82000000,
-        "low": 78000000,
+        "hi": 77000000,
+        "low": 67000000,
         "name": "overflux_power_orb"
     },
     {
@@ -2335,8 +2335,8 @@
     },
     {
         "ac": true,
-        "hi": 64000000,
-        "low": 56000000,
+        "hi": 54000000,
+        "low": 48000000,
         "name": "overflux_capacitor"
     },
     {
@@ -2545,8 +2545,8 @@
     },
     {
         "ac": true,
-        "hi": 57000000,
-        "low": 50500000,
+        "hi": 41000000,
+        "low": 35000000,
         "name": "legendary_enderman"
     },
     {
@@ -2719,14 +2719,14 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 26000000,
+        "hi": 35000000,
+        "low": 31000000,
         "name": "legendary_parrot"
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 26000000,
+        "hi": 32000000,
+        "low": 29000000,
         "name": "epic_parrot"
     },
     {
@@ -3529,8 +3529,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 500000,
+        "hi": 600000,
+        "low": 400000,
         "name": "epic_ocelot"
     },
     {
@@ -4162,5 +4162,11 @@
         "hi": 20000,
         "low": 10000,
         "name": "first_strike_iv"
+    },
+    {
+        "ac": true,
+        "hi": 1700000,
+        "low": 1400000,
+        "name": "edible_mace"
     }
 ]
