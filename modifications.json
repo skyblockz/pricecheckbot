@@ -1246,6 +1246,16 @@
                     16000000
                 ]
             },
+            "legendary_parrot": {
+                "from": [
+                    26000000,
+                    30000000
+                ],
+                "to": [
+                    31000000,
+                    35000000
+                ]
+            },
             "legendary_tiger_pet": {
                 "from": null,
                 "to": [
@@ -1462,7 +1472,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "437305878257860608": {
         "modification_history": {},
