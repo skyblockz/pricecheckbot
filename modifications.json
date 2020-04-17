@@ -1084,6 +1084,13 @@
                     650000
                 ]
             },
+            "edible_mace": {
+                "from": null,
+                "to": [
+                    1400000,
+                    1700000
+                ]
+            },
             "enchanted_diamond_block": {
                 "from": [
                     200000,
@@ -1472,7 +1479,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "437305878257860608": {
         "modification_history": {},
