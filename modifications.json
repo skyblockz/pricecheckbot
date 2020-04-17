@@ -1452,6 +1452,16 @@
                     220000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    3100,
+                    3400
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     100000,
@@ -1710,7 +1720,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "600383557038374913": {
         "modification_history": {},
