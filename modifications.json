@@ -1206,6 +1206,16 @@
                     110000000
                 ]
             },
+            "legendary_enderman": {
+                "from": [
+                    50500000,
+                    57000000
+                ],
+                "to": [
+                    35000000,
+                    41000000
+                ]
+            },
             "legendary_enderman_pet": {
                 "from": [
                     50500000,
@@ -1442,7 +1452,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "437305878257860608": {
         "modification_history": {},
