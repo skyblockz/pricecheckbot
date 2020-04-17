@@ -1330,6 +1330,16 @@
                     6500000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    9000000,
+                    12000000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
             "thunderlord_v": {
                 "from": null,
                 "to": [
@@ -1385,7 +1395,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "437305878257860608": {
         "modification_history": {},
