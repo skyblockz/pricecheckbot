@@ -163,7 +163,7 @@
     },
     {
         "ac": true,
-        "hi": 1350,
+        "hi": 1380,
         "low": 1250,
         "name": "enchanted_diamond"
     },
@@ -343,8 +343,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 270000,
+        "hi": 240000,
+        "low": 200000,
         "name": "enchanted_gold_block"
     },
     {
@@ -385,8 +385,8 @@
     },
     {
         "ac": true,
-        "hi": 220000,
-        "low": 200000,
+        "hi": 215000,
+        "low": 204800,
         "name": "enchanted_diamond_block"
     },
     {
@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 190000,
-        "low": 170000,
+        "hi": 193000,
+        "low": 160000,
         "name": "enchanted_emerald_block"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 480000,
-        "low": 380000,
+        "hi": 420000,
+        "low": 310000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 5900,
-        "low": 5700,
+        "hi": 5500,
+        "low": 4900,
         "name": "enchanted_obsidian"
     },
     {
@@ -565,13 +565,13 @@
     },
     {
         "ac": true,
-        "hi": 1150,
-        "low": 700,
+        "hi": 950,
+        "low": 600,
         "name": "enchanted_ice"
     },
     {
         "ac": true,
-        "hi": 130000,
+        "hi": 120000,
         "low": 100000,
         "name": "enchanted_packed_ice"
     },
@@ -997,8 +997,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4000,
+        "hi": 3400,
+        "low": 3100,
         "name": "enchanted_gunpowder"
     },
     {
@@ -1015,7 +1015,7 @@
     },
     {
         "ac": true,
-        "hi": 7250000,
+        "hi": 7500000,
         "low": 6975000,
         "name": "pooch_sword"
     },
@@ -1471,8 +1471,8 @@
     },
     {
         "ac": true,
-        "hi": 200,
-        "low": 150,
+        "hi": 160,
+        "low": 120,
         "name": "enchanted_ghast_tear"
     },
     {
@@ -1555,8 +1555,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 9000000,
+        "hi": 10000000,
+        "low": 8000000,
         "name": "thick_scorpion_foil"
     },
     {
@@ -2095,8 +2095,8 @@
     },
     {
         "ac": true,
-        "hi": 5600,
-        "low": 4200,
+        "hi": 4900,
+        "low": 4500,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2491,8 +2491,8 @@
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1700,
+        "hi": 1700,
+        "low": 1300,
         "name": "enchanted_spruce_wood"
     },
     {
@@ -4156,5 +4156,11 @@
         "hi": 16,
         "low": 10,
         "name": "brown_mushroom"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 10000,
+        "name": "first_strike_iv"
     }
 ]
