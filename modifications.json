@@ -89,6 +89,16 @@
                     3000
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
             "enchanted_slimeball": {
                 "from": [
                     1600,
@@ -130,7 +140,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "366232910334001152": {
         "modification_history": {},
