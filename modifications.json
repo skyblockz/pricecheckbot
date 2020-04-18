@@ -233,6 +233,16 @@
                     9000000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    95000,
+                    250000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "devour_ring": {
                 "from": [
                     2000000,
@@ -334,7 +344,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
