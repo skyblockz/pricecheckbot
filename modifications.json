@@ -89,6 +89,16 @@
                     500
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    1500,
+                    3000
+                ],
+                "to": [
+                    2000,
+                    3500
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     40,
@@ -100,7 +110,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "366232910334001152": {
         "modification_history": {},
