@@ -111,6 +111,13 @@
     },
     "523019950072266764": {
         "modification_history": {
+            "common_horse_pet": {
+                "from": null,
+                "to": [
+                    10000,
+                    50000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5700000,
@@ -122,7 +129,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "614661627513536526": {
         "modification_history": {},
