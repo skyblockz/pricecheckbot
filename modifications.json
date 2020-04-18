@@ -283,6 +283,16 @@
                     1200000
                 ]
             },
+            "legendary_parrot": {
+                "from": [
+                    31000000,
+                    35000000
+                ],
+                "to": [
+                    34000000,
+                    37000000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     680000,
@@ -324,7 +334,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
