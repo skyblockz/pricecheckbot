@@ -97,8 +97,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 500000,
+        "hi": 750000,
+        "low": 600000,
         "name": "experience_artifact"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
         "ac": true,
-        "hi": 275000,
-        "low": 225000,
+        "hi": 225000,
+        "low": 150000,
         "name": "wolf_talisman"
     },
     {
@@ -1027,8 +1027,8 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8000000,
+        "hi": 9000000,
+        "low": 7600000,
         "name": "bait_ring"
     },
     {
@@ -1087,8 +1087,8 @@
     },
     {
         "ac": true,
-        "hi": 115000,
-        "low": 100000,
+        "hi": 100000,
+        "low": 75000,
         "name": "recluse_fang"
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
         "ac": true,
-        "hi": 14600000,
-        "low": 12600000,
+        "hi": 18000000,
+        "low": 15700000,
         "name": "wither_artifact"
     },
     {
@@ -1309,14 +1309,14 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 9300000,
+        "hi": 10500000,
+        "low": 9200000,
         "name": "ender_artifact"
     },
     {
         "ac": true,
-        "hi": 6500000,
-        "low": 5500000,
+        "hi": 5500000,
+        "low": 4500000,
         "name": "tarantula_talisman"
     },
     {
@@ -1909,8 +1909,8 @@
     },
     {
         "ac": true,
-        "hi": 2500,
-        "low": 2000,
+        "hi": 1250,
+        "low": 1250,
         "name": "toxic_arrow_poison"
     },
     {
@@ -3355,8 +3355,8 @@
     },
     {
         "ac": true,
-        "hi": 3200000,
-        "low": 2700000,
+        "hi": 3000000,
+        "low": 2570000,
         "name": "treecapitator"
     },
     {
@@ -3727,8 +3727,8 @@
     },
     {
         "ac": true,
-        "hi": 6500000,
-        "low": 5700000,
+        "hi": 7000000,
+        "low": 6000000,
         "name": "flower_minion_i"
     },
     {
@@ -4168,5 +4168,11 @@
         "hi": 1700000,
         "low": 1400000,
         "name": "edible_mace"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 10000,
+        "name": "common_horse_pet"
     }
 ]
