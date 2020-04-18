@@ -59,6 +59,16 @@
                     110000
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    30000,
+                    33000
+                ]
+            },
             "enchanted_raw_salmon": {
                 "from": [
                     1500,
@@ -120,7 +130,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "366232910334001152": {
         "modification_history": {},
