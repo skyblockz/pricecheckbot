@@ -224,6 +224,16 @@
                     58000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    370000,
+                    450000
+                ],
+                "to": [
+                    340000,
+                    430000
+                ]
+            },
             "young_dragon_fragment": {
                 "from": [
                     13000,
@@ -235,7 +245,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "390661701046894592": {
         "modification_history": {
