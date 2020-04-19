@@ -31,8 +31,8 @@
     },
     {
         "ac": true,
-        "hi": 50,
-        "low": 40,
+        "hi": 80,
+        "low": 60,
         "name": "tarantula_web"
     },
     {
@@ -259,8 +259,8 @@
     },
     {
         "ac": true,
-        "hi": 800,
-        "low": 700,
+        "hi": 700,
+        "low": 600,
         "name": "enchanted_cobblestone"
     },
     {
@@ -409,8 +409,8 @@
     },
     {
         "ac": true,
-        "hi": 140000,
-        "low": 100000,
+        "hi": 100000,
+        "low": 88000,
         "name": "enchanted_lapis_block"
     },
     {
@@ -427,8 +427,8 @@
     },
     {
         "ac": true,
-        "hi": 1250,
-        "low": 960,
+        "hi": 1200,
+        "low": 700,
         "name": "enchanted_emerald"
     },
     {
@@ -655,7 +655,7 @@
     },
     {
         "ac": true,
-        "hi": 120000,
+        "hi": 110000,
         "low": 100000,
         "name": "enchanted_golden_carrot"
     },
@@ -739,7 +739,7 @@
     },
     {
         "ac": true,
-        "hi": 35000,
+        "hi": 33000,
         "low": 30000,
         "name": "enchanted_melon_block"
     },
@@ -775,14 +775,14 @@
     },
     {
         "ac": true,
-        "hi": 35000,
-        "low": 25000,
+        "hi": 18000,
+        "low": 13000,
         "name": "enchanted_brown_mushroom_block"
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 3000,
+        "hi": 3000,
+        "low": 2000,
         "name": "enchanted_red_mushroom_block"
     },
     {
@@ -847,8 +847,8 @@
     },
     {
         "ac": true,
-        "hi": 800,
-        "low": 620,
+        "hi": 500,
+        "low": 400,
         "name": "enchanted_sugar"
     },
     {
@@ -979,8 +979,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 680000,
+        "hi": 900000,
+        "low": 700000,
         "name": "potion_affinity_artifact"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
         "ac": true,
-        "hi": 110000,
+        "hi": 105000,
         "low": 100000,
         "name": "golden_tooth"
     },
@@ -1057,8 +1057,8 @@
     },
     {
         "ac": true,
-        "hi": 2200,
-        "low": 1700,
+        "hi": 1500,
+        "low": 1300,
         "name": "enchanted_birch"
     },
     {
@@ -1249,8 +1249,8 @@
     },
     {
         "ac": true,
-        "hi": 11500000,
-        "low": 9500000,
+        "hi": 8450000,
+        "low": 7400000,
         "name": "red_claw_artifact"
     },
     {
@@ -1369,8 +1369,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2000000,
+        "hi": 2300000,
+        "low": 1700000,
         "name": "devour_ring"
     },
     {
@@ -2065,8 +2065,8 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 95000,
+        "hi": 200000,
+        "low": 150000,
         "name": "beheaded_horror"
     },
     {
@@ -2137,8 +2137,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 1500,
+        "hi": 3500,
+        "low": 2000,
         "name": "protector_dragon_fragment"
     },
     {
@@ -2461,7 +2461,7 @@
     },
     {
         "ac": true,
-        "hi": 2000,
+        "hi": 2300,
         "low": 2000,
         "name": "enchanted_brown_mushroom"
     },
@@ -2515,13 +2515,13 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3600,
+        "hi": 4300,
+        "low": 3800,
         "name": "enchanted_blaze_powder"
     },
     {
         "ac": true,
-        "hi": 781,
+        "hi": 700,
         "low": 600,
         "name": "enchanted_snow_block"
     },
@@ -2557,7 +2557,7 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
+        "hi": 1200000,
         "low": 700000,
         "name": "legendary_chicken"
     },
@@ -2587,8 +2587,8 @@
     },
     {
         "ac": true,
-        "hi": 256000,
-        "low": 200000,
+        "hi": 450000,
+        "low": 350000,
         "name": "enchanted_cooked_mutton"
     },
     {
@@ -2719,14 +2719,14 @@
     },
     {
         "ac": true,
-        "hi": 35000000,
-        "low": 31000000,
+        "hi": 37000000,
+        "low": 34000000,
         "name": "legendary_parrot"
     },
     {
         "ac": true,
-        "hi": 32000000,
-        "low": 29000000,
+        "hi": 34000000,
+        "low": 30000000,
         "name": "epic_parrot"
     },
     {
@@ -3163,8 +3163,8 @@
     },
     {
         "ac": true,
-        "hi": 2350,
-        "low": 1600,
+        "hi": 1600,
+        "low": 1400,
         "name": "enchanted_slimeball"
     },
     {
@@ -3571,8 +3571,8 @@
     },
     {
         "ac": true,
-        "hi": 8000,
-        "low": 6000,
+        "hi": 6000,
+        "low": 4000,
         "name": "enchanted_cake"
     },
     {
@@ -3901,7 +3901,7 @@
     },
     {
         "ac": true,
-        "hi": 2000,
+        "hi": 1700,
         "low": 1500,
         "name": "enchanted_raw_salmon"
     },
@@ -4141,8 +4141,8 @@
     },
     {
         "ac": true,
-        "hi": 3600,
-        "low": 3000,
+        "hi": 3000,
+        "low": 1500,
         "name": "enchanted_red_mushroom"
     },
     {
@@ -4174,5 +4174,11 @@
         "hi": 50000,
         "low": 10000,
         "name": "common_horse_pet"
+    },
+    {
+        "ac": true,
+        "hi": 3500,
+        "low": 2800,
+        "name": "enchanted_mutton"
     }
 ]
