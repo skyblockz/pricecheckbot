@@ -369,6 +369,16 @@
                     4300
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    200000,
+                    256000
+                ],
+                "to": [
+                    350000,
+                    45000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     100000,
@@ -390,7 +400,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "614661627513536526": {
         "modification_history": {},
