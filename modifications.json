@@ -359,6 +359,16 @@
                     50000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    100000,
+                    140000
+                ],
+                "to": [
+                    88000,
+                    100000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5700000,
@@ -370,7 +380,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "614661627513536526": {
         "modification_history": {},
