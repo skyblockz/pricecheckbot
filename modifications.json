@@ -374,6 +374,16 @@
                     37000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    67000000,
+                    77000000
+                ],
+                "to": [
+                    64000000,
+                    73000000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     680000,
@@ -415,7 +425,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {},
