@@ -424,6 +424,13 @@
                     8450000
                 ]
             },
+            "spirit_i_potion": {
+                "from": null,
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -445,7 +452,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
