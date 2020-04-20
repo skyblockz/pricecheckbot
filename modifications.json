@@ -315,10 +315,13 @@
                 ]
             },
             "blood_rune_i": {
-                "from": null,
-                "to": [
+                "from": [
                     500,
                     200
+                ],
+                "to": [
+                    500,
+                    2000
                 ]
             },
             "devour_ring": {
@@ -442,7 +445,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {},
