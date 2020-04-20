@@ -4189,8 +4189,14 @@
     },
     {
         "ac": true,
-        "hi": 200,
+        "hi": 2000,
         "low": 500,
         "name": "blood_rune_i"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "spirit_i_potion"
     }
 ]
