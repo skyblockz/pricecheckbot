@@ -534,6 +534,13 @@
                     7000000
                 ]
             },
+            "magma_bow": {
+                "from": null,
+                "to": [
+                    60000,
+                    120000
+                ]
+            },
             "mutton": {
                 "from": null,
                 "to": [
@@ -552,7 +559,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "614661627513536526": {
         "modification_history": {},
