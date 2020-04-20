@@ -524,6 +524,16 @@
                     3500
                 ]
             },
+            "enchanted_raw_chicken": {
+                "from": [
+                    600,
+                    800
+                ],
+                "to": [
+                    650,
+                    900
+                ]
+            },
             "epic_tiger_pet": {
                 "from": null,
                 "to": [
@@ -566,7 +576,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
