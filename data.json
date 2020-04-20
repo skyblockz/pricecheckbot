@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 600000,
-        "low": 580000,
+        "hi": 650000,
+        "low": 620000,
         "name": "summoning_eye"
     },
     {
@@ -2827,8 +2827,8 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 7000000,
+        "hi": 6000000,
+        "low": 4000000,
         "name": "snowman"
     },
     {
@@ -4198,5 +4198,11 @@
         "hi": 2000,
         "low": 1000,
         "name": "spirit_i_potion"
+    },
+    {
+        "ac": true,
+        "hi": 120000,
+        "low": 60000,
+        "name": "magma_bow"
     }
 ]
