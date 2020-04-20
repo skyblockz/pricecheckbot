@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 370000,
+        "hi": 430000,
+        "low": 340000,
         "name": "super_compactor_3000"
     },
     {
@@ -409,7 +409,7 @@
     },
     {
         "ac": true,
-        "hi": 100000,
+        "hi": 95000,
         "low": 88000,
         "name": "enchanted_lapis_block"
     },
@@ -655,7 +655,7 @@
     },
     {
         "ac": true,
-        "hi": 110000,
+        "hi": 120000,
         "low": 100000,
         "name": "enchanted_golden_carrot"
     },
@@ -739,7 +739,7 @@
     },
     {
         "ac": true,
-        "hi": 33000,
+        "hi": 40000,
         "low": 30000,
         "name": "enchanted_melon_block"
     },
@@ -775,8 +775,8 @@
     },
     {
         "ac": true,
-        "hi": 18000,
-        "low": 13000,
+        "hi": 24000,
+        "low": 16000,
         "name": "enchanted_brown_mushroom_block"
     },
     {
@@ -871,8 +871,8 @@
     },
     {
         "ac": true,
-        "hi": 487,
-        "low": 487,
+        "hi": 482,
+        "low": 475,
         "name": "enchanted_feather"
     },
     {
@@ -925,8 +925,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 280000,
+        "hi": 330000,
+        "low": 250000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "ac": true,
-        "hi": 2300,
-        "low": 1800,
+        "hi": 1600,
+        "low": 1400,
         "name": "enchanted_jungle_wood"
     },
     {
@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 77000000,
-        "low": 67000000,
+        "hi": 73000000,
+        "low": 64000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1381,7 +1381,7 @@
     },
     {
         "ac": true,
-        "hi": 60000,
+        "hi": 58000,
         "low": 45000,
         "name": "enchanted_lily_pad"
     },
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 13000,
-        "low": 13000,
+        "hi": 15000,
+        "low": 14500,
         "name": "young_dragon_fragment"
     },
     {
@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 685000,
+        "hi": 660000,
+        "low": 630000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2755,8 +2755,8 @@
     },
     {
         "ac": true,
-        "hi": 36000000,
-        "low": 32000000,
+        "hi": 32000000,
+        "low": 24000000,
         "name": "elegant_tuxedo_jacket"
     },
     {
@@ -3163,8 +3163,8 @@
     },
     {
         "ac": true,
-        "hi": 1600,
-        "low": 1400,
+        "hi": 1800,
+        "low": 1500,
         "name": "enchanted_slimeball"
     },
     {
@@ -4142,7 +4142,7 @@
     {
         "ac": true,
         "hi": 3000,
-        "low": 1500,
+        "low": 2500,
         "name": "enchanted_red_mushroom"
     },
     {
@@ -4186,5 +4186,11 @@
         "hi": 35,
         "low": 25,
         "name": "mutton"
+    },
+    {
+        "ac": true,
+        "hi": 200,
+        "low": 500,
+        "name": "blood_rune_i"
     }
 ]
