@@ -483,6 +483,13 @@
                     8450000
                 ]
             },
+            "sea_creature_talisman": {
+                "from": null,
+                "to": [
+                    500,
+                    3000
+                ]
+            },
             "snowman": {
                 "from": [
                     7000000,
@@ -521,7 +528,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "466769036122783744": {
         "modification_history": {},
