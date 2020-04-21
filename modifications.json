@@ -450,6 +450,16 @@
                     750000
                 ]
             },
+            "hunter_ring": {
+                "from": [
+                    36000000,
+                    42000000
+                ],
+                "to": [
+                    32000000,
+                    37000000
+                ]
+            },
             "legendary_chicken": {
                 "from": [
                     700000,
@@ -562,7 +572,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "466769036122783744": {
         "modification_history": {},
