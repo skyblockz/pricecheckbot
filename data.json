@@ -1045,8 +1045,8 @@
     },
     {
         "ac": true,
-        "hi": 42000000,
-        "low": 36000000,
+        "hi": 37000000,
+        "low": 32000000,
         "name": "hunter_ring"
     },
     {
@@ -2737,7 +2737,7 @@
     },
     {
         "ac": true,
-        "hi": 8500000,
+        "hi": 10000000,
         "low": 8500000,
         "name": "legendary_squid"
     },
@@ -3025,8 +3025,8 @@
     },
     {
         "ac": true,
-        "hi": 240000,
-        "low": 240000,
+        "hi": 400000,
+        "low": 250000,
         "name": "cobblestone_minion_xi"
     },
     {
@@ -4252,5 +4252,11 @@
         "hi": 1000,
         "low": 1000,
         "name": "enderman_mask"
+    },
+    {
+        "ac": true,
+        "hi": 1300000,
+        "low": 800000,
+        "name": "epic_guardian"
     }
 ]
