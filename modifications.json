@@ -661,6 +661,16 @@
                     3500
                 ]
             },
+            "enchanted_oak": {
+                "from": [
+                    1600,
+                    2100
+                ],
+                "to": [
+                    1200,
+                    1400
+                ]
+            },
             "enchanted_raw_chicken": {
                 "from": [
                     600,
@@ -843,7 +853,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "614661627513536526": {
         "modification_history": {},
