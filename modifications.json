@@ -664,6 +664,16 @@
                     482
                 ]
             },
+            "enchanted_ink_sac": {
+                "from": [
+                    23000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     100000,
@@ -873,7 +883,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "614661627513536526": {
         "modification_history": {},
