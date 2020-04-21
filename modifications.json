@@ -1,6 +1,16 @@
 {
     "298613178601046017": {
         "modification_history": {
+            "enchanted_melon_block": {
+                "from": [
+                    23000,
+                    32000
+                ],
+                "to": [
+                    29500,
+                    33000
+                ]
+            },
             "poisonous_potato": {
                 "from": null,
                 "to": [
@@ -9,7 +19,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "308262271262654464": {
         "modification_history": {},
