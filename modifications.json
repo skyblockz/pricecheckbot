@@ -363,6 +363,16 @@
                     2000
                 ]
             },
+            "cobblestone_minion_xi": {
+                "from": [
+                    240000,
+                    240000
+                ],
+                "to": [
+                    250000,
+                    400000
+                ]
+            },
             "devour_ring": {
                 "from": [
                     2000000,
@@ -542,7 +552,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "466769036122783744": {
         "modification_history": {},
