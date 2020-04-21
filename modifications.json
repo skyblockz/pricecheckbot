@@ -614,6 +614,16 @@
                     50000
                 ]
             },
+            "enchanted_acacia": {
+                "from": [
+                    1400,
+                    1850
+                ],
+                "to": [
+                    1000,
+                    1250
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     3600,
@@ -853,7 +863,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "614661627513536526": {
         "modification_history": {},
