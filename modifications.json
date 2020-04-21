@@ -671,6 +671,16 @@
                     900
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    105000,
+                    135000
+                ],
+                "to": [
+                    110000,
+                    125000
+                ]
+            },
             "enchanted_string": {
                 "from": [
                     2100,
@@ -803,7 +813,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
