@@ -314,6 +314,13 @@
                     200000
                 ]
             },
+            "blaze_minion_i": {
+                "from": null,
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "blaze_minion_xi": {
                 "from": null,
                 "to": [
@@ -469,7 +476,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "466769036122783744": {
         "modification_history": {},
