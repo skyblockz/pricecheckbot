@@ -413,6 +413,13 @@
                     11000000
                 ]
             },
+            "enderman_mask": {
+                "from": null,
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "epic_parrot": {
                 "from": [
                     29000000,
@@ -535,7 +542,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "466769036122783744": {
         "modification_history": {},
