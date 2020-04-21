@@ -358,6 +358,16 @@
                     32000000
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    23000,
+                    32000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     9300000,
@@ -476,7 +486,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "466769036122783744": {
         "modification_history": {},
