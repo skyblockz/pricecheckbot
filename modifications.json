@@ -644,6 +644,16 @@
                     450000
                 ]
             },
+            "enchanted_dark_oak": {
+                "from": [
+                    850,
+                    1000
+                ],
+                "to": [
+                    800,
+                    900
+                ]
+            },
             "enchanted_feather": {
                 "from": [
                     487,
@@ -863,7 +873,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "614661627513536526": {
         "modification_history": {},
