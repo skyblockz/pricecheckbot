@@ -739,8 +739,8 @@
     },
     {
         "ac": true,
-        "hi": 32000,
-        "low": 23000,
+        "hi": 33000,
+        "low": 29500,
         "name": "enchanted_melon_block"
     },
     {
@@ -865,8 +865,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 97500,
+        "hi": 68000,
+        "low": 60000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -4228,5 +4228,11 @@
         "hi": 10,
         "low": 10,
         "name": "poisonous_potato"
+    },
+    {
+        "ac": true,
+        "hi": 20000000,
+        "low": 18500000,
+        "name": "legendary_blue_whale"
     }
 ]
