@@ -386,6 +386,16 @@
                     32000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    97500,
+                    100000
+                ],
+                "to": [
+                    60000,
+                    68000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     9300000,
@@ -504,7 +514,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "466769036122783744": {
         "modification_history": {},
