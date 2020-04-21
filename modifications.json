@@ -219,6 +219,16 @@
                     660000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    600,
+                    700
+                ],
+                "to": [
+                    600,
+                    660
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -327,7 +337,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "390661701046894592": {
         "modification_history": {
