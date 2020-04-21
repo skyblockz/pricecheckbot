@@ -752,6 +752,16 @@
                     225000
                 ]
             },
+            "unstable_dragon_fragment": {
+                "from": [
+                    5000,
+                    6250
+                ],
+                "to": [
+                    6500,
+                    8000
+                ]
+            },
             "yeti_sword": {
                 "from": [
                     5000000,
@@ -763,7 +773,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "614661627513536526": {
         "modification_history": {},
