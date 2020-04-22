@@ -851,6 +851,16 @@
                     2600000
                 ]
             },
+            "sponge_leggings": {
+                "from": [
+                    1900000,
+                    2400000
+                ],
+                "to": [
+                    3100000,
+                    3600000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -872,7 +882,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "466769036122783744": {
         "modification_history": {},
