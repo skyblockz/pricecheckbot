@@ -582,6 +582,13 @@
                     750000
                 ]
             },
+            "experience_bottle": {
+                "from": null,
+                "to": [
+                    30,
+                    30
+                ]
+            },
             "golden_powder": {
                 "from": [
                     100000,
@@ -755,7 +762,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "466769036122783744": {
         "modification_history": {},
