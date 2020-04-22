@@ -759,6 +759,16 @@
                     4000000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     67000000,
@@ -986,7 +996,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "466769036122783744": {
         "modification_history": {},
