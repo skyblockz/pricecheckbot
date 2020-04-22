@@ -518,6 +518,16 @@
                     32000000
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    200000,
+                    260000
+                ],
+                "to": [
+                    100000,
+                    175000
+                ]
+            },
             "enchanted_melon_block": {
                 "from": [
                     30000,
@@ -762,7 +772,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "466769036122783744": {
         "modification_history": {},
