@@ -733,6 +733,16 @@
                     2000
                 ]
             },
+            "protection_vi": {
+                "from": [
+                    3400000,
+                    3500000
+                ],
+                "to": [
+                    3400000,
+                    4000000
+                ]
+            },
             "quartz_minion_i": {
                 "from": null,
                 "to": [
@@ -822,7 +832,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "466769036122783744": {
         "modification_history": {},
