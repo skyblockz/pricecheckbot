@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 40000,
+        "hi": 100000,
+        "low": 50000,
         "name": "spider_catalyst"
     },
     {
@@ -2287,8 +2287,8 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 100000,
+        "hi": 80000,
+        "low": 40000,
         "name": "golden_powder"
     },
     {
@@ -4300,5 +4300,11 @@
         "hi": 120000,
         "low": 80000,
         "name": "cracked_piggy_bank"
+    },
+    {
+        "ac": true,
+        "hi": 30,
+        "low": 30,
+        "name": "experience_bottle"
     }
 ]
