@@ -707,6 +707,16 @@
                     6000000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    40000,
+                    150000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "spirit_i_potion": {
                 "from": null,
                 "to": [
@@ -735,7 +745,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "466769036122783744": {
         "modification_history": {},
