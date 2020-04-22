@@ -861,6 +861,16 @@
                     3600000
                 ]
             },
+            "spongy_boots": {
+                "from": [
+                    1650000,
+                    2100000
+                ],
+                "to": [
+                    1700000,
+                    2000000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -882,7 +892,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "466769036122783744": {
         "modification_history": {},
