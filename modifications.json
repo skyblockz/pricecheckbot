@@ -460,6 +460,13 @@
                     2000
                 ]
             },
+            "carrot_minion_i": {
+                "from": null,
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "cobblestone_minion_xi": {
                 "from": [
                     240000,
@@ -700,7 +707,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "466769036122783744": {
         "modification_history": {},
