@@ -746,6 +746,16 @@
                     37000000
                 ]
             },
+            "legendary_silverfish": {
+                "from": [
+                    2900000,
+                    3850000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "legendary_squid": {
                 "from": [
                     8500000,
@@ -1023,7 +1033,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "466769036122783744": {
         "modification_history": {},
