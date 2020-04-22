@@ -736,6 +736,13 @@
                     500000000
                 ]
             },
+            "legendary_horse": {
+                "from": null,
+                "to": [
+                    900000,
+                    1400000
+                ]
+            },
             "legendary_parrot": {
                 "from": [
                     31000000,
@@ -1033,7 +1040,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "466769036122783744": {
         "modification_history": {},
