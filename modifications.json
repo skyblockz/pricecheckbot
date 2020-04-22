@@ -992,6 +992,16 @@
                     5500000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    340000,
+                    350000
+                ],
+                "to": [
+                    300000,
+                    340000
+                ]
+            },
             "wolf_ring": {
                 "from": [
                     650000,
@@ -1013,7 +1023,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "466769036122783744": {
         "modification_history": {},
