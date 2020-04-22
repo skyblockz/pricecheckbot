@@ -371,6 +371,16 @@
                     10500000
                 ]
             },
+            "tarantula_minion_i": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    100000,
+                    175000
+                ]
+            },
             "toxic_arrow_poison": {
                 "from": [
                     2000,
@@ -392,7 +402,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "419714628059267072": {
         "modification_history": {
