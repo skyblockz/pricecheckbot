@@ -415,8 +415,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 340000,
+        "hi": 340000,
+        "low": 300000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -1015,8 +1015,8 @@
     },
     {
         "ac": true,
-        "hi": 7500000,
-        "low": 6975000,
+        "hi": 6800000,
+        "low": 6000000,
         "name": "pooch_sword"
     },
     {
@@ -3619,8 +3619,8 @@
     },
     {
         "ac": true,
-        "hi": 3850000,
-        "low": 2900000,
+        "hi": 2500000,
+        "low": 2000000,
         "name": "legendary_silverfish"
     },
     {
@@ -4323,6 +4323,12 @@
         "ac": true,
         "hi": 100000,
         "low": 1000,
-        "name": "bottle_of_jyrne"
+        "name": "bottle_of_jyrre"
+    },
+    {
+        "ac": true,
+        "hi": 1400000,
+        "low": 900000,
+        "name": "legendary_horse"
     }
 ]
