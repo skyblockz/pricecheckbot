@@ -652,6 +652,13 @@
                     2000
                 ]
             },
+            "quartz_minion_i": {
+                "from": null,
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "red_claw_artifact": {
                 "from": [
                     9500000,
@@ -714,7 +721,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "466769036122783744": {
         "modification_history": {},
