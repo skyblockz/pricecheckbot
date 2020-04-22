@@ -1429,8 +1429,8 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 45000,
+        "hi": 69000,
+        "low": 55000,
         "name": "red_gift"
     },
     {
@@ -4258,5 +4258,11 @@
         "hi": 100,
         "low": 100,
         "name": "prismarine_rod"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "prismarine_bow"
     }
 ]
