@@ -1027,8 +1027,8 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 7600000,
+        "hi": 7500000,
+        "low": 6800000,
         "name": "bait_ring"
     },
     {
@@ -1081,8 +1081,8 @@
     },
     {
         "ac": true,
-        "hi": 10300000,
-        "low": 9700000,
+        "hi": 12500000,
+        "low": 10500000,
         "name": "sharpness_vi"
     },
     {
@@ -1219,8 +1219,8 @@
     },
     {
         "ac": true,
-        "hi": 7400000,
-        "low": 6900000,
+        "hi": 8100000,
+        "low": 7200000,
         "name": "giant_killer_vi"
     },
     {
@@ -1352,7 +1352,7 @@
     {
         "ac": true,
         "hi": 9000000,
-        "low": 8250000,
+        "low": 7500000,
         "name": "rod_of_legends"
     },
     {
@@ -1603,8 +1603,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4500000,
+        "hi": 7000000,
+        "low": 6000000,
         "name": "growth_vi"
     },
     {
@@ -1987,7 +1987,7 @@
     },
     {
         "ac": true,
-        "hi": 20000,
+        "hi": 40000,
         "low": 9500,
         "name": "lava_talisman"
     },
@@ -2029,14 +2029,14 @@
     },
     {
         "ac": true,
-        "hi": 5200000,
-        "low": 4250000,
+        "hi": 4000000,
+        "low": 3000000,
         "name": "mana_flux_power_orb"
     },
     {
         "ac": true,
-        "hi": 260000,
-        "low": 200000,
+        "hi": 175000,
+        "low": 100000,
         "name": "emperors_skull"
     },
     {
@@ -2119,7 +2119,7 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
+        "hi": 4000000,
         "low": 3400000,
         "name": "protection_vi"
     },
@@ -2311,8 +2311,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 8000000,
+        "hi": 18000000,
+        "low": 13000000,
         "name": "hilt_of_true_ice"
     },
     {
@@ -3205,8 +3205,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 3500000,
+        "hi": 6000000,
+        "low": 4500000,
         "name": "legendary_wolf"
     },
     {
@@ -3385,27 +3385,21 @@
     },
     {
         "ac": true,
-        "hi": 2400000,
-        "low": 1800000,
+        "hi": 2600000,
+        "low": 2200000,
         "name": "sponge_helmet"
     },
     {
         "ac": true,
-        "hi": 2800000,
-        "low": 2000000,
+        "hi": 4000000,
+        "low": 3500000,
         "name": "sponge_chestplate"
     },
     {
         "ac": true,
-        "hi": 2400000,
-        "low": 1900000,
+        "hi": 3600000,
+        "low": 3100000,
         "name": "sponge_leggings"
-    },
-    {
-        "ac": true,
-        "hi": 2100000,
-        "low": 1650000,
-        "name": "sponge_boots"
     },
     {
         "ac": true,
@@ -4306,5 +4300,17 @@
         "hi": 30,
         "low": 30,
         "name": "experience_bottle"
+    },
+    {
+        "ac": true,
+        "hi": 2000000,
+        "low": 1700000,
+        "name": "spongy_boots"
+    },
+    {
+        "ac": true,
+        "hi": 40000,
+        "low": 30000,
+        "name": "stereo_pants"
     }
 ]
