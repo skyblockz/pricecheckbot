@@ -599,6 +599,16 @@
                     30
                 ]
             },
+            "giant_killer_vi": {
+                "from": [
+                    6900000,
+                    7400000
+                ],
+                "to": [
+                    7200000,
+                    8100000
+                ]
+            },
             "golden_powder": {
                 "from": [
                     100000,
@@ -802,7 +812,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "466769036122783744": {
         "modification_history": {},
