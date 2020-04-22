@@ -470,6 +470,13 @@
                     400000
                 ]
             },
+            "combat_xp_boost_potion_i": {
+                "from": null,
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "devour_ring": {
                 "from": [
                     2000000,
@@ -693,7 +700,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "466769036122783744": {
         "modification_history": {},
