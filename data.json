@@ -2095,8 +2095,8 @@
     },
     {
         "ac": true,
-        "hi": 4600,
-        "low": 4200,
+        "hi": 4800,
+        "low": 4400,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2155,7 +2155,7 @@
     },
     {
         "ac": true,
-        "hi": 8,
+        "hi": 15,
         "low": 8,
         "name": "bone"
     },
@@ -2377,8 +2377,8 @@
     },
     {
         "ac": true,
-        "hi": 220,
-        "low": 200,
+        "hi": 200,
+        "low": 185,
         "name": "enchanted_ender_pearl"
     },
     {
@@ -4264,5 +4264,11 @@
         "hi": 2000,
         "low": 1000,
         "name": "prismarine_bow"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 30000,
+        "name": "combat_xp_boost_potion_i"
     }
 ]
