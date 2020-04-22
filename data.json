@@ -37,7 +37,7 @@
     },
     {
         "ac": true,
-        "hi": 1600000,
+        "hi": 1500000,
         "low": 1200000,
         "name": "strong_dragon_leggings"
     },
@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 22000,
-        "low": 21000,
+        "hi": 20000,
+        "low": 18500,
         "name": "strong_dragon_fragment"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1150000,
+        "hi": 1700000,
+        "low": 1300000,
         "name": "tarantula_boots"
     },
     {
@@ -1093,8 +1093,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 140000,
+        "hi": 138000,
+        "low": 128000,
         "name": "hot_potato_book"
     },
     {
@@ -3973,8 +3973,8 @@
     },
     {
         "ac": true,
-        "hi": 420000,
-        "low": 380000,
+        "hi": 500000,
+        "low": 400000,
         "name": "enchanted_wet_sponge"
     },
     {
@@ -4312,5 +4312,11 @@
         "hi": 40000,
         "low": 30000,
         "name": "stereo_pants"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "prismarine_blade"
     }
 ]
