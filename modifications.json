@@ -831,6 +831,16 @@
                     2000
                 ]
             },
+            "sponge_helmet": {
+                "from": [
+                    1800000,
+                    2400000
+                ],
+                "to": [
+                    2200000,
+                    2600000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -852,7 +862,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "466769036122783744": {
         "modification_history": {},
