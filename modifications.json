@@ -871,6 +871,13 @@
                     2000000
                 ]
             },
+            "stereo_pants": {
+                "from": null,
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -892,7 +899,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "466769036122783744": {
         "modification_history": {},
