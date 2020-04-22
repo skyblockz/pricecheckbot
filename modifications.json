@@ -659,6 +659,16 @@
                     37000000
                 ]
             },
+            "lava_talisman": {
+                "from": [
+                    9500,
+                    20000
+                ],
+                "to": [
+                    9500,
+                    40000
+                ]
+            },
             "legendary_chicken": {
                 "from": [
                     700000,
@@ -842,7 +852,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "466769036122783744": {
         "modification_history": {},
