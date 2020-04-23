@@ -151,7 +151,7 @@
     },
     {
         "ac": true,
-        "hi": 130000,
+        "hi": 110000,
         "low": 100000,
         "name": "enchanted_redstone_block"
     },
@@ -337,14 +337,14 @@
     },
     {
         "ac": true,
-        "hi": 2450,
-        "low": 2450,
+        "hi": 1800,
+        "low": 1500,
         "name": "enchanted_gold"
     },
     {
         "ac": true,
-        "hi": 240000,
-        "low": 200000,
+        "hi": 195000,
+        "low": 180000,
         "name": "enchanted_gold_block"
     },
     {
@@ -427,8 +427,8 @@
     },
     {
         "ac": true,
-        "hi": 1200,
-        "low": 700,
+        "hi": 1100,
+        "low": 900,
         "name": "enchanted_emerald"
     },
     {
@@ -493,8 +493,8 @@
     },
     {
         "ac": true,
-        "hi": 600,
-        "low": 500,
+        "hi": 700,
+        "low": 600,
         "name": "enchanted_redstone"
     },
     {
@@ -559,8 +559,8 @@
     },
     {
         "ac": true,
-        "hi": 3500,
-        "low": 3200,
+        "hi": 3150,
+        "low": 2950,
         "name": "enchanted_flint"
     },
     {
@@ -4330,5 +4330,11 @@
         "hi": 1400000,
         "low": 900000,
         "name": "legendary_horse"
+    },
+    {
+        "ac": true,
+        "hi": 20,
+        "low": 15,
+        "name": "flint"
     }
 ]
