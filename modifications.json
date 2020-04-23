@@ -104,6 +104,16 @@
                     80000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    3100,
+                    3400
+                ],
+                "to": [
+                    2800,
+                    3000
+                ]
+            },
             "enchanted_melon_block": {
                 "from": [
                     30000,
@@ -222,7 +232,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "366232910334001152": {
         "modification_history": {
