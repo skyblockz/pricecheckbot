@@ -326,6 +326,16 @@
                     265000
                 ]
             },
+            "enchanted_snow_block": {
+                "from": [
+                    600,
+                    700
+                ],
+                "to": [
+                    500,
+                    600
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     60000,
@@ -374,7 +384,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "390661701046894592": {
         "modification_history": {
