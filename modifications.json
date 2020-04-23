@@ -174,6 +174,16 @@
                     500
                 ]
             },
+            "epic_magma_cube_pet": {
+                "from": [
+                    100,
+                    1000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "golden_tooth": {
                 "from": [
                     100000,
@@ -212,7 +222,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "366232910334001152": {
         "modification_history": {
