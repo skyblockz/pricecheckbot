@@ -1021,7 +1021,7 @@
     },
     {
         "ac": true,
-        "hi": 24500,
+        "hi": 21500,
         "low": 19500,
         "name": "hamster_wheel"
     },
@@ -2725,8 +2725,8 @@
     },
     {
         "ac": true,
-        "hi": 60000000,
-        "low": 53000000,
+        "hi": 80000000,
+        "low": 70000000,
         "name": "epic_ender_dragon"
     },
     {
@@ -4366,5 +4366,11 @@
         "hi": 1000,
         "low": 100,
         "name": "epic_magma_cube_pet"
+    },
+    {
+        "ac": true,
+        "hi": 1,
+        "low": 1,
+        "name": "netherrack"
     }
 ]
