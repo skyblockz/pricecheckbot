@@ -338,7 +338,7 @@
     {
         "ac": true,
         "hi": 1800,
-        "low": 1500,
+        "low": 1700,
         "name": "enchanted_gold"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
         "ac": true,
-        "hi": 1350,
-        "low": 1000,
+        "hi": 750,
+        "low": 650,
         "name": "enchanted_lapis_lazuli"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 390000,
-        "low": 330000,
+        "hi": 380000,
+        "low": 340000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -2635,8 +2635,8 @@
     },
     {
         "ac": true,
-        "hi": 12000,
-        "low": 9800,
+        "hi": 13500,
+        "low": 10500,
         "name": "enchanted_sponge"
     },
     {
@@ -3349,8 +3349,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2570000,
+        "hi": 2400000,
+        "low": 2000000,
         "name": "treecapitator"
     },
     {
@@ -4354,5 +4354,11 @@
         "hi": 15,
         "low": 10,
         "name": "coal"
+    },
+    {
+        "ac": true,
+        "hi": 5000,
+        "low": 2000,
+        "name": "obsidian_minion_i"
     }
 ]
