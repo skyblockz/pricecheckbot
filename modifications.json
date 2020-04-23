@@ -1068,6 +1068,13 @@
                     28000
                 ]
             },
+            "coal": {
+                "from": null,
+                "to": [
+                    10,
+                    15
+                ]
+            },
             "common_horse_pet": {
                 "from": null,
                 "to": [
@@ -1512,7 +1519,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "614661627513536526": {
         "modification_history": {},
