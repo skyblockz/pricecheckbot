@@ -1561,8 +1561,8 @@
     },
     {
         "ac": true,
-        "hi": 1400,
-        "low": 1300,
+        "hi": 1300,
+        "low": 1050,
         "name": "enchanted_spider_eye"
     },
     {
@@ -2011,8 +2011,8 @@
     },
     {
         "ac": true,
-        "hi": 145000,
-        "low": 125000,
+        "hi": 95000,
+        "low": 80000,
         "name": "enchanted_fermented_spider_eye"
     },
     {
@@ -2239,7 +2239,7 @@
     },
     {
         "ac": true,
-        "hi": 660000,
+        "hi": 700000,
         "low": 630000,
         "name": "enchanted_blaze_rod"
     },
@@ -2510,7 +2510,7 @@
     {
         "ac": true,
         "hi": 4300,
-        "low": 3800,
+        "low": 3700,
         "name": "enchanted_blaze_powder"
     },
     {
@@ -4336,5 +4336,11 @@
         "hi": 20,
         "low": 15,
         "name": "flint"
+    },
+    {
+        "ac": true,
+        "hi": 17,
+        "low": 14,
+        "name": "sand"
     }
 ]
