@@ -1155,6 +1155,16 @@
                     1800
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    200000,
+                    240000
+                ],
+                "to": [
+                    1800000,
+                    195000
+                ]
+            },
             "enchanted_ink_sac": {
                 "from": [
                     23000,
@@ -1381,7 +1391,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "614661627513536526": {
         "modification_history": {},
