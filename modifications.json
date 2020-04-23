@@ -1122,6 +1122,16 @@
                     2500
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    1100,
+                    1300
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     350000,
@@ -1502,7 +1512,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "614661627513536526": {
         "modification_history": {},
