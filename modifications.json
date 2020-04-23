@@ -1276,6 +1276,16 @@
                     1400
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    330000,
+                    390000
+                ],
+                "to": [
+                    340000,
+                    380000
+                ]
+            },
             "enchanted_raw_chicken": {
                 "from": [
                     600,
@@ -1519,7 +1529,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "614661627513536526": {
         "modification_history": {},
