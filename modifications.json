@@ -555,6 +555,16 @@
                     175000
                 ]
             },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    1000,
+                    1350
+                ],
+                "to": [
+                    700,
+                    800
+                ]
+            },
             "enchanted_melon_block": {
                 "from": [
                     30000,
@@ -1050,7 +1060,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "466769036122783744": {
         "modification_history": {},
