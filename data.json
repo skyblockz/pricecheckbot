@@ -673,8 +673,8 @@
     },
     {
         "ac": true,
-        "hi": 145000,
-        "low": 135000,
+        "hi": 133000,
+        "low": 128000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -1975,8 +1975,8 @@
     },
     {
         "ac": true,
-        "hi": 35000,
-        "low": 23500,
+        "hi": 45000,
+        "low": 40000,
         "name": "enchanted_dandelion"
     },
     {
@@ -3163,8 +3163,8 @@
     },
     {
         "ac": true,
-        "hi": 265000,
-        "low": 230000,
+        "hi": 260000,
+        "low": 220000,
         "name": "enchanted_slimeblock"
     },
     {
@@ -4372,5 +4372,11 @@
         "hi": 1,
         "low": 1,
         "name": "netherrack"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 2000000,
+        "name": "legendary_magma_cube_pet"
     }
 ]
