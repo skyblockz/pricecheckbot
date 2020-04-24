@@ -1213,6 +1213,13 @@
                     50000
                 ]
             },
+            "diamond": {
+                "from": null,
+                "to": [
+                    8,
+                    8
+                ]
+            },
             "enchanted_acacia": {
                 "from": [
                     1400,
@@ -1684,7 +1691,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "614661627513536526": {
         "modification_history": {},
