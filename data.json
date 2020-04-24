@@ -31,8 +31,8 @@
     },
     {
         "ac": true,
-        "hi": 80,
-        "low": 60,
+        "hi": 100,
+        "low": 90,
         "name": "tarantula_web"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 380000,
-        "low": 340000,
+        "hi": 350000,
+        "low": 320000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -655,8 +655,8 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 100000,
+        "hi": 80000,
+        "low": 60000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -847,7 +847,7 @@
     },
     {
         "ac": true,
-        "hi": 500,
+        "hi": 600,
         "low": 400,
         "name": "enchanted_sugar"
     },
@@ -956,7 +956,7 @@
     {
         "ac": true,
         "hi": 10000,
-        "low": 7500,
+        "low": 6000,
         "name": "enchanted_rabbit_hide"
     },
     {
@@ -997,8 +997,8 @@
     },
     {
         "ac": true,
-        "hi": 3400,
-        "low": 3100,
+        "hi": 3000,
+        "low": 2800,
         "name": "enchanted_gunpowder"
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
         "ac": true,
-        "hi": 138000,
+        "hi": 132000,
         "low": 128000,
         "name": "hot_potato_book"
     },
@@ -1153,8 +1153,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1000000,
+        "hi": 2000000,
+        "low": 1250000,
         "name": "red_claw_egg"
     },
     {
@@ -1196,7 +1196,7 @@
     {
         "ac": true,
         "hi": 250000,
-        "low": 250000,
+        "low": 200000,
         "name": "shaman_sword"
     },
     {
@@ -1531,8 +1531,8 @@
     },
     {
         "ac": true,
-        "hi": 6250,
-        "low": 5000,
+        "hi": 8000,
+        "low": 7500,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 14500,
+        "hi": 14500,
+        "low": 14000,
         "name": "young_dragon_fragment"
     },
     {
@@ -2137,8 +2137,8 @@
     },
     {
         "ac": true,
-        "hi": 3500,
-        "low": 2000,
+        "hi": 3000,
+        "low": 2500,
         "name": "protector_dragon_fragment"
     },
     {
@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 630000,
+        "hi": 655000,
+        "low": 610000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2515,8 +2515,8 @@
     },
     {
         "ac": true,
-        "hi": 700,
-        "low": 600,
+        "hi": 600,
+        "low": 500,
         "name": "enchanted_snow_block"
     },
     {
@@ -3157,8 +3157,8 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1500,
+        "hi": 1600,
+        "low": 1400,
         "name": "enchanted_slimeball"
     },
     {
@@ -3500,7 +3500,7 @@
     {
         "ac": true,
         "hi": 300000,
-        "low": 260000,
+        "low": 240000,
         "name": "enchanted_cooked_salmon"
     },
     {
@@ -4124,7 +4124,7 @@
     {
         "ac": true,
         "hi": 3000,
-        "low": 2500,
+        "low": 2000,
         "name": "enchanted_red_mushroom"
     },
     {
@@ -4363,8 +4363,8 @@
     },
     {
         "ac": true,
-        "hi": 1000,
-        "low": 100,
+        "hi": 500,
+        "low": 500,
         "name": "epic_magma_cube_pet"
     },
     {
@@ -4378,5 +4378,11 @@
         "hi": 2500000,
         "low": 2000000,
         "name": "legendary_magma_cube_pet"
+    },
+    {
+        "ac": true,
+        "hi": 2300000,
+        "low": 2000000,
+        "name": "legendary_wither_skeleton"
     }
 ]
