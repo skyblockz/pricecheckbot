@@ -1975,7 +1975,7 @@
     },
     {
         "ac": true,
-        "hi": 45000,
+        "hi": 60000,
         "low": 40000,
         "name": "enchanted_dandelion"
     },
@@ -2695,7 +2695,7 @@
     },
     {
         "ac": true,
-        "hi": 145000000,
+        "hi": 155000000,
         "low": 140000000,
         "name": "legendary_phoenix"
     },
@@ -3998,7 +3998,7 @@
     {
         "ac": true,
         "hi": 110000000,
-        "low": 93000000,
+        "low": 90000000,
         "name": "legendary_blaze"
     },
     {
@@ -4357,8 +4357,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 100,
+        "hi": 1000,
+        "low": 1000,
         "name": "frosty_the_snow_cannon"
     },
     {
@@ -4402,5 +4402,11 @@
         "hi": 75000,
         "low": 50000,
         "name": "bat_firework"
+    },
+    {
+        "ac": true,
+        "hi": 100,
+        "low": 100,
+        "name": "lethality_v"
     }
 ]
