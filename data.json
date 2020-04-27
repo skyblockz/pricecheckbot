@@ -43,7 +43,7 @@
     },
     {
         "ac": true,
-        "hi": 3600000,
+        "hi": 3700000,
         "low": 3500000,
         "name": "aspect_of_the_dragons"
     },
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 320000,
+        "hi": 335000,
+        "low": 315000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -541,14 +541,14 @@
     },
     {
         "ac": true,
-        "hi": 1200,
-        "low": 900,
+        "hi": 900,
+        "low": 750,
         "name": "enchanted_glowstone_dust"
     },
     {
         "ac": true,
-        "hi": 180000,
-        "low": 160000,
+        "hi": 150000,
+        "low": 125000,
         "name": "enchanted_glowstone"
     },
     {
@@ -1609,8 +1609,8 @@
     },
     {
         "ac": true,
-        "hi": 2400,
-        "low": 2300,
+        "hi": 2100,
+        "low": 1800,
         "name": "enchanted_rotten_flesh"
     },
     {
@@ -1945,8 +1945,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 1900,
+        "hi": 1900,
+        "low": 1700,
         "name": "enchanted_string"
     },
     {
@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 655000,
-        "low": 610000,
+        "hi": 700000,
+        "low": 620000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2509,8 +2509,8 @@
     },
     {
         "ac": true,
-        "hi": 4300,
-        "low": 3700,
+        "hi": 4400,
+        "low": 3800,
         "name": "enchanted_blaze_powder"
     },
     {
@@ -2947,8 +2947,8 @@
     },
     {
         "ac": true,
-        "hi": 2113,
-        "low": 1437,
+        "hi": 2250,
+        "low": 1800,
         "name": "enchanted_bone"
     },
     {
@@ -3205,8 +3205,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 4500000,
+        "hi": 5000000,
+        "low": 3500000,
         "name": "legendary_wolf"
     },
     {
@@ -4414,5 +4414,11 @@
         "hi": 500,
         "low": 500,
         "name": "candy_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 25000,
+        "low": 25000,
+        "name": "true_essence"
     }
 ]
