@@ -152,6 +152,16 @@
                     150000
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    900,
+                    1200
+                ],
+                "to": [
+                    750,
+                    900
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     2300,
@@ -173,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
