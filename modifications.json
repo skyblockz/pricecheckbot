@@ -162,6 +162,16 @@
                     900
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    320000,
+                    350000
+                ],
+                "to": [
+                    315000,
+                    335000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     2300,
@@ -183,7 +193,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "614661627513536526": {
         "modification_history": {},
