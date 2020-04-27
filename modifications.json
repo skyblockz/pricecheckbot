@@ -121,9 +121,19 @@
                     1800,
                     2100
                 ]
+            },
+            "enchanted_string": {
+                "from": [
+                    1900,
+                    2000
+                ],
+                "to": [
+                    1700,
+                    1900
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "614661627513536526": {
         "modification_history": {},
