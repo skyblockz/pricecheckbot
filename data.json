@@ -1129,20 +1129,20 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 400000,
+        "hi": 650000,
+        "low": 500000,
         "name": "young_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 695000,
-        "low": 580000,
+        "hi": 900000,
+        "low": 750000,
         "name": "young_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 500000,
+        "hi": 700000,
+        "low": 600000,
         "name": "young_dragon_chestplate"
     },
     {
@@ -1303,8 +1303,8 @@
     },
     {
         "ac": true,
-        "hi": 550000,
-        "low": 475000,
+        "hi": 650000,
+        "low": 550000,
         "name": "young_dragon_helmet"
     },
     {
@@ -4432,5 +4432,11 @@
         "hi": 760,
         "low": 760,
         "name": "depth_strider_iii"
+    },
+    {
+        "ac": true,
+        "hi": 1638400,
+        "low": 1000000,
+        "name": "diamond_minion_xi"
     }
 ]
