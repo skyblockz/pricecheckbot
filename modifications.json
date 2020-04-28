@@ -212,6 +212,13 @@
                     5000000
                 ]
             },
+            "power_v": {
+                "from": null,
+                "to": [
+                    1200,
+                    1200
+                ]
+            },
             "true_essence": {
                 "from": null,
                 "to": [
@@ -220,7 +227,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "614661627513536526": {
         "modification_history": {},
