@@ -154,6 +154,16 @@
                     60000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    420000,
+                    445000
+                ],
+                "to": [
+                    410000,
+                    425000
+                ]
+            },
             "frosty_the_snow_cannon": {
                 "from": [
                     100,
@@ -199,7 +209,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "390661701046894592": {
         "modification_history": {
