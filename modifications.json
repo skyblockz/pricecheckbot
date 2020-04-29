@@ -435,6 +435,16 @@
                     3500000
                 ]
             },
+            "bait_ring": {
+                "from": [
+                    6800000,
+                    7500000
+                ],
+                "to": [
+                    8300000,
+                    9500000
+                ]
+            },
             "bat_firework": {
                 "from": null,
                 "to": [
@@ -577,7 +587,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
