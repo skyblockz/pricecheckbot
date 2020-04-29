@@ -164,6 +164,16 @@
                     164000
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    9000,
+                    10750
+                ],
+                "to": [
+                    6800,
+                    7200
+                ]
+            },
             "enchanted_iron_block": {
                 "from": [
                     160000,
@@ -249,7 +259,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "390661701046894592": {
         "modification_history": {
