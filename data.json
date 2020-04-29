@@ -2131,7 +2131,7 @@
     },
     {
         "ac": true,
-        "hi": 2000,
+        "hi": 200000,
         "low": 2000,
         "name": "remnant_of_the_eye"
     },
@@ -4444,5 +4444,11 @@
         "hi": 10000,
         "low": 10000,
         "name": "slayer_energy_drink"
+    },
+    {
+        "ac": true,
+        "hi": 5000,
+        "low": 5000,
+        "name": "decent_coffee"
     }
 ]
