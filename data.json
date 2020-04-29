@@ -2,7 +2,7 @@
     {
         "ac": true,
         "hi": 650000,
-        "low": 620000,
+        "low": 610000,
         "name": "summoning_eye"
     },
     {
@@ -187,8 +187,8 @@
     },
     {
         "ac": true,
-        "hi": 445000,
-        "low": 420000,
+        "hi": 425000,
+        "low": 410000,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 430000,
-        "low": 340000,
+        "hi": 380000,
+        "low": 360000,
         "name": "super_compactor_3000"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
         "ac": true,
-        "hi": 190000,
-        "low": 160000,
+        "hi": 193000,
+        "low": 170000,
         "name": "enchanted_iron_block"
     },
     {
@@ -332,7 +332,7 @@
     {
         "ac": true,
         "hi": 1000000,
-        "low": 800000,
+        "low": 815000,
         "name": "enchanted_hopper"
     },
     {
@@ -409,8 +409,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 88000,
+        "hi": 82000,
+        "low": 75000,
         "name": "enchanted_lapis_block"
     },
     {
@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 193000,
-        "low": 160000,
+        "hi": 164000,
+        "low": 155000,
         "name": "enchanted_emerald_block"
     },
     {
@@ -643,8 +643,8 @@
     },
     {
         "ac": true,
-        "hi": 10750,
-        "low": 9000,
+        "hi": 7200,
+        "low": 6800,
         "name": "enchanted_hay_bale"
     },
     {
@@ -967,8 +967,8 @@
     },
     {
         "ac": true,
-        "hi": 3200,
-        "low": 2500,
+        "hi": 2100,
+        "low": 1900,
         "name": "enchanted_nether_wart"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "ac": true,
-        "hi": 1600,
-        "low": 1400,
+        "hi": 1450,
+        "low": 1350,
         "name": "enchanted_jungle_wood"
     },
     {
@@ -1382,7 +1382,7 @@
     {
         "ac": true,
         "hi": 58000,
-        "low": 45000,
+        "low": 48000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -1957,8 +1957,8 @@
     },
     {
         "ac": true,
-        "hi": 135000,
-        "low": 110000,
+        "hi": 105000,
+        "low": 95000,
         "name": "tarantula_silk"
     },
     {
@@ -1969,7 +1969,7 @@
     },
     {
         "ac": true,
-        "hi": 4750000,
+        "hi": 4500000,
         "low": 4000000,
         "name": "wood_singularity"
     },
@@ -2095,8 +2095,8 @@
     },
     {
         "ac": true,
-        "hi": 4800,
-        "low": 4400,
+        "hi": 5900,
+        "low": 5300,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 620000,
+        "hi": 620000,
+        "low": 590000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2293,8 +2293,8 @@
     },
     {
         "ac": true,
-        "hi": 11500000,
-        "low": 10000000,
+        "hi": 11200000,
+        "low": 9800000,
         "name": "scythe_blade"
     },
     {
@@ -2491,7 +2491,7 @@
     },
     {
         "ac": true,
-        "hi": 1700,
+        "hi": 1400,
         "low": 1300,
         "name": "enchanted_spruce_wood"
     },
@@ -2696,7 +2696,7 @@
     {
         "ac": true,
         "hi": 155000000,
-        "low": 140000000,
+        "low": 135000000,
         "name": "legendary_phoenix"
     },
     {
@@ -3800,7 +3800,7 @@
     {
         "ac": true,
         "hi": 30000,
-        "low": 23000,
+        "low": 28000,
         "name": "enchanted_ink_sac"
     },
     {
@@ -3974,7 +3974,7 @@
     {
         "ac": true,
         "hi": 500000,
-        "low": 400000,
+        "low": 410000,
         "name": "enchanted_wet_sponge"
     },
     {
@@ -4507,8 +4507,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 100000,
+        "hi": 125000,
+        "low": 85000,
         "name": "wolf_paw"
     },
     {
@@ -4534,5 +4534,11 @@
         "hi": 250000,
         "low": 170000,
         "name": "wake_rune_iii"
+    },
+    {
+        "ac": true,
+        "hi": 135000,
+        "low": 125000,
+        "name": "enchanted_glowstone_block"
     }
 ]
