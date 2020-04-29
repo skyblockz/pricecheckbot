@@ -154,6 +154,16 @@
                     60000
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    193000
+                ],
+                "to": [
+                    155000,
+                    164000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     88000,
@@ -229,7 +239,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "390661701046894592": {
         "modification_history": {
