@@ -438,6 +438,16 @@
                     7000
                 ]
             },
+            "sponge": {
+                "from": [
+                    10,
+                    10
+                ],
+                "to": [
+                    230,
+                    300
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     0,
@@ -496,7 +506,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "614661627513536526": {
         "modification_history": {},
