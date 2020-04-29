@@ -416,7 +416,7 @@
     {
         "ac": true,
         "hi": 340000,
-        "low": 300000,
+        "low": 270000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -787,14 +787,14 @@
     },
     {
         "ac": true,
-        "hi": 1200,
+        "hi": 1050,
         "low": 900,
         "name": "enchanted_cocoa_bean"
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 130000,
+        "hi": 170000,
+        "low": 120000,
         "name": "enchanted_cookie"
     },
     {
@@ -2581,8 +2581,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 350000,
+        "hi": 350000,
+        "low": 250000,
         "name": "enchanted_cooked_mutton"
     },
     {
@@ -4504,5 +4504,11 @@
         "hi": 20,
         "low": 15,
         "name": "raw_porkchop"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 100000,
+        "name": "wolf_paw"
     }
 ]
