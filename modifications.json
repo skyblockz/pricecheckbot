@@ -181,6 +181,16 @@
                     100
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    340000,
+                    430000
+                ],
+                "to": [
+                    360000,
+                    380000
+                ]
+            },
             "wake_rune_iii": {
                 "from": null,
                 "to": [
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "390661701046894592": {
         "modification_history": {
