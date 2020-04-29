@@ -193,8 +193,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 880000,
+        "hi": 800000,
+        "low": 600000,
         "name": "crystallized_heart"
     },
     {
@@ -553,7 +553,7 @@
     },
     {
         "ac": true,
-        "hi": 135000,
+        "hi": 120000,
         "low": 105000,
         "name": "enchanted_redstone_lamp"
     },
@@ -913,8 +913,8 @@
     },
     {
         "ac": true,
-        "hi": 3500,
-        "low": 2500,
+        "hi": 2300,
+        "low": 2000,
         "name": "enchanted_pork"
     },
     {
@@ -925,8 +925,8 @@
     },
     {
         "ac": true,
-        "hi": 330000,
-        "low": 250000,
+        "hi": 370000,
+        "low": 270000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -997,8 +997,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2800,
+        "hi": 3400,
+        "low": 3000,
         "name": "enchanted_gunpowder"
     },
     {
@@ -1051,8 +1051,8 @@
     },
     {
         "ac": true,
-        "hi": 1850,
-        "low": 1400,
+        "hi": 1900,
+        "low": 1000,
         "name": "enchanted_acacia"
     },
     {
@@ -1093,8 +1093,8 @@
     },
     {
         "ac": true,
-        "hi": 132000,
-        "low": 128000,
+        "hi": 124000,
+        "low": 120000,
         "name": "hot_potato_book"
     },
     {
@@ -1171,8 +1171,8 @@
     },
     {
         "ac": true,
-        "hi": 9000,
-        "low": 7500,
+        "hi": 7000,
+        "low": 5950,
         "name": "purple_candy"
     },
     {
@@ -1183,8 +1183,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 6500000,
+        "hi": 5250000,
+        "low": 4250000,
         "name": "revived_heart"
     },
     {
@@ -1423,8 +1423,8 @@
     },
     {
         "ac": true,
-        "hi": 720000,
-        "low": 600000,
+        "hi": 500000,
+        "low": 400000,
         "name": "zombie_heart"
     },
     {
@@ -1952,7 +1952,7 @@
     {
         "ac": true,
         "hi": 3500000,
-        "low": 2700000,
+        "low": 2900000,
         "name": "revenant_chestplate"
     },
     {
@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 1250,
-        "low": 890,
+        "hi": 750,
+        "low": 550,
         "name": "green_candy"
     },
     {
@@ -2509,8 +2509,8 @@
     },
     {
         "ac": true,
-        "hi": 4400,
-        "low": 3800,
+        "hi": 4300,
+        "low": 3500,
         "name": "enchanted_blaze_powder"
     },
     {
@@ -2629,14 +2629,14 @@
     },
     {
         "ac": true,
-        "hi": 10,
-        "low": 10,
+        "hi": 300,
+        "low": 230,
         "name": "sponge"
     },
     {
         "ac": true,
-        "hi": 13500,
-        "low": 10500,
+        "hi": 12000,
+        "low": 9100,
         "name": "enchanted_sponge"
     },
     {
@@ -3410,7 +3410,7 @@
     {
         "ac": true,
         "hi": 160000,
-        "low": 100000,
+        "low": 115000,
         "name": "revenant_boots"
     },
     {
@@ -3421,8 +3421,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 50000,
+        "hi": 220000,
+        "low": 190000,
         "name": "enchanted_firework_rocket"
     },
     {
@@ -3469,8 +3469,8 @@
     },
     {
         "ac": true,
-        "hi": 0,
-        "low": 0,
+        "hi": 6400,
+        "low": 6100,
         "name": "stock_of_stonks"
     },
     {
@@ -4498,5 +4498,11 @@
         "hi": 4000,
         "low": 4000,
         "name": "dctr._paper"
+    },
+    {
+        "ac": true,
+        "hi": 20,
+        "low": 15,
+        "name": "raw_porkchop"
     }
 ]
