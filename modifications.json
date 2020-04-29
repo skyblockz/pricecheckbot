@@ -218,6 +218,16 @@
                     900000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    6500000,
+                    7000000
+                ],
+                "to": [
+                    4250000,
+                    5250000
+                ]
+            },
             "sea_creature_ring": {
                 "from": null,
                 "to": [
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "466769036122783744": {
         "modification_history": {},
