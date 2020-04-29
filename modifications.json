@@ -371,6 +371,16 @@
                     2100
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    10500,
+                    13500
+                ],
+                "to": [
+                    9100,
+                    12000
+                ]
+            },
             "enchanted_string": {
                 "from": [
                     1900,
@@ -486,7 +496,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "614661627513536526": {
         "modification_history": {},
