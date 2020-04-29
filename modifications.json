@@ -350,6 +350,16 @@
                     155000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    3500000,
+                    4150000
+                ]
+            },
             "revenant_boots": {
                 "from": [
                     100000,
@@ -421,7 +431,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "419714628059267072": {
         "modification_history": {
