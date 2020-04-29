@@ -341,6 +341,16 @@
                     900
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    250000,
+                    330000
+                ],
+                "to": [
+                    270000,
+                    370000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     2800,
@@ -526,7 +536,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "614661627513536526": {
         "modification_history": {},
