@@ -418,6 +418,16 @@
                     7000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    0,
+                    0
+                ],
+                "to": [
+                    6100,
+                    6400
+                ]
+            },
             "true_essence": {
                 "from": null,
                 "to": [
@@ -466,7 +476,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "614661627513536526": {
         "modification_history": {},
