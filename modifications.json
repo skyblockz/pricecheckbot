@@ -15,6 +15,13 @@
                     3700000
                 ]
             },
+            "cheap_coffee": {
+                "from": null,
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "decent_coffee": {
                 "from": null,
                 "to": [
@@ -60,7 +67,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "366232910334001152": {
         "modification_history": {
