@@ -351,6 +351,16 @@
                     3400
                 ]
             },
+            "enchanted_pork": {
+                "from": [
+                    2500,
+                    3500
+                ],
+                "to": [
+                    2000,
+                    2300
+                ]
+            },
             "enchanted_quartz_block": {
                 "from": [
                     320000,
@@ -516,7 +526,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "614661627513536526": {
         "modification_history": {},
