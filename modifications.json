@@ -872,6 +872,16 @@
                     1900
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    27000
+                ],
+                "to": [
+                    25000,
+                    26000
+                ]
+            },
             "gem_rune_i": {
                 "from": null,
                 "to": [
@@ -1035,7 +1045,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "614661627513536526": {
         "modification_history": {},
