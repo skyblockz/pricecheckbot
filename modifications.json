@@ -340,6 +340,16 @@
                     1000000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    5000,
+                    6250
+                ],
+                "to": [
+                    7000,
+                    7000
+                ]
+            },
             "legendary_phoenix": {
                 "from": [
                     140000000,
@@ -441,7 +451,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "419714628059267072": {
         "modification_history": {
