@@ -950,6 +950,16 @@
                     6400
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    610000,
+                    650000
+                ],
+                "to": [
+                    610000,
+                    640000
+                ]
+            },
             "true_essence": {
                 "from": null,
                 "to": [
@@ -1005,7 +1015,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "614661627513536526": {
         "modification_history": {},
