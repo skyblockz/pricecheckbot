@@ -812,6 +812,16 @@
                     3400
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    410000,
+                    425000
+                ],
+                "to": [
+                    410000,
+                    437000
+                ]
+            },
             "enchanted_pork": {
                 "from": [
                     2500,
@@ -1045,7 +1055,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "614661627513536526": {
         "modification_history": {},
