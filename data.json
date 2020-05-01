@@ -433,7 +433,7 @@
     },
     {
         "ac": true,
-        "hi": 380000,
+        "hi": 390000,
         "low": 280000,
         "name": "emerald_blade"
     },
@@ -1129,26 +1129,26 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 500000,
+        "hi": 800000,
+        "low": 600000,
         "name": "young_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 900000,
+        "hi": 1000000,
         "low": 750000,
         "name": "young_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 725000,
-        "low": 650000,
+        "hi": 1000000,
+        "low": 700000,
         "name": "young_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 73000000,
-        "low": 64000000,
+        "hi": 74000000,
+        "low": 67000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1303,8 +1303,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 550000,
+        "hi": 750000,
+        "low": 600000,
         "name": "young_dragon_helmet"
     },
     {
@@ -1387,8 +1387,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 800000,
+        "hi": 970000,
+        "low": 850000,
         "name": "runaans_bow"
     },
     {
@@ -3554,7 +3554,7 @@
     {
         "ac": true,
         "hi": 500,
-        "low": 1,
+        "low": 500,
         "name": "clay_minion_i"
     },
     {
@@ -4534,5 +4534,11 @@
         "hi": 135000,
         "low": 125000,
         "name": "enchanted_glowstone_block"
+    },
+    {
+        "ac": true,
+        "hi": 4,
+        "low": 3,
+        "name": "cobblestone"
     }
 ]
