@@ -307,8 +307,8 @@
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1800,
+        "hi": 1500,
+        "low": 1300,
         "name": "enchanted_iron"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
         "ac": true,
-        "hi": 193000,
-        "low": 170000,
+        "hi": 200000,
+        "low": 200000,
         "name": "enchanted_iron_block"
     },
     {
@@ -4546,5 +4546,11 @@
         "hi": 8,
         "low": 7,
         "name": "iron"
+    },
+    {
+        "ac": true,
+        "hi": 13,
+        "low": 11,
+        "name": "gold"
     }
 ]
