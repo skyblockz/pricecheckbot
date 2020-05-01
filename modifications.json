@@ -51,6 +51,16 @@
                     2700000
                 ]
             },
+            "gold_minion_xi": {
+                "from": [
+                    1126400,
+                    1126400
+                ],
+                "to": [
+                    10000000,
+                    22000000
+                ]
+            },
             "revenant_minion_xi": {
                 "from": null,
                 "to": [
@@ -59,7 +69,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "664325814531391528": {
         "modification_history": {},
