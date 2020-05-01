@@ -380,6 +380,16 @@
                     4150000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    64000000,
+                    73000000
+                ],
+                "to": [
+                    67000000,
+                    74000000
+                ]
+            },
             "revenant_boots": {
                 "from": [
                     100000,
@@ -491,7 +501,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "419714628059267072": {
         "modification_history": {
