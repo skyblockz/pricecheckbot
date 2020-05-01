@@ -337,14 +337,14 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1700,
+        "hi": 2200,
+        "low": 1900,
         "name": "enchanted_gold"
     },
     {
         "ac": true,
-        "hi": 195000,
-        "low": 180000,
+        "hi": 235000,
+        "low": 215000,
         "name": "enchanted_gold_block"
     },
     {
@@ -4552,5 +4552,11 @@
         "hi": 13,
         "low": 11,
         "name": "gold"
+    },
+    {
+        "ac": true,
+        "hi": 300,
+        "low": 300,
+        "name": "roofed_forest_island"
     }
 ]
