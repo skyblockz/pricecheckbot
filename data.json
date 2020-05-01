@@ -7,8 +7,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 775000,
+        "hi": 800000,
+        "low": 700000,
         "name": "strong_dragon_helmet"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "ac": true,
-        "hi": 875000,
-        "low": 680000,
+        "hi": 700000,
+        "low": 600000,
         "name": "strong_dragon_boots"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1200000,
+        "hi": 1000000,
+        "low": 900000,
         "name": "strong_dragon_leggings"
     },
     {
@@ -49,14 +49,14 @@
     },
     {
         "ac": true,
-        "hi": 1750000,
-        "low": 1400000,
+        "hi": 1100000,
+        "low": 900000,
         "name": "strong_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 18500,
+        "hi": 17000,
+        "low": 16000,
         "name": "strong_dragon_fragment"
     },
     {
@@ -73,8 +73,8 @@
     },
     {
         "ac": true,
-        "hi": 1700000,
-        "low": 1300000,
+        "hi": 1400000,
+        "low": 1200000,
         "name": "tarantula_boots"
     },
     {
@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 420000,
-        "low": 400000,
+        "hi": 400000,
+        "low": 380000,
         "name": "super_compactor_3000"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "ac": true,
-        "hi": 15500000,
-        "low": 13000000,
+        "hi": 10000000,
+        "low": 7000000,
         "name": "pigman_sword"
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
         "ac": true,
-        "hi": 300000,
+        "hi": 200000,
         "low": 100000,
         "name": "unstable_dragon_boots"
     },
@@ -1135,8 +1135,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 750000,
+        "hi": 900000,
+        "low": 700000,
         "name": "young_dragon_leggings"
     },
     {
@@ -1327,8 +1327,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 250000,
+        "hi": 300000,
+        "low": 150000,
         "name": "unstable_dragon_leggings"
     },
     {
@@ -1519,14 +1519,14 @@
     },
     {
         "ac": true,
-        "hi": 550000,
-        "low": 450000,
+        "hi": 250000,
+        "low": 100000,
         "name": "unstable_dragon_helmet"
     },
     {
         "ac": true,
-        "hi": 645000,
-        "low": 450000,
+        "hi": 400000,
+        "low": 200000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -1579,8 +1579,8 @@
     },
     {
         "ac": true,
-        "hi": 5600,
-        "low": 5000,
+        "hi": 5000,
+        "low": 4000,
         "name": "wise_dragon_fragment"
     },
     {
@@ -2137,8 +2137,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2500,
+        "hi": 2000,
+        "low": 1000,
         "name": "protector_dragon_fragment"
     },
     {
@@ -4429,8 +4429,8 @@
     },
     {
         "ac": true,
-        "hi": 1638400,
-        "low": 1000000,
+        "hi": 2700000,
+        "low": 1400000,
         "name": "diamond_minion_xi"
     },
     {
@@ -4558,5 +4558,11 @@
         "hi": 300,
         "low": 300,
         "name": "roofed_forest_island"
+    },
+    {
+        "ac": true,
+        "hi": 55000000,
+        "low": 50000000,
+        "name": "revenant_minion_xi"
     }
 ]
