@@ -340,6 +340,16 @@
                     4120000
                 ]
             },
+            "clay_minion_i": {
+                "from": [
+                    1,
+                    500
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     280000,
@@ -511,7 +521,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "419714628059267072": {
         "modification_history": {
