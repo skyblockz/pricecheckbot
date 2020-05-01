@@ -259,8 +259,8 @@
     },
     {
         "ac": true,
-        "hi": 660,
-        "low": 600,
+        "hi": 620,
+        "low": 560,
         "name": "enchanted_cobblestone"
     },
     {
@@ -4339,8 +4339,8 @@
     },
     {
         "ac": true,
-        "hi": 15,
-        "low": 10,
+        "hi": 13,
+        "low": 12,
         "name": "coal"
     },
     {
@@ -4540,5 +4540,11 @@
         "hi": 4,
         "low": 3,
         "name": "cobblestone"
+    },
+    {
+        "ac": true,
+        "hi": 8,
+        "low": 7,
+        "name": "iron"
     }
 ]
