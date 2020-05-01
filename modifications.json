@@ -1225,9 +1225,19 @@
                     1200000,
                     1400000
                 ]
+            },
+            "unstable_dragon_helmet": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    150000,
+                    300000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "664325814531391528": {
         "modification_history": {},
