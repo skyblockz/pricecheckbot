@@ -1226,6 +1226,16 @@
                     10000000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2500,
+                    3000
+                ],
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     680000,
@@ -1327,7 +1337,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "664325814531391528": {
         "modification_history": {},
