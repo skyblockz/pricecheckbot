@@ -1189,8 +1189,8 @@
     },
     {
         "ac": true,
-        "hi": 1700000,
-        "low": 1500000,
+        "hi": 900000,
+        "low": 800000,
         "name": "mastiff_leggings"
     },
     {
@@ -1201,8 +1201,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 800000,
+        "hi": 800000,
+        "low": 700000,
         "name": "mastiff_boots"
     },
     {
@@ -1237,14 +1237,14 @@
     },
     {
         "ac": true,
-        "hi": 1400000,
-        "low": 1200000,
+        "hi": 900000,
+        "low": 800000,
         "name": "mastiff_crown"
     },
     {
         "ac": true,
-        "hi": 1700000,
-        "low": 1300000,
+        "hi": 1000000,
+        "low": 900000,
         "name": "mastiff_chestplate"
     },
     {
@@ -4570,5 +4570,11 @@
         "hi": 300000,
         "low": 200000,
         "name": "pig's_foot"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 1000,
+        "name": "fish_minion_i"
     }
 ]
