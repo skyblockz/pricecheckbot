@@ -62,6 +62,13 @@
                     2700000
                 ]
             },
+            "fish_minion_i": {
+                "from": null,
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "gold_minion_xi": {
                 "from": [
                     10000000,
@@ -147,7 +154,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "664325814531391528": {
         "modification_history": {},
