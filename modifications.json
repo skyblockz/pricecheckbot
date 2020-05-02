@@ -72,6 +72,16 @@
                     20000000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    1200000,
+                    1400000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "pig's_foot": {
                 "from": null,
                 "to": [
@@ -107,7 +117,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "664325814531391528": {
         "modification_history": {},
