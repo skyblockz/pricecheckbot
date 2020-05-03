@@ -2,7 +2,7 @@
     {
         "ac": true,
         "hi": 645000,
-        "low": 635000,
+        "low": 625000,
         "name": "summoning_eye"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 110000,
-        "low": 100000,
+        "hi": 103000,
+        "low": 99000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 164000,
-        "low": 155000,
+        "hi": 168000,
+        "low": 160000,
         "name": "enchanted_emerald_block"
     },
     {
@@ -523,7 +523,7 @@
     },
     {
         "ac": true,
-        "hi": 335000,
+        "hi": 410000,
         "low": 315000,
         "name": "enchanted_quartz_block"
     },
@@ -926,7 +926,7 @@
     {
         "ac": true,
         "hi": 310000,
-        "low": 270000,
+        "low": 280000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -997,8 +997,8 @@
     },
     {
         "ac": true,
-        "hi": 3400,
-        "low": 3000,
+        "hi": 4200,
+        "low": 3700,
         "name": "enchanted_gunpowder"
     },
     {
@@ -1171,8 +1171,8 @@
     },
     {
         "ac": true,
-        "hi": 7000,
-        "low": 5950,
+        "hi": 5900,
+        "low": 5500,
         "name": "purple_candy"
     },
     {
@@ -1459,8 +1459,8 @@
     },
     {
         "ac": true,
-        "hi": 2100,
-        "low": 1700,
+        "hi": 3000,
+        "low": 2700,
         "name": "old_dragon_fragment"
     },
     {
@@ -1531,8 +1531,8 @@
     },
     {
         "ac": true,
-        "hi": 8000,
-        "low": 7000,
+        "hi": 7600,
+        "low": 7100,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -1561,8 +1561,8 @@
     },
     {
         "ac": true,
-        "hi": 1300,
-        "low": 1050,
+        "hi": 1450,
+        "low": 1200,
         "name": "enchanted_spider_eye"
     },
     {
@@ -1609,8 +1609,8 @@
     },
     {
         "ac": true,
-        "hi": 2100,
-        "low": 1800,
+        "hi": 1800,
+        "low": 1600,
         "name": "enchanted_rotten_flesh"
     },
     {
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 14500,
-        "low": 14000,
+        "hi": 17000,
+        "low": 16000,
         "name": "young_dragon_fragment"
     },
     {
@@ -1945,8 +1945,8 @@
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1700,
+        "hi": 1500,
+        "low": 1350,
         "name": "enchanted_string"
     },
     {
@@ -2011,8 +2011,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 80000,
+        "hi": 105000,
+        "low": 85000,
         "name": "enchanted_fermented_spider_eye"
     },
     {
@@ -2095,8 +2095,8 @@
     },
     {
         "ac": true,
-        "hi": 5900,
-        "low": 5300,
+        "hi": 4800,
+        "low": 4500,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2239,8 +2239,8 @@
     },
     {
         "ac": true,
-        "hi": 620000,
-        "low": 590000,
+        "hi": 570000,
+        "low": 530000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2509,8 +2509,8 @@
     },
     {
         "ac": true,
-        "hi": 4300,
-        "low": 3500,
+        "hi": 3500,
+        "low": 3200,
         "name": "enchanted_blaze_powder"
     },
     {
@@ -2917,8 +2917,8 @@
     },
     {
         "ac": true,
-        "hi": 2750000,
-        "low": 2000000,
+        "hi": 1700000,
+        "low": 1300000,
         "name": "ink_wand"
     },
     {
@@ -2947,8 +2947,8 @@
     },
     {
         "ac": true,
-        "hi": 2250,
-        "low": 1800,
+        "hi": 2800,
+        "low": 2500,
         "name": "enchanted_bone"
     },
     {
@@ -3421,8 +3421,8 @@
     },
     {
         "ac": true,
-        "hi": 220000,
-        "low": 190000,
+        "hi": 315000,
+        "low": 260000,
         "name": "enchanted_firework_rocket"
     },
     {
@@ -3973,8 +3973,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 410000,
+        "hi": 370000,
+        "low": 300000,
         "name": "enchanted_wet_sponge"
     },
     {
@@ -4531,8 +4531,8 @@
     },
     {
         "ac": true,
-        "hi": 135000,
-        "low": 125000,
+        "hi": 155000,
+        "low": 145000,
         "name": "enchanted_glowstone_block"
     },
     {
@@ -4582,5 +4582,11 @@
         "hi": 2200000,
         "low": 2000000,
         "name": "ghast_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 1600000,
+        "low": 120000,
+        "name": "cocoa_bean_minion_xi"
     }
 ]
