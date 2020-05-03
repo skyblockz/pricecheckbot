@@ -322,6 +322,13 @@
                     1000
                 ]
             },
+            "flake_the_fish": {
+                "from": null,
+                "to": [
+                    70000,
+                    150000
+                ]
+            },
             "ghast_minion_xi": {
                 "from": null,
                 "to": [
@@ -451,7 +458,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "664325814531391528": {
         "modification_history": {},
