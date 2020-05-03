@@ -157,6 +157,16 @@
                     3500
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    590000,
+                    620000
+                ],
+                "to": [
+                    530000,
+                    570000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     80000,
@@ -218,7 +228,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608691509797322762": {
         "modification_history": {},
