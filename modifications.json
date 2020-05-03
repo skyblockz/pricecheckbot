@@ -280,12 +280,12 @@
             },
             "cocoa_beans_minion_xi": {
                 "from": [
-                    120000,
-                    1600000
-                ],
-                "to": [
                     1500000,
                     2500000
+                ],
+                "to": [
+                    1000000,
+                    1800000
                 ]
             },
             "crooked_artifact": {
@@ -441,7 +441,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "664325814531391528": {
         "modification_history": {},
