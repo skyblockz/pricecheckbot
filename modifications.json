@@ -411,10 +411,13 @@
                 ]
             },
             "spruce_minion_xi": {
-                "from": null,
-                "to": [
+                "from": [
                     1000000,
                     13000000
+                ],
+                "to": [
+                    1000000,
+                    1300000
                 ]
             },
             "summoning_eye": {
@@ -448,7 +451,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "664325814531391528": {
         "modification_history": {},
