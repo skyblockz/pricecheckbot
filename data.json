@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 4120000,
-        "low": 3500000,
+        "hi": 3500000,
+        "low": 3000000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -2317,12 +2317,6 @@
     },
     {
         "ac": true,
-        "hi": 35000,
-        "low": 35000,
-        "name": "tacticion_sword"
-    },
-    {
-        "ac": true,
         "hi": 600000,
         "low": 400000,
         "name": "beacon"
@@ -4588,5 +4582,11 @@
         "hi": 1600000,
         "low": 120000,
         "name": "cocoa_bean_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 100,
+        "name": "chicken_minion_i"
     }
 ]
