@@ -4579,12 +4579,6 @@
     },
     {
         "ac": true,
-        "hi": 1600000,
-        "low": 120000,
-        "name": "cocoa_bean_minion_xi"
-    },
-    {
-        "ac": true,
         "hi": 1000,
         "low": 100,
         "name": "chicken_minion_i"
@@ -4603,14 +4597,26 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 5000000,
+        "hi": 15000000,
+        "low": 8000000,
         "name": "shady_ring"
     },
     {
         "ac": true,
-        "hi": 22000000,
-        "low": 15000000,
+        "hi": 25000000,
+        "low": 18000000,
         "name": "crooked_artifact"
+    },
+    {
+        "ac": true,
+        "hi": 1800000,
+        "low": 1000000,
+        "name": "cocoa_beans_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 13000000,
+        "low": 1000000,
+        "name": "spruce_minion_xi"
     }
 ]
