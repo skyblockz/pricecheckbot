@@ -29,6 +29,16 @@
                     155000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    100000,
+                    110000
+                ],
+                "to": [
+                    99000,
+                    103000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     1700,
@@ -70,7 +80,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "390661701046894592": {
         "modification_history": {},
