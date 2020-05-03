@@ -278,6 +278,13 @@
                     1000
                 ]
             },
+            "crooked_artifact": {
+                "from": null,
+                "to": [
+                    15000000,
+                    22000000
+                ]
+            },
             "diamond_minion_xi": {
                 "from": [
                     1000000,
@@ -418,7 +425,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "664325814531391528": {
         "modification_history": {},
