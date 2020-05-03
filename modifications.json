@@ -146,8 +146,19 @@
         "total_mods": 0
     },
     "523019950072266764": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_gunpowder": {
+                "from": [
+                    3000,
+                    3400
+                ],
+                "to": [
+                    3700,
+                    4020
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "608691509797322762": {
         "modification_history": {},
