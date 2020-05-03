@@ -2131,8 +2131,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 2000,
+        "hi": 500,
+        "low": 500,
         "name": "remnant_of_the_eye"
     },
     {
@@ -4597,8 +4597,8 @@
     },
     {
         "ac": true,
-        "hi": 15000000,
-        "low": 8000000,
+        "hi": 8000000,
+        "low": 5500000,
         "name": "shady_ring"
     },
     {
@@ -4624,5 +4624,11 @@
         "hi": 150000,
         "low": 70000,
         "name": "flake_the_fish"
+    },
+    {
+        "ac": true,
+        "hi": 900000,
+        "low": 600000,
+        "name": "chicken_minion_xi"
     }
 ]
