@@ -380,6 +380,13 @@
                     55000000
                 ]
             },
+            "shady_ring": {
+                "from": null,
+                "to": [
+                    5000000,
+                    10000000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     610000,
@@ -411,7 +418,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "664325814531391528": {
         "modification_history": {},
