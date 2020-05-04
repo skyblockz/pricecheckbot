@@ -492,6 +492,16 @@
                     15000000
                 ]
             },
+            "spider_boots": {
+                "from": [
+                    350000,
+                    530000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "spruce_minion_xi": {
                 "from": [
                     1000000,
@@ -543,7 +553,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "664325814531391528": {
         "modification_history": {},
