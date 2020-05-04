@@ -275,6 +275,16 @@
                     370000
                 ]
             },
+            "magnet_vi": {
+                "from": [
+                    400,
+                    600
+                ],
+                "to": [
+                    60,
+                    60
+                ]
+            },
             "regeneration_viii": {
                 "from": null,
                 "to": [
@@ -283,7 +293,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "608691509797322762": {
         "modification_history": {},
