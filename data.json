@@ -2,7 +2,7 @@
     {
         "ac": true,
         "hi": 645000,
-        "low": 625000,
+        "low": 620000,
         "name": "summoning_eye"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
         "ac": true,
-        "hi": 530000,
-        "low": 350000,
+        "hi": 400000,
+        "low": 300000,
         "name": "spider_boots"
     },
     {
@@ -523,7 +523,7 @@
     },
     {
         "ac": true,
-        "hi": 410000,
+        "hi": 350000,
         "low": 315000,
         "name": "enchanted_quartz_block"
     },
@@ -571,8 +571,8 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 100000,
+        "hi": 97000,
+        "low": 89000,
         "name": "enchanted_packed_ice"
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 7500000,
+        "hi": 8000000,
+        "low": 6000000,
         "name": "rod_of_legends"
     },
     {
@@ -2281,8 +2281,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 3000000,
+        "hi": 2200000,
+        "low": 1400000,
         "name": "thick_tactician_sword"
     },
     {
@@ -2822,7 +2822,7 @@
     {
         "ac": true,
         "hi": 1800,
-        "low": 1300,
+        "low": 1700,
         "name": "enchanted_endstone"
     },
     {
@@ -3715,8 +3715,8 @@
     },
     {
         "ac": true,
-        "hi": 600,
-        "low": 400,
+        "hi": 60,
+        "low": 60,
         "name": "magnet_vi"
     },
     {
@@ -3931,8 +3931,8 @@
     },
     {
         "ac": true,
-        "hi": 850000,
-        "low": 800000,
+        "hi": 820000,
+        "low": 780000,
         "name": "enchanted_cooked_fish"
     },
     {
@@ -3967,8 +3967,8 @@
     },
     {
         "ac": true,
-        "hi": 370000,
-        "low": 300000,
+        "hi": 430000,
+        "low": 350000,
         "name": "enchanted_wet_sponge"
     },
     {
@@ -4636,5 +4636,11 @@
         "hi": 50000,
         "low": 43000,
         "name": "regeneration_viii"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 400000,
+        "name": "melodys_hair"
     }
 ]
