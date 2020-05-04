@@ -2281,8 +2281,8 @@
     },
     {
         "ac": true,
-        "hi": 2350000,
-        "low": 1600000,
+        "hi": 5000000,
+        "low": 3000000,
         "name": "thick_tactician_sword"
     },
     {
@@ -4630,5 +4630,11 @@
         "hi": 900000,
         "low": 600000,
         "name": "chicken_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 43000,
+        "name": "regeneration_viii"
     }
 ]
