@@ -475,6 +475,16 @@
                     17000000
                 ]
             },
+            "thick_tactician_sword": {
+                "from": [
+                    1600000,
+                    2350000
+                ],
+                "to": [
+                    3000000,
+                    5000000
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     96000,
@@ -486,7 +496,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "664325814531391528": {
         "modification_history": {},
