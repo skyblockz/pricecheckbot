@@ -415,6 +415,16 @@
                     60
                 ]
             },
+            "redstone_minion_xi": {
+                "from": [
+                    1000000,
+                    1600000
+                ],
+                "to": [
+                    2600000,
+                    2900000
+                ]
+            },
             "regeneration_viii": {
                 "from": null,
                 "to": [
@@ -473,7 +483,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "608691509797322762": {
         "modification_history": {},
