@@ -228,6 +228,16 @@
                     3500000
                 ]
             },
+            "carrot": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    6,
+                    12
+                ]
+            },
             "cocoa_bean_minion_xi": {
                 "from": null,
                 "to": [
@@ -373,7 +383,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "608691509797322762": {
         "modification_history": {},
