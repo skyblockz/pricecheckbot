@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 645000,
-        "low": 620000,
+        "hi": 655000,
+        "low": 630000,
         "name": "summoning_eye"
     },
     {
@@ -649,14 +649,14 @@
     },
     {
         "ac": true,
-        "hi": 750,
-        "low": 600,
+        "hi": 1300,
+        "low": 1200,
         "name": "enchanted_carrot"
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 60000,
+        "hi": 200000,
+        "low": 150000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -997,13 +997,13 @@
     },
     {
         "ac": true,
-        "hi": 4200,
-        "low": 3700,
+        "hi": 3600,
+        "low": 3150,
         "name": "enchanted_gunpowder"
     },
     {
         "ac": true,
-        "hi": 26000,
+        "hi": 27000,
         "low": 25000,
         "name": "foul_flesh"
     },
@@ -1021,7 +1021,7 @@
     },
     {
         "ac": true,
-        "hi": 24000,
+        "hi": 23000,
         "low": 20000,
         "name": "hamster_wheel"
     },
@@ -1093,8 +1093,8 @@
     },
     {
         "ac": true,
-        "hi": 124000,
-        "low": 120000,
+        "hi": 135000,
+        "low": 125000,
         "name": "hot_potato_book"
     },
     {
@@ -1333,8 +1333,8 @@
     },
     {
         "ac": true,
-        "hi": 1250000,
-        "low": 250000,
+        "hi": 3000000,
+        "low": 2500000,
         "name": "vampire_mask"
     },
     {
@@ -1465,8 +1465,8 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 60000,
+        "hi": 200000,
+        "low": 50000,
         "name": "smite_vi"
     },
     {
@@ -1609,8 +1609,8 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1600,
+        "hi": 2100,
+        "low": 2000,
         "name": "enchanted_rotten_flesh"
     },
     {
@@ -1945,8 +1945,8 @@
     },
     {
         "ac": true,
-        "hi": 1500,
-        "low": 1350,
+        "hi": 1800,
+        "low": 1600,
         "name": "enchanted_string"
     },
     {
@@ -2047,8 +2047,8 @@
     },
     {
         "ac": true,
-        "hi": 26000,
-        "low": 25000,
+        "hi": 40000,
+        "low": 30000,
         "name": "catalyst"
     },
     {
@@ -2101,7 +2101,7 @@
     },
     {
         "ac": true,
-        "hi": 310000,
+        "hi": 3100000,
         "low": 1550000,
         "name": "scorpion_bow"
     },
@@ -2521,14 +2521,14 @@
     },
     {
         "ac": true,
-        "hi": 375000,
-        "low": 300000,
+        "hi": 900000,
+        "low": 800000,
         "name": "super_enchanted_egg"
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 1500,
+        "hi": 7000,
+        "low": 5000,
         "name": "enchanted_egg"
     },
     {
@@ -3415,8 +3415,8 @@
     },
     {
         "ac": true,
-        "hi": 315000,
-        "low": 260000,
+        "hi": 230000,
+        "low": 200000,
         "name": "enchanted_firework_rocket"
     },
     {
@@ -4021,8 +4021,8 @@
     },
     {
         "ac": true,
-        "hi": 4,
-        "low": 3,
+        "hi": 12,
+        "low": 6,
         "name": "carrot"
     },
     {
@@ -4207,8 +4207,8 @@
     },
     {
         "ac": true,
-        "hi": 1600000,
-        "low": 1000000,
+        "hi": 2900000,
+        "low": 2600000,
         "name": "redstone_minion_xi"
     },
     {
@@ -4636,5 +4636,11 @@
         "hi": 50000,
         "low": 43000,
         "name": "regeneration_viii"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 10000,
+        "name": "saving_grace"
     }
 ]
