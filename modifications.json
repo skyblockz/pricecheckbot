@@ -352,6 +352,16 @@
                     50000
                 ]
             },
+            "scorpion_bow": {
+                "from": [
+                    1550000,
+                    310000
+                ],
+                "to": [
+                    1550000,
+                    3100000
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     300000,
@@ -363,7 +373,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "608691509797322762": {
         "modification_history": {},
