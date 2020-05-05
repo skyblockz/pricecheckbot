@@ -255,6 +255,16 @@
                     570000
                 ]
             },
+            "enchanted_carrot": {
+                "from": [
+                    600,
+                    750
+                ],
+                "to": [
+                    1200,
+                    13000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     80000,
@@ -353,7 +363,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "608691509797322762": {
         "modification_history": {},
