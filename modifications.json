@@ -275,6 +275,16 @@
                     1300
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1500,
+                    3000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     80000,
@@ -403,7 +413,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "608691509797322762": {
         "modification_history": {},
