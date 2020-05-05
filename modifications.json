@@ -375,6 +375,16 @@
                     27000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    24000
+                ],
+                "to": [
+                    20000,
+                    23000
+                ]
+            },
             "magnet_vi": {
                 "from": [
                     400,
@@ -423,7 +433,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608691509797322762": {
         "modification_history": {},
