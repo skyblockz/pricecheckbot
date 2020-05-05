@@ -295,6 +295,16 @@
                     315000
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     3700,
@@ -383,7 +393,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "608691509797322762": {
         "modification_history": {},
