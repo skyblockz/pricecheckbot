@@ -238,6 +238,16 @@
                     12
                 ]
             },
+            "catalyst": {
+                "from": [
+                    25000,
+                    26000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
             "cocoa_bean_minion_xi": {
                 "from": null,
                 "to": [
@@ -433,7 +443,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "608691509797322762": {
         "modification_history": {},
