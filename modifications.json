@@ -297,12 +297,12 @@
             },
             "enchanted_firework_rocket": {
                 "from": [
-                    190000,
-                    220000
-                ],
-                "to": [
                     260000,
                     315000
+                ],
+                "to": [
+                    200000,
+                    230000
                 ]
             },
             "enchanted_golden_carrot": {
@@ -413,7 +413,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "608691509797322762": {
         "modification_history": {},
