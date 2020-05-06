@@ -444,6 +444,13 @@
                     23000
                 ]
             },
+            "hardened_scales": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     120000,
@@ -553,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "608691509797322762": {
         "modification_history": {},
