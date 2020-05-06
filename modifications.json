@@ -269,6 +269,13 @@
                     60000
                 ]
             },
+            "common_fishing_exp_boost": {
+                "from": null,
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "common_mining_exp_boost": {
                 "from": null,
                 "to": [
@@ -504,7 +511,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "608691509797322762": {
         "modification_history": {},
