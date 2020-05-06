@@ -857,6 +857,16 @@
                     400000
                 ]
             },
+            "spider_eye": {
+                "from": [
+                    10,
+                    15
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "spruce_minion_xi": {
                 "from": [
                     1000000,
@@ -908,7 +918,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "664325814531391528": {
         "modification_history": {},
