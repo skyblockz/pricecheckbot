@@ -457,6 +457,13 @@
                     60
                 ]
             },
+            "rare_mining_exp_boost": {
+                "from": null,
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "redstone_minion_xi": {
                 "from": [
                     1000000,
@@ -525,7 +532,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "608691509797322762": {
         "modification_history": {},
