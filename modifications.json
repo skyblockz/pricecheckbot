@@ -457,6 +457,13 @@
                     60
                 ]
             },
+            "rare_farming_exp_boost": {
+                "from": null,
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "rare_mining_exp_boost": {
                 "from": null,
                 "to": [
@@ -532,7 +539,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "608691509797322762": {
         "modification_history": {},
