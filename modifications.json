@@ -553,6 +553,16 @@
                     500
                 ]
             },
+            "strong_dragon_helmet": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     630000,
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "608691509797322762": {
         "modification_history": {},
