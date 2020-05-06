@@ -391,6 +391,16 @@
                     3600
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    6000,
+                    10000
+                ],
+                "to": [
+                    8000,
+                    11000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     1600,
@@ -574,7 +584,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "608691509797322762": {
         "modification_history": {},
