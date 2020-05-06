@@ -877,6 +877,16 @@
                     1300000
                 ]
             },
+            "string": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    9,
+                    11
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     610000,
@@ -918,7 +928,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "664325814531391528": {
         "modification_history": {},
