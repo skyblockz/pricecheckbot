@@ -555,12 +555,12 @@
             },
             "super_enchanted_egg": {
                 "from": [
-                    300000,
-                    375000
-                ],
-                "to": [
                     800000,
                     900000
+                ],
+                "to": [
+                    500000,
+                    550000
                 ]
             },
             "vampire_mask": {
@@ -574,7 +574,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "608691509797322762": {
         "modification_history": {},
