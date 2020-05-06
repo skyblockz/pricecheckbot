@@ -262,6 +262,13 @@
                     50000
                 ]
             },
+            "common_mining_exp_boost": {
+                "from": null,
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     3500,
@@ -490,7 +497,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "608691509797322762": {
         "modification_history": {},
