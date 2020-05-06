@@ -676,12 +676,12 @@
             },
             "enchanted_golden_carrot": {
                 "from": [
-                    150000,
-                    200000
-                ],
-                "to": [
                     200000,
                     250000
+                ],
+                "to": [
+                    100000,
+                    150000
                 ]
             },
             "enchanted_poppy": {
@@ -888,7 +888,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "664325814531391528": {
         "modification_history": {},
