@@ -255,6 +255,13 @@
                     1600000
                 ]
             },
+            "common_all_skills_exp_boost": {
+                "from": null,
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     3500,
@@ -483,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "608691509797322762": {
         "modification_history": {},
