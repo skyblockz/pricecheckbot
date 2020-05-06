@@ -664,6 +664,16 @@
                     2700000
                 ]
             },
+            "enchanted_bone": {
+                "from": [
+                    2500,
+                    2800
+                ],
+                "to": [
+                    7000,
+                    8500
+                ]
+            },
             "enchanted_poppy": {
                 "from": null,
                 "to": [
@@ -868,7 +878,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "664325814531391528": {
         "modification_history": {},
