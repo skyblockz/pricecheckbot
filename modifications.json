@@ -573,6 +573,16 @@
                     550000
                 ]
             },
+            "tarantula_chestplate": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     250000,
@@ -584,7 +594,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "608691509797322762": {
         "modification_history": {},
