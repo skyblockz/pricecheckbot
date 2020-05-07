@@ -796,6 +796,16 @@
                     5300
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    3000,
+                    3400
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     200000,
@@ -1040,7 +1050,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "664325814531391528": {
         "modification_history": {},
