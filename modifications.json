@@ -823,6 +823,16 @@
                     1900
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    600000,
+                    750000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "fish_minion_i": {
                 "from": null,
                 "to": [
@@ -1030,7 +1040,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "664325814531391528": {
         "modification_history": {},
