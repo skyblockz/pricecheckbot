@@ -356,10 +356,6 @@
         "src": "cheap_tuxedo_leggings"
     },
     {
-        "dest": "cheap_tuxedo_oxfords",
-        "src": "cheap_tuxedo_boots"
-    },
-    {
         "dest": "elegant_tuxedo_jacket",
         "src": "elegant_tuxedo_chestplate"
     },
@@ -792,10 +788,6 @@
         "src": "digested"
     },
     {
-        "dest": "snowman",
-        "src": "snowman"
-    },
-    {
         "dest": "super_enchanted_egg",
         "src": "super_egg"
     },
@@ -898,5 +890,17 @@
     {
         "dest": "reaper_falchion",
         "src": "reaper_falc"
+    },
+    {
+        "dest": "legendary_snowman",
+        "src": "snowman"
+    },
+    {
+        "dest": "cheap_tuxedo",
+        "src": "cheap_tuxedo_boots"
+    },
+    {
+        "dest": "tarantula_minion_i",
+        "src": "tara_minion_i"
     }
 ]
