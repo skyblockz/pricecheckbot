@@ -732,6 +732,16 @@
                     16
                 ]
             },
+            "cheap_tuxedo": {
+                "from": [
+                    345000,
+                    800000
+                ],
+                "to": [
+                    500000,
+                    1000000
+                ]
+            },
             "chicken_minion_i": {
                 "from": null,
                 "to": [
@@ -1020,7 +1030,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "664325814531391528": {
         "modification_history": {},
