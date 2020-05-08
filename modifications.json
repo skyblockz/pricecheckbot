@@ -678,6 +678,16 @@
                     10
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "scorpion_bow": {
                 "from": [
                     1550000,
@@ -766,7 +776,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "608691509797322762": {
         "modification_history": {},
