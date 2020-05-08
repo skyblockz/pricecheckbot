@@ -583,6 +583,16 @@
                     27000
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    100000,
+                    105000
+                ],
+                "to": [
+                    85000,
+                    95000
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -786,7 +796,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "608691509797322762": {
         "modification_history": {},
