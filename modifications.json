@@ -19,6 +19,16 @@
                     1100000
                 ]
             },
+            "boots_of_growth": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     150000,
@@ -70,7 +80,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "344617760879542273": {
         "modification_history": {
