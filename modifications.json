@@ -231,6 +231,16 @@
                     600
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    99000,
+                    100000
+                ],
+                "to": [
+                    82200,
+                    84700
+                ]
+            },
             "enchanted_slimeball": {
                 "from": [
                     1400,
@@ -282,7 +292,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "466769036122783744": {
         "modification_history": {},
