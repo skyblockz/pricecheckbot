@@ -536,6 +536,16 @@
                     3600
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    2800,
+                    3500
+                ],
+                "to": [
+                    3500,
+                    4000
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     6000,
@@ -816,7 +826,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "608691509797322762": {
         "modification_history": {},
