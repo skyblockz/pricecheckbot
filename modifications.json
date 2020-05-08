@@ -324,6 +324,16 @@
                     1200
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    200000,
+                    230000
+                ],
+                "to": [
+                    180000,
+                    210000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     100000,
@@ -405,7 +415,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {},
