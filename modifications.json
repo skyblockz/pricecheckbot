@@ -825,6 +825,16 @@
                     600000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    380000,
+                    400000
+                ],
+                "to": [
+                    365000,
+                    380000
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     800000,
@@ -876,7 +886,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "608691509797322762": {
         "modification_history": {},
