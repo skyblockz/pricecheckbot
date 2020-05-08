@@ -370,11 +370,11 @@
             "catalyst": {
                 "from": [
                     30000,
-                    35000
+                    40000
                 ],
                 "to": [
-                    30000,
-                    40000
+                    25000,
+                    30000
                 ]
             },
             "cocoa_bean_minion_xi": {
@@ -876,7 +876,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "608691509797322762": {
         "modification_history": {},
