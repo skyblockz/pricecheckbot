@@ -161,6 +161,16 @@
                     3000
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    9000,
+                    11000
+                ],
+                "to": [
+                    9000,
+                    9800
+                ]
+            },
             "enchanted_slimeball": {
                 "from": [
                     1400,
@@ -202,7 +212,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {},
