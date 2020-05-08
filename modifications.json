@@ -334,6 +334,16 @@
                     210000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    3150,
+                    3600
+                ],
+                "to": [
+                    2700,
+                    3200
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     100000,
@@ -415,7 +425,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "466769036122783744": {
         "modification_history": {},
