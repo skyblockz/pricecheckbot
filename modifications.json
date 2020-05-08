@@ -304,6 +304,16 @@
                     128000
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    530000,
+                    560000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     900,
@@ -395,7 +405,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
