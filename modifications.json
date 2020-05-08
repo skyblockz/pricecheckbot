@@ -546,6 +546,16 @@
                     3900
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    500,
+                    900
+                ],
+                "to": [
+                    650,
+                    1000
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     8000,
@@ -836,7 +846,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "608691509797322762": {
         "modification_history": {},
