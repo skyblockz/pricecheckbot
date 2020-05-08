@@ -29,6 +29,16 @@
                     200000
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    110000,
+                    122000
+                ],
+                "to": [
+                    110000,
+                    150000
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     725000,
@@ -50,7 +60,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "344617760879542273": {
         "modification_history": {
