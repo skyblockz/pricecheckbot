@@ -41,6 +41,16 @@
                     1600
                 ]
             },
+            "legendary_ender_dragon": {
+                "from": [
+                    400000000,
+                    500000000
+                ],
+                "to": [
+                    410000000,
+                    460000000
+                ]
+            },
             "slime_ball": {
                 "from": [
                     25,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
