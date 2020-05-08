@@ -229,6 +229,16 @@
                     440000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    715000,
+                    795000
+                ],
+                "to": [
+                    795000,
+                    795000
+                ]
+            },
             "red_claw_artifact": {
                 "from": [
                     6700000,
@@ -270,7 +280,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "419714628059267072": {
         "modification_history": {
