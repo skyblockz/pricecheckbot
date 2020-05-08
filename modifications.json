@@ -344,6 +344,16 @@
                     8000000
                 ]
             },
+            "silk_edge_sword": {
+                "from": [
+                    2100000,
+                    3000000
+                ],
+                "to": [
+                    2300000,
+                    2700000
+                ]
+            },
             "thick_tactician_sword": {
                 "from": [
                     3000000,
@@ -355,7 +365,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "466769036122783744": {
         "modification_history": {},
