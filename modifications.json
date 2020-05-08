@@ -294,6 +294,16 @@
                     128000
                 ]
             },
+            "enchanted_carrot": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    950,
+                    1200
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     100000,
@@ -375,7 +385,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {},
