@@ -131,6 +131,16 @@
                     1600
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    350000,
+                    430000
+                ],
+                "to": [
+                    356000,
+                    480000
+                ]
+            },
             "legendary_ender_dragon": {
                 "from": [
                     400000000,
@@ -152,7 +162,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "466769036122783744": {
         "modification_history": {},
