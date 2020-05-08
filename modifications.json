@@ -111,6 +111,16 @@
                     4600
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    1900,
+                    2200
+                ],
+                "to": [
+                    1400,
+                    1500
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     2700,
@@ -162,7 +172,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "466769036122783744": {
         "modification_history": {},
