@@ -556,6 +556,16 @@
                     3600
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    440000,
+                    440000
+                ],
+                "to": [
+                    430000,
+                    450000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     3500,
@@ -866,7 +876,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "608691509797322762": {
         "modification_history": {},
