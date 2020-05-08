@@ -121,6 +121,16 @@
                     131000
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    210000,
+                    216000
+                ],
+                "to": [
+                    210000,
+                    217900
+                ]
+            },
             "enchanted_ender_pearl": {
                 "from": [
                     185,
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {},
