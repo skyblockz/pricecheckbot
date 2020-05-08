@@ -91,6 +91,16 @@
                     224000
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    240000,
+                    275000
+                ]
+            },
             "enchanted_ender_pearl": {
                 "from": [
                     185,
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
