@@ -466,6 +466,16 @@
                     1000
                 ]
             },
+            "enchanted_cocoa_bean": {
+                "from": [
+                    900,
+                    1050
+                ],
+                "to": [
+                    650,
+                    800
+                ]
+            },
             "enchanted_cookie": {
                 "from": [
                     120000,
@@ -806,7 +816,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "608691509797322762": {
         "modification_history": {},
