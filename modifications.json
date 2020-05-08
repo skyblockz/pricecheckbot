@@ -341,6 +341,16 @@
                     20000000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2000,
+                    2500
+                ],
+                "to": [
+                    2550,
+                    2840
+                ]
+            },
             "slime_ball": {
                 "from": [
                     25,
@@ -362,7 +372,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "466769036122783744": {
         "modification_history": {},
