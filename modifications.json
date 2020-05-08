@@ -1305,6 +1305,16 @@
                     300000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "revenant_minion_xi": {
                 "from": null,
                 "to": [
@@ -1440,7 +1450,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "664325814531391528": {
         "modification_history": {},
