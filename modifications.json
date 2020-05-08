@@ -364,6 +364,16 @@
                     3200
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    48000,
+                    58000
+                ],
+                "to": [
+                    48000,
+                    53000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     100000,
@@ -445,7 +455,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
