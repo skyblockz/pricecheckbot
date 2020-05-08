@@ -321,6 +321,16 @@
                     480000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    795000,
+                    795000
+                ],
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     125000,
@@ -402,7 +412,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "466769036122783744": {
         "modification_history": {},
