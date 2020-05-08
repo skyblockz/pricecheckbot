@@ -446,6 +446,16 @@
                     570000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    210000,
+                    215000
+                ],
+                "to": [
+                    210000,
+                    230000
+                ]
+            },
             "enchanted_bone": {
                 "from": [
                     5000,
@@ -846,7 +856,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "608691509797322762": {
         "modification_history": {},
