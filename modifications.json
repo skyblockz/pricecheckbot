@@ -1084,12 +1084,12 @@
             },
             "carrot": {
                 "from": [
-                    10,
-                    16
-                ],
-                "to": [
                     2,
                     7
+                ],
+                "to": [
+                    7,
+                    10
                 ]
             },
             "cheap_tuxedo": {
@@ -1460,7 +1460,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "664325814531391528": {
         "modification_history": {},
