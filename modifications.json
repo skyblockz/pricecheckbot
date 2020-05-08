@@ -334,6 +334,16 @@
                     5100
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    85000,
+                    105000
+                ],
+                "to": [
+                    93000,
+                    110000
+                ]
+            },
             "enchanted_firework_rocket": {
                 "from": [
                     200000,
@@ -435,7 +445,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {},
