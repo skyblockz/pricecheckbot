@@ -101,6 +101,16 @@
                     275000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    117000,
+                    131000
+                ]
+            },
             "enchanted_ender_pearl": {
                 "from": [
                     185,
@@ -192,7 +202,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
