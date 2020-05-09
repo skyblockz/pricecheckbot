@@ -1057,8 +1057,8 @@
     },
     {
         "ac": true,
-        "hi": 12500000,
-        "low": 10500000,
+        "hi": 17500000,
+        "low": 15000000,
         "name": "sharpness_vi"
     },
     {
@@ -1723,8 +1723,8 @@
     },
     {
         "ac": true,
-        "hi": 14500000,
-        "low": 10000000,
+        "hi": 1500000,
+        "low": 12700000,
         "name": "digested_mosquito"
     },
     {
@@ -2221,8 +2221,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 9800000,
+        "hi": 11400000,
+        "low": 10000000,
         "name": "scythe_blade"
     },
     {
@@ -2707,27 +2707,9 @@
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 12000000,
-        "name": "epic_phoenix"
-    },
-    {
-        "ac": true,
         "hi": 1700000,
         "low": 1300000,
         "name": "ink_wand"
-    },
-    {
-        "ac": true,
-        "hi": 300000,
-        "low": 300000,
-        "name": "epic_wither_skeleton"
-    },
-    {
-        "ac": true,
-        "hi": 2000000,
-        "low": 1500000,
-        "name": "mystery_wither_skeleton"
     },
     {
         "ac": true,
@@ -4744,5 +4726,17 @@
         "hi": 7000000,
         "low": 5750000,
         "name": "lvl_100_legendary_guardian"
+    },
+    {
+        "ac": true,
+        "hi": 17000000,
+        "low": 12000000,
+        "name": "lvl_1_epic_phoenix"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 300000,
+        "name": "lvl_1_epic_skeleton"
     }
 ]
