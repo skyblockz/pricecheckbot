@@ -905,6 +905,13 @@
                     1200000
                 ]
             },
+            "textbook": {
+                "from": null,
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "true_protection_i": {
                 "from": [
                     750000,
@@ -930,7 +937,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608691509797322762": {
         "modification_history": {},
