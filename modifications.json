@@ -581,6 +581,16 @@
                     800000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    27000
+                ],
+                "to": [
+                    25000,
+                    26500
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     125000,
@@ -692,7 +702,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "466769036122783744": {
         "modification_history": {},
