@@ -229,6 +229,16 @@
                     125000
                 ]
             },
+            "grappling_hook": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
             "legendary_tiger": {
                 "from": [
                     14500000,
@@ -270,7 +280,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "366232910334001152": {
         "modification_history": {},
