@@ -574,8 +574,19 @@
         "total_mods": 0
     },
     "523019950072266764": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "true_protection_i": {
+                "from": [
+                    750000,
+                    900000
+                ],
+                "to": [
+                    900000,
+                    900000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "608691509797322762": {
         "modification_history": {},
