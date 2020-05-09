@@ -393,12 +393,12 @@
             },
             "enchanted_cookie": {
                 "from": [
-                    100000,
-                    120000
-                ],
-                "to": [
                     117000,
                     131000
+                ],
+                "to": [
+                    120500,
+                    131100
                 ]
             },
             "enchanted_diamond": {
@@ -742,7 +742,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "466769036122783744": {
         "modification_history": {},
