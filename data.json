@@ -2575,24 +2575,6 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8500000,
-        "name": "legendary_squid"
-    },
-    {
-        "ac": true,
-        "hi": 18000000,
-        "low": 13000000,
-        "name": "legendary_lion"
-    },
-    {
-        "ac": true,
-        "hi": 10000000,
-        "low": 8000000,
-        "name": "legenadry_pigman"
-    },
-    {
-        "ac": true,
         "hi": 32000000,
         "low": 24000000,
         "name": "elegant_tuxedo_jacket"
@@ -2626,12 +2608,6 @@
         "hi": 3500,
         "low": 3500,
         "name": "jungle_axe"
-    },
-    {
-        "ac": true,
-        "hi": 5000000,
-        "low": 4000000,
-        "name": "skeleton_horse"
     },
     {
         "ac": true,
@@ -2725,21 +2701,9 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 5750000,
-        "name": "legendary_guardian"
-    },
-    {
-        "ac": true,
         "hi": 50,
         "low": 50,
         "name": "plumbers_sponge"
-    },
-    {
-        "ac": true,
-        "hi": 13000000,
-        "low": 11500000,
-        "name": "legendary_pigman"
     },
     {
         "ac": true,
@@ -4750,5 +4714,35 @@
         "hi": 130000000,
         "low": 120000000,
         "name": "lvl_100_epic_ender_dragon"
+    },
+    {
+        "ac": true,
+        "hi": 10000000,
+        "low": 8500000,
+        "name": "lvl_1_legendary_squid"
+    },
+    {
+        "ac": true,
+        "hi": 18000000,
+        "low": 13000000,
+        "name": "lvl_1_legendary_lion"
+    },
+    {
+        "ac": true,
+        "hi": 10000000,
+        "low": 8000000,
+        "name": "lvl_100_legendary_pigman"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 4000000,
+        "name": "lvl_1_legendary_skeleton_horse"
+    },
+    {
+        "ac": true,
+        "hi": 7000000,
+        "low": 5750000,
+        "name": "lvl_100_legendary_guardian"
     }
 ]
