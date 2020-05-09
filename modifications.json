@@ -51,6 +51,16 @@
                     10000000
                 ]
             },
+            "gift_the_fish": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    500,
+                    2000
+                ]
+            },
             "lvl_100_epic_ender_dragon": {
                 "from": null,
                 "to": [
@@ -106,7 +116,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "325104094530502684": {
         "modification_history": {},
