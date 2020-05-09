@@ -1128,6 +1128,13 @@
                     1000000
                 ]
             },
+            "saddle": {
+                "from": null,
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "shredder": {
                 "from": [
                     10000000,
@@ -1173,7 +1180,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "664325814531391528": {
         "modification_history": {},
