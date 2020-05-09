@@ -1138,6 +1138,13 @@
                     9000000
                 ]
             },
+            "tier_boost": {
+                "from": null,
+                "to": [
+                    110000000,
+                    130000000
+                ]
+            },
             "tier_boost_core": {
                 "from": null,
                 "to": [
@@ -1156,7 +1163,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "664325814531391528": {
         "modification_history": {},
