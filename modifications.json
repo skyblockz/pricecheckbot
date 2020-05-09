@@ -1138,6 +1138,16 @@
                     9000000
                 ]
             },
+            "textbook": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "tier_boost": {
                 "from": null,
                 "to": [
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "664325814531391528": {
         "modification_history": {},
