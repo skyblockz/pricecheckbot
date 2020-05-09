@@ -259,6 +259,16 @@
                     62000000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    5000000,
+                    6000000
+                ],
+                "to": [
+                    7500000,
+                    8500000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     565000,
@@ -290,7 +300,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "366232910334001152": {
         "modification_history": {},
