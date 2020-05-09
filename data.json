@@ -2923,12 +2923,6 @@
     },
     {
         "ac": true,
-        "hi": 20000000,
-        "low": 18000000,
-        "name": "legendary_wolf"
-    },
-    {
-        "ac": true,
         "hi": 375000,
         "low": 300000,
         "name": "snow_minion_xi"
@@ -3142,12 +3136,6 @@
         "hi": 210000,
         "low": 180000,
         "name": "enchanted_firework_rocket"
-    },
-    {
-        "ac": true,
-        "hi": 2700000,
-        "low": 2300000,
-        "name": "silk_edge_sword"
     },
     {
         "ac": true,
@@ -4732,5 +4720,11 @@
         "hi": 250000,
         "low": 250000,
         "name": "new_year_cake_bag"
+    },
+    {
+        "ac": true,
+        "hi": 20000000,
+        "low": 18000000,
+        "name": "lvl_100_legendary_wolf"
     }
 ]
