@@ -2575,12 +2575,6 @@
     },
     {
         "ac": true,
-        "hi": 80000000,
-        "low": 70000000,
-        "name": "epic_ender_dragon"
-    },
-    {
-        "ac": true,
         "hi": 10000000,
         "low": 8500000,
         "name": "legendary_squid"
@@ -4744,5 +4738,17 @@
         "hi": 50000000,
         "low": 42000000,
         "name": "lvl_100_epic_parrot"
+    },
+    {
+        "ac": true,
+        "hi": 90000000,
+        "low": 80000000,
+        "name": "lvl_1_epic_ender_dragon"
+    },
+    {
+        "ac": true,
+        "hi": 130000000,
+        "low": 120000000,
+        "name": "lvl_100_epic_ender_dragon"
     }
 ]
