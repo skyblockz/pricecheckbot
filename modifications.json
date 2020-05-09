@@ -895,6 +895,13 @@
                     30
                 ]
             },
+            "pet_luck_iv_potion": {
+                "from": null,
+                "to": [
+                    35000,
+                    50000
+                ]
+            },
             "simple_carrot_candy": {
                 "from": null,
                 "to": [
@@ -958,7 +965,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "608691509797322762": {
         "modification_history": {},
