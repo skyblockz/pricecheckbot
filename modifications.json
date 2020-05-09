@@ -1138,6 +1138,13 @@
                     9000000
                 ]
             },
+            "tier_boost_core": {
+                "from": null,
+                "to": [
+                    100000000,
+                    120000000
+                ]
+            },
             "true_protection_i": {
                 "from": [
                     800000,
@@ -1149,7 +1156,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "664325814531391528": {
         "modification_history": {},
