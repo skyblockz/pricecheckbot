@@ -229,6 +229,16 @@
                     125000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    12700000,
+                    1500000
+                ],
+                "to": [
+                    13500000,
+                    15000000
+                ]
+            },
             "grappling_hook": {
                 "from": [
                     10000,
@@ -280,7 +290,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "366232910334001152": {
         "modification_history": {},
