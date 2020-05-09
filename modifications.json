@@ -258,9 +258,19 @@
                     340000,
                     375000
                 ]
+            },
+            "teleport_pad": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    7500,
+                    10000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "366232910334001152": {
         "modification_history": {},
