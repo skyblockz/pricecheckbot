@@ -264,10 +264,6 @@
         "src": "ench_hopper"
     },
     {
-        "dest": "enchanted_dark_oak",
-        "src": "ench_dark_oak"
-    },
-    {
         "dest": "tarantula_helmet",
         "src": "tara_helm"
     },
@@ -326,10 +322,6 @@
     {
         "dest": "sup",
         "src": "remove"
-    },
-    {
-        "dest": "epic_ender_dragon",
-        "src": "epic_dragon"
     },
     {
         "dest": "enchanted_redstone",
@@ -548,10 +540,6 @@
         "src": "unstable_dragon_frag"
     },
     {
-        "dest": "runaans_bow",
-        "src": "runaans"
-    },
-    {
         "dest": "grand_experience_bottle",
         "src": "grand_xp_bottle"
     },
@@ -562,14 +550,6 @@
     {
         "dest": "fish_affinity_talisman",
         "src": "fish_affinity"
-    },
-    {
-        "dest": "epic_enderman",
-        "src": "epic_enderman"
-    },
-    {
-        "dest": "legendary_bee",
-        "src": "legendary_bee"
     },
     {
         "dest": "growth_vi",
@@ -684,10 +664,6 @@
         "src": "elava"
     },
     {
-        "dest": "50_million_midas_sword",
-        "src": "50_mil_midas"
-    },
-    {
         "dest": "scavenger_iv",
         "src": "scavenger_4"
     },
@@ -702,10 +678,6 @@
     {
         "dest": "rabbit_vi_potion",
         "src": "rabbit_vi"
-    },
-    {
-        "dest": "combat_xp_potion_iii",
-        "src": "combat_3_potion"
     },
     {
         "dest": "wise_dragon_helmet",
@@ -724,20 +696,12 @@
         "src": "power_6"
     },
     {
-        "dest": "fishing_xp_boost_3",
-        "src": "fishing_xp_boost_iii"
-    },
-    {
         "dest": "frail_vi",
         "src": "frail_6"
     },
     {
         "dest": "magnet_vi",
         "src": "magnet_vi"
-    },
-    {
-        "dest": "legendary_flying_fish",
-        "src": "legendary_flying_fish"
     },
     {
         "dest": "protector_dragon_fragment",
@@ -750,10 +714,6 @@
     {
         "dest": "superior_dragon_fragment",
         "src": "sup_frag"
-    },
-    {
-        "dest": "legendary_ender_dragon",
-        "src": "leg_drag"
     },
     {
         "dest": "tarantula_web",
@@ -892,15 +852,55 @@
         "src": "reaper_falc"
     },
     {
-        "dest": "legendary_snowman",
-        "src": "snowman"
-    },
-    {
         "dest": "cheap_tuxedo",
         "src": "cheap_tuxedo_boots"
     },
     {
         "dest": "tarantula_minion_i",
         "src": "tara_minion_i"
+    },
+    {
+        "dest": "enchanted_dark_oak_wood",
+        "src": "ench_dark_oak"
+    },
+    {
+        "dest": "runaan's_bow",
+        "src": "runaans"
+    },
+    {
+        "dest": "lvl_1_epic_ender_dragon",
+        "src": "epic_dragon"
+    },
+    {
+        "dest": "lvl_1_epic_enderman",
+        "src": "epic_enderman"
+    },
+    {
+        "dest": "lvl_1_legendary_bee",
+        "src": "legendary_bee"
+    },
+    {
+        "dest": "lvl_1_legendary_ender_dragon",
+        "src": "leg_drag"
+    },
+    {
+        "dest": "combat_xp_boost_iii_potion",
+        "src": "combat_3_potion"
+    },
+    {
+        "dest": "fishing_xp_boost_iii_potion",
+        "src": "fishing_xp_boost_iii"
+    },
+    {
+        "dest": "lvl_1_legendary_flying_fish",
+        "src": "legendary_flying_fish"
+    },
+    {
+        "dest": "lvl_1_legendary_snowman",
+        "src": "snowman"
+    },
+    {
+        "dest": "lvl_1_legendary_sheep",
+        "src": "legendary_sheep"
     }
 ]
