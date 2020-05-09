@@ -187,8 +187,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 430000,
+        "hi": 429800,
+        "low": 412400,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -1003,7 +1003,7 @@
     },
     {
         "ac": true,
-        "hi": 27000,
+        "hi": 26500,
         "low": 25000,
         "name": "foul_flesh"
     },
@@ -1069,8 +1069,8 @@
     },
     {
         "ac": true,
-        "hi": 118000,
-        "low": 115000,
+        "hi": 128000,
+        "low": 120000,
         "name": "hot_potato_book"
     },
     {
@@ -2713,12 +2713,6 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 200000,
-        "name": "epic_horse"
-    },
-    {
-        "ac": true,
         "hi": 10,
         "low": 10,
         "name": "web"
@@ -2731,12 +2725,6 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 150000,
-        "name": "epic_pigman"
-    },
-    {
-        "ac": true,
         "hi": 16000,
         "low": 15000,
         "name": "medium_storage"
@@ -2746,18 +2734,6 @@
         "hi": 100,
         "low": 20,
         "name": "rogue_sword"
-    },
-    {
-        "ac": true,
-        "hi": 8500000,
-        "low": 8000000,
-        "name": "epic_squid"
-    },
-    {
-        "ac": true,
-        "hi": 1000000,
-        "low": 800000,
-        "name": "legendary_magma"
     },
     {
         "ac": true,
@@ -2863,12 +2839,6 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 250000,
-        "name": "new_years_cake_bag"
-    },
-    {
-        "ac": true,
         "hi": 5000,
         "low": 4500,
         "name": "obsidian_chestplate"
@@ -2884,12 +2854,6 @@
         "hi": 10000000,
         "low": 8000000,
         "name": "elegant_tuxedo_oxfords"
-    },
-    {
-        "ac": true,
-        "hi": 69,
-        "low": 69,
-        "name": "jerry_egg"
     },
     {
         "ac": true,
@@ -4615,8 +4579,8 @@
     },
     {
         "ac": true,
-        "hi": 970000,
-        "low": 850000,
+        "hi": 1500000,
+        "low": 1000000,
         "name": "runaan's_bow"
     },
     {
@@ -4738,5 +4702,35 @@
         "hi": 300000,
         "low": 300000,
         "name": "lvl_1_epic_skeleton"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 200000,
+        "name": "lvl_1_epic_horse"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 150000,
+        "name": "lvl_1_epic_pigman"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1000000,
+        "name": "lvl_1_epic_squid"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 800000,
+        "name": "lvl_1_legendary_magma_cube"
+    },
+    {
+        "ac": true,
+        "hi": 250000,
+        "low": 250000,
+        "name": "new_year_cake_bag"
     }
 ]
