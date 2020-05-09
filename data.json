@@ -2467,12 +2467,6 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 100000,
-        "name": "magic_find_iv"
-    },
-    {
-        "ac": true,
         "hi": 275000,
         "low": 240000,
         "name": "enchanted_cooked_mutton"
@@ -2500,18 +2494,6 @@
         "hi": 300000,
         "low": 280000,
         "name": "frozen_chicken"
-    },
-    {
-        "ac": true,
-        "hi": 3500000,
-        "low": 2500000,
-        "name": "legendary_rabbit"
-    },
-    {
-        "ac": true,
-        "hi": 3200000,
-        "low": 2000000,
-        "name": "legendary_ocelot"
     },
     {
         "ac": true,
@@ -2587,27 +2569,9 @@
     },
     {
         "ac": true,
-        "hi": 155000000,
-        "low": 135000000,
-        "name": "legendary_phoenix"
-    },
-    {
-        "ac": true,
         "hi": 5000,
         "low": 1000,
         "name": "grinch_minion_skin"
-    },
-    {
-        "ac": true,
-        "hi": 37000000,
-        "low": 34000000,
-        "name": "legendary_parrot"
-    },
-    {
-        "ac": true,
-        "hi": 34000000,
-        "low": 30000000,
-        "name": "epic_parrot"
     },
     {
         "ac": true,
@@ -2713,8 +2677,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 80000,
+        "hi": 250000,
+        "low": 100000,
         "name": "magic_find_iv_potion"
     },
     {
@@ -4744,5 +4708,41 @@
         "hi": 1200000,
         "low": 700000,
         "name": "lvl_1_legendary_chicken"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 2500000,
+        "name": "lvl_1_legendary_rabbit"
+    },
+    {
+        "ac": true,
+        "hi": 3200000,
+        "low": 2000000,
+        "name": "lvl_1_legendary_ocelot"
+    },
+    {
+        "ac": true,
+        "hi": 155000000,
+        "low": 135000000,
+        "name": "lvl_100_legendary_phoenix"
+    },
+    {
+        "ac": true,
+        "hi": 37000000,
+        "low": 34000000,
+        "name": "lvl_1_legendary_parrot"
+    },
+    {
+        "ac": true,
+        "hi": 34000000,
+        "low": 30000000,
+        "name": "lvl_1_epic_parrot"
+    },
+    {
+        "ac": true,
+        "hi": 50000000,
+        "low": 42000000,
+        "name": "lvl_100_epic_parrot"
     }
 ]
