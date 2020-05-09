@@ -21,6 +21,16 @@
                     72
                 ]
             },
+            "farm_suit_helmet": {
+                "from": [
+                    1,
+                    100
+                ],
+                "to": [
+                    25,
+                    45
+                ]
+            },
             "farm_suit_leggings": {
                 "from": [
                     1,
@@ -32,7 +42,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "325104094530502684": {
         "modification_history": {},
