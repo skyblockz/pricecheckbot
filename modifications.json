@@ -573,12 +573,12 @@
             },
             "enchanted_sugar_cane": {
                 "from": [
-                    90000,
-                    120000
-                ],
-                "to": [
                     116200,
                     122000
+                ],
+                "to": [
+                    140000,
+                    147500
                 ]
             },
             "enchanted_wet_sponge": {
@@ -752,7 +752,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "466769036122783744": {
         "modification_history": {},
