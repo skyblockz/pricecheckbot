@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 510000,
-        "low": 500000,
+        "hi": 560000,
+        "low": 540000,
         "name": "summoning_eye"
     },
     {
@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 385000,
-        "low": 400000,
+        "hi": 400000,
+        "low": 375000,
         "name": "super_compactor_3000"
     },
     {
@@ -409,7 +409,7 @@
     },
     {
         "ac": true,
-        "hi": 82000,
+        "hi": 77000,
         "low": 75000,
         "name": "enchanted_lapis_block"
     },
@@ -571,8 +571,8 @@
     },
     {
         "ac": true,
-        "hi": 105000,
-        "low": 95000,
+        "hi": 130000,
+        "low": 110000,
         "name": "enchanted_packed_ice"
     },
     {
@@ -655,8 +655,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 140000,
+        "hi": 125000,
+        "low": 100000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -889,8 +889,8 @@
     },
     {
         "ac": true,
-        "hi": 1100,
-        "low": 960,
+        "hi": 700,
+        "low": 610,
         "name": "enchanted_raw_beef"
     },
     {
@@ -2443,8 +2443,8 @@
     },
     {
         "ac": true,
-        "hi": 540000,
-        "low": 524700,
+        "hi": 600000,
+        "low": 590000,
         "name": "super_enchanted_egg"
     },
     {
@@ -3433,8 +3433,8 @@
     },
     {
         "ac": true,
-        "hi": 26400,
-        "low": 25500,
+        "hi": 24000,
+        "low": 22000,
         "name": "enchanted_ink_sac"
     },
     {
@@ -3547,8 +3547,8 @@
     },
     {
         "ac": true,
-        "hi": 820000,
-        "low": 780000,
+        "hi": 770000,
+        "low": 615000,
         "name": "enchanted_cooked_fish"
     },
     {
@@ -4750,5 +4750,11 @@
         "hi": 50000,
         "low": 10000,
         "name": "lvl_1_epic_skeleton"
+    },
+    {
+        "ac": true,
+        "hi": 120000000,
+        "low": 100000000,
+        "name": "tier_boost_core"
     }
 ]
