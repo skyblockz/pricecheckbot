@@ -191,6 +191,16 @@
                     375000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "spider_talisman": {
                 "from": [
                     110000,
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "344617760879542273": {
         "modification_history": {
