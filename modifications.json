@@ -661,6 +661,16 @@
                     2840
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    55000,
+                    57000
+                ]
+            },
             "runaan's_bow": {
                 "from": [
                     850000,
@@ -732,7 +742,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "466769036122783744": {
         "modification_history": {},
