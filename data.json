@@ -2455,12 +2455,6 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 700000,
-        "name": "legendary_chicken"
-    },
-    {
-        "ac": true,
         "hi": 500,
         "low": 500,
         "name": "ember_fragment"
@@ -2470,12 +2464,6 @@
         "hi": 100,
         "low": 100,
         "name": "lapis_armor_chestplate"
-    },
-    {
-        "ac": true,
-        "hi": 3500000,
-        "low": 2500000,
-        "name": "spicy_leaping_sword"
     },
     {
         "ac": true,
@@ -4747,14 +4735,14 @@
     },
     {
         "ac": true,
-        "hi": 375000,
-        "low": 250000,
-        "name": "lvl_1_epic_chicken"
-    },
-    {
-        "ac": true,
         "hi": 40000,
         "low": 40000,
         "name": "winter_rod"
+    },
+    {
+        "ac": true,
+        "hi": 1200000,
+        "low": 700000,
+        "name": "lvl_1_legendary_chicken"
     }
 ]
