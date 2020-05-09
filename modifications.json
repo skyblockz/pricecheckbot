@@ -11,6 +11,16 @@
                     80
                 ]
             },
+            "farm_suit_chestplate": {
+                "from": [
+                    1,
+                    100
+                ],
+                "to": [
+                    40,
+                    72
+                ]
+            },
             "farm_suit_leggings": {
                 "from": [
                     1,
@@ -22,7 +32,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "325104094530502684": {
         "modification_history": {},
