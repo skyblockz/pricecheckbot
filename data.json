@@ -3367,12 +3367,6 @@
     },
     {
         "ac": true,
-        "hi": 160000,
-        "low": 65000,
-        "name": "combat_xp_potion_iii"
-    },
-    {
-        "ac": true,
         "hi": 7500000,
         "low": 5500000,
         "name": "flower_minion_i"
@@ -3435,18 +3429,6 @@
         "ac": true,
         "hi": 25000,
         "low": 15000,
-        "name": "fishing_xp_boost_3"
-    },
-    {
-        "ac": true,
-        "hi": 20000,
-        "low": 10000,
-        "name": "frost_snowball"
-    },
-    {
-        "ac": true,
-        "hi": 20000,
-        "low": 200,
         "name": "fishing_xp_boost_iii_potion"
     },
     {
@@ -4720,5 +4702,11 @@
         "hi": 34000000,
         "low": 30000000,
         "name": "lvl"
+    },
+    {
+        "ac": true,
+        "hi": 160000,
+        "low": 65000,
+        "name": "combat_xp_boost_iii_potion"
     }
 ]
