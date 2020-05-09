@@ -261,16 +261,16 @@
             },
             "teleport_pad": {
                 "from": [
-                    2500,
-                    2500
-                ],
-                "to": [
                     7500,
                     10000
+                ],
+                "to": [
+                    6000,
+                    8000
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "366232910334001152": {
         "modification_history": {},
