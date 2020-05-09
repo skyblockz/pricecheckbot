@@ -1153,8 +1153,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 6000000,
+        "hi": 6000000,
+        "low": 5000000,
         "name": "reaper_falchion"
     },
     {
@@ -1723,8 +1723,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 12700000,
+        "hi": 15000000,
+        "low": 13500000,
         "name": "digested_mosquito"
     },
     {
@@ -1921,8 +1921,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 10000,
+        "hi": 3000,
+        "low": 2000,
         "name": "grappling_hook"
     },
     {
@@ -2191,8 +2191,8 @@
     },
     {
         "ac": true,
-        "hi": 2500,
-        "low": 2500,
+        "hi": 8000,
+        "low": 6000,
         "name": "teleport_pad"
     },
     {
@@ -2275,8 +2275,8 @@
     },
     {
         "ac": true,
-        "hi": 16000000,
-        "low": 14000000,
+        "hi": 13000000,
+        "low": 10000000,
         "name": "reaper_mask"
     },
     {
@@ -2737,8 +2737,8 @@
     },
     {
         "ac": true,
-        "hi": 750000,
-        "low": 750000,
+        "hi": 1200000,
+        "low": 1000000,
         "name": "sugar_rush_iii"
     },
     {
@@ -3151,8 +3151,8 @@
     },
     {
         "ac": true,
-        "hi": 200,
-        "low": 200,
+        "hi": 35000,
+        "low": 25000,
         "name": "alchemy_xp_boost_iii_potion"
     },
     {
@@ -3451,8 +3451,8 @@
     },
     {
         "ac": true,
-        "hi": 6000,
-        "low": 5000,
+        "hi": 2000,
+        "low": 500,
         "name": "gift_the_fish"
     },
     {
@@ -3529,12 +3529,6 @@
     },
     {
         "ac": true,
-        "hi": 75000,
-        "low": 50000,
-        "name": "epic_flying_fish"
-    },
-    {
-        "ac": true,
         "hi": 3500,
         "low": 3000,
         "name": "enchanted_clownfish"
@@ -3565,27 +3559,9 @@
     },
     {
         "ac": true,
-        "hi": 62000000,
-        "low": 60000000,
-        "name": "legendary_tiger"
-    },
-    {
-        "ac": true,
-        "hi": 16000000,
-        "low": 14000000,
-        "name": "legendary_giraffe"
-    },
-    {
-        "ac": true,
         "hi": 2000,
         "low": 1200,
         "name": "whale_bait"
-    },
-    {
-        "ac": true,
-        "hi": 350000,
-        "low": 200000,
-        "name": "epic_rabbit"
     },
     {
         "ac": true,
@@ -3598,18 +3574,6 @@
         "hi": 20000,
         "low": 15000,
         "name": "thunderlord_v"
-    },
-    {
-        "ac": true,
-        "hi": 8000000,
-        "low": 6000000,
-        "name": "epic_blaze"
-    },
-    {
-        "ac": true,
-        "hi": 110000000,
-        "low": 90000000,
-        "name": "legendary_blaze"
     },
     {
         "ac": true,
@@ -3691,12 +3655,6 @@
     },
     {
         "ac": true,
-        "hi": 35000,
-        "low": 25000,
-        "name": "alchemy_boost_iii"
-    },
-    {
-        "ac": true,
         "hi": 4,
         "low": 3,
         "name": "pumpkin"
@@ -3724,12 +3682,6 @@
         "hi": 22,
         "low": 18,
         "name": "red_mushroom"
-    },
-    {
-        "ac": true,
-        "hi": 3000000,
-        "low": 2000000,
-        "name": "epic_turtle"
     },
     {
         "ac": true,
@@ -3793,12 +3745,6 @@
     },
     {
         "ac": true,
-        "hi": 1150000,
-        "low": 1000000,
-        "name": "epic_tiger_pet"
-    },
-    {
-        "ac": true,
         "hi": 6500000,
         "low": 5500000,
         "name": "blaze_minion_xi"
@@ -3814,12 +3760,6 @@
         "hi": 10,
         "low": 10,
         "name": "poisonous_potato"
-    },
-    {
-        "ac": true,
-        "hi": 20000000,
-        "low": 18500000,
-        "name": "legendary_blue_whale"
     },
     {
         "ac": true,
@@ -3841,12 +3781,6 @@
     },
     {
         "ac": true,
-        "hi": 1300000,
-        "low": 800000,
-        "name": "epic_guardian"
-    },
-    {
-        "ac": true,
         "hi": 100,
         "low": 100,
         "name": "prismarine_rod"
@@ -3856,12 +3790,6 @@
         "hi": 2000,
         "low": 1000,
         "name": "prismarine_bow"
-    },
-    {
-        "ac": true,
-        "hi": 50000,
-        "low": 30000,
-        "name": "combat_xp_boost_potion_i"
     },
     {
         "ac": true,
@@ -3925,12 +3853,6 @@
     },
     {
         "ac": true,
-        "hi": 1400000,
-        "low": 900000,
-        "name": "legendary_horse"
-    },
-    {
-        "ac": true,
         "hi": 20,
         "low": 15,
         "name": "flint"
@@ -3967,21 +3889,9 @@
     },
     {
         "ac": true,
-        "hi": 500,
-        "low": 500,
-        "name": "epic_magma_cube_pet"
-    },
-    {
-        "ac": true,
         "hi": 1,
         "low": 1,
         "name": "netherrack"
-    },
-    {
-        "ac": true,
-        "hi": 2300000,
-        "low": 2000000,
-        "name": "legendary_wither_skeleton"
     },
     {
         "ac": true,
@@ -4244,12 +4154,6 @@
     {
         "ac": true,
         "hi": 50000,
-        "low": 43000,
-        "name": "regeneration_viii"
-    },
-    {
-        "ac": true,
-        "hi": 50000,
         "low": 10000,
         "name": "saving_grace"
     },
@@ -4333,18 +4237,6 @@
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 2000000,
-        "name": "legendary_magma_cube"
-    },
-    {
-        "ac": true,
-        "hi": 700000,
-        "low": 500000,
-        "name": "epic_sheep"
-    },
-    {
-        "ac": true,
         "hi": 400,
         "low": 300,
         "name": "enchanted_prismarine_crystals"
@@ -4354,18 +4246,6 @@
         "hi": 500,
         "low": 400,
         "name": "enchanted_prismarine_shard"
-    },
-    {
-        "ac": true,
-        "hi": 1500000,
-        "low": 1000000,
-        "name": "epic_lion"
-    },
-    {
-        "ac": true,
-        "hi": 6000000,
-        "low": 4000000,
-        "name": "legendary_snowman"
     },
     {
         "ac": true,
@@ -4459,8 +4339,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 400000,
+        "hi": 450000,
+        "low": 430000,
         "name": "zombie's_heart"
     },
     {
@@ -4621,8 +4501,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 800000,
+        "hi": 2500000,
+        "low": 2000000,
         "name": "lvl_1_legendary_magma_cube"
     },
     {
@@ -4675,12 +4555,6 @@
     },
     {
         "ac": true,
-        "hi": 34000000,
-        "low": 30000000,
-        "name": "lvl"
-    },
-    {
-        "ac": true,
         "hi": 160000,
         "low": 65000,
         "name": "combat_xp_boost_iii_potion"
@@ -4702,5 +4576,113 @@
         "hi": 2400000,
         "low": 1800000,
         "name": "lvl_1_legendary_bat"
+    },
+    {
+        "ac": true,
+        "hi": 75000,
+        "low": 50000,
+        "name": "lvl_1_epic_flying_fish"
+    },
+    {
+        "ac": true,
+        "hi": 62000000,
+        "low": 60000000,
+        "name": "lvl_100_legendary_tiger"
+    },
+    {
+        "ac": true,
+        "hi": 16000000,
+        "low": 14000000,
+        "name": "lvl_1_legendary_giraffe"
+    },
+    {
+        "ac": true,
+        "hi": 350000,
+        "low": 200000,
+        "name": "lvl_1_epic_rabbit"
+    },
+    {
+        "ac": true,
+        "hi": 8000000,
+        "low": 6000000,
+        "name": "lvl_1_epic_blaze"
+    },
+    {
+        "ac": true,
+        "hi": 110000000,
+        "low": 90000000,
+        "name": "lvl_1_legendary_blaze"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 2000000,
+        "name": "lvl_1_epic_turtle"
+    },
+    {
+        "ac": true,
+        "hi": 1150000,
+        "low": 1000000,
+        "name": "lvl_1_epic_tiger"
+    },
+    {
+        "ac": true,
+        "hi": 20000000,
+        "low": 18500000,
+        "name": "lvl_1_legendary_blue_whale"
+    },
+    {
+        "ac": true,
+        "hi": 1300000,
+        "low": 800000,
+        "name": "lvl_1_epic_guardian"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 30000,
+        "name": "combat_xp_boost_1_potion"
+    },
+    {
+        "ac": true,
+        "hi": 1400000,
+        "low": 900000,
+        "name": "lvl_1_legendary_horse"
+    },
+    {
+        "ac": true,
+        "hi": 500,
+        "low": 500,
+        "name": "lvl_1_epic_magma_cube"
+    },
+    {
+        "ac": true,
+        "hi": 2300000,
+        "low": 2000000,
+        "name": "lvl_1_legendary_wither_skeleton"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 43000,
+        "name": "regeneration_viii_potion"
+    },
+    {
+        "ac": true,
+        "hi": 700000,
+        "low": 500000,
+        "name": "lvl_1_epic_sheep"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1000000,
+        "name": "lvl_1_epic_lion"
+    },
+    {
+        "ac": true,
+        "hi": 6000000,
+        "low": 4000000,
+        "name": "lvl_1_legendary_snowman"
     }
 ]
