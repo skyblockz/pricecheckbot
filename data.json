@@ -3433,12 +3433,6 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4500000,
-        "name": "legendary_flying_fish"
-    },
-    {
-        "ac": true,
         "hi": 26400,
         "low": 25500,
         "name": "enchanted_ink_sac"
@@ -3457,12 +3451,6 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 3000000,
-        "name": "legendary_sheep"
-    },
-    {
-        "ac": true,
         "hi": 6000,
         "low": 5000,
         "name": "gift_the_fish"
@@ -3478,12 +3466,6 @@
         "hi": 500,
         "low": 500,
         "name": "end_portal_frame"
-    },
-    {
-        "ac": true,
-        "hi": 2400000,
-        "low": 1800000,
-        "name": "legendary_bat"
     },
     {
         "ac": true,
@@ -3544,12 +3526,6 @@
         "hi": 27000,
         "low": 23000,
         "name": "end_stone_sword"
-    },
-    {
-        "ac": true,
-        "hi": 2500000,
-        "low": 1800000,
-        "name": "maxed_thick_tactician"
     },
     {
         "ac": true,
@@ -4708,5 +4684,23 @@
         "hi": 160000,
         "low": 65000,
         "name": "combat_xp_boost_iii_potion"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 4500000,
+        "name": "lvl_1_legendary_flying_fish"
+    },
+    {
+        "ac": true,
+        "hi": 6000000,
+        "low": 3000000,
+        "name": "lvl_1_legendary_sheep"
+    },
+    {
+        "ac": true,
+        "hi": 2400000,
+        "low": 1800000,
+        "name": "lvl_1_legendary_bat"
     }
 ]
