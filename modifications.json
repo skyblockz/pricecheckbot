@@ -41,6 +41,16 @@
                     70
                 ]
             },
+            "flower_minion_xi": {
+                "from": [
+                    1500000,
+                    2000000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
             "lvl_100_epic_ender_dragon": {
                 "from": null,
                 "to": [
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "325104094530502684": {
         "modification_history": {},
