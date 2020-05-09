@@ -133,7 +133,7 @@
     },
     {
         "ac": true,
-        "hi": 175000,
+        "hi": 130000,
         "low": 130000,
         "name": "raider_axe"
     },
@@ -601,26 +601,26 @@
     },
     {
         "ac": true,
-        "hi": 100,
-        "low": 1,
+        "hi": 80,
+        "low": 20,
         "name": "farm_suit_boots"
     },
     {
         "ac": true,
-        "hi": 100,
-        "low": 1,
+        "hi": 70,
+        "low": 35,
         "name": "farm_suit_leggings"
     },
     {
         "ac": true,
-        "hi": 100,
-        "low": 1,
+        "hi": 72,
+        "low": 40,
         "name": "farm_suit_chestplate"
     },
     {
         "ac": true,
-        "hi": 100,
-        "low": 1,
+        "hi": 45,
+        "low": 25,
         "name": "farm_suit_helmet"
     },
     {
@@ -1051,30 +1051,6 @@
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1000,
-        "name": "enchanted_acacia"
-    },
-    {
-        "ac": true,
-        "hi": 1500,
-        "low": 1300,
-        "name": "enchanted_birch"
-    },
-    {
-        "ac": true,
-        "hi": 2100,
-        "low": 1600,
-        "name": "enchanted_oak"
-    },
-    {
-        "ac": true,
-        "hi": 1000,
-        "low": 850,
-        "name": "enchanted_dark_oak"
-    },
-    {
-        "ac": true,
         "hi": 1450,
         "low": 1350,
         "name": "enchanted_jungle_wood"
@@ -1387,12 +1363,6 @@
     },
     {
         "ac": true,
-        "hi": 970000,
-        "low": 850000,
-        "name": "runaans_bow"
-    },
-    {
-        "ac": true,
         "hi": 20000,
         "low": 10000,
         "name": "ender_helmet"
@@ -1414,18 +1384,6 @@
         "hi": 15000,
         "low": 10000,
         "name": "ender_boots"
-    },
-    {
-        "ac": true,
-        "hi": 130000,
-        "low": 130000,
-        "name": "raiders_axe"
-    },
-    {
-        "ac": true,
-        "hi": 500000,
-        "low": 400000,
-        "name": "zombie_heart"
     },
     {
         "ac": true,
@@ -1474,30 +1432,6 @@
         "hi": 160,
         "low": 120,
         "name": "enchanted_ghast_tear"
-    },
-    {
-        "ac": true,
-        "hi": 80000,
-        "low": 60000,
-        "name": "fairy_polo"
-    },
-    {
-        "ac": true,
-        "hi": 20000,
-        "low": 10000,
-        "name": "fairy_fedora"
-    },
-    {
-        "ac": true,
-        "hi": 30000,
-        "low": 20000,
-        "name": "fairy_trousers"
-    },
-    {
-        "ac": true,
-        "hi": 60000,
-        "low": 50000,
-        "name": "fairy_galoshes"
     },
     {
         "ac": true,
@@ -2509,12 +2443,6 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 275000,
-        "name": "courture_rune_1"
-    },
-    {
-        "ac": true,
         "hi": 540000,
         "low": 524700,
         "name": "super_enchanted_egg"
@@ -2524,18 +2452,6 @@
         "hi": 3400,
         "low": 3000,
         "name": "enchanted_egg"
-    },
-    {
-        "ac": true,
-        "hi": 41000000,
-        "low": 35000000,
-        "name": "legendary_enderman"
-    },
-    {
-        "ac": true,
-        "hi": 375000,
-        "low": 250000,
-        "name": "epic_chicken"
     },
     {
         "ac": true,
@@ -3199,8 +3115,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 150000,
+        "hi": 350000,
+        "low": 275000,
         "name": "couture_rune_i"
     },
     {
@@ -4762,5 +4678,83 @@
         "hi": 7,
         "low": 3,
         "name": "ice"
+    },
+    {
+        "ac": true,
+        "hi": 1900,
+        "low": 1000,
+        "name": "enchanted_acacia_wood"
+    },
+    {
+        "ac": true,
+        "hi": 1500,
+        "low": 1300,
+        "name": "enchanted_birch_wood"
+    },
+    {
+        "ac": true,
+        "hi": 2100,
+        "low": 1600,
+        "name": "enchanted_oak_wood"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 850,
+        "name": "enchanted_dark_oak_wood"
+    },
+    {
+        "ac": true,
+        "hi": 500000,
+        "low": 400000,
+        "name": "zombie's_heart"
+    },
+    {
+        "ac": true,
+        "hi": 80000,
+        "low": 60000,
+        "name": "fairy's_polo"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 10000,
+        "name": "fairy's_fedora"
+    },
+    {
+        "ac": true,
+        "hi": 970000,
+        "low": 850000,
+        "name": "runaan's_bow"
+    },
+    {
+        "ac": true,
+        "hi": 30000,
+        "low": 20000,
+        "name": "fairy's_trousers"
+    },
+    {
+        "ac": true,
+        "hi": 60000,
+        "low": 50000,
+        "name": "fairy's_galoshes"
+    },
+    {
+        "ac": true,
+        "hi": 41000000,
+        "low": 35000000,
+        "name": "lvl_1_legendary_enderman"
+    },
+    {
+        "ac": true,
+        "hi": 375000,
+        "low": 250000,
+        "name": "lvl_1_epic_chicken"
+    },
+    {
+        "ac": true,
+        "hi": 40000,
+        "low": 40000,
+        "name": "winter_rod"
     }
 ]
