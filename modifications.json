@@ -691,6 +691,16 @@
                     2840
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     50000,
@@ -782,7 +792,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "466769036122783744": {
         "modification_history": {},
