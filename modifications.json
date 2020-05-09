@@ -65,6 +65,16 @@
                     90000000
                 ]
             },
+            "lvl_1_epic_enderman": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    400000,
+                    800000
+                ]
+            },
             "lvl_1_epic_squid": {
                 "from": [
                     8000000,
@@ -76,7 +86,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "325104094530502684": {
         "modification_history": {},
@@ -591,6 +601,16 @@
                     26500
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    85000,
+                    95000
+                ],
+                "to": [
+                    90200,
+                    93700
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     115000,
@@ -712,7 +732,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "466769036122783744": {
         "modification_history": {},
