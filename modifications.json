@@ -311,6 +311,16 @@
                     7800000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    10000000,
+                    14500000
+                ],
+                "to": [
+                    12700000,
+                    1500000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     116000,
@@ -642,7 +652,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "466769036122783744": {
         "modification_history": {},
