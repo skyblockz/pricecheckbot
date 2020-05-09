@@ -673,8 +673,8 @@
     },
     {
         "ac": true,
-        "hi": 117600,
-        "low": 116100,
+        "hi": 121700,
+        "low": 119000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -793,8 +793,8 @@
     },
     {
         "ac": true,
-        "hi": 131000,
-        "low": 117000,
+        "hi": 131100,
+        "low": 120500,
         "name": "enchanted_cookie"
     },
     {
@@ -865,8 +865,8 @@
     },
     {
         "ac": true,
-        "hi": 122000,
-        "low": 116200,
+        "hi": 147500,
+        "low": 140000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -1009,8 +1009,8 @@
     },
     {
         "ac": true,
-        "hi": 95000,
-        "low": 85000,
+        "hi": 93700,
+        "low": 90200,
         "name": "golden_tooth"
     },
     {
@@ -1345,7 +1345,7 @@
     },
     {
         "ac": true,
-        "hi": 2300000,
+        "hi": 2500000,
         "low": 1700000,
         "name": "devour_ring"
     },
@@ -1525,8 +1525,8 @@
     },
     {
         "ac": true,
-        "hi": 60000,
-        "low": 50000,
+        "hi": 57000,
+        "low": 55000,
         "name": "revenant_viscera"
     },
     {
@@ -1891,8 +1891,8 @@
     },
     {
         "ac": true,
-        "hi": 97000,
-        "low": 85000,
+        "hi": 100700,
+        "low": 95100,
         "name": "tarantula_silk"
     },
     {
@@ -3139,12 +3139,6 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 80000,
-        "name": "epic_enderman"
-    },
-    {
-        "ac": true,
         "hi": 1500000,
         "low": 1500000,
         "name": "slime_bow"
@@ -3160,12 +3154,6 @@
         "hi": 200,
         "low": 200,
         "name": "alchemy_xp_boost_iii_potion"
-    },
-    {
-        "ac": true,
-        "hi": 3500000,
-        "low": 3000000,
-        "name": "legendary_bee"
     },
     {
         "ac": true,
@@ -3223,18 +3211,6 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 400000,
-        "name": "epic_ocelot"
-    },
-    {
-        "ac": true,
-        "hi": 460000000,
-        "low": 410000000,
-        "name": "legendary_ender_dragon"
-    },
-    {
-        "ac": true,
         "hi": 61000,
         "low": 61000,
         "name": "armor_of_magma_chestplate"
@@ -3277,8 +3253,8 @@
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 1500000,
+        "hi": 10000000,
+        "low": 8000000,
         "name": "flower_minion_xi"
     },
     {
@@ -3325,33 +3301,9 @@
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 2000000,
-        "name": "legendary_silverfish"
-    },
-    {
-        "ac": true,
-        "hi": 500000,
-        "low": 200000,
-        "name": "epic_silverfish"
-    },
-    {
-        "ac": true,
-        "hi": 34000000,
-        "low": 30000000,
-        "name": "legendary_turtle"
-    },
-    {
-        "ac": true,
         "hi": 125000,
         "low": 75000,
         "name": "bane_of_anthropods_vi"
-    },
-    {
-        "ac": true,
-        "hi": 56000000,
-        "low": 50000000,
-        "name": "50_million_midas_sword"
     },
     {
         "ac": true,
@@ -4726,5 +4678,47 @@
         "hi": 20000000,
         "low": 18000000,
         "name": "lvl_100_legendary_wolf"
+    },
+    {
+        "ac": true,
+        "hi": 800000,
+        "low": 400000,
+        "name": "lvl_1_epic_enderman"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 3000000,
+        "name": "lvl_1_legendary_bee"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 400000,
+        "name": "lvl_1_epic_ocelot"
+    },
+    {
+        "ac": true,
+        "hi": 460000000,
+        "low": 410000000,
+        "name": "lvl_1_legendary_ender_dragon"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 2000000,
+        "name": "lvl_1_legendary_silverfish"
+    },
+    {
+        "ac": true,
+        "hi": 500000,
+        "low": 200000,
+        "name": "lvl_1_epic_silverfish"
+    },
+    {
+        "ac": true,
+        "hi": 34000000,
+        "low": 30000000,
+        "name": "lvl"
     }
 ]
