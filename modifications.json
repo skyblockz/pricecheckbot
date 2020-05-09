@@ -895,6 +895,13 @@
                     5000000
                 ]
             },
+            "lvl_1_legendary_skeleton": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2300000
+                ]
+            },
             "lvl_1_legendary_zombie": {
                 "from": null,
                 "to": [
@@ -986,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "608691509797322762": {
         "modification_history": {},
