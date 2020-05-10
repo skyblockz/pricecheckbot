@@ -1064,6 +1064,16 @@
                     140000
                 ]
             },
+            "bane_of_anthropods_vi": {
+                "from": [
+                    75000,
+                    125000
+                ],
+                "to": [
+                    10000,
+                    40000
+                ]
+            },
             "cactus_minion_xi": {
                 "from": null,
                 "to": [
@@ -1426,7 +1436,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "608691509797322762": {
         "modification_history": {},
