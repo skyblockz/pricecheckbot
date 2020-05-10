@@ -1013,6 +1013,16 @@
                     600000
                 ]
             },
+            "giant_killer_vi": {
+                "from": [
+                    7200000,
+                    8100000
+                ],
+                "to": [
+                    8000000,
+                    10500000
+                ]
+            },
             "great_carrot_candy": {
                 "from": null,
                 "to": [
@@ -1260,7 +1270,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "608691509797322762": {
         "modification_history": {},
