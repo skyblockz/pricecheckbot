@@ -565,8 +565,8 @@
     },
     {
         "ac": true,
-        "hi": 730,
-        "low": 500,
+        "hi": 900,
+        "low": 700,
         "name": "enchanted_ice"
     },
     {
@@ -1015,8 +1015,8 @@
     },
     {
         "ac": true,
-        "hi": 6800000,
-        "low": 6000000,
+        "hi": 5800000,
+        "low": 5000000,
         "name": "pooch_sword"
     },
     {
@@ -2479,8 +2479,8 @@
     },
     {
         "ac": true,
-        "hi": 28000,
-        "low": 27000,
+        "hi": 100000,
+        "low": 60000,
         "name": "hunk_of_blue_ice"
     },
     {
@@ -4465,8 +4465,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 5750000,
+        "hi": 16000000,
+        "low": 14000000,
         "name": "lvl_100_legendary_guardian"
     },
     {
@@ -4870,5 +4870,11 @@
         "hi": 40000,
         "low": 35000,
         "name": "combat_xp_boost_iii"
+    },
+    {
+        "ac": true,
+        "hi": 4000000,
+        "low": 1500000,
+        "name": "lvl_1_legendary_guardian"
     }
 ]
