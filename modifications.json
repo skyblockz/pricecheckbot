@@ -1038,6 +1038,10 @@
         },
         "total_mods": 1
     },
+    "512512858685177856": {
+        "modification_history": {},
+        "total_mods": 0
+    },
     "523019950072266764": {
         "modification_history": {
             "aspect_of_the_dragons": {
@@ -1096,6 +1100,16 @@
                 "to": [
                     50000,
                     100000
+                ]
+            },
+            "hurricane_bow": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    20000,
+                    40000
                 ]
             },
             "ice": {
@@ -1392,7 +1406,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "608691509797322762": {
         "modification_history": {},
