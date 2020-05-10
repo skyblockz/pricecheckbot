@@ -1020,6 +1020,16 @@
                     7
                 ]
             },
+            "lvl_100_legendary_pigman": {
+                "from": [
+                    8000000,
+                    10000000
+                ],
+                "to": [
+                    1800000,
+                    2200000
+                ]
+            },
             "lvl_1_epic_endermite": {
                 "from": null,
                 "to": [
@@ -1180,7 +1190,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "608691509797322762": {
         "modification_history": {},
