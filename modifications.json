@@ -1006,6 +1006,13 @@
                     9000000
                 ]
             },
+            "exp_share_core": {
+                "from": null,
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "great_carrot_candy": {
                 "from": null,
                 "to": [
@@ -1225,7 +1232,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "608691509797322762": {
         "modification_history": {},
