@@ -1058,6 +1058,13 @@
                     5000000
                 ]
             },
+            "lvl_1_legendary_pigman": {
+                "from": null,
+                "to": [
+                    5000000,
+                    7500000
+                ]
+            },
             "lvl_1_legendary_skeleton": {
                 "from": null,
                 "to": [
@@ -1190,7 +1197,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "608691509797322762": {
         "modification_history": {},
