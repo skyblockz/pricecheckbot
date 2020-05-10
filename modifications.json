@@ -181,6 +181,16 @@
                     900
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    48000,
+                    53000
+                ],
+                "to": [
+                    50000,
+                    55000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     480000,
@@ -292,7 +302,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "344617760879542273": {
         "modification_history": {
