@@ -1006,6 +1006,13 @@
                     9000000
                 ]
             },
+            "combat_xp_boost_iii": {
+                "from": null,
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
             "exp_share_core": {
                 "from": null,
                 "to": [
@@ -1277,7 +1284,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "608691509797322762": {
         "modification_history": {},
