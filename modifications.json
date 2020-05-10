@@ -1027,6 +1027,13 @@
                     7
                 ]
             },
+            "legendary_zombie_pet": {
+                "from": null,
+                "to": [
+                    12000000,
+                    16000000
+                ]
+            },
             "lucky_clover": {
                 "from": null,
                 "to": [
@@ -1253,7 +1260,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "608691509797322762": {
         "modification_history": {},
