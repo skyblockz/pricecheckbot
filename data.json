@@ -1195,8 +1195,8 @@
     },
     {
         "ac": true,
-        "hi": 8100000,
-        "low": 7200000,
+        "hi": 10500000,
+        "low": 8000000,
         "name": "giant_killer_vi"
     },
     {
@@ -4858,5 +4858,11 @@
         "hi": 16000000,
         "low": 12000000,
         "name": "legendary_zombie_pet"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 2500000,
+        "name": "lvl_1_epic_rock"
     }
 ]
