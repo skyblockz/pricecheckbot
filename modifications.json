@@ -1027,6 +1027,13 @@
                     2700000
                 ]
             },
+            "lvl_1_epic_golem": {
+                "from": null,
+                "to": [
+                    8000000,
+                    9000000
+                ]
+            },
             "lvl_1_epic_skeleton": {
                 "from": null,
                 "to": [
@@ -1166,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "608691509797322762": {
         "modification_history": {},
