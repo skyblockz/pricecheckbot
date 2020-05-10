@@ -4453,8 +4453,8 @@
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8000000,
+        "hi": 2200000,
+        "low": 1800000,
         "name": "lvl_100_legendary_pigman"
     },
     {
@@ -4798,5 +4798,11 @@
         "hi": 4500000,
         "low": 3000000,
         "name": "lvl_1_legendary_wolf"
+    },
+    {
+        "ac": true,
+        "hi": 7500000,
+        "low": 5000000,
+        "name": "lvl_1_legendary_pigman"
     }
 ]
