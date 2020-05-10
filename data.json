@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 560000,
-        "low": 540000,
+        "hi": 510000,
+        "low": 490000,
         "name": "summoning_eye"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 480000,
+        "hi": 725000,
+        "low": 575000,
         "name": "experience_artifact"
     },
     {
@@ -1261,8 +1261,8 @@
     },
     {
         "ac": true,
-        "hi": 16500000,
-        "low": 14000000,
+        "hi": 20000000,
+        "low": 16500000,
         "name": "wither_artifact"
     },
     {
@@ -1309,8 +1309,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2500000,
+        "hi": 4000000,
+        "low": 3000000,
         "name": "vampire_mask"
     },
     {
@@ -1459,8 +1459,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 200000,
+        "hi": 300000,
+        "low": 150000,
         "name": "unstable_dragon_chestplate"
     },
     {
@@ -2132,7 +2132,7 @@
     {
         "ac": true,
         "hi": 150000,
-        "low": 140000,
+        "low": 125000,
         "name": "spider_ring"
     },
     {
@@ -4774,5 +4774,11 @@
         "hi": 500000000,
         "low": 400000000,
         "name": "lvl_100_legendary_ender_dragon"
+    },
+    {
+        "ac": true,
+        "hi": 2000000,
+        "low": 1500000,
+        "name": "nether_wart_minion_xi"
     }
 ]
