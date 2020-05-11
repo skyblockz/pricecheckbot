@@ -1178,6 +1178,16 @@
                     250000
                 ]
             },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    650,
+                    750
+                ],
+                "to": [
+                    620,
+                    670
+                ]
+            },
             "exp_share_core": {
                 "from": null,
                 "to": [
@@ -1543,7 +1553,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "608691509797322762": {
         "modification_history": {},
