@@ -1496,6 +1496,16 @@
                     25000000
                 ]
             },
+            "lvl_1_epic_magma_cube": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "lvl_1_epic_rock": {
                 "from": null,
                 "to": [
@@ -1772,7 +1782,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "608691509797322762": {
         "modification_history": {},
