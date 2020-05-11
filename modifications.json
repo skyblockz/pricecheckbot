@@ -241,6 +241,16 @@
                     375000
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    1000,
+                    7500
+                ]
+            },
             "spider_ring": {
                 "from": [
                     140000,
@@ -312,7 +322,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "344617760879542273": {
         "modification_history": {
