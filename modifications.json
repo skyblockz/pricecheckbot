@@ -1529,6 +1529,16 @@
                     500000000
                 ]
             },
+            "lvl_1_epic_ender_dragon": {
+                "from": [
+                    80000000,
+                    90000000
+                ],
+                "to": [
+                    60000000,
+                    80000000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     575000,
@@ -1591,7 +1601,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "664325814531391528": {
         "modification_history": {},
