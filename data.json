@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 3000000,
+        "hi": 2990000,
+        "low": 2400000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
         "ac": true,
-        "hi": 7000,
-        "low": 7000,
+        "hi": 4500,
+        "low": 3500,
         "name": "grand_experience_bottle"
     },
     {
@@ -187,8 +187,8 @@
     },
     {
         "ac": true,
-        "hi": 429800,
-        "low": 412400,
+        "hi": 432700,
+        "low": 411900,
         "name": "enchanted_lava_bucket"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
         "ac": true,
-        "hi": 750,
-        "low": 650,
+        "hi": 670,
+        "low": 620,
         "name": "enchanted_lapis_lazuli"
     },
     {
@@ -416,7 +416,7 @@
     {
         "ac": true,
         "hi": 340000,
-        "low": 270000,
+        "low": 150000,
         "name": "titanic_experience_bottle"
     },
     {
@@ -865,8 +865,8 @@
     },
     {
         "ac": true,
-        "hi": 147500,
-        "low": 140000,
+        "hi": 174300,
+        "low": 171400,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -913,8 +913,8 @@
     },
     {
         "ac": true,
-        "hi": 2300,
-        "low": 2000,
+        "hi": 2170,
+        "low": 2050,
         "name": "enchanted_pork"
     },
     {
@@ -961,14 +961,14 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 1000,
+        "hi": 2000,
+        "low": 500,
         "name": "potion_affinity_talisman"
     },
     {
         "ac": true,
-        "hi": 2100,
-        "low": 1900,
+        "hi": 2200,
+        "low": 2000,
         "name": "enchanted_nether_wart"
     },
     {
@@ -1082,7 +1082,7 @@
     {
         "ac": true,
         "hi": 9000000,
-        "low": 8000000,
+        "low": 8200000,
         "name": "superior_dragon_boots"
     },
     {
@@ -1471,8 +1471,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2300,
+        "hi": 3550,
+        "low": 3300,
         "name": "white_gift"
     },
     {
@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 630000,
+        "hi": 594000,
+        "low": 561700,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2431,8 +2431,8 @@
     },
     {
         "ac": true,
-        "hi": 4000,
-        "low": 3900,
+        "hi": 3620,
+        "low": 3420,
         "name": "enchanted_blaze_powder"
     },
     {
@@ -2449,8 +2449,8 @@
     },
     {
         "ac": true,
-        "hi": 3400,
-        "low": 3000,
+        "hi": 3950,
+        "low": 3700,
         "name": "enchanted_egg"
     },
     {
@@ -2719,8 +2719,8 @@
     },
     {
         "ac": true,
-        "hi": 3500,
-        "low": 3000,
+        "hi": 2680,
+        "low": 2590,
         "name": "enchanted_bone"
     },
     {
@@ -4882,5 +4882,11 @@
         "hi": 17000000,
         "low": 15000000,
         "name": "lvl_1_legendary_black_cat"
+    },
+    {
+        "ac": true,
+        "hi": 700000,
+        "low": 600000,
+        "name": "exp_share"
     }
 ]
