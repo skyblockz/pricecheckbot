@@ -1302,6 +1302,13 @@
                     10500000
                 ]
             },
+            "gold_ingot": {
+                "from": null,
+                "to": [
+                    6,
+                    10
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     7000,
@@ -1674,7 +1681,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "608691509797322762": {
         "modification_history": {},
