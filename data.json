@@ -67,8 +67,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 80000,
+        "hi": 140000,
+        "low": 90000,
         "name": "aspect_of_the_end"
     },
     {
@@ -199,26 +199,26 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 25000,
+        "hi": 7500,
+        "low": 1000,
         "name": "snow_suit_chestplate"
     },
     {
         "ac": true,
-        "hi": 45000,
-        "low": 25000,
+        "hi": 7500,
+        "low": 1000,
         "name": "snow_suit_boots"
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 25000,
+        "hi": 7500,
+        "low": 1000,
         "name": "snow_suit_helmet"
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 25000,
+        "hi": 7500,
+        "low": 1000,
         "name": "snow_suit_leggings"
     },
     {
@@ -254,7 +254,7 @@
     {
         "ac": true,
         "hi": 400000,
-        "low": 375000,
+        "low": 340000,
         "name": "super_compactor_3000"
     },
     {
@@ -559,8 +559,8 @@
     },
     {
         "ac": true,
-        "hi": 3150,
-        "low": 2950,
+        "hi": 2900,
+        "low": 2600,
         "name": "enchanted_flint"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 15000000,
+        "hi": 18000000,
+        "low": 15700000,
         "name": "superior_dragon_chestplate"
     },
     {
@@ -1087,13 +1087,13 @@
     },
     {
         "ac": true,
-        "hi": 15000000,
-        "low": 13000000,
+        "hi": 17000000,
+        "low": 14300000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 11500000,
+        "hi": 12300000,
         "low": 10500000,
         "name": "superior_dragon_helmet"
     },
@@ -1135,8 +1135,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 200000,
+        "hi": 40000,
+        "low": 20000,
         "name": "hurricane_bow"
     },
     {
@@ -1189,8 +1189,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 500000,
+        "hi": 600000,
+        "low": 450000,
         "name": "tarantula_helmet"
     },
     {
@@ -1321,8 +1321,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 300000,
+        "hi": 250000,
+        "low": 150000,
         "name": "critical_vi"
     },
     {
@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 53000,
-        "low": 48000,
+        "hi": 55000,
+        "low": 50000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -1423,8 +1423,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 100000,
+        "hi": 40000,
+        "low": 10000,
         "name": "smite_vi"
     },
     {
@@ -3301,8 +3301,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 75000,
+        "hi": 40000,
+        "low": 10000,
         "name": "bane_of_anthropods_vi"
     },
     {
@@ -3367,8 +3367,8 @@
     },
     {
         "ac": true,
-        "hi": 7500000,
-        "low": 5500000,
+        "hi": 8000000,
+        "low": 6500000,
         "name": "flower_minion_i"
     },
     {
@@ -3475,8 +3475,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 65000,
+        "hi": 50000,
+        "low": 20000,
         "name": "intimidation_ring"
     },
     {
@@ -4429,8 +4429,8 @@
     },
     {
         "ac": true,
-        "hi": 90000000,
-        "low": 80000000,
+        "hi": 80000000,
+        "low": 60000000,
         "name": "lvl_1_epic_ender_dragon"
     },
     {
@@ -4876,5 +4876,11 @@
         "hi": 4000000,
         "low": 1500000,
         "name": "lvl_1_legendary_guardian"
+    },
+    {
+        "ac": true,
+        "hi": 17000000,
+        "low": 15000000,
+        "name": "lvl_1_legendary_black_cat"
     }
 ]
