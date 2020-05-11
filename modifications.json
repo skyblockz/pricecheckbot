@@ -1215,6 +1215,16 @@
                     10500000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    7000,
+                    7000
+                ],
+                "to": [
+                    3500,
+                    4500
+                ]
+            },
             "great_carrot_candy": {
                 "from": null,
                 "to": [
@@ -1553,7 +1563,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "608691509797322762": {
         "modification_history": {},
