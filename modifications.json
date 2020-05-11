@@ -1265,6 +1265,16 @@
                     250000
                 ]
             },
+            "ember_fragment": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    250,
+                    250
+                ]
+            },
             "enchanted_lapis_lazuli": {
                 "from": [
                     650,
@@ -1698,7 +1708,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "608691509797322762": {
         "modification_history": {},
