@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 5900,
-        "low": 5500,
+        "hi": 12500,
+        "low": 11000,
         "name": "purple_candy"
     },
     {
@@ -4900,5 +4900,11 @@
         "hi": 1200000,
         "low": 800000,
         "name": "lvl_1_legendary_pig"
+    },
+    {
+        "ac": true,
+        "hi": 10,
+        "low": 6,
+        "name": "gold_ingot"
     }
 ]
