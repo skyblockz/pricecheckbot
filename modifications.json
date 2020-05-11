@@ -1268,6 +1268,13 @@
                     670
                 ]
             },
+            "exp_share": {
+                "from": null,
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "exp_share_core": {
                 "from": null,
                 "to": [
@@ -1643,7 +1650,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "608691509797322762": {
         "modification_history": {},
