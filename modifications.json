@@ -1558,6 +1558,16 @@
                     4300000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    55000,
+                    57000
+                ],
+                "to": [
+                    51000,
+                    55000
+                ]
+            },
             "simple_carrot_candy": {
                 "from": null,
                 "to": [
@@ -1688,7 +1698,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "608691509797322762": {
         "modification_history": {},
