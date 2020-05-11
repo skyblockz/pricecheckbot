@@ -661,8 +661,8 @@
     },
     {
         "ac": true,
-        "hi": 1000,
-        "low": 1000,
+        "hi": 300,
+        "low": 10,
         "name": "vaccine_talisman"
     },
     {
@@ -877,8 +877,8 @@
     },
     {
         "ac": true,
-        "hi": 80000,
-        "low": 50000,
+        "hi": 60000,
+        "low": 25000,
         "name": "feather_artifact"
     },
     {
@@ -1915,8 +1915,8 @@
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 9500,
+        "hi": 10000,
+        "low": 5000,
         "name": "lava_talisman"
     },
     {
@@ -2191,8 +2191,8 @@
     },
     {
         "ac": true,
-        "hi": 8000,
-        "low": 6000,
+        "hi": 4000,
+        "low": 1000,
         "name": "teleport_pad"
     },
     {
@@ -4645,8 +4645,8 @@
     },
     {
         "ac": true,
-        "hi": 500,
-        "low": 500,
+        "hi": 10000,
+        "low": 10000,
         "name": "lvl_1_epic_magma_cube"
     },
     {
@@ -4924,5 +4924,11 @@
         "hi": 1000,
         "low": 1000,
         "name": "ember_boots"
+    },
+    {
+        "ac": true,
+        "hi": 4000000,
+        "low": 3000000,
+        "name": "lvl_1_epic_hound"
     }
 ]
