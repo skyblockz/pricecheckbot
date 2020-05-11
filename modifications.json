@@ -351,6 +351,16 @@
                     600000
                 ]
             },
+            "teleport_pad": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    1000,
+                    4000
+                ]
+            },
             "unstable_dragon_chestplate": {
                 "from": [
                     200000,
@@ -382,7 +392,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "344617760879542273": {
         "modification_history": {
