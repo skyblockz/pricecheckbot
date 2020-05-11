@@ -1525,8 +1525,8 @@
     },
     {
         "ac": true,
-        "hi": 57000,
-        "low": 55000,
+        "hi": 55000,
+        "low": 51000,
         "name": "revenant_viscera"
     },
     {
@@ -2455,8 +2455,8 @@
     },
     {
         "ac": true,
-        "hi": 500,
-        "low": 500,
+        "hi": 250,
+        "low": 250,
         "name": "ember_fragment"
     },
     {
@@ -4912,5 +4912,11 @@
         "hi": 3500000,
         "low": 2500000,
         "name": "campfire_god_badge"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 1000,
+        "name": "ember_helmet"
     }
 ]
