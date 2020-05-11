@@ -1457,6 +1457,13 @@
                     4000000
                 ]
             },
+            "lvl_1_legendary_pig": {
+                "from": null,
+                "to": [
+                    800000,
+                    1200000
+                ]
+            },
             "lvl_1_legendary_pigman": {
                 "from": null,
                 "to": [
@@ -1657,7 +1664,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "608691509797322762": {
         "modification_history": {},
