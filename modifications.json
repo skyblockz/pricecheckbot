@@ -1844,10 +1844,13 @@
                 ]
             },
             "lvl_1_legendary_black_cat": {
-                "from": null,
-                "to": [
+                "from": [
                     15000000,
                     17000000
+                ],
+                "to": [
+                    22000000,
+                    25000000
                 ]
             },
             "lvl_1_legendary_endermite": {
@@ -2128,7 +2131,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "608691509797322762": {
         "modification_history": {},
