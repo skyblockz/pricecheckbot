@@ -1860,6 +1860,13 @@
                     5000000
                 ]
             },
+            "lvl_1_legendary_ghoul": {
+                "from": null,
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
             "lvl_1_legendary_golem": {
                 "from": null,
                 "to": [
@@ -2141,7 +2148,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "608691509797322762": {
         "modification_history": {},
