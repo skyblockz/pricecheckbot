@@ -292,6 +292,13 @@
                     50000
                 ]
             },
+            "lapis_armor_helmet": {
+                "from": null,
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "lava_talisman": {
                 "from": [
                     9500,
@@ -473,7 +480,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "344617760879542273": {
         "modification_history": {
