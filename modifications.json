@@ -1845,6 +1845,16 @@
                     900000
                 ]
             },
+            "vampirism_vi": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    4000000,
+                    6000000
+                ]
+            },
             "venomous_v": {
                 "from": null,
                 "to": [
@@ -1877,7 +1887,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "608691509797322762": {
         "modification_history": {},
