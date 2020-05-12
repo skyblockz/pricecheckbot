@@ -2,7 +2,7 @@
     {
         "ac": true,
         "hi": 570000,
-        "low": 540000,
+        "low": 500000,
         "name": "summoning_eye"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 2990000,
-        "low": 2400000,
+        "hi": 3000000,
+        "low": 2500000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 5500,
-        "low": 4900,
+        "hi": 5400,
+        "low": 5300,
         "name": "enchanted_obsidian"
     },
     {
@@ -781,8 +781,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2000,
+        "hi": 24000,
+        "low": 21000,
         "name": "enchanted_red_mushroom_block"
     },
     {
@@ -955,8 +955,8 @@
     },
     {
         "ac": true,
-        "hi": 11500,
-        "low": 9000,
+        "hi": 12000,
+        "low": 10000,
         "name": "enchanted_rabbit_hide"
     },
     {
@@ -1081,20 +1081,20 @@
     },
     {
         "ac": true,
-        "hi": 9000000,
-        "low": 8200000,
+        "hi": 12000000,
+        "low": 11500000,
         "name": "superior_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 14300000,
+        "hi": 18000000,
+        "low": 17500000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 12300000,
-        "low": 10500000,
+        "hi": 13000000,
+        "low": 12500000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -1357,8 +1357,8 @@
     },
     {
         "ac": true,
-        "hi": 55000,
-        "low": 50000,
+        "hi": 60000,
+        "low": 60000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -1724,7 +1724,7 @@
     {
         "ac": true,
         "hi": 15000000,
-        "low": 13500000,
+        "low": 14500000,
         "name": "digested_mosquito"
     },
     {
@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 594000,
-        "low": 561700,
+        "hi": 650000,
+        "low": 610000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2635,8 +2635,8 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1700,
+        "hi": 3500,
+        "low": 3400,
         "name": "enchanted_endstone"
     },
     {
@@ -2719,8 +2719,8 @@
     },
     {
         "ac": true,
-        "hi": 2680,
-        "low": 2590,
+        "hi": 2800,
+        "low": 2700,
         "name": "enchanted_bone"
     },
     {
@@ -3529,7 +3529,7 @@
     },
     {
         "ac": true,
-        "hi": 3500,
+        "hi": 3300,
         "low": 3000,
         "name": "enchanted_clownfish"
     },
@@ -4936,5 +4936,11 @@
         "hi": 700,
         "low": 600,
         "name": "diamond_minion_i"
+    },
+    {
+        "ac": true,
+        "hi": 16,
+        "low": 14,
+        "name": "rabbit_hide"
     }
 ]
