@@ -223,14 +223,14 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 200000,
+        "hi": 200000,
+        "low": 100000,
         "name": "wise_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 200000,
+        "hi": 200000,
+        "low": 100000,
         "name": "wise_dragon_chestplate"
     },
     {
@@ -241,8 +241,8 @@
     },
     {
         "ac": true,
-        "hi": 230000,
-        "low": 175000,
+        "hi": 250000,
+        "low": 150000,
         "name": "wise_dragon_helmet"
     },
     {
@@ -1333,8 +1333,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 50000,
+        "hi": 4000,
+        "low": 500,
         "name": "spider_catalyst"
     },
     {
@@ -2449,8 +2449,8 @@
     },
     {
         "ac": true,
-        "hi": 3950,
-        "low": 3700,
+        "hi": 3300,
+        "low": 500,
         "name": "enchanted_egg"
     },
     {
@@ -4813,8 +4813,8 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 2500000,
+        "hi": 2300000,
+        "low": 2000000,
         "name": "lucky_clover_core"
     },
     {
@@ -4849,8 +4849,8 @@
     },
     {
         "ac": true,
-        "hi": 3200000,
-        "low": 3000000,
+        "hi": 2800000,
+        "low": 2400000,
         "name": "lucky_clover"
     },
     {
@@ -4873,8 +4873,8 @@
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 15000000,
+        "hi": 25000000,
+        "low": 22000000,
         "name": "lvl_1_legendary_black_cat"
     },
     {
@@ -4972,5 +4972,11 @@
         "hi": 2000,
         "low": 200,
         "name": "lapis_armor_boots"
+    },
+    {
+        "ac": true,
+        "hi": 12000000,
+        "low": 10000000,
+        "name": "lvl_1_legendary_ghoul"
     }
 ]
