@@ -2461,8 +2461,8 @@
     },
     {
         "ac": true,
-        "hi": 100,
-        "low": 100,
+        "hi": 3000,
+        "low": 500,
         "name": "lapis_armor_chestplate"
     },
     {
@@ -4966,5 +4966,11 @@
         "hi": 2000,
         "low": 500,
         "name": "lapis_armor_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 200,
+        "name": "lapis_armor_boots"
     }
 ]
