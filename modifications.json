@@ -2040,6 +2040,13 @@
                     80000000
                 ]
             },
+            "rabbit_hide": {
+                "from": null,
+                "to": [
+                    14,
+                    16
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     575000,
@@ -2102,7 +2109,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "664325814531391528": {
         "modification_history": {},
