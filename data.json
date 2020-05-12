@@ -949,8 +949,8 @@
     },
     {
         "ac": true,
-        "hi": 8000,
-        "low": 6000,
+        "hi": 5500,
+        "low": 5000,
         "name": "enchanted_rabbit_foot"
     },
     {
@@ -4948,5 +4948,11 @@
         "hi": 29,
         "low": 27,
         "name": "rabbit_foot"
+    },
+    {
+        "ac": true,
+        "hi": 12000000,
+        "low": 10000000,
+        "name": "lvl_1_epic_dolphin_pet"
     }
 ]
