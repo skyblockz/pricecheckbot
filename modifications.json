@@ -343,6 +343,16 @@
                     375000
                 ]
             },
+            "lucky_clover": {
+                "from": [
+                    3000000,
+                    3200000
+                ],
+                "to": [
+                    2400000,
+                    2800000
+                ]
+            },
             "potion_affinity_talisman": {
                 "from": [
                     1000,
@@ -504,7 +514,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "344617760879542273": {
         "modification_history": {
