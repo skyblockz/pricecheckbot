@@ -2005,6 +2005,16 @@
                     40000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    500,
+                    4000
+                ]
+            },
             "sugar_rush_iii": {
                 "from": [
                     750000,
@@ -2131,7 +2141,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "608691509797322762": {
         "modification_history": {},
