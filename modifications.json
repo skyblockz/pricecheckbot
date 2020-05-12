@@ -202,6 +202,16 @@
                     400000
                 ]
             },
+            "compactor": {
+                "from": [
+                    3000,
+                    6000
+                ],
+                "to": [
+                    500,
+                    2000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2950,
@@ -463,7 +473,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "344617760879542273": {
         "modification_history": {
