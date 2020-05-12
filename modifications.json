@@ -477,6 +477,16 @@
                     15000000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    10800000,
+                    12000000
+                ],
+                "to": [
+                    14000000,
+                    15000000
+                ]
+            },
             "grappling_hook": {
                 "from": [
                     10000,
@@ -538,7 +548,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "366232910334001152": {
         "modification_history": {
