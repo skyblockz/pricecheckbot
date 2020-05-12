@@ -1506,6 +1506,16 @@
                     2200000
                 ]
             },
+            "lvl_1_epic_enderman": {
+                "from": [
+                    400000,
+                    800000
+                ],
+                "to": [
+                    20000,
+                    100000
+                ]
+            },
             "lvl_1_epic_endermite": {
                 "from": null,
                 "to": [
@@ -1830,7 +1840,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "608691509797322762": {
         "modification_history": {},
