@@ -182,6 +182,16 @@
                     200000
                 ]
             },
+            "budget_hopper": {
+                "from": [
+                    1500,
+                    10000
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     250000,
@@ -453,7 +463,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "344617760879542273": {
         "modification_history": {
