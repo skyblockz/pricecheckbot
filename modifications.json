@@ -212,6 +212,16 @@
                     2000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    3700,
+                    3950
+                ],
+                "to": [
+                    500,
+                    3300
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2950,
@@ -554,7 +564,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "344617760879542273": {
         "modification_history": {
