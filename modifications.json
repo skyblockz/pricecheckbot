@@ -119,6 +119,16 @@
                     3000000
                 ]
             },
+            "lvl_1_legendary_blaze": {
+                "from": [
+                    90000000,
+                    110000000
+                ],
+                "to": [
+                    75000000,
+                    90000000
+                ]
+            },
             "lvl_1_legendary_turtle": {
                 "from": null,
                 "to": [
@@ -144,7 +154,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "325104094530502684": {
         "modification_history": {},
