@@ -111,12 +111,12 @@
             },
             "lvl_1_epic_squid": {
                 "from": [
-                    8000000,
-                    8500000
-                ],
-                "to": [
                     1000000,
                     1500000
+                ],
+                "to": [
+                    2000000,
+                    3000000
                 ]
             },
             "lvl_1_legendary_turtle": {
@@ -144,7 +144,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "325104094530502684": {
         "modification_history": {},
