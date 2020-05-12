@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 340000,
+        "hi": 425000,
+        "low": 370000,
         "name": "super_compactor_3000"
     },
     {
@@ -265,8 +265,8 @@
     },
     {
         "ac": true,
-        "hi": 6000,
-        "low": 3000,
+        "hi": 2000,
+        "low": 500,
         "name": "compactor"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
         "ac": true,
-        "hi": 10000,
-        "low": 1500,
+        "hi": 5000,
+        "low": 1000,
         "name": "budget_hopper"
     },
     {
@@ -1081,8 +1081,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 11500000,
+        "hi": 11000000,
+        "low": 9000000,
         "name": "superior_dragon_boots"
     },
     {
@@ -4795,8 +4795,8 @@
     },
     {
         "ac": true,
-        "hi": 4500000,
-        "low": 3000000,
+        "hi": 3500000,
+        "low": 2000000,
         "name": "lvl_1_legendary_wolf"
     },
     {
@@ -4954,5 +4954,11 @@
         "hi": 12000000,
         "low": 10000000,
         "name": "lvl_1_epic_dolphin_pet"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "lapis_armor_helmet"
     }
 ]
