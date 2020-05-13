@@ -972,6 +972,16 @@
                     11500000
                 ]
             },
+            "tarantula_talisman": {
+                "from": [
+                    4500000,
+                    5500000
+                ],
+                "to": [
+                    5500000,
+                    6000000
+                ]
+            },
             "wood_singularity": {
                 "from": [
                     4000000,
@@ -983,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "390661701046894592": {
         "modification_history": {},
