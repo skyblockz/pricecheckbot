@@ -109,6 +109,16 @@
                     800000
                 ]
             },
+            "lvl_1_epic_endermite": {
+                "from": [
+                    2000000,
+                    2700000
+                ],
+                "to": [
+                    1000000,
+                    1450000
+                ]
+            },
             "lvl_1_epic_squid": {
                 "from": [
                     1000000,
@@ -154,7 +164,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "325104094530502684": {
         "modification_history": {},
