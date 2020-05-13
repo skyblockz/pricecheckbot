@@ -55,14 +55,14 @@
     },
     {
         "ac": true,
-        "hi": 17000,
-        "low": 16000,
+        "hi": 19800,
+        "low": 17200,
         "name": "strong_dragon_fragment"
     },
     {
         "ac": true,
-        "hi": 240000,
-        "low": 230000,
+        "hi": 250000,
+        "low": 240000,
         "name": "superior_dragon_fragment"
     },
     {
@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 425000,
-        "low": 370000,
+        "hi": 440000,
+        "low": 430000,
         "name": "super_compactor_3000"
     },
     {
@@ -265,8 +265,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 500,
+        "hi": 7000,
+        "low": 5000,
         "name": "compactor"
     },
     {
@@ -385,8 +385,8 @@
     },
     {
         "ac": true,
-        "hi": 217900,
-        "low": 210000,
+        "hi": 235000,
+        "low": 223000,
         "name": "enchanted_diamond_block"
     },
     {
@@ -1267,8 +1267,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2000000,
+        "hi": 4000000,
+        "low": 3000000,
         "name": "vampirism_vi"
     },
     {
@@ -1291,8 +1291,8 @@
     },
     {
         "ac": true,
-        "hi": 5500000,
-        "low": 4500000,
+        "hi": 6500000,
+        "low": 5500000,
         "name": "tarantula_talisman"
     },
     {
@@ -1417,8 +1417,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2770,
+        "hi": 2900,
+        "low": 2550,
         "name": "old_dragon_fragment"
     },
     {
@@ -1465,8 +1465,8 @@
     },
     {
         "ac": true,
-        "hi": 7600,
-        "low": 7000,
+        "hi": 7200,
+        "low": 6500,
         "name": "unstable_dragon_fragment"
     },
     {
@@ -1513,8 +1513,8 @@
     },
     {
         "ac": true,
-        "hi": 5000,
-        "low": 4000,
+        "hi": 5100,
+        "low": 4400,
         "name": "wise_dragon_fragment"
     },
     {
@@ -1537,14 +1537,14 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 6000000,
+        "hi": 9000000,
+        "low": 7500000,
         "name": "growth_vi"
     },
     {
         "ac": true,
-        "hi": 1900,
-        "low": 1800,
+        "hi": 2300,
+        "low": 2000,
         "name": "enchanted_rotten_flesh"
     },
     {
@@ -1891,8 +1891,8 @@
     },
     {
         "ac": true,
-        "hi": 100700,
-        "low": 95100,
+        "hi": 115000,
+        "low": 105000,
         "name": "tarantula_silk"
     },
     {
@@ -1963,8 +1963,8 @@
     },
     {
         "ac": true,
-        "hi": 130000,
-        "low": 100000,
+        "hi": 230000,
+        "low": 200000,
         "name": "emperors_skull"
     },
     {
@@ -2719,8 +2719,8 @@
     },
     {
         "ac": true,
-        "hi": 2800,
-        "low": 2700,
+        "hi": 2900,
+        "low": 2800,
         "name": "enchanted_bone"
     },
     {
@@ -3301,12 +3301,6 @@
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 10000,
-        "name": "bane_of_anthropods_vi"
-    },
-    {
-        "ac": true,
         "hi": 700000,
         "low": 500000,
         "name": "revenant_minion_i"
@@ -3565,8 +3559,8 @@
     },
     {
         "ac": true,
-        "hi": 480000,
-        "low": 356000,
+        "hi": 350000,
+        "low": 280000,
         "name": "enchanted_wet_sponge"
     },
     {
@@ -4561,8 +4555,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 3000000,
+        "hi": 5500000,
+        "low": 4500000,
         "name": "lvl_1_legendary_sheep"
     },
     {
@@ -4597,8 +4591,8 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 6000000,
+        "hi": 11000000,
+        "low": 9000000,
         "name": "lvl_1_epic_blaze"
     },
     {
@@ -4717,8 +4711,8 @@
     },
     {
         "ac": true,
-        "hi": 2700000,
-        "low": 2000000,
+        "hi": 1450000,
+        "low": 1000000,
         "name": "lvl_1_epic_endermite"
     },
     {
@@ -4951,12 +4945,6 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 10000000,
-        "name": "lvl_1_epic_dolphin_pet"
-    },
-    {
-        "ac": true,
         "hi": 2000,
         "low": 1000,
         "name": "lapis_armor_helmet"
@@ -4978,5 +4966,23 @@
         "hi": 12000000,
         "low": 10000000,
         "name": "lvl_1_legendary_ghoul"
+    },
+    {
+        "ac": true,
+        "hi": 12000000,
+        "low": 10000000,
+        "name": "lvl_1_epic_dolphin"
+    },
+    {
+        "ac": true,
+        "hi": 40000,
+        "low": 10000,
+        "name": "bane_of_arthropods_vi"
+    },
+    {
+        "ac": true,
+        "hi": 25000000,
+        "low": 15000000,
+        "name": "lvl_100_legendary_rabbit"
     }
 ]
