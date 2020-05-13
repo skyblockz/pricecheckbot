@@ -1678,6 +1678,16 @@
                     670
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1800,
+                    1900
+                ],
+                "to": [
+                    2000,
+                    2300
+                ]
+            },
             "exp_share": {
                 "from": null,
                 "to": [
@@ -2178,7 +2188,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "608691509797322762": {
         "modification_history": {},
