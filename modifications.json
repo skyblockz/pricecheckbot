@@ -867,6 +867,16 @@
                     24000
                 ]
             },
+            "lvl_1_epic_blaze": {
+                "from": [
+                    6000000,
+                    8000000
+                ],
+                "to": [
+                    9000000,
+                    11000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     540000,
@@ -898,7 +908,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "383791723945394176": {
         "modification_history": {
