@@ -1002,6 +1002,16 @@
                     280000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    2000,
+                    2300
+                ],
+                "to": [
+                    1900,
+                    2100
+                ]
+            },
             "growth_vi": {
                 "from": [
                     6000000,
@@ -1123,7 +1133,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "390661701046894592": {
         "modification_history": {},
