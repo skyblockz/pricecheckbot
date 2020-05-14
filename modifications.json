@@ -1826,6 +1826,13 @@
                     600000
                 ]
             },
+            "farm_crystal": {
+                "from": null,
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     5500000,
@@ -2319,7 +2326,11 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
+    },
+    "601569158332809251": {
+        "modification_history": {},
+        "total_mods": 0
     },
     "608691509797322762": {
         "modification_history": {},
