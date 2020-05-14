@@ -1922,6 +1922,13 @@
                     235000
                 ]
             },
+            "enchanted_glowstone": {
+                "from": null,
+                "to": [
+                    138000,
+                    148000
+                ]
+            },
             "enchanted_lapis_lazuli": {
                 "from": [
                     650,
@@ -2456,7 +2463,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "601569158332809251": {
         "modification_history": {},
