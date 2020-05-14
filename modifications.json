@@ -972,6 +972,16 @@
                     2900
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    240000,
+                    275000
+                ],
+                "to": [
+                    340000,
+                    405000
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     100000,
@@ -1113,7 +1123,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "390661701046894592": {
         "modification_history": {},
