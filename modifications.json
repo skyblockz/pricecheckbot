@@ -1032,6 +1032,16 @@
                     280000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    110000,
+                    130000
+                ],
+                "to": [
+                    165000,
+                    177000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     2000,
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "390661701046894592": {
         "modification_history": {},
