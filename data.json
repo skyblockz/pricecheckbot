@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 600000,
-        "low": 585000,
+        "hi": 590000,
+        "low": 575000,
         "name": "summoning_eye"
     },
     {
@@ -847,8 +847,8 @@
     },
     {
         "ac": true,
-        "hi": 1000,
-        "low": 650,
+        "hi": 890,
+        "low": 780,
         "name": "enchanted_paper"
     },
     {
@@ -883,8 +883,8 @@
     },
     {
         "ac": true,
-        "hi": 700,
-        "low": 610,
+        "hi": 755,
+        "low": 700,
         "name": "enchanted_raw_beef"
     },
     {
@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 5000000,
+        "hi": 800000,
+        "low": 700000,
         "name": "reaper_falchion"
     },
     {
@@ -3361,8 +3361,8 @@
     },
     {
         "ac": true,
-        "hi": 60,
-        "low": 60,
+        "hi": 120,
+        "low": 120,
         "name": "magnet_vi"
     },
     {
@@ -4990,5 +4990,11 @@
         "hi": 640,
         "low": 600,
         "name": "enchanted_raw_rabbit"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 100,
+        "name": "enderman_minon_i"
     }
 ]
