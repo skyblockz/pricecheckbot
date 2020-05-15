@@ -1321,6 +1321,16 @@
                     5800000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    5000000,
+                    6000000
+                ],
+                "to": [
+                    6000000,
+                    7250000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     4250000,
@@ -1332,7 +1342,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "462227575381426187": {
         "modification_history": {
