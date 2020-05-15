@@ -65,6 +65,16 @@
                     800000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    2900000,
+                    3500000
+                ],
+                "to": [
+                    290000,
+                    350000
+                ]
+            },
             "shredder": {
                 "from": [
                     7000000,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "334763167391416322": {
         "modification_history": {},
