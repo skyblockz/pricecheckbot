@@ -277,6 +277,16 @@
                     250
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    10800000,
+                    12000000
+                ],
+                "to": [
+                    12400000,
+                    14500000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     25000,
@@ -325,7 +335,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "344617760879542273": {
         "modification_history": {
