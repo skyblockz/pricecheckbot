@@ -25,6 +25,16 @@
                     600000
                 ]
             },
+            "mastiff_chestplate": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     550000,
@@ -36,7 +46,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "334763167391416322": {
         "modification_history": {},
