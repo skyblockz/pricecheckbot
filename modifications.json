@@ -481,6 +481,16 @@
                     820
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    615000,
+                    770000
+                ],
+                "to": [
+                    850000,
+                    1000000
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     23000,
@@ -809,7 +819,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "419714628059267072": {
         "modification_history": {},
