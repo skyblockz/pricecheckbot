@@ -415,6 +415,16 @@
                     28000
                 ]
             },
+            "enchanted_rabbit_foot": {
+                "from": [
+                    5000,
+                    5500
+                ],
+                "to": [
+                    4700,
+                    5050
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     21000,
@@ -486,7 +496,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "419714628059267072": {
         "modification_history": {},
