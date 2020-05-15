@@ -95,6 +95,16 @@
                     21000
                 ]
             },
+            "enchanted_slimeblock": {
+                "from": [
+                    170000,
+                    230000
+                ],
+                "to": [
+                    210000,
+                    255000
+                ]
+            },
             "green_candy": {
                 "from": [
                     550,
@@ -116,7 +126,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "419714628059267072": {
         "modification_history": {},
