@@ -397,6 +397,16 @@
                     2300000
                 ]
             },
+            "miner_boots": {
+                "from": [
+                    650,
+                    650
+                ],
+                "to": [
+                    500,
+                    2050
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2770,
@@ -638,7 +648,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "344617760879542273": {
         "modification_history": {
