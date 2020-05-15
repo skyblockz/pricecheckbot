@@ -871,8 +871,8 @@
     },
     {
         "ac": true,
-        "hi": 60000,
-        "low": 25000,
+        "hi": 50000,
+        "low": 20000,
         "name": "feather_artifact"
     },
     {
@@ -5020,5 +5020,11 @@
         "hi": 250,
         "low": 250,
         "name": "efficiency_v"
+    },
+    {
+        "ac": true,
+        "hi": 500,
+        "low": 100,
+        "name": "wood_affinity_talisman"
     }
 ]
