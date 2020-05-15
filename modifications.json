@@ -2099,6 +2099,16 @@
                     148000
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1300,
+                    1500
+                ],
+                "to": [
+                    1700,
+                    1950
+                ]
+            },
             "enchanted_lapis_lazuli": {
                 "from": [
                     650,
@@ -2693,7 +2703,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "601569158332809251": {
         "modification_history": {},
