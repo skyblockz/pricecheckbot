@@ -471,6 +471,16 @@
                     58000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    560,
+                    620
+                ],
+                "to": [
+                    760,
+                    820
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     23000,
@@ -749,7 +759,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "419714628059267072": {
         "modification_history": {},
