@@ -2062,6 +2062,16 @@
                     1000
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    610000,
+                    650000
+                ],
+                "to": [
+                    690000,
+                    700000
+                ]
+            },
             "enchanted_bone": {
                 "from": [
                     2800,
@@ -2813,7 +2823,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "601569158332809251": {
         "modification_history": {},
