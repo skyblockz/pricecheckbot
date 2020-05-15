@@ -45,6 +45,16 @@
                     2500
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2600,
+                    2700
+                ],
+                "to": [
+                    3400,
+                    3700
+                ]
+            },
             "green_candy": {
                 "from": [
                     550,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "419714628059267072": {
         "modification_history": {},
