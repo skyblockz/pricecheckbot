@@ -531,6 +531,16 @@
                     110000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    75000,
+                    77000
+                ],
+                "to": [
+                    72500,
+                    76500
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     60000,
@@ -709,7 +719,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "419714628059267072": {
         "modification_history": {},
