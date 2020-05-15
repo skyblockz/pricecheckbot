@@ -606,9 +606,19 @@
                     100,
                     1000
                 ]
+            },
+            "lvl_1_epic_guardian": {
+                "from": [
+                    800000,
+                    1300000
+                ],
+                "to": [
+                    200000,
+                    700000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "664325814531391528": {
         "modification_history": {},
