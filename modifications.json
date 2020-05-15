@@ -45,6 +45,16 @@
                     25000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    240000,
+                    400000
+                ],
+                "to": [
+                    180000,
+                    250000
+                ]
+            },
             "hurricane_bow": {
                 "from": [
                     20000,
@@ -116,7 +126,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "334763167391416322": {
         "modification_history": {},
