@@ -277,6 +277,16 @@
                     250
                 ]
             },
+            "feather_artifact": {
+                "from": [
+                    25000,
+                    60000
+                ],
+                "to": [
+                    20000,
+                    50000
+                ]
+            },
             "healing_ring": {
                 "from": [
                     180000,
@@ -288,7 +298,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "344617760879542273": {
         "modification_history": {
