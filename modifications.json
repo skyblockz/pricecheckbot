@@ -145,6 +145,16 @@
                     800000
                 ]
             },
+            "medium_storage": {
+                "from": [
+                    15000,
+                    16000
+                ],
+                "to": [
+                    9000,
+                    13000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     4800000,
@@ -246,7 +256,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "334763167391416322": {
         "modification_history": {},
