@@ -1291,6 +1291,16 @@
                     250000
                 ]
             },
+            "lvl_1_legendary_ghoul": {
+                "from": [
+                    10000000,
+                    12000000
+                ],
+                "to": [
+                    5000000,
+                    7000000
+                ]
+            },
             "lvl_1_legendary_guardian": {
                 "from": [
                     3000000,
@@ -1312,7 +1322,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "462227575381426187": {
         "modification_history": {
