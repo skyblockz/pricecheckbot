@@ -2417,6 +2417,16 @@
                     4000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    6100,
+                    6400
+                ],
+                "to": [
+                    6800,
+                    7350
+                ]
+            },
             "sugar_rush_iii": {
                 "from": [
                     750000,
@@ -2553,7 +2563,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "601569158332809251": {
         "modification_history": {},
