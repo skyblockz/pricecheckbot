@@ -425,6 +425,16 @@
                     21000
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    80,
+                    120
+                ],
+                "to": [
+                    76,
+                    85
+                ]
+            },
             "enchanted_slimeblock": {
                 "from": [
                     170000,
@@ -476,7 +486,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "419714628059267072": {
         "modification_history": {},
