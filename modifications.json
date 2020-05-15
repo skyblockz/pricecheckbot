@@ -297,6 +297,16 @@
                     350000
                 ]
             },
+            "potion_affinity_ring": {
+                "from": [
+                    40000,
+                    43000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "wood_affinity_talisman": {
                 "from": null,
                 "to": [
@@ -305,7 +315,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "344617760879542273": {
         "modification_history": {
