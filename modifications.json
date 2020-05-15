@@ -269,8 +269,19 @@
         "total_mods": 30
     },
     "334763167391416322": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "healing_ring": {
+                "from": [
+                    180000,
+                    250000
+                ],
+                "to": [
+                    240000,
+                    350000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "344617760879542273": {
         "modification_history": {
