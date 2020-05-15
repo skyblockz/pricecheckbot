@@ -1281,6 +1281,16 @@
                     250000
                 ]
             },
+            "lvl_1_legendary_guardian": {
+                "from": [
+                    1500000,
+                    4000000
+                ],
+                "to": [
+                    3000000,
+                    4000000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     6000000,
@@ -1292,7 +1302,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "462227575381426187": {
         "modification_history": {
