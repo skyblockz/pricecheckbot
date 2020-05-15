@@ -35,6 +35,16 @@
                     100000
                 ]
             },
+            "crystal_chestplate": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    125000,
+                    140000
+                ]
+            },
             "crystal_leggings": {
                 "from": [
                     45000,
@@ -226,7 +236,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "334763167391416322": {
         "modification_history": {},
