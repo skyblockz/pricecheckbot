@@ -25,6 +25,16 @@
                     350000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    25000,
+                    55000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "emperors_skull": {
                 "from": [
                     200000,
@@ -206,7 +216,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "334763167391416322": {
         "modification_history": {},
