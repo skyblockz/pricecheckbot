@@ -25,6 +25,16 @@
                     350000
                 ]
             },
+            "frail_vi": {
+                "from": [
+                    125,
+                    125
+                ],
+                "to": [
+                    25000,
+                    25000
+                ]
+            },
             "hurricane_bow": {
                 "from": [
                     20000,
@@ -96,7 +106,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "334763167391416322": {
         "modification_history": {},
