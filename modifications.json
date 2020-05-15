@@ -150,6 +150,16 @@
                     34000000
                 ]
             },
+            "netherrack": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "test": {
                 "from": null,
                 "to": [
@@ -168,7 +178,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "325104094530502684": {
         "modification_history": {},
