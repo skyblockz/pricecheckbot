@@ -4609,8 +4609,8 @@
     },
     {
         "ac": true,
-        "hi": 1300000,
-        "low": 800000,
+        "hi": 700000,
+        "low": 200000,
         "name": "lvl_1_epic_guardian"
     },
     {
@@ -5002,5 +5002,11 @@
         "hi": 1600000,
         "low": 1400000,
         "name": "enderman_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 4500000,
+        "low": 1000000,
+        "name": "lvl_1_legendary_rock"
     }
 ]
