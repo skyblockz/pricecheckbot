@@ -962,6 +962,16 @@
                     1000
                 ]
             },
+            "looting_iv": {
+                "from": [
+                    30000,
+                    70000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "lvl_1_epic_guardian": {
                 "from": [
                     800000,
@@ -987,7 +997,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "664325814531391528": {
         "modification_history": {},
