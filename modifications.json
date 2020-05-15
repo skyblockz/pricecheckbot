@@ -491,6 +491,16 @@
                     2500
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    148000,
+                    160000
+                ],
+                "to": [
+                    160000,
+                    170000
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -759,7 +769,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "419714628059267072": {
         "modification_history": {},
