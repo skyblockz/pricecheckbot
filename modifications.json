@@ -2062,6 +2062,16 @@
                     1000
                 ]
             },
+            "enchanted_bone": {
+                "from": [
+                    2800,
+                    2900
+                ],
+                "to": [
+                    2500,
+                    2600
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1350,
@@ -2713,7 +2723,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "601569158332809251": {
         "modification_history": {},
