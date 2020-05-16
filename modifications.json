@@ -920,12 +920,12 @@
             },
             "revenant_chestplate": {
                 "from": [
-                    290000,
-                    350000
-                ],
-                "to": [
                     1500000,
                     3000000
+                ],
+                "to": [
+                    150000,
+                    300000
                 ]
             },
             "spider_eye": {
@@ -959,7 +959,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "419714628059267072": {
         "modification_history": {},
