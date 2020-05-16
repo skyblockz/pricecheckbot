@@ -337,6 +337,16 @@
                     350000
                 ]
             },
+            "intimidation_talisman": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    200,
+                    200
+                ]
+            },
             "piggy_bank": {
                 "from": [
                     75000,
@@ -375,7 +385,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "344617760879542273": {
         "modification_history": {
