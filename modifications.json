@@ -454,6 +454,16 @@
                     120000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    165000,
+                    177000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "purple_candy": {
                 "from": [
                     11000,
@@ -475,7 +485,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "383791723945394176": {
         "modification_history": {},
