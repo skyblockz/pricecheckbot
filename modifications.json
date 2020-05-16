@@ -337,6 +337,16 @@
                     350000
                 ]
             },
+            "piggy_bank": {
+                "from": [
+                    75000,
+                    120000
+                ],
+                "to": [
+                    50000,
+                    110000
+                ]
+            },
             "potion_affinity_ring": {
                 "from": [
                     40000,
@@ -365,7 +375,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "344617760879542273": {
         "modification_history": {
