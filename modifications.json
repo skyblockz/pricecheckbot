@@ -888,6 +888,16 @@
                     160000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    10800000,
+                    12000000
+                ],
+                "to": [
+                    13000000,
+                    15500000
+                ]
+            },
             "glowstone_dust": {
                 "from": [
                     10,
@@ -959,7 +969,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "419714628059267072": {
         "modification_history": {},
