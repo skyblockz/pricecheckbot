@@ -1223,6 +1223,16 @@
                     350
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    120000,
+                    180000
+                ],
+                "to": [
+                    95000,
+                    105000
+                ]
+            },
             "green_candy": {
                 "from": [
                     550,
@@ -1234,7 +1244,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "614661627513536526": {
         "modification_history": {},
