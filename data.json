@@ -253,8 +253,8 @@
     },
     {
         "ac": true,
-        "hi": 440000,
-        "low": 430000,
+        "hi": 460000,
+        "low": 450000,
         "name": "super_compactor_3000"
     },
     {
@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 5400,
-        "low": 5300,
+        "hi": 5600,
+        "low": 5400,
         "name": "enchanted_obsidian"
     },
     {
@@ -565,8 +565,8 @@
     },
     {
         "ac": true,
-        "hi": 177000,
-        "low": 165000,
+        "hi": 140000,
+        "low": 130000,
         "name": "enchanted_packed_ice"
     },
     {
@@ -643,14 +643,14 @@
     },
     {
         "ac": true,
-        "hi": 990,
-        "low": 920,
+        "hi": 820,
+        "low": 760,
         "name": "enchanted_carrot"
     },
     {
         "ac": true,
-        "hi": 135000,
-        "low": 125000,
+        "hi": 120000,
+        "low": 100000,
         "name": "enchanted_golden_carrot"
     },
     {
@@ -1141,8 +1141,8 @@
     },
     {
         "ac": true,
-        "hi": 12500,
-        "low": 11000,
+        "hi": 11000,
+        "low": 10000,
         "name": "purple_candy"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "ac": true,
         "hi": 375000,
-        "low": 275000,
+        "low": 200000,
         "name": "leggings_of_growth"
     },
     {
@@ -1387,8 +1387,8 @@
     },
     {
         "ac": true,
-        "hi": 115000,
-        "low": 100000,
+        "hi": 110000,
+        "low": 87000,
         "name": "old_dragon_boots"
     },
     {
@@ -1429,20 +1429,20 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 175000,
+        "hi": 200000,
+        "low": 85000,
         "name": "helmet_of_growth"
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 300000,
+        "hi": 300000,
+        "low": 200000,
         "name": "chestplate_of_growth"
     },
     {
         "ac": true,
         "hi": 200000,
-        "low": 150000,
+        "low": 80000,
         "name": "boots_of_growth"
     },
     {
@@ -2089,8 +2089,8 @@
     },
     {
         "ac": true,
-        "hi": 750,
-        "low": 550,
+        "hi": 1450,
+        "low": 1250,
         "name": "green_candy"
     },
     {
@@ -2161,7 +2161,7 @@
     },
     {
         "ac": true,
-        "hi": 750000,
+        "hi": 690000,
         "low": 650000,
         "name": "enchanted_blaze_rod"
     },
@@ -2293,7 +2293,7 @@
     },
     {
         "ac": true,
-        "hi": 196,
+        "hi": 200,
         "low": 190,
         "name": "enchanted_ender_pearl"
     },
@@ -2437,8 +2437,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 590000,
+        "hi": 400000,
+        "low": 370000,
         "name": "super_enchanted_egg"
     },
     {
@@ -2629,8 +2629,8 @@
     },
     {
         "ac": true,
-        "hi": 3500,
-        "low": 3400,
+        "hi": 3400,
+        "low": 3100,
         "name": "enchanted_endstone"
     },
     {
@@ -5026,5 +5026,11 @@
         "hi": 500,
         "low": 100,
         "name": "wood_affinity_talisman"
+    },
+    {
+        "ac": true,
+        "hi": 30,
+        "low": 25,
+        "name": "raw_fish"
     }
 ]
