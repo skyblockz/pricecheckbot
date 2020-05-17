@@ -1156,9 +1156,19 @@
                     300,
                     350
                 ]
+            },
+            "green_candy": {
+                "from": [
+                    550,
+                    750
+                ],
+                "to": [
+                    1250,
+                    1450
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "614661627513536526": {
         "modification_history": {},
