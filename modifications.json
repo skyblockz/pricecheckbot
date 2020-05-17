@@ -300,6 +300,16 @@
                     6700000
                 ]
             },
+            "chestplate_of_growth": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "efficiency_v": {
                 "from": null,
                 "to": [
@@ -425,7 +435,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "344617760879542273": {
         "modification_history": {
