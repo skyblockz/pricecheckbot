@@ -980,14 +980,6 @@
         "src": "legendary_magma_cube"
     },
     {
-        "dest": "lvl_1_epic_enderman",
-        "src": "epic_enderman"
-    },
-    {
-        "dest": "lvl_1_legendary_bee",
-        "src": "legendary_bee"
-    },
-    {
         "dest": "lvl_1_epic_ocelot",
         "src": "epic_ocelot"
     },
@@ -1004,14 +996,6 @@
         "src": "epic_silverfish"
     },
     {
-        "dest": "lvl_1_legendary_flying_fish",
-        "src": "legendary_flying_fish"
-    },
-    {
-        "dest": "lvl_1_legendary_sheep",
-        "src": "legendary_sheep"
-    },
-    {
         "dest": "lvl_1_legendary_bat",
         "src": "legendary_bat"
     },
@@ -1022,10 +1006,6 @@
     {
         "dest": "lvl_1_legendary_giraffe",
         "src": "legendary_giraffe"
-    },
-    {
-        "dest": "lvl_1_epic_rabbit",
-        "src": "epic_rabbit"
     },
     {
         "dest": "lvl_1_epic_blaze",
@@ -1162,5 +1142,9 @@
     {
         "dest": "lvl_1_legendary_hound",
         "src": "legendary_hound"
+    },
+    {
+        "dest": "raw_fish",
+        "src": "fish"
     }
 ]
