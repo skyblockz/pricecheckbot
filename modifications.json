@@ -1243,6 +1243,16 @@
                     1450
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    51000,
+                    55000
+                ],
+                "to": [
+                    51000,
+                    53000
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     118000,
@@ -1254,7 +1264,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "614661627513536526": {
         "modification_history": {},
