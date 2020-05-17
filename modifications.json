@@ -300,6 +300,16 @@
                     6700000
                 ]
             },
+            "boots_of_growth": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    80000,
+                    200000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     300000,
@@ -435,7 +445,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "344617760879542273": {
         "modification_history": {
