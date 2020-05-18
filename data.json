@@ -55,8 +55,8 @@
     },
     {
         "ac": true,
-        "hi": 19800,
-        "low": 17200,
+        "hi": 17000,
+        "low": 16000,
         "name": "strong_dragon_fragment"
     },
     {
@@ -973,8 +973,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 700000,
+        "hi": 750000,
+        "low": 575000,
         "name": "potion_affinity_artifact"
     },
     {
@@ -1147,8 +1147,8 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 700000,
+        "hi": 6000000,
+        "low": 5000000,
         "name": "reaper_falchion"
     },
     {
@@ -2215,8 +2215,8 @@
     },
     {
         "ac": true,
-        "hi": 11400000,
-        "low": 10000000,
+        "hi": 12000000,
+        "low": 11000000,
         "name": "scythe_blade"
     },
     {
@@ -2971,8 +2971,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 1000,
+        "hi": 10000,
+        "low": 5000,
         "name": "pestilence_rune_i"
     },
     {
@@ -5038,5 +5038,11 @@
         "hi": 1800000,
         "low": 1550000,
         "name": "travel_scroll_to_dragons_nest"
+    },
+    {
+        "ac": true,
+        "hi": 2,
+        "low": 1,
+        "name": "cookie"
     }
 ]
