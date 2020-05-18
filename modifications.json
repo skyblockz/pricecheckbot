@@ -1551,6 +1551,16 @@
                     4500000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    2200000,
+                    2400000
+                ],
+                "to": [
+                    1700000,
+                    2000000
+                ]
+            },
             "scorpion_bow": {
                 "from": [
                     4500000,
@@ -1582,7 +1592,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "664325814531391528": {
         "modification_history": {},
