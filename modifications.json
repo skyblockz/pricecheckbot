@@ -519,6 +519,16 @@
                     45000000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    125000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    250000
+                ]
+            },
             "wood_affinity_talisman": {
                 "from": null,
                 "to": [
@@ -527,7 +537,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "344617760879542273": {
         "modification_history": {
