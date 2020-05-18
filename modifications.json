@@ -1,4 +1,8 @@
 {
+    "260401335818649600": {
+        "modification_history": {},
+        "total_mods": 0
+    },
     "298613178601046017": {
         "modification_history": {
             "travel_scroll_to_dragons_nest": {
@@ -1268,6 +1272,16 @@
                     1450
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     51000,
@@ -1289,7 +1303,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "614661627513536526": {
         "modification_history": {},
