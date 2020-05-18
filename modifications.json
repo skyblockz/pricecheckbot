@@ -1473,6 +1473,13 @@
                     1000
                 ]
             },
+            "foraging_xp_boost_iii": {
+                "from": null,
+                "to": [
+                    40000,
+                    70000
+                ]
+            },
             "looting_iv": {
                 "from": [
                     30000,
@@ -1538,7 +1545,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "664325814531391528": {
         "modification_history": {},
