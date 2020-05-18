@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 5600,
-        "low": 5400,
+        "hi": 5900,
+        "low": 5600,
         "name": "enchanted_obsidian"
     },
     {
@@ -1003,8 +1003,8 @@
     },
     {
         "ac": true,
-        "hi": 93700,
-        "low": 90200,
+        "hi": 98000,
+        "low": 95000,
         "name": "golden_tooth"
     },
     {
@@ -1123,8 +1123,8 @@
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 1250000,
+        "hi": 1400000,
+        "low": 1000000,
         "name": "red_claw_egg"
     },
     {
@@ -1519,8 +1519,8 @@
     },
     {
         "ac": true,
-        "hi": 55000,
-        "low": 51000,
+        "hi": 51000,
+        "low": 48000,
         "name": "revenant_viscera"
     },
     {
@@ -1879,14 +1879,14 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 290000,
+        "hi": 2400000,
+        "low": 2200000,
         "name": "revenant_chestplate"
     },
     {
         "ac": true,
         "hi": 130000,
-        "low": 118000,
+        "low": 110000,
         "name": "tarantula_silk"
     },
     {
@@ -2023,8 +2023,8 @@
     },
     {
         "ac": true,
-        "hi": 3100000,
-        "low": 1550000,
+        "hi": 5000000,
+        "low": 4000000,
         "name": "scorpion_bow"
     },
     {
@@ -2125,7 +2125,7 @@
     },
     {
         "ac": true,
-        "hi": 150000,
+        "hi": 250000,
         "low": 125000,
         "name": "spider_ring"
     },
@@ -2215,8 +2215,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 11000000,
+        "hi": 11000000,
+        "low": 10000000,
         "name": "scythe_blade"
     },
     {
@@ -2611,20 +2611,20 @@
     },
     {
         "ac": true,
-        "hi": 9500000,
-        "low": 9000000,
+        "hi": 7000000,
+        "low": 4000000,
         "name": "fancy_tuxedo_jacket"
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 4300000,
+        "hi": 5000000,
+        "low": 3500000,
         "name": "fancy_tuxedo_pants"
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 2000000,
+        "hi": 4000000,
+        "low": 3000000,
         "name": "fancy_tuxedo_oxfords"
     },
     {
@@ -3055,8 +3055,8 @@
     },
     {
         "ac": true,
-        "hi": 2650000,
-        "low": 2400000,
+        "hi": 2800000,
+        "low": 2500000,
         "name": "treecapitator"
     },
     {
@@ -5050,5 +5050,11 @@
         "hi": 550000,
         "low": 500000,
         "name": "travel_scroll_to_the_end"
+    },
+    {
+        "ac": true,
+        "hi": 70000,
+        "low": 40000,
+        "name": "foraging_xp_boost_iii"
     }
 ]
