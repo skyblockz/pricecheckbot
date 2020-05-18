@@ -1491,10 +1491,13 @@
                 ]
             },
             "lvl_1_epic_bat": {
-                "from": null,
-                "to": [
+                "from": [
                     100000,
                     300000
+                ],
+                "to": [
+                    300000,
+                    500000
                 ]
             },
             "lvl_1_epic_guardian": {
@@ -1559,7 +1562,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "664325814531391528": {
         "modification_history": {},
