@@ -167,6 +167,16 @@
                     13000
                 ]
             },
+            "pestilence_rune_i": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     4800000,
@@ -298,7 +308,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "334763167391416322": {
         "modification_history": {
