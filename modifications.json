@@ -1262,6 +1262,13 @@
                     350
                 ]
             },
+            "cookie": {
+                "from": null,
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "emperors_skull": {
                 "from": [
                     120000,
@@ -1313,7 +1320,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
