@@ -631,6 +631,16 @@
                     2400000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    51000,
+                    55000
+                ],
+                "to": [
+                    48000,
+                    51000
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     17200,
@@ -642,7 +652,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "387742597298388993": {
         "modification_history": {
