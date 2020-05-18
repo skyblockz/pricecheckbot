@@ -1545,10 +1545,13 @@
                 ]
             },
             "lvl_1_legendary_rock": {
-                "from": null,
-                "to": [
+                "from": [
                     1000000,
                     4500000
+                ],
+                "to": [
+                    35000000,
+                    40000000
                 ]
             },
             "revenant_chestplate": {
@@ -1592,7 +1595,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "664325814531391528": {
         "modification_history": {},
