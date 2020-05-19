@@ -409,6 +409,16 @@
                     50000
                 ]
             },
+            "fire_talisman": {
+                "from": [
+                    35000,
+                    47500
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     100000,
@@ -714,7 +724,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "344617760879542273": {
         "modification_history": {
