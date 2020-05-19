@@ -479,6 +479,16 @@
                     2050000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    750000,
+                    850000
+                ]
+            },
             "night_vision_charm": {
                 "from": [
                     2000,
@@ -597,7 +607,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "344617760879542273": {
         "modification_history": {
