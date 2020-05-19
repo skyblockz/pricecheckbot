@@ -506,6 +506,16 @@
                     3000
                 ]
             },
+            "lava_talisman": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    5000,
+                    20000
+                ]
+            },
             "leggings_of_growth": {
                 "from": [
                     275000,
@@ -724,7 +734,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "344617760879542273": {
         "modification_history": {
