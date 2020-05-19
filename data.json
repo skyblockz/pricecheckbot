@@ -373,14 +373,14 @@
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 7500,
+        "hi": 6700,
+        "low": 5000,
         "name": "hardened_diamond_chestplate"
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 7500,
+        "hi": 7500,
+        "low": 5000,
         "name": "hardened_diamond_leggings"
     },
     {
@@ -722,7 +722,7 @@
     {
         "ac": true,
         "hi": 190000,
-        "low": 170000,
+        "low": 150000,
         "name": "farmer_boots"
     },
     {
@@ -1069,26 +1069,26 @@
     },
     {
         "ac": true,
-        "hi": 18500000,
-        "low": 17000000,
+        "hi": 18250000,
+        "low": 15700000,
         "name": "superior_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8500000,
+        "hi": 9700000,
+        "low": 8300000,
         "name": "superior_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 17500000,
-        "low": 16000000,
+        "hi": 17000000,
+        "low": 14500000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 12500000,
-        "low": 11000000,
+        "hi": 13250000,
+        "low": 10700000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -1159,7 +1159,7 @@
     },
     {
         "ac": true,
-        "hi": 900000,
+        "hi": 1000000,
         "low": 800000,
         "name": "mastiff_leggings"
     },
@@ -1171,7 +1171,7 @@
     },
     {
         "ac": true,
-        "hi": 600000,
+        "hi": 675000,
         "low": 500000,
         "name": "mastiff_boots"
     },
@@ -1207,14 +1207,14 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 800000,
+        "hi": 850000,
+        "low": 750000,
         "name": "mastiff_crown"
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 750000,
+        "hi": 1000000,
+        "low": 800000,
         "name": "mastiff_chestplate"
     },
     {
@@ -1387,26 +1387,26 @@
     },
     {
         "ac": true,
-        "hi": 110000,
-        "low": 87000,
+        "hi": 80000,
+        "low": 60000,
         "name": "old_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 100000,
+        "hi": 80000,
+        "low": 60000,
         "name": "old_dragon_helmet"
     },
     {
         "ac": true,
-        "hi": 140000,
-        "low": 130000,
+        "hi": 100000,
+        "low": 87000,
         "name": "old_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 145000,
-        "low": 115000,
+        "hi": 100000,
+        "low": 87000,
         "name": "old_dragon_leggings"
     },
     {
@@ -1819,8 +1819,8 @@
     },
     {
         "ac": true,
-        "hi": 8500,
-        "low": 2000,
+        "hi": 30000,
+        "low": 5000,
         "name": "night_vision_charm"
     },
     {
@@ -1879,8 +1879,8 @@
     },
     {
         "ac": true,
-        "hi": 2400000,
-        "low": 2200000,
+        "hi": 2000000,
+        "low": 1700000,
         "name": "revenant_chestplate"
     },
     {
@@ -1993,8 +1993,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 100000,
+        "hi": 300000,
+        "low": 150000,
         "name": "fish_affinity_talisman"
     },
     {
@@ -4549,8 +4549,8 @@
     },
     {
         "ac": true,
-        "hi": 2400000,
-        "low": 1800000,
+        "hi": 1500000,
+        "low": 700000,
         "name": "lvl_1_legendary_bat"
     },
     {
@@ -4597,7 +4597,7 @@
     },
     {
         "ac": true,
-        "hi": 1150000,
+        "hi": 1200000,
         "low": 1000000,
         "name": "lvl_1_epic_tiger"
     },
@@ -5005,8 +5005,8 @@
     },
     {
         "ac": true,
-        "hi": 4500000,
-        "low": 1000000,
+        "hi": 40000000,
+        "low": 35000000,
         "name": "lvl_1_legendary_rock"
     },
     {
@@ -5065,8 +5065,14 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 100000,
+        "hi": 500000,
+        "low": 300000,
         "name": "lvl_1_epic_bat"
+    },
+    {
+        "ac": true,
+        "hi": 5000,
+        "low": 2500,
+        "name": "hardened_diamond_boots"
     }
 ]
