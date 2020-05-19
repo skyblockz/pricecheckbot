@@ -27,6 +27,16 @@
                     900000
                 ]
             },
+            "bite_rune_i": {
+                "from": [
+                    500,
+                    1500
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "critical_vi": {
                 "from": [
                     150000,
@@ -328,7 +338,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "334763167391416322": {
         "modification_history": {
