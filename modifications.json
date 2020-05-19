@@ -389,6 +389,16 @@
                     5000000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    170000,
+                    190000
+                ],
+                "to": [
+                    150000,
+                    190000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     25000,
@@ -637,7 +647,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "344617760879542273": {
         "modification_history": {
