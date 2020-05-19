@@ -419,6 +419,16 @@
                     300000
                 ]
             },
+            "hardened_diamond_chestplate": {
+                "from": [
+                    7500,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    6700
+                ]
+            },
             "healing_ring": {
                 "from": [
                     180000,
@@ -677,7 +687,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "344617760879542273": {
         "modification_history": {
