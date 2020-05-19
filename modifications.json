@@ -399,6 +399,16 @@
                     50000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    150000,
+                    300000
+                ]
+            },
             "healing_ring": {
                 "from": [
                     180000,
@@ -587,7 +597,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "344617760879542273": {
         "modification_history": {
