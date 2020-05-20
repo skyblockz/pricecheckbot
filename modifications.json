@@ -1786,6 +1786,13 @@
                     13000000
                 ]
             },
+            "travel_scroll_to_howling_cave": {
+                "from": null,
+                "to": [
+                    20000,
+                    200000
+                ]
+            },
             "travel_scroll_to_the_end": {
                 "from": null,
                 "to": [
@@ -1794,7 +1801,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
