@@ -535,14 +535,14 @@
     },
     {
         "ac": true,
-        "hi": 5900,
+        "hi": 5750,
         "low": 5600,
         "name": "enchanted_obsidian"
     },
     {
         "ac": true,
-        "hi": 900,
-        "low": 750,
+        "hi": 860,
+        "low": 780,
         "name": "enchanted_glowstone_dust"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "ac": true,
-        "hi": 9700000,
-        "low": 8300000,
+        "hi": 10700000,
+        "low": 9300000,
         "name": "superior_dragon_boots"
     },
     {
@@ -1099,14 +1099,14 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 600000,
+        "hi": 650000,
+        "low": 500000,
         "name": "young_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 700000,
+        "hi": 800000,
+        "low": 600000,
         "name": "young_dragon_leggings"
     },
     {
@@ -1159,8 +1159,8 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 800000,
+        "hi": 800000,
+        "low": 600000,
         "name": "mastiff_leggings"
     },
     {
@@ -1285,8 +1285,8 @@
     },
     {
         "ac": true,
-        "hi": 6500000,
-        "low": 5500000,
+        "hi": 5800000,
+        "low": 4700000,
         "name": "tarantula_talisman"
     },
     {
@@ -1831,8 +1831,8 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 550000,
+        "hi": 650000,
+        "low": 450000,
         "name": "wolf_ring"
     },
     {
@@ -2893,7 +2893,7 @@
     },
     {
         "ac": true,
-        "hi": 2000,
+        "hi": 500,
         "low": 500,
         "name": "epic_wolf"
     },
@@ -4339,8 +4339,8 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1000000,
+        "hi": 1200000,
+        "low": 850000,
         "name": "runaan's_bow"
     },
     {
@@ -4597,8 +4597,8 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 1000000,
+        "hi": 1150000,
+        "low": 900000,
         "name": "lvl_1_epic_tiger"
     },
     {
@@ -4699,8 +4699,8 @@
     },
     {
         "ac": true,
-        "hi": 1450000,
-        "low": 1000000,
+        "hi": 1200000,
+        "low": 850000,
         "name": "lvl_1_epic_endermite"
     },
     {
@@ -5035,12 +5035,6 @@
     },
     {
         "ac": true,
-        "hi": 1800000,
-        "low": 1550000,
-        "name": "travel_scroll_to_dragons_nest"
-    },
-    {
-        "ac": true,
         "hi": 2,
         "low": 1,
         "name": "cookie"
@@ -5074,5 +5068,17 @@
         "hi": 5000,
         "low": 2500,
         "name": "hardened_diamond_boots"
+    },
+    {
+        "ac": true,
+        "hi": 13000000,
+        "low": 1000000,
+        "name": "travel_scroll_to_dragon's_nest"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 20000,
+        "name": "travel_scroll_to_howling_cave"
     }
 ]
