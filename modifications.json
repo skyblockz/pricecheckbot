@@ -1736,6 +1736,16 @@
                     5750
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1900,
+                    2100
+                ],
+                "to": [
+                    1800,
+                    1950
+                ]
+            },
             "green_candy": {
                 "from": [
                     550,
@@ -1818,7 +1828,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "614661627513536526": {
         "modification_history": {},
