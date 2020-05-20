@@ -1928,6 +1928,16 @@
                     12
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    160000,
+                    170000
+                ],
+                "to": [
+                    60000,
+                    70000
+                ]
+            },
             "enderman_minion_xi": {
                 "from": null,
                 "to": [
@@ -2074,7 +2084,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "664325814531391528": {
         "modification_history": {},
