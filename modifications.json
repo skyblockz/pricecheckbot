@@ -1776,6 +1776,16 @@
                     145000
                 ]
             },
+            "travel_scroll_to_dragon's_nest": {
+                "from": [
+                    1550000,
+                    1800000
+                ],
+                "to": [
+                    1000000,
+                    13000000
+                ]
+            },
             "travel_scroll_to_the_end": {
                 "from": null,
                 "to": [
@@ -1784,7 +1794,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "614661627513536526": {
         "modification_history": {},
