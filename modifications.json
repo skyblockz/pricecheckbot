@@ -846,6 +846,16 @@
                     17000000
                 ]
             },
+            "survivor_cube": {
+                "from": [
+                    1500000,
+                    1600000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
             "wood_affinity_talisman": {
                 "from": null,
                 "to": [
@@ -854,7 +864,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "344617760879542273": {
         "modification_history": {
