@@ -1899,6 +1899,16 @@
                     70000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    3500,
+                    4500
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "looting_iv": {
                 "from": [
                     30000,
@@ -2014,7 +2024,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "664325814531391528": {
         "modification_history": {},
