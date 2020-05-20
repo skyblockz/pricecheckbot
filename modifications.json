@@ -1724,8 +1724,19 @@
         "total_mods": 57
     },
     "419714628059267072": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_sugar_cane": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    145000,
+                    155000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "462227575381426187": {
         "modification_history": {
