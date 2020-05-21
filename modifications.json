@@ -1268,6 +1268,16 @@
                     9
                 ]
             },
+            "sea_creature_ring": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    25000
+                ]
+            },
             "snow_suit_helmet": {
                 "from": [
                     1000,
@@ -1309,7 +1319,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "406906204309159937": {
         "modification_history": {
