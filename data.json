@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 590000,
-        "low": 575000,
+        "hi": 580000,
+        "low": 560000,
         "name": "summoning_eye"
     },
     {
@@ -134,7 +134,7 @@
     {
         "ac": true,
         "hi": 130000,
-        "low": 130000,
+        "low": 100000,
         "name": "raider_axe"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
         "ac": true,
-        "hi": 5000,
+        "hi": 3000,
         "low": 1000,
         "name": "budget_hopper"
     },
@@ -1069,26 +1069,26 @@
     },
     {
         "ac": true,
-        "hi": 18250000,
-        "low": 15700000,
+        "hi": 21000000,
+        "low": 20000000,
         "name": "superior_dragon_chestplate"
     },
     {
         "ac": true,
-        "hi": 10700000,
-        "low": 9300000,
+        "hi": 11500000,
+        "low": 10200000,
         "name": "superior_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 14500000,
+        "hi": 19000000,
+        "low": 18000000,
         "name": "superior_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 13250000,
-        "low": 10700000,
+        "hi": 14000000,
+        "low": 13000000,
         "name": "superior_dragon_helmet"
     },
     {
@@ -2029,8 +2029,8 @@
     },
     {
         "ac": true,
-        "hi": 450000,
-        "low": 300000,
+        "hi": 550000,
+        "low": 350000,
         "name": "bat_ring"
     },
     {
@@ -2095,8 +2095,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 500000,
+        "hi": 550000,
+        "low": 550000,
         "name": "fly_swatter"
     },
     {
@@ -5086,5 +5086,11 @@
         "hi": 12,
         "low": 10,
         "name": "egg"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 1000,
+        "name": "ember_chestplate"
     }
 ]
