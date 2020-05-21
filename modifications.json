@@ -1278,6 +1278,16 @@
                     7500000
                 ]
             },
+            "fly_swatter": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    550000,
+                    550000
+                ]
+            },
             "frozen_blaze_chestplate": {
                 "from": [
                     10000000,
@@ -1389,7 +1399,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "406906204309159937": {
         "modification_history": {
