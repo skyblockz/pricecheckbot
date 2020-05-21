@@ -442,6 +442,16 @@
                     550000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "boots_of_growth": {
                 "from": [
                     150000,
@@ -891,7 +901,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "344617760879542273": {
         "modification_history": {
