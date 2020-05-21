@@ -833,6 +833,16 @@
                     250000
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    110000,
+                    150000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "squid_boots": {
                 "from": [
                     2000,
@@ -901,7 +911,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "344617760879542273": {
         "modification_history": {
