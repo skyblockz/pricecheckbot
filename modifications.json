@@ -1000,6 +1000,16 @@
                     1300
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    415000,
+                    430000
+                ],
+                "to": [
+                    390000,
+                    400000
+                ]
+            },
             "enchanted_nether_wart": {
                 "from": [
                     2000,
@@ -1081,7 +1091,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "383791723945394176": {
         "modification_history": {
