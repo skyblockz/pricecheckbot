@@ -1365,6 +1365,16 @@
                     215000
                 ]
             },
+            "combat_xp_boost_iii": {
+                "from": [
+                    35000,
+                    40000
+                ],
+                "to": [
+                    40000,
+                    55000
+                ]
+            },
             "fairy's_galoshes": {
                 "from": [
                     50000,
@@ -1536,7 +1546,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "406906204309159937": {
         "modification_history": {
