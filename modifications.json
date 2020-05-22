@@ -15,10 +15,6 @@
         "modification_history": {},
         "total_mods": 0
     },
-    "344617760879542273": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "366232910334001152": {
         "modification_history": {},
         "total_mods": 0
@@ -27,23 +23,11 @@
         "modification_history": {},
         "total_mods": 0
     },
-    "387742597298388993": {
-        "modification_history": {},
-        "total_mods": 0
-    },
     "390661701046894592": {
         "modification_history": {},
         "total_mods": 0
     },
     "406906204309159937": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "419714628059267072": {
-        "modification_history": {},
-        "total_mods": 0
-    },
-    "462227575381426187": {
         "modification_history": {},
         "total_mods": 0
     },
@@ -56,8 +40,19 @@
         "total_mods": 0
     },
     "523019950072266764": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "grand_experience_bottle": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    3100,
+                    3500
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "614661627513536526": {
         "modification_history": {},
