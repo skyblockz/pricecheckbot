@@ -1475,6 +1475,16 @@
                     2500
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    500,
+                    4000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "superb_carrot_candy": {
                 "from": [
                     2600000,
@@ -1526,7 +1536,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "406906204309159937": {
         "modification_history": {
