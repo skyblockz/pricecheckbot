@@ -1235,6 +1235,16 @@
                     20000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    105000,
+                    120000
+                ],
+                "to": [
+                    97000,
+                    103000
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     9800,
@@ -1396,7 +1406,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "387742597298388993": {
         "modification_history": {
