@@ -1185,6 +1185,16 @@
                     270000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    48000,
+                    50000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     5600,
@@ -1356,7 +1366,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "387742597298388993": {
         "modification_history": {
