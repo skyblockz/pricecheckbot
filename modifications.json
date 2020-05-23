@@ -251,6 +251,16 @@
                     2500
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     240000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "383791723945394176": {
         "modification_history": {},
