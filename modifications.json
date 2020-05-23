@@ -281,6 +281,16 @@
                     212000
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    115000,
+                    125000
+                ],
+                "to": [
+                    113000,
+                    120000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     2000,
@@ -322,7 +332,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "383791723945394176": {
         "modification_history": {},
