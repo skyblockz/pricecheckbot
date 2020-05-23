@@ -329,6 +329,16 @@
                     165000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    3500000,
+                    4150000
+                ],
+                "to": [
+                    3200000,
+                    3800000
+                ]
+            },
             "reaper_mask": {
                 "from": [
                     12000000,
@@ -397,7 +407,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "664325814531391528": {
         "modification_history": {},
