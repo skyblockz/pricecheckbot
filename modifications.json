@@ -54,6 +54,16 @@
                     800000
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    400000,
+                    600000
+                ],
+                "to": [
+                    450000,
+                    750000
+                ]
+            },
             "bat_person_leggings": {
                 "from": [
                     550000,
@@ -152,7 +162,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "354308340370898946": {
         "modification_history": {
