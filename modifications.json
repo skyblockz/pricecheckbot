@@ -43,8 +43,16 @@
         "total_mods": 4
     },
     "334763167391416322": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "repelling_candle": {
+                "from": null,
+                "to": [
+                    1000,
+                    10000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "354308340370898946": {
         "modification_history": {
