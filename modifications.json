@@ -27,6 +27,16 @@
                     600000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    500000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     390000,
@@ -38,7 +48,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "366232910334001152": {
         "modification_history": {},
