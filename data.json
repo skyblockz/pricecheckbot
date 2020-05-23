@@ -43,8 +43,8 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2500000,
+        "hi": 3200000,
+        "low": 2600000,
         "name": "aspect_of_the_dragons"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
         "ac": true,
-        "hi": 400000,
+        "hi": 420000,
         "low": 390000,
         "name": "enchanted_lava_bucket"
     },
@@ -1279,8 +1279,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 10800000,
+        "hi": 12500000,
+        "low": 11000000,
         "name": "ender_artifact"
     },
     {
@@ -1309,13 +1309,13 @@
     },
     {
         "ac": true,
-        "hi": 36000000,
-        "low": 32000000,
+        "hi": 50000000,
+        "low": 45000000,
         "name": "mosquito_bow"
     },
     {
         "ac": true,
-        "hi": 350000,
+        "hi": 500000,
         "low": 250000,
         "name": "critical_vi"
     },
@@ -1478,13 +1478,13 @@
     {
         "ac": true,
         "hi": 4000000,
-        "low": 2350000,
+        "low": 2250000,
         "name": "scorpion_foil"
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 8000000,
+        "hi": 9500000,
+        "low": 7500000,
         "name": "thick_scorpion_foil"
     },
     {
@@ -2605,8 +2605,8 @@
     },
     {
         "ac": true,
-        "hi": 500000,
-        "low": 400000,
+        "hi": 600000,
+        "low": 300000,
         "name": "cheap_tuxedo_pants"
     },
     {
@@ -5086,5 +5086,11 @@
         "hi": 1000,
         "low": 1000,
         "name": "ember_chestplate"
+    },
+    {
+        "ac": true,
+        "hi": 10000,
+        "low": 1000,
+        "name": "repelling_candle"
     }
 ]
