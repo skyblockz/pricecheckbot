@@ -1,14 +1,14 @@
 [
     {
         "ac": true,
-        "hi": 580000,
-        "low": 560000,
+        "hi": 590000,
+        "low": 580000,
         "name": "summoning_eye"
     },
     {
         "ac": true,
         "hi": 700000,
-        "low": 500000,
+        "low": 550000,
         "name": "strong_dragon_helmet"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 600000,
+        "hi": 600000,
+        "low": 500000,
         "name": "strong_dragon_boots"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
         "ac": true,
-        "hi": 950000,
-        "low": 950000,
+        "hi": 1000000,
+        "low": 750000,
         "name": "strong_dragon_leggings"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 725000,
+        "hi": 880000,
+        "low": 700000,
         "name": "strong_dragon_chestplate"
     },
     {
@@ -860,7 +860,7 @@
     {
         "ac": true,
         "hi": 165000,
-        "low": 160000,
+        "low": 163000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -1099,20 +1099,20 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 500000,
+        "hi": 500000,
+        "low": 400000,
         "name": "young_dragon_boots"
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 600000,
+        "hi": 900000,
+        "low": 725000,
         "name": "young_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 650000,
+        "hi": 880000,
+        "low": 700000,
         "name": "young_dragon_chestplate"
     },
     {
@@ -1274,7 +1274,7 @@
     {
         "ac": true,
         "hi": 750000,
-        "low": 600000,
+        "low": 650000,
         "name": "young_dragon_helmet"
     },
     {
@@ -1903,8 +1903,8 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 500000,
+        "hi": 800000,
+        "low": 600000,
         "name": "bat_person_chestplate"
     },
     {
@@ -2161,8 +2161,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 630000,
+        "hi": 635000,
+        "low": 600000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2383,20 +2383,20 @@
     },
     {
         "ac": true,
-        "hi": 650000,
+        "hi": 775000,
         "low": 550000,
         "name": "bat_person_leggings"
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 400000,
+        "hi": 750000,
+        "low": 450000,
         "name": "bat_person_helmet"
     },
     {
         "ac": true,
-        "hi": 550000,
-        "low": 400000,
+        "hi": 750000,
+        "low": 450000,
         "name": "bat_person_boots"
     },
     {
@@ -5092,5 +5092,11 @@
         "hi": 10000,
         "low": 1000,
         "name": "repelling_candle"
+    },
+    {
+        "ac": true,
+        "hi": 7,
+        "low": 6,
+        "name": "sugar_cane"
     }
 ]
