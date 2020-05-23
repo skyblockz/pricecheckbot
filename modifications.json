@@ -271,6 +271,16 @@
                     265000
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    210000,
+                    215000
+                ],
+                "to": [
+                    210000,
+                    212000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     2000,
@@ -302,7 +312,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "383791723945394176": {
         "modification_history": {},
