@@ -299,6 +299,16 @@
                     635000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    500,
+                    3300
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "enchanted_sugar": {
                 "from": [
                     400,
@@ -337,7 +347,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "664325814531391528": {
         "modification_history": {},
