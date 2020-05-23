@@ -291,6 +291,16 @@
                     2500
                 ]
             },
+            "enchanted_quartz": {
+                "from": [
+                    1900,
+                    2000
+                ],
+                "to": [
+                    1600,
+                    1800
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     1000,
@@ -312,7 +322,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "383791723945394176": {
         "modification_history": {},
