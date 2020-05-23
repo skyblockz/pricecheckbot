@@ -231,6 +231,16 @@
                     600000
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    252500,
+                    266160
+                ],
+                "to": [
+                    250000,
+                    265000
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     615000,
@@ -292,7 +302,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "383791723945394176": {
         "modification_history": {},
