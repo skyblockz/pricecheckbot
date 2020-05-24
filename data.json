@@ -1795,8 +1795,8 @@
     },
     {
         "ac": true,
-        "hi": 1600000,
-        "low": 1100000,
+        "hi": 800000,
+        "low": 400000,
         "name": "divers_boots"
     },
     {
@@ -3169,8 +3169,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 140000,
+        "hi": 500000,
+        "low": 200000,
         "name": "zombie_leggings"
     },
     {
@@ -5110,5 +5110,11 @@
         "hi": 1300000,
         "low": 750000,
         "name": "divers_trunks"
+    },
+    {
+        "ac": true,
+        "hi": 65000000,
+        "low": 50000000,
+        "name": "lvl_1_legendary_blaze_pet"
     }
 ]
