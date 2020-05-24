@@ -61,8 +61,8 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 240000,
+        "hi": 260000,
+        "low": 250000,
         "name": "superior_dragon_fragment"
     },
     {
@@ -385,7 +385,7 @@
     },
     {
         "ac": true,
-        "hi": 215000,
+        "hi": 212000,
         "low": 210000,
         "name": "enchanted_diamond_block"
     },
@@ -499,8 +499,8 @@
     },
     {
         "ac": true,
-        "hi": 2000,
-        "low": 1900,
+        "hi": 1800,
+        "low": 1600,
         "name": "enchanted_quartz"
     },
     {
@@ -829,8 +829,8 @@
     },
     {
         "ac": true,
-        "hi": 266160,
-        "low": 252500,
+        "hi": 265000,
+        "low": 250000,
         "name": "enchanted_cactus"
     },
     {
@@ -841,8 +841,8 @@
     },
     {
         "ac": true,
-        "hi": 600,
-        "low": 400,
+        "hi": 1100,
+        "low": 1000,
         "name": "enchanted_sugar"
     },
     {
@@ -1117,8 +1117,8 @@
     },
     {
         "ac": true,
-        "hi": 84000000,
-        "low": 74000000,
+        "hi": 88000000,
+        "low": 71000000,
         "name": "overflux_power_orb"
     },
     {
@@ -1153,8 +1153,8 @@
     },
     {
         "ac": true,
-        "hi": 5250000,
-        "low": 4250000,
+        "hi": 4750000,
+        "low": 4400000,
         "name": "revived_heart"
     },
     {
@@ -1417,8 +1417,8 @@
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 10000,
+        "hi": 60000,
+        "low": 30000,
         "name": "smite_vi"
     },
     {
@@ -1951,8 +1951,8 @@
     },
     {
         "ac": true,
-        "hi": 4150000,
-        "low": 3500000,
+        "hi": 3800000,
+        "low": 3200000,
         "name": "mana_flux_power_orb"
     },
     {
@@ -2161,8 +2161,8 @@
     },
     {
         "ac": true,
-        "hi": 635000,
-        "low": 600000,
+        "hi": 600000,
+        "low": 590000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2251,14 +2251,14 @@
     },
     {
         "ac": true,
-        "hi": 69000000,
-        "low": 62500000,
+        "hi": 70000000,
+        "low": 63000000,
         "name": "overflux_capacitor"
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 2200000,
+        "hi": 2200000,
+        "low": 2000000,
         "name": "weird_tuba"
     },
     {
@@ -2269,8 +2269,8 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 12000000,
+        "hi": 10500000,
+        "low": 10000000,
         "name": "reaper_mask"
     },
     {
@@ -2407,8 +2407,8 @@
     },
     {
         "ac": true,
-        "hi": 1100,
-        "low": 1000,
+        "hi": 1000,
+        "low": 900,
         "name": "enchanted_spruce_wood"
     },
     {
@@ -2437,14 +2437,14 @@
     },
     {
         "ac": true,
-        "hi": 320000,
-        "low": 310000,
+        "hi": 280000,
+        "low": 260000,
         "name": "super_enchanted_egg"
     },
     {
         "ac": true,
-        "hi": 3300,
-        "low": 500,
+        "hi": 2000,
+        "low": 1800,
         "name": "enchanted_egg"
     },
     {
@@ -2461,8 +2461,8 @@
     },
     {
         "ac": true,
-        "hi": 405000,
-        "low": 340000,
+        "hi": 290000,
+        "low": 260000,
         "name": "enchanted_cooked_mutton"
     },
     {
@@ -3044,7 +3044,7 @@
     {
         "ac": true,
         "hi": 2500,
-        "low": 2000,
+        "low": 2300,
         "name": "enchanted_pufferfish"
     },
     {
@@ -3181,8 +3181,8 @@
     },
     {
         "ac": true,
-        "hi": 300000,
-        "low": 240000,
+        "hi": 265000,
+        "low": 250000,
         "name": "enchanted_cooked_salmon"
     },
     {
@@ -3529,8 +3529,8 @@
     },
     {
         "ac": true,
-        "hi": 770000,
-        "low": 615000,
+        "hi": 900000,
+        "low": 850000,
         "name": "enchanted_cooked_fish"
     },
     {
@@ -4969,8 +4969,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 115000,
+        "hi": 120000,
+        "low": 113000,
         "name": "enchanted_glowstone"
     },
     {
@@ -5098,5 +5098,11 @@
         "hi": 7,
         "low": 6,
         "name": "sugar_cane"
+    },
+    {
+        "ac": true,
+        "hi": 3000,
+        "low": 3000,
+        "name": "endstone_rose"
     }
 ]
