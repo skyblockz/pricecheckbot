@@ -1801,14 +1801,14 @@
     },
     {
         "ac": true,
-        "hi": 2100000,
-        "low": 1600000,
+        "hi": 1000000,
+        "low": 600000,
         "name": "divers_mask"
     },
     {
         "ac": true,
-        "hi": 4800000,
-        "low": 3000000,
+        "hi": 1500000,
+        "low": 900000,
         "name": "divers_shirt"
     },
     {
@@ -2167,8 +2167,8 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 575000,
+        "hi": 900000,
+        "low": 600000,
         "name": "revenant_falchion"
     },
     {
@@ -5104,5 +5104,11 @@
         "hi": 3000,
         "low": 3000,
         "name": "endstone_rose"
+    },
+    {
+        "ac": true,
+        "hi": 1300000,
+        "low": 750000,
+        "name": "divers_trunks"
     }
 ]
