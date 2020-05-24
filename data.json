@@ -2323,8 +2323,8 @@
     },
     {
         "ac": true,
-        "hi": 250000,
-        "low": 250000,
+        "hi": 700000,
+        "low": 450000,
         "name": "chestplate_of_the_pack"
     },
     {
@@ -5128,5 +5128,11 @@
         "hi": 600000,
         "low": 400000,
         "name": "leggings_of_the_pack"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 200000,
+        "name": "helmet_of_the_pack"
     }
 ]
