@@ -424,6 +424,16 @@
                     300000
                 ]
             },
+            "chestplate_of_the_pack": {
+                "from": [
+                    250000,
+                    250000
+                ],
+                "to": [
+                    450000,
+                    700000
+                ]
+            },
             "divers_boots": {
                 "from": [
                     1100000,
@@ -633,7 +643,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "664325814531391528": {
         "modification_history": {},
