@@ -417,6 +417,16 @@
     },
     "645434212639571971": {
         "modification_history": {
+            "divers_mask": {
+                "from": [
+                    1600000,
+                    2100000
+                ],
+                "to": [
+                    600000,
+                    1000000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     630000,
@@ -565,7 +575,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "664325814531391528": {
         "modification_history": {},
