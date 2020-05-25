@@ -25,6 +25,16 @@
                     280000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    180000,
+                    210000
+                ],
+                "to": [
+                    160000,
+                    200000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     250000,
@@ -280,7 +290,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "325337387796267019": {
         "modification_history": {
