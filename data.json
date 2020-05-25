@@ -5029,8 +5029,8 @@
     },
     {
         "ac": true,
-        "hi": 550000,
-        "low": 500000,
+        "hi": 500000,
+        "low": 350000,
         "name": "travel_scroll_to_the_end"
     },
     {
@@ -5182,5 +5182,11 @@
         "hi": 2300000,
         "low": 2000000,
         "name": "travel_scroll_to_dark_auction"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 100000,
+        "name": "travel_scroll_to_the_barn"
     }
 ]
