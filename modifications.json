@@ -586,6 +586,13 @@
                     9200
                 ]
             },
+            "leather": {
+                "from": null,
+                "to": [
+                    15,
+                    25
+                ]
+            },
             "repelling_candle": {
                 "from": null,
                 "to": [
@@ -674,7 +681,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "354308340370898946": {
         "modification_history": {
