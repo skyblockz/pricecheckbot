@@ -5059,8 +5059,8 @@
     },
     {
         "ac": true,
-        "hi": 13000000,
-        "low": 1000000,
+        "hi": 4000000,
+        "low": 2000000,
         "name": "travel_scroll_to_dragon's_nest"
     },
     {
@@ -5176,5 +5176,11 @@
         "hi": 100000000,
         "low": 80000000,
         "name": "lvl_100_legendary_golem"
+    },
+    {
+        "ac": true,
+        "hi": 2300000,
+        "low": 2000000,
+        "name": "travel_scroll_to_dark_auction"
     }
 ]
