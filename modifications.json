@@ -683,6 +683,16 @@
                     3500
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     32000000,
@@ -704,7 +714,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "614661627513536526": {
         "modification_history": {},
