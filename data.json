@@ -5065,8 +5065,8 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 20000,
+        "hi": 20000,
+        "low": 10000,
         "name": "travel_scroll_to_howling_cave"
     },
     {
@@ -5248,5 +5248,11 @@
         "hi": 100000,
         "low": 50000,
         "name": "travel_scroll_to_magma_fields"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 500000,
+        "name": "travel_scroll_to_spider's_den"
     }
 ]
