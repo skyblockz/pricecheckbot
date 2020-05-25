@@ -105,6 +105,16 @@
                     4000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    82200,
+                    84700
+                ],
+                "to": [
+                    70000,
+                    75000
+                ]
+            },
             "enchanted_slimeblock": {
                 "from": [
                     210000,
@@ -360,7 +370,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "325337387796267019": {
         "modification_history": {
