@@ -56,6 +56,16 @@
                     4000000
                 ]
             },
+            "repelling_candle": {
+                "from": [
+                    1000,
+                    10000
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "speed_artifact": {
                 "from": null,
                 "to": [
@@ -71,7 +81,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "325337387796267019": {
         "modification_history": {
