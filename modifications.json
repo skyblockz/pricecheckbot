@@ -491,6 +491,16 @@
                     275000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    600000,
+                    750000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     15000,
@@ -542,7 +552,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "334763167391416322": {
         "modification_history": {
