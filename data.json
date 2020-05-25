@@ -668,7 +668,7 @@
     {
         "ac": true,
         "hi": 120000,
-        "low": 118000,
+        "low": 115000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -883,8 +883,8 @@
     },
     {
         "ac": true,
-        "hi": 755,
-        "low": 700,
+        "hi": 725,
+        "low": 625,
         "name": "enchanted_raw_beef"
     },
     {
@@ -1063,8 +1063,8 @@
     },
     {
         "ac": true,
-        "hi": 132000,
-        "low": 128000,
+        "hi": 122000,
+        "low": 117000,
         "name": "hot_potato_book"
     },
     {
@@ -1141,8 +1141,8 @@
     },
     {
         "ac": true,
-        "hi": 9200,
-        "low": 9000,
+        "hi": 10000,
+        "low": 9200,
         "name": "purple_candy"
     },
     {
@@ -1687,8 +1687,8 @@
     },
     {
         "ac": true,
-        "hi": 10400000,
-        "low": 10400000,
+        "hi": 12000000,
+        "low": 10000000,
         "name": "perfect_chestplate_xii"
     },
     {
@@ -2089,8 +2089,8 @@
     },
     {
         "ac": true,
-        "hi": 1450,
-        "low": 1250,
+        "hi": 1400,
+        "low": 1200,
         "name": "green_candy"
     },
     {
@@ -5278,5 +5278,11 @@
         "hi": 25,
         "low": 15,
         "name": "leather"
+    },
+    {
+        "ac": true,
+        "hi": 10,
+        "low": 1,
+        "name": "azure_bluet"
     }
 ]
