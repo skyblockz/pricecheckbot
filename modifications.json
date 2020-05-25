@@ -117,9 +117,19 @@
                     2000000,
                     4000000
                 ]
+            },
+            "travel_scroll_to_the_end": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "325337387796267019": {
         "modification_history": {
