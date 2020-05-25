@@ -30,10 +30,13 @@
                 ]
             },
             "lvl_100_epic_ocelot": {
-                "from": null,
-                "to": [
+                "from": [
                     6000000,
                     8000000
+                ],
+                "to": [
+                    10000000,
+                    12000000
                 ]
             },
             "lvl_100_epic_wither_skeleton": {
@@ -237,7 +240,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "325337387796267019": {
         "modification_history": {
