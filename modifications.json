@@ -707,6 +707,16 @@
                     1000000
                 ]
             },
+            "travel_scroll_to_magma_fields": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     500000,
@@ -748,7 +758,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "354308340370898946": {
         "modification_history": {
