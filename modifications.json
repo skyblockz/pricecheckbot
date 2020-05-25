@@ -18,9 +18,16 @@
                     7500000,
                     8500000
                 ]
+            },
+            "speed_ring": {
+                "from": null,
+                "to": [
+                    100000,
+                    110000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "325337387796267019": {
         "modification_history": {
