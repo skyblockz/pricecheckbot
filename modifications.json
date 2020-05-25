@@ -29,6 +29,16 @@
                     12500000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    240000,
+                    350000
+                ],
+                "to": [
+                    200000,
+                    275000
+                ]
+            },
             "scorpion_foil": {
                 "from": [
                     7500000,
@@ -50,7 +60,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "334763167391416322": {
         "modification_history": {
