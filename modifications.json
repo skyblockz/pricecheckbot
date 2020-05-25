@@ -714,6 +714,16 @@
                     1000000
                 ]
             },
+            "travel_scroll_to_howling_cave": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "travel_scroll_to_magma_fields": {
                 "from": [
                     50000,
@@ -765,7 +775,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "354308340370898946": {
         "modification_history": {
