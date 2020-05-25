@@ -667,8 +667,8 @@
     },
     {
         "ac": true,
-        "hi": 125000,
-        "low": 121000,
+        "hi": 120000,
+        "low": 118000,
         "name": "enchanted_baked_potato"
     },
     {
@@ -1105,14 +1105,14 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 725000,
+        "hi": 825000,
+        "low": 700000,
         "name": "young_dragon_leggings"
     },
     {
         "ac": true,
-        "hi": 880000,
-        "low": 700000,
+        "hi": 850000,
+        "low": 750000,
         "name": "young_dragon_chestplate"
     },
     {
@@ -1315,7 +1315,7 @@
     },
     {
         "ac": true,
-        "hi": 500000,
+        "hi": 350000,
         "low": 250000,
         "name": "critical_vi"
     },
@@ -1477,8 +1477,8 @@
     },
     {
         "ac": true,
-        "hi": 4000000,
-        "low": 2250000,
+        "hi": 5000000,
+        "low": 4000000,
         "name": "scorpion_foil"
     },
     {
@@ -2275,8 +2275,8 @@
     },
     {
         "ac": true,
-        "hi": 350000,
-        "low": 240000,
+        "hi": 275000,
+        "low": 200000,
         "name": "healing_ring"
     },
     {
@@ -5128,5 +5128,11 @@
         "hi": 300000,
         "low": 200000,
         "name": "helmet_of_the_pack"
+    },
+    {
+        "ac": true,
+        "hi": 120000000,
+        "low": 100000000,
+        "name": "lvl_1_legendary_phoenix"
     }
 ]
