@@ -139,6 +139,13 @@
                     4000000
                 ]
             },
+            "travel_scroll_to_hub_crypts": {
+                "from": null,
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "travel_scroll_to_jungle_island": {
                 "from": null,
                 "to": [
@@ -171,7 +178,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "325337387796267019": {
         "modification_history": {
