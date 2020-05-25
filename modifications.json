@@ -29,6 +29,16 @@
                     120000000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    2000000,
+                    2300000
+                ],
+                "to": [
+                    2500000,
+                    4000000
+                ]
+            },
             "speed_artifact": {
                 "from": null,
                 "to": [
@@ -44,7 +54,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "325337387796267019": {
         "modification_history": {
