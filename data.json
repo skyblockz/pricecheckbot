@@ -4687,8 +4687,8 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 850000,
+        "hi": 1300000,
+        "low": 1000000,
         "name": "lvl_1_epic_endermite"
     },
     {
@@ -5089,7 +5089,7 @@
     },
     {
         "ac": true,
-        "hi": 10000,
+        "hi": 5000,
         "low": 1000,
         "name": "repelling_candle"
     },
@@ -5158,5 +5158,11 @@
         "hi": 42000000,
         "low": 38000000,
         "name": "lvl_100_legendary_wither_skeleton"
+    },
+    {
+        "ac": true,
+        "hi": 8000000,
+        "low": 6000000,
+        "name": "lvl_100_epic_ocelot"
     }
 ]
