@@ -623,6 +623,16 @@
                     25
                 ]
             },
+            "purple_candy": {
+                "from": [
+                    9000,
+                    9200
+                ],
+                "to": [
+                    9200,
+                    10000
+                ]
+            },
             "repelling_candle": {
                 "from": null,
                 "to": [
@@ -711,7 +721,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "354308340370898946": {
         "modification_history": {
