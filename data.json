@@ -4693,8 +4693,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4500000,
+        "hi": 2500000,
+        "low": 2000000,
         "name": "lvl_1_legendary_endermite"
     },
     {
@@ -5065,8 +5065,8 @@
     },
     {
         "ac": true,
-        "hi": 20000,
-        "low": 10000,
+        "hi": 500,
+        "low": 500,
         "name": "travel_scroll_to_howling_cave"
     },
     {
@@ -5290,5 +5290,11 @@
         "hi": 1650000,
         "low": 1650000,
         "name": "skeleton_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 1330000,
+        "low": 1330000,
+        "name": "magma_cube_minion_xi"
     }
 ]
