@@ -146,6 +146,13 @@
                     150000
                 ]
             },
+            "travel_scroll_to_hub_castle": {
+                "from": null,
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "travel_scroll_to_hub_crypts": {
                 "from": null,
                 "to": [
@@ -192,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "325337387796267019": {
         "modification_history": {
