@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 84700,
-        "low": 82200,
+        "hi": 75000,
+        "low": 70000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -259,8 +259,8 @@
     },
     {
         "ac": true,
-        "hi": 890,
-        "low": 750,
+        "hi": 950,
+        "low": 900,
         "name": "enchanted_cobblestone"
     },
     {
@@ -343,8 +343,8 @@
     },
     {
         "ac": true,
-        "hi": 264000,
-        "low": 258000,
+        "hi": 250000,
+        "low": 230000,
         "name": "enchanted_gold_block"
     },
     {
@@ -439,8 +439,8 @@
     },
     {
         "ac": true,
-        "hi": 160000,
-        "low": 148000,
+        "hi": 170000,
+        "low": 160000,
         "name": "enchanted_emerald_block"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 293000,
-        "low": 279000,
+        "hi": 280000,
+        "low": 270000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -535,8 +535,8 @@
     },
     {
         "ac": true,
-        "hi": 4900,
-        "low": 4800,
+        "hi": 4700,
+        "low": 4500,
         "name": "enchanted_obsidian"
     },
     {
@@ -553,20 +553,20 @@
     },
     {
         "ac": true,
-        "hi": 2700,
-        "low": 2600,
+        "hi": 3200,
+        "low": 3000,
         "name": "enchanted_flint"
     },
     {
         "ac": true,
-        "hi": 900,
-        "low": 700,
+        "hi": 800,
+        "low": 500,
         "name": "enchanted_ice"
     },
     {
         "ac": true,
-        "hi": 127000,
-        "low": 121000,
+        "hi": 110000,
+        "low": 100000,
         "name": "enchanted_packed_ice"
     },
     {
@@ -859,8 +859,8 @@
     },
     {
         "ac": true,
-        "hi": 165000,
-        "low": 163000,
+        "hi": 170000,
+        "low": 160000,
         "name": "enchanted_sugar_cane"
     },
     {
@@ -919,8 +919,8 @@
     },
     {
         "ac": true,
-        "hi": 270000,
-        "low": 250000,
+        "hi": 280000,
+        "low": 260000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -943,8 +943,8 @@
     },
     {
         "ac": true,
-        "hi": 5050,
-        "low": 4700,
+        "hi": 4000,
+        "low": 3500,
         "name": "enchanted_rabbit_foot"
     },
     {
@@ -1129,8 +1129,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 100000,
+        "hi": 100000,
+        "low": 50000,
         "name": "hurricane_bow"
     },
     {
@@ -1477,8 +1477,8 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4000000,
+        "hi": 3700000,
+        "low": 2700000,
         "name": "scorpion_foil"
     },
     {
@@ -1873,8 +1873,8 @@
     },
     {
         "ac": true,
-        "hi": 1800,
-        "low": 1600,
+        "hi": 1300,
+        "low": 1000,
         "name": "enchanted_string"
     },
     {
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 140000,
-        "low": 125000,
+        "hi": 150000,
+        "low": 140000,
         "name": "enchanted_fermented_spider_eye"
     },
     {
@@ -2161,8 +2161,8 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 590000,
+        "hi": 640000,
+        "low": 620000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2461,8 +2461,8 @@
     },
     {
         "ac": true,
-        "hi": 290000,
-        "low": 260000,
+        "hi": 280000,
+        "low": 250000,
         "name": "enchanted_cooked_mutton"
     },
     {
@@ -2869,8 +2869,8 @@
     },
     {
         "ac": true,
-        "hi": 255000,
-        "low": 210000,
+        "hi": 190000,
+        "low": 170000,
         "name": "enchanted_slimeblock"
     },
     {
@@ -3121,8 +3121,8 @@
     },
     {
         "ac": true,
-        "hi": 210000,
-        "low": 180000,
+        "hi": 200000,
+        "low": 160000,
         "name": "enchanted_firework_rocket"
     },
     {
@@ -3499,8 +3499,8 @@
     },
     {
         "ac": true,
-        "hi": 3000,
-        "low": 2700,
+        "hi": 2300,
+        "low": 2000,
         "name": "enchanted_sand"
     },
     {
@@ -4297,8 +4297,8 @@
     },
     {
         "ac": true,
-        "hi": 2100,
-        "low": 1600,
+        "hi": 1300,
+        "low": 1000,
         "name": "enchanted_oak_wood"
     },
     {
@@ -5161,8 +5161,8 @@
     },
     {
         "ac": true,
-        "hi": 8000000,
-        "low": 6000000,
+        "hi": 12000000,
+        "low": 10000000,
         "name": "lvl_100_epic_ocelot"
     },
     {
@@ -5266,5 +5266,11 @@
         "hi": 7000000,
         "low": 5000000,
         "name": "lvl_100_epic_bat"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "magma_cube_minion_i"
     }
 ]
