@@ -75,6 +75,16 @@
                     4000
                 ]
             },
+            "enchanted_slimeblock": {
+                "from": [
+                    210000,
+                    255000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
             "enchanted_string": {
                 "from": [
                     1600,
@@ -320,7 +330,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "325337387796267019": {
         "modification_history": {
