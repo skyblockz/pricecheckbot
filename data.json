@@ -5245,8 +5245,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 50000,
+        "hi": 500,
+        "low": 500,
         "name": "travel_scroll_to_magma_fields"
     },
     {
@@ -5284,5 +5284,11 @@
         "hi": 10,
         "low": 1,
         "name": "azure_bluet"
+    },
+    {
+        "ac": true,
+        "hi": 1650000,
+        "low": 1650000,
+        "name": "skeleton_minion_xi"
     }
 ]
