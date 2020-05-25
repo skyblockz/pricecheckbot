@@ -118,6 +118,13 @@
                     4000000
                 ]
             },
+            "travel_scroll_to_the_barn": {
+                "from": null,
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "travel_scroll_to_the_end": {
                 "from": [
                     500000,
@@ -129,7 +136,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "325337387796267019": {
         "modification_history": {
