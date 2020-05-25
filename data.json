@@ -4621,8 +4621,8 @@
     },
     {
         "ac": true,
-        "hi": 2300000,
-        "low": 2000000,
+        "hi": 4000000,
+        "low": 2500000,
         "name": "lvl_1_legendary_wither_skeleton"
     },
     {
@@ -5152,5 +5152,11 @@
         "hi": 5000000,
         "low": 3000000,
         "name": "lvl_100_epic_wither_skeleton"
+    },
+    {
+        "ac": true,
+        "hi": 42000000,
+        "low": 38000000,
+        "name": "lvl_100_legendary_wither_skeleton"
     }
 ]
