@@ -160,6 +160,13 @@
                     50000
                 ]
             },
+            "travel_scroll_to_mushroom_island": {
+                "from": null,
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "travel_scroll_to_the_barn": {
                 "from": null,
                 "to": [
@@ -185,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "325337387796267019": {
         "modification_history": {
