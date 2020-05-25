@@ -3571,8 +3571,8 @@
     },
     {
         "ac": true,
-        "hi": 224000,
-        "low": 208000,
+        "hi": 210000,
+        "low": 190000,
         "name": "enchanted_block_of_coal"
     },
     {
@@ -5146,5 +5146,11 @@
         "hi": 110000,
         "low": 100000,
         "name": "speed_ring"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 3000000,
+        "name": "lvl_100_epic_wither_skeleton"
     }
 ]
