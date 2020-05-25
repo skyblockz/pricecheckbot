@@ -491,6 +491,16 @@
                     275000
                 ]
             },
+            "scavenger_iv": {
+                "from": [
+                    15000,
+                    30000
+                ],
+                "to": [
+                    40000,
+                    60000
+                ]
+            },
             "scorpion_foil": {
                 "from": [
                     7500000,
@@ -532,7 +542,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "334763167391416322": {
         "modification_history": {
