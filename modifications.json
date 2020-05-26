@@ -222,6 +222,16 @@
                     1200000
                 ]
             },
+            "green_gift": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    5000,
+                    6000
+                ]
+            },
             "lvl_100_epic_bat": {
                 "from": null,
                 "to": [
@@ -460,7 +470,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "325337387796267019": {
         "modification_history": {
