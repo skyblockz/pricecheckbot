@@ -252,6 +252,16 @@
                     100000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    1200,
+                    1400
+                ],
+                "to": [
+                    1000,
+                    1300
+                ]
+            },
             "green_gift": {
                 "from": [
                     5000,
@@ -530,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "325337387796267019": {
         "modification_history": {
