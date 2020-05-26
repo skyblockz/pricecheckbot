@@ -1447,12 +1447,12 @@
             },
             "enchanted_glowstone": {
                 "from": [
-                    115000,
-                    125000
-                ],
-                "to": [
                     113000,
                     120000
+                ],
+                "to": [
+                    110000,
+                    113000
                 ]
             },
             "enchanted_grilled_pork": {
@@ -1536,7 +1536,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "383791723945394176": {
         "modification_history": {},
