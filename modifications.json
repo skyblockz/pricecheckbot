@@ -565,6 +565,16 @@
                     90000000
                 ]
             },
+            "tier_boost_core": {
+                "from": [
+                    100000000,
+                    120000000
+                ],
+                "to": [
+                    70000000,
+                    90000000
+                ]
+            },
             "travel_scroll_to_blazing_fortress": {
                 "from": null,
                 "to": [
@@ -700,7 +710,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "325337387796267019": {
         "modification_history": {
