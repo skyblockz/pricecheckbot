@@ -416,6 +416,13 @@
                     13000000
                 ]
             },
+            "epic_combat_exp_boost": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
             "fairy's_polo": {
                 "from": [
                     60000,
@@ -961,7 +968,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "325337387796267019": {
         "modification_history": {
