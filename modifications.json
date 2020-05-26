@@ -365,6 +365,16 @@
                     9000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    580000,
+                    590000
+                ],
+                "to": [
+                    570000,
+                    585000
+                ]
+            },
             "travel_scroll_to_blazing_fortress": {
                 "from": null,
                 "to": [
@@ -490,7 +500,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "325337387796267019": {
         "modification_history": {
