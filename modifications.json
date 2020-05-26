@@ -1,7 +1,48 @@
 {
     "298613178601046017": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "divers_mask": {
+                "from": [
+                    600000,
+                    1000000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
+            "emperors_skull": {
+                "from": [
+                    120000,
+                    180000
+                ],
+                "to": [
+                    380000,
+                    460000
+                ]
+            },
+            "red_claw_egg": {
+                "from": [
+                    1000000,
+                    1400000
+                ],
+                "to": [
+                    600000,
+                    900000
+                ]
+            },
+            "titanic_experience_bottle": {
+                "from": [
+                    150000,
+                    340000
+                ],
+                "to": [
+                    280000,
+                    345000
+                ]
+            }
+        },
+        "total_mods": 4
     },
     "325104094530502684": {
         "modification_history": {
@@ -1458,8 +1499,19 @@
         "total_mods": 0
     },
     "466769036122783744": {
-        "modification_history": {},
-        "total_mods": 5000
+        "modification_history": {
+            "horsemans_candle": {
+                "from": [
+                    350000,
+                    350000
+                ],
+                "to": [
+                    285000,
+                    300000
+                ]
+            }
+        },
+        "total_mods": 5001
     },
     "475800928025575424": {
         "modification_history": {},
