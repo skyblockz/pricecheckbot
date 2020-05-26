@@ -4483,8 +4483,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 20000,
+        "hi": 20000,
+        "low": 5000,
         "name": "lvl_1_epic_enderman"
     },
     {
@@ -5305,8 +5305,14 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 30000,
+        "hi": 5000000,
+        "low": 3000000,
         "name": "lvl_100_epic_enderman"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1000000,
+        "name": "epic_combat_exp_boost"
     }
 ]
