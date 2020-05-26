@@ -325,6 +325,16 @@
                     110000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    6100,
+                    6400
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "travel_scroll_to_blazing_fortress": {
                 "from": null,
                 "to": [
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "325337387796267019": {
         "modification_history": {
