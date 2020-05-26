@@ -1505,6 +1505,16 @@
                     1000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    580000,
+                    590000
+                ],
+                "to": [
+                    550000,
+                    560000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     240000,
@@ -1516,7 +1526,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "383791723945394176": {
         "modification_history": {},
