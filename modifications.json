@@ -265,6 +265,16 @@
                     170000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    300000,
+                    355000
+                ],
+                "to": [
+                    280000,
+                    315000
+                ]
+            },
             "french_bread": {
                 "from": null,
                 "to": [
@@ -620,7 +630,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "325337387796267019": {
         "modification_history": {
