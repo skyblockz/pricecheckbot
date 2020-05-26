@@ -1477,6 +1477,16 @@
                     350000
                 ]
             },
+            "enchanted_ghast_tear": {
+                "from": [
+                    640000,
+                    650000
+                ],
+                "to": [
+                    85,
+                    100
+                ]
+            },
             "endstone_rose": {
                 "from": null,
                 "to": [
@@ -1525,7 +1535,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
