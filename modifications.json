@@ -1367,12 +1367,12 @@
         "modification_history": {
             "enchanted_blaze_rod": {
                 "from": [
-                    620000,
-                    640000
-                ],
-                "to": [
                     490000,
                     550000
+                ],
+                "to": [
+                    3000,
+                    3200
                 ]
             },
             "enchanted_cactus": {
@@ -1536,7 +1536,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "383791723945394176": {
         "modification_history": {},
