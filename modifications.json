@@ -1535,6 +1535,16 @@
                     1000
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    98000,
+                    102000
+                ],
+                "to": [
+                    91000,
+                    102000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     580000,
@@ -1566,7 +1576,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "383791723945394176": {
         "modification_history": {},
