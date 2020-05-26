@@ -306,10 +306,13 @@
                 ]
             },
             "french_bread": {
-                "from": null,
-                "to": [
+                "from": [
                     800000,
                     1200000
+                ],
+                "to": [
+                    800000,
+                    1500000
                 ]
             },
             "golden_tooth": {
@@ -720,7 +723,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "325337387796267019": {
         "modification_history": {
