@@ -365,6 +365,16 @@
                     130000
                 ]
             },
+            "krampus_helmet": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
             "lvl_100_epic_bat": {
                 "from": null,
                 "to": [
@@ -733,7 +743,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "325337387796267019": {
         "modification_history": {
