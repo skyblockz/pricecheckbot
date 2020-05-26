@@ -115,6 +115,16 @@
                     800
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    390000,
+                    420000
+                ],
+                "to": [
+                    390000,
+                    405000
+                ]
+            },
             "enchanted_oak_wood": {
                 "from": [
                     1600,
@@ -480,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "325337387796267019": {
         "modification_history": {
