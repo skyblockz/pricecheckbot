@@ -1455,6 +1455,16 @@
                     120000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    48000,
+                    50000
+                ],
+                "to": [
+                    45000,
+                    48000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     2000,
@@ -1496,7 +1506,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "383791723945394176": {
         "modification_history": {},
