@@ -461,6 +461,16 @@
                     13
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    48000,
+                    51000
+                ],
+                "to": [
+                    42000,
+                    45000
+                ]
+            },
             "speed_artifact": {
                 "from": null,
                 "to": [
@@ -640,7 +650,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "325337387796267019": {
         "modification_history": {
