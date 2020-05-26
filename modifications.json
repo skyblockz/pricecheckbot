@@ -145,6 +145,16 @@
                     405000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    48000,
+                    50000
+                ],
+                "to": [
+                    45000,
+                    47000
+                ]
+            },
             "enchanted_oak_wood": {
                 "from": [
                     1600,
@@ -670,7 +680,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "325337387796267019": {
         "modification_history": {
