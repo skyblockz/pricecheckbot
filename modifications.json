@@ -451,6 +451,16 @@
                     5000
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    7,
+                    10
+                ],
+                "to": [
+                    10,
+                    13
+                ]
+            },
             "speed_artifact": {
                 "from": null,
                 "to": [
@@ -630,7 +640,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "325337387796267019": {
         "modification_history": {
