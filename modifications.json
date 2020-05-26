@@ -1499,8 +1499,19 @@
         "total_mods": 0
     },
     "466769036122783744": {
-        "modification_history": {},
-        "total_mods": 5000
+        "modification_history": {
+            "horsemans_candle": {
+                "from": [
+                    350000,
+                    350000
+                ],
+                "to": [
+                    285000,
+                    300000
+                ]
+            }
+        },
+        "total_mods": 5001
     },
     "475800928025575424": {
         "modification_history": {},
