@@ -395,7 +395,10 @@
                 ]
             },
             "travel_scroll_to_magma_fields": {
-                "from": null,
+                "from": [
+                    500,
+                    500
+                ],
                 "to": [
                     50000,
                     100000
@@ -447,7 +450,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "325337387796267019": {
         "modification_history": {
