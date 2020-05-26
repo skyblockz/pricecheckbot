@@ -1545,6 +1545,13 @@
                     102000
                 ]
             },
+            "lvl_100_epic_enderman": {
+                "from": null,
+                "to": [
+                    30000,
+                    100000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     580000,
@@ -1576,7 +1583,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "383791723945394176": {
         "modification_history": {},
