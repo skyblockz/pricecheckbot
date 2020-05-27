@@ -1680,14 +1680,17 @@
                 ]
             },
             "test": {
-                "from": null,
-                "to": [
+                "from": [
                     1,
                     1
+                ],
+                "to": [
+                    2,
+                    2
                 ]
             }
         },
-        "total_mods": 5002
+        "total_mods": 5003
     },
     "475800928025575424": {
         "modification_history": {},
