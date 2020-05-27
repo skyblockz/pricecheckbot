@@ -855,6 +855,16 @@
                     90000000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    150000,
+                    340000
+                ],
+                "to": [
+                    200000,
+                    340000
+                ]
+            },
             "travel_scroll_to_blazing_fortress": {
                 "from": null,
                 "to": [
@@ -1010,7 +1020,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "325337387796267019": {
         "modification_history": {
