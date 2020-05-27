@@ -1708,6 +1708,16 @@
                     350000
                 ]
             },
+            "enchanted_bone": {
+                "from": [
+                    2800,
+                    2900
+                ],
+                "to": [
+                    1600,
+                    1800
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     640000,
@@ -1837,7 +1847,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "614661627513536526": {
         "modification_history": {},
