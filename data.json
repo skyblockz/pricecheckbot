@@ -1,8 +1,8 @@
 [
     {
         "ac": true,
-        "hi": 590000,
-        "low": 580000,
+        "hi": 560000,
+        "low": 550000,
         "name": "summoning_eye"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 270000,
+        "hi": 300000,
+        "low": 275000,
         "name": "enchanted_quartz_block"
     },
     {
@@ -920,7 +920,7 @@
     {
         "ac": true,
         "hi": 280000,
-        "low": 260000,
+        "low": 270000,
         "name": "enchanted_grilled_pork"
     },
     {
@@ -1004,7 +1004,7 @@
     {
         "ac": true,
         "hi": 102000,
-        "low": 98000,
+        "low": 91000,
         "name": "golden_tooth"
     },
     {
@@ -1351,8 +1351,8 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 48000,
+        "hi": 48000,
+        "low": 45000,
         "name": "enchanted_lily_pad"
     },
     {
@@ -1423,8 +1423,8 @@
     },
     {
         "ac": true,
-        "hi": 650000,
-        "low": 640000,
+        "hi": 100,
+        "low": 90,
         "name": "enchanted_ghast_tear"
     },
     {
@@ -1933,8 +1933,8 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 140000,
+        "hi": 140000,
+        "low": 130000,
         "name": "enchanted_fermented_spider_eye"
     },
     {
@@ -2017,8 +2017,8 @@
     },
     {
         "ac": true,
-        "hi": 5100,
-        "low": 4900,
+        "hi": 5000,
+        "low": 4600,
         "name": "enchanted_eye_of_ender"
     },
     {
@@ -2161,8 +2161,8 @@
     },
     {
         "ac": true,
-        "hi": 640000,
-        "low": 620000,
+        "hi": 3200,
+        "low": 3000,
         "name": "enchanted_blaze_rod"
     },
     {
@@ -2437,8 +2437,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 260000,
+        "hi": 260000,
+        "low": 240000,
         "name": "super_enchanted_egg"
     },
     {
@@ -2461,8 +2461,8 @@
     },
     {
         "ac": true,
-        "hi": 280000,
-        "low": 250000,
+        "hi": 300000,
+        "low": 270000,
         "name": "enchanted_cooked_mutton"
     },
     {
@@ -2869,7 +2869,7 @@
     },
     {
         "ac": true,
-        "hi": 190000,
+        "hi": 210000,
         "low": 170000,
         "name": "enchanted_slimeblock"
     },
@@ -3529,8 +3529,8 @@
     },
     {
         "ac": true,
-        "hi": 900000,
-        "low": 850000,
+        "hi": 880000,
+        "low": 800000,
         "name": "enchanted_cooked_fish"
     },
     {
@@ -4329,9 +4329,7 @@
         "ac": true,
         "hi": 1200000,
         "low": 850000,
-
         "name": "runaans_bow"
-
     },
     {
         "ac": true,
@@ -4343,9 +4341,7 @@
         "ac": true,
         "hi": 45000,
         "low": 25000,
-
         "name": "fairys_galoshes"
-
     },
     {
         "ac": true,
@@ -4487,8 +4483,8 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 20000,
+        "hi": 20000,
+        "low": 5000,
         "name": "lvl_1_epic_enderman"
     },
     {
@@ -4973,8 +4969,8 @@
     },
     {
         "ac": true,
-        "hi": 120000,
-        "low": 113000,
+        "hi": 113000,
+        "low": 110000,
         "name": "enchanted_glowstone"
     },
     {
@@ -5065,9 +5061,7 @@
         "ac": true,
         "hi": 4000000,
         "low": 2000000,
-
         "name": "travel_scroll_to_dragons_nest"
-
     },
     {
         "ac": true,
@@ -5259,17 +5253,13 @@
         "ac": true,
         "hi": 1000000,
         "low": 500000,
-
         "name": "travel_scroll_to_spiders_den"
-
     },
     {
         "ac": true,
         "hi": 100000,
         "low": 50000,
-
         "name": "travel_scroll_to_spiders_den_top_of_nest"
-
     },
     {
         "ac": true,
@@ -5306,5 +5296,47 @@
         "hi": 1330000,
         "low": 1330000,
         "name": "magma_cube_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 1500000,
+        "name": "snake_rune_iii"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 3000000,
+        "name": "lvl_100_epic_enderman"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1000000,
+        "name": "epic_combat_exp_boost"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "angler_chestplate"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 500,
+        "name": "angler_boots"
+    },
+    {
+        "ac": true,
+        "hi": 2000,
+        "low": 1000,
+        "name": "angler_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 1000,
+        "low": 500,
+        "name": "angler_helmet"
     }
 ]
