@@ -1755,6 +1755,13 @@
                     100000
                 ]
             },
+            "lvl_1_epic_ghoul": {
+                "from": null,
+                "to": [
+                    1500000,
+                    2500000
+                ]
+            },
             "lvl_1_legendary_skeleton_horse": {
                 "from": [
                     4000000,
@@ -1813,7 +1820,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
