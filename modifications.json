@@ -1680,17 +1680,14 @@
                 ]
             },
             "test": {
-                "from": [
+                "from": null,
+                "to": [
                     1,
                     1
-                ],
-                "to": [
-                    2,
-                    2
                 ]
             }
         },
-        "total_mods": 5003
+        "total_mods": 5006
     },
     "475800928025575424": {
         "modification_history": {},
@@ -1755,6 +1752,16 @@
                     100000
                 ]
             },
+            "lvl_1_legendary_skeleton_horse": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    2500000,
+                    4500000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     32000000,
@@ -1796,7 +1803,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "614661627513536526": {
         "modification_history": {},
