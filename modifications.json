@@ -1744,8 +1744,19 @@
         "total_mods": 1
     },
     "406906204309159937": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_blaze_rod": {
+                "from": [
+                    3000,
+                    3200
+                ],
+                "to": [
+                    500000,
+                    510000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "421405303951851520": {
         "modification_history": {},
