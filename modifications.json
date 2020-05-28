@@ -1842,6 +1842,16 @@
                     2650
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    97000,
+                    103000
+                ],
+                "to": [
+                    70000,
+                    80000
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1200,
@@ -2001,7 +2011,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "614661627513536526": {
         "modification_history": {},
