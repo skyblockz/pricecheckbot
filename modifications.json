@@ -1124,6 +1124,16 @@
                     750000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1700000,
+                    2000000
+                ],
+                "to": [
+                    1600000,
+                    1800000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     15000,
@@ -1175,7 +1185,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "334763167391416322": {
         "modification_history": {
