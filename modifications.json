@@ -1792,6 +1792,16 @@
                     1800
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    130000,
+                    140000
+                ],
+                "to": [
+                    120000,
+                    130000
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     640000,
@@ -1941,7 +1951,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "614661627513536526": {
         "modification_history": {},
