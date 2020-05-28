@@ -1802,6 +1802,16 @@
                     2300
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    210000,
+                    212000
+                ],
+                "to": [
+                    205000,
+                    210000
+                ]
+            },
             "enchanted_endstone": {
                 "from": [
                     2500,
@@ -2061,7 +2071,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "614661627513536526": {
         "modification_history": {},
