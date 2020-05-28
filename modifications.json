@@ -1795,6 +1795,16 @@
                     2000
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    1250,
+                    1400
+                ],
+                "to": [
+                    1075,
+                    1150
+                ]
+            },
             "enchanted_gold": {
                 "from": [
                     1600,
@@ -1906,7 +1916,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "421405303951851520": {
         "modification_history": {},
