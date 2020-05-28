@@ -1154,6 +1154,16 @@
                     4000000
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    100000,
+                    400000
+                ],
+                "to": [
+                    350000,
+                    550000
+                ]
+            },
             "thick_scorpion_foil": {
                 "from": [
                     8000000,
@@ -1195,7 +1205,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "334763167391416322": {
         "modification_history": {
