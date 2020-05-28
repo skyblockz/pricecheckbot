@@ -1802,6 +1802,16 @@
                     130000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    160000,
+                    200000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     640000,
@@ -1961,7 +1971,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "614661627513536526": {
         "modification_history": {},
