@@ -1879,6 +1879,16 @@
                     3500
                 ]
             },
+            "green_candy": {
+                "from": [
+                    1200,
+                    1400
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "horseman's_candle": {
                 "from": [
                     350000,
@@ -1991,7 +2001,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "614661627513536526": {
         "modification_history": {},
