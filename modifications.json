@@ -1802,6 +1802,16 @@
                     100
                 ]
             },
+            "enchanted_string": {
+                "from": [
+                    1000,
+                    1300
+                ],
+                "to": [
+                    850,
+                    1000
+                ]
+            },
             "endstone_rose": {
                 "from": null,
                 "to": [
@@ -1921,7 +1931,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "614661627513536526": {
         "modification_history": {},
