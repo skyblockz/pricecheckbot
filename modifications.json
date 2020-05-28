@@ -1812,6 +1812,16 @@
                     100
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    2800,
+                    3000
+                ],
+                "to": [
+                    2350,
+                    2650
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1200,
@@ -1951,7 +1961,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "614661627513536526": {
         "modification_history": {},
