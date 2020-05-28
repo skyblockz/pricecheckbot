@@ -1774,9 +1774,19 @@
                     500000,
                     510000
                 ]
+            },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1900,
+                    2100
+                ],
+                "to": [
+                    1500,
+                    1600
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "421405303951851520": {
         "modification_history": {},
