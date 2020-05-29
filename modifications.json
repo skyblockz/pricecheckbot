@@ -157,9 +157,19 @@
                     6600,
                     7100
                 ]
+            },
+            "wheat": {
+                "from": [
+                    6,
+                    6
+                ],
+                "to": [
+                    3,
+                    4
+                ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "366232910334001152": {
         "modification_history": {},
@@ -521,6 +531,16 @@
                     41000000
                 ]
             },
+            "shredder": {
+                "from": [
+                    6000000,
+                    7500000
+                ],
+                "to": [
+                    4500000,
+                    5500000
+                ]
+            },
             "skeleton_talisman": {
                 "from": null,
                 "to": [
@@ -637,7 +657,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "640849699297034250": {
         "modification_history": {},
