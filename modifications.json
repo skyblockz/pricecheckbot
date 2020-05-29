@@ -161,6 +161,16 @@
                     1000
                 ]
             },
+            "enchanted_diamond": {
+                "from": [
+                    2250,
+                    2300
+                ],
+                "to": [
+                    1300,
+                    1300
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     50000,
@@ -304,7 +314,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "640849699297034250": {
         "modification_history": {},
