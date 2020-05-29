@@ -1987,7 +1987,7 @@
     },
     {
         "ac": true,
-        "hi": 6,
+        "hi": 7,
         "low": 6,
         "name": "iron_ingot"
     },
@@ -5482,5 +5482,11 @@
         "hi": 500,
         "low": 300,
         "name": "hunter_knife"
+    },
+    {
+        "ac": true,
+        "hi": 5000,
+        "low": 1700,
+        "name": "gingerbread_minion_skin"
     }
 ]
