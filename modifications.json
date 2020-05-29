@@ -438,6 +438,16 @@
                     2500
                 ]
             },
+            "wand_of_healing": {
+                "from": [
+                    2000,
+                    7500
+                ],
+                "to": [
+                    500,
+                    1500
+                ]
+            },
             "zombie_talisman": {
                 "from": null,
                 "to": [
@@ -446,7 +456,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "640849699297034250": {
         "modification_history": {},
