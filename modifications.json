@@ -171,6 +171,16 @@
                     36000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    175000,
+                    240000
+                ],
+                "to": [
+                    120000,
+                    240000
+                ]
+            },
             "spruce_log": {
                 "from": null,
                 "to": [
@@ -209,7 +219,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "640849699297034250": {
         "modification_history": {},
