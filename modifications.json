@@ -218,6 +218,16 @@
                     120000
                 ]
             },
+            "ink_sack": {
+                "from": [
+                    280,
+                    350
+                ],
+                "to": [
+                    230,
+                    300
+                ]
+            },
             "jungle_log": {
                 "from": null,
                 "to": [
@@ -324,7 +334,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "640849699297034250": {
         "modification_history": {},
