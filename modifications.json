@@ -74,6 +74,16 @@
                     11000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    64000,
+                    68000
+                ],
+                "to": [
+                    62000,
+                    64000
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     500,
@@ -250,7 +260,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "366232910334001152": {
         "modification_history": {},
