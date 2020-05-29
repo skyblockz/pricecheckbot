@@ -1815,8 +1815,19 @@
         "total_mods": 20
     },
     "383791723945394176": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_golden_carrot": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    110000,
+                    12000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "390661701046894592": {
         "modification_history": {
