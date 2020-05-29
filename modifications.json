@@ -1846,6 +1846,16 @@
                     240000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    250000,
+                    265000
+                ],
+                "to": [
+                    252000,
+                    268000
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     100000,
@@ -1937,7 +1947,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "390661701046894592": {
         "modification_history": {
