@@ -88,6 +88,16 @@
                     245000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    90,
+                    100
+                ],
+                "to": [
+                    65,
+                    70
+                ]
+            },
             "travel_scroll_to_dragons_nest": {
                 "from": [
                     2000000,
@@ -109,7 +119,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "366232910334001152": {
         "modification_history": {},
