@@ -44,6 +44,16 @@
                     5
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    252000,
+                    268000
+                ],
+                "to": [
+                    252000,
+                    288000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     80000,
@@ -149,7 +159,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "366232910334001152": {
         "modification_history": {},
