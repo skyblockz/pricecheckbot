@@ -979,12 +979,6 @@
     },
     {
         "ac": true,
-        "hi": 200,
-        "low": 200,
-        "name": "scavanger_talisman"
-    },
-    {
-        "ac": true,
         "hi": 2650,
         "low": 2350,
         "name": "enchanted_gunpowder"
@@ -5464,5 +5458,11 @@
         "hi": 100,
         "low": 100,
         "name": "undead_sword"
+    },
+    {
+        "ac": true,
+        "hi": 200,
+        "low": 200,
+        "name": "scavenger_talisman"
     }
 ]
