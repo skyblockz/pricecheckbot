@@ -359,6 +359,16 @@
                     23
                 ]
             },
+            "haste_ring": {
+                "from": [
+                    130000,
+                    175000
+                ],
+                "to": [
+                    150000,
+                    225000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     117000,
@@ -570,7 +580,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "640849699297034250": {
         "modification_history": {},
