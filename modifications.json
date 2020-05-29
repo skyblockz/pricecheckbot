@@ -54,6 +54,16 @@
                     1000000
                 ]
             },
+            "super_enchanted_egg": {
+                "from": [
+                    240000,
+                    260000
+                ],
+                "to": [
+                    235000,
+                    245000
+                ]
+            },
             "travel_scroll_to_dragons_nest": {
                 "from": [
                     2000000,
@@ -75,7 +85,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "366232910334001152": {
         "modification_history": {},
