@@ -1846,6 +1846,16 @@
                     240000
                 ]
             },
+            "enchanted_clownfish": {
+                "from": [
+                    3000,
+                    3300
+                ],
+                "to": [
+                    3200,
+                    3800
+                ]
+            },
             "enchanted_cooked_salmon": {
                 "from": [
                     250000,
@@ -1947,7 +1957,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "390661701046894592": {
         "modification_history": {
