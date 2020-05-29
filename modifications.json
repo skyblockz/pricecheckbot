@@ -64,6 +64,16 @@
                     11000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    155000,
+                    165000
+                ],
+                "to": [
+                    145000,
+                    150000
+                ]
+            },
             "ice_minion_i": {
                 "from": null,
                 "to": [
@@ -129,7 +139,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "366232910334001152": {
         "modification_history": {},
