@@ -64,6 +64,16 @@
                     104000
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    570,
+                    630
+                ],
+                "to": [
+                    620,
+                    680
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     80000,
@@ -287,7 +297,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "366232910334001152": {
         "modification_history": {},
