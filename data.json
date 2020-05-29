@@ -781,12 +781,6 @@
     },
     {
         "ac": true,
-        "hi": 900,
-        "low": 800,
-        "name": "enchanted_cocoa_bean"
-    },
-    {
-        "ac": true,
         "hi": 131100,
         "low": 120500,
         "name": "enchanted_cookie"
@@ -5428,5 +5422,11 @@
         "hi": 23,
         "low": 20,
         "name": "fish_bait"
+    },
+    {
+        "ac": true,
+        "hi": 900,
+        "low": 800,
+        "name": "enchanted_cocoa_beans"
     }
 ]
