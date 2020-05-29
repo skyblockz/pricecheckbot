@@ -2108,6 +2108,16 @@
                     890
                 ]
             },
+            "lvl_1_epic_sheep": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    550000,
+                    700000
+                ]
+            },
             "lvl_1_legendary_hound": {
                 "from": [
                     30000000,
@@ -2129,7 +2139,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "406906204309159937": {
         "modification_history": {
