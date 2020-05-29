@@ -80,6 +80,16 @@
                     150000
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    10240,
+                    10240
+                ],
+                "to": [
+                    57000,
+                    67000
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     900,
@@ -199,7 +209,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "640849699297034250": {
         "modification_history": {},
