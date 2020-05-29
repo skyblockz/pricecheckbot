@@ -63,6 +63,16 @@
                     6
                 ]
             },
+            "critical_iv_potion": {
+                "from": [
+                    50000,
+                    80000
+                ],
+                "to": [
+                    25000,
+                    60000
+                ]
+            },
             "dark_oak_log": {
                 "from": null,
                 "to": [
@@ -219,7 +229,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "640849699297034250": {
         "modification_history": {},
