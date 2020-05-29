@@ -64,6 +64,16 @@
                     11000
                 ]
             },
+            "enchanted_sugar": {
+                "from": [
+                    1000,
+                    1200
+                ],
+                "to": [
+                    850,
+                    950
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     155000,
@@ -139,7 +149,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "366232910334001152": {
         "modification_history": {},
