@@ -90,6 +90,16 @@
                     1000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    50000,
+                    52000
+                ],
+                "to": [
+                    48000,
+                    50000
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     16000,
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "640849699297034250": {
         "modification_history": {},
