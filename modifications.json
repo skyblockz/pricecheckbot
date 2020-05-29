@@ -389,6 +389,13 @@
                     120000
                 ]
             },
+            "hunter_knife": {
+                "from": null,
+                "to": [
+                    300,
+                    500
+                ]
+            },
             "ink_sack": {
                 "from": [
                     280,
@@ -590,7 +597,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "640849699297034250": {
         "modification_history": {},
