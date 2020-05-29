@@ -251,6 +251,16 @@
                     30000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    9800,
+                    10500
+                ],
+                "to": [
+                    9000,
+                    10000
+                ]
+            },
             "fish_bait": {
                 "from": null,
                 "to": [
@@ -384,7 +394,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "640849699297034250": {
         "modification_history": {},
