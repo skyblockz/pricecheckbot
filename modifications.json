@@ -140,6 +140,13 @@
                     30000
                 ]
             },
+            "fish_bait": {
+                "from": null,
+                "to": [
+                    20,
+                    23
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     117000,
@@ -246,7 +253,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "640849699297034250": {
         "modification_history": {},
