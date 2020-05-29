@@ -1825,9 +1825,19 @@
                     110000,
                     120000
                 ]
+            },
+            "enchanted_melon_block": {
+                "from": [
+                    26000,
+                    28000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "390661701046894592": {
         "modification_history": {
