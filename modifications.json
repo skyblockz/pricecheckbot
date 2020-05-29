@@ -128,6 +128,13 @@
                     15
                 ]
             },
+            "snow_block": {
+                "from": null,
+                "to": [
+                    8,
+                    8
+                ]
+            },
             "snowball": {
                 "from": null,
                 "to": [
@@ -196,7 +203,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "366232910334001152": {
         "modification_history": {},
