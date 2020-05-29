@@ -332,6 +332,16 @@
                     8
                 ]
             },
+            "lucky_clover": {
+                "from": [
+                    2400000,
+                    2800000
+                ],
+                "to": [
+                    1800000,
+                    2500000
+                ]
+            },
             "mine_affinity_talisman": {
                 "from": null,
                 "to": [
@@ -486,7 +496,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "640849699297034250": {
         "modification_history": {},
