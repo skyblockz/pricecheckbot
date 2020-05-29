@@ -158,6 +158,16 @@
                     6
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    6100,
+                    6400
+                ],
+                "to": [
+                    7300,
+                    7700
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     105000,
@@ -179,7 +189,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "640849699297034250": {
         "modification_history": {},
