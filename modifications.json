@@ -2188,6 +2188,16 @@
                     200000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    150000,
+                    250000
+                ],
+                "to": [
+                    175000,
+                    240000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     230000,
@@ -2219,7 +2229,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "406906204309159937": {
         "modification_history": {
