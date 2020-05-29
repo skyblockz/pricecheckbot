@@ -2098,6 +2098,16 @@
                     890
                 ]
             },
+            "lvl_1_legendary_hound": {
+                "from": [
+                    30000000,
+                    40000000
+                ],
+                "to": [
+                    32000000,
+                    45000000
+                ]
+            },
             "red_claw_egg": {
                 "from": [
                     1000000,
@@ -2109,7 +2119,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "406906204309159937": {
         "modification_history": {
