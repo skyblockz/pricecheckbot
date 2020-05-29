@@ -27,6 +27,16 @@
                     3300000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    80000,
+                    93000
+                ],
+                "to": [
+                    75000,
+                    85000
+                ]
+            },
             "ice_minion_i": {
                 "from": null,
                 "to": [
@@ -65,7 +75,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "366232910334001152": {
         "modification_history": {},
