@@ -424,6 +424,16 @@
                     36000
                 ]
             },
+            "seal_of_the_family": {
+                "from": [
+                    30000000,
+                    35000000
+                ],
+                "to": [
+                    33000000,
+                    41000000
+                ]
+            },
             "skeleton_talisman": {
                 "from": null,
                 "to": [
@@ -530,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "640849699297034250": {
         "modification_history": {},
