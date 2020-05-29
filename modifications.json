@@ -211,6 +211,16 @@
                     50000
                 ]
             },
+            "enchanted_raw_salmon": {
+                "from": [
+                    1550,
+                    1600
+                ],
+                "to": [
+                    1600,
+                    1800
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     16000,
@@ -354,7 +364,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "640849699297034250": {
         "modification_history": {},
