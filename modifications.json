@@ -609,6 +609,16 @@
                     1500
                 ]
             },
+            "wither_artifact": {
+                "from": [
+                    17000000,
+                    19000000
+                ],
+                "to": [
+                    14000000,
+                    16000000
+                ]
+            },
             "zombie_talisman": {
                 "from": null,
                 "to": [
@@ -617,7 +627,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "640849699297034250": {
         "modification_history": {},
