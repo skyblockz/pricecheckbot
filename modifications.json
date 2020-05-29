@@ -168,6 +168,13 @@
                     10
                 ]
             },
+            "seeds": {
+                "from": null,
+                "to": [
+                    0,
+                    1
+                ]
+            },
             "snow_block": {
                 "from": null,
                 "to": [
@@ -243,7 +250,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "366232910334001152": {
         "modification_history": {},
