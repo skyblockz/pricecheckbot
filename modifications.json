@@ -372,6 +372,16 @@
                     10000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    11000000,
+                    12500000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
             "fish_bait": {
                 "from": null,
                 "to": [
@@ -607,7 +617,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "640849699297034250": {
         "modification_history": {},
