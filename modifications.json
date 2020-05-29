@@ -1975,9 +1975,19 @@
                     1000,
                     1200
                 ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    48000,
+                    51000
+                ],
+                "to": [
+                    37000,
+                    38000
+                ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "390661701046894592": {
         "modification_history": {
