@@ -1826,6 +1826,16 @@
                     560000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    175000,
+                    178000
+                ],
+                "to": [
+                    170000,
+                    185000
+                ]
+            },
             "enchanted_cactus": {
                 "from": [
                     250000,
@@ -1887,7 +1897,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "390661701046894592": {
         "modification_history": {
