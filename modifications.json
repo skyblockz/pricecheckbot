@@ -358,8 +358,19 @@
         "total_mods": 29
     },
     "366232910334001152": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_ink_sack": {
+                "from": [
+                    20000,
+                    22000
+                ],
+                "to": [
+                    19000,
+                    20000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "383791723945394176": {
         "modification_history": {},
