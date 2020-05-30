@@ -2617,12 +2617,6 @@
     },
     {
         "ac": true,
-        "hi": 2550,
-        "low": 2200,
-        "name": "enchanted_endstone"
-    },
-    {
-        "ac": true,
         "hi": 2500,
         "low": 500,
         "name": "critical_iii_potion"
@@ -5536,5 +5530,11 @@
         "hi": 16,
         "low": 12,
         "name": "end_stone"
+    },
+    {
+        "ac": true,
+        "hi": 2550,
+        "low": 2200,
+        "name": "enchanted_end_stone"
     }
 ]
