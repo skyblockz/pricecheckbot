@@ -429,6 +429,16 @@
                     14000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    310000,
+                    335000
+                ],
+                "to": [
+                    200000,
+                    260000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     109000,
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "383791723945394176": {
         "modification_history": {},
