@@ -409,6 +409,16 @@
                     20000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    255000,
+                    295000
+                ],
+                "to": [
+                    240000,
+                    250000
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     10000,
@@ -430,7 +440,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "383791723945394176": {
         "modification_history": {},
