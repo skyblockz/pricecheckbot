@@ -5533,12 +5533,6 @@
     },
     {
         "ac": true,
-        "hi": 2550,
-        "low": 2200,
-        "name": "enchanted_end_stone"
-    },
-    {
-        "ac": true,
         "hi": 8,
         "low": 4,
         "name": "raw_beef"
@@ -5548,5 +5542,11 @@
         "hi": 71,
         "low": 17,
         "name": "prismarine_crystals"
+    },
+    {
+        "ac": true,
+        "hi": 2550,
+        "low": 2200,
+        "name": "enchanted_endstone"
     }
 ]
