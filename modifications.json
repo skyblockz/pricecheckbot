@@ -321,6 +321,16 @@
     },
     "523019950072266764": {
         "modification_history": {
+            "divers_mask": {
+                "from": [
+                    600000,
+                    1000000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "divers_shirt": {
                 "from": [
                     900000,
@@ -342,7 +352,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "614661627513536526": {
         "modification_history": {},
