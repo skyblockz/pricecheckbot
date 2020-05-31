@@ -33,6 +33,16 @@
                     500000
                 ]
             },
+            "lvl_100_epic_parrot": {
+                "from": [
+                    42000000,
+                    50000000
+                ],
+                "to": [
+                    34000000,
+                    37000000
+                ]
+            },
             "lvl_1_epic_monkey_pet": {
                 "from": null,
                 "to": [
@@ -111,7 +121,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "349682137349357580": {
         "modification_history": {
