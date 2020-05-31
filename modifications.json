@@ -558,6 +558,16 @@
                     16
                 ]
             },
+            "lvl_1_legendary_skeleton_horse": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    2500000,
+                    4500000
+                ]
+            },
             "prismarine_crystals": {
                 "from": null,
                 "to": [
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "614661627513536526": {
         "modification_history": {},
