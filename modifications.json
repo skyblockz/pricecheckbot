@@ -358,6 +358,16 @@
                     1
                 ]
             },
+            "shredder": {
+                "from": [
+                    4500000,
+                    5500000
+                ],
+                "to": [
+                    4500000,
+                    5000000
+                ]
+            },
             "snow_block": {
                 "from": null,
                 "to": [
@@ -433,7 +443,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "366232910334001152": {
         "modification_history": {
