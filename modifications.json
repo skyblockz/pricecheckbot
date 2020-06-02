@@ -808,6 +808,16 @@
                     14000
                 ]
             },
+            "enchanted_red_mushroom": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    3250,
+                    3750
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     1500,
@@ -891,7 +901,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "614661627513536526": {
         "modification_history": {},
