@@ -808,6 +808,16 @@
                     14000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1500,
+                    1600
+                ],
+                "to": [
+                    1200,
+                    1350
+                ]
+            },
             "end_stone": {
                 "from": null,
                 "to": [
@@ -881,7 +891,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "614661627513536526": {
         "modification_history": {},
