@@ -798,6 +798,16 @@
                     3500000
                 ]
             },
+            "enchanted_brown_mushroom": {
+                "from": [
+                    2400,
+                    3100
+                ],
+                "to": [
+                    2500,
+                    2750
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     10000,
@@ -901,7 +911,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "614661627513536526": {
         "modification_history": {},
