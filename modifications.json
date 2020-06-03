@@ -413,6 +413,16 @@
                     55000000
                 ]
             },
+            "lvl_1_epic_dolphin": {
+                "from": [
+                    11000000,
+                    11000000
+                ],
+                "to": [
+                    5200000,
+                    6200000
+                ]
+            },
             "lvl_1_epic_monkey_pet": {
                 "from": null,
                 "to": [
@@ -511,7 +521,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "349682137349357580": {
         "modification_history": {
