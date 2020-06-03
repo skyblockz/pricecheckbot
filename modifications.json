@@ -1958,6 +1958,16 @@
                     420000
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    2300,
+                    2500
+                ],
+                "to": [
+                    2400,
+                    2600
+                ]
+            },
             "lvl_100_epic_monkey": {
                 "from": null,
                 "to": [
@@ -2011,7 +2021,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "660041857148911617": {
         "modification_history": {},
