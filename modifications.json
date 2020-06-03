@@ -1988,6 +1988,16 @@
                     420000
                 ]
             },
+            "enchanted_melon": {
+                "from": [
+                    200,
+                    300
+                ],
+                "to": [
+                    400,
+                    450
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     2300,
@@ -2071,7 +2081,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "660041857148911617": {
         "modification_history": {},
