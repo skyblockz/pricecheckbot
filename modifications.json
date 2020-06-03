@@ -206,6 +206,16 @@
                     6500
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    64000,
+                    68000
+                ],
+                "to": [
+                    55000,
+                    60000
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1250,
@@ -297,7 +307,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "325337387796267019": {
         "modification_history": {
