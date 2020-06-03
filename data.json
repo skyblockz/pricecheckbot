@@ -1627,12 +1627,6 @@
     },
     {
         "ac": true,
-        "hi": 12000000,
-        "low": 10000000,
-        "name": "perfect_chestplate_xii"
-    },
-    {
-        "ac": true,
         "hi": 1080000,
         "low": 1080000,
         "name": "perfect_boots_iii"
@@ -5578,5 +5572,11 @@
         "hi": 5430000,
         "low": 5430000,
         "name": "perfect_leggings_tier_vi"
+    },
+    {
+        "ac": true,
+        "hi": 12000000,
+        "low": 10000000,
+        "name": "perfect_chestplate_tier_xii"
     }
 ]
