@@ -26,6 +26,16 @@
                     400000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    70,
+                    80
+                ],
+                "to": [
+                    50,
+                    70
+                ]
+            },
             "hilt_of_true_ice": {
                 "from": [
                     13000000,
@@ -37,7 +47,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "325337387796267019": {
         "modification_history": {
