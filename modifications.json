@@ -898,12 +898,12 @@
             },
             "enchanted_cooked_fish": {
                 "from": [
-                    775000,
-                    825000
-                ],
-                "to": [
                     760000,
                     810000
+                ],
+                "to": [
+                    630000,
+                    735000
                 ]
             },
             "enchanted_ghast_tear": {
@@ -1027,7 +1027,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "383791723945394176": {
         "modification_history": {},
