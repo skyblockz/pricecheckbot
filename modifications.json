@@ -460,6 +460,16 @@
                     850000
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "spider_boots": {
                 "from": [
                     300000,
@@ -531,7 +541,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "349682137349357580": {
         "modification_history": {
