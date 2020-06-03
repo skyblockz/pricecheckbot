@@ -136,6 +136,16 @@
                     6500
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    2000,
+                    2200
+                ],
+                "to": [
+                    1500,
+                    2000
+                ]
+            },
             "enchanted_pork": {
                 "from": [
                     1500,
@@ -197,7 +207,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "325337387796267019": {
         "modification_history": {
