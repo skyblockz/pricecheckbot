@@ -46,6 +46,16 @@
                     440000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    170000,
+                    185000
+                ],
+                "to": [
+                    150000,
+                    155000
+                ]
+            },
             "enchanted_bread": {
                 "from": [
                     70,
@@ -277,7 +287,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "325337387796267019": {
         "modification_history": {
