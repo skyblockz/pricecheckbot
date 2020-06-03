@@ -1603,12 +1603,6 @@
     },
     {
         "ac": true,
-        "hi": 5600000,
-        "low": 5600000,
-        "name": "perfect_chestplate_vi"
-    },
-    {
-        "ac": true,
         "hi": 6400000,
         "low": 6400000,
         "name": "perfect_chestplate_vii"
@@ -5578,5 +5572,11 @@
         "hi": 5000000,
         "low": 5000000,
         "name": "perfect_helmet_tier_vi"
+    },
+    {
+        "ac": true,
+        "hi": 5600000,
+        "low": 5600000,
+        "name": "perfect_chestplate_tier_vi"
     }
 ]
