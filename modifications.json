@@ -1988,6 +1988,16 @@
                     2600
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    104000,
+                    120000
+                ],
+                "to": [
+                    90000,
+                    99000
+                ]
+            },
             "lvl_100_epic_monkey": {
                 "from": null,
                 "to": [
@@ -2041,7 +2051,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "660041857148911617": {
         "modification_history": {},
