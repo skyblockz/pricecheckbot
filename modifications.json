@@ -858,6 +858,16 @@
                     1350
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    145000,
+                    150000
+                ],
+                "to": [
+                    120000,
+                    125000
+                ]
+            },
             "end_stone": {
                 "from": null,
                 "to": [
@@ -931,7 +941,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "614661627513536526": {
         "modification_history": {},
