@@ -1555,12 +1555,6 @@
     },
     {
         "ac": true,
-        "hi": 3200000,
-        "low": 3200000,
-        "name": "perfect_chestplate_iii"
-    },
-    {
-        "ac": true,
         "hi": 4000000,
         "low": 4000000,
         "name": "perfect_chestplate_iv"
@@ -5590,5 +5584,11 @@
         "hi": 7400000,
         "low": 7400000,
         "name": "perfect_boots_tier_ix"
+    },
+    {
+        "ac": true,
+        "hi": 3200000,
+        "low": 3200000,
+        "name": "perfect_chestplate_tier_iii"
     }
 ]
