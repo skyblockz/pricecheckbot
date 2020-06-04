@@ -1319,6 +1319,16 @@
                     1040
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2500,
+                    3000
+                ],
+                "to": [
+                    2850,
+                    2950
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     500,
@@ -1410,7 +1420,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {},
