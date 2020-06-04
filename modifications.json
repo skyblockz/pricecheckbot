@@ -2230,12 +2230,12 @@
             },
             "enchanted_blaze_rod": {
                 "from": [
-                    410000,
-                    440000
-                ],
-                "to": [
                     400000,
                     420000
+                ],
+                "to": [
+                    385000,
+                    415000
                 ]
             },
             "enchanted_melon": {
@@ -2341,7 +2341,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "660041857148911617": {
         "modification_history": {},
