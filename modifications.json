@@ -1299,6 +1299,16 @@
                     1600
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    113000,
+                    114000
+                ]
+            },
             "lvl_1_legendary_turtle": {
                 "from": [
                     30000000,
@@ -1320,7 +1330,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
