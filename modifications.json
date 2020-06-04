@@ -1575,6 +1575,16 @@
                     2900000
                 ]
             },
+            "water_hydra_head": {
+                "from": [
+                    25000,
+                    45000
+                ],
+                "to": [
+                    55000,
+                    55000
+                ]
+            },
             "young_dragon_chestplate": {
                 "from": [
                     750000,
@@ -1596,7 +1606,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "406906204309159937": {
         "modification_history": {
