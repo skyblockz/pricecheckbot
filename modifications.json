@@ -2340,6 +2340,16 @@
                     40000000
                 ]
             },
+            "melon": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     490000,
@@ -2351,7 +2361,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "660041857148911617": {
         "modification_history": {},
