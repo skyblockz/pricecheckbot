@@ -1365,6 +1365,16 @@
                     120000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "magnet_vi": {
                 "from": [
                     120,
@@ -1396,7 +1406,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "406906204309159937": {
         "modification_history": {
