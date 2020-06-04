@@ -601,6 +601,16 @@
                     3200000
                 ]
             },
+            "wolf_ring": {
+                "from": [
+                    750000,
+                    1000000
+                ],
+                "to": [
+                    550000,
+                    800000
+                ]
+            },
             "young_dragon_helmet": {
                 "from": [
                     650000,
@@ -612,7 +622,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "334763167391416322": {
         "modification_history": {
