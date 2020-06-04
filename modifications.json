@@ -1365,6 +1365,16 @@
                     120000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    150000,
+                    300000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     450000,
@@ -1446,7 +1456,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "406906204309159937": {
         "modification_history": {
