@@ -1375,6 +1375,16 @@
                     120000
                 ]
             },
+            "feather_artifact": {
+                "from": [
+                    20000,
+                    50000
+                ],
+                "to": [
+                    55000,
+                    75000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     150000,
@@ -1566,7 +1576,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "406906204309159937": {
         "modification_history": {
