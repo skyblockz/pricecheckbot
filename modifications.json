@@ -1445,6 +1445,16 @@
                     15
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    700000,
+                    850000
+                ],
+                "to": [
+                    850000,
+                    850000
+                ]
+            },
             "sea_creature_talisman": {
                 "from": [
                     500,
@@ -1546,7 +1556,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "406906204309159937": {
         "modification_history": {
