@@ -561,6 +561,16 @@
                     600000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    495000,
+                    520000
+                ]
+            },
             "superior_dragon_boots": {
                 "from": [
                     8000000,
@@ -652,7 +662,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "334763167391416322": {
         "modification_history": {
