@@ -591,6 +591,16 @@
                     2100000
                 ]
             },
+            "vampire_mask": {
+                "from": [
+                    1100000,
+                    1400000
+                ],
+                "to": [
+                    2500000,
+                    3200000
+                ]
+            },
             "young_dragon_helmet": {
                 "from": [
                     650000,
@@ -602,7 +612,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "334763167391416322": {
         "modification_history": {
