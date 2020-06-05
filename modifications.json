@@ -127,6 +127,16 @@
                     700000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    4400000,
+                    4750000
+                ],
+                "to": [
+                    2700000,
+                    3400000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -155,7 +165,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "325104094530502684": {
         "modification_history": {},
