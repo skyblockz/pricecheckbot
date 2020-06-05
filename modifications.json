@@ -244,6 +244,16 @@
                     19000000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    7500000,
+                    9500000
+                ],
+                "to": [
+                    5000000,
+                    7000000
+                ]
+            },
             "unstable_dragon_chestplate": {
                 "from": [
                     150000,
@@ -315,7 +325,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "325104094530502684": {
         "modification_history": {},
