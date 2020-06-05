@@ -40,6 +40,16 @@
                     9500000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    225000,
+                    350000
+                ],
+                "to": [
+                    120000,
+                    200000
+                ]
+            },
             "mystical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -65,7 +75,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "325104094530502684": {
         "modification_history": {},
