@@ -337,6 +337,16 @@
                     3000000
                 ]
             },
+            "sugar_rush_iii": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1200000,
+                    1500000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -445,7 +455,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "325104094530502684": {
         "modification_history": {},
