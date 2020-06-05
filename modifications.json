@@ -167,6 +167,16 @@
                     3400000
                 ]
             },
+            "silk-edge_sword": {
+                "from": [
+                    2900000,
+                    3500000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -235,7 +245,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "325104094530502684": {
         "modification_history": {},
