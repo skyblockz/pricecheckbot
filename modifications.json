@@ -664,9 +664,19 @@
                     3500,
                     3650
                 ]
+            },
+            "overflux_power_orb": {
+                "from": [
+                    68000000,
+                    78000000
+                ],
+                "to": [
+                    68000000,
+                    80000000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "614661627513536526": {
         "modification_history": {},
