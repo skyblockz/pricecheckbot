@@ -334,6 +334,16 @@
                     15300000
                 ]
             },
+            "wood_singularity": {
+                "from": [
+                    3700000,
+                    5000000
+                ],
+                "to": [
+                    2800000,
+                    3800000
+                ]
+            },
             "young_dragon_chestplate": {
                 "from": [
                     550000,
@@ -345,7 +355,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "325104094530502684": {
         "modification_history": {},
