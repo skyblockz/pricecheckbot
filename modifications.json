@@ -67,6 +67,16 @@
                     10000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    72000000,
+                    84000000
+                ],
+                "to": [
+                    68000000,
+                    78000000
+                ]
+            },
             "piggy_bank": {
                 "from": [
                     75000,
@@ -125,7 +135,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "325104094530502684": {
         "modification_history": {},
