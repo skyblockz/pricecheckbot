@@ -107,6 +107,16 @@
                     4600000
                 ]
             },
+            "red_claw_egg": {
+                "from": [
+                    1200000,
+                    1500000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -135,7 +145,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "325104094530502684": {
         "modification_history": {},
