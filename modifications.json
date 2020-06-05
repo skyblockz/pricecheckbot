@@ -67,6 +67,16 @@
                     100000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    9000000,
+                    9000000
+                ],
+                "to": [
+                    9200000,
+                    10000000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -85,7 +95,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "325104094530502684": {
         "modification_history": {},
