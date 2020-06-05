@@ -70,6 +70,16 @@
                     200000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    35000000,
+                    40000000
+                ],
+                "to": [
+                    30000000,
+                    38000000
+                ]
+            },
             "mystical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -225,7 +235,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "325104094530502684": {
         "modification_history": {},
