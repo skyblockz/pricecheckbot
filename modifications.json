@@ -97,6 +97,16 @@
                     120000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     72000000,
@@ -255,7 +265,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "325104094530502684": {
         "modification_history": {},
