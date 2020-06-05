@@ -41,12 +41,12 @@
             },
             "tier_boost_core": {
                 "from": [
-                    35000000,
-                    45000000
-                ],
-                "to": [
                     63000000,
                     73000000
+                ],
+                "to": [
+                    36000000,
+                    43000000
                 ]
             },
             "titanic_experience_bottle": {
@@ -60,7 +60,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "334763167391416322": {
         "modification_history": {},
