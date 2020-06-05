@@ -57,6 +57,16 @@
                     10000
                 ]
             },
+            "piggy_bank": {
+                "from": [
+                    75000,
+                    120000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -75,7 +85,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "325104094530502684": {
         "modification_history": {},
