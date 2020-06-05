@@ -87,6 +87,16 @@
                     10000
                 ]
             },
+            "old_dragon_boots": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     72000000,
@@ -245,7 +255,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "325104094530502684": {
         "modification_history": {},
