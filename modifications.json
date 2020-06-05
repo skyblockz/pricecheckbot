@@ -87,6 +87,16 @@
                     10000000
                 ]
             },
+            "power_vi": {
+                "from": [
+                    4000000,
+                    4000000
+                ],
+                "to": [
+                    4000000,
+                    4600000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -105,7 +115,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "325104094530502684": {
         "modification_history": {},
