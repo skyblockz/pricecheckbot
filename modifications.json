@@ -541,6 +541,16 @@
                     3600000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    550000,
+                    750000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     7000000,
@@ -692,7 +702,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "334763167391416322": {
         "modification_history": {
