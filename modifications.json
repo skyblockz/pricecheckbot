@@ -19,6 +19,16 @@
                     300000
                 ]
             },
+            "lvl_1_epic_enderman": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     200000,
@@ -30,7 +40,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "334763167391416322": {
         "modification_history": {},
