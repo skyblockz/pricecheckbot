@@ -674,9 +674,19 @@
                     68000000,
                     80000000
                 ]
+            },
+            "speed_artifact": {
+                "from": [
+                    70,
+                    0
+                ],
+                "to": [
+                    6000000,
+                    6500000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "614661627513536526": {
         "modification_history": {},
