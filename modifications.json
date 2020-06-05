@@ -167,6 +167,16 @@
                     4600000
                 ]
             },
+            "protector_dragon_chestplate": {
+                "from": [
+                    95000,
+                    135000
+                ],
+                "to": [
+                    100000,
+                    160000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     4000000,
@@ -355,7 +365,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "325104094530502684": {
         "modification_history": {},
