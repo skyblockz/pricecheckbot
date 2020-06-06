@@ -1341,6 +1341,16 @@
                     2500
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    95000,
+                    110000
+                ]
+            },
             "enchanted_iron_block": {
                 "from": [
                     185000,
@@ -1402,7 +1412,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "383791723945394176": {
         "modification_history": {},
