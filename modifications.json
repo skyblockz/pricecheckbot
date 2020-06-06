@@ -1341,6 +1341,16 @@
                     2500
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    185000,
+                    200000
+                ],
+                "to": [
+                    205000,
+                    225000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     1500,
@@ -1392,7 +1402,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "383791723945394176": {
         "modification_history": {},
