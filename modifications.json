@@ -1311,6 +1311,16 @@
     },
     "366232910334001152": {
         "modification_history": {
+            "enchanted_endstone": {
+                "from": [
+                    2500,
+                    2700
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     70000,
@@ -1332,7 +1342,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "383791723945394176": {
         "modification_history": {},
