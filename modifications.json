@@ -799,6 +799,16 @@
                     7000000
                 ]
             },
+            "travel_scroll_to_dragons_nest": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    450000,
+                    600000
+                ]
+            },
             "unstable_dragon_chestplate": {
                 "from": [
                     150000,
@@ -880,7 +890,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "325104094530502684": {
         "modification_history": {},
