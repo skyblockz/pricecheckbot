@@ -215,6 +215,16 @@
                     5500000
                 ]
             },
+            "lucky_clover": {
+                "from": [
+                    1800000,
+                    2500000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     2000000,
@@ -800,7 +810,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "325104094530502684": {
         "modification_history": {},
