@@ -70,6 +70,16 @@
                     200000
                 ]
             },
+            "dark_oak_wood": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "enchanted_birch_wood": {
                 "from": [
                     1100,
@@ -221,7 +231,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "310369675987124225": {
         "modification_history": {
