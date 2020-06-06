@@ -325,6 +325,16 @@
                     2400000
                 ]
             },
+            "lvl_1_legendary_golem": {
+                "from": [
+                    50000000,
+                    60000000
+                ],
+                "to": [
+                    14000000,
+                    20000000
+                ]
+            },
             "lvl_1_legendary_magma_cube": {
                 "from": [
                     2000000,
@@ -790,7 +800,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "325104094530502684": {
         "modification_history": {},
