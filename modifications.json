@@ -235,6 +235,16 @@
                     1200000
                 ]
             },
+            "lvl_1_legendary_squid": {
+                "from": [
+                    10000000,
+                    1000000
+                ],
+                "to": [
+                    5000000,
+                    7000000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -620,7 +630,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "325104094530502684": {
         "modification_history": {},
