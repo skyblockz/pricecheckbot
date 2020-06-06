@@ -375,6 +375,16 @@
                     3000000
                 ]
             },
+            "lvl_1_legendary_wolf": {
+                "from": [
+                    2300000,
+                    2900000
+                ],
+                "to": [
+                    1500000,
+                    2200000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -760,7 +770,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "325104094530502684": {
         "modification_history": {},
