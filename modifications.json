@@ -1217,10 +1217,13 @@
                 ]
             },
             "pig_minion_xi": {
-                "from": null,
-                "to": [
+                "from": [
                     3300000,
                     3600000
+                ],
+                "to": [
+                    2250000,
+                    2500000
                 ]
             },
             "protector_dragon_leggings": {
@@ -1244,7 +1247,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "614661627513536526": {
         "modification_history": {},
