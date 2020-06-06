@@ -195,6 +195,16 @@
                     5500000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    800000,
+                    1200000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -580,7 +590,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "325104094530502684": {
         "modification_history": {},
