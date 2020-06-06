@@ -405,6 +405,16 @@
                     3500000
                 ]
             },
+            "lvl_1_legendary_baby_yeti": {
+                "from": [
+                    30000000,
+                    35000000
+                ],
+                "to": [
+                    12000000,
+                    20000000
+                ]
+            },
             "lvl_1_legendary_blaze": {
                 "from": [
                     75000000,
@@ -990,7 +1000,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "325104094530502684": {
         "modification_history": {},
