@@ -31,6 +31,16 @@
                     4000000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    110000,
+                    130000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     430000,
@@ -42,7 +52,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "298613178601046017": {
         "modification_history": {},
