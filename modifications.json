@@ -335,6 +335,16 @@
                     7000000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    2500000,
+                    4000000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -720,7 +730,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "325104094530502684": {
         "modification_history": {},
