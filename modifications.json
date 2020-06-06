@@ -1236,6 +1236,16 @@
                     2000000
                 ]
             },
+            "dragon_hunter_iv": {
+                "from": [
+                    7400000,
+                    8000000
+                ],
+                "to": [
+                    800000,
+                    8000000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     235000,
@@ -1337,7 +1347,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "614661627513536526": {
         "modification_history": {},
