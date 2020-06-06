@@ -140,6 +140,16 @@
                     100000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    65,
+                    70
+                ],
+                "to": [
+                    40,
+                    40
+                ]
+            },
             "wolf_talisman": {
                 "from": [
                     150000,
@@ -161,7 +171,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "310369675987124225": {
         "modification_history": {
