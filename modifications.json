@@ -1197,10 +1197,13 @@
                 ]
             },
             "ice_minion_xi": {
-                "from": null,
-                "to": [
+                "from": [
                     110000,
                     120000
+                ],
+                "to": [
+                    77000,
+                    84000
                 ]
             },
             "overflux_power_orb": {
@@ -1241,7 +1244,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "614661627513536526": {
         "modification_history": {},
