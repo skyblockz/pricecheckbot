@@ -1266,6 +1266,16 @@
                     115000
                 ]
             },
+            "red_claw_egg": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    450000,
+                    600000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     70,
@@ -1287,7 +1297,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "614661627513536526": {
         "modification_history": {},
