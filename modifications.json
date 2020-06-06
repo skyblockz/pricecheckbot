@@ -130,6 +130,16 @@
                     960
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    90000,
+                    99000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "wolf_talisman": {
                 "from": [
                     150000,
@@ -141,7 +151,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "310369675987124225": {
         "modification_history": {
