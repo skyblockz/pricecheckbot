@@ -70,6 +70,16 @@
                     200000
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    600,
+                    700
+                ],
+                "to": [
+                    650,
+                    700
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     480000,
@@ -111,7 +121,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "310369675987124225": {
         "modification_history": {
