@@ -285,6 +285,16 @@
                     1200000
                 ]
             },
+            "lvl_1_legendary_sheep": {
+                "from": [
+                    4500000,
+                    5500000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
             "lvl_1_legendary_squid": {
                 "from": [
                     10000000,
@@ -680,7 +690,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "325104094530502684": {
         "modification_history": {},
