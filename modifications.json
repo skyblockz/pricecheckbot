@@ -115,6 +115,16 @@
                     6300000
                 ]
             },
+            "broken_piggy_bank": {
+                "from": [
+                    80000,
+                    120000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "elegant_tuxedo_oxfords": {
                 "from": [
                     8000000,
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "325104094530502684": {
         "modification_history": {},
