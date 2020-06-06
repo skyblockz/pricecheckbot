@@ -245,6 +245,16 @@
                     3500000
                 ]
             },
+            "lvl_1_legendary_flying_fish": {
+                "from": [
+                    3400000,
+                    4400000
+                ],
+                "to": [
+                    1800000,
+                    2400000
+                ]
+            },
             "lvl_1_legendary_magma_cube": {
                 "from": [
                     2000000,
@@ -670,7 +680,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "325104094530502684": {
         "modification_history": {},
