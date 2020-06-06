@@ -205,6 +205,16 @@
                     160000000
                 ]
             },
+            "lvl_1_epic_squid": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    2400000,
+                    3500000
+                ]
+            },
             "lvl_1_legendary_parrot": {
                 "from": [
                     34000000,
@@ -610,7 +620,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "325104094530502684": {
         "modification_history": {},
