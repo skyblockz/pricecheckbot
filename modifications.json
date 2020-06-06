@@ -110,6 +110,16 @@
                     120000
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1000,
+                    1300
+                ],
+                "to": [
+                    1100,
+                    1250
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     480000,
@@ -201,7 +211,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "310369675987124225": {
         "modification_history": {
