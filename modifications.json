@@ -315,6 +315,16 @@
                     80000000
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    38000000,
+                    42000000
+                ],
+                "to": [
+                    28000000,
+                    35000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     60000000,
@@ -930,7 +940,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "325104094530502684": {
         "modification_history": {},
