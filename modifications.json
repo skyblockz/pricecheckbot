@@ -205,6 +205,16 @@
                     5500000
                 ]
             },
+            "lucky_clover_core": {
+                "from": [
+                    2000000,
+                    2300000
+                ],
+                "to": [
+                    600000,
+                    1000000
+                ]
+            },
             "lvl_100_epic_ender_dragon": {
                 "from": [
                     120000000,
@@ -770,7 +780,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "325104094530502684": {
         "modification_history": {},
