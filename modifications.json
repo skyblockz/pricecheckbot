@@ -90,6 +90,16 @@
                     325000
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     100000,
@@ -191,7 +201,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "310369675987124225": {
         "modification_history": {
