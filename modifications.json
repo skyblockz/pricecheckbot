@@ -225,6 +225,16 @@
                     35000000
                 ]
             },
+            "lvl_100_legendary_tiger": {
+                "from": [
+                    60000000,
+                    62000000
+                ],
+                "to": [
+                    60000000,
+                    80000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     60000000,
@@ -710,7 +720,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "325104094530502684": {
         "modification_history": {},
