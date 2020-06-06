@@ -1331,6 +1331,16 @@
                     2500
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    1500,
+                    1600
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     110000,
@@ -1362,7 +1372,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "383791723945394176": {
         "modification_history": {},
