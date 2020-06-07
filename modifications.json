@@ -1323,6 +1323,16 @@
                     200000
                 ]
             },
+            "divers_shirt": {
+                "from": [
+                    3600000,
+                    4000000
+                ],
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     3350000,
@@ -1334,7 +1344,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 7
     },
     "349682137349357580": {
         "modification_history": {},
