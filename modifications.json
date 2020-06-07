@@ -1584,12 +1584,12 @@
             },
             "enchanted_redstone_lamp": {
                 "from": [
-                    70000,
-                    80000
+                    80000,
+                    90000
                 ],
                 "to": [
                     80000,
-                    90000
+                    105000
                 ]
             },
             "summoning_eye": {
@@ -1613,7 +1613,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "383791723945394176": {
         "modification_history": {},
