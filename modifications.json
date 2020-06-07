@@ -110,6 +110,16 @@
                     1200
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    700,
+                    700
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     700,
@@ -281,7 +291,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "310369675987124225": {
         "modification_history": {
