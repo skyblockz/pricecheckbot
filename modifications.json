@@ -1552,6 +1552,16 @@
                     110000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    225000,
+                    235000
+                ],
+                "to": [
+                    215000,
+                    235000
+                ]
+            },
             "enchanted_iron_block": {
                 "from": [
                     185000,
@@ -1623,7 +1633,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "383791723945394176": {
         "modification_history": {},
