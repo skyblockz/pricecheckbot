@@ -1343,6 +1343,16 @@
                     5000000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    3200000,
+                    3500000
+                ],
+                "to": [
+                    3300000,
+                    4000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     3350000,
@@ -1354,7 +1364,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "349682137349357580": {
         "modification_history": {},
