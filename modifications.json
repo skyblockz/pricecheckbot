@@ -52,7 +52,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 11
     },
     "298613178601046017": {
         "modification_history": {},
@@ -281,7 +281,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 28
     },
     "310369675987124225": {
         "modification_history": {
@@ -1626,6 +1626,16 @@
                     3650
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    55000,
+                    60000
+                ],
+                "to": [
+                    55000,
+                    650000
+                ]
+            },
             "ice_minion_xi": {
                 "from": [
                     450000,
@@ -1707,7 +1717,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
