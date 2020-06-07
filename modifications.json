@@ -1806,6 +1806,16 @@
                     65000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    83000,
+                    88000
+                ],
+                "to": [
+                    83000,
+                    90000
+                ]
+            },
             "ice_minion_xi": {
                 "from": [
                     450000,
@@ -1887,7 +1897,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "614661627513536526": {
         "modification_history": {},
