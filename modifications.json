@@ -1893,6 +1893,13 @@
                     32500000
                 ]
             },
+            "lvl_1_epic_zombie": {
+                "from": null,
+                "to": [
+                    200000,
+                    2500000
+                ]
+            },
             "lvl_1_legendary_zombie": {
                 "from": [
                     7500000,
@@ -1984,7 +1991,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "614661627513536526": {
         "modification_history": {},
