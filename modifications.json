@@ -1602,6 +1602,16 @@
                     105000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    110000,
+                    116000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     530000,
@@ -1633,7 +1643,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "383791723945394176": {
         "modification_history": {},
