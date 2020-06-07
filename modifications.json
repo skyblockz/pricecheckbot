@@ -1582,6 +1582,16 @@
                     2000
                 ]
             },
+            "enchanted_obsidian": {
+                "from": [
+                    3500,
+                    3650
+                ],
+                "to": [
+                    3800,
+                    4000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     110000,
@@ -1653,7 +1663,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "383791723945394176": {
         "modification_history": {},
