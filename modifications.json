@@ -260,6 +260,16 @@
                     20
                 ]
             },
+            "sand": {
+                "from": [
+                    10,
+                    10
+                ],
+                "to": [
+                    14,
+                    14
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     65,
@@ -291,7 +301,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "310369675987124225": {
         "modification_history": {
