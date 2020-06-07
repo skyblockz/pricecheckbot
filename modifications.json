@@ -1373,6 +1373,16 @@
                     200000
                 ]
             },
+            "crystal_chestplate": {
+                "from": [
+                    125000,
+                    140000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "divers_boots": {
                 "from": [
                     1800000,
@@ -1424,7 +1434,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "349682137349357580": {
         "modification_history": {},
@@ -1909,7 +1919,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 7
     },
     "660041857148911617": {
         "modification_history": {},
