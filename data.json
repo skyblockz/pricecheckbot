@@ -4069,12 +4069,6 @@
     },
     {
         "ac": true,
-        "hi": 1200,
-        "low": 1200,
-        "name": "enchanted_birch_wood"
-    },
-    {
-        "ac": true,
         "hi": 1000,
         "low": 1000,
         "name": "enchanted_oak_wood"
@@ -5632,5 +5626,11 @@
         "hi": 100000000,
         "low": 70000000,
         "name": "tarantula_minion_t11"
+    },
+    {
+        "ac": true,
+        "hi": 1200,
+        "low": 1200,
+        "name": "enchanted_birch_log"
     }
 ]
