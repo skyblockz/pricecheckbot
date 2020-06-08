@@ -1893,6 +1893,16 @@
                     16000000
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    980,
+                    1040
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     235000,
@@ -2114,7 +2124,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "614661627513536526": {
         "modification_history": {},
