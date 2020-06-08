@@ -2023,6 +2023,16 @@
                     2500000
                 ]
             },
+            "lvl_1_legendary_skeleton_horse": {
+                "from": [
+                    2500000,
+                    4500000
+                ],
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "lvl_1_legendary_zombie": {
                 "from": [
                     7500000,
@@ -2154,7 +2164,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "614661627513536526": {
         "modification_history": {},
