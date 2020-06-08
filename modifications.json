@@ -2003,6 +2003,16 @@
                     65000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1200,
+                    1350
+                ],
+                "to": [
+                    12500,
+                    1350
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     83000,
@@ -2184,7 +2194,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "614661627513536526": {
         "modification_history": {},
