@@ -2161,6 +2161,13 @@
                     150
                 ]
             },
+            "rabbit_minion_xi": {
+                "from": null,
+                "to": [
+                    21000000,
+                    25000000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     150000,
@@ -2246,7 +2253,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "614661627513536526": {
         "modification_history": {},
