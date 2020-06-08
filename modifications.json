@@ -1913,6 +1913,16 @@
                     3650
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    2400,
+                    2900
+                ],
+                "to": [
+                    20000,
+                    24000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     55000,
@@ -2094,7 +2104,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "614661627513536526": {
         "modification_history": {},
