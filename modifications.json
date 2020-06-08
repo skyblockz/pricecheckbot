@@ -1741,6 +1741,16 @@
                     90000
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    630000,
+                    700000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "enchanted_endstone": {
                 "from": [
                     2000,
@@ -1859,7 +1869,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "540685105513889793": {
         "modification_history": {
