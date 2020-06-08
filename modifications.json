@@ -1773,12 +1773,12 @@
             },
             "enchanted_lily_pad": {
                 "from": [
-                    49000,
-                    52000
-                ],
-                "to": [
                     52000,
                     59500
+                ],
+                "to": [
+                    45000,
+                    52000
                 ]
             },
             "enchanted_redstone": {
@@ -1859,7 +1859,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "540685105513889793": {
         "modification_history": {
