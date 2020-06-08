@@ -1741,6 +1741,16 @@
                     59500
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    500,
+                    600
+                ],
+                "to": [
+                    1270,
+                    1400
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     90000,
@@ -1789,7 +1799,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "540685105513889793": {
         "modification_history": {
