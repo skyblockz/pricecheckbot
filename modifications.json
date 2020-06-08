@@ -1717,7 +1717,7 @@
     },
     "466769036122783744": {
         "modification_history": {},
-        "total_mods": 2
+        "total_mods": 3
     },
     "523019950072266764": {
         "modification_history": {
@@ -1871,6 +1871,16 @@
                 "to": [
                     225000,
                     235000
+                ]
+            },
+            "enchanted_hay_bale": {
+                "from": [
+                    6000,
+                    6500
+                ],
+                "to": [
+                    21000,
+                    24000
                 ]
             },
             "enchanted_obsidian": {
@@ -2054,7 +2064,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 39
     },
     "614661627513536526": {
         "modification_history": {},
