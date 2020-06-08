@@ -1731,6 +1731,16 @@
                     90000
                 ]
             },
+            "enchanted_endstone": {
+                "from": [
+                    2000,
+                    2500
+                ],
+                "to": [
+                    1000,
+                    1300
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2850,
@@ -1829,7 +1839,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "540685105513889793": {
         "modification_history": {
