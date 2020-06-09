@@ -1944,12 +1944,12 @@
             },
             "enchanted_cookie": {
                 "from": [
-                    100000,
-                    130000
-                ],
-                "to": [
                     290000,
                     320000
+                ],
+                "to": [
+                    260000,
+                    280000
                 ]
             },
             "enchanted_endstone": {
@@ -2100,7 +2100,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "540685105513889793": {
         "modification_history": {
