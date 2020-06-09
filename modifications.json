@@ -190,6 +190,16 @@
                     2000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    170000,
+                    190000
+                ],
+                "to": [
+                    180000,
+                    180000
+                ]
+            },
             "enchanted_sand": {
                 "from": [
                     2000,
@@ -341,7 +351,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "310369675987124225": {
         "modification_history": {
