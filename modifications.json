@@ -2049,6 +2049,16 @@
                     7100000
                 ]
             },
+            "speed_artifact": {
+                "from": [
+                    5500000,
+                    6000000
+                ],
+                "to": [
+                    4400000,
+                    4600000
+                ]
+            },
             "strong_dragon_helmet": {
                 "from": [
                     450000,
@@ -2090,7 +2100,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "540685105513889793": {
         "modification_history": {
