@@ -1603,6 +1603,16 @@
                     225000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    45000,
+                    52000
+                ],
+                "to": [
+                    47000,
+                    50000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     1500,
@@ -1704,7 +1714,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "383791723945394176": {
         "modification_history": {},
