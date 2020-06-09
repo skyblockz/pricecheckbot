@@ -1812,6 +1812,16 @@
                     800000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    100000,
+                    130000
+                ],
+                "to": [
+                    290000,
+                    320000
+                ]
+            },
             "enchanted_endstone": {
                 "from": [
                     2000,
@@ -1940,7 +1950,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "540685105513889793": {
         "modification_history": {
