@@ -1573,6 +1573,16 @@
                     150000
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    70000,
+                    90000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     1400000,
@@ -1604,7 +1614,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "349682137349357580": {
         "modification_history": {
