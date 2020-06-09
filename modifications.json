@@ -130,6 +130,16 @@
                     700
                 ]
             },
+            "enchanted_endstone": {
+                "from": [
+                    1000,
+                    1300
+                ],
+                "to": [
+                    1100,
+                    12000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     600,
@@ -361,7 +371,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "310369675987124225": {
         "modification_history": {
