@@ -1493,6 +1493,16 @@
                     450000
                 ]
             },
+            "feather_ring": {
+                "from": [
+                    8000,
+                    9000
+                ],
+                "to": [
+                    8000,
+                    13000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     200000,
@@ -1564,7 +1574,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "349682137349357580": {
         "modification_history": {
