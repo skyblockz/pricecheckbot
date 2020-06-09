@@ -1383,6 +1383,16 @@
                     200000
                 ]
             },
+            "candy_talisman": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    5000,
+                    20000
+                ]
+            },
             "crystal_boots": {
                 "from": [
                     75000,
@@ -1544,7 +1554,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "349682137349357580": {
         "modification_history": {
