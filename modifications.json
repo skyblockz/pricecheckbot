@@ -615,6 +615,16 @@
                     35000000
                 ]
             },
+            "lvl_1_epic_baby_yeti": {
+                "from": [
+                    5500000,
+                    8500000
+                ],
+                "to": [
+                    7000000,
+                    10000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     60000000,
@@ -1310,7 +1320,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "325104094530502684": {
         "modification_history": {},
