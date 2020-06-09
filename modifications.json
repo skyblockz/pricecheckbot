@@ -1483,6 +1483,16 @@
                     3100000
                 ]
             },
+            "vampire_mask": {
+                "from": [
+                    1400000,
+                    2000000
+                ],
+                "to": [
+                    1100000,
+                    1600000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     300000,
@@ -1494,7 +1504,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "349682137349357580": {
         "modification_history": {
@@ -1770,7 +1780,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "406906204309159937": {
         "modification_history": {},
