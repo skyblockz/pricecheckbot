@@ -1483,6 +1483,16 @@
                     500000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    124000,
+                    440000
+                ],
+                "to": [
+                    375000,
+                    450000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     200000,
@@ -1554,7 +1564,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "349682137349357580": {
         "modification_history": {
