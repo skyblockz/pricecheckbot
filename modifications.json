@@ -1550,6 +1550,16 @@
                     3500000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    40000,
+                    70000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
             "fishing_xp_boost_iii_potion": {
                 "from": [
                     15000,
@@ -1691,7 +1701,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "334763167391416322": {
         "modification_history": {
