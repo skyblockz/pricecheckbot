@@ -1568,11 +1568,11 @@
             "power_vi": {
                 "from": [
                     4000000,
-                    4000000
+                    4600000
                 ],
                 "to": [
-                    4000000,
-                    4600000
+                    3500000,
+                    4300000
                 ]
             },
             "protector_dragon_chestplate": {
@@ -1883,7 +1883,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "325104094530502684": {
         "modification_history": {},
