@@ -3916,12 +3916,12 @@
             },
             "enchanted_hay_bale": {
                 "from": [
-                    6000,
-                    6500
-                ],
-                "to": [
                     21000,
                     24000
+                ],
+                "to": [
+                    18300,
+                    19500
                 ]
             },
             "enchanted_obsidian": {
@@ -4484,7 +4484,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "614661627513536526": {
         "modification_history": {},
