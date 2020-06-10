@@ -647,6 +647,16 @@
                     230000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    180000,
+                    180000
+                ],
+                "to": [
+                    160000,
+                    184000
+                ]
+            },
             "exp_share": {
                 "from": [
                     600000,
@@ -1652,7 +1662,7 @@
                 ]
             }
         },
-        "total_mods": 125
+        "total_mods": 126
     },
     "325104094530502684": {
         "modification_history": {},
