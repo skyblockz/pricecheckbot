@@ -538,6 +538,16 @@
                     6300000
                 ]
             },
+            "bottle_of_jyrre": {
+                "from": [
+                    1000,
+                    100000
+                ],
+                "to": [
+                    10000,
+                    30000
+                ]
+            },
             "broken_piggy_bank": {
                 "from": [
                     80000,
@@ -2260,7 +2270,7 @@
                 ]
             }
         },
-        "total_mods": 189
+        "total_mods": 190
     },
     "325104094530502684": {
         "modification_history": {},
