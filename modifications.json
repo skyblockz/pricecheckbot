@@ -670,6 +670,16 @@
                     7
                 ]
             },
+            "leather": {
+                "from": [
+                    15,
+                    25
+                ],
+                "to": [
+                    15,
+                    15
+                ]
+            },
             "oak_wood": {
                 "from": [
                     6,
@@ -815,7 +825,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "310369675987124225": {
         "modification_history": {
