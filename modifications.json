@@ -2035,6 +2035,16 @@
                     875000
                 ]
             },
+            "sponge_leggings": {
+                "from": [
+                    3100000,
+                    3600000
+                ],
+                "to": [
+                    1050000,
+                    1400000
+                ]
+            },
             "sponge_shoes": {
                 "from": null,
                 "to": [
@@ -2240,7 +2250,7 @@
                 ]
             }
         },
-        "total_mods": 186
+        "total_mods": 187
     },
     "325104094530502684": {
         "modification_history": {},
