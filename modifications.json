@@ -838,6 +838,16 @@
                     550000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    24500,
+                    25500
+                ],
+                "to": [
+                    25000,
+                    26000
+                ]
+            },
             "frozen_blaze_helmet": {
                 "from": [
                     10000000,
@@ -1833,7 +1843,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "325104094530502684": {
         "modification_history": {},
