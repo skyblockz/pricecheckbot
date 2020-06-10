@@ -1390,12 +1390,12 @@
             },
             "lvl_1_legendary_blaze": {
                 "from": [
-                    75000000,
-                    90000000
-                ],
-                "to": [
                     55000000,
                     75000000
+                ],
+                "to": [
+                    35000000,
+                    45000000
                 ]
             },
             "lvl_1_legendary_ender_dragon": {
@@ -2280,7 +2280,7 @@
                 ]
             }
         },
-        "total_mods": 192
+        "total_mods": 193
     },
     "325104094530502684": {
         "modification_history": {},
