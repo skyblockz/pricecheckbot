@@ -62,6 +62,13 @@
                     130000
                 ]
             },
+            "small_combat_sack": {
+                "from": null,
+                "to": [
+                    26000,
+                    30000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     430000,
@@ -73,7 +80,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "298613178601046017": {
         "modification_history": {},
