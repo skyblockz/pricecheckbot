@@ -1449,6 +1449,16 @@
                     26000
                 ]
             },
+            "french_bread": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    1700000,
+                    2200000
+                ]
+            },
             "frozen_blaze_helmet": {
                 "from": [
                     10000000,
@@ -2731,7 +2741,7 @@
                 ]
             }
         },
-        "total_mods": 201
+        "total_mods": 202
     },
     "325104094530502684": {
         "modification_history": {},
