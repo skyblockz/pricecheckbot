@@ -2673,6 +2673,13 @@
                     900000
                 ]
             },
+            "medium_fishing_sack": {
+                "from": null,
+                "to": [
+                    765000,
+                    840000
+                ]
+            },
             "medium_foraging_sack": {
                 "from": null,
                 "to": [
@@ -2895,7 +2902,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "614661627513536526": {
         "modification_history": {},
