@@ -3789,6 +3789,16 @@
                     45
                 ]
             },
+            "catalyst": {
+                "from": [
+                    30000,
+                    31500
+                ],
+                "to": [
+                    28000,
+                    29500
+                ]
+            },
             "cavespider_minion_xi": {
                 "from": null,
                 "to": [
@@ -4594,7 +4604,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "614661627513536526": {
         "modification_history": {},
