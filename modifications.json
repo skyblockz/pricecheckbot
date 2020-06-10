@@ -83,6 +83,16 @@
                     30000
                 ]
             },
+            "small_mining_sack": {
+                "from": [
+                    16000,
+                    18000
+                ],
+                "to": [
+                    28000,
+                    33000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     430000,
@@ -94,7 +104,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "298613178601046017": {
         "modification_history": {},
