@@ -3732,6 +3732,16 @@
                     175000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    85000,
+                    140000
+                ],
+                "to": [
+                    85000,
+                    15000
+                ]
+            },
             "cavespider_minion_xi": {
                 "from": null,
                 "to": [
@@ -4376,7 +4386,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "614661627513536526": {
         "modification_history": {},
