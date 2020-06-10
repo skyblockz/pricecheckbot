@@ -270,6 +270,16 @@
                     700
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    16200,
+                    17500
+                ],
+                "to": [
+                    16000,
+                    17000
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1150,
@@ -605,7 +615,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "310369675987124225": {
         "modification_history": {
