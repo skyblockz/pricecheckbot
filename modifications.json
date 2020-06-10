@@ -898,6 +898,16 @@
                     184000
                 ]
             },
+            "enchanted_sand": {
+                "from": [
+                    1500,
+                    2000
+                ],
+                "to": [
+                    1800,
+                    2800
+                ]
+            },
             "enchanted_slimeball": {
                 "from": [
                     1300,
@@ -2153,7 +2163,7 @@
                 ]
             }
         },
-        "total_mods": 177
+        "total_mods": 178
     },
     "325104094530502684": {
         "modification_history": {},
