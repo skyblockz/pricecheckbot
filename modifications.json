@@ -2599,6 +2599,13 @@
                     2250000
                 ]
             },
+            "large_fishing_sack": {
+                "from": null,
+                "to": [
+                    1775000,
+                    1930000
+                ]
+            },
             "large_foraging_sack": {
                 "from": [
                     135000,
@@ -2902,7 +2909,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "614661627513536526": {
         "modification_history": {},
