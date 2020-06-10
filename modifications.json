@@ -433,6 +433,16 @@
                     95000
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    30,
+                    50
+                ],
+                "to": [
+                    30,
+                    30
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     7,
@@ -544,7 +554,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "310369675987124225": {
         "modification_history": {
