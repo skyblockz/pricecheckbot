@@ -3045,6 +3045,16 @@
                     260000
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    130,
+                    150
+                ],
+                "to": [
+                    100,
+                    110
+                ]
+            },
             "red_mushroom": {
                 "from": [
                     18,
@@ -3056,7 +3066,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "640849699297034250": {
         "modification_history": {},
