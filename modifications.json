@@ -680,6 +680,16 @@
                     14
                 ]
             },
+            "snow_block": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    5,
+                    5
+                ]
+            },
             "spiked_bait": {
                 "from": null,
                 "to": [
@@ -755,7 +765,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "310369675987124225": {
         "modification_history": {
