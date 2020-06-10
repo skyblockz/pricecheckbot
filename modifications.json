@@ -2632,6 +2632,13 @@
                     125000
                 ]
             },
+            "medium_agronomy_sack": {
+                "from": null,
+                "to": [
+                    880000,
+                    900000
+                ]
+            },
             "medium_foraging_sack": {
                 "from": null,
                 "to": [
@@ -2833,7 +2840,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "614661627513536526": {
         "modification_history": {},
