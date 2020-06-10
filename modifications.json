@@ -4062,6 +4062,13 @@
                     255000
                 ]
             },
+            "light_bait": {
+                "from": null,
+                "to": [
+                    130,
+                    160
+                ]
+            },
             "lvl_100_epic_rabbit": {
                 "from": null,
                 "to": [
@@ -4440,7 +4447,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "614661627513536526": {
         "modification_history": {},
