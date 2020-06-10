@@ -1494,6 +1494,16 @@
                     9300000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    null,
+                    null
+                ],
+                "to": [
+                    380000,
+                    560000
+                ]
+            },
             "power_vi": {
                 "from": [
                     4000000,
@@ -1802,7 +1812,7 @@
                 ]
             }
         },
-        "total_mods": 142
+        "total_mods": 143
     },
     "325104094530502684": {
         "modification_history": {},
