@@ -2775,6 +2775,13 @@
                     30000
                 ]
             },
+            "small_husbandry_sack": {
+                "from": null,
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "small_mining_sack": {
                 "from": null,
                 "to": [
@@ -2847,7 +2854,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "614661627513536526": {
         "modification_history": {},
