@@ -878,6 +878,16 @@
                     2500
                 ]
             },
+            "enchanted_raw_salmon": {
+                "from": [
+                    1600,
+                    1800
+                ],
+                "to": [
+                    1400,
+                    1700
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     230000,
@@ -2163,7 +2173,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "325104094530502684": {
         "modification_history": {},
