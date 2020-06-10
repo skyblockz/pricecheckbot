@@ -28,6 +28,13 @@
                     180000
                 ]
             },
+            "medium_combat_sack": {
+                "from": null,
+                "to": [
+                    70000,
+                    75000
+                ]
+            },
             "medium_mining_sack": {
                 "from": null,
                 "to": [
@@ -80,7 +87,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "298613178601046017": {
         "modification_history": {},
