@@ -2653,6 +2653,13 @@
                     65000
                 ]
             },
+            "medium_husbandry_sack": {
+                "from": null,
+                "to": [
+                    85000,
+                    110000
+                ]
+            },
             "medium_mining_sack": {
                 "from": [
                     50000,
@@ -2854,7 +2861,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "614661627513536526": {
         "modification_history": {},
