@@ -4110,6 +4110,16 @@
                     3150000
                 ]
             },
+            "mystical_mushroom_soup": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    7500,
+                    12500
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     68000000,
@@ -4366,7 +4376,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "614661627513536526": {
         "modification_history": {},
