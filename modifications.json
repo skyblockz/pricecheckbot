@@ -2738,6 +2738,13 @@
                     2000000
                 ]
             },
+            "personal_compactor_5000": {
+                "from": null,
+                "to": [
+                    5000000,
+                    5015000
+                ]
+            },
             "pig_minion_xi": {
                 "from": [
                     3300000,
@@ -2923,7 +2930,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "614661627513536526": {
         "modification_history": {},
