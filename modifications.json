@@ -928,6 +928,16 @@
                     27000000
                 ]
             },
+            "ink_sack": {
+                "from": [
+                    230,
+                    300
+                ],
+                "to": [
+                    180,
+                    240
+                ]
+            },
             "large_backpack": {
                 "from": [
                     225000,
@@ -1913,7 +1923,7 @@
                 ]
             }
         },
-        "total_mods": 153
+        "total_mods": 154
     },
     "325104094530502684": {
         "modification_history": {},
@@ -3594,7 +3604,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "640849699297034250": {
         "modification_history": {},
