@@ -510,6 +510,16 @@
                     1250
                 ]
             },
+            "end_stone": {
+                "from": [
+                    12,
+                    16
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     480000,
@@ -725,7 +735,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "310369675987124225": {
         "modification_history": {
