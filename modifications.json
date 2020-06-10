@@ -3045,6 +3045,16 @@
                     1
                 ]
             },
+            "enchanted_birch_wood": {
+                "from": [
+                    1550,
+                    1700
+                ],
+                "to": [
+                    1150,
+                    1250
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     20000,
@@ -3086,7 +3096,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "640849699297034250": {
         "modification_history": {},
