@@ -1394,6 +1394,16 @@
                     2200000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    535000,
+                    550000
+                ],
+                "to": [
+                    520000,
+                    550000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
@@ -1532,7 +1542,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "325104094530502684": {
         "modification_history": {},
