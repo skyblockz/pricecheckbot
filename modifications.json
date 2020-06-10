@@ -1975,6 +1975,16 @@
                     5000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    3600000,
+                    3600000
+                ],
+                "to": [
+                    2500000,
+                    3600000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     600000,
@@ -2340,7 +2350,7 @@
                 ]
             }
         },
-        "total_mods": 199
+        "total_mods": 200
     },
     "325104094530502684": {
         "modification_history": {},
