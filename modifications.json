@@ -1550,6 +1550,16 @@
                     3500000
                 ]
             },
+            "fishing_xp_boost_iii_potion": {
+                "from": [
+                    15000,
+                    25000
+                ],
+                "to": [
+                    45000,
+                    75000
+                ]
+            },
             "lvl_1_epic_enderman": {
                 "from": [
                     5000,
@@ -1661,7 +1671,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "334763167391416322": {
         "modification_history": {
