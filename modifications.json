@@ -1087,6 +1087,16 @@
                     2200000
                 ]
             },
+            "minion_expander": {
+                "from": [
+                    4000,
+                    25000
+                ],
+                "to": [
+                    22000,
+                    35000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -1582,7 +1592,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "325104094530502684": {
         "modification_history": {},
