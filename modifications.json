@@ -2089,7 +2089,7 @@
     },
     "466769036122783744": {
         "modification_history": {},
-        "total_mods": 4
+        "total_mods": 5
     },
     "523019950072266764": {
         "modification_history": {
@@ -2662,6 +2662,13 @@
                     2000000
                 ]
             },
+            "small_mining_sack": {
+                "from": null,
+                "to": [
+                    16000,
+                    18000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     70,
@@ -2727,7 +2734,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "614661627513536526": {
         "modification_history": {},
