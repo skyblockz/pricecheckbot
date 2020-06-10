@@ -3591,6 +3591,13 @@
                     255000
                 ]
             },
+            "lvl_100_epic_rabbit": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "lvl_100_legendary_wither_skeleton": {
                 "from": [
                     28000000,
@@ -3945,7 +3952,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "614661627513536526": {
         "modification_history": {},
