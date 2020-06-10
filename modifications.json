@@ -558,6 +558,16 @@
                     4000000
                 ]
             },
+            "clay_minion_xi": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "cracked_piggy_bank": {
                 "from": [
                     80000,
@@ -2093,7 +2103,7 @@
                 ]
             }
         },
-        "total_mods": 171
+        "total_mods": 172
     },
     "325104094530502684": {
         "modification_history": {},
