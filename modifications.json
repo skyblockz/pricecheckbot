@@ -517,6 +517,16 @@
                     150
                 ]
             },
+            "sponge": {
+                "from": [
+                    230,
+                    300
+                ],
+                "to": [
+                    130,
+                    130
+                ]
+            },
             "spooky_bait": {
                 "from": null,
                 "to": [
@@ -575,7 +585,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "310369675987124225": {
         "modification_history": {
