@@ -2565,10 +2565,13 @@
                 ]
             },
             "medium_mining_sack": {
-                "from": null,
-                "to": [
+                "from": [
                     50000,
                     57500
+                ],
+                "to": [
+                    50000,
+                    57000
                 ]
             },
             "mushroom_minion_xi": {
@@ -2741,7 +2744,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "614661627513536526": {
         "modification_history": {},
