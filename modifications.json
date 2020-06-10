@@ -1520,6 +1520,16 @@
                     300000
                 ]
             },
+            "epic_combat_exp_boost": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
             "lvl_1_epic_enderman": {
                 "from": [
                     5000,
@@ -1631,7 +1641,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "334763167391416322": {
         "modification_history": {
