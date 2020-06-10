@@ -2792,6 +2792,13 @@
                     325000
                 ]
             },
+            "small_fishing_sack": {
+                "from": null,
+                "to": [
+                    260000,
+                    285000
+                ]
+            },
             "small_foraging_sack": {
                 "from": null,
                 "to": [
@@ -2878,7 +2885,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "614661627513536526": {
         "modification_history": {},
