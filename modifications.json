@@ -1134,6 +1134,16 @@
                     10000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "obsidian_minion_xi": {
                 "from": [
                     8200000,
@@ -1612,7 +1622,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "325104094530502684": {
         "modification_history": {},
