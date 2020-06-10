@@ -698,6 +698,16 @@
                     95000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    2800,
+                    3400
+                ],
+                "to": [
+                    2300,
+                    2800
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     8450,
@@ -1823,7 +1833,7 @@
                 ]
             }
         },
-        "total_mods": 143
+        "total_mods": 144
     },
     "325104094530502684": {
         "modification_history": {},
