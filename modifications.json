@@ -948,6 +948,16 @@
                     9500000
                 ]
             },
+            "game_breaker": {
+                "from": [
+                    10000000,
+                    15000000
+                ],
+                "to": [
+                    15000000,
+                    40000000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     480,
@@ -2043,7 +2053,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "325104094530502684": {
         "modification_history": {},
