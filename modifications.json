@@ -958,6 +958,16 @@
                     200000
                 ]
             },
+            "large_storage": {
+                "from": [
+                    160000,
+                    200000
+                ],
+                "to": [
+                    220000,
+                    260000
+                ]
+            },
             "legendary_ring_of_love": {
                 "from": [
                     7000000,
@@ -1943,7 +1953,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "325104094530502684": {
         "modification_history": {},
