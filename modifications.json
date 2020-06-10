@@ -3954,6 +3954,16 @@
                     19500
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    360000,
+                    370000
+                ],
+                "to": [
+                    310000,
+                    335000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     3700,
@@ -4574,7 +4584,7 @@
                 ]
             }
         },
-        "total_mods": 116
+        "total_mods": 117
     },
     "614661627513536526": {
         "modification_history": {},
