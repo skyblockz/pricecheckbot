@@ -599,12 +599,12 @@
             },
             "enchanted_glowstone": {
                 "from": [
-                    95000,
-                    110000
-                ],
-                "to": [
                     530,
                     650
+                ],
+                "to": [
+                    100000,
+                    115000
                 ]
             },
             "enchanted_obsidian": {
@@ -1642,7 +1642,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "325104094530502684": {
         "modification_history": {},
