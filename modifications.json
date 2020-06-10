@@ -568,6 +568,16 @@
                     80000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    24000,
+                    25000
+                ],
+                "to": [
+                    28000,
+                    31000
+                ]
+            },
             "day_crystal": {
                 "from": [
                     300000,
@@ -1883,7 +1893,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "325104094530502684": {
         "modification_history": {},
