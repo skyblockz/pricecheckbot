@@ -1845,6 +1845,16 @@
                     540000
                 ]
             },
+            "revenant_minion_i": {
+                "from": [
+                    475000,
+                    700000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     4400000,
@@ -2123,7 +2133,7 @@
                 ]
             }
         },
-        "total_mods": 174
+        "total_mods": 175
     },
     "325104094530502684": {
         "modification_history": {},
