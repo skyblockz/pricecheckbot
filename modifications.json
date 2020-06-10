@@ -3870,6 +3870,16 @@
                     1200
                 ]
             },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    500,
+                    525
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     235000,
@@ -4396,7 +4406,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "614661627513536526": {
         "modification_history": {},
