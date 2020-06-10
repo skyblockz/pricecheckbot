@@ -1418,6 +1418,16 @@
                     45000000
                 ]
             },
+            "lvl_1_legendary_dolphin": {
+                "from": [
+                    25000000,
+                    40000000
+                ],
+                "to": [
+                    15000000,
+                    28000000
+                ]
+            },
             "lvl_1_legendary_ender_dragon": {
                 "from": [
                     410000000,
@@ -2310,7 +2320,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "325104094530502684": {
         "modification_history": {},
