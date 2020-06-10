@@ -567,6 +567,16 @@
                     12000000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    230000,
+                    260000
+                ],
+                "to": [
+                    180000,
+                    230000
+                ]
+            },
             "exp_share": {
                 "from": [
                     600000,
@@ -1552,7 +1562,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "325104094530502684": {
         "modification_history": {},
