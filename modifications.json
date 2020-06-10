@@ -21,6 +21,13 @@
                     250000
                 ]
             },
+            "mining_sack": {
+                "from": null,
+                "to": [
+                    16000,
+                    18000
+                ]
+            },
             "obsidian_minion_xi": {
                 "from": [
                     3500000,
@@ -52,7 +59,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 15
     },
     "298613178601046017": {
         "modification_history": {},
