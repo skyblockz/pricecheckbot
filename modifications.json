@@ -758,6 +758,16 @@
                     2800
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    650,
+                    700
+                ],
+                "to": [
+                    500,
+                    800
+                ]
+            },
             "enchanted_jungle_wood": {
                 "from": [
                     1100,
@@ -2063,7 +2073,7 @@
                 ]
             }
         },
-        "total_mods": 168
+        "total_mods": 169
     },
     "325104094530502684": {
         "modification_history": {},
