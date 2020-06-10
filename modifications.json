@@ -1570,6 +1570,16 @@
                     32000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    850000,
+                    850000
+                ],
+                "to": [
+                    550000,
+                    675000
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     700000,
@@ -1621,7 +1631,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "334763167391416322": {
         "modification_history": {
