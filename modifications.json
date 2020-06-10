@@ -2717,6 +2717,13 @@
                     2000000
                 ]
             },
+            "small_agronomy_sack": {
+                "from": null,
+                "to": [
+                    300000,
+                    325000
+                ]
+            },
             "small_foraging_sack": {
                 "from": null,
                 "to": [
@@ -2796,7 +2803,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "614661627513536526": {
         "modification_history": {},
