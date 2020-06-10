@@ -577,6 +577,16 @@
                     12000000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    85000,
+                    90000
+                ],
+                "to": [
+                    86000,
+                    95000
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     600,
@@ -1702,7 +1712,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "325104094530502684": {
         "modification_history": {},
