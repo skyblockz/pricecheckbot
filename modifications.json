@@ -567,6 +567,16 @@
                     12000000
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     230000,
@@ -1562,7 +1572,7 @@
                 ]
             }
         },
-        "total_mods": 115
+        "total_mods": 116
     },
     "325104094530502684": {
         "modification_history": {},
