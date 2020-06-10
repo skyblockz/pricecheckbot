@@ -557,6 +557,16 @@
                     80000
                 ]
             },
+            "day_crystal": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "elegant_tuxedo_oxfords": {
                 "from": [
                     8000000,
@@ -1602,7 +1612,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "325104094530502684": {
         "modification_history": {},
