@@ -3710,6 +3710,13 @@
                     600000
                 ]
             },
+            "replenish_i": {
+                "from": null,
+                "to": [
+                    3600000,
+                    3600000
+                ]
+            },
             "sand_minion_xi": {
                 "from": null,
                 "to": [
@@ -3858,7 +3865,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "614661627513536526": {
         "modification_history": {},
