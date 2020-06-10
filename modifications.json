@@ -577,6 +577,16 @@
                     1200
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    170000
+                ],
+                "to": [
+                    154000,
+                    170000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     230000,
@@ -1572,7 +1582,7 @@
                 ]
             }
         },
-        "total_mods": 116
+        "total_mods": 117
     },
     "325104094530502684": {
         "modification_history": {},
