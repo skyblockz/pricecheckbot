@@ -180,6 +180,16 @@
                     1200
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    425000
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
                     157000,
@@ -615,7 +625,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "310369675987124225": {
         "modification_history": {
