@@ -958,6 +958,16 @@
                     40000000
                 ]
             },
+            "gold_minion_xi": {
+                "from": [
+                    14000000,
+                    20000000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     480,
@@ -2053,7 +2063,7 @@
                 ]
             }
         },
-        "total_mods": 167
+        "total_mods": 168
     },
     "325104094530502684": {
         "modification_history": {},
