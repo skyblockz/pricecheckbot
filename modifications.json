@@ -637,6 +637,16 @@
                     650
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    95000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     3800,
@@ -1682,7 +1692,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "325104094530502684": {
         "modification_history": {},
