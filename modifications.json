@@ -21,6 +21,13 @@
                     250000
                 ]
             },
+            "large_mining_sack": {
+                "from": null,
+                "to": [
+                    175000,
+                    180000
+                ]
+            },
             "medium_mining_sack": {
                 "from": null,
                 "to": [
@@ -66,7 +73,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "298613178601046017": {
         "modification_history": {},
