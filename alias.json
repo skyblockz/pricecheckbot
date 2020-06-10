@@ -820,10 +820,6 @@
         "src": "rev_minion"
     },
     {
-        "dest": "spongy_boots",
-        "src": "sponge_boots"
-    },
-    {
         "dest": "radiant_power_orb",
         "src": "radiant_orb"
     },
@@ -1358,5 +1354,13 @@
     {
         "dest": "super_compactor_4000",
         "src": "sc4k"
+    },
+    {
+        "dest": "super_compactor_3000",
+        "src": "sc6k"
+    },
+    {
+        "dest": "enchanted_raw_fish",
+        "src": "efish"
     }
 ]
