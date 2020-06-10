@@ -3742,6 +3742,16 @@
                     15000
                 ]
             },
+            "blessed_bait": {
+                "from": [
+                    250,
+                    300
+                ],
+                "to": [
+                    275,
+                    300
+                ]
+            },
             "cavespider_minion_xi": {
                 "from": null,
                 "to": [
@@ -4406,7 +4416,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "614661627513536526": {
         "modification_history": {},
