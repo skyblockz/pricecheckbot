@@ -3065,6 +3065,16 @@
                     1250
                 ]
             },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    700,
+                    700
+                ],
+                "to": [
+                    500,
+                    620
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     20000,
@@ -3106,7 +3116,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "640849699297034250": {
         "modification_history": {},
