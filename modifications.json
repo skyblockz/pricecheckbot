@@ -2535,6 +2535,13 @@
                     6000000
                 ]
             },
+            "large_foraging_sack": {
+                "from": null,
+                "to": [
+                    135000,
+                    142500
+                ]
+            },
             "lvl_100_legendary_wither_skeleton": {
                 "from": [
                     28000000,
@@ -2779,7 +2786,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "614661627513536526": {
         "modification_history": {},
