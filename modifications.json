@@ -868,6 +868,16 @@
                     700
                 ]
             },
+            "enchanted_raw_mutton": {
+                "from": [
+                    3800,
+                    4800
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     230000,
@@ -2143,7 +2153,7 @@
                 ]
             }
         },
-        "total_mods": 176
+        "total_mods": 177
     },
     "325104094530502684": {
         "modification_history": {},
