@@ -3722,6 +3722,16 @@
                     4800
                 ]
             },
+            "enchanted_feather": {
+                "from": [
+                    300,
+                    500
+                ],
+                "to": [
+                    450,
+                    480
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": [
                     9000,
@@ -3903,7 +3913,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "466769036122783744": {
         "modification_history": {},
