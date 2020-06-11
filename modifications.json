@@ -3954,6 +3954,16 @@
                     200000
                 ]
             },
+            "smite_vi": {
+                "from": [
+                    30000,
+                    60000
+                ],
+                "to": [
+                    35000,
+                    45000
+                ]
+            },
             "superior_dragon_helmet": {
                 "from": [
                     11000000,
@@ -3965,7 +3975,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "406906204309159937": {
         "modification_history": {
