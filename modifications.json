@@ -21,6 +21,16 @@
                     250000
                 ]
             },
+            "ink_wand": {
+                "from": [
+                    1300000,
+                    1700000
+                ],
+                "to": [
+                    1150000,
+                    1220000
+                ]
+            },
             "large_combat_sack": {
                 "from": null,
                 "to": [
@@ -104,7 +114,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 23
     },
     "298613178601046017": {
         "modification_history": {
