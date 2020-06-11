@@ -5690,6 +5690,16 @@
                     91000
                 ]
             },
+            "personal_compactor_5000": {
+                "from": [
+                    4300000,
+                    5000000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "personal_compactor_6000": {
                 "from": [
                     5000000,
@@ -5758,7 +5768,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "660041857148911617": {
         "modification_history": {},
