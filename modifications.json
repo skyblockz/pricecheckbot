@@ -300,6 +300,16 @@
                     3400
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    2500,
+                    3500
+                ]
+            },
             "enchanted_charcoal": {
                 "from": [
                     1700,
@@ -1102,7 +1112,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "310369675987124225": {
         "modification_history": {
