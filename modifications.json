@@ -3721,9 +3721,19 @@
                     340000,
                     355000
                 ]
+            },
+            "enchanted_redstone_block": {
+                "from": [
+                    170000,
+                    177000
+                ],
+                "to": [
+                    165000,
+                    168000
+                ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
