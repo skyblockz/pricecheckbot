@@ -3397,7 +3397,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "366232910334001152": {
         "modification_history": {
@@ -4058,6 +4058,16 @@
                     16000000
                 ]
             },
+            "personal_compactor_6000": {
+                "from": [
+                    10500000,
+                    12500000
+                ],
+                "to": [
+                    8000000,
+                    8600000
+                ]
+            },
             "replenish_i": {
                 "from": [
                     2500000,
@@ -4129,7 +4139,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "540685105513889793": {
         "modification_history": {
