@@ -4650,10 +4650,13 @@
                 ]
             },
             "medium_slayer_sack": {
-                "from": null,
-                "to": [
+                "from": [
                     1050000,
                     1075000
+                ],
+                "to": [
+                    1000000,
+                    1000000
                 ]
             },
             "minnow_bait": {
@@ -5066,7 +5069,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "614661627513536526": {
         "modification_history": {},
