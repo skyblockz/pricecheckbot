@@ -1347,7 +1347,14 @@
         "dest": "lvl_1_rare_enderman",
         "src": "rare_enderman"
     },
-   
+    {
+        "dest": "super_compactor_4000",
+        "src": "sc4000"
+    },
+    {
+        "dest": "super_compactor_4000",
+        "src": "sc4k"
+    },
     {
         "dest": "super_compactor_3000",
         "src": "sc6k"
@@ -1379,5 +1386,9 @@
     {
         "dest": "glowstone_dust",
         "src": "glowstone"
+    },
+    {
+        "dest": "raw_porkchop",
+        "src": "pork"
     }
 ]
