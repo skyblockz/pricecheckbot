@@ -5501,6 +5501,16 @@
                     37
                 ]
             },
+            "slime_ball": {
+                "from": [
+                    7,
+                    9
+                ],
+                "to": [
+                    9,
+                    9
+                ]
+            },
             "spider_eye": {
                 "from": [
                     8,
@@ -5532,7 +5542,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "640849699297034250": {
         "modification_history": {},
