@@ -5384,6 +5384,16 @@
                     620
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    100000,
+                    118000
+                ],
+                "to": [
+                    98000,
+                    103000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     20000,
@@ -5452,7 +5462,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "640849699297034250": {
         "modification_history": {},
