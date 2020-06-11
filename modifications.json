@@ -5384,6 +5384,16 @@
                     1250
                 ]
             },
+            "enchanted_bone": {
+                "from": [
+                    1600,
+                    1600
+                ],
+                "to": [
+                    1500,
+                    1500
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     700,
@@ -5522,7 +5532,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "640849699297034250": {
         "modification_history": {},
