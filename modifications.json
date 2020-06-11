@@ -537,6 +537,16 @@
                     2000
                 ]
             },
+            "enchanted_nether_wart": {
+                "from": [
+                    2000,
+                    2200
+                ],
+                "to": [
+                    1500,
+                    1500
+                ]
+            },
             "enchanted_oak_wood": {
                 "from": [
                     900,
@@ -942,7 +952,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "310369675987124225": {
         "modification_history": {
