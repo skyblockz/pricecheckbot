@@ -4542,6 +4542,16 @@
                     5000
                 ]
             },
+            "snow_suit_helmet": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "snow_suit_leggings": {
                 "from": [
                     1000,
@@ -4714,7 +4724,7 @@
                 ]
             }
         },
-        "total_mods": 124
+        "total_mods": 125
     },
     "614661627513536526": {
         "modification_history": {},
