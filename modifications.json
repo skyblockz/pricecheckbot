@@ -4532,6 +4532,16 @@
                     18000
                 ]
             },
+            "snow_suit_boots": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     70,
@@ -4694,7 +4704,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "614661627513536526": {
         "modification_history": {},
