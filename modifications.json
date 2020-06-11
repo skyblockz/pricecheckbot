@@ -697,6 +697,16 @@
                     4500
                 ]
             },
+            "enchanted_red_mushroom": {
+                "from": [
+                    3500,
+                    4500
+                ],
+                "to": [
+                    3800,
+                    4100
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     160000,
@@ -1122,7 +1132,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "310369675987124225": {
         "modification_history": {
