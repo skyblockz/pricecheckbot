@@ -5750,6 +5750,16 @@
                     535000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    545000,
+                    550000
+                ],
+                "to": [
+                    520000,
+                    530000
+                ]
+            },
             "tarantula_minion_t11": {
                 "from": null,
                 "to": [
@@ -5778,7 +5788,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "660041857148911617": {
         "modification_history": {},
