@@ -627,6 +627,16 @@
                     1600
                 ]
             },
+            "enchanted_pumpkin": {
+                "from": [
+                    630,
+                    650
+                ],
+                "to": [
+                    650,
+                    850
+                ]
+            },
             "enchanted_quartz": {
                 "from": [
                     1550,
@@ -1072,7 +1082,7 @@
                 ]
             }
         },
-        "total_mods": 124
+        "total_mods": 125
     },
     "310369675987124225": {
         "modification_history": {
@@ -3448,6 +3458,16 @@
                     900000
                 ]
             },
+            "zombie_artifact": {
+                "from": [
+                    1600000,
+                    2400000
+                ],
+                "to": [
+                    1100000,
+                    1800000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     300000,
@@ -3459,7 +3479,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "349682137349357580": {
         "modification_history": {
