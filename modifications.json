@@ -3672,6 +3672,16 @@
                     160000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    1100,
+                    1100
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4600,
@@ -3803,7 +3813,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "466769036122783744": {
         "modification_history": {},
