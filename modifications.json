@@ -96,6 +96,16 @@
                     130000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    2700000,
+                    3400000
+                ],
+                "to": [
+                    3300000,
+                    3725000
+                ]
+            },
             "small_combat_sack": {
                 "from": null,
                 "to": [
@@ -124,7 +134,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "298613178601046017": {
         "modification_history": {
