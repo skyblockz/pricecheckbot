@@ -1027,6 +1027,16 @@
                     27
                 ]
             },
+            "red_mushroom_block": {
+                "from": [
+                    20,
+                    26
+                ],
+                "to": [
+                    300,
+                    500
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     15,
@@ -1132,7 +1142,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "310369675987124225": {
         "modification_history": {
