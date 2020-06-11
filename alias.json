@@ -820,10 +820,6 @@
         "src": "rev_minion"
     },
     {
-        "dest": "spongy_boots",
-        "src": "sponge_boots"
-    },
-    {
         "dest": "radiant_power_orb",
         "src": "radiant_orb"
     },
@@ -1350,5 +1346,45 @@
     {
         "dest": "lvl_1_rare_enderman",
         "src": "rare_enderman"
+    },
+    {
+        "dest": "super_compactor_4000",
+        "src": "sc4000"
+    },
+    {
+        "dest": "super_compactor_4000",
+        "src": "sc4k"
+    },
+    {
+        "dest": "super_compactor_3000",
+        "src": "sc6k"
+    },
+    {
+        "dest": "enchanted_raw_fish",
+        "src": "efish"
+    },
+    {
+        "dest": "enchanted_cooked_fish",
+        "src": "ecooked_fish"
+    },
+    {
+        "dest": "enchanted_clay",
+        "src": "eclay"
+    },
+    {
+        "dest": "slime_ball",
+        "src": "slime"
+    },
+    {
+        "dest": "enchanted_slimeball",
+        "src": "eslime"
+    },
+    {
+        "dest": "snow_ball",
+        "src": "snow"
+    },
+    {
+        "dest": "glowstone_dust",
+        "src": "glowstone"
     }
 ]

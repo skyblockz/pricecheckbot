@@ -11,6 +11,16 @@
                     250000
                 ]
             },
+            "crystallized_heart": {
+                "from": [
+                    625000,
+                    700000
+                ],
+                "to": [
+                    670000,
+                    725000
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     150000,
@@ -19,6 +29,37 @@
                 "to": [
                     160000,
                     250000
+                ]
+            },
+            "ink_wand": {
+                "from": [
+                    1150000,
+                    1220000
+                ],
+                "to": [
+                    1150000,
+                    1300000
+                ]
+            },
+            "large_combat_sack": {
+                "from": null,
+                "to": [
+                    157000,
+                    163000
+                ]
+            },
+            "large_mining_sack": {
+                "from": null,
+                "to": [
+                    175000,
+                    180000
+                ]
+            },
+            "medium_combat_sack": {
+                "from": null,
+                "to": [
+                    70000,
+                    75000
                 ]
             },
             "medium_mining_sack": {
@@ -55,22 +96,60 @@
                     130000
                 ]
             },
-            "zombies_heart": {
+            "revived_heart": {
                 "from": [
-                    430000,
-                    450000
+                    2700000,
+                    3400000
                 ],
                 "to": [
-                    300000,
-                    350000
+                    3300000,
+                    3725000
+                ]
+            },
+            "small_combat_sack": {
+                "from": null,
+                "to": [
+                    26000,
+                    30000
+                ]
+            },
+            "small_mining_sack": {
+                "from": [
+                    16000,
+                    18000
+                ],
+                "to": [
+                    28000,
+                    33000
+                ]
+            },
+            "zombies_heart": {
+                "from": [
+                    275000,
+                    330000
+                ],
+                "to": [
+                    330000,
+                    375000
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 27
     },
     "298613178601046017": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "personal_compactor_6000": {
+                "from": [
+                    8500000,
+                    11000000
+                ],
+                "to": [
+                    10500000,
+                    12500000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "308262271262654464": {
         "modification_history": {
@@ -92,6 +171,33 @@
                 "to": [
                     170000,
                     200000
+                ]
+            },
+            "blessed_bait": {
+                "from": null,
+                "to": [
+                    250,
+                    300
+                ]
+            },
+            "bone": {
+                "from": [
+                    11,
+                    11
+                ],
+                "to": [
+                    9,
+                    9
+                ]
+            },
+            "coal": {
+                "from": [
+                    12,
+                    13
+                ],
+                "to": [
+                    10,
+                    10
                 ]
             },
             "dark_oak_wood": {
@@ -124,14 +230,54 @@
                     1200
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2400,
+                    3000
+                ],
+                "to": [
+                    2500,
+                    2500
+                ]
+            },
+            "enchanted_blaze_rod": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    425000
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
-                    157000,
-                    164000
+                    170000,
+                    190000
                 ],
                 "to": [
                     170000,
-                    190000
+                    175000
+                ]
+            },
+            "enchanted_bone": {
+                "from": [
+                    1700,
+                    1900
+                ],
+                "to": [
+                    1600,
+                    1600
+                ]
+            },
+            "enchanted_charcoal": {
+                "from": [
+                    1700,
+                    1850
+                ],
+                "to": [
+                    1800,
+                    2000
                 ]
             },
             "enchanted_coal": {
@@ -140,8 +286,8 @@
                     1200
                 ],
                 "to": [
-                    1000,
-                    1000
+                    1100,
+                    1100
                 ]
             },
             "enchanted_cobblestone": {
@@ -154,24 +300,84 @@
                     700
                 ]
             },
-            "enchanted_dark_oak_wood": {
+            "enchanted_cooked_fish": {
                 "from": [
-                    700,
-                    900
+                    700000,
+                    800000
                 ],
                 "to": [
-                    700,
-                    700
+                    700000,
+                    730000
+                ]
+            },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    500,
+                    620
+                ],
+                "to": [
+                    500,
+                    500
                 ]
             },
             "enchanted_endstone": {
                 "from": [
                     1100,
-                    12000
+                    1300
                 ],
                 "to": [
-                    1100,
+                    1200,
                     1200
+                ]
+            },
+            "enchanted_firework_rocket": {
+                "from": [
+                    175000,
+                    200000
+                ],
+                "to": [
+                    155000,
+                    180000
+                ]
+            },
+            "enchanted_flint": {
+                "from": [
+                    2750,
+                    3050
+                ],
+                "to": [
+                    2900,
+                    3000
+                ]
+            },
+            "enchanted_ghast_tear": {
+                "from": [
+                    140,
+                    160
+                ],
+                "to": [
+                    120,
+                    140
+                ]
+            },
+            "enchanted_glistering_melon": {
+                "from": [
+                    9000,
+                    95000
+                ],
+                "to": [
+                    9000,
+                    9500
+                ]
+            },
+            "enchanted_glowstone": {
+                "from": [
+                    100000,
+                    115000
+                ],
+                "to": [
+                    100000,
+                    110000
                 ]
             },
             "enchanted_gold": {
@@ -194,14 +400,34 @@
                     145000
                 ]
             },
-            "enchanted_ice": {
+            "enchanted_gunpowder": {
                 "from": [
-                    600,
-                    700
+                    2300,
+                    2800
                 ],
                 "to": [
-                    650,
-                    700
+                    2300,
+                    2600
+                ]
+            },
+            "enchanted_ice": {
+                "from": [
+                    500,
+                    800
+                ],
+                "to": [
+                    620,
+                    666
+                ]
+            },
+            "enchanted_ink_sack": {
+                "from": [
+                    16200,
+                    17500
+                ],
+                "to": [
+                    16000,
+                    17000
                 ]
             },
             "enchanted_iron": {
@@ -256,12 +482,42 @@
             },
             "enchanted_lava_bucket": {
                 "from": [
-                    335000,
-                    345000
-                ],
-                "to": [
                     350000,
                     370000
+                ],
+                "to": [
+                    360000,
+                    370000
+                ]
+            },
+            "enchanted_leather": {
+                "from": [
+                    7400,
+                    8400
+                ],
+                "to": [
+                    8000,
+                    8000
+                ]
+            },
+            "enchanted_melon": {
+                "from": [
+                    240,
+                    330
+                ],
+                "to": [
+                    260,
+                    270
+                ]
+            },
+            "enchanted_melon_block": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    30000,
+                    32000
                 ]
             },
             "enchanted_oak_wood": {
@@ -276,12 +532,12 @@
             },
             "enchanted_packed_ice": {
                 "from": [
-                    100000,
-                    110000
+                    105000,
+                    120000
                 ],
                 "to": [
-                    110000,
-                    120000
+                    105000,
+                    110000
                 ]
             },
             "enchanted_quartz": {
@@ -294,24 +550,74 @@
                     2000
                 ]
             },
-            "enchanted_redstone_lamp": {
+            "enchanted_raw_beef": {
                 "from": [
-                    170000,
-                    190000
+                    580,
+                    700
                 ],
                 "to": [
-                    180000,
-                    180000
+                    620,
+                    660
+                ]
+            },
+            "enchanted_raw_fish": {
+                "from": [
+                    4000,
+                    45000
+                ],
+                "to": [
+                    4000,
+                    4500
+                ]
+            },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    160000,
+                    184000
+                ],
+                "to": [
+                    170000,
+                    175000
                 ]
             },
             "enchanted_sand": {
                 "from": [
-                    2000,
-                    2300
+                    1800,
+                    2800
                 ],
                 "to": [
-                    1500,
-                    2000
+                    2200,
+                    2600
+                ]
+            },
+            "enchanted_slimeball": {
+                "from": [
+                    500,
+                    800
+                ],
+                "to": [
+                    1200,
+                    1300
+                ]
+            },
+            "enchanted_slimeblock": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    160000,
+                    190000
+                ]
+            },
+            "enchanted_sponge": {
+                "from": [
+                    4500,
+                    6000
+                ],
+                "to": [
+                    5000,
+                    5500
                 ]
             },
             "enchanted_spruce_wood": {
@@ -322,6 +628,26 @@
                 "to": [
                     1100,
                     1250
+                ]
+            },
+            "enchanted_wet_sponge": {
+                "from": [
+                    170000,
+                    190
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
+            "end_stone": {
+                "from": [
+                    12,
+                    16
+                ],
+                "to": [
+                    7,
+                    8
                 ]
             },
             "experience_artifact": {
@@ -344,6 +670,16 @@
                     50
                 ]
             },
+            "ghast_tear": {
+                "from": [
+                    25,
+                    50
+                ],
+                "to": [
+                    20,
+                    30
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     3100,
@@ -352,6 +688,16 @@
                 "to": [
                     480,
                     960
+                ]
+            },
+            "gunpowder": {
+                "from": [
+                    20,
+                    25
+                ],
+                "to": [
+                    10,
+                    15
                 ]
             },
             "hot_potato_book": {
@@ -364,6 +710,36 @@
                     95000
                 ]
             },
+            "ice": {
+                "from": [
+                    3,
+                    7
+                ],
+                "to": [
+                    5,
+                    6
+                ]
+            },
+            "ice_bait": {
+                "from": [
+                    30,
+                    50
+                ],
+                "to": [
+                    30,
+                    30
+                ]
+            },
+            "ink_sack": {
+                "from": [
+                    180,
+                    240
+                ],
+                "to": [
+                    200,
+                    200
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     7,
@@ -374,6 +750,26 @@
                     7
                 ]
             },
+            "leather": {
+                "from": [
+                    15,
+                    25
+                ],
+                "to": [
+                    15,
+                    15
+                ]
+            },
+            "melon": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "oak_wood": {
                 "from": [
                     6,
@@ -382,6 +778,16 @@
                 "to": [
                     5,
                     5
+                ]
+            },
+            "packed_ice": {
+                "from": [
+                    31,
+                    32
+                ],
+                "to": [
+                    35,
+                    36
                 ]
             },
             "purple_candy": {
@@ -404,6 +810,16 @@
                     20
                 ]
             },
+            "raw_beef": {
+                "from": [
+                    4,
+                    8
+                ],
+                "to": [
+                    7,
+                    7
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     15,
@@ -422,6 +838,50 @@
                 "to": [
                     14,
                     14
+                ]
+            },
+            "snow_block": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    5,
+                    5
+                ]
+            },
+            "spiked_bait": {
+                "from": null,
+                "to": [
+                    150,
+                    150
+                ]
+            },
+            "sponge": {
+                "from": [
+                    230,
+                    300
+                ],
+                "to": [
+                    130,
+                    130
+                ]
+            },
+            "spooky_bait": {
+                "from": null,
+                "to": [
+                    10,
+                    10
+                ]
+            },
+            "stock_of_stonks": {
+                "from": [
+                    7300,
+                    7700
+                ],
+                "to": [
+                    6500,
+                    7000
                 ]
             },
             "super_compactor_3000": {
@@ -465,7 +925,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 104
     },
     "310369675987124225": {
         "modification_history": {
@@ -489,6 +949,16 @@
                     6300000
                 ]
             },
+            "bottle_of_jyrre": {
+                "from": [
+                    1000,
+                    100000
+                ],
+                "to": [
+                    10000,
+                    30000
+                ]
+            },
             "broken_piggy_bank": {
                 "from": [
                     80000,
@@ -509,14 +979,54 @@
                     4000000
                 ]
             },
+            "clay_minion_xi": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "cracked_piggy_bank": {
                 "from": [
-                    80000,
-                    120000
+                    30000,
+                    50000
                 ],
                 "to": [
                     50000,
                     80000
+                ]
+            },
+            "crystal_fragment": {
+                "from": [
+                    24000,
+                    25000
+                ],
+                "to": [
+                    28000,
+                    31000
+                ]
+            },
+            "day_crystal": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
+            "digested_mosquito": {
+                "from": [
+                    14500000,
+                    15000000
+                ],
+                "to": [
+                    10000000,
+                    13000000
                 ]
             },
             "elegant_tuxedo_oxfords": {
@@ -527,6 +1037,406 @@
                 "to": [
                     10000000,
                     12000000
+                ]
+            },
+            "enchanted_baked_potato": {
+                "from": [
+                    85000,
+                    90000
+                ],
+                "to": [
+                    86000,
+                    95000
+                ]
+            },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2850,
+                    3150
+                ],
+                "to": [
+                    2400,
+                    3000
+                ]
+            },
+            "enchanted_brown_mushroom": {
+                "from": [
+                    2500,
+                    2750
+                ],
+                "to": [
+                    3500,
+                    4500
+                ]
+            },
+            "enchanted_cactus": {
+                "from": [
+                    220000,
+                    250000
+                ],
+                "to": [
+                    175000,
+                    225000
+                ]
+            },
+            "enchanted_cactus_green": {
+                "from": [
+                    1410,
+                    1540
+                ],
+                "to": [
+                    1150,
+                    1400
+                ]
+            },
+            "enchanted_carrot": {
+                "from": [
+                    600,
+                    700
+                ],
+                "to": [
+                    550,
+                    650
+                ]
+            },
+            "enchanted_coal": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
+            "enchanted_cookie": {
+                "from": [
+                    260000,
+                    280000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    170000
+                ],
+                "to": [
+                    154000,
+                    170000
+                ]
+            },
+            "enchanted_endstone": {
+                "from": [
+                    1100,
+                    1200
+                ],
+                "to": [
+                    1100,
+                    1300
+                ]
+            },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    100000,
+                    118000
+                ]
+            },
+            "enchanted_flint": {
+                "from": [
+                    3100,
+                    3350
+                ],
+                "to": [
+                    2750,
+                    3050
+                ]
+            },
+            "enchanted_glistering_melon": {
+                "from": [
+                    8500,
+                    10500
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
+            "enchanted_glowstone": {
+                "from": [
+                    530,
+                    650
+                ],
+                "to": [
+                    100000,
+                    115000
+                ]
+            },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    620,
+                    680
+                ],
+                "to": [
+                    530,
+                    650
+                ]
+            },
+            "enchanted_golden_carrot": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    95000
+                ]
+            },
+            "enchanted_gunpowder": {
+                "from": [
+                    2800,
+                    3400
+                ],
+                "to": [
+                    2300,
+                    2800
+                ]
+            },
+            "enchanted_ice": {
+                "from": [
+                    650,
+                    700
+                ],
+                "to": [
+                    500,
+                    800
+                ]
+            },
+            "enchanted_jungle_wood": {
+                "from": [
+                    1100,
+                    1100
+                ],
+                "to": [
+                    950,
+                    1100
+                ]
+            },
+            "enchanted_leather": {
+                "from": [
+                    8450,
+                    8500
+                ],
+                "to": [
+                    7400,
+                    8400
+                ]
+            },
+            "enchanted_magma_cream": {
+                "from": [
+                    1300,
+                    1300
+                ],
+                "to": [
+                    1200,
+                    1300
+                ]
+            },
+            "enchanted_melon": {
+                "from": [
+                    466,
+                    517
+                ],
+                "to": [
+                    240,
+                    330
+                ]
+            },
+            "enchanted_obsidian": {
+                "from": [
+                    3800,
+                    4000
+                ],
+                "to": [
+                    3800,
+                    4800
+                ]
+            },
+            "enchanted_pork": {
+                "from": [
+                    1300,
+                    1500
+                ],
+                "to": [
+                    1450,
+                    1700
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    500,
+                    700
+                ],
+                "to": [
+                    540,
+                    700
+                ]
+            },
+            "enchanted_quartz": {
+                "from": [
+                    1800,
+                    2000
+                ],
+                "to": [
+                    1400,
+                    1900
+                ]
+            },
+            "enchanted_raw_beef": {
+                "from": [
+                    625,
+                    725
+                ],
+                "to": [
+                    580,
+                    700
+                ]
+            },
+            "enchanted_raw_mutton": {
+                "from": [
+                    3800,
+                    4800
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
+            "enchanted_raw_salmon": {
+                "from": [
+                    1600,
+                    1800
+                ],
+                "to": [
+                    1400,
+                    1700
+                ]
+            },
+            "enchanted_red_mushroom": {
+                "from": [
+                    3250,
+                    3750
+                ],
+                "to": [
+                    3500,
+                    4500
+                ]
+            },
+            "enchanted_redstone_block": {
+                "from": [
+                    230000,
+                    260000
+                ],
+                "to": [
+                    180000,
+                    230000
+                ]
+            },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    180000,
+                    180000
+                ],
+                "to": [
+                    160000,
+                    184000
+                ]
+            },
+            "enchanted_sand": {
+                "from": [
+                    1500,
+                    2000
+                ],
+                "to": [
+                    1800,
+                    2800
+                ]
+            },
+            "enchanted_slimeball": {
+                "from": [
+                    1300,
+                    1600
+                ],
+                "to": [
+                    500,
+                    800
+                ]
+            },
+            "enchanted_slimeblock": {
+                "from": [
+                    160000,
+                    190000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
+            "enchanted_sponge": {
+                "from": [
+                    9000,
+                    10000
+                ],
+                "to": [
+                    4500,
+                    6000
+                ]
+            },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1100,
+                    1250
+                ],
+                "to": [
+                    850,
+                    1000
+                ]
+            },
+            "enchanted_sugar": {
+                "from": [
+                    580,
+                    680
+                ],
+                "to": [
+                    520,
+                    650
+                ]
+            },
+            "enchanted_wet_sponge": {
+                "from": [
+                    260000,
+                    300000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
+            "end_stone_sword": {
+                "from": [
+                    23000,
+                    27000
+                ],
+                "to": [
+                    150000,
+                    220000
                 ]
             },
             "exp_share": {
@@ -559,6 +1469,26 @@
                     550000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    24500,
+                    25500
+                ],
+                "to": [
+                    25000,
+                    26000
+                ]
+            },
+            "french_bread": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    1700000,
+                    2200000
+                ]
+            },
             "frozen_blaze_helmet": {
                 "from": [
                     10000000,
@@ -567,6 +1497,36 @@
                 "to": [
                     8500000,
                     9500000
+                ]
+            },
+            "game_breaker": {
+                "from": [
+                    10000000,
+                    15000000
+                ],
+                "to": [
+                    15000000,
+                    40000000
+                ]
+            },
+            "gold_minion_xi": {
+                "from": [
+                    14000000,
+                    20000000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
+            "grand_experience_bottle": {
+                "from": [
+                    480,
+                    960
+                ],
+                "to": [
+                    2500,
+                    4500
                 ]
             },
             "greater_backpack": {
@@ -579,6 +1539,46 @@
                     520000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    1200,
+                    1400
+                ]
+            },
+            "growth_vi": {
+                "from": [
+                    7500000,
+                    9000000
+                ],
+                "to": [
+                    6800000,
+                    8000000
+                ]
+            },
+            "hunter_ring": {
+                "from": [
+                    25000000,
+                    30000000
+                ],
+                "to": [
+                    22000000,
+                    27000000
+                ]
+            },
+            "ink_sack": {
+                "from": [
+                    230,
+                    300
+                ],
+                "to": [
+                    180,
+                    240
+                ]
+            },
             "large_backpack": {
                 "from": [
                     225000,
@@ -587,6 +1587,16 @@
                 "to": [
                     120000,
                     200000
+                ]
+            },
+            "large_storage": {
+                "from": [
+                    160000,
+                    200000
+                ],
+                "to": [
+                    220000,
+                    260000
                 ]
             },
             "legendary_ring_of_love": {
@@ -647,6 +1657,16 @@
                 "to": [
                     12000000,
                     16000000
+                ]
+            },
+            "lvl_100_epic_monkey": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    15000000,
+                    22000000
                 ]
             },
             "lvl_100_epic_ocelot": {
@@ -732,11 +1752,11 @@
             "lvl_100_legendary_tiger": {
                 "from": [
                     60000000,
-                    62000000
+                    80000000
                 ],
                 "to": [
-                    60000000,
-                    80000000
+                    50000000,
+                    70000000
                 ]
             },
             "lvl_100_legendary_wither_skeleton": {
@@ -759,6 +1779,16 @@
                     10000000
                 ]
             },
+            "lvl_1_epic_blaze": {
+                "from": [
+                    9000000,
+                    11000000
+                ],
+                "to": [
+                    5000000,
+                    8000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     60000000,
@@ -767,6 +1797,16 @@
                 "to": [
                     75000000,
                     90000000
+                ]
+            },
+            "lvl_1_epic_enderman": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    300000,
+                    400000
                 ]
             },
             "lvl_1_epic_golem": {
@@ -811,12 +1851,22 @@
             },
             "lvl_1_legendary_blaze": {
                 "from": [
-                    75000000,
-                    90000000
-                ],
-                "to": [
                     55000000,
                     75000000
+                ],
+                "to": [
+                    35000000,
+                    45000000
+                ]
+            },
+            "lvl_1_legendary_dolphin": {
+                "from": [
+                    25000000,
+                    40000000
+                ],
+                "to": [
+                    15000000,
+                    28000000
                 ]
             },
             "lvl_1_legendary_ender_dragon": {
@@ -1009,6 +2059,26 @@
                     2200000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    12000,
+                    25000
+                ]
+            },
+            "minion_expander": {
+                "from": [
+                    4000,
+                    25000
+                ],
+                "to": [
+                    22000,
+                    35000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     35000000,
@@ -1024,6 +2094,16 @@
                 "to": [
                     5000,
                     10000
+                ]
+            },
+            "night_crystal": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    300000
                 ]
             },
             "obsidian_minion_xi": {
@@ -1088,12 +2168,12 @@
             },
             "overflux_capacitor": {
                 "from": [
-                    63000000,
-                    65000000
-                ],
-                "to": [
                     58000000,
                     63000000
+                ],
+                "to": [
+                    53500000,
+                    58000000
                 ]
             },
             "overflux_power_orb": {
@@ -1146,34 +2226,84 @@
                     10000000
                 ]
             },
-            "piggy_bank": {
+            "personal_compactor_4000": {
                 "from": [
-                    75000,
-                    120000
+                    2000000,
+                    2000000
                 ],
                 "to": [
+                    1600000,
+                    2200000
+                ]
+            },
+            "personal_compactor_5000": {
+                "from": [
+                    5000000,
+                    5000000
+                ],
+                "to": [
+                    4300000,
+                    5000000
+                ]
+            },
+            "personal_compactor_6000": {
+                "from": [
+                    11000000,
+                    16000000
+                ],
+                "to": [
+                    8500000,
+                    11000000
+                ]
+            },
+            "piggy_bank": {
+                "from": [
                     60000,
                     100000
+                ],
+                "to": [
+                    54000,
+                    70000
                 ]
             },
             "pigman_sword": {
                 "from": [
-                    9000000,
-                    9000000
-                ],
-                "to": [
                     9200000,
                     10000000
+                ],
+                "to": [
+                    8300000,
+                    9300000
+                ]
+            },
+            "pooch_sword": {
+                "from": [
+                    4300000,
+                    4800000
+                ],
+                "to": [
+                    3800000,
+                    4600000
+                ]
+            },
+            "potion_affinity_artifact": {
+                "from": [
+                    null,
+                    null
+                ],
+                "to": [
+                    380000,
+                    560000
                 ]
             },
             "power_vi": {
                 "from": [
                     4000000,
-                    4000000
+                    4600000
                 ],
                 "to": [
-                    4000000,
-                    4600000
+                    3500000,
+                    4300000
                 ]
             },
             "protector_dragon_chestplate": {
@@ -1184,6 +2314,16 @@
                 "to": [
                     100000,
                     160000
+                ]
+            },
+            "protector_dragon_helmet": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    110000
                 ]
             },
             "protector_dragon_leggings": {
@@ -1256,6 +2396,16 @@
                     5000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    3600000,
+                    3600000
+                ],
+                "to": [
+                    2500000,
+                    3600000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     600000,
@@ -1266,6 +2416,26 @@
                     540000
                 ]
             },
+            "revenant_minion_i": {
+                "from": [
+                    475000,
+                    700000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
+            "revenant_minion_xi": {
+                "from": [
+                    50000000,
+                    55000000
+                ],
+                "to": [
+                    30000000,
+                    40000000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     4400000,
@@ -1274,6 +2444,16 @@
                 "to": [
                     2700000,
                     3400000
+                ]
+            },
+            "scorpion_bow": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    3000000,
+                    4500000
                 ]
             },
             "scorpion_foil": {
@@ -1296,6 +2476,16 @@
                     8400000
                 ]
             },
+            "sharpness_vi": {
+                "from": [
+                    19000000,
+                    21000000
+                ],
+                "to": [
+                    11500000,
+                    14000000
+                ]
+            },
             "shredder": {
                 "from": [
                     5000000,
@@ -1316,6 +2506,73 @@
                     3000000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    160000,
+                    225000
+                ]
+            },
+            "snow_minion_xi": {
+                "from": [
+                    300000,
+                    375000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
+            "sponge_chestplate": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    1200000,
+                    1600000
+                ]
+            },
+            "sponge_helmet": {
+                "from": [
+                    2200000,
+                    2600000
+                ],
+                "to": [
+                    700000,
+                    875000
+                ]
+            },
+            "sponge_leggings": {
+                "from": [
+                    3100000,
+                    3600000
+                ],
+                "to": [
+                    1050000,
+                    1400000
+                ]
+            },
+            "sponge_shoes": {
+                "from": null,
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
+            "spongy_boots": {
+                "from": [
+                    1700000,
+                    2000000
+                ],
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
             "sugar_rush_iii": {
                 "from": [
                     1200000,
@@ -1326,11 +2583,31 @@
                     2200000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    535000,
+                    550000
+                ],
+                "to": [
+                    520000,
+                    550000
+                ]
+            },
             "super_magical_mushroom_soup": {
                 "from": null,
                 "to": [
                     5000,
                     10000
+                ]
+            },
+            "superb_carrot_candy": {
+                "from": [
+                    2700000,
+                    3400000
+                ],
+                "to": [
+                    2200000,
+                    2600000
                 ]
             },
             "superior_dragon_chestplate": {
@@ -1341,6 +2618,16 @@
                 "to": [
                     17500000,
                     19000000
+                ]
+            },
+            "tarantula_silk": {
+                "from": [
+                    110000,
+                    120000
+                ],
+                "to": [
+                    100000,
+                    112000
                 ]
             },
             "thick_scorpion_foil": {
@@ -1433,10 +2720,30 @@
                     15300000
                 ]
             },
+            "wolf_tooth": {
+                "from": [
+                    200,
+                    250
+                ],
+                "to": [
+                    230,
+                    270
+                ]
+            },
             "wood_singularity": {
                 "from": [
                     3700000,
                     5000000
+                ],
+                "to": [
+                    2800000,
+                    3800000
+                ]
+            },
+            "yeti_rod": {
+                "from": [
+                    5000000,
+                    5800000
                 ],
                 "to": [
                     2800000,
@@ -1452,9 +2759,19 @@
                     800000,
                     1000000
                 ]
+            },
+            "zombie_artifact": {
+                "from": [
+                    2500000,
+                    3750000
+                ],
+                "to": [
+                    1600000,
+                    2400000
+                ]
             }
         },
-        "total_mods": 107
+        "total_mods": 203
     },
     "325104094530502684": {
         "modification_history": {},
@@ -1462,6 +2779,16 @@
     },
     "325337387796267019": {
         "modification_history": {
+            "beheaded_horror": {
+                "from": [
+                    175000,
+                    215000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "catalyst": {
                 "from": [
                     25000,
@@ -1472,6 +2799,16 @@
                     31000
                 ]
             },
+            "combat_xp_boost_iii": {
+                "from": [
+                    40000,
+                    55000
+                ],
+                "to": [
+                    55000,
+                    85000
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     280000,
@@ -1480,6 +2817,36 @@
                 "to": [
                     225000,
                     300000
+                ]
+            },
+            "epic_combat_exp_boost": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
+            "fish_affinity_talisman": {
+                "from": [
+                    40000,
+                    70000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
+            "fishing_xp_boost_iii_potion": {
+                "from": [
+                    15000,
+                    25000
+                ],
+                "to": [
+                    45000,
+                    75000
                 ]
             },
             "lvl_1_epic_enderman": {
@@ -1512,6 +2879,56 @@
                     115000
                 ]
             },
+            "red_claw_egg": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    400000,
+                    550000
+                ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    35000,
+                    36000
+                ],
+                "to": [
+                    30000,
+                    32000
+                ]
+            },
+            "sea_creature_artifact": {
+                "from": [
+                    850000,
+                    850000
+                ],
+                "to": [
+                    550000,
+                    675000
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    700000,
+                    1000000
+                ],
+                "to": [
+                    700000,
+                    850000
+                ]
+            },
+            "strong_dragon_helmet": {
+                "from": [
+                    630000,
+                    750000
+                ],
+                "to": [
+                    475000,
+                    600000
+                ]
+            },
             "tier_boost": {
                 "from": [
                     65000000,
@@ -1541,9 +2958,39 @@
                     280000,
                     350000
                 ]
+            },
+            "vampirism_vi": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    4500000,
+                    5500000
+                ]
+            },
+            "wake_rune_i": {
+                "from": [
+                    32000,
+                    53000
+                ],
+                "to": [
+                    15000,
+                    30000
+                ]
+            },
+            "young_dragon_chestplate": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
             }
         },
-        "total_mods": 12
+        "total_mods": 25
     },
     "334763167391416322": {
         "modification_history": {
@@ -1659,12 +3106,12 @@
             },
             "emperors_skull": {
                 "from": [
-                    460000,
+                    430000,
                     500000
                 ],
                 "to": [
-                    430000,
-                    500000
+                    400000,
+                    450000
                 ]
             },
             "experience_artifact": {
@@ -1744,6 +3191,36 @@
                     290000
                 ]
             },
+            "red_claw_artifact": {
+                "from": [
+                    7000000,
+                    7700000
+                ],
+                "to": [
+                    7200000,
+                    8000000
+                ]
+            },
+            "red_claw_egg": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
+            "red_claw_talisman": {
+                "from": [
+                    13000,
+                    14000
+                ],
+                "to": [
+                    9000,
+                    13000
+                ]
+            },
             "speed_ring": {
                 "from": [
                     100000,
@@ -1805,7 +3282,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 36
     },
     "349682137349357580": {
         "modification_history": {
@@ -1818,9 +3295,99 @@
                     400000,
                     400000
                 ]
+            },
+            "enchanted_lily_pad": {
+                "from": [
+                    47000,
+                    50000
+                ],
+                "to": [
+                    46000,
+                    50000
+                ]
+            },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    26000
+                ],
+                "to": [
+                    25000,
+                    25000
+                ]
+            },
+            "golden_tooth": {
+                "from": [
+                    88000,
+                    91000
+                ],
+                "to": [
+                    85000,
+                    90000
+                ]
+            },
+            "green_gift": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    7000,
+                    8000
+                ]
+            },
+            "red_gift": {
+                "from": [
+                    40000,
+                    40000
+                ],
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
+            "tarantula_silk": {
+                "from": [
+                    100000,
+                    112000
+                ],
+                "to": [
+                    100000,
+                    102000
+                ]
+            },
+            "tarantula_web": {
+                "from": [
+                    30,
+                    40
+                ],
+                "to": [
+                    28,
+                    30
+                ]
+            },
+            "white_gift": {
+                "from": [
+                    3300,
+                    3550
+                ],
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
+            "wolf_tooth": {
+                "from": [
+                    230,
+                    270
+                ],
+                "to": [
+                    210,
+                    235
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 12
     },
     "366232910334001152": {
         "modification_history": {
@@ -1836,12 +3403,12 @@
             },
             "enchanted_blaze_rod": {
                 "from": [
-                    385000,
-                    415000
+                    400000,
+                    425000
                 ],
                 "to": [
-                    395000,
-                    430000
+                    410000,
+                    425000
                 ]
             },
             "enchanted_bone": {
@@ -1976,12 +3543,12 @@
             },
             "enchanted_redstone_lamp": {
                 "from": [
-                    80000,
-                    105000
+                    170000,
+                    175000
                 ],
                 "to": [
-                    170000,
-                    190000
+                    165000,
+                    175000
                 ]
             },
             "enchanted_sugar": {
@@ -2002,6 +3569,16 @@
                 "to": [
                     100000,
                     110000
+                ]
+            },
+            "enchanted_wet_sponge": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    190
                 ]
             },
             "hot_potato_book": {
@@ -2026,12 +3603,12 @@
             },
             "super_compactor_3000": {
                 "from": [
-                    500000,
-                    525000
+                    550000,
+                    560000
                 ],
                 "to": [
-                    500000,
-                    515000
+                    545000,
+                    550000
                 ]
             },
             "super_enchanted_egg": {
@@ -2055,7 +3632,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 31
     },
     "383791723945394176": {
         "modification_history": {},
@@ -2085,11 +3662,11 @@
     },
     "406906204309159937": {
         "modification_history": {},
-        "total_mods": 4
+        "total_mods": 5
     },
     "466769036122783744": {
         "modification_history": {},
-        "total_mods": 4
+        "total_mods": 6
     },
     "523019950072266764": {
         "modification_history": {
@@ -2220,6 +3797,16 @@
                     16000000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    2500000,
+                    3600000
+                ],
+                "to": [
+                    2400000,
+                    2700000
+                ]
+            },
             "rod_of_legends": {
                 "from": [
                     5700000,
@@ -2281,7 +3868,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "540685105513889793": {
         "modification_history": {
@@ -2293,6 +3880,43 @@
                 "to": [
                     150000,
                     175000
+                ]
+            },
+            "bat_talisman": {
+                "from": [
+                    85000,
+                    140000
+                ],
+                "to": [
+                    85000,
+                    15000
+                ]
+            },
+            "blessed_bait": {
+                "from": [
+                    250,
+                    300
+                ],
+                "to": [
+                    275,
+                    300
+                ]
+            },
+            "carrot_bait": {
+                "from": null,
+                "to": [
+                    35,
+                    45
+                ]
+            },
+            "catalyst": {
+                "from": [
+                    30000,
+                    31500
+                ],
+                "to": [
+                    28000,
+                    29500
                 ]
             },
             "cavespider_minion_xi": {
@@ -2316,6 +3940,16 @@
                     4000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    28000,
+                    31000
+                ],
+                "to": [
+                    22000,
+                    24000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     600000,
@@ -2324,6 +3958,23 @@
                 "to": [
                     625000,
                     700000
+                ]
+            },
+            "dark_bait": {
+                "from": null,
+                "to": [
+                    215,
+                    275
+                ]
+            },
+            "dark_oak_wood": {
+                "from": [
+                    4,
+                    4
+                ],
+                "to": [
+                    3,
+                    3
                 ]
             },
             "dragon_hunter_i": {
@@ -2383,6 +4034,16 @@
                     2200000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    86000,
+                    95000
+                ],
+                "to": [
+                    90000,
+                    95000
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     980,
@@ -2391,6 +4052,16 @@
                 "to": [
                     1000,
                     1200
+                ]
+            },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    500,
+                    525
                 ]
             },
             "enchanted_grilled_pork": {
@@ -2405,22 +4076,32 @@
             },
             "enchanted_hay_bale": {
                 "from": [
-                    6000,
-                    6500
-                ],
-                "to": [
                     21000,
                     24000
+                ],
+                "to": [
+                    18300,
+                    19500
+                ]
+            },
+            "enchanted_lava_bucket": {
+                "from": [
+                    360000,
+                    370000
+                ],
+                "to": [
+                    310000,
+                    335000
                 ]
             },
             "enchanted_obsidian": {
                 "from": [
-                    3700,
-                    3750
+                    3800,
+                    4800
                 ],
                 "to": [
-                    3500,
-                    3650
+                    4100,
+                    4400
                 ]
             },
             "enchanted_pufferfish": {
@@ -2443,6 +4124,16 @@
                     65000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    165000,
+                    175000
+                ],
+                "to": [
+                    170000,
+                    185000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     12500,
@@ -2458,6 +4149,26 @@
                 "to": [
                     775000,
                     850000
+                ]
+            },
+            "fish_bait": {
+                "from": [
+                    20,
+                    23
+                ],
+                "to": [
+                    75,
+                    95
+                ]
+            },
+            "fish_hat": {
+                "from": [
+                    24,
+                    50
+                ],
+                "to": [
+                    175,
+                    190
                 ]
             },
             "foul_flesh": {
@@ -2482,6 +4193,36 @@
                 "to": [
                     2000000,
                     2200000
+                ]
+            },
+            "gravity_talisman": {
+                "from": [
+                    2500,
+                    7500
+                ],
+                "to": [
+                    5000,
+                    7500
+                ]
+            },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    22000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
+            "haste_ring": {
+                "from": [
+                    150000,
+                    225000
+                ],
+                "to": [
+                    180000,
+                    180000
                 ]
             },
             "hot_potato_book": {
@@ -2512,6 +4253,54 @@
                 "to": [
                     4500000,
                     6000000
+                ]
+            },
+            "large_agronomy_sack": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
+            "large_fishing_sack": {
+                "from": [
+                    1775000,
+                    1930000
+                ],
+                "to": [
+                    1750000,
+                    1925000
+                ]
+            },
+            "large_foraging_sack": {
+                "from": [
+                    135000,
+                    142500
+                ],
+                "to": [
+                    135000,
+                    145000
+                ]
+            },
+            "large_husbandry_sack": {
+                "from": null,
+                "to": [
+                    185000,
+                    255000
+                ]
+            },
+            "light_bait": {
+                "from": null,
+                "to": [
+                    130,
+                    160
+                ]
+            },
+            "lvl_100_epic_rabbit": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2500000
                 ]
             },
             "lvl_100_legendary_wither_skeleton": {
@@ -2564,6 +4353,51 @@
                     125000
                 ]
             },
+            "medium_agronomy_sack": {
+                "from": null,
+                "to": [
+                    880000,
+                    900000
+                ]
+            },
+            "medium_fishing_sack": {
+                "from": null,
+                "to": [
+                    765000,
+                    840000
+                ]
+            },
+            "medium_foraging_sack": {
+                "from": null,
+                "to": [
+                    60000,
+                    65000
+                ]
+            },
+            "medium_husbandry_sack": {
+                "from": null,
+                "to": [
+                    85000,
+                    110000
+                ]
+            },
+            "medium_mining_sack": {
+                "from": [
+                    50000,
+                    57500
+                ],
+                "to": [
+                    50000,
+                    57000
+                ]
+            },
+            "minnow_bait": {
+                "from": null,
+                "to": [
+                    25,
+                    35
+                ]
+            },
             "mushroom_minion_xi": {
                 "from": [
                     4000000,
@@ -2572,6 +4406,26 @@
                 "to": [
                     2800000,
                     3150000
+                ]
+            },
+            "mystical_mushroom_soup": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    7500,
+                    12500
+                ]
+            },
+            "old_dragon_fragment": {
+                "from": [
+                    2550,
+                    2900
+                ],
+                "to": [
+                    2650,
+                    2900
                 ]
             },
             "overflux_power_orb": {
@@ -2584,6 +4438,30 @@
                     80000000
                 ]
             },
+            "personal_compactor_4000": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2000000
+                ]
+            },
+            "personal_compactor_5000": {
+                "from": [
+                    5000000,
+                    5015000
+                ],
+                "to": [
+                    5000000,
+                    5000000
+                ]
+            },
+            "personal_compactor_6000": {
+                "from": null,
+                "to": [
+                    11000000,
+                    11000000
+                ]
+            },
             "pig_minion_xi": {
                 "from": [
                     3300000,
@@ -2592,6 +4470,16 @@
                 "to": [
                     2250000,
                     2500000
+                ]
+            },
+            "protector_dragon_fragment": {
+                "from": [
+                    2550,
+                    2840
+                ],
+                "to": [
+                    2500,
+                    2600
                 ]
             },
             "protector_dragon_leggings": {
@@ -2641,6 +4529,13 @@
                     600000
                 ]
             },
+            "replenish_i": {
+                "from": null,
+                "to": [
+                    3600000,
+                    3600000
+                ]
+            },
             "sand_minion_xi": {
                 "from": null,
                 "to": [
@@ -2655,11 +4550,86 @@
                     3400000
                 ]
             },
+            "shredder": {
+                "from": [
+                    420000,
+                    5000000
+                ],
+                "to": [
+                    4200000,
+                    5000000
+                ]
+            },
             "slime_minion_xi": {
                 "from": null,
                 "to": [
                     1750000,
                     2000000
+                ]
+            },
+            "small_agronomy_sack": {
+                "from": null,
+                "to": [
+                    300000,
+                    325000
+                ]
+            },
+            "small_fishing_sack": {
+                "from": null,
+                "to": [
+                    260000,
+                    285000
+                ]
+            },
+            "small_foraging_sack": {
+                "from": null,
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
+            "small_husbandry_sack": {
+                "from": null,
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
+            "small_mining_sack": {
+                "from": null,
+                "to": [
+                    16000,
+                    18000
+                ]
+            },
+            "snow_suit_boots": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
+            "snow_suit_helmet": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
+            "snow_suit_leggings": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    1000,
+                    5000
                 ]
             },
             "speed_artifact": {
@@ -2689,6 +4659,36 @@
                     700000
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    10,
+                    10
+                ],
+                "to": [
+                    10,
+                    12
+                ]
+            },
+            "strong_dragon_chestplate": {
+                "from": [
+                    700000,
+                    850000
+                ],
+                "to": [
+                    750000,
+                    850000
+                ]
+            },
+            "strong_dragon_leggings": {
+                "from": [
+                    700000,
+                    900000
+                ],
+                "to": [
+                    700000,
+                    850000
+                ]
+            },
             "sugar_cane_minion_xi": {
                 "from": null,
                 "to": [
@@ -2706,6 +4706,23 @@
                     525000
                 ]
             },
+            "super_compactor_4000": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2000000
+                ]
+            },
+            "superior_dragon_fragment": {
+                "from": [
+                    240000,
+                    250000
+                ],
+                "to": [
+                    250000,
+                    255000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5100000,
@@ -2714,6 +4731,26 @@
                 "to": [
                     4500000,
                     5000000
+                ]
+            },
+            "treecapitator": {
+                "from": [
+                    1900000,
+                    2100000
+                ],
+                "to": [
+                    2100000,
+                    2300000
+                ]
+            },
+            "unstable_dragon_fragment": {
+                "from": [
+                    6600,
+                    7100
+                ],
+                "to": [
+                    6500,
+                    7000
                 ]
             },
             "weak_wolf_catalyst": {
@@ -2725,9 +4762,39 @@
                     250000,
                     300000
                 ]
+            },
+            "whale_bait": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    915,
+                    955
+                ]
+            },
+            "wise_dragon_fragment": {
+                "from": [
+                    3400,
+                    4300
+                ],
+                "to": [
+                    4250,
+                    4500
+                ]
+            },
+            "young_dragon_fragment": {
+                "from": [
+                    14000,
+                    15000
+                ],
+                "to": [
+                    18000,
+                    19000
+                ]
             }
         },
-        "total_mods": 65
+        "total_mods": 127
     },
     "614661627513536526": {
         "modification_history": {},
@@ -2735,11 +4802,51 @@
     },
     "626467774310383659": {
         "modification_history": {
+            "birch_wood": {
+                "from": [
+                    6,
+                    6
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "boat": {
                 "from": null,
                 "to": [
                     1,
                     1
+                ]
+            },
+            "enchanted_birch_wood": {
+                "from": [
+                    1550,
+                    1700
+                ],
+                "to": [
+                    1150,
+                    1250
+                ]
+            },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    700,
+                    700
+                ],
+                "to": [
+                    500,
+                    620
+                ]
+            },
+            "enchanted_pufferfish": {
+                "from": [
+                    20000,
+                    24000
+                ],
+                "to": [
+                    15000,
+                    17000
                 ]
             },
             "enchanted_redstone_block": {
@@ -2750,6 +4857,33 @@
                 "to": [
                     230000,
                     260000
+                ]
+            },
+            "personal_compactor_6000": {
+                "from": [
+                    11000000,
+                    11000000
+                ],
+                "to": [
+                    11000000,
+                    16000000
+                ]
+            },
+            "pufferfish": {
+                "from": [
+                    130,
+                    150
+                ],
+                "to": [
+                    100,
+                    110
+                ]
+            },
+            "rainbow_rune_iii": {
+                "from": null,
+                "to": [
+                    500000,
+                    800000
                 ]
             },
             "red_mushroom": {
@@ -2763,7 +4897,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 13
     },
     "640849699297034250": {
         "modification_history": {},
@@ -2771,14 +4905,34 @@
     },
     "645434212639571971": {
         "modification_history": {
-            "enchanted_sugar_cane": {
+            "enchanted_melon": {
                 "from": [
-                    113000,
-                    115000
+                    261,
+                    270
                 ],
                 "to": [
-                    110000,
-                    116000
+                    260,
+                    275
+                ]
+            },
+            "enchanted_sugar": {
+                "from": [
+                    520,
+                    650
+                ],
+                "to": [
+                    540,
+                    555
+                ]
+            },
+            "enchanted_sugar_cane": {
+                "from": [
+                    90000,
+                    93000
+                ],
+                "to": [
+                    89000,
+                    91000
                 ]
             },
             "speed_artifact": {
@@ -2789,6 +4943,26 @@
                 "to": [
                     5500000,
                     6000000
+                ]
+            },
+            "sugar_cane": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    5,
+                    5
+                ]
+            },
+            "summoning_eye": {
+                "from": [
+                    520000,
+                    550000
+                ],
+                "to": [
+                    530000,
+                    535000
                 ]
             },
             "tarantula_minion_t11": {
@@ -2809,7 +4983,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 17
     },
     "660041857148911617": {
         "modification_history": {},
