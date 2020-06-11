@@ -5357,6 +5357,16 @@
                     8
                 ]
             },
+            "blaze_rod": {
+                "from": [
+                    19,
+                    24
+                ],
+                "to": [
+                    22,
+                    24
+                ]
+            },
             "boat": {
                 "from": null,
                 "to": [
@@ -5552,7 +5562,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "640849699297034250": {
         "modification_history": {},
