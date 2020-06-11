@@ -4542,6 +4542,16 @@
                     5000
                 ]
             },
+            "snow_suit_leggings": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     70,
@@ -4704,7 +4714,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "614661627513536526": {
         "modification_history": {},
