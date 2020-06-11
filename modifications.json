@@ -5690,6 +5690,16 @@
                     91000
                 ]
             },
+            "personal_compactor_6000": {
+                "from": [
+                    8000000,
+                    8600000
+                ],
+                "to": [
+                    5000000,
+                    5500000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     6000000,
@@ -5748,7 +5758,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "660041857148911617": {
         "modification_history": {},
