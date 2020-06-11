@@ -330,6 +330,16 @@
                     180000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    185000,
+                    225000
+                ],
+                "to": [
+                    160000,
+                    165000
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     500,
@@ -992,7 +1002,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "310369675987124225": {
         "modification_history": {
