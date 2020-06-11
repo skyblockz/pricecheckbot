@@ -4541,10 +4541,13 @@
                 ]
             },
             "large_slayer_sack": {
-                "from": null,
-                "to": [
+                "from": [
                     1750000,
                     1775000
+                ],
+                "to": [
+                    1750000,
+                    1750000
                 ]
             },
             "light_bait": {
@@ -5069,7 +5072,7 @@
                 ]
             }
         },
-        "total_mods": 132
+        "total_mods": 133
     },
     "614661627513536526": {
         "modification_history": {},
