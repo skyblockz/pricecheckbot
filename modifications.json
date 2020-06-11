@@ -4135,6 +4135,16 @@
                     2200000
                 ]
             },
+            "gravity_talisman": {
+                "from": [
+                    2500,
+                    7500
+                ],
+                "to": [
+                    5000,
+                    7500
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -4684,7 +4694,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "614661627513536526": {
         "modification_history": {},
