@@ -2959,6 +2959,16 @@
                     350000
                 ]
             },
+            "vampirism_vi": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    4500000,
+                    5500000
+                ]
+            },
             "wake_rune_i": {
                 "from": [
                     32000,
@@ -2980,7 +2990,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "334763167391416322": {
         "modification_history": {
@@ -3652,7 +3662,7 @@
     },
     "406906204309159937": {
         "modification_history": {},
-        "total_mods": 4
+        "total_mods": 5
     },
     "466769036122783744": {
         "modification_history": {},
