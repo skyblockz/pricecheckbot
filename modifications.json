@@ -3672,6 +3672,16 @@
                     60
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    42500,
+                    60000
+                ],
+                "to": [
+                    31000,
+                    40000
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     500,
@@ -3873,7 +3883,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "466769036122783744": {
         "modification_history": {},
