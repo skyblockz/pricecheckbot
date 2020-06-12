@@ -3917,6 +3917,16 @@
                     150000
                 ]
             },
+            "bane_of_arthropods_vi": {
+                "from": [
+                    10000,
+                    40000
+                ],
+                "to": [
+                    30000,
+                    30000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     90000,
@@ -3995,7 +4005,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "406906204309159937": {
         "modification_history": {
