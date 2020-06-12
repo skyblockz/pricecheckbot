@@ -864,6 +864,16 @@
                     100000
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
             "superb_carrot_candy": {
                 "from": [
                     2200000,
@@ -935,7 +945,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "396545298069061642": {
         "modification_history": {},
