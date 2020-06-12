@@ -376,6 +376,16 @@
                     3500
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    185000,
+                    200000
+                ],
+                "to": [
+                    190000,
+                    210000
+                ]
+            },
             "enchanted_cake": {
                 "from": [
                     3000,
@@ -507,7 +517,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "310369675987124225": {
         "modification_history": {},
