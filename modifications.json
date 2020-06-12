@@ -17,14 +17,17 @@
     "255260842637918208": {
         "modification_history": {
             "rare_combat_exp_boost": {
-                "from": null,
-                "to": [
+                "from": [
                     100000,
                     200000
+                ],
+                "to": [
+                    500000,
+                    900000
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "298613178601046017": {
         "modification_history": {
