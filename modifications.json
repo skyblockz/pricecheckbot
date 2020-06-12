@@ -655,6 +655,16 @@
                     105000
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    3000,
+                    3000
+                ],
+                "to": [
+                    2900,
+                    3000
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1000,
@@ -1016,7 +1026,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "396545298069061642": {
         "modification_history": {},
