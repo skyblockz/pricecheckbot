@@ -862,9 +862,19 @@
                     3,
                     5
                 ]
+            },
+            "super_compactor_3000": {
+                "from": [
+                    520000,
+                    550000
+                ],
+                "to": [
+                    555000,
+                    560000
+                ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "660041857148911617": {
         "modification_history": {},
