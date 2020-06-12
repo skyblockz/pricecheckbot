@@ -4043,6 +4043,16 @@
                     8200
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    15000,
+                    17000
+                ],
+                "to": [
+                    13000,
+                    15000
+                ]
+            },
             "enchanted_rabbit_foot": {
                 "from": [
                     2700,
@@ -4114,7 +4124,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "390661701046894592": {
         "modification_history": {
