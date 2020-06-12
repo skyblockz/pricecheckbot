@@ -634,6 +634,16 @@
                     105000
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    950,
+                    1100
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     46000,
@@ -945,7 +955,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "396545298069061642": {
         "modification_history": {},
