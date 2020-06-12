@@ -594,6 +594,16 @@
                     500000
                 ]
             },
+            "day_crystal": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    280000,
+                    315000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     10000000,
@@ -845,7 +855,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "396545298069061642": {
         "modification_history": {},
