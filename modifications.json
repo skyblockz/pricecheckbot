@@ -473,6 +473,16 @@
                     200000
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    2150,
+                    2275
+                ]
+            },
             "luck_of_the_sea_vi": {
                 "from": [
                     500000,
@@ -531,7 +541,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "366232910334001152": {
         "modification_history": {},
