@@ -20,6 +20,16 @@
     },
     "298613178601046017": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    6500,
+                    7250
+                ]
+            },
             "ember_rod": {
                 "from": [
                     100000,
@@ -161,7 +171,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "308262271262654464": {
         "modification_history": {},
