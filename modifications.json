@@ -483,6 +483,13 @@
                     2275
                 ]
             },
+            "epic_foraging_exp_boost": {
+                "from": null,
+                "to": [
+                    6000000,
+                    10000000
+                ]
+            },
             "luck_of_the_sea_vi": {
                 "from": [
                     500000,
@@ -551,7 +558,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "366232910334001152": {
         "modification_history": {},
