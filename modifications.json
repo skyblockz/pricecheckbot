@@ -462,6 +462,16 @@
                     500000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    10000000,
+                    13000000
+                ],
+                "to": [
+                    11000000,
+                    12000000
+                ]
+            },
             "lvl_1_epic_parrot": {
                 "from": [
                     22000000,
@@ -483,7 +493,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "406906204309159937": {
         "modification_history": {},
