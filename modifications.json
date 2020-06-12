@@ -1120,6 +1120,16 @@
                     1281
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    206000,
+                    207000
+                ],
+                "to": [
+                    205000,
+                    210000
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     5100,
@@ -1381,7 +1391,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "660041857148911617": {
         "modification_history": {},
