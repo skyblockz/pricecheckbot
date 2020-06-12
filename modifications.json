@@ -100,6 +100,16 @@
                     1900
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    275000,
+                    290000
+                ],
+                "to": [
+                    300000,
+                    330000
+                ]
+            },
             "ender_bow": {
                 "from": [
                     2500,
@@ -241,7 +251,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "308262271262654464": {
         "modification_history": {},
