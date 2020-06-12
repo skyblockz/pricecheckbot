@@ -864,6 +864,16 @@
                     280000
                 ]
             },
+            "weak_wolf_catalyst": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    175000,
+                    250000
+                ]
+            },
             "wise_dragon_fragment": {
                 "from": [
                     4250,
@@ -905,7 +915,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "396545298069061642": {
         "modification_history": {},
