@@ -398,12 +398,12 @@
             },
             "enchanted_raw_rabbit": {
                 "from": [
-                    600,
+                    630,
                     640
                 ],
                 "to": [
-                    630,
-                    640
+                    3000,
+                    32000
                 ]
             },
             "enchanted_sugar_cane": {
@@ -417,7 +417,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "310369675987124225": {
         "modification_history": {},
