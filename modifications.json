@@ -3943,6 +3943,16 @@
                     150000
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    205000,
+                    210000
+                ],
+                "to": [
+                    206000,
+                    207000
+                ]
+            },
             "enchanted_emerald_block": {
                 "from": [
                     140000,
@@ -4084,7 +4094,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "390661701046894592": {
         "modification_history": {
