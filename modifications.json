@@ -1070,6 +1070,16 @@
                     152500
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    80000,
+                    88000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     16000,
@@ -1261,7 +1271,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "660041857148911617": {
         "modification_history": {},
