@@ -60,6 +60,16 @@
                     1325
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    160000,
+                    168000
+                ],
+                "to": [
+                    170000,
+                    175000
+                ]
+            },
             "ender_bow": {
                 "from": [
                     2500,
@@ -181,7 +191,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "308262271262654464": {
         "modification_history": {},
