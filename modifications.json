@@ -298,6 +298,16 @@
                     320000
                 ]
             },
+            "training_dummy": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    1000,
+                    20000
+                ]
+            },
             "wolf_talisman": {
                 "from": [
                     430000,
@@ -319,7 +329,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "308262271262654464": {
         "modification_history": {},
@@ -435,7 +445,7 @@
     },
     "540685105513889793": {
         "modification_history": {},
-        "total_mods": 0
+        "total_mods": 2
     },
     "614661627513536526": {
         "modification_history": {},
