@@ -2996,6 +2996,16 @@
     },
     "325337387796267019": {
         "modification_history": {
+            "bat_firework": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    80000,
+                    10000
+                ]
+            },
             "beheaded_horror": {
                 "from": [
                     175000,
@@ -3237,7 +3247,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "334763167391416322": {
         "modification_history": {
