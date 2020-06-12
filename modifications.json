@@ -1200,6 +1200,16 @@
                     23
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "raw_fish": {
                 "from": [
                     25,
@@ -1271,7 +1281,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "660041857148911617": {
         "modification_history": {},
