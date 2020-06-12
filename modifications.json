@@ -654,6 +654,16 @@
                     43000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    155000,
+                    165000
+                ],
+                "to": [
+                    145000,
+                    155000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10000000,
@@ -965,7 +975,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "396545298069061642": {
         "modification_history": {},
