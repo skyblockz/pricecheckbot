@@ -1130,6 +1130,16 @@
                     91100
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    170000,
+                    190000
+                ],
+                "to": [
+                    185000,
+                    210000
+                ]
+            },
             "ink_sack": {
                 "from": [
                     200,
@@ -1201,7 +1211,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "660041857148911617": {
         "modification_history": {},
