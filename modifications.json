@@ -4123,6 +4123,16 @@
                     89000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    30000,
+                    32000
+                ],
+                "to": [
+                    31000,
+                    33000
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     200000,
@@ -4134,7 +4144,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "390661701046894592": {
         "modification_history": {
