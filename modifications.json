@@ -584,6 +584,16 @@
                     200000
                 ]
             },
+            "carrot": {
+                "from": [
+                    5,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "caster_vi": {
                 "from": [
                     350000,
@@ -865,7 +875,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "396545298069061642": {
         "modification_history": {},
