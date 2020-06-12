@@ -883,6 +883,16 @@
                     650000
                 ]
             },
+            "enchanted_melon": {
+                "from": [
+                    220,
+                    260
+                ],
+                "to": [
+                    200,
+                    222
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     1000,
@@ -964,7 +974,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "660041857148911617": {
         "modification_history": {},
