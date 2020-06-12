@@ -537,6 +537,16 @@
                     12000000
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    null,
+                    null
+                ],
+                "to": [
+                    95000,
+                    105000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10000000,
@@ -688,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "396545298069061642": {
         "modification_history": {},
