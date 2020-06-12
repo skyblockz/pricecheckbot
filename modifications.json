@@ -883,6 +883,16 @@
                     91100
                 ]
             },
+            "redstone": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     4,
@@ -904,7 +914,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "660041857148911617": {
         "modification_history": {},
