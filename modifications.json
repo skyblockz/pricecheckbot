@@ -473,6 +473,16 @@
                     500000
                 ]
             },
+            "lvl_1_epic_blaze": {
+                "from": [
+                    5000000,
+                    8000000
+                ],
+                "to": [
+                    10000000,
+                    15000000
+                ]
+            },
             "lvl_1_epic_chicken": {
                 "from": null,
                 "to": [
@@ -481,7 +491,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "366232910334001152": {
         "modification_history": {},
