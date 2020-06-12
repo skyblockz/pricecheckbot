@@ -634,6 +634,16 @@
                     105000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    46000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    43000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10000000,
@@ -925,7 +935,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "396545298069061642": {
         "modification_history": {},
