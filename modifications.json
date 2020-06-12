@@ -15,8 +15,16 @@
         "total_mods": 3
     },
     "255260842637918208": {
-        "modification_history": {},
-        "total_mods": 2
+        "modification_history": {
+            "rare_combat_exp_boost": {
+                "from": null,
+                "to": [
+                    100000,
+                    200000
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "298613178601046017": {
         "modification_history": {
