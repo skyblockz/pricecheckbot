@@ -60,6 +60,16 @@
                     1325
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    1650,
+                    1750
+                ],
+                "to": [
+                    1800,
+                    1875
+                ]
+            },
             "enchanted_iron_block": {
                 "from": [
                     160000,
@@ -191,7 +201,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "308262271262654464": {
         "modification_history": {},
