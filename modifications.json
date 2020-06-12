@@ -378,12 +378,12 @@
             },
             "enchanted_cake": {
                 "from": [
-                    4000,
-                    6000
+                    3000,
+                    500
                 ],
                 "to": [
                     3000,
-                    500
+                    5000
                 ]
             },
             "enchanted_egg": {
@@ -495,9 +495,19 @@
                     90000,
                     90000
                 ]
+            },
+            "super_enchanted_egg": {
+                "from": [
+                    215000,
+                    225000
+                ],
+                "to": [
+                    230000,
+                    245000
+                ]
             }
         },
-        "total_mods": 15
+        "total_mods": 17
     },
     "310369675987124225": {
         "modification_history": {},
