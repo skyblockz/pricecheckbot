@@ -70,6 +70,16 @@
                     20000
                 ]
             },
+            "magical_water_bucket": {
+                "from": [
+                    7500,
+                    7500
+                ],
+                "to": [
+                    40,
+                    7500
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     15000,
@@ -131,7 +141,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "308262271262654464": {
         "modification_history": {},
