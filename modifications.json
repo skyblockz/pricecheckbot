@@ -675,6 +675,16 @@
                     500000
                 ]
             },
+            "cocoa_beans": {
+                "from": [
+                    7,
+                    10
+                ],
+                "to": [
+                    13,
+                    16
+                ]
+            },
             "day_crystal": {
                 "from": [
                     250000,
@@ -1096,7 +1106,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "396545298069061642": {
         "modification_history": {},
