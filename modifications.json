@@ -438,6 +438,10 @@
         "modification_history": {},
         "total_mods": 0
     },
+    "347884694408265729": {
+        "modification_history": {},
+        "total_mods": 0
+    },
     "366232910334001152": {
         "modification_history": {},
         "total_mods": 0
@@ -511,9 +515,19 @@
                     40000,
                     70000
                 ]
+            },
+            "snow_minion_i": {
+                "from": [
+                    160000,
+                    225000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "406906204309159937": {
         "modification_history": {},
