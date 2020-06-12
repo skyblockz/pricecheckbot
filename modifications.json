@@ -923,6 +923,16 @@
                     8
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     4,
@@ -944,7 +954,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "660041857148911617": {
         "modification_history": {},
