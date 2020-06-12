@@ -110,6 +110,16 @@
                     31
                 ]
             },
+            "wolf_talisman": {
+                "from": [
+                    430000,
+                    460000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     210,
@@ -121,7 +131,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "308262271262654464": {
         "modification_history": {},
