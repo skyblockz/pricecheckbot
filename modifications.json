@@ -1020,6 +1020,16 @@
                     485000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     700000,
@@ -1231,7 +1241,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "660041857148911617": {
         "modification_history": {},
