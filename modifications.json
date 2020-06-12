@@ -148,6 +148,16 @@
                     3000
                 ]
             },
+            "farming_talisman": {
+                "from": [
+                    120,
+                    120
+                ],
+                "to": [
+                    25,
+                    125
+                ]
+            },
             "fish_hat": {
                 "from": [
                     175,
@@ -279,7 +289,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "308262271262654464": {
         "modification_history": {},
