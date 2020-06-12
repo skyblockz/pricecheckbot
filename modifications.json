@@ -56,9 +56,19 @@
                     1800000,
                     2000000
                 ]
+            },
+            "water_hydra_head": {
+                "from": [
+                    55000,
+                    55000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "334763167391416322": {
         "modification_history": {},
