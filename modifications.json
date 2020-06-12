@@ -178,6 +178,16 @@
                     3000
                 ]
             },
+            "farmer_orb": {
+                "from": [
+                    140000,
+                    200000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "farming_talisman": {
                 "from": [
                     120,
@@ -329,7 +339,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "308262271262654464": {
         "modification_history": {},
