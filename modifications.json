@@ -1100,6 +1100,16 @@
                     19500
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    170000,
+                    175000
+                ],
+                "to": [
+                    160000,
+                    175000
+                ]
+            },
             "enchanted_melon": {
                 "from": [
                     220,
@@ -1301,7 +1311,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "660041857148911617": {
         "modification_history": {},
