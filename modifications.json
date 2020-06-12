@@ -1005,6 +1005,16 @@
                     2600000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    800000,
+                    950000
+                ],
+                "to": [
+                    750000,
+                    850000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     200000,
@@ -1066,7 +1076,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "396545298069061642": {
         "modification_history": {},
@@ -1129,6 +1139,16 @@
                 "to": [
                     20,
                     24
+                ]
+            },
+            "bone": {
+                "from": [
+                    10,
+                    10
+                ],
+                "to": [
+                    9,
+                    12
                 ]
             },
             "diamond": {
@@ -1522,7 +1542,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "660041857148911617": {
         "modification_history": {},
