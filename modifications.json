@@ -843,6 +843,16 @@
     },
     "645434212639571971": {
         "modification_history": {
+            "enchanted_redstone": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    1030,
+                    1055
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     155000,
@@ -894,7 +904,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "660041857148911617": {
         "modification_history": {},
