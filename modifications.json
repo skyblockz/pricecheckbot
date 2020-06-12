@@ -3973,6 +3973,16 @@
                     18000
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    175000,
+                    190000
+                ],
+                "to": [
+                    160000,
+                    168000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     8000,
@@ -4044,7 +4054,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "390661701046894592": {
         "modification_history": {
