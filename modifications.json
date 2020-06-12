@@ -5897,6 +5897,16 @@
                     3000000
                 ]
             },
+            "unstable_dragon_helmet": {
+                "from": [
+                    1,
+                    95000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "wood_singularity": {
                 "from": [
                     2800000,
@@ -5908,7 +5918,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "660041857148911617": {
         "modification_history": {},
