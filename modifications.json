@@ -510,6 +510,16 @@
                     50000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    75000,
+                    125000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     17500000,
@@ -541,7 +551,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "366232910334001152": {
         "modification_history": {},
