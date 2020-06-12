@@ -1331,6 +1331,16 @@
                     175000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    350000,
+                    360000
+                ],
+                "to": [
+                    350000,
+                    360000
+                ]
+            },
             "enchanted_melon": {
                 "from": [
                     220,
@@ -1552,7 +1562,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "660041857148911617": {
         "modification_history": {},
