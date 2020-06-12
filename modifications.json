@@ -414,6 +414,16 @@
                     5000000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
             "superior_dragon_helmet": {
                 "from": [
                     12000000,
@@ -445,7 +455,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "334763167391416322": {
         "modification_history": {},
