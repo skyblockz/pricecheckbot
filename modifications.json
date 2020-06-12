@@ -152,12 +152,12 @@
             },
             "minion_expander": {
                 "from": [
-                    22000,
-                    35000
+                    5000,
+                    20000
                 ],
                 "to": [
                     5000,
-                    20000
+                    25000
                 ]
             },
             "strong_dragon_fragment": {
@@ -241,7 +241,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "308262271262654464": {
         "modification_history": {},
