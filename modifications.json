@@ -1,7 +1,7 @@
 {
     "245045878790946816": {
         "modification_history": {},
-        "total_mods": 0
+        "total_mods": 2
     },
     "298613178601046017": {
         "modification_history": {},
@@ -40,8 +40,16 @@
         "total_mods": 0
     },
     "466769036122783744": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "test": {
+                "from": null,
+                "to": [
+                    1,
+                    1
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "523019950072266764": {
         "modification_history": {},
