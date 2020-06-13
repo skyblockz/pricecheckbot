@@ -1233,6 +1233,16 @@
                     750000
                 ]
             },
+            "revenant_minion_i": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    450000,
+                    650000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     900000,
@@ -1404,7 +1414,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "396545298069061642": {
         "modification_history": {},
