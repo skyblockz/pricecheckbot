@@ -915,6 +915,16 @@
                     170000
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    600,
+                    750
+                ],
+                "to": [
+                    630,
+                    710
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     38000,
@@ -956,7 +966,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "383791723945394176": {
         "modification_history": {},
