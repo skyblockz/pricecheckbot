@@ -1083,6 +1083,16 @@
                     1250000
                 ]
             },
+            "large_mining_sack": {
+                "from": [
+                    175000,
+                    180000
+                ],
+                "to": [
+                    170000,
+                    180000
+                ]
+            },
             "life_steal_iv": {
                 "from": [
                     1650000,
@@ -1444,7 +1454,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "396545298069061642": {
         "modification_history": {},
