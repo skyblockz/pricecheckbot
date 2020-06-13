@@ -894,8 +894,19 @@
         "total_mods": 22
     },
     "366232910334001152": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "super_compactor_3000": {
+                "from": [
+                    540000,
+                    555000
+                ],
+                "to": [
+                    505000,
+                    520000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "383791723945394176": {
         "modification_history": {},
