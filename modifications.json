@@ -1879,15 +1879,26 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 7
     },
     "523019950072266764": {
         "modification_history": {},
         "total_mods": 0
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 2
+        "modification_history": {
+            "magical_water_bucket": {
+                "from": [
+                    40,
+                    7500
+                ],
+                "to": [
+                    40,
+                    600
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "610172131057074191": {
         "modification_history": {},
