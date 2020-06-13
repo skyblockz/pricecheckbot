@@ -3285,6 +3285,16 @@
                     170000
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    75,
+                    77
+                ],
+                "to": [
+                    75,
+                    75
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     5000,
@@ -3476,7 +3486,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "660041857148911617": {
         "modification_history": {},
