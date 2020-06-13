@@ -3875,6 +3875,13 @@
                     37
                 ]
             },
+            "glowstone": {
+                "from": null,
+                "to": [
+                    10,
+                    100
+                ]
+            },
             "glowstone_dust": {
                 "from": [
                     19,
@@ -4236,7 +4243,7 @@
                 ]
             }
         },
-        "total_mods": 170
+        "total_mods": 171
     },
     "660041857148911617": {
         "modification_history": {},
