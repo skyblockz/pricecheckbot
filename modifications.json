@@ -2007,6 +2007,16 @@
                     775
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    105000,
+                    110000
+                ],
+                "to": [
+                    102000,
+                    108000
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     145000,
@@ -2068,7 +2078,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "610172131057074191": {
         "modification_history": {},
