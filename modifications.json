@@ -3565,6 +3565,16 @@
                     20
                 ]
             },
+            "raw_beef": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "raw_fish": {
                 "from": [
                     25,
@@ -3666,7 +3676,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "660041857148911617": {
         "modification_history": {},
