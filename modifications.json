@@ -3415,6 +3415,16 @@
                     8
                 ]
             },
+            "seeds": {
+                "from": [
+                    0,
+                    1
+                ],
+                "to": [
+                    0,
+                    1
+                ]
+            },
             "snow_minion_xi": {
                 "from": [
                     300000,
@@ -3466,7 +3476,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "660041857148911617": {
         "modification_history": {},
