@@ -3125,6 +3125,16 @@
                     88000
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    16500,
+                    17500
+                ],
+                "to": [
+                    16750,
+                    18000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     16000,
@@ -3396,7 +3406,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "660041857148911617": {
         "modification_history": {},
