@@ -2647,6 +2647,16 @@
                     95000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    150000,
+                    160000
+                ],
+                "to": [
+                    140000,
+                    160000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     90000,
@@ -2672,7 +2682,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "540685105513889793": {
         "modification_history": {
