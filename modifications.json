@@ -3295,6 +3295,16 @@
                     1000
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    162000
+                ],
+                "to": [
+                    160000,
+                    165000
+                ]
+            },
             "enchanted_ender_pearl": {
                 "from": [
                     190,
@@ -4156,7 +4166,7 @@
                 ]
             }
         },
-        "total_mods": 158
+        "total_mods": 159
     },
     "660041857148911617": {
         "modification_history": {},
