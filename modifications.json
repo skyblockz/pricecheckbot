@@ -2985,6 +2985,16 @@
                     17
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "carrot": {
                 "from": [
                     4,
@@ -3546,7 +3556,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "660041857148911617": {
         "modification_history": {},
