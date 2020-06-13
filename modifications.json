@@ -3237,12 +3237,12 @@
             },
             "enchanted_pumpkin": {
                 "from": [
-                    640,
-                    660
-                ],
-                "to": [
                     635,
                     640
+                ],
+                "to": [
+                    630,
+                    650
                 ]
             },
             "enchanted_raw_fish": {
@@ -3446,7 +3446,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "660041857148911617": {
         "modification_history": {},
