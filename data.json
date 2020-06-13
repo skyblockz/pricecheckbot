@@ -5251,12 +5251,6 @@
     },
     {
         "ac": true,
-        "hi": 1,
-        "low": 1,
-        "name": "snow_ball"
-    },
-    {
-        "ac": true,
         "hi": 12,
         "low": 9,
         "name": "salmon"
@@ -6076,5 +6070,11 @@
         "hi": 100,
         "low": 10,
         "name": "glowstone"
+    },
+    {
+        "ac": true,
+        "hi": 1,
+        "low": 1,
+        "name": "snowball"
     }
 ]
