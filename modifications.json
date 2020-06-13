@@ -43,6 +43,16 @@
                     100
                 ]
             },
+            "magma_bow": {
+                "from": [
+                    115000,
+                    125000
+                ],
+                "to": [
+                    60000,
+                    200000
+                ]
+            },
             "rare_combat_exp_boost": {
                 "from": [
                     100000,
@@ -64,7 +74,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "298613178601046017": {
         "modification_history": {
