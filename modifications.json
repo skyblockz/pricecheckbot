@@ -3855,6 +3855,16 @@
                     37
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    19,
+                    21
+                ],
+                "to": [
+                    18,
+                    21
+                ]
+            },
             "gold_ingot": {
                 "from": [
                     6,
@@ -4206,7 +4216,7 @@
                 ]
             }
         },
-        "total_mods": 167
+        "total_mods": 168
     },
     "660041857148911617": {
         "modification_history": {},
