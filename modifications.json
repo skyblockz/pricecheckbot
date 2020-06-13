@@ -1907,6 +1907,16 @@
                     1100
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    600,
+                    625
+                ],
+                "to": [
+                    580,
+                    660
+                ]
+            },
             "ender_bow": {
                 "from": [
                     1000,
@@ -1958,7 +1968,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "610172131057074191": {
         "modification_history": {},
