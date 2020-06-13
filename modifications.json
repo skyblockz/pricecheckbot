@@ -1897,6 +1897,16 @@
                     2000
                 ]
             },
+            "golem_sword": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     40,
@@ -1918,7 +1928,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "610172131057074191": {
         "modification_history": {},
