@@ -151,8 +151,8 @@
     },
     {
         "ac": true,
-        "hi": 170000,
-        "low": 166000,
+        "hi": 175000,
+        "low": 165000,
         "name": "enchanted_redstone_block"
     },
     {
@@ -6022,5 +6022,11 @@
         "hi": 100,
         "low": 50,
         "name": "harvesting_v"
+    },
+    {
+        "ac": true,
+        "hi": 5,
+        "low": 3,
+        "name": "brown_mushroom_block"
     }
 ]
