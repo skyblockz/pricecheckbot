@@ -3575,6 +3575,16 @@
                     200000
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    1100,
+                    1200
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     54000,
@@ -4503,7 +4513,7 @@
                 ]
             }
         },
-        "total_mods": 199
+        "total_mods": 200
     },
     "660041857148911617": {
         "modification_history": {},
