@@ -2647,12 +2647,6 @@
     },
     {
         "ac": true,
-        "hi": 180000,
-        "low": 165000,
-        "name": "enchanted_slimeblock"
-    },
-    {
-        "ac": true,
         "hi": 10,
         "low": 8,
         "name": "spider_eye"
@@ -6070,5 +6064,11 @@
         "hi": 11,
         "low": 8,
         "name": "slimeball"
+    },
+    {
+        "ac": true,
+        "hi": 180000,
+        "low": 165000,
+        "name": "enchanted_slime_block"
     }
 ]
