@@ -1344,10 +1344,13 @@
         "src": "dirt"
     },
     {
-        "dest": "lvl_1_rare_enderman",
-        "src": "rare_enderman"
+        "dest": "super_compactor_4000",
+        "src": "sc4000"
     },
-   
+    {
+        "dest": "super_compactor_4000",
+        "src": "sc4k"
+    },
     {
         "dest": "super_compactor_3000",
         "src": "sc6k"
@@ -1379,5 +1382,77 @@
     {
         "dest": "glowstone_dust",
         "src": "glowstone"
+    },
+    {
+        "dest": "raw_porkchop",
+        "src": "pork"
+    },
+    {
+        "dest": "snow_minion_xi",
+        "src": "tier_11_snow_minion"
+    },
+    {
+        "dest": "vampirism_vi",
+        "src": "vamp_6"
+    },
+    {
+        "dest": "snow_minion_i",
+        "src": "tier_1_snow_minion"
+    },
+    {
+        "dest": "giant_killer_vi",
+        "src": "gk6"
+    },
+    {
+        "dest": "lvl_1_epic_chicken",
+        "src": "epic_chicken"
+    },
+    {
+        "dest": "raw_beef",
+        "src": "beef"
+    },
+    {
+        "dest": "enchanted_raw_rabbit",
+        "src": "enchanted_rabbit"
+    },
+    {
+        "dest": "black_crab_hat_of_celebration",
+        "src": "black_crab_hat"
+    },
+    {
+        "dest": "lvl_1_epic_wolf",
+        "src": "epic_wolf"
+    },
+    {
+        "dest": "lime_crab_hat_of_celebration",
+        "src": "lime_crab_hat"
+    },
+    {
+        "dest": "orange_crab_hat_of_celebration",
+        "src": "orange_crab_hat"
+    },
+    {
+        "dest": "aqua_crab_hat_of_celebration",
+        "src": "aqua_crab_hat"
+    },
+    {
+        "dest": "pink_crab_hat_of_celebration",
+        "src": "pink_crab_hat"
+    },
+    {
+        "dest": "yellow_crab_hat_of_celebration",
+        "src": "yellow_crab_hat"
+    },
+    {
+        "dest": "purple_crab_hat_of_celebration",
+        "src": "purple_crab_hat"
+    },
+    {
+        "dest": "green_crab_hat_of_celebration",
+        "src": "green_crab_hat"
+    },
+    {
+        "dest": "red_crab_hat_of_celebration",
+        "src": "red_crab_hat"
     }
 ]
