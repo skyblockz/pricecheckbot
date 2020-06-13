@@ -3765,6 +3765,16 @@
                     8
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    7,
+                    9
+                ]
+            },
             "seeds": {
                 "from": [
                     0,
@@ -3826,7 +3836,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "660041857148911617": {
         "modification_history": {},
