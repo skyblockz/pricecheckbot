@@ -1816,6 +1816,16 @@
                     2125
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_pork": {
                 "from": [
                     1500,
@@ -2334,7 +2344,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "466769036122783744": {
         "modification_history": {
