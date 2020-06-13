@@ -1512,6 +1512,16 @@
                     5200
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    20000,
+                    24000
+                ],
+                "to": [
+                    20750,
+                    24850
+                ]
+            },
             "enchanted_seeds": {
                 "from": [
                     76,
@@ -1573,7 +1583,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {
