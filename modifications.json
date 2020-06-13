@@ -3515,6 +3515,16 @@
                     170000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1250,
+                    1350
+                ],
+                "to": [
+                    1200,
+                    1300
+                ]
+            },
             "enchanted_seeds": {
                 "from": [
                     75,
@@ -3836,7 +3846,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "660041857148911617": {
         "modification_history": {},
