@@ -3037,12 +3037,12 @@
             },
             "enchanted_carrot": {
                 "from": [
-                    550,
-                    650
-                ],
-                "to": [
                     590,
                     625
+                ],
+                "to": [
+                    600,
+                    600
                 ]
             },
             "enchanted_cooked_fish": {
@@ -3416,7 +3416,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "660041857148911617": {
         "modification_history": {},
