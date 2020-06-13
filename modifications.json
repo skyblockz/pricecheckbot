@@ -3347,12 +3347,12 @@
             },
             "enchanted_gold": {
                 "from": [
-                    1800,
+                    1810,
                     1875
                 ],
                 "to": [
-                    1750,
-                    1820
+                    1900,
+                    1900
                 ]
             },
             "enchanted_gold_block": {
@@ -3775,6 +3775,16 @@
                     37
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    6,
+                    10
+                ],
+                "to": [
+                    12,
+                    12
+                ]
+            },
             "gunpowder": {
                 "from": [
                     14,
@@ -4096,7 +4106,7 @@
                 ]
             }
         },
-        "total_mods": 147
+        "total_mods": 149
     },
     "660041857148911617": {
         "modification_history": {},
