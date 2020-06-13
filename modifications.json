@@ -965,6 +965,16 @@
                     300000
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    9750,
+                    12000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     540000,
@@ -986,7 +996,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "383791723945394176": {
         "modification_history": {},
