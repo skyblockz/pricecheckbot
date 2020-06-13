@@ -427,8 +427,8 @@
     },
     {
         "ac": true,
-        "hi": 161000,
-        "low": 156000,
+        "hi": 162000,
+        "low": 160000,
         "name": "enchanted_emerald_block"
     },
     {
@@ -6040,5 +6040,11 @@
         "hi": 1450,
         "low": 1200,
         "name": "enchanted_green_cactus"
+    },
+    {
+        "ac": true,
+        "hi": 9,
+        "low": 6,
+        "name": "emerald"
     }
 ]
