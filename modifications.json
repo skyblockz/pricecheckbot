@@ -2223,6 +2223,16 @@
                     18
                 ]
             },
+            "slime_ball": {
+                "from": [
+                    9,
+                    9
+                ],
+                "to": [
+                    8,
+                    12
+                ]
+            },
             "snow_block": {
                 "from": [
                     5,
@@ -2264,7 +2274,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "466769036122783744": {
         "modification_history": {
