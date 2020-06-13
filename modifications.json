@@ -3615,6 +3615,16 @@
                     2000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    320000,
+                    340000
+                ],
+                "to": [
+                    300000,
+                    300000
+                ]
+            },
             "enchanted_rabbit_foot": {
                 "from": [
                     3000,
@@ -4176,7 +4186,7 @@
                 ]
             }
         },
-        "total_mods": 164
+        "total_mods": 165
     },
     "660041857148911617": {
         "modification_history": {},
