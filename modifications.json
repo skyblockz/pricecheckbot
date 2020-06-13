@@ -1505,6 +1505,16 @@
                     9000000
                 ]
             },
+            "revenant_boots": {
+                "from": [
+                    115000,
+                    160000
+                ],
+                "to": [
+                    115000,
+                    150000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     650000,
@@ -1736,7 +1746,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "396545298069061642": {
         "modification_history": {},
