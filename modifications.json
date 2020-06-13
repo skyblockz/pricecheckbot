@@ -1639,6 +1639,16 @@
                     1875
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    107000,
+                    118000
+                ]
+            },
             "enchanted_green_cactus": {
                 "from": null,
                 "to": [
@@ -1927,7 +1937,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "466769036122783744": {
         "modification_history": {
