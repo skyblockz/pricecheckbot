@@ -1347,6 +1347,16 @@
                     7000000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     15000,
@@ -1498,7 +1508,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "396545298069061642": {
         "modification_history": {},
