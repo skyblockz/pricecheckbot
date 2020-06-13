@@ -905,6 +905,16 @@
                     330
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    165000
+                ],
+                "to": [
+                    160000,
+                    170000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     38000,
@@ -936,7 +946,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "383791723945394176": {
         "modification_history": {},
