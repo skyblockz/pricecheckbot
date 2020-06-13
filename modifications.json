@@ -2734,6 +2734,16 @@
                     10000
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    70,
+                    75
+                ],
+                "to": [
+                    50,
+                    70
+                ]
+            },
             "red_claw_ring": {
                 "from": null,
                 "to": [
@@ -2742,7 +2752,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "540685105513889793": {
         "modification_history": {
