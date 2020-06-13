@@ -1917,6 +1917,16 @@
                     660
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    145000,
+                    155000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "ender_bow": {
                 "from": [
                     1000,
@@ -1968,7 +1978,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "610172131057074191": {
         "modification_history": {},
