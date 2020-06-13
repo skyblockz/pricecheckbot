@@ -3195,6 +3195,16 @@
                     210000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1400,
+                    1600
+                ],
+                "to": [
+                    1400,
+                    1700
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     5100,
@@ -3736,7 +3746,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "660041857148911617": {
         "modification_history": {},
