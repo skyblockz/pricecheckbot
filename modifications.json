@@ -2657,6 +2657,16 @@
                     630
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    17500,
+                    16500
+                ],
+                "to": [
+                    16500,
+                    17500
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     1030,
@@ -2712,7 +2722,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "540685105513889793": {
         "modification_history": {
