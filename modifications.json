@@ -3465,6 +3465,16 @@
                     18000
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    625,
+                    775
+                ],
+                "to": [
+                    600,
+                    750
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     16000,
@@ -4283,7 +4293,7 @@
                 ]
             }
         },
-        "total_mods": 175
+        "total_mods": 176
     },
     "660041857148911617": {
         "modification_history": {},
