@@ -2995,6 +2995,16 @@
                     8
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    90000,
+                    95000
+                ],
+                "to": [
+                    90000,
+                    92000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     2615,
@@ -3436,7 +3446,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "660041857148911617": {
         "modification_history": {},
