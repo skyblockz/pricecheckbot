@@ -1926,6 +1926,16 @@
                     1400
                 ]
             },
+            "enchanted_slimeblock": {
+                "from": [
+                    160000,
+                    180000
+                ],
+                "to": [
+                    140000,
+                    180000
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1400,
@@ -2284,7 +2294,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "466769036122783744": {
         "modification_history": {
