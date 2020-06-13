@@ -1494,6 +1494,16 @@
                     200000
                 ]
             },
+            "wake_rune_iii": {
+                "from": [
+                    170000,
+                    250000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "weak_wolf_catalyst": {
                 "from": [
                     250000,
@@ -1555,7 +1565,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "396545298069061642": {
         "modification_history": {},
