@@ -3895,6 +3895,16 @@
                     1
                 ]
             },
+            "slime_ball": {
+                "from": [
+                    8,
+                    12
+                ],
+                "to": [
+                    8,
+                    11
+                ]
+            },
             "snow_minion_xi": {
                 "from": [
                     300000,
@@ -3966,7 +3976,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "660041857148911617": {
         "modification_history": {},
