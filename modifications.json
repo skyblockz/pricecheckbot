@@ -2617,6 +2617,16 @@
                     95000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    92000,
+                    97000
+                ]
+            },
             "red_claw_ring": {
                 "from": null,
                 "to": [
@@ -2625,7 +2635,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "540685105513889793": {
         "modification_history": {
