@@ -3105,6 +3105,16 @@
                     3200
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    175000,
+                    215000
+                ],
+                "to": [
+                    180000,
+                    210000
+                ]
+            },
             "enchanted_cactus_green": {
                 "from": [
                     1000,
@@ -3616,7 +3626,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "660041857148911617": {
         "modification_history": {},
