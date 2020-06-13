@@ -3205,6 +3205,16 @@
                     560
                 ]
             },
+            "enchanted_potato": {
+                "from": [
+                    560,
+                    600
+                ],
+                "to": [
+                    550,
+                    600
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     13000,
@@ -3426,7 +3436,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "660041857148911617": {
         "modification_history": {},
