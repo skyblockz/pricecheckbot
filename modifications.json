@@ -1185,6 +1185,16 @@
                     70000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    550000,
+                    675000
+                ],
+                "to": [
+                    550000,
+                    625000
+                ]
+            },
             "shredder": {
                 "from": [
                     4200000,
@@ -1316,7 +1326,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "396545298069061642": {
         "modification_history": {},
