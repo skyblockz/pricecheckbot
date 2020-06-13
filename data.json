@@ -2641,12 +2641,6 @@
     },
     {
         "ac": true,
-        "hi": 11,
-        "low": 8,
-        "name": "slime_ball"
-    },
-    {
-        "ac": true,
         "hi": 1400,
         "low": 1200,
         "name": "enchanted_slimeball"
@@ -6070,5 +6064,11 @@
         "hi": 23,
         "low": 16,
         "name": "rabbits_foot"
+    },
+    {
+        "ac": true,
+        "hi": 11,
+        "low": 8,
+        "name": "slimeball"
     }
 ]
