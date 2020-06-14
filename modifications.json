@@ -782,6 +782,16 @@
                     300000
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     160000,
@@ -993,7 +1003,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "325337387796267019": {
         "modification_history": {
