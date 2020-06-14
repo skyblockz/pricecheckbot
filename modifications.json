@@ -5651,6 +5651,16 @@
                     260000
                 ]
             },
+            "tarantula_silk": {
+                "from": [
+                    100000,
+                    105000
+                ],
+                "to": [
+                    120000,
+                    130000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     24,
@@ -5722,7 +5732,7 @@
                 ]
             }
         },
-        "total_mods": 259
+        "total_mods": 260
     },
     "660041857148911617": {
         "modification_history": {},
