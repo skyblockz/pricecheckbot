@@ -692,6 +692,16 @@
                     28
                 ]
             },
+            "chestplate_of_growth": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    230000,
+                    280000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     22000,
@@ -1503,7 +1513,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "325337387796267019": {
         "modification_history": {
