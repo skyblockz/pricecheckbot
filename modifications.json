@@ -782,6 +782,16 @@
                     28000000
                 ]
             },
+            "pumpkin_helmet": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    25,
+                    25
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     33000000,
@@ -843,7 +853,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "325337387796267019": {
         "modification_history": {
