@@ -1431,9 +1431,19 @@
                     24,
                     34
                 ]
+            },
+            "titanic_experience_bottle": {
+                "from": [
+                    200000,
+                    280000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "347884694408265729": {
         "modification_history": {
