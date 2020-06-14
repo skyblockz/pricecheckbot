@@ -782,6 +782,16 @@
                     28000000
                 ]
             },
+            "pumpkin_boots": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    20,
+                    20
+                ]
+            },
             "pumpkin_chestplate": {
                 "from": [
                     50,
@@ -873,7 +883,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "325337387796267019": {
         "modification_history": {
