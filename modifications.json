@@ -1342,6 +1342,16 @@
                     42000
                 ]
             },
+            "redstone_block": {
+                "from": [
+                    50,
+                    120
+                ],
+                "to": [
+                    40,
+                    60
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     17,
@@ -1653,7 +1663,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "325337387796267019": {
         "modification_history": {
