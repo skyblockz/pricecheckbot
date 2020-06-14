@@ -982,6 +982,16 @@
                     35000000
                 ]
             },
+            "speed_talisman": {
+                "from": [
+                    3000,
+                    9000
+                ],
+                "to": [
+                    400,
+                    1000
+                ]
+            },
             "strong_dragon_leggings": {
                 "from": [
                     700000,
@@ -1043,7 +1053,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "325337387796267019": {
         "modification_history": {
