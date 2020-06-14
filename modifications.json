@@ -992,6 +992,16 @@
                     35000000
                 ]
             },
+            "small_backpack": {
+                "from": [
+                    500,
+                    3000
+                ],
+                "to": [
+                    1000,
+                    1500
+                ]
+            },
             "speed_talisman": {
                 "from": [
                     3000,
@@ -1063,7 +1073,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "325337387796267019": {
         "modification_history": {
