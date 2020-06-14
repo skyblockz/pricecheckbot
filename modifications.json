@@ -1222,6 +1222,16 @@
                     210
                 ]
             },
+            "night_vision_charm": {
+                "from": [
+                    20000,
+                    60000
+                ],
+                "to": [
+                    20000,
+                    40000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2650,
@@ -1743,7 +1753,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "325337387796267019": {
         "modification_history": {
