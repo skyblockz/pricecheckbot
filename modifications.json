@@ -912,6 +912,16 @@
                     30000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    10000,
+                    16000
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     160000,
@@ -1393,7 +1403,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "325337387796267019": {
         "modification_history": {
