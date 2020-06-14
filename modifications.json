@@ -932,6 +932,16 @@
                     95000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    12000000
+                ]
+            },
             "lantern_helmet": {
                 "from": [
                     75000,
@@ -1313,7 +1323,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "325337387796267019": {
         "modification_history": {
