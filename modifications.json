@@ -922,6 +922,16 @@
                     95000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     92000,
@@ -1323,7 +1333,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "325337387796267019": {
         "modification_history": {
