@@ -902,6 +902,16 @@
                     120
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    12000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "mushroom_boots": {
                 "from": [
                     20,
@@ -1073,7 +1083,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "325337387796267019": {
         "modification_history": {
