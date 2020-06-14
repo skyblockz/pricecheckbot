@@ -972,6 +972,16 @@
                     210
                 ]
             },
+            "potion_affinity_talisman": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
             "pumpkin_boots": {
                 "from": [
                     50,
@@ -1103,7 +1113,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "325337387796267019": {
         "modification_history": {
