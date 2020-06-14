@@ -752,6 +752,16 @@
                     130000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    240000,
+                    260000
+                ],
+                "to": [
+                    200000,
+                    240000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     630,
@@ -1093,7 +1103,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "325337387796267019": {
         "modification_history": {
