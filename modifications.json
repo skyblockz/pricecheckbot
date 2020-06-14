@@ -822,6 +822,16 @@
                     28000000
                 ]
             },
+            "mushroom_helmet": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    125,
+                    150
+                ]
+            },
             "pumpkin_boots": {
                 "from": [
                     50,
@@ -933,7 +943,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "325337387796267019": {
         "modification_history": {
