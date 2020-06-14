@@ -822,6 +822,16 @@
                     28000000
                 ]
             },
+            "mushroom_chestplate": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    200,
+                    250
+                ]
+            },
             "mushroom_helmet": {
                 "from": [
                     20,
@@ -943,7 +953,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "325337387796267019": {
         "modification_history": {
