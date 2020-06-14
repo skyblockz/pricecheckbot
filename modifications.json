@@ -982,6 +982,16 @@
                     16000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    600000,
+                    800000
+                ],
+                "to": [
+                    360000,
+                    520000
+                ]
+            },
             "farmer_boots": {
                 "from": [
                     160000,
@@ -1613,7 +1623,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "325337387796267019": {
         "modification_history": {
