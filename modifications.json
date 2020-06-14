@@ -1122,6 +1122,16 @@
                     10500
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    550000,
+                    625000
+                ],
+                "to": [
+                    340000,
+                    440000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     33000000,
@@ -1303,7 +1313,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "325337387796267019": {
         "modification_history": {
