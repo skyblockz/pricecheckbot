@@ -1762,6 +1762,16 @@
                     1000000
                 ]
             },
+            "young_dragon_fragment": {
+                "from": [
+                    18000,
+                    19000
+                ],
+                "to": [
+                    15000,
+                    18000
+                ]
+            },
             "young_dragon_helmet": {
                 "from": [
                     600000,
@@ -1783,7 +1793,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "325337387796267019": {
         "modification_history": {
