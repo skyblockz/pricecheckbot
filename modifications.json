@@ -1292,6 +1292,16 @@
                     42000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    31000,
+                    33000
+                ],
+                "to": [
+                    28000,
+                    33000
+                ]
+            },
             "rod_of_legends": {
                 "from": [
                     6500000,
@@ -1573,7 +1583,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "325337387796267019": {
         "modification_history": {
