@@ -642,6 +642,16 @@
                     900000
                 ]
             },
+            "boots_of_growth": {
+                "from": [
+                    80000,
+                    200000
+                ],
+                "to": [
+                    110000,
+                    140000
+                ]
+            },
             "cactus_boots": {
                 "from": [
                     25,
@@ -1483,7 +1493,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "325337387796267019": {
         "modification_history": {
