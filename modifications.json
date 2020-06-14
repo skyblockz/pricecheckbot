@@ -4054,6 +4054,16 @@
                     11
                 ]
             },
+            "compactor": {
+                "from": [
+                    6500,
+                    7250
+                ],
+                "to": [
+                    6000,
+                    6500
+                ]
+            },
             "dark_oak_wood": {
                 "from": [
                     3,
@@ -5672,7 +5682,7 @@
                 ]
             }
         },
-        "total_mods": 253
+        "total_mods": 254
     },
     "660041857148911617": {
         "modification_history": {},
