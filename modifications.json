@@ -702,6 +702,16 @@
                     500
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1200000,
+                    2000000
+                ],
+                "to": [
+                    1100000,
+                    1500000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     90000,
@@ -1373,7 +1383,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "325337387796267019": {
         "modification_history": {
