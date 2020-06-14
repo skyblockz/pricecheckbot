@@ -632,6 +632,16 @@
                     5600000
                 ]
             },
+            "bat_artifact": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "cactus_boots": {
                 "from": [
                     25,
@@ -1363,7 +1373,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "325337387796267019": {
         "modification_history": {
