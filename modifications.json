@@ -892,6 +892,16 @@
                     255000
                 ]
             },
+            "training_dummy": {
+                "from": [
+                    1000,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "wise_dragon_leggings": {
                 "from": [
                     150000,
@@ -903,7 +913,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "325337387796267019": {
         "modification_history": {
