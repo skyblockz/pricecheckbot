@@ -932,6 +932,16 @@
                     30000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1100,
+                    1300
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1300,
@@ -1643,7 +1653,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "325337387796267019": {
         "modification_history": {
