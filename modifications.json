@@ -622,6 +622,86 @@
     },
     "310369675987124225": {
         "modification_history": {
+            "bait_ring": {
+                "from": [
+                    5500000,
+                    6250000
+                ],
+                "to": [
+                    4800000,
+                    5600000
+                ]
+            },
+            "cactus_boots": {
+                "from": [
+                    25,
+                    140
+                ],
+                "to": [
+                    12,
+                    16
+                ]
+            },
+            "cactus_chestplate": {
+                "from": [
+                    25,
+                    140
+                ],
+                "to": [
+                    24,
+                    32
+                ]
+            },
+            "cactus_helmet": {
+                "from": [
+                    25,
+                    140
+                ],
+                "to": [
+                    15,
+                    20
+                ]
+            },
+            "cactus_leggings": {
+                "from": [
+                    25,
+                    140
+                ],
+                "to": [
+                    21,
+                    28
+                ]
+            },
+            "desert_island": {
+                "from": [
+                    4000,
+                    12000
+                ],
+                "to": [
+                    100,
+                    500
+                ]
+            },
+            "enchanted_baked_potato": {
+                "from": [
+                    90000,
+                    92000
+                ],
+                "to": [
+                    86000,
+                    93000
+                ]
+            },
+            "enchanted_carrot": {
+                "from": [
+                    600,
+                    600
+                ],
+                "to": [
+                    580,
+                    660
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     1100,
@@ -640,6 +720,16 @@
                 "to": [
                     750,
                     860
+                ]
+            },
+            "enchanted_cookie": {
+                "from": [
+                    168000,
+                    176000
+                ],
+                "to": [
+                    135000,
+                    150000
                 ]
             },
             "enchanted_flint": {
@@ -672,6 +762,16 @@
                     130000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    240000,
+                    260000
+                ],
+                "to": [
+                    200000,
+                    240000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     630,
@@ -692,6 +792,16 @@
                     1200
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     360000,
@@ -700,6 +810,46 @@
                 "to": [
                     330000,
                     400000
+                ]
+            },
+            "enchanted_melon_block": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            },
+            "enchanted_pork": {
+                "from": [
+                    2450,
+                    2850
+                ],
+                "to": [
+                    1600,
+                    2200
+                ]
+            },
+            "enchanted_potato": {
+                "from": [
+                    550,
+                    600
+                ],
+                "to": [
+                    530,
+                    620
+                ]
+            },
+            "enchanted_pumpkin": {
+                "from": [
+                    630,
+                    650
+                ],
+                "to": [
+                    620,
+                    660
                 ]
             },
             "enchanted_quartz": {
@@ -722,6 +872,36 @@
                     300000
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
+            "farmer_boots": {
+                "from": [
+                    160000,
+                    250000
+                ],
+                "to": [
+                    130000,
+                    160000
+                ]
+            },
+            "farmer_orb": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
             "fish_hat": {
                 "from": [
                     20,
@@ -730,6 +910,56 @@
                 "to": [
                     200,
                     240
+                ]
+            },
+            "golden_tooth": {
+                "from": [
+                    91000,
+                    92000
+                ],
+                "to": [
+                    91000,
+                    95000
+                ]
+            },
+            "hot_potato_book": {
+                "from": [
+                    92000,
+                    97000
+                ],
+                "to": [
+                    88000,
+                    95000
+                ]
+            },
+            "lantern_helmet": {
+                "from": [
+                    75000,
+                    81820
+                ],
+                "to": [
+                    75000,
+                    85000
+                ]
+            },
+            "leaping_sword": {
+                "from": [
+                    1600000,
+                    2400000
+                ],
+                "to": [
+                    1400000,
+                    2200000
+                ]
+            },
+            "luck_of_the_sea_vi": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    300000,
+                    550000
                 ]
             },
             "lvl_100_epic_bat": {
@@ -742,6 +972,156 @@
                     28000000
                 ]
             },
+            "magical_mushroom_soup": {
+                "from": [
+                    50,
+                    50
+                ],
+                "to": [
+                    100,
+                    120
+                ]
+            },
+            "medium_backpack": {
+                "from": [
+                    12000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
+            "mushroom_boots": {
+                "from": [
+                    20,
+                    50
+                ],
+                "to": [
+                    100,
+                    120
+                ]
+            },
+            "mushroom_chestplate": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    200,
+                    250
+                ]
+            },
+            "mushroom_helmet": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    125,
+                    150
+                ]
+            },
+            "mushroom_leggings": {
+                "from": [
+                    20,
+                    150
+                ],
+                "to": [
+                    175,
+                    210
+                ]
+            },
+            "pooch_sword": {
+                "from": [
+                    3800000,
+                    4600000
+                ],
+                "to": [
+                    4200000,
+                    5000000
+                ]
+            },
+            "potion_affinity_artifact": {
+                "from": [
+                    380000,
+                    560000
+                ],
+                "to": [
+                    390000,
+                    480000
+                ]
+            },
+            "potion_affinity_ring": {
+                "from": [
+                    40000,
+                    43000
+                ],
+                "to": [
+                    13000,
+                    18000
+                ]
+            },
+            "potion_affinity_talisman": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
+            "pumpkin_boots": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    20,
+                    20
+                ]
+            },
+            "pumpkin_chestplate": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    40,
+                    40
+                ]
+            },
+            "pumpkin_helmet": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    25,
+                    25
+                ]
+            },
+            "pumpkin_leggings": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    35,
+                    35
+                ]
+            },
+            "purple_candy": {
+                "from": [
+                    9500,
+                    10000
+                ],
+                "to": [
+                    9500,
+                    10500
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     33000000,
@@ -750,6 +1130,46 @@
                 "to": [
                     28000000,
                     35000000
+                ]
+            },
+            "shaman_sword": {
+                "from": [
+                    175000,
+                    200000
+                ],
+                "to": [
+                    175000,
+                    220000
+                ]
+            },
+            "sharpness_vi": {
+                "from": [
+                    15000000,
+                    16500000
+                ],
+                "to": [
+                    13800000,
+                    15800000
+                ]
+            },
+            "small_backpack": {
+                "from": [
+                    500,
+                    3000
+                ],
+                "to": [
+                    1000,
+                    1500
+                ]
+            },
+            "speed_talisman": {
+                "from": [
+                    3000,
+                    9000
+                ],
+                "to": [
+                    400,
+                    1000
                 ]
             },
             "strong_dragon_leggings": {
@@ -782,6 +1202,26 @@
                     550000
                 ]
             },
+            "superior_dragon_boots": {
+                "from": [
+                    9500000,
+                    10250000
+                ],
+                "to": [
+                    9000000,
+                    10250000
+                ]
+            },
+            "superior_dragon_chestplate": {
+                "from": [
+                    19000000,
+                    20000000
+                ],
+                "to": [
+                    18400000,
+                    20000000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     250000,
@@ -790,6 +1230,36 @@
                 "to": [
                     244000,
                     255000
+                ]
+            },
+            "superior_dragon_helmet": {
+                "from": [
+                    11750000,
+                    12500000
+                ],
+                "to": [
+                    11250000,
+                    12500000
+                ]
+            },
+            "superior_dragon_leggings": {
+                "from": [
+                    16500000,
+                    17500000
+                ],
+                "to": [
+                    16000000,
+                    17500000
+                ]
+            },
+            "training_dummy": {
+                "from": [
+                    1000,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    30000
                 ]
             },
             "wise_dragon_leggings": {
@@ -801,9 +1271,39 @@
                     100000,
                     200000
                 ]
+            },
+            "young_dragon_boots": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    450000,
+                    600000
+                ]
+            },
+            "young_dragon_chestplate": {
+                "from": [
+                    750000,
+                    900000
+                ],
+                "to": [
+                    850000,
+                    1000000
+                ]
+            },
+            "young_dragon_leggings": {
+                "from": [
+                    700000,
+                    825000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
             }
         },
-        "total_mods": 20
+        "total_mods": 70
     },
     "325337387796267019": {
         "modification_history": {
