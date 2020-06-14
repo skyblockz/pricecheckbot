@@ -1312,6 +1312,16 @@
                     1500
                 ]
             },
+            "smite_vi": {
+                "from": [
+                    35000,
+                    45000
+                ],
+                "to": [
+                    20000,
+                    40000
+                ]
+            },
             "speed_talisman": {
                 "from": [
                     3000,
@@ -1463,7 +1473,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "325337387796267019": {
         "modification_history": {
