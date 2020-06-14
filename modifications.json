@@ -972,6 +972,16 @@
                     210
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    380000,
+                    560000
+                ],
+                "to": [
+                    390000,
+                    480000
+                ]
+            },
             "potion_affinity_ring": {
                 "from": [
                     40000,
@@ -1123,7 +1133,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "325337387796267019": {
         "modification_history": {
