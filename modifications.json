@@ -23,12 +23,12 @@
             },
             "farmer_orb": {
                 "from": [
-                    90000,
-                    120000
-                ],
-                "to": [
                     1,
                     65000
+                ],
+                "to": [
+                    65000,
+                    85000
                 ]
             },
             "farmers_boots": {
@@ -92,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "255260842637918208": {
         "modification_history": {
