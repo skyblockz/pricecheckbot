@@ -2545,6 +2545,16 @@
                     22
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    6,
+                    9
+                ]
+            },
             "cactus": {
                 "from": null,
                 "to": [
@@ -3704,7 +3714,7 @@
                 ]
             }
         },
-        "total_mods": 138
+        "total_mods": 139
     },
     "466769036122783744": {
         "modification_history": {
