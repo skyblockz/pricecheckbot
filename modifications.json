@@ -21,6 +21,16 @@
                     690000
                 ]
             },
+            "farmer_orb": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    1,
+                    65000
+                ]
+            },
             "farmers_boots": {
                 "from": [
                     170000,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "255260842637918208": {
         "modification_history": {
