@@ -1879,6 +1879,16 @@
                     220000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    105000,
+                    115000
+                ],
+                "to": [
+                    120000,
+                    135000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     81300,
@@ -1900,7 +1910,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "390661701046894592": {
         "modification_history": {},
