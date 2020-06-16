@@ -3948,14 +3948,17 @@
                 ]
             },
             "test": {
-                "from": null,
-                "to": [
+                "from": [
                     1,
                     1
+                ],
+                "to": [
+                    2,
+                    2
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "523019950072266764": {
         "modification_history": {
