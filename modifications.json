@@ -1365,6 +1365,16 @@
                     6250000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    815000,
+                    1000000
+                ],
+                "to": [
+                    950000,
+                    1050000
+                ]
+            },
             "farming_talisman": {
                 "from": [
                     25,
@@ -1466,7 +1476,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "334763167391416322": {
         "modification_history": {
