@@ -5510,6 +5510,13 @@
                     93000
                 ]
             },
+            "hyper_furnace": {
+                "from": null,
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "ice": {
                 "from": [
                     3,
@@ -6091,7 +6098,7 @@
                 ]
             }
         },
-        "total_mods": 234
+        "total_mods": 235
     },
     "660041857148911617": {
         "modification_history": {},
