@@ -4043,6 +4043,16 @@
                     95000
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    950,
+                    1200
+                ],
+                "to": [
+                    1190,
+                    1300
+                ]
+            },
             "enchanted_glowstone_dust": {
                 "from": [
                     580,
@@ -4148,7 +4158,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "540685105513889793": {
         "modification_history": {
