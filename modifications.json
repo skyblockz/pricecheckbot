@@ -1817,12 +1817,12 @@
             },
             "enchanted_cooked_fish": {
                 "from": [
-                    660000,
-                    800000
-                ],
-                "to": [
                     670000,
                     790000
+                ],
+                "to": [
+                    600000,
+                    650000
                 ]
             },
             "enchanted_emerald_block": {
@@ -1946,7 +1946,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "383791723945394176": {
         "modification_history": {
