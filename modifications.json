@@ -1985,6 +1985,16 @@
                     120000
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    165000,
+                    180000
+                ],
+                "to": [
+                    130000,
+                    150000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     525000,
@@ -2006,7 +2016,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "383791723945394176": {
         "modification_history": {
