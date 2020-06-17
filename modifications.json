@@ -4183,6 +4183,16 @@
                     770
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    370000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    420000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     9500,
@@ -4298,7 +4308,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "540685105513889793": {
         "modification_history": {
