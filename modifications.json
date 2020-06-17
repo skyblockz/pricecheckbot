@@ -1855,6 +1855,16 @@
                     260000
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    12500,
+                    13500
+                ],
+                "to": [
+                    11500,
+                    13500
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     600,
@@ -1966,7 +1976,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "383791723945394176": {
         "modification_history": {
