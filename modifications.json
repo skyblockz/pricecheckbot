@@ -2275,6 +2275,16 @@
     },
     "390661701046894592": {
         "modification_history": {
+            "beacon": {
+                "from": [
+                    750000,
+                    900000
+                ],
+                "to": [
+                    1200000,
+                    1200000
+                ]
+            },
             "ember_rod": {
                 "from": [
                     60000,
@@ -2437,7 +2447,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "391726083512467458": {
         "modification_history": {
