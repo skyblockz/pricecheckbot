@@ -565,6 +565,16 @@
                     1700
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    400000,
+                    420000
+                ],
+                "to": [
+                    390000,
+                    400000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     7600,
@@ -676,7 +686,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "310369675987124225": {
         "modification_history": {
