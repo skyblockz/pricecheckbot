@@ -2292,6 +2292,16 @@
                     13200000
                 ]
             },
+            "lvl_1_epic_guardian": {
+                "from": [
+                    350000,
+                    600000
+                ],
+                "to": [
+                    290000,
+                    330000
+                ]
+            },
             "lvl_1_legendary_sea_turtle": {
                 "from": null,
                 "to": [
@@ -2327,7 +2337,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "391726083512467458": {
         "modification_history": {
