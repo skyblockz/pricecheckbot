@@ -4362,6 +4362,16 @@
                     207000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1400,
+                    1700
+                ],
+                "to": [
+                    1800,
+                    1900
+                ]
+            },
             "enchanted_emerald": {
                 "from": [
                     950,
@@ -4550,7 +4560,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "610172131057074191": {
         "modification_history": {},
