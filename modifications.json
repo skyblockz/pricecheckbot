@@ -1375,6 +1375,16 @@
                     6250000
                 ]
             },
+            "candy_talisman": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    12500,
+                    20000
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     815000,
@@ -1506,7 +1516,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "334763167391416322": {
         "modification_history": {
