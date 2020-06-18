@@ -1475,6 +1475,16 @@
                     6250000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    325000,
+                    350000
+                ]
+            },
             "candy_talisman": {
                 "from": [
                     5000,
@@ -1686,7 +1696,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "334763167391416322": {
         "modification_history": {
