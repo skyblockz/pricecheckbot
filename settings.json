@@ -120660,7 +120660,7 @@
         "show_footer": true
     },
     "648318096985292810": {
-        "receive_updates": false,
+        "receive_updates": true,
         "show_debug": false,
         "show_footer": false
     },
@@ -128755,6 +128755,11 @@
         "show_footer": true
     },
     "99109673449291776": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "99613554293866496": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
