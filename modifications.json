@@ -4332,6 +4332,16 @@
                     285000
                 ]
             },
+            "enchanted_cake": {
+                "from": [
+                    3200,
+                    5000
+                ],
+                "to": [
+                    3800,
+                    5300
+                ]
+            },
             "enchanted_cookie": {
                 "from": [
                     135000,
@@ -4540,7 +4550,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "610172131057074191": {
         "modification_history": {},
