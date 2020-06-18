@@ -2346,6 +2346,16 @@
                     800000
                 ]
             },
+            "reaper_mask": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    8750000,
+                    8750000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     240000,
@@ -2367,7 +2377,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "391726083512467458": {
         "modification_history": {
