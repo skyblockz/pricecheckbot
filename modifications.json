@@ -1475,6 +1475,16 @@
                     6250000
                 ]
             },
+            "blessing_v": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    7500,
+                    12500
+                ]
+            },
             "candy_artifact": {
                 "from": [
                     450000,
@@ -1696,7 +1706,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "334763167391416322": {
         "modification_history": {
