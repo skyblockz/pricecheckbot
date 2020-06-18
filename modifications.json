@@ -615,6 +615,16 @@
                     830
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1050,
+                    1200
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     400000,
@@ -756,7 +766,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "310369675987124225": {
         "modification_history": {
