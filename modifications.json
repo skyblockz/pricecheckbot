@@ -4412,6 +4412,16 @@
                     108000
                 ]
             },
+            "enchanted_raw_chicken": {
+                "from": [
+                    620,
+                    650
+                ],
+                "to": [
+                    615,
+                    670
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     150000,
@@ -4520,7 +4530,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "610172131057074191": {
         "modification_history": {},
