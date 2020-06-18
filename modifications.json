@@ -2285,6 +2285,16 @@
                     5000
                 ]
             },
+            "lure_vi": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    12000,
+                    12000
+                ]
+            },
             "lvl_100_legendary_sea_turtle_pet": {
                 "from": null,
                 "to": [
@@ -2347,7 +2357,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "391726083512467458": {
         "modification_history": {
