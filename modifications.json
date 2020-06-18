@@ -2315,6 +2315,16 @@
                     5000
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    6250000,
+                    7500000
+                ],
+                "to": [
+                    7000000,
+                    70000000
+                ]
+            },
             "hurricane_bow": {
                 "from": [
                     50000,
@@ -2447,7 +2457,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "391726083512467458": {
         "modification_history": {
