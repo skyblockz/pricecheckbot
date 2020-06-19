@@ -205,8 +205,19 @@
         "total_mods": 0
     },
     "391726083512467458": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "sea_creature_artifact": {
+                "from": [
+                    550000,
+                    625000
+                ],
+                "to": [
+                    550000,
+                    725000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "396545298069061642": {
         "modification_history": {},
