@@ -216,6 +216,13 @@
                     20000
                 ]
             },
+            "lvl_100_epic_jellyfish": {
+                "from": null,
+                "to": [
+                    11000000,
+                    13000000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     550000,
@@ -227,7 +234,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "396545298069061642": {
         "modification_history": {},
