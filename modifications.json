@@ -632,6 +632,16 @@
                     80
                 ]
             },
+            "leather": {
+                "from": [
+                    18,
+                    19
+                ],
+                "to": [
+                    15,
+                    17
+                ]
+            },
             "melon": {
                 "from": [
                     2,
@@ -713,7 +723,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "660041857148911617": {
         "modification_history": {},
