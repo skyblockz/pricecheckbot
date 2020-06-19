@@ -216,6 +216,16 @@
                     20000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    300000,
+                    450000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     600000,
@@ -254,7 +264,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "396545298069061642": {
         "modification_history": {},
