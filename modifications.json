@@ -722,6 +722,16 @@
                     10
                 ]
             },
+            "raw_chicken": {
+                "from": [
+                    12,
+                    15
+                ],
+                "to": [
+                    9,
+                    11
+                ]
+            },
             "raw_porkchop": {
                 "from": [
                     14,
@@ -783,7 +793,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "660041857148911617": {
         "modification_history": {},
