@@ -283,6 +283,16 @@
                     13000000
                 ]
             },
+            "lvl_1_epic_guardian": {
+                "from": [
+                    290000,
+                    330000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     550000,
@@ -324,7 +334,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "396545298069061642": {
         "modification_history": {},
