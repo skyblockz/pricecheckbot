@@ -216,6 +216,16 @@
                     20000
                 ]
             },
+            "lucky_clover_core": {
+                "from": [
+                    600000,
+                    1000000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "lvl_100_epic_jellyfish": {
                 "from": null,
                 "to": [
@@ -244,7 +254,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "396545298069061642": {
         "modification_history": {},
