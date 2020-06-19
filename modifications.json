@@ -256,6 +256,16 @@
                     300000
                 ]
             },
+            "giant_killer_v": {
+                "from": [
+                    3200,
+                    3200
+                ],
+                "to": [
+                    2500,
+                    3500
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     600000,
@@ -314,7 +324,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "396545298069061642": {
         "modification_history": {},
