@@ -682,6 +682,16 @@
                     5
                 ]
             },
+            "raw_beef": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "red_mushroom": {
                 "from": [
                     26,
@@ -733,7 +743,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "660041857148911617": {
         "modification_history": {},
