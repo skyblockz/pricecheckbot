@@ -612,6 +612,16 @@
                     450
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    70000,
+                    73000
+                ],
+                "to": [
+                    73000,
+                    75000
+                ]
+            },
             "hay_bale": {
                 "from": [
                     75,
@@ -703,7 +713,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "660041857148911617": {
         "modification_history": {},
