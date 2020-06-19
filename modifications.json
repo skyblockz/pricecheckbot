@@ -2392,12 +2392,12 @@
             },
             "enchanted_sugar_cane": {
                 "from": [
-                    81300,
-                    82500
-                ],
-                "to": [
                     80000,
                     88000
+                ],
+                "to": [
+                    70000,
+                    73000
                 ]
             },
             "super_enchanted_egg": {
@@ -2411,7 +2411,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "390661701046894592": {
         "modification_history": {
