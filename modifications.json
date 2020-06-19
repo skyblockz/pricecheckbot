@@ -1840,6 +1840,16 @@
                     140000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    5000,
+                    12000
+                ],
+                "to": [
+                    500,
+                    2000
+                ]
+            },
             "revenant_chestplate": {
                 "from": [
                     1600000,
@@ -1891,7 +1901,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "347884694408265729": {
         "modification_history": {
