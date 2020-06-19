@@ -236,6 +236,16 @@
                     450000
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    6500000,
+                    7250000
+                ],
+                "to": [
+                    6750000,
+                    7250000
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     280000,
@@ -304,7 +314,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "396545298069061642": {
         "modification_history": {},
