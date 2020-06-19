@@ -780,9 +780,9 @@
         "show_footer": true
     },
     "132891948154486784": {
-        "receive_updates": true,
-        "show_debug": false,
-        "show_footer": true
+        "receive_updates": false,
+        "show_debug": true,
+        "show_footer": false
     },
     "132942890354737162": {
         "receive_updates": true,
@@ -95465,6 +95465,11 @@
         "show_footer": true
     },
     "511537929429188618": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "511564898073968640": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
