@@ -462,6 +462,16 @@
                     30000
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    75,
+                    75
+                ],
+                "to": [
+                    80,
+                    80
+                ]
+            },
             "hay_bale": {
                 "from": [
                     75,
@@ -523,7 +533,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "660041857148911617": {
         "modification_history": {},
