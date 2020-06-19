@@ -452,6 +452,16 @@
                     220
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    27500,
+                    30000
+                ],
+                "to": [
+                    22000,
+                    30000
+                ]
+            },
             "hay_bale": {
                 "from": [
                     75,
@@ -513,7 +523,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "660041857148911617": {
         "modification_history": {},
