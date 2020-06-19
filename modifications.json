@@ -2370,6 +2370,16 @@
                     93000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    160000,
+                    185000
+                ],
+                "to": [
+                    165000,
+                    220000
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     105000,
@@ -2431,7 +2441,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "390661701046894592": {
         "modification_history": {
