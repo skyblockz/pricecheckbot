@@ -562,6 +562,16 @@
                     30000
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    430,
+                    530
+                ],
+                "to": [
+                    350,
+                    450
+                ]
+            },
             "enchanted_red_mushroom": {
                 "from": [
                     4600,
@@ -693,7 +703,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "660041857148911617": {
         "modification_history": {},
