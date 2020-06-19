@@ -472,6 +472,16 @@
                     900
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    99000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": [
                     6100,
@@ -633,7 +643,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "660041857148911617": {
         "modification_history": {},
