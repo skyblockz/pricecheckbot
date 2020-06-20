@@ -645,6 +645,16 @@
                     620
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    750,
+                    860
+                ],
+                "to": [
+                    800,
+                    800
+                ]
+            },
             "enchanted_cocoa_beans": {
                 "from": [
                     720,
@@ -1236,7 +1246,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "660041857148911617": {
         "modification_history": {},
