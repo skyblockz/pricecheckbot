@@ -965,6 +965,16 @@
                     750
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    115000,
+                    120000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     1200,
@@ -1306,7 +1316,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "660041857148911617": {
         "modification_history": {},
