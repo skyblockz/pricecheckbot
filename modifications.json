@@ -463,6 +463,16 @@
                     550000
                 ]
             },
+            "personal_compactor_4000": {
+                "from": [
+                    1400000,
+                    1600000
+                ],
+                "to": [
+                    1100000,
+                    1500000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     550000,
@@ -514,7 +524,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "396545298069061642": {
         "modification_history": {},
