@@ -502,6 +502,16 @@
                     90000
                 ]
             },
+            "enchanted_bone": {
+                "from": [
+                    1800,
+                    1800
+                ],
+                "to": [
+                    1650,
+                    1850
+                ]
+            },
             "enchanted_bread": {
                 "from": [
                     10,
@@ -1023,7 +1033,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "660041857148911617": {
         "modification_history": {},
