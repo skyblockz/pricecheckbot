@@ -532,6 +532,16 @@
                     900
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    190000,
+                    220000
+                ],
+                "to": [
+                    265000,
+                    300000
+                ]
+            },
             "enchanted_cookie": {
                 "from": [
                     99000,
@@ -863,7 +873,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "660041857148911617": {
         "modification_history": {},
