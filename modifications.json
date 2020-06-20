@@ -55,6 +55,16 @@
                     5500
                 ]
             },
+            "night_vision_charm": {
+                "from": [
+                    20000,
+                    60000
+                ],
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     300000,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "347884694408265729": {
         "modification_history": {},
