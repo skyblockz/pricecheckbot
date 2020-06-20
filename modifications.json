@@ -75,6 +75,16 @@
                     50000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    390000,
+                    480000
+                ],
+                "to": [
+                    400000,
+                    460000
+                ]
+            },
             "silver_fang": {
                 "from": [
                     2000,
@@ -106,7 +116,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "347884694408265729": {
         "modification_history": {},
