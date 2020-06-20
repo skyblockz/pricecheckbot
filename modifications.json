@@ -895,6 +895,16 @@
                     80
                 ]
             },
+            "enchanted_slimeball": {
+                "from": [
+                    1200,
+                    1500
+                ],
+                "to": [
+                    1250,
+                    1450
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1300,
@@ -1176,7 +1186,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "660041857148911617": {
         "modification_history": {},
