@@ -165,6 +165,16 @@
                     20000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    30000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "exp_share": {
                 "from": [
                     450000,
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "396545298069061642": {
         "modification_history": {},
