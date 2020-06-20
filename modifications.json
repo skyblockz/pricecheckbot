@@ -176,6 +176,16 @@
                     125000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    270000,
+                    300000
+                ],
+                "to": [
+                    250000,
+                    270000
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     145000,
@@ -187,7 +197,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "376795578820198421": {
         "modification_history": {},
