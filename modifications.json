@@ -755,6 +755,16 @@
                     200000
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    3500,
+                    3500
+                ],
+                "to": [
+                    3350,
+                    3350
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     180,
@@ -1396,7 +1406,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "660041857148911617": {
         "modification_history": {},
