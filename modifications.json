@@ -957,12 +957,12 @@
             },
             "enchanted_redstone": {
                 "from": [
-                    950,
-                    1000
-                ],
-                "to": [
                     799,
                     759
+                ],
+                "to": [
+                    700,
+                    750
                 ]
             },
             "enchanted_rotten_flesh": {
@@ -1306,7 +1306,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "660041857148911617": {
         "modification_history": {},
