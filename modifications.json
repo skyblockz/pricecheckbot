@@ -1067,12 +1067,12 @@
             },
             "glowstone": {
                 "from": [
-                    10,
-                    100
-                ],
-                "to": [
                     14,
                     16
+                ],
+                "to": [
+                    8,
+                    50
                 ]
             },
             "glowstone_dust": {
@@ -1356,7 +1356,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "660041857148911617": {
         "modification_history": {},
