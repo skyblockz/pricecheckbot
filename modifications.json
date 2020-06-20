@@ -1205,6 +1205,16 @@
                     38
                 ]
             },
+            "redstone": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "rotten_flesh": {
                 "from": [
                     7,
@@ -1286,7 +1296,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "660041857148911617": {
         "modification_history": {},
