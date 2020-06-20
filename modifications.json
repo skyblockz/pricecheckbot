@@ -312,6 +312,16 @@
                     3500
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    375000,
+                    475000
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     600000,
@@ -423,7 +433,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "396545298069061642": {
         "modification_history": {},
