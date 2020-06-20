@@ -895,6 +895,16 @@
                     75000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    14,
+                    17
+                ],
+                "to": [
+                    40,
+                    42
+                ]
+            },
             "hay_bale": {
                 "from": [
                     75,
@@ -1116,7 +1126,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "660041857148911617": {
         "modification_history": {},
