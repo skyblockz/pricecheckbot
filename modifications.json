@@ -185,6 +185,16 @@
                     3300000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    3300000,
+                    4000000
+                ],
+                "to": [
+                    2450000,
+                    3000000
+                ]
+            },
             "emperors_skull": {
                 "from": [
                     450000,
@@ -383,7 +393,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "396545298069061642": {
         "modification_history": {},
