@@ -775,6 +775,16 @@
                     7300
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    630,
+                    670
+                ],
+                "to": [
+                    830,
+                    860
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     80000,
@@ -1356,7 +1366,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "660041857148911617": {
         "modification_history": {},
