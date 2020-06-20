@@ -1075,6 +1075,16 @@
                     16
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    18,
+                    21
+                ],
+                "to": [
+                    14,
+                    16
+                ]
+            },
             "gunpowder": {
                 "from": [
                     14,
@@ -1346,7 +1356,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "660041857148911617": {
         "modification_history": {},
