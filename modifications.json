@@ -532,6 +532,16 @@
                     110000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1800,
+                    1900
+                ],
+                "to": [
+                    1700,
+                    1900
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": [
                     6100,
@@ -813,7 +823,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "660041857148911617": {
         "modification_history": {},
