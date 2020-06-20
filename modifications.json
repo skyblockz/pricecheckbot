@@ -166,6 +166,16 @@
                     155000
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    160000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     120000,
@@ -197,7 +207,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "376795578820198421": {
         "modification_history": {},
