@@ -316,10 +316,13 @@
                 ]
             },
             "lvl_100_epic_jellyfish": {
-                "from": null,
-                "to": [
+                "from": [
                     11000000,
                     13000000
+                ],
+                "to": [
+                    10500000,
+                    12000000
                 ]
             },
             "lvl_1_epic_guardian": {
@@ -413,7 +416,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "396545298069061642": {
         "modification_history": {},
