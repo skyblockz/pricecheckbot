@@ -155,6 +155,16 @@
                     3000000
                 ]
             },
+            "aspect_of_the_end": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    125000,
+                    175000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     21000,
@@ -323,7 +333,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "396545298069061642": {
         "modification_history": {},
