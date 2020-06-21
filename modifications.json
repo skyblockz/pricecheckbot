@@ -2277,6 +2277,16 @@
                     129
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    10,
+                    12
+                ],
+                "to": [
+                    8,
+                    14
+                ]
+            },
             "string": {
                 "from": [
                     3,
@@ -2328,7 +2338,7 @@
                 ]
             }
         },
-        "total_mods": 252
+        "total_mods": 253
     },
     "660041857148911617": {
         "modification_history": {},
