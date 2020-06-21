@@ -231,6 +231,16 @@
                     100000
                 ]
             },
+            "spider_artifact": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    3700000,
+                    5300000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     12000000,
@@ -242,7 +252,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "366232910334001152": {
         "modification_history": {
