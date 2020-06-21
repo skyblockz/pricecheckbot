@@ -125,6 +125,16 @@
                     320000
                 ]
             },
+            "travel_scroll_to_spiders_den_top_of_nest": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    500,
+                    5000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     450000,
@@ -136,7 +146,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "347884694408265729": {
         "modification_history": {},
