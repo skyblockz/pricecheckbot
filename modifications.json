@@ -827,6 +827,16 @@
                     90000
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2500,
+                    2700
+                ],
+                "to": [
+                    2600,
+                    2600
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
                     190000,
@@ -1708,7 +1718,7 @@
                 ]
             }
         },
-        "total_mods": 172
+        "total_mods": 173
     },
     "660041857148911617": {
         "modification_history": {},
