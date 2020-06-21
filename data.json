@@ -5239,12 +5239,6 @@
     },
     {
         "ac": true,
-        "hi": 11,
-        "low": 9,
-        "name": "salmon"
-    },
-    {
-        "ac": true,
         "hi": 70,
         "low": 50,
         "name": "pufferfish"
@@ -6148,5 +6142,11 @@
         "hi": 12000000,
         "low": 10500000,
         "name": "lvl_100_epic_jellyfish"
+    },
+    {
+        "ac": true,
+        "hi": 11,
+        "low": 9,
+        "name": "raw_salmon"
     }
 ]
