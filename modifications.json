@@ -65,6 +65,16 @@
                     5500
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    27000000,
+                    32500000
+                ],
+                "to": [
+                    29000000,
+                    33000000
+                ]
+            },
             "night_vision_charm": {
                 "from": [
                     20000,
@@ -116,7 +126,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "347884694408265729": {
         "modification_history": {},
