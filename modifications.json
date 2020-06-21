@@ -2267,6 +2267,16 @@
                     9
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    150,
+                    150
+                ],
+                "to": [
+                    70,
+                    100
+                ]
+            },
             "sponge": {
                 "from": [
                     120,
@@ -2338,7 +2348,7 @@
                 ]
             }
         },
-        "total_mods": 253
+        "total_mods": 254
     },
     "660041857148911617": {
         "modification_history": {},
