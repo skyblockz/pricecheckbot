@@ -1727,6 +1727,16 @@
                     8
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     4,
@@ -2058,7 +2068,7 @@
                 ]
             }
         },
-        "total_mods": 223
+        "total_mods": 224
     },
     "660041857148911617": {
         "modification_history": {},
