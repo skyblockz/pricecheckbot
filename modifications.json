@@ -1669,12 +1669,12 @@
             },
             "super_enchanted_egg": {
                 "from": [
-                    270000,
-                    290000
-                ],
-                "to": [
                     255000,
                     275000
+                ],
+                "to": [
+                    240000,
+                    255000
                 ]
             },
             "superior_dragon_fragment": {
@@ -1698,7 +1698,7 @@
                 ]
             }
         },
-        "total_mods": 143
+        "total_mods": 144
     },
     "660041857148911617": {
         "modification_history": {},
