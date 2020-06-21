@@ -859,12 +859,12 @@
             },
             "enchanted_brown_mushroom": {
                 "from": [
-                    3350,
-                    3750
-                ],
-                "to": [
                     2800,
                     3300
+                ],
+                "to": [
+                    3000,
+                    3500
                 ]
             },
             "enchanted_brown_mushroom_block": {
@@ -1688,7 +1688,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "660041857148911617": {
         "modification_history": {},
