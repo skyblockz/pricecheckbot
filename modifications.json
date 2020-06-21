@@ -2377,6 +2377,16 @@
                     250000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    16,
+                    18
+                ],
+                "to": [
+                    9,
+                    11
+                ]
+            },
             "whale_bait": {
                 "from": [
                     800,
@@ -2398,7 +2408,7 @@
                 ]
             }
         },
-        "total_mods": 259
+        "total_mods": 260
     },
     "660041857148911617": {
         "modification_history": {},
