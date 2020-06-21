@@ -1677,6 +1677,16 @@
                     10
                 ]
             },
+            "netherrack": {
+                "from": [
+                    0,
+                    1
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "obsidian": {
                 "from": [
                     25,
@@ -1898,7 +1908,7 @@
                 ]
             }
         },
-        "total_mods": 207
+        "total_mods": 208
     },
     "660041857148911617": {
         "modification_history": {},
