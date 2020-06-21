@@ -1027,6 +1027,16 @@
                     160000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    800,
+                    890
+                ],
+                "to": [
+                    750,
+                    800
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     91000,
@@ -1938,7 +1948,7 @@
                 ]
             }
         },
-        "total_mods": 211
+        "total_mods": 212
     },
     "660041857148911617": {
         "modification_history": {},
