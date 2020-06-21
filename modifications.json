@@ -35,6 +35,16 @@
                     150000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1050000,
+                    1250000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     55000,
@@ -126,7 +136,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "347884694408265729": {
         "modification_history": {},
