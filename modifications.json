@@ -214,6 +214,16 @@
                     24500000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    130000,
+                    160000
+                ],
+                "to": [
+                    160000,
+                    220000
+                ]
+            },
             "lvl_1_epic_pig_pet": {
                 "from": null,
                 "to": [
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "366232910334001152": {
         "modification_history": {
