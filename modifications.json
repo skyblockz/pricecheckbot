@@ -889,12 +889,12 @@
             },
             "enchanted_cactus_green": {
                 "from": [
-                    1150,
-                    1300
-                ],
-                "to": [
                     1100,
                     1200
+                ],
+                "to": [
+                    1000,
+                    1000
                 ]
             },
             "enchanted_cake": {
@@ -1688,7 +1688,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "660041857148911617": {
         "modification_history": {},
