@@ -1917,6 +1917,16 @@
                     4
                 ]
             },
+            "green_candy": {
+                "from": [
+                    1300,
+                    1500
+                ],
+                "to": [
+                    1000,
+                    1200
+                ]
+            },
             "gunpowder": {
                 "from": [
                     40,
@@ -2538,7 +2548,7 @@
                 ]
             }
         },
-        "total_mods": 274
+        "total_mods": 275
     },
     "660041857148911617": {
         "modification_history": {},
