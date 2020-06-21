@@ -1129,12 +1129,12 @@
             },
             "enchanted_melon": {
                 "from": [
-                    250,
-                    260
-                ],
-                "to": [
                     190,
                     220
+                ],
+                "to": [
+                    200,
+                    200
                 ]
             },
             "enchanted_melon_block": {
@@ -1688,7 +1688,7 @@
                 ]
             }
         },
-        "total_mods": 115
+        "total_mods": 116
     },
     "660041857148911617": {
         "modification_history": {},
