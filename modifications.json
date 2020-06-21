@@ -1887,6 +1887,16 @@
                     9
                 ]
             },
+            "snow_block": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    6,
+                    7
+                ]
+            },
             "snowball": {
                 "from": [
                     1,
@@ -1958,7 +1968,7 @@
                 ]
             }
         },
-        "total_mods": 213
+        "total_mods": 214
     },
     "660041857148911617": {
         "modification_history": {},
