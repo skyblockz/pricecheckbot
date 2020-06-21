@@ -807,6 +807,16 @@
                     6
                 ]
             },
+            "carrot_bait": {
+                "from": [
+                    35,
+                    45
+                ],
+                "to": [
+                    30,
+                    45
+                ]
+            },
             "clay": {
                 "from": [
                     5,
@@ -2278,7 +2288,7 @@
                 ]
             }
         },
-        "total_mods": 247
+        "total_mods": 248
     },
     "660041857148911617": {
         "modification_history": {},
