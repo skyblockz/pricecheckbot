@@ -1437,6 +1437,16 @@
                     550
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    6500,
+                    8000
+                ],
+                "to": [
+                    6000,
+                    6600
+                ]
+            },
             "enchanted_pumpkin": {
                 "from": [
                     610,
@@ -2158,7 +2168,7 @@
                 ]
             }
         },
-        "total_mods": 233
+        "total_mods": 234
     },
     "660041857148911617": {
         "modification_history": {},
