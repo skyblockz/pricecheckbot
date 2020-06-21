@@ -1477,6 +1477,16 @@
                     700
                 ]
             },
+            "enchanted_raw_fish": {
+                "from": [
+                    4000,
+                    4700
+                ],
+                "to": [
+                    4000,
+                    4000
+                ]
+            },
             "enchanted_raw_rabbit": {
                 "from": [
                     630,
@@ -2088,7 +2098,7 @@
                 ]
             }
         },
-        "total_mods": 226
+        "total_mods": 227
     },
     "660041857148911617": {
         "modification_history": {},
