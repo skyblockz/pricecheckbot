@@ -1219,12 +1219,12 @@
             },
             "enchanted_rabbit_foot": {
                 "from": [
-                    3100,
-                    3500
-                ],
-                "to": [
                     3300,
                     3800
+                ],
+                "to": [
+                    3500,
+                    4000
                 ]
             },
             "enchanted_rabbit_hide": {
@@ -1698,7 +1698,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "660041857148911617": {
         "modification_history": {},
