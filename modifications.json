@@ -2427,6 +2427,16 @@
                     14
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    6500,
+                    7000
+                ],
+                "to": [
+                    6700,
+                    7000
+                ]
+            },
             "string": {
                 "from": [
                     3,
@@ -2568,7 +2578,7 @@
                 ]
             }
         },
-        "total_mods": 277
+        "total_mods": 278
     },
     "660041857148911617": {
         "modification_history": {},
