@@ -1467,6 +1467,16 @@
                     80
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    6,
+                    8
+                ]
+            },
             "leather": {
                 "from": [
                     14,
@@ -1718,7 +1728,7 @@
                 ]
             }
         },
-        "total_mods": 179
+        "total_mods": 180
     },
     "660041857148911617": {
         "modification_history": {},
