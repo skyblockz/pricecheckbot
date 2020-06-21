@@ -1517,6 +1517,16 @@
                     1350
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
             "enchanted_string": {
                 "from": [
                     700,
@@ -1988,7 +1998,7 @@
                 ]
             }
         },
-        "total_mods": 216
+        "total_mods": 217
     },
     "660041857148911617": {
         "modification_history": {},
