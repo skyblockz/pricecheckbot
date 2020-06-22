@@ -808,12 +808,12 @@
             },
             "lvl_100_legendary_silverfish": {
                 "from": [
-                    11000000,
-                    13000000
-                ],
-                "to": [
                     5500000,
                     7000000
+                ],
+                "to": [
+                    9000000,
+                    10000000
                 ]
             },
             "lvl_1_epic_silverfish": {
@@ -857,7 +857,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "550337381128208396": {
         "modification_history": {},
