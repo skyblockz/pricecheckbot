@@ -816,6 +816,16 @@
                     940
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    900,
+                    900
+                ],
+                "to": [
+                    960,
+                    1000
+                ]
+            },
             "enchanted_red_mushroom": {
                 "from": [
                     3700,
@@ -877,7 +887,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "550337381128208396": {
         "modification_history": {},
