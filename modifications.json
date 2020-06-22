@@ -755,6 +755,16 @@
                     20
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    8,
+                    11
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     4400000,
@@ -766,7 +776,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "550337381128208396": {
         "modification_history": {},
