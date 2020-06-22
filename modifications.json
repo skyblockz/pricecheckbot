@@ -876,6 +876,16 @@
                     11
                 ]
             },
+            "oak_wood": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    5,
+                    6
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     4400000,
@@ -887,7 +897,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "550337381128208396": {
         "modification_history": {},
