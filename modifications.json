@@ -806,6 +806,16 @@
                     4400
                 ]
             },
+            "lvl_100_legendary_silverfish": {
+                "from": [
+                    11000000,
+                    13000000
+                ],
+                "to": [
+                    5500000,
+                    7000000
+                ]
+            },
             "mutton": {
                 "from": [
                     16,
@@ -837,7 +847,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "550337381128208396": {
         "modification_history": {},
