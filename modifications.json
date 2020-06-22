@@ -836,6 +836,16 @@
                     4400
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    900,
+                    960
+                ]
+            },
             "lvl_100_legendary_silverfish": {
                 "from": [
                     5500000,
@@ -897,7 +907,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "550337381128208396": {
         "modification_history": {},
