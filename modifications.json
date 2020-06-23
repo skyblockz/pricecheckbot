@@ -451,6 +451,16 @@
                     300000
                 ]
             },
+            "shredder": {
+                "from": [
+                    2950000,
+                    3250000
+                ],
+                "to": [
+                    2500000,
+                    3500000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     17500000,
@@ -462,7 +472,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "391726083512467458": {
         "modification_history": {
