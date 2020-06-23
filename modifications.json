@@ -521,6 +521,16 @@
                     4250000
                 ]
             },
+            "protection_vi": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    265000,
+                    3700000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     4000000,
@@ -622,7 +632,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "391726083512467458": {
         "modification_history": {
