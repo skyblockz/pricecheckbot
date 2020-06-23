@@ -481,6 +481,16 @@
                     3500000
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    350000,
+                    550000
+                ],
+                "to": [
+                    325000,
+                    510000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     17500000,
@@ -512,7 +522,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "391726083512467458": {
         "modification_history": {
