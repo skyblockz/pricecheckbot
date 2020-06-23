@@ -1097,6 +1097,16 @@
                     1500000
                 ]
             },
+            "pigs_foot": {
+                "from": [
+                    240000,
+                    290000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     550000,
@@ -1158,7 +1168,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "396545298069061642": {
         "modification_history": {},
