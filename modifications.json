@@ -451,6 +451,16 @@
                     1400000
                 ]
             },
+            "chicken_minion_xi": {
+                "from": [
+                    600000,
+                    900000
+                ],
+                "to": [
+                    750000,
+                    975000
+                ]
+            },
             "crystal_helmet": {
                 "from": [
                     70000,
@@ -652,7 +662,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "391726083512467458": {
         "modification_history": {
