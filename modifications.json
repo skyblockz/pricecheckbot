@@ -481,6 +481,16 @@
                     200000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    5000,
+                    15000
+                ],
+                "to": [
+                    7500,
+                    20000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     19000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "391726083512467458": {
         "modification_history": {
