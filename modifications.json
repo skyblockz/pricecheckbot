@@ -441,6 +441,16 @@
     },
     "390661701046894592": {
         "modification_history": {
+            "healing_ring": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    310000,
+                    350000
+                ]
+            },
             "lvl_1_legendary_flying_fish": {
                 "from": [
                     1800000,
@@ -492,7 +502,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "391726083512467458": {
         "modification_history": {
