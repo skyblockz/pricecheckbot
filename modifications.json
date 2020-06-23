@@ -501,6 +501,16 @@
                     29000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    10000000,
+                    11250000
+                ],
+                "to": [
+                    12000000,
+                    14000000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     40000,
@@ -722,7 +732,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "391726083512467458": {
         "modification_history": {
