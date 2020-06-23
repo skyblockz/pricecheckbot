@@ -1137,6 +1137,16 @@
                     450000
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    70000,
+                    90000
+                ],
+                "to": [
+                    65000,
+                    100000
+                ]
+            },
             "thick_tactician_sword": {
                 "from": [
                     1400000,
@@ -1178,7 +1188,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "396545298069061642": {
         "modification_history": {},
