@@ -1804,12 +1804,12 @@
             },
             "enchanted_cocoa_beans": {
                 "from": [
-                    800,
-                    900
-                ],
-                "to": [
                     650,
                     700
+                ],
+                "to": [
+                    700,
+                    720
                 ]
             },
             "enchanted_cooked_fish": {
@@ -3283,7 +3283,7 @@
                 ]
             }
         },
-        "total_mods": 294
+        "total_mods": 295
     },
     "660041857148911617": {
         "modification_history": {},
