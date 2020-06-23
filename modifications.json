@@ -1087,6 +1087,16 @@
                     725000
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    375000,
+                    425000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "thick_tactician_sword": {
                 "from": [
                     1400000,
@@ -1128,7 +1138,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "396545298069061642": {
         "modification_history": {},
