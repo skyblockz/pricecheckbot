@@ -3154,12 +3154,12 @@
             },
             "raw_chicken": {
                 "from": [
-                    7,
-                    9
-                ],
-                "to": [
                     5,
                     7
+                ],
+                "to": [
+                    9,
+                    10
                 ]
             },
             "raw_fish": {
@@ -3523,7 +3523,7 @@
                 ]
             }
         },
-        "total_mods": 345
+        "total_mods": 346
     },
     "660041857148911617": {
         "modification_history": {},
