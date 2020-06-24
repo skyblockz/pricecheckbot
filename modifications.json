@@ -2084,12 +2084,12 @@
             },
             "enchanted_egg": {
                 "from": [
-                    1700,
-                    1900
-                ],
-                "to": [
                     1400,
                     1750
+                ],
+                "to": [
+                    1600,
+                    1800
                 ]
             },
             "enchanted_emerald_block": {
@@ -3523,7 +3523,7 @@
                 ]
             }
         },
-        "total_mods": 347
+        "total_mods": 348
     },
     "660041857148911617": {
         "modification_history": {},
