@@ -3204,12 +3204,12 @@
             },
             "red_mushroom_block": {
                 "from": [
-                    33,
-                    38
-                ],
-                "to": [
                     38,
                     47
+                ],
+                "to": [
+                    20,
+                    33
                 ]
             },
             "redstone": {
@@ -3513,7 +3513,7 @@
                 ]
             }
         },
-        "total_mods": 324
+        "total_mods": 325
     },
     "660041857148911617": {
         "modification_history": {},
