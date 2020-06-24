@@ -419,6 +419,16 @@
                     155000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    750,
+                    800
+                ],
+                "to": [
+                    800,
+                    880
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     80000,
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "376795578820198421": {
         "modification_history": {},
