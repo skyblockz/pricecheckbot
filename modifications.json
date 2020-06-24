@@ -1359,6 +1359,16 @@
                     350000
                 ]
             },
+            "lvl_1_legendary_flying_fish": {
+                "from": [
+                    2000000,
+                    300000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
             "mutton": {
                 "from": [
                     16,
@@ -1410,7 +1420,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "550337381128208396": {
         "modification_history": {},
