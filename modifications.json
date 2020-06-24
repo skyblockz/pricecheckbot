@@ -1704,12 +1704,12 @@
             },
             "brown_mushroom_block": {
                 "from": [
-                    2,
-                    3
-                ],
-                "to": [
                     10,
                     20
+                ],
+                "to": [
+                    7,
+                    11
                 ]
             },
             "cactus": {
@@ -3513,7 +3513,7 @@
                 ]
             }
         },
-        "total_mods": 328
+        "total_mods": 329
     },
     "660041857148911617": {
         "modification_history": {},
