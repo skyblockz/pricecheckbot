@@ -2131,6 +2131,16 @@
                     960
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    70,
+                    80
+                ],
+                "to": [
+                    65,
+                    70
+                ]
+            },
             "jungle_minion_xi": {
                 "from": null,
                 "to": [
@@ -2246,7 +2256,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "550337381128208396": {
         "modification_history": {},
