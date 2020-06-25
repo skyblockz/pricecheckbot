@@ -311,6 +311,16 @@
                     700000
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    40000,
+                    40000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     430000,
@@ -452,7 +462,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "334763167391416322": {
         "modification_history": {
