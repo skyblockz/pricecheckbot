@@ -1349,6 +1349,13 @@
                     550000
                 ]
             },
+            "oak_minion_i": {
+                "from": null,
+                "to": [
+                    500,
+                    750
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     1400000,
@@ -1450,7 +1457,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "396545298069061642": {
         "modification_history": {},
