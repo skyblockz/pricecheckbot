@@ -331,6 +331,16 @@
                     50000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    800,
+                    800
+                ],
+                "to": [
+                    550,
+                    575
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     430000,
@@ -482,7 +492,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "334763167391416322": {
         "modification_history": {
