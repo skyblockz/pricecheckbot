@@ -1406,6 +1406,13 @@
                     100000
                 ]
             },
+            "spruce_minion_i": {
+                "from": null,
+                "to": [
+                    500,
+                    750
+                ]
+            },
             "tarantula_minion_i": {
                 "from": [
                     150000,
@@ -1457,7 +1464,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "396545298069061642": {
         "modification_history": {},
