@@ -134,6 +134,16 @@
                     230000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    6,
+                    6
+                ]
+            },
             "jungle_minion_i": {
                 "from": null,
                 "to": [
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "310369675987124225": {
         "modification_history": {
