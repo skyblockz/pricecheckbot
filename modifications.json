@@ -1802,6 +1802,16 @@
                     55000
                 ]
             },
+            "enchanted_obsidian": {
+                "from": [
+                    4000,
+                    4000
+                ],
+                "to": [
+                    3800,
+                    4000
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     700,
@@ -1903,7 +1913,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "640849699297034250": {
         "modification_history": {},
