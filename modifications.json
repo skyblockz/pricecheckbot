@@ -331,6 +331,16 @@
                     11250000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    3000,
+                    5500
+                ],
+                "to": [
+                    2500,
+                    3250
+                ]
+            },
             "lvl_1_legendary_sheep": {
                 "from": [
                     2600000,
@@ -442,7 +452,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "334763167391416322": {
         "modification_history": {
