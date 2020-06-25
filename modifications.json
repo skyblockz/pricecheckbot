@@ -1682,6 +1682,16 @@
                     3
                 ]
             },
+            "diamond": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    8,
+                    8
+                ]
+            },
             "emerald": {
                 "from": [
                     5,
@@ -1883,7 +1893,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "640849699297034250": {
         "modification_history": {},
