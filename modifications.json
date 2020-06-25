@@ -1812,6 +1812,16 @@
                     8
                 ]
             },
+            "redstone": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    5,
+                    6
+                ]
+            },
             "spruce_wood": {
                 "from": [
                     5,
@@ -1823,7 +1833,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "640849699297034250": {
         "modification_history": {},
