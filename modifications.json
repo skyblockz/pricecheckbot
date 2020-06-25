@@ -1530,6 +1530,16 @@
                     1500
                 ]
             },
+            "angler_helmet": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    300,
+                    1000
+                ]
+            },
             "angler_leggings": {
                 "from": [
                     1000,
@@ -1959,7 +1969,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "396545298069061642": {
         "modification_history": {},
