@@ -381,6 +381,16 @@
                     4250000
                 ]
             },
+            "tarantula_minion_i": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     500,
@@ -402,7 +412,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "334763167391416322": {
         "modification_history": {
