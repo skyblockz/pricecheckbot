@@ -1662,6 +1662,16 @@
                     7
                 ]
             },
+            "coal": {
+                "from": [
+                    9,
+                    11
+                ],
+                "to": [
+                    12,
+                    13
+                ]
+            },
             "dark_oak_wood": {
                 "from": [
                     2,
@@ -1733,7 +1743,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "640849699297034250": {
         "modification_history": {},
