@@ -1862,6 +1862,16 @@
                     16
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    20400
+                ],
+                "to": [
+                    20000,
+                    21600
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     5,
@@ -1923,7 +1933,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "640849699297034250": {
         "modification_history": {},
