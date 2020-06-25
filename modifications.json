@@ -371,6 +371,16 @@
                     4250000
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    1000,
+                    2500
+                ]
+            },
             "wolf_ring": {
                 "from": [
                     850000,
@@ -382,7 +392,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "334763167391416322": {
         "modification_history": {
