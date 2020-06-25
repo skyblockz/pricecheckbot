@@ -2101,6 +2101,16 @@
                     375
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    10000,
+                    11000
+                ],
+                "to": [
+                    9500,
+                    10200
+                ]
+            },
             "enchanted_oak_wood": {
                 "from": [
                     900,
@@ -2256,7 +2266,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "550337381128208396": {
         "modification_history": {},
