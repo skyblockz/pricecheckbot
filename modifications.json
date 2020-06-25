@@ -461,6 +461,16 @@
                     50000
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    325000,
+                    510000
+                ],
+                "to": [
+                    375000,
+                    450000
+                ]
+            },
             "spider_artifact": {
                 "from": [
                     3700000,
@@ -522,7 +532,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "334763167391416322": {
         "modification_history": {
