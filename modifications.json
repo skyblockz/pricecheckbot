@@ -1742,6 +1742,16 @@
                     1500
                 ]
             },
+            "enchanted_emerald": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    1100,
+                    1100
+                ]
+            },
             "enchanted_gold": {
                 "from": [
                     2300,
@@ -1863,7 +1873,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "640849699297034250": {
         "modification_history": {},
