@@ -1752,6 +1752,16 @@
                     1000
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    14,
+                    14
+                ],
+                "to": [
+                    16,
+                    16
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     5,
@@ -1783,7 +1793,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "640849699297034250": {
         "modification_history": {},
