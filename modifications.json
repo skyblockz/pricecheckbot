@@ -1702,6 +1702,16 @@
                     1200
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    1150,
+                    1200
+                ],
+                "to": [
+                    1300,
+                    1500
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     900,
@@ -1743,7 +1753,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "640849699297034250": {
         "modification_history": {},
