@@ -84,6 +84,16 @@
                     1150
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    195000,
+                    205000
+                ],
+                "to": [
+                    180000,
+                    190000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     5700,
@@ -202,7 +212,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "310369675987124225": {
         "modification_history": {
