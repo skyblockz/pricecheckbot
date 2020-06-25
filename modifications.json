@@ -341,6 +341,16 @@
                     4750000
                 ]
             },
+            "recluse_fang": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "spider_artifact": {
                 "from": [
                     3700000,
@@ -362,7 +372,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "334763167391416322": {
         "modification_history": {
