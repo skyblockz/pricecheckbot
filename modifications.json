@@ -1255,6 +1255,13 @@
                     12000000
                 ]
             },
+            "lvl_100_epic_silverfish": {
+                "from": null,
+                "to": [
+                    6000000,
+                    6500000
+                ]
+            },
             "lvl_100_legendary_endermite": {
                 "from": null,
                 "to": [
@@ -1423,7 +1430,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "396545298069061642": {
         "modification_history": {},
