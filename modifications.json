@@ -81,6 +81,16 @@
                     540
                 ]
             },
+            "sponge": {
+                "from": [
+                    125,
+                    135
+                ],
+                "to": [
+                    130,
+                    150
+                ]
+            },
             "tier_boost": {
                 "from": [
                     80000000,
@@ -92,7 +102,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "310369675987124225": {
         "modification_history": {
