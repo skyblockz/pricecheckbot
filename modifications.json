@@ -1365,6 +1365,16 @@
                     100000
                 ]
             },
+            "tarantula_minion_i": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "thick_tactician_sword": {
                 "from": [
                     1400000,
@@ -1406,7 +1416,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "396545298069061642": {
         "modification_history": {},
