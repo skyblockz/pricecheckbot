@@ -1762,6 +1762,16 @@
                     55000
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    700,
+                    750
+                ],
+                "to": [
+                    670,
+                    720
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     900,
@@ -1833,7 +1843,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "640849699297034250": {
         "modification_history": {},
