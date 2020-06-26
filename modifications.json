@@ -1344,6 +1344,16 @@
                     2800
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    125000,
+                    135000
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     18000,
@@ -1385,7 +1395,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "390661701046894592": {
         "modification_history": {
