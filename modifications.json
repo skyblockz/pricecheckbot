@@ -287,14 +287,17 @@
                 ]
             },
             "sign": {
-                "from": null,
-                "to": [
+                "from": [
                     6,
                     8
+                ],
+                "to": [
+                    2,
+                    5
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "325337387796267019": {
         "modification_history": {
