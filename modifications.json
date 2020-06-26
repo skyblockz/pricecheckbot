@@ -793,6 +793,16 @@
                     1785
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    170000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    183000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     375000,
@@ -891,7 +901,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "366232910334001152": {
         "modification_history": {
