@@ -833,6 +833,16 @@
                     30000
                 ]
             },
+            "enchanted_raw_fish": {
+                "from": [
+                    3200,
+                    3300
+                ],
+                "to": [
+                    3300,
+                    3600
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     110000,
@@ -921,7 +931,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "366232910334001152": {
         "modification_history": {
