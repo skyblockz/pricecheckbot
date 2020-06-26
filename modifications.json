@@ -903,6 +903,16 @@
                     1310
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    136000,
+                    147000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     71000,
@@ -981,7 +991,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "366232910334001152": {
         "modification_history": {
