@@ -812,6 +812,16 @@
                     120000
                 ]
             },
+            "scavenger_talisman": {
+                "from": [
+                    200,
+                    200
+                ],
+                "to": [
+                    500,
+                    10000
+                ]
+            },
             "skeleton_talisman": {
                 "from": [
                     500,
@@ -983,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "600698392317788171": {
         "modification_history": {},
