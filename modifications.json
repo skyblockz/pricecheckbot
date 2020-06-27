@@ -65,6 +65,16 @@
                     1000000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "water_hydra_head": {
                 "from": [
                     25000,
@@ -76,7 +86,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "347884694408265729": {
         "modification_history": {},
