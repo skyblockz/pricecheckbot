@@ -382,6 +382,16 @@
                     10000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -473,7 +483,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "600698392317788171": {
         "modification_history": {},
