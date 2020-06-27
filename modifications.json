@@ -922,6 +922,16 @@
                     30000000
                 ]
             },
+            "village_affinity_talisman": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    500,
+                    2500
+                ]
+            },
             "whale_bait": {
                 "from": [
                     750,
@@ -973,7 +983,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "600698392317788171": {
         "modification_history": {},
