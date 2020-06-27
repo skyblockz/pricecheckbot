@@ -652,6 +652,16 @@
                     5000
                 ]
             },
+            "ember_fragment": {
+                "from": [
+                    250,
+                    250
+                ],
+                "to": [
+                    550,
+                    600
+                ]
+            },
             "ember_helmet": {
                 "from": [
                     1000,
@@ -883,7 +893,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "600698392317788171": {
         "modification_history": {},
