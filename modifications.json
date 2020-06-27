@@ -382,6 +382,16 @@
                     900
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     28000,
@@ -500,7 +510,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "540685105513889793": {
         "modification_history": {},
