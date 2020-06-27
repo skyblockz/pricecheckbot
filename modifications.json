@@ -280,6 +280,16 @@
                     10000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    160000,
+                    220000
+                ],
+                "to": [
+                    160000,
+                    200000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     2500,
@@ -341,7 +351,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "600698392317788171": {
         "modification_history": {},
