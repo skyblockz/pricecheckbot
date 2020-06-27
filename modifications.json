@@ -812,6 +812,16 @@
                     120000
                 ]
             },
+            "skeleton_talisman": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    500,
+                    10000
+                ]
+            },
             "solar_panel": {
                 "from": [
                     200000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "600698392317788171": {
         "modification_history": {},
