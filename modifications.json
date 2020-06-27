@@ -422,6 +422,16 @@
                     6
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "lvl_1_legendary_blaze": {
                 "from": [
                     63000000,
@@ -490,7 +500,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "540685105513889793": {
         "modification_history": {},
