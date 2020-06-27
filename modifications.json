@@ -362,6 +362,16 @@
                     30500
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    310000,
+                    350000
+                ],
+                "to": [
+                    200000,
+                    320000
+                ]
+            },
             "pumpkin_minion_xi": {
                 "from": null,
                 "to": [
@@ -370,7 +380,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "540685105513889793": {
         "modification_history": {},
