@@ -195,6 +195,16 @@
                     75000
                 ]
             },
+            "looting_iv": {
+                "from": [
+                    30000,
+                    70000
+                ],
+                "to": [
+                    30000,
+                    80000
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     3500000,
@@ -286,7 +296,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "396545298069061642": {
         "modification_history": {},
