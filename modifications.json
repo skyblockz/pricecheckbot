@@ -815,11 +815,11 @@
             "skeleton_talisman": {
                 "from": [
                     500,
-                    500
+                    10000
                 ],
                 "to": [
                     500,
-                    10000
+                    500
                 ]
             },
             "solar_panel": {
@@ -983,7 +983,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "600698392317788171": {
         "modification_history": {},
