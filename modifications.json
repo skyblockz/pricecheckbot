@@ -118,6 +118,16 @@
     },
     "391726083512467458": {
         "modification_history": {
+            "bat_artifact": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    850000,
+                    1100000
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     3500000,
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "396545298069061642": {
         "modification_history": {},
