@@ -582,6 +582,16 @@
                     450000
                 ]
             },
+            "sunflower": {
+                "from": [
+                    1,
+                    500
+                ],
+                "to": [
+                    5,
+                    200
+                ]
+            },
             "wise_dragon_helmet": {
                 "from": [
                     100000,
@@ -613,7 +623,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "600698392317788171": {
         "modification_history": {},
