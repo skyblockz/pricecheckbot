@@ -742,6 +742,16 @@
                     200000
                 ]
             },
+            "fish_bait": {
+                "from": [
+                    80,
+                    100
+                ],
+                "to": [
+                    70,
+                    120
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     2500,
@@ -943,7 +953,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "600698392317788171": {
         "modification_history": {},
