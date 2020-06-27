@@ -462,6 +462,16 @@
                     50000000
                 ]
             },
+            "oak_wood": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2500,
@@ -530,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "540685105513889793": {
         "modification_history": {},
