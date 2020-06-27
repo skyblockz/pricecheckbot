@@ -352,6 +352,16 @@
                     600000
                 ]
             },
+            "enchanted_acacia_wood": {
+                "from": [
+                    825,
+                    875
+                ],
+                "to": [
+                    750,
+                    865
+                ]
+            },
             "enchanted_birch_wood": {
                 "from": [
                     1050,
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "540685105513889793": {
         "modification_history": {},
