@@ -642,6 +642,16 @@
                     5000
                 ]
             },
+            "ember_helmet": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    3000
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -853,7 +863,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "600698392317788171": {
         "modification_history": {},
