@@ -582,6 +582,16 @@
                     450000
                 ]
             },
+            "spooky_helmet": {
+                "from": [
+                    400000,
+                    650000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
             "sunflower": {
                 "from": [
                     1,
@@ -623,7 +633,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "600698392317788171": {
         "modification_history": {},
