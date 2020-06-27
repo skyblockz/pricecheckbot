@@ -782,6 +782,16 @@
                     180000
                 ]
             },
+            "mine_affinity_talisman": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    3000,
+                    10000
+                ]
+            },
             "saddle": {
                 "from": [
                     70000,
@@ -933,7 +943,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "600698392317788171": {
         "modification_history": {},
