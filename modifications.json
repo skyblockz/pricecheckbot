@@ -372,6 +372,16 @@
                     30500
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    950,
+                    1060
+                ]
+            },
             "healing_ring": {
                 "from": [
                     310000,
@@ -460,7 +470,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "540685105513889793": {
         "modification_history": {},
