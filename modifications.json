@@ -55,6 +55,16 @@
                     600000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "water_hydra_head": {
                 "from": [
                     25000,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "347884694408265729": {
         "modification_history": {},
