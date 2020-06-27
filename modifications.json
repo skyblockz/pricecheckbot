@@ -260,6 +260,16 @@
     },
     "591986139037171712": {
         "modification_history": {
+            "budget_hopper": {
+                "from": [
+                    1000,
+                    3000
+                ],
+                "to": [
+                    5500,
+                    7500
+                ]
+            },
             "compactor": {
                 "from": [
                     5000,
@@ -321,7 +331,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "600698392317788171": {
         "modification_history": {},
