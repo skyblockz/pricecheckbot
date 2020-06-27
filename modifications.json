@@ -282,6 +282,16 @@
                     30
                 ]
             },
+            "catalyst": {
+                "from": [
+                    27000,
+                    30000
+                ],
+                "to": [
+                    27000,
+                    29000
+                ]
+            },
             "enchanted_blaze_powder": {
                 "from": [
                     2600,
@@ -310,7 +320,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "540685105513889793": {
         "modification_history": {},
