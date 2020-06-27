@@ -93,8 +93,19 @@
         "total_mods": 0
     },
     "349682137349357580": {
-        "modification_history": {},
-        "total_mods": 2
+        "modification_history": {
+            "farm_armor_chestplate": {
+                "from": [
+                    85000,
+                    10000
+                ],
+                "to": [
+                    70000,
+                    85000
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "365235844979621898": {
         "modification_history": {},
