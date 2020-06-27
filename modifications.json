@@ -138,6 +138,16 @@
                     6500000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    450000,
+                    650000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5000000,
@@ -149,7 +159,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "396545298069061642": {
         "modification_history": {},
