@@ -1402,6 +1402,16 @@
                     500
                 ]
             },
+            "snow_suit_helmet": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    1000,
+                    50000
+                ]
+            },
             "solar_panel": {
                 "from": [
                     200000,
@@ -1593,7 +1603,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "600698392317788171": {
         "modification_history": {},
