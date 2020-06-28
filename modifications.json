@@ -582,6 +582,16 @@
                     1060
                 ]
             },
+            "gold": {
+                "from": [
+                    14,
+                    16
+                ],
+                "to": [
+                    13,
+                    17
+                ]
+            },
             "healing_ring": {
                 "from": [
                     310000,
@@ -710,7 +720,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "540685105513889793": {
         "modification_history": {},
