@@ -1432,6 +1432,16 @@
                     50000
                 ]
             },
+            "snow_suit_leggings": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    1000,
+                    50000
+                ]
+            },
             "solar_panel": {
                 "from": [
                     200000,
@@ -1623,7 +1633,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "600698392317788171": {
         "modification_history": {},
