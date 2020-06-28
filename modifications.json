@@ -1462,6 +1462,16 @@
                     13500000
                 ]
             },
+            "wolf_tooth": {
+                "from": [
+                    130,
+                    150
+                ],
+                "to": [
+                    130,
+                    170
+                ]
+            },
             "zombie_talisman": {
                 "from": [
                     500,
@@ -1473,7 +1483,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "600698392317788171": {
         "modification_history": {},
