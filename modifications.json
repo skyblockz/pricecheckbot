@@ -799,6 +799,16 @@
                     500000
                 ]
             },
+            "quartz": {
+                "from": [
+                    19,
+                    22
+                ],
+                "to": [
+                    19,
+                    25
+                ]
+            },
             "redstone": {
                 "from": [
                     5,
@@ -850,7 +860,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "540685105513889793": {
         "modification_history": {},
