@@ -872,6 +872,16 @@
                     600
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    37000,
+                    42000
+                ],
+                "to": [
+                    31000,
+                    45000
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -1333,7 +1343,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "600698392317788171": {
         "modification_history": {},
