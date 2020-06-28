@@ -922,6 +922,16 @@
                     180000
                 ]
             },
+            "melon": {
+                "from": [
+                    2,
+                    2
+                ],
+                "to": [
+                    1,
+                    3
+                ]
+            },
             "mine_affinity_talisman": {
                 "from": [
                     2500,
@@ -1193,7 +1203,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "600698392317788171": {
         "modification_history": {},
