@@ -962,6 +962,16 @@
                     6300000
                 ]
             },
+            "potato": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "replenish_i": {
                 "from": [
                     2000000,
@@ -1173,7 +1183,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "600698392317788171": {
         "modification_history": {},
