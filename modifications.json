@@ -992,6 +992,16 @@
                     5
                 ]
             },
+            "red_mushroom": {
+                "from": [
+                    25,
+                    27
+                ],
+                "to": [
+                    24,
+                    30
+                ]
+            },
             "replenish_i": {
                 "from": [
                     2000000,
@@ -1203,7 +1213,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "600698392317788171": {
         "modification_history": {},
