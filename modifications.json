@@ -872,6 +872,16 @@
                     200000
                 ]
             },
+            "feather": {
+                "from": [
+                    2,
+                    4
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "fish_bait": {
                 "from": [
                     80,
@@ -1233,7 +1243,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "600698392317788171": {
         "modification_history": {},
