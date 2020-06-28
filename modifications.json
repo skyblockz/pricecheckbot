@@ -422,6 +422,16 @@
                     13
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    4,
+                    7
+                ]
+            },
             "emerald_armor_boots": {
                 "from": [
                     350000,
@@ -780,7 +790,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "540685105513889793": {
         "modification_history": {},
