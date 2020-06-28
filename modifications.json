@@ -502,6 +502,16 @@
                     74000
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    2500,
+                    2600
+                ],
+                "to": [
+                    2350,
+                    2450
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     950000,
@@ -720,7 +730,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "540685105513889793": {
         "modification_history": {},
