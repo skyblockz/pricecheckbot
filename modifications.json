@@ -1183,6 +1183,16 @@
                     7500
                 ]
             },
+            "cactus_chestplate": {
+                "from": [
+                    24,
+                    32
+                ],
+                "to": [
+                    40,
+                    40
+                ]
+            },
             "cactus_helmet": {
                 "from": [
                     15,
@@ -1974,7 +1984,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "600698392317788171": {
         "modification_history": {},
