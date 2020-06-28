@@ -852,6 +852,16 @@
                     4000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    43,
+                    63
+                ]
+            },
             "enchanted_eye_of_ender": {
                 "from": [
                     4500,
@@ -1303,7 +1313,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "600698392317788171": {
         "modification_history": {},
