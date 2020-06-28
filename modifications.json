@@ -107,6 +107,16 @@
                     1200000
                 ]
             },
+            "rod_of_legends": {
+                "from": [
+                    4000000,
+                    4250000
+                ],
+                "to": [
+                    3750000,
+                    4100000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     550000,
@@ -158,7 +168,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "347884694408265729": {
         "modification_history": {},
