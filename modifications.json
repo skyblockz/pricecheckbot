@@ -137,6 +137,16 @@
                     600000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    290000,
+                    320000
+                ],
+                "to": [
+                    295000,
+                    330000
+                ]
+            },
             "water_hydra_head": {
                 "from": [
                     25000,
@@ -148,7 +158,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "347884694408265729": {
         "modification_history": {},
