@@ -265,6 +265,16 @@
                     230000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    250000,
+                    280000
+                ],
+                "to": [
+                    250000,
+                    270000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     228000,
@@ -286,7 +296,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "376795578820198421": {
         "modification_history": {},
