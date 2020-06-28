@@ -1183,6 +1183,16 @@
                     7500
                 ]
             },
+            "cactus_boots": {
+                "from": [
+                    12,
+                    16
+                ],
+                "to": [
+                    20,
+                    20
+                ]
+            },
             "cactus_chestplate": {
                 "from": [
                     24,
@@ -1994,7 +2004,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "600698392317788171": {
         "modification_history": {},
