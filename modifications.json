@@ -325,6 +325,16 @@
                     285000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    116000,
+                    119000
+                ],
+                "to": [
+                    105000,
+                    110000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     470000,
@@ -336,7 +346,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "376795578820198421": {
         "modification_history": {},
