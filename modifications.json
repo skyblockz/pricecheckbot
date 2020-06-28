@@ -972,6 +972,16 @@
                     4
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "replenish_i": {
                 "from": [
                     2000000,
@@ -1183,7 +1193,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "600698392317788171": {
         "modification_history": {},
