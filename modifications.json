@@ -315,6 +315,16 @@
                     7000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    265000,
+                    295000
+                ],
+                "to": [
+                    270000,
+                    285000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     470000,
@@ -326,7 +336,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "376795578820198421": {
         "modification_history": {},
