@@ -1172,6 +1172,16 @@
                     120
                 ]
             },
+            "fish_hat": {
+                "from": [
+                    200,
+                    240
+                ],
+                "to": [
+                    20,
+                    200
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     2500,
@@ -1653,7 +1663,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "600698392317788171": {
         "modification_history": {},
