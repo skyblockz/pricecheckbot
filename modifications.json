@@ -602,6 +602,16 @@
                     6
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    6
+                ],
+                "to": [
+                    6,
+                    9
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     7,
@@ -700,7 +710,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "540685105513889793": {
         "modification_history": {},
