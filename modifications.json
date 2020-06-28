@@ -412,6 +412,16 @@
                     29000
                 ]
             },
+            "coal": {
+                "from": [
+                    12,
+                    13
+                ],
+                "to": [
+                    9,
+                    13
+                ]
+            },
             "emerald_armor_boots": {
                 "from": [
                     350000,
@@ -740,7 +750,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "540685105513889793": {
         "modification_history": {},
