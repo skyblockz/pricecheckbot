@@ -1362,6 +1362,16 @@
                     10000
                 ]
             },
+            "silver_fang": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    3000,
+                    8000
+                ]
+            },
             "skeleton_talisman": {
                 "from": [
                     500,
@@ -1563,7 +1573,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "600698392317788171": {
         "modification_history": {},
