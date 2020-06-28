@@ -1573,6 +1573,16 @@
                     5
                 ]
             },
+            "pumpkin_chestplate": {
+                "from": [
+                    40,
+                    40
+                ],
+                "to": [
+                    32,
+                    32
+                ]
+            },
             "pumpkin_helmet": {
                 "from": [
                     25,
@@ -1934,7 +1944,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "600698392317788171": {
         "modification_history": {},
