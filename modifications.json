@@ -1372,6 +1372,16 @@
                     5
                 ]
             },
+            "rainbow_rune_i": {
+                "from": [
+                    20000,
+                    50000
+                ],
+                "to": [
+                    25000,
+                    100000
+                ]
+            },
             "raw_chicken": {
                 "from": [
                     9,
@@ -1713,7 +1723,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "600698392317788171": {
         "modification_history": {},
