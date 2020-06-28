@@ -789,6 +789,16 @@
                     500000
                 ]
             },
+            "redstone": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     450000,
@@ -830,7 +840,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "540685105513889793": {
         "modification_history": {},
