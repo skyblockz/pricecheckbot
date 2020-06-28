@@ -502,6 +502,16 @@
                     74000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    950000,
+                    1050000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     600,
@@ -670,7 +680,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "540685105513889793": {
         "modification_history": {},
