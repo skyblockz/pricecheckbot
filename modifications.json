@@ -972,6 +972,16 @@
                     10000
                 ]
             },
+            "mutton": {
+                "from": [
+                    16,
+                    20
+                ],
+                "to": [
+                    16,
+                    19
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     1100000,
@@ -1273,7 +1283,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "600698392317788171": {
         "modification_history": {},
