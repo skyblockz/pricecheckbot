@@ -187,6 +187,16 @@
                     15000
                 ]
             },
+            "wise_dragon_boots": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    180000
+                ]
+            },
             "zombie_artifact": {
                 "from": [
                     1100000,
@@ -198,7 +208,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "347884694408265729": {
         "modification_history": {},
