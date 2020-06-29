@@ -934,6 +934,16 @@
                     720
                 ]
             },
+            "enchanted_sand": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     1000,
@@ -1162,7 +1172,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "540685105513889793": {
         "modification_history": {
