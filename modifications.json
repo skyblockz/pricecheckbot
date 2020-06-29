@@ -587,6 +587,16 @@
                     6
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    295000,
+                    330000
+                ],
+                "to": [
+                    280000,
+                    320000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     500000,
@@ -618,7 +628,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "396545298069061642": {
         "modification_history": {},
