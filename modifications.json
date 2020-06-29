@@ -1115,8 +1115,19 @@
         "total_mods": 56
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 4
+        "modification_history": {
+            "lvl_1_legendary_pig": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    900000,
+                    1300000
+                ]
+            }
+        },
+        "total_mods": 5
     },
     "550337381128208396": {
         "modification_history": {},
