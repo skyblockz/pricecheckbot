@@ -1875,6 +1875,16 @@
                     4
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    29000,
+                    33000
+                ],
+                "to": [
+                    34000,
+                    36000
+                ]
+            },
             "saddle": {
                 "from": [
                     70000,
@@ -2196,7 +2206,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "600698392317788171": {
         "modification_history": {},
