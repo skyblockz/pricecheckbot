@@ -537,6 +537,16 @@
                     6
                 ]
             },
+            "vampire_mask": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    600000,
+                    900000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     100000,
@@ -558,7 +568,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "396545298069061642": {
         "modification_history": {},
