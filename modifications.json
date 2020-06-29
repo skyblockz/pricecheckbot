@@ -1101,6 +1101,16 @@
                     5
                 ]
             },
+            "sand": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    10,
+                    24
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     450000,
@@ -1142,7 +1152,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "540685105513889793": {
         "modification_history": {
