@@ -305,6 +305,16 @@
                     270000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    71000,
+                    74000
+                ],
+                "to": [
+                    71000,
+                    77000
+                ]
+            },
             "enchanted_emerald_block": {
                 "from": [
                     170000,
@@ -386,7 +396,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "376795578820198421": {
         "modification_history": {},
