@@ -1535,6 +1535,16 @@
                     4700
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    457000,
+                    466000
+                ],
+                "to": [
+                    423000,
+                    433000
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     450,
@@ -2226,7 +2236,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "600698392317788171": {
         "modification_history": {},
