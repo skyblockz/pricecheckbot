@@ -2055,6 +2055,16 @@
                     520000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "textbook": {
                 "from": [
                     300000,
@@ -2166,7 +2176,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "600698392317788171": {
         "modification_history": {},
