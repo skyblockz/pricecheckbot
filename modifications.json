@@ -477,6 +477,16 @@
                     400
                 ]
             },
+            "dark_oak_wood": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     5600,
@@ -698,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "396545298069061642": {
         "modification_history": {},
