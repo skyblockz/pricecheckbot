@@ -2025,6 +2025,16 @@
                     5
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    585000,
+                    595000
+                ],
+                "to": [
+                    600000,
+                    601000
+                ]
+            },
             "sunflower": {
                 "from": [
                     1,
@@ -2156,7 +2166,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "600698392317788171": {
         "modification_history": {},
