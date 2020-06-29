@@ -517,6 +517,16 @@
                     6500000
                 ]
             },
+            "protector_dragon_chestplate": {
+                "from": [
+                    100000,
+                    160000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     40000,
@@ -638,7 +648,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "396545298069061642": {
         "modification_history": {},
