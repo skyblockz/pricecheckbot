@@ -1595,6 +1595,16 @@
                     200
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    105000,
+                    115000
+                ],
+                "to": [
+                    99000,
+                    103000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     2500,
@@ -2206,7 +2216,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "600698392317788171": {
         "modification_history": {},
