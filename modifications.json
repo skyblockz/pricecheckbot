@@ -498,6 +498,16 @@
                     4
                 ]
             },
+            "enchanted_melon": {
+                "from": [
+                    200,
+                    200
+                ],
+                "to": [
+                    170,
+                    200
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     5600,
@@ -719,7 +729,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "396545298069061642": {
         "modification_history": {},
