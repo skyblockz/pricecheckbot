@@ -944,6 +944,16 @@
                     1060
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    200000,
+                    230000
+                ],
+                "to": [
+                    198000,
+                    215000
+                ]
+            },
             "flint": {
                 "from": [
                     19,
@@ -1122,7 +1132,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "540685105513889793": {
         "modification_history": {
