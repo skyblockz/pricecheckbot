@@ -794,6 +794,16 @@
                     220000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    720,
+                    800
+                ],
+                "to": [
+                    650,
+                    850
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     120000,
@@ -1172,7 +1182,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "540685105513889793": {
         "modification_history": {
