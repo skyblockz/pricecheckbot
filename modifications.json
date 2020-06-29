@@ -315,6 +315,16 @@
                     225000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    125000,
+                    135000
+                ],
+                "to": [
+                    130000,
+                    150000
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     6700,
@@ -356,7 +366,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "376795578820198421": {
         "modification_history": {},
