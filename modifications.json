@@ -567,6 +567,16 @@
                     500000
                 ]
             },
+            "sponge": {
+                "from": [
+                    130,
+                    150
+                ],
+                "to": [
+                    130,
+                    140
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     19000000,
@@ -648,7 +658,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "396545298069061642": {
         "modification_history": {},
