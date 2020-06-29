@@ -467,6 +467,16 @@
                     25000
                 ]
             },
+            "dark_bait": {
+                "from": [
+                    250,
+                    350
+                ],
+                "to": [
+                    340,
+                    400
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     5600,
@@ -688,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "396545298069061642": {
         "modification_history": {},
