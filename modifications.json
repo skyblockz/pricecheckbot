@@ -467,6 +467,16 @@
                     25000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    5600,
+                    6700
+                ],
+                "to": [
+                    5600,
+                    6400
+                ]
+            },
             "ender_leggings": {
                 "from": [
                     10000,
@@ -658,7 +668,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "396545298069061642": {
         "modification_history": {},
