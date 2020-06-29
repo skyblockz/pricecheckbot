@@ -1865,6 +1865,16 @@
                     1400000
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    6,
+                    9
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "saddle": {
                 "from": [
                     70000,
@@ -2186,7 +2196,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "600698392317788171": {
         "modification_history": {},
