@@ -63,6 +63,16 @@
                     190000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "ice": {
                 "from": [
                     4,
@@ -94,7 +104,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "310369675987124225": {
         "modification_history": {
