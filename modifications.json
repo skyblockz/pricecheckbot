@@ -577,6 +577,16 @@
                     1000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    245000,
+                    260000
+                ],
+                "to": [
+                    220000,
+                    250000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     470000,
@@ -588,7 +598,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "376795578820198421": {
         "modification_history": {},
