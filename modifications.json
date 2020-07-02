@@ -1888,6 +1888,16 @@
                     1950
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    105000,
+                    119000
+                ],
+                "to": [
+                    100000,
+                    105000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     800,
@@ -1979,7 +1989,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "550337381128208396": {
         "modification_history": {},
