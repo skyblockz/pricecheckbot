@@ -253,6 +253,16 @@
                     1200000
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    40,
+                    50
+                ],
+                "to": [
+                    20,
+                    30
+                ]
+            },
             "spruce_wood": {
                 "from": [
                     6,
@@ -274,7 +284,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "310369675987124225": {
         "modification_history": {
