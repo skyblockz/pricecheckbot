@@ -175,12 +175,12 @@
             },
             "enchanted_pufferfish": {
                 "from": [
-                    4000,
-                    5000
-                ],
-                "to": [
                     2000,
                     3000
+                ],
+                "to": [
+                    3000,
+                    4000
                 ]
             },
             "enchanted_raw_fish": {
@@ -294,7 +294,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "310369675987124225": {
         "modification_history": {
