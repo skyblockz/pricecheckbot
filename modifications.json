@@ -2698,6 +2698,16 @@
                     175000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    423000,
+                    433000
+                ],
+                "to": [
+                    397000,
+                    403000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     130000,
@@ -2769,7 +2779,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "640849699297034250": {
         "modification_history": {},
