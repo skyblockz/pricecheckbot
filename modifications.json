@@ -153,6 +153,16 @@
                     1200000
                 ]
             },
+            "spruce_wood": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     600000,
@@ -164,7 +174,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "310369675987124225": {
         "modification_history": {
