@@ -2728,6 +2728,16 @@
                     260000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    34000,
+                    36000
+                ],
+                "to": [
+                    40000,
+                    45000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     500000,
@@ -2749,7 +2759,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "640849699297034250": {
         "modification_history": {},
