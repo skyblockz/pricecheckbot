@@ -1897,9 +1897,19 @@
                     900000,
                     1300000
                 ]
+            },
+            "packed_ice": {
+                "from": [
+                    41,
+                    43
+                ],
+                "to": [
+                    92,
+                    100
+                ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "550337381128208396": {
         "modification_history": {},
