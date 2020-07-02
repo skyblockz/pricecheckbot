@@ -2648,6 +2648,16 @@
                     245000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    250000,
+                    270000
+                ],
+                "to": [
+                    270000,
+                    280000
+                ]
+            },
             "enchanted_firework_rocket": {
                 "from": [
                     225000,
@@ -2739,7 +2749,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "640849699297034250": {
         "modification_history": {},
