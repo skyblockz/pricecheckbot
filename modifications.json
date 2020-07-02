@@ -2618,6 +2618,16 @@
     },
     "626467774310383659": {
         "modification_history": {
+            "bat_talisman": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    25000,
+                    150000
+                ]
+            },
             "enchanted_cactus": {
                 "from": [
                     160000,
@@ -2869,7 +2879,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "640849699297034250": {
         "modification_history": {},
