@@ -2788,6 +2788,16 @@
                     260000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    80000,
+                    85000
+                ],
+                "to": [
+                    85000,
+                    90000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     34000,
@@ -2829,7 +2839,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "640849699297034250": {
         "modification_history": {},
