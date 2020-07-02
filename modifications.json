@@ -2808,6 +2808,16 @@
                     90000
                 ]
             },
+            "revenant_leggings": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    5000,
+                    100000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     34000,
@@ -2859,7 +2869,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "640849699297034250": {
         "modification_history": {},
