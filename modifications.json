@@ -647,6 +647,16 @@
                     5800
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    90000,
+                    111000
+                ],
+                "to": [
+                    92000,
+                    100000
+                ]
+            },
             "enchanted_glowstone_dust": {
                 "from": [
                     1000,
@@ -838,7 +848,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "365235844979621898": {
         "modification_history": {
