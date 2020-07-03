@@ -662,6 +662,16 @@
                     180000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    210000,
+                    225000
+                ],
+                "to": [
+                    240000,
+                    260000
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     131000,
@@ -753,7 +763,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "366232910334001152": {
         "modification_history": {
