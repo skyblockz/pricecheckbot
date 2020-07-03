@@ -966,6 +966,16 @@
                     300000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    198000,
+                    215000
+                ],
+                "to": [
+                    200000,
+                    205000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     67500000,
@@ -1007,7 +1017,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "390661701046894592": {
         "modification_history": {},
