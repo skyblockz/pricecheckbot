@@ -438,6 +438,16 @@
                     50000
                 ]
             },
+            "lvl_1_legendary_chicken": {
+                "from": [
+                    700000,
+                    1200000
+                ],
+                "to": [
+                    650000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_flying_fish": {
                 "from": [
                     1250000,
@@ -569,7 +579,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "347884694408265729": {
         "modification_history": {},
