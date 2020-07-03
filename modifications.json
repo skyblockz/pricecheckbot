@@ -712,6 +712,16 @@
                     260000
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    183000,
+                    204000
+                ],
+                "to": [
+                    170000,
+                    180000
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     131000,
@@ -823,7 +833,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "366232910334001152": {
         "modification_history": {
