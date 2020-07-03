@@ -672,6 +672,16 @@
                     3600
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    535000,
+                    590000
+                ],
+                "to": [
+                    511000,
+                    590000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     210000,
@@ -783,7 +793,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "366232910334001152": {
         "modification_history": {
