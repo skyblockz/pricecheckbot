@@ -932,6 +932,16 @@
                     17500000
                 ]
             },
+            "tarantula_silk": {
+                "from": [
+                    102000,
+                    106000
+                ],
+                "to": [
+                    87000,
+                    95000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     12500000,
@@ -943,7 +953,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "366232910334001152": {
         "modification_history": {
