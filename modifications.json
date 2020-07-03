@@ -597,6 +597,16 @@
                     3500000
                 ]
             },
+            "carrot": {
+                "from": [
+                    3,
+                    6
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "cocoa_beans": {
                 "from": [
                     4,
@@ -688,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "365235844979621898": {
         "modification_history": {
