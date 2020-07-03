@@ -393,6 +393,16 @@
                     15000000
                 ]
             },
+            "smite_vi": {
+                "from": [
+                    35000,
+                    45000
+                ],
+                "to": [
+                    10000,
+                    50000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     150000,
@@ -404,7 +414,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "334763167391416322": {
         "modification_history": {
