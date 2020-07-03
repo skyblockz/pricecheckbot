@@ -1488,12 +1488,12 @@
             },
             "enchanted_gold_block": {
                 "from": [
-                    110000,
-                    120000
-                ],
-                "to": [
                     107000,
                     117000
+                ],
+                "to": [
+                    105000,
+                    111000
                 ]
             },
             "enchanted_hopper": {
@@ -1984,7 +1984,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "540685105513889793": {
         "modification_history": {
