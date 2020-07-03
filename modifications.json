@@ -627,6 +627,16 @@
                     4
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    395000,
+                    430000
+                ],
+                "to": [
+                    429000,
+                    450000
+                ]
+            },
             "enchanted_glowstone_dust": {
                 "from": [
                     1000,
@@ -808,7 +818,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "365235844979621898": {
         "modification_history": {
