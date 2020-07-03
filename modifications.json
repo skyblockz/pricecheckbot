@@ -617,6 +617,16 @@
                     4
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    75000,
+                    80000
+                ],
+                "to": [
+                    71000,
+                    79000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     24000,
@@ -718,7 +728,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "365235844979621898": {
         "modification_history": {
