@@ -2377,6 +2377,16 @@
                     100000
                 ]
             },
+            "birch_wood": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "blaze_boots": {
                 "from": [
                     1500000,
@@ -3368,7 +3378,7 @@
                 ]
             }
         },
-        "total_mods": 108
+        "total_mods": 109
     },
     "600698392317788171": {
         "modification_history": {},
