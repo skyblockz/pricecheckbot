@@ -2847,6 +2847,16 @@
                     1568000
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "leather": {
                 "from": [
                     25,
@@ -3438,7 +3448,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "600698392317788171": {
         "modification_history": {},
