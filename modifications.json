@@ -712,6 +712,16 @@
                     83000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    200000,
+                    205000
+                ],
+                "to": [
+                    200000,
+                    220000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     15000000,
@@ -793,7 +803,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "366232910334001152": {
         "modification_history": {
