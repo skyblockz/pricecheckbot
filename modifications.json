@@ -1466,6 +1466,16 @@
                     111000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    225000,
+                    235000
+                ],
+                "to": [
+                    130000,
+                    200000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     3150,
@@ -2034,7 +2044,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "540685105513889793": {
         "modification_history": {
