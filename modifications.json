@@ -1686,6 +1686,16 @@
                     17
                 ]
             },
+            "green_candy": {
+                "from": [
+                    1000,
+                    1200
+                ],
+                "to": [
+                    1200,
+                    1350
+                ]
+            },
             "healing_ring": {
                 "from": [
                     310000,
@@ -1934,7 +1944,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "540685105513889793": {
         "modification_history": {
