@@ -1006,6 +1006,16 @@
                     1900
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    11200,
+                    12846
+                ],
+                "to": [
+                    12000,
+                    14000
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     46000,
@@ -1087,7 +1097,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "390661701046894592": {
         "modification_history": {},
