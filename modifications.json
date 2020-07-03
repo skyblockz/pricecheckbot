@@ -1006,6 +1006,16 @@
                     1900
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    46000,
+                    55000
+                ],
+                "to": [
+                    19000,
+                    22000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     71000,
@@ -1077,7 +1087,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "390661701046894592": {
         "modification_history": {},
