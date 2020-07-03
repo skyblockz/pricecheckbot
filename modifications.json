@@ -652,6 +652,16 @@
                     2800
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    180000,
+                    198000
+                ],
+                "to": [
+                    170000,
+                    180000
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     131000,
@@ -743,7 +753,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "366232910334001152": {
         "modification_history": {
