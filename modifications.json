@@ -662,6 +662,16 @@
                     180000
                 ]
             },
+            "enchanted_clownfish": {
+                "from": [
+                    3000,
+                    3500
+                ],
+                "to": [
+                    3100,
+                    3600
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     210000,
@@ -773,7 +783,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "366232910334001152": {
         "modification_history": {
