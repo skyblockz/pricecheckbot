@@ -732,6 +732,16 @@
                     180000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    270000,
+                    285000
+                ],
+                "to": [
+                    225000,
+                    250000
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     131000,
@@ -853,7 +863,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "366232910334001152": {
         "modification_history": {
