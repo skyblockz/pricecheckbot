@@ -637,6 +637,16 @@
                     450000
                 ]
             },
+            "enchanted_cake": {
+                "from": [
+                    4000,
+                    6000
+                ],
+                "to": [
+                    2300,
+                    5800
+                ]
+            },
             "enchanted_glowstone_dust": {
                 "from": [
                     1000,
@@ -818,7 +828,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "365235844979621898": {
         "modification_history": {
