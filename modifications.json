@@ -438,6 +438,16 @@
                     50000
                 ]
             },
+            "lvl_1_legendary_flying_fish": {
+                "from": [
+                    1250000,
+                    1750000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "red_claw_ring": {
                 "from": [
                     800000,
@@ -559,7 +569,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "347884694408265729": {
         "modification_history": {},
