@@ -1806,6 +1806,16 @@
                     7200
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    62,
+                    72
+                ],
+                "to": [
+                    40,
+                    80
+                ]
+            },
             "healing_ring": {
                 "from": [
                     310000,
@@ -2094,7 +2104,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "540685105513889793": {
         "modification_history": {
