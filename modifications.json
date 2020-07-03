@@ -1066,6 +1066,16 @@
                     205000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    80000,
+                    85000
+                ],
+                "to": [
+                    90000,
+                    90000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     67500000,
@@ -1117,7 +1127,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "390661701046894592": {
         "modification_history": {},
