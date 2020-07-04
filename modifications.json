@@ -59,6 +59,16 @@
                     1000000
                 ]
             },
+            "mastiff_leggings": {
+                "from": [
+                    600000,
+                    800000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "power_vi": {
                 "from": [
                     4500000,
@@ -80,7 +90,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "308262271262654464": {
         "modification_history": {},
