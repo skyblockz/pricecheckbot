@@ -176,6 +176,16 @@
                     7000000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    125000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     4500000,
@@ -237,7 +247,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "308262271262654464": {
         "modification_history": {},
