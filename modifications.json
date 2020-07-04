@@ -19,6 +19,16 @@
                     190000
                 ]
             },
+            "lvl_1_epic_golem": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    850000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_tiger": {
                 "from": [
                     14000000,
@@ -40,7 +50,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "308262271262654464": {
         "modification_history": {},
