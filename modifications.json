@@ -176,6 +176,16 @@
                     7000000
                 ]
             },
+            "rare_combat_exp_boost": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     4250000,
@@ -267,7 +277,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "308262271262654464": {
         "modification_history": {},
