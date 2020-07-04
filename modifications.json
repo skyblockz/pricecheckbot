@@ -29,6 +29,16 @@
                     190000
                 ]
             },
+            "bat_the_fish": {
+                "from": [
+                    500,
+                    575
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "lvl_100_epic_tiger": {
                 "from": null,
                 "to": [
@@ -247,7 +257,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "308262271262654464": {
         "modification_history": {},
