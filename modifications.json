@@ -39,6 +39,16 @@
                     15000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    7500,
+                    20000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "lvl_100_epic_tiger": {
                 "from": null,
                 "to": [
@@ -257,7 +267,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "308262271262654464": {
         "modification_history": {},
