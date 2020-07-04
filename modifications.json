@@ -106,6 +106,16 @@
                     1000000
                 ]
             },
+            "lvl_1_epic_sheep": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    1700000,
+                    2000000
+                ]
+            },
             "lvl_1_legendary_blue_whale": {
                 "from": [
                     18500000,
@@ -297,7 +307,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "308262271262654464": {
         "modification_history": {},
