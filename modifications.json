@@ -59,6 +59,16 @@
                     1000000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    550000,
+                    750000
+                ],
+                "to": [
+                    750000,
+                    850000
+                ]
+            },
             "mastiff_leggings": {
                 "from": [
                     600000,
@@ -90,7 +100,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "308262271262654464": {
         "modification_history": {},
