@@ -397,6 +397,16 @@
                     14000
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    152000,
+                    154000
+                ],
+                "to": [
+                    130000,
+                    154000
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     200000,
@@ -418,7 +428,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "383791723945394176": {
         "modification_history": {},
