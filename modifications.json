@@ -387,6 +387,16 @@
                     250000
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    13000,
+                    14000
+                ],
+                "to": [
+                    9000,
+                    14000
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     200000,
@@ -408,7 +418,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "383791723945394176": {
         "modification_history": {},
