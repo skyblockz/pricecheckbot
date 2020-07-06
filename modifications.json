@@ -313,6 +313,16 @@
                     6
                 ]
             },
+            "enchanted_birch_wood": {
+                "from": [
+                    930,
+                    1000
+                ],
+                "to": [
+                    840,
+                    900
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     1800,
@@ -364,7 +374,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "310369675987124225": {
         "modification_history": {},
