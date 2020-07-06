@@ -326,8 +326,19 @@
         "total_mods": 0
     },
     "366232910334001152": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_wet_sponge": {
+                "from": [
+                    200000,
+                    220000
+                ],
+                "to": [
+                    160000,
+                    220000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "383791723945394176": {
         "modification_history": {},
