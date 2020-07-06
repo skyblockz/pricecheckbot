@@ -383,6 +383,16 @@
                     1300
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    5,
+                    5
+                ]
+            },
             "oak_wood": {
                 "from": [
                     5,
@@ -404,7 +414,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "310369675987124225": {
         "modification_history": {},
