@@ -343,6 +343,16 @@
                     900
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    220000,
+                    230000
+                ],
+                "to": [
+                    201000,
+                    230000
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     347,
@@ -464,7 +474,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "310369675987124225": {
         "modification_history": {},
