@@ -325,12 +325,12 @@
             },
             "enchanted_ice": {
                 "from": [
-                    1800,
-                    1900
-                ],
-                "to": [
                     840,
                     900
+                ],
+                "to": [
+                    1530,
+                    1630
                 ]
             },
             "enchanted_oak_wood": {
@@ -374,7 +374,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "310369675987124225": {
         "modification_history": {},
