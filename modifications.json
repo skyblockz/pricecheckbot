@@ -347,6 +347,16 @@
                     1100
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    240000,
+                    260000
+                ],
+                "to": [
+                    230000,
+                    250000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     31000,
@@ -398,7 +408,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "383791723945394176": {
         "modification_history": {},
