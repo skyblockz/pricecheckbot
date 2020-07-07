@@ -343,6 +343,16 @@
                     900
                 ]
             },
+            "enchanted_charcoal": {
+                "from": [
+                    1750,
+                    2300
+                ],
+                "to": [
+                    1750,
+                    1750
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     1300,
@@ -494,7 +504,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "310369675987124225": {
         "modification_history": {},
