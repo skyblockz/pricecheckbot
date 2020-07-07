@@ -761,6 +761,16 @@
                     9300
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    28000,
+                    34000
+                ],
+                "to": [
+                    32500,
+                    42000
+                ]
+            },
             "enchanted_melon": {
                 "from": [
                     165,
@@ -972,7 +982,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "591986139037171712": {
         "modification_history": {},
