@@ -393,6 +393,16 @@
                     345
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    1800,
+                    2100
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     840,
@@ -524,7 +534,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "310369675987124225": {
         "modification_history": {},
