@@ -343,6 +343,16 @@
                     900
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    820,
+                    900
+                ],
+                "to": [
+                    870,
+                    880
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     201000,
@@ -474,7 +484,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "310369675987124225": {
         "modification_history": {},
