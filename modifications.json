@@ -801,6 +801,16 @@
                     640
                 ]
             },
+            "enchanted_raw_fish": {
+                "from": [
+                    3300,
+                    3600
+                ],
+                "to": [
+                    2900,
+                    3100
+                ]
+            },
             "enchanted_red_mushroom": {
                 "from": [
                     4150,
@@ -932,7 +942,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "591986139037171712": {
         "modification_history": {},
