@@ -91700,9 +91700,9 @@
         "show_footer": true
     },
     "459694622382358538": {
-        "receive_updates": true,
+        "receive_updates": false,
         "show_debug": false,
-        "show_footer": true
+        "show_footer": false
     },
     "459708198035652611": {
         "receive_updates": true,
@@ -92610,6 +92610,11 @@
         "show_footer": true
     },
     "462704005483855885": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "462707392518553611": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
