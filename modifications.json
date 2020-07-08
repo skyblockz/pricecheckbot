@@ -852,12 +852,12 @@
             },
             "enchanted_packed_ice": {
                 "from": [
-                    250000,
-                    270000
-                ],
-                "to": [
                     240000,
                     250000
+                ],
+                "to": [
+                    350000,
+                    375000
                 ]
             },
             "enchanted_rabbit_hide": {
@@ -911,7 +911,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "383791723945394176": {
         "modification_history": {},
