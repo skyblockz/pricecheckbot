@@ -792,12 +792,12 @@
             },
             "enchanted_end_stone": {
                 "from": [
-                    650,
-                    850
-                ],
-                "to": [
                     850,
                     1100
+                ],
+                "to": [
+                    600,
+                    670
                 ]
             },
             "enchanted_grilled_pork": {
@@ -911,7 +911,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "383791723945394176": {
         "modification_history": {},
