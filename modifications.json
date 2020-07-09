@@ -2437,6 +2437,16 @@
                     29
                 ]
             },
+            "redstone": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     1,
@@ -2608,7 +2618,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "591986139037171712": {
         "modification_history": {
