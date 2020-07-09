@@ -532,6 +532,16 @@
                     13
                 ]
             },
+            "snow_block": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    6,
+                    6
+                ]
+            },
             "snow_minion_i": {
                 "from": [
                     125000,
@@ -763,7 +773,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "308262271262654464": {
         "modification_history": {
