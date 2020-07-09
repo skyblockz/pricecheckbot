@@ -3283,6 +3283,16 @@
                     4
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    13,
+                    15
+                ],
+                "to": [
+                    9,
+                    14
+                ]
+            },
             "ink_sack": {
                 "from": [
                     600,
@@ -3454,7 +3464,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "608358478712537110": {
         "modification_history": {},
