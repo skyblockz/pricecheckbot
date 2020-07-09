@@ -3303,6 +3303,16 @@
                     10
                 ]
             },
+            "spruce_wood": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    3,
+                    6
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     400000,
@@ -3384,7 +3394,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "608358478712537110": {
         "modification_history": {},
