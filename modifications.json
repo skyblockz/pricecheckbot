@@ -1530,6 +1530,16 @@
                     450000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1300000,
+                    1600000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     48750,
@@ -1641,7 +1651,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "366232910334001152": {
         "modification_history": {
