@@ -1540,6 +1540,16 @@
                     11500000
                 ]
             },
+            "personal_compactor_5000": {
+                "from": [
+                    2500000,
+                    2600000
+                ],
+                "to": [
+                    1900000,
+                    2100000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5200000,
@@ -1551,7 +1561,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "366232910334001152": {
         "modification_history": {
