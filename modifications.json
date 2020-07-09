@@ -1460,6 +1460,16 @@
     },
     "365235844979621898": {
         "modification_history": {
+            "bat_talisman": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     48750,
@@ -1481,7 +1491,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "366232910334001152": {
         "modification_history": {
