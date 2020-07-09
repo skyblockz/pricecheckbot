@@ -405,6 +405,16 @@
                     7000000
                 ]
             },
+            "red_gift": {
+                "from": [
+                    38000,
+                    40000
+                ],
+                "to": [
+                    34000,
+                    37000
+                ]
+            },
             "reforge_anvil": {
                 "from": null,
                 "to": [
@@ -633,7 +643,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "308262271262654464": {
         "modification_history": {
