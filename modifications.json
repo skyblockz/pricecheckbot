@@ -1305,6 +1305,16 @@
                     435000
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    800,
+                    1100
+                ],
+                "to": [
+                    900,
+                    1050
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     2500,
@@ -1466,7 +1476,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "365235844979621898": {
         "modification_history": {
