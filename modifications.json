@@ -711,6 +711,16 @@
                     9500
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1100,
+                    1150
+                ],
+                "to": [
+                    1050,
+                    950
+                ]
+            },
             "enchanted_raw_fish": {
                 "from": [
                     2900,
@@ -782,7 +792,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "365235844979621898": {
         "modification_history": {},
