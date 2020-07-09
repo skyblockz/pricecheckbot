@@ -3047,6 +3047,16 @@
                     10
                 ]
             },
+            "sponge": {
+                "from": [
+                    120,
+                    140
+                ],
+                "to": [
+                    100,
+                    120
+                ]
+            },
             "spruce_wood": {
                 "from": [
                     8,
@@ -3178,7 +3188,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "591986139037171712": {
         "modification_history": {
