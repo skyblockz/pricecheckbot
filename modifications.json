@@ -111,6 +111,16 @@
                     90000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1300,
+                    1500
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "ender_boots": {
                 "from": [
                     10000,
@@ -743,7 +753,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "308262271262654464": {
         "modification_history": {
