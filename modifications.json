@@ -178,6 +178,16 @@
                     11000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    21600
+                ],
+                "to": [
+                    29000,
+                    32000
+                ]
+            },
             "healing_ring": {
                 "from": [
                     200000,
@@ -653,7 +663,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "308262271262654464": {
         "modification_history": {
