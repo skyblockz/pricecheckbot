@@ -108,6 +108,16 @@
                     15000
                 ]
             },
+            "healing_talisman": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "lvl_100_epic_tiger": {
                 "from": null,
                 "to": [
@@ -423,7 +433,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "308262271262654464": {
         "modification_history": {
