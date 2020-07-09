@@ -2009,12 +2009,12 @@
             },
             "revenant_viscera": {
                 "from": [
-                    34000,
-                    36000
-                ],
-                "to": [
                     35500,
                     38500
+                ],
+                "to": [
+                    31000,
+                    36000
                 ]
             },
             "spruce_wood": {
@@ -2138,7 +2138,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "591986139037171712": {
         "modification_history": {
