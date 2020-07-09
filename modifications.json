@@ -442,6 +442,16 @@
                     330000
                 ]
             },
+            "water_hydra_head": {
+                "from": [
+                    5000,
+                    15000
+                ],
+                "to": [
+                    60000,
+                    90000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     400000,
@@ -493,7 +503,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "308262271262654464": {
         "modification_history": {
