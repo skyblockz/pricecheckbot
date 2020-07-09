@@ -1957,6 +1957,16 @@
                     9300
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    100000,
+                    125000
+                ],
+                "to": [
+                    75000,
+                    80000
+                ]
+            },
             "enchanted_gold_block": {
                 "from": [
                     101000,
@@ -2698,7 +2708,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "591986139037171712": {
         "modification_history": {
