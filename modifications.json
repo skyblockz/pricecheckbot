@@ -1550,6 +1550,16 @@
                     450000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "lvl_1_legendary_sheep": {
                 "from": [
                     3000000,
@@ -1601,7 +1611,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "366232910334001152": {
         "modification_history": {
