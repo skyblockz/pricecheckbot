@@ -2899,12 +2899,12 @@
             },
             "red_mushroom": {
                 "from": [
-                    24,
-                    30
-                ],
-                "to": [
                     18,
                     18
+                ],
+                "to": [
+                    16,
+                    19
                 ]
             },
             "red_mushroom_block": {
@@ -3108,7 +3108,7 @@
                 ]
             }
         },
-        "total_mods": 164
+        "total_mods": 165
     },
     "591986139037171712": {
         "modification_history": {
