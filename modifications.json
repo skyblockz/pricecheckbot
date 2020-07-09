@@ -512,6 +512,16 @@
                     7000000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    7,
+                    12
+                ],
+                "to": [
+                    11,
+                    13
+                ]
+            },
             "snow_minion_i": {
                 "from": [
                     125000,
@@ -733,7 +743,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "308262271262654464": {
         "modification_history": {
