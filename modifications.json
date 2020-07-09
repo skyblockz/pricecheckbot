@@ -168,6 +168,16 @@
                     25000
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    5,
+                    25
+                ],
+                "to": [
+                    25,
+                    30
+                ]
+            },
             "ink_sack": {
                 "from": [
                     610,
@@ -523,7 +533,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "308262271262654464": {
         "modification_history": {
