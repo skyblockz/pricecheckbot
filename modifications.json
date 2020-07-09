@@ -1540,6 +1540,16 @@
                     45000
                 ]
             },
+            "frozen_chicken": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "lvl_1_legendary_sheep": {
                 "from": [
                     3000000,
@@ -1591,7 +1601,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "366232910334001152": {
         "modification_history": {
