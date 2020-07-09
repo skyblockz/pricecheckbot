@@ -51,6 +51,16 @@
                     250000
                 ]
             },
+            "blessed_bait": {
+                "from": [
+                    150,
+                    250
+                ],
+                "to": [
+                    150,
+                    200
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     7500,
@@ -533,7 +543,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "308262271262654464": {
         "modification_history": {
