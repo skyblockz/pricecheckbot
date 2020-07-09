@@ -51,6 +51,16 @@
                     20000
                 ]
             },
+            "ender_chestplate": {
+                "from": [
+                    10000,
+                    25000
+                ],
+                "to": [
+                    80000,
+                    110000
+                ]
+            },
             "lvl_100_epic_tiger": {
                 "from": null,
                 "to": [
@@ -326,7 +336,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "308262271262654464": {
         "modification_history": {
