@@ -255,6 +255,16 @@
                     5600000
                 ]
             },
+            "treecapitator": {
+                "from": [
+                    2600000,
+                    3000000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     1000,
@@ -316,7 +326,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "308262271262654464": {
         "modification_history": {
