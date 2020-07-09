@@ -492,6 +492,16 @@
                     23000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    480000,
+                    500000
+                ],
+                "to": [
+                    430000,
+                    470000
+                ]
+            },
             "tarantula_chestplate": {
                 "from": [
                     650000,
@@ -673,7 +683,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "308262271262654464": {
         "modification_history": {
