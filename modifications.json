@@ -31,6 +31,16 @@
                     15000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    180000,
+                    250000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     7500,
@@ -306,7 +316,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "308262271262654464": {
         "modification_history": {
