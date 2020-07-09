@@ -1907,6 +1907,16 @@
                     950
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    160000,
+                    175000
+                ],
+                "to": [
+                    125000,
+                    155000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     92000,
@@ -2598,7 +2608,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "591986139037171712": {
         "modification_history": {
