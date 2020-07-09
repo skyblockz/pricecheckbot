@@ -402,6 +402,16 @@
                     200000
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    70,
+                    100
+                ],
+                "to": [
+                    30,
+                    60
+                ]
+            },
             "tarantula_chestplate": {
                 "from": [
                     650000,
@@ -553,7 +563,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "308262271262654464": {
         "modification_history": {
