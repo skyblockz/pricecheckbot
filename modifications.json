@@ -1630,6 +1630,16 @@
                     4100000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    400000,
+                    460000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     400000,
@@ -1651,7 +1661,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "366232910334001152": {
         "modification_history": {
