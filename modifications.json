@@ -1640,6 +1640,16 @@
                     400000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     400000,
@@ -1701,7 +1711,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "366232910334001152": {
         "modification_history": {
