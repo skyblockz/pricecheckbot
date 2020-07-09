@@ -2487,6 +2487,16 @@
                     32
                 ]
             },
+            "netherrack": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    0,
+                    1
+                ]
+            },
             "oak_wood": {
                 "from": [
                     5,
@@ -2788,7 +2798,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "591986139037171712": {
         "modification_history": {
