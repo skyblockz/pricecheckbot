@@ -2159,12 +2159,12 @@
             },
             "enchanted_ink_sack": {
                 "from": [
-                    40000,
-                    50000
-                ],
-                "to": [
                     52500,
                     56000
+                ],
+                "to": [
+                    48750,
+                    54000
                 ]
             },
             "enchanted_iron_block": {
@@ -3178,7 +3178,7 @@
                 ]
             }
         },
-        "total_mods": 175
+        "total_mods": 176
     },
     "591986139037171712": {
         "modification_history": {
