@@ -248,6 +248,16 @@
                     25000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    87000,
+                    95000
+                ],
+                "to": [
+                    95000,
+                    100000
+                ]
+            },
             "ice_bait": {
                 "from": [
                     5,
@@ -723,7 +733,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "308262271262654464": {
         "modification_history": {
