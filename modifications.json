@@ -335,6 +335,16 @@
                     900000
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    11,
+                    15
+                ],
+                "to": [
+                    12,
+                    17
+                ]
+            },
             "power_vi": {
                 "from": [
                     4500000,
@@ -543,7 +553,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "308262271262654464": {
         "modification_history": {
