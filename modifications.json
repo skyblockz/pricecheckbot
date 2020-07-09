@@ -101,6 +101,16 @@
                     325000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    10500,
+                    110000
+                ],
+                "to": [
+                    70000,
+                    90000
+                ]
+            },
             "ender_boots": {
                 "from": [
                     10000,
@@ -693,7 +703,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "308262271262654464": {
         "modification_history": {
