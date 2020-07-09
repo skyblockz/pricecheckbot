@@ -542,6 +542,16 @@
                     200000
                 ]
             },
+            "snowball": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "spiked_bait": {
                 "from": [
                     70,
@@ -753,7 +763,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "308262271262654464": {
         "modification_history": {
