@@ -71,6 +71,16 @@
                     31000
                 ]
             },
+            "compactor": {
+                "from": [
+                    6000,
+                    10000
+                ],
+                "to": [
+                    6000,
+                    8000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     7500,
@@ -683,7 +693,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "308262271262654464": {
         "modification_history": {
