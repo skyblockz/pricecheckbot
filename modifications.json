@@ -131,6 +131,16 @@
                     5500
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    190000,
+                    220000
+                ],
+                "to": [
+                    190000,
+                    210000
+                ]
+            },
             "ender_boots": {
                 "from": [
                     10000,
@@ -813,7 +823,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "308262271262654464": {
         "modification_history": {
