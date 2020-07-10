@@ -3999,6 +3999,16 @@
                     71000
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    90000,
+                    130000
+                ],
+                "to": [
+                    108000,
+                    146000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     450000,
@@ -4250,7 +4260,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "614661627513536526": {
         "modification_history": {},
