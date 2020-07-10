@@ -3899,6 +3899,16 @@
                     300000
                 ]
             },
+            "compactor": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    5300,
+                    7000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     550000,
@@ -4140,7 +4150,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "614661627513536526": {
         "modification_history": {},
