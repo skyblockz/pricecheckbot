@@ -4169,6 +4169,16 @@
                     300000
                 ]
             },
+            "light_bait": {
+                "from": [
+                    65,
+                    85
+                ],
+                "to": [
+                    37,
+                    52
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     40,
@@ -4360,7 +4370,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "614661627513536526": {
         "modification_history": {},
