@@ -4179,6 +4179,16 @@
                     500
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    12,
+                    17
+                ],
+                "to": [
+                    8,
+                    15
+                ]
+            },
             "red_claw_ring": {
                 "from": [
                     900000,
@@ -4350,7 +4360,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "614661627513536526": {
         "modification_history": {},
