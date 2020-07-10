@@ -3949,6 +3949,16 @@
                     5000
                 ]
             },
+            "gravity_talisman": {
+                "from": [
+                    5000,
+                    7500
+                ],
+                "to": [
+                    1100,
+                    4500
+                ]
+            },
             "growth_v": {
                 "from": [
                     10000,
@@ -4040,7 +4050,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "614661627513536526": {
         "modification_history": {},
