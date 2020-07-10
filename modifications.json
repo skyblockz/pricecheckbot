@@ -4352,6 +4352,16 @@
                     6100
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    440000,
+                    480000
+                ],
+                "to": [
+                    650000,
+                    720000
+                ]
+            },
             "enchanted_melon": {
                 "from": [
                     140,
@@ -4443,7 +4453,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "640849699297034250": {
         "modification_history": {},
