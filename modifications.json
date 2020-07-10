@@ -3929,6 +3929,16 @@
                     1350
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    1350,
+                    1400
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     310000,
@@ -4170,7 +4180,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "614661627513536526": {
         "modification_history": {},
