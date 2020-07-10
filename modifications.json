@@ -4019,6 +4019,16 @@
                     10000
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    1000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    200000
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     1400000,
@@ -4080,7 +4090,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "614661627513536526": {
         "modification_history": {},
