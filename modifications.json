@@ -3989,6 +3989,16 @@
                     1400
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    7100,
+                    8100
+                ],
+                "to": [
+                    6600,
+                    7900
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     310000,
@@ -4270,7 +4280,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "614661627513536526": {
         "modification_history": {},
