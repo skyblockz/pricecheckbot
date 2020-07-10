@@ -3999,6 +3999,16 @@
                     25000
                 ]
             },
+            "haste_ring": {
+                "from": [
+                    120000,
+                    200000
+                ],
+                "to": [
+                    240000,
+                    300000
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     40,
@@ -4150,7 +4160,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "614661627513536526": {
         "modification_history": {},
