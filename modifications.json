@@ -4312,6 +4312,16 @@
                     6100
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    7000,
+                    1000
+                ],
+                "to": [
+                    7000,
+                    12000
+                ]
+            },
             "enchanted_seeds": {
                 "from": [
                     80,
@@ -4353,7 +4363,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "640849699297034250": {
         "modification_history": {},
