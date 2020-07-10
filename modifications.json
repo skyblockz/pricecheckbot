@@ -3969,6 +3969,16 @@
                     200
                 ]
             },
+            "golem_sword": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    150000
+                ]
+            },
             "grappling_hook": {
                 "from": [
                     3500,
@@ -4160,7 +4170,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "614661627513536526": {
         "modification_history": {},
