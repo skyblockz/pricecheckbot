@@ -3888,8 +3888,19 @@
         "total_mods": 30
     },
     "608358478712537110": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "grappling_hook": {
+                "from": [
+                    3500,
+                    5500
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "614661627513536526": {
         "modification_history": {},
