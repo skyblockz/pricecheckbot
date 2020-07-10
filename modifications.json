@@ -1540,6 +1540,16 @@
                     1600000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    2450000,
+                    3000000
+                ],
+                "to": [
+                    1500000,
+                    1600000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     48750,
@@ -1721,7 +1731,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "366232910334001152": {
         "modification_history": {
