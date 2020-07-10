@@ -4093,6 +4093,16 @@
                     500
                 ]
             },
+            "reforge_anvil": {
+                "from": [
+                    700000,
+                    900000
+                ],
+                "to": [
+                    985000,
+                    1300000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     28000000,
@@ -4234,7 +4244,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "614661627513536526": {
         "modification_history": {},
