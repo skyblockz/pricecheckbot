@@ -1425,6 +1425,16 @@
                     500
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    70000,
+                    90000
+                ],
+                "to": [
+                    80000,
+                    94000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     1800,
@@ -1556,7 +1566,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "365235844979621898": {
         "modification_history": {
