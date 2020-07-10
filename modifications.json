@@ -3899,6 +3899,16 @@
                     300000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    790000,
+                    900000
+                ]
+            },
             "fish_hat": {
                 "from": [
                     20,
@@ -3970,7 +3980,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "614661627513536526": {
         "modification_history": {},
