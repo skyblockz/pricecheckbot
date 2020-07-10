@@ -4089,6 +4089,16 @@
                     800000
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    7000,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    25000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     750000,
@@ -4130,7 +4140,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
