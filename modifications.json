@@ -3929,6 +3929,16 @@
                     300000
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    4,
+                    4
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "carrot_bait": {
                 "from": [
                     38,
@@ -4390,7 +4400,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "614661627513536526": {
         "modification_history": {},
