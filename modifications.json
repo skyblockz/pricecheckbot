@@ -3899,6 +3899,16 @@
                     300000
                 ]
             },
+            "enchanted_diamond": {
+                "from": [
+                    1285,
+                    1285
+                ],
+                "to": [
+                    1280,
+                    1350
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     64000,
@@ -4030,7 +4040,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "614661627513536526": {
         "modification_history": {},
