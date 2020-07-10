@@ -3899,6 +3899,16 @@
                     300000
                 ]
             },
+            "crystallized_heart": {
+                "from": [
+                    550000,
+                    700000
+                ],
+                "to": [
+                    900000,
+                    1100000
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1285,
@@ -4070,7 +4080,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "614661627513536526": {
         "modification_history": {},
