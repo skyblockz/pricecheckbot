@@ -4219,6 +4219,16 @@
                     200000
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    8,
+                    14
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     1400000,
@@ -4320,7 +4330,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "614661627513536526": {
         "modification_history": {},
