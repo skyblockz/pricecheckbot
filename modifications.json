@@ -4019,6 +4019,16 @@
                     25000
                 ]
             },
+            "hardened_diamond_helmet": {
+                "from": [
+                    7500,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "haste_ring": {
                 "from": [
                     120000,
@@ -4180,7 +4190,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "614661627513536526": {
         "modification_history": {},
