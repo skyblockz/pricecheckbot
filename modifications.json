@@ -3929,6 +3929,16 @@
                     300000
                 ]
             },
+            "carrot_bait": {
+                "from": [
+                    38,
+                    50
+                ],
+                "to": [
+                    28,
+                    42
+                ]
+            },
             "clownfish": {
                 "from": [
                     24,
@@ -4340,7 +4350,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "614661627513536526": {
         "modification_history": {},
