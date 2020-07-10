@@ -4302,6 +4302,16 @@
                     6
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    7,
+                    11
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "enchanted_cake": {
                 "from": [
                     4700,
@@ -4373,7 +4383,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "640849699297034250": {
         "modification_history": {},
