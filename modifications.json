@@ -4392,6 +4392,16 @@
                     17
                 ]
             },
+            "leather": {
+                "from": [
+                    20,
+                    25
+                ],
+                "to": [
+                    25,
+                    35
+                ]
+            },
             "raw_chicken": {
                 "from": [
                     11,
@@ -4433,7 +4443,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "640849699297034250": {
         "modification_history": {},
