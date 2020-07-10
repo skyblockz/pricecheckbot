@@ -3969,6 +3969,16 @@
                     1100000
                 ]
             },
+            "dark_bait": {
+                "from": [
+                    250,
+                    350
+                ],
+                "to": [
+                    385,
+                    515
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     85000,
@@ -4370,7 +4380,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "614661627513536526": {
         "modification_history": {},
