@@ -648,6 +648,16 @@
                     580
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    23000,
+                    30000
+                ],
+                "to": [
+                    15000,
+                    31000
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     650000,
@@ -1299,7 +1309,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "614661627513536526": {
         "modification_history": {},
