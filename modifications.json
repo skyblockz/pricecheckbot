@@ -698,6 +698,16 @@
                     500
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    9
+                ],
+                "to": [
+                    4,
+                    7
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     3,
@@ -749,7 +759,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "614661627513536526": {
         "modification_history": {},
