@@ -239,6 +239,16 @@
                     38
                 ]
             },
+            "old_dragon_fragment": {
+                "from": [
+                    3000,
+                    3000
+                ],
+                "to": [
+                    2600,
+                    2750
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     18500,
@@ -280,7 +290,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "365235844979621898": {
         "modification_history": {},
