@@ -498,6 +498,16 @@
                     1300
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    6200,
+                    6700
+                ],
+                "to": [
+                    6400,
+                    7300
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     390000,
@@ -569,7 +579,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "614661627513536526": {
         "modification_history": {},
