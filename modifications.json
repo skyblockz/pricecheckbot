@@ -868,6 +868,16 @@
                     10000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    11,
+                    13
+                ],
+                "to": [
+                    11,
+                    15
+                ]
+            },
             "hunter_knife": {
                 "from": [
                     300,
@@ -979,7 +989,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "614661627513536526": {
         "modification_history": {},
