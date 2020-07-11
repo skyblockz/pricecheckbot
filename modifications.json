@@ -388,6 +388,16 @@
                     4
                 ]
             },
+            "enchanted_carrot": {
+                "from": [
+                    540,
+                    570
+                ],
+                "to": [
+                    490,
+                    580
+                ]
+            },
             "enchanted_diamond_block": {
                 "from": [
                     205000,
@@ -489,7 +499,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "614661627513536526": {
         "modification_history": {},
