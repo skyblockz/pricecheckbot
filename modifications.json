@@ -89,6 +89,16 @@
                     35000
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    5200,
+                    5800
+                ],
+                "to": [
+                    4800,
+                    5400
+                ]
+            },
             "enchanted_pumpkin": {
                 "from": [
                     550,
@@ -150,7 +160,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "365235844979621898": {
         "modification_history": {},
