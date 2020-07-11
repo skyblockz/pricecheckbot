@@ -131,12 +131,12 @@
             },
             "mutton": {
                 "from": [
-                    50,
-                    65
-                ],
-                "to": [
                     31,
                     38
+                ],
+                "to": [
+                    4800,
+                    5400
                 ]
             },
             "unstable_dragon_fragment": {
@@ -150,7 +150,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "365235844979621898": {
         "modification_history": {},
