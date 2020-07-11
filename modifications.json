@@ -598,6 +598,16 @@
                     2000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    145000,
+                    153000
+                ],
+                "to": [
+                    150000,
+                    162000
+                ]
+            },
             "enchanted_brown_mushroom": {
                 "from": [
                     2900,
@@ -1279,7 +1289,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "614661627513536526": {
         "modification_history": {},
