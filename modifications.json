@@ -119,6 +119,16 @@
                     1000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    14,
+                    17
+                ],
+                "to": [
+                    11,
+                    13
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     3000,
@@ -130,7 +140,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "365235844979621898": {
         "modification_history": {},
