@@ -179,6 +179,16 @@
                     511000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    1800,
+                    2100
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     41000,
@@ -480,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "365235844979621898": {
         "modification_history": {},
