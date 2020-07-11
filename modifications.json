@@ -758,6 +758,16 @@
                     31000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    11,
+                    12
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     69000,
@@ -779,7 +789,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "614661627513536526": {
         "modification_history": {},
