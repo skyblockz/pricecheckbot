@@ -448,6 +448,16 @@
                     1300
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    390000,
+                    400000
+                ],
+                "to": [
+                    299000,
+                    339000
+                ]
+            },
             "hunter_knife": {
                 "from": [
                     300,
@@ -469,7 +479,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "614661627513536526": {
         "modification_history": {},
