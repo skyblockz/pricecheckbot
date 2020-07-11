@@ -698,6 +698,16 @@
                     40000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    31000,
+                    36000
+                ],
+                "to": [
+                    28000,
+                    31000
+                ]
+            },
             "white_gift": {
                 "from": [
                     5000,
@@ -709,7 +719,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "614661627513536526": {
         "modification_history": {},
