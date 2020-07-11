@@ -1078,6 +1078,16 @@
                     10
                 ]
             },
+            "sponge": {
+                "from": [
+                    100,
+                    120
+                ],
+                "to": [
+                    75,
+                    100
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     235000,
@@ -1109,7 +1119,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "614661627513536526": {
         "modification_history": {},
