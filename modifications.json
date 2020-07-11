@@ -748,6 +748,16 @@
                     200
                 ]
             },
+            "enchanted_glistering_melon": {
+                "from": [
+                    7000,
+                    9000
+                ],
+                "to": [
+                    3900,
+                    7000
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     67000,
@@ -1209,7 +1219,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "614661627513536526": {
         "modification_history": {},
