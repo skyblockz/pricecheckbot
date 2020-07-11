@@ -79,6 +79,16 @@
                     153000
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    120000,
+                    155000
+                ],
+                "to": [
+                    135000,
+                    154000
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     900,
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "365235844979621898": {
         "modification_history": {},
