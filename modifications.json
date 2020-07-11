@@ -388,6 +388,16 @@
                     4
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    205000,
+                    208000
+                ],
+                "to": [
+                    205000,
+                    215000
+                ]
+            },
             "hunter_knife": {
                 "from": [
                     300,
@@ -409,7 +419,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "614661627513536526": {
         "modification_history": {},
