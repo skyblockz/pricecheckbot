@@ -99,6 +99,16 @@
                     645
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1900,
+                    1950
+                ],
+                "to": [
+                    1300,
+                    1350
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     820,
@@ -120,7 +130,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "365235844979621898": {
         "modification_history": {},
