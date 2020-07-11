@@ -438,6 +438,16 @@
                     1000
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    95000,
+                    104000
+                ],
+                "to": [
+                    82000,
+                    98000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     2000,
@@ -739,7 +749,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "614661627513536526": {
         "modification_history": {},
