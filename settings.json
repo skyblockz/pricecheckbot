@@ -37375,9 +37375,9 @@
         "show_footer": true
     },
     "305715455447007252": {
-        "receive_updates": true,
+        "receive_updates": false,
         "show_debug": false,
-        "show_footer": true
+        "show_footer": false
     },
     "305732521839296513": {
         "receive_updates": true,
@@ -139344,6 +139344,11 @@
         "show_debug": false,
         "show_footer": true
     },
+    "635674191827566602": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
     "635675435207884810": {
         "receive_updates": true,
         "show_debug": false,
@@ -150940,6 +150945,11 @@
         "show_footer": true
     },
     "704358102450962503": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "704361137852121209": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
