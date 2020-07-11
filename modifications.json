@@ -388,6 +388,16 @@
                     4
                 ]
             },
+            "hunter_knife": {
+                "from": [
+                    300,
+                    500
+                ],
+                "to": [
+                    250,
+                    500
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     3,
@@ -399,7 +409,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "614661627513536526": {
         "modification_history": {},
