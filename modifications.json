@@ -1128,6 +1128,16 @@
                     100
                 ]
             },
+            "string": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     235000,
@@ -1159,7 +1169,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "614661627513536526": {
         "modification_history": {},
