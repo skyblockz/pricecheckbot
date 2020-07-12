@@ -1029,6 +1029,16 @@
                     440
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    1300,
+                    1350
+                ],
+                "to": [
+                    1350,
+                    1400
+                ]
+            },
             "enchanted_sand": {
                 "from": [
                     1400,
@@ -1300,7 +1310,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "591986139037171712": {
         "modification_history": {},
