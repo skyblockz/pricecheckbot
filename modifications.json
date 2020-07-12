@@ -559,6 +559,16 @@
                     155000
                 ]
             },
+            "carrot": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "cobblestone": {
                 "from": [
                     6,
@@ -870,7 +880,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "591986139037171712": {
         "modification_history": {},
