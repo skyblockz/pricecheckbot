@@ -35,6 +35,16 @@
                     1200
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    330000,
+                    340000
+                ],
+                "to": [
+                    310000,
+                    320000
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     80000,
@@ -206,7 +216,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "349682137349357580": {
         "modification_history": {
