@@ -719,6 +719,16 @@
                     440
                 ]
             },
+            "enchanted_sand": {
+                "from": [
+                    1400,
+                    1800
+                ],
+                "to": [
+                    1400,
+                    1740
+                ]
+            },
             "glowstone": {
                 "from": [
                     13,
@@ -790,7 +800,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "591986139037171712": {
         "modification_history": {},
