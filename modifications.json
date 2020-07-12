@@ -1249,6 +1249,16 @@
                     28
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    7,
+                    9
+                ]
+            },
             "snow_block": {
                 "from": [
                     6,
@@ -1290,7 +1300,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "591986139037171712": {
         "modification_history": {},
