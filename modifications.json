@@ -649,6 +649,16 @@
                     167000
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    400,
+                    500
+                ],
+                "to": [
+                    400,
+                    440
+                ]
+            },
             "gold": {
                 "from": [
                     7,
@@ -670,7 +680,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "591986139037171712": {
         "modification_history": {},
