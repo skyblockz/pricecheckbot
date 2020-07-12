@@ -917,6 +917,16 @@
                     38000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    26000,
+                    28000
+                ],
+                "to": [
+                    26000,
+                    27000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     35000,
@@ -1008,7 +1018,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "440522099505758208": {
         "modification_history": {},
