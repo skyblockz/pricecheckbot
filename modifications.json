@@ -599,6 +599,16 @@
                     155000
                 ]
             },
+            "bone": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "brown_mushroom": {
                 "from": [
                     12,
@@ -1310,7 +1320,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "591986139037171712": {
         "modification_history": {},
