@@ -35,6 +35,16 @@
                     1200
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    80000,
+                    94000
+                ],
+                "to": [
+                    75000,
+                    79000
+                ]
+            },
             "golden_tooth": {
                 "from": [
                     83000,
@@ -196,7 +206,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "349682137349357580": {
         "modification_history": {
