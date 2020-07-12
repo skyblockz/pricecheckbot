@@ -1179,6 +1179,16 @@
                     4
                 ]
             },
+            "super_enchanted_egg": {
+                "from": [
+                    195000,
+                    239000
+                ],
+                "to": [
+                    210000,
+                    240000
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -1190,7 +1200,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "591986139037171712": {
         "modification_history": {},
