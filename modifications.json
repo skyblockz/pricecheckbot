@@ -599,6 +599,16 @@
                     7
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    91000,
+                    98000
+                ],
+                "to": [
+                    92000,
+                    95000
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
                     150000,
@@ -920,7 +930,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "591986139037171712": {
         "modification_history": {},
