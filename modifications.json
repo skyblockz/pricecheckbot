@@ -1479,6 +1479,16 @@
                     240000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    11,
+                    14
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -1490,7 +1500,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "591986139037171712": {
         "modification_history": {},
