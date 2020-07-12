@@ -819,6 +819,16 @@
                     112000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    432000,
+                    468000
+                ],
+                "to": [
+                    425000,
+                    450000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     7100,
@@ -1150,7 +1160,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "591986139037171712": {
         "modification_history": {},
