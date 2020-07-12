@@ -1119,6 +1119,16 @@
                     1740
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    108000,
+                    146000
+                ],
+                "to": [
+                    113500,
+                    140000
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     600,
@@ -1430,7 +1440,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "591986139037171712": {
         "modification_history": {},
