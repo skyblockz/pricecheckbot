@@ -558,9 +558,19 @@
                     140000,
                     155000
                 ]
+            },
+            "cobblestone": {
+                "from": [
+                    6,
+                    6
+                ],
+                "to": [
+                    5,
+                    6
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "591986139037171712": {
         "modification_history": {},
