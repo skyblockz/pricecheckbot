@@ -546,6 +546,16 @@
                     9700
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    11500000,
+                    12500000
+                ],
+                "to": [
+                    10000000,
+                    11000000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     35000,
@@ -557,7 +567,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
