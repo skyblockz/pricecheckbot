@@ -947,6 +947,16 @@
                     12000000
                 ]
             },
+            "tarantula_silk": {
+                "from": [
+                    58000,
+                    62000
+                ],
+                "to": [
+                    50000,
+                    62000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     200000,
@@ -998,7 +1008,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "440522099505758208": {
         "modification_history": {},
