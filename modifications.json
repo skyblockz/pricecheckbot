@@ -576,6 +576,16 @@
                     11000000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    900,
+                    1100
+                ],
+                "to": [
+                    800,
+                    900
+                ]
+            },
             "lvl_1_legendary_hound": {
                 "from": [
                     10000000,
@@ -647,7 +657,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
