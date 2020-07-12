@@ -959,6 +959,16 @@
                     18
                 ]
             },
+            "red_mushroom_block": {
+                "from": [
+                    23,
+                    28
+                ],
+                "to": [
+                    21,
+                    28
+                ]
+            },
             "snow_block": {
                 "from": [
                     6,
@@ -980,7 +990,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "591986139037171712": {
         "modification_history": {},
