@@ -909,6 +909,16 @@
                     6400
                 ]
             },
+            "enchanted_nether_wart": {
+                "from": [
+                    1200,
+                    1400
+                ],
+                "to": [
+                    1180,
+                    1300
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     299000,
@@ -1280,7 +1290,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "591986139037171712": {
         "modification_history": {},
