@@ -947,6 +947,16 @@
                     180000
                 ]
             },
+            "unstable_dragon_fragment": {
+                "from": [
+                    2600,
+                    2700
+                ],
+                "to": [
+                    2200,
+                    2500
+                ]
+            },
             "unstable_dragon_helmet": {
                 "from": [
                     250000,
@@ -978,7 +988,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "440522099505758208": {
         "modification_history": {},
