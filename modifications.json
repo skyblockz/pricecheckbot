@@ -970,6 +970,16 @@
                     500000
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    145000,
+                    155000
+                ],
+                "to": [
+                    160000,
+                    200000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     85500,
@@ -1051,7 +1061,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "390661701046894592": {
         "modification_history": {},
