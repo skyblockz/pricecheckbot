@@ -11,6 +11,16 @@
                     17000000
                 ]
             },
+            "scavenger_iv": {
+                "from": [
+                    45000,
+                    80000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "sharpness_vi": {
                 "from": [
                     13000000,
@@ -32,7 +42,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "308262271262654464": {
         "modification_history": {
