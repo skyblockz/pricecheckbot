@@ -2219,6 +2219,16 @@
                     4
                 ]
             },
+            "power_vi": {
+                "from": [
+                    6400000,
+                    7000000
+                ],
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
             "prismarine_crystals": {
                 "from": [
                     2,
@@ -2490,7 +2500,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "591986139037171712": {
         "modification_history": {},
