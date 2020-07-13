@@ -984,6 +984,16 @@
                     27000
                 ]
             },
+            "runaans_bow": {
+                "from": [
+                    510000,
+                    615000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     35000,
@@ -1085,7 +1095,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "440522099505758208": {
         "modification_history": {},
