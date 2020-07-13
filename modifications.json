@@ -980,6 +980,16 @@
                     200000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    61250,
+                    65000
+                ],
+                "to": [
+                    67000,
+                    70000
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     85500,
@@ -1061,7 +1071,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "390661701046894592": {
         "modification_history": {},
