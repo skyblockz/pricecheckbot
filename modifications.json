@@ -61,6 +61,16 @@
                     17000000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     45000,
@@ -112,7 +122,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "308262271262654464": {
         "modification_history": {
