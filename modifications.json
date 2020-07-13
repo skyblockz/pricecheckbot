@@ -1350,6 +1350,13 @@
                     9750000
                 ]
             },
+            "dragon_scale": {
+                "from": null,
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "emerald": {
                 "from": [
                     5,
@@ -2473,7 +2480,7 @@
                 ]
             }
         },
-        "total_mods": 126
+        "total_mods": 127
     },
     "591986139037171712": {
         "modification_history": {},
