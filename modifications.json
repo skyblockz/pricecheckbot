@@ -1902,6 +1902,13 @@
                     6
                 ]
             },
+            "lapis_crystal": {
+                "from": null,
+                "to": [
+                    1000,
+                    2500
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     1000000,
@@ -2304,7 +2311,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "591986139037171712": {
         "modification_history": {},
