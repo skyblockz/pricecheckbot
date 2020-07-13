@@ -1060,6 +1060,16 @@
                     230000
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    8400,
+                    1200
+                ],
+                "to": [
+                    8400,
+                    12000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     66000,
@@ -1081,7 +1091,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "390661701046894592": {
         "modification_history": {},
