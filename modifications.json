@@ -31,6 +31,16 @@
                     155000
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    205000,
+                    215000
+                ],
+                "to": [
+                    190000,
+                    210000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     5560,
@@ -102,7 +112,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "308262271262654464": {
         "modification_history": {
