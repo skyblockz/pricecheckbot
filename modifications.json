@@ -960,6 +960,16 @@
                     35000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    15500,
+                    18500
+                ],
+                "to": [
+                    17000,
+                    18500
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     131000,
@@ -971,7 +981,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "390661701046894592": {
         "modification_history": {},
