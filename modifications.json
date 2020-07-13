@@ -1902,6 +1902,16 @@
                     6
                 ]
             },
+            "large_agronomy_sack": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    765000,
+                    820000
+                ]
+            },
             "leather": {
                 "from": [
                     25,
@@ -2273,7 +2283,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "591986139037171712": {
         "modification_history": {},
