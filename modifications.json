@@ -724,6 +724,16 @@
                     1400
                 ]
             },
+            "enchanted_sand": {
+                "from": [
+                    1400,
+                    1740
+                ],
+                "to": [
+                    1700,
+                    1950
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     11500000,
@@ -912,7 +922,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "440522099505758208": {
         "modification_history": {},
