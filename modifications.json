@@ -831,6 +831,16 @@
                     7000000
                 ]
             },
+            "mystical_mushroom_soup": {
+                "from": [
+                    7500,
+                    12500
+                ],
+                "to": [
+                    19000,
+                    20000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     2600,
@@ -972,7 +982,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "440522099505758208": {
         "modification_history": {},
