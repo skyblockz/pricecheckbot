@@ -644,6 +644,16 @@
     },
     "402579049219751946": {
         "modification_history": {
+            "bat_artifact": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    1120000,
+                    1160000
+                ]
+            },
             "bat_ring": {
                 "from": [
                     300000,
@@ -992,7 +1002,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "440522099505758208": {
         "modification_history": {},
