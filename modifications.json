@@ -804,6 +804,16 @@
                     17
                 ]
             },
+            "lucky_clover": {
+                "from": [
+                    2200000,
+                    2600000
+                ],
+                "to": [
+                    1500000,
+                    1600000
+                ]
+            },
             "lvl_100_legendary_flying_fish": {
                 "from": null,
                 "to": [
@@ -962,7 +972,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "440522099505758208": {
         "modification_history": {},
