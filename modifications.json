@@ -575,6 +575,16 @@
                     35000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    310000,
+                    320000
+                ],
+                "to": [
+                    300000,
+                    320000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     15500,
@@ -646,7 +656,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "390661701046894592": {
         "modification_history": {},
