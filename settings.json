@@ -32160,9 +32160,9 @@
         "show_footer": true
     },
     "290111764140654593": {
-        "receive_updates": true,
+        "receive_updates": false,
         "show_debug": false,
-        "show_footer": true
+        "show_footer": false
     },
     "290120938362503168": {
         "receive_updates": true,
@@ -51385,6 +51385,11 @@
         "show_footer": true
     },
     "338302843045937172": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "338309257449701376": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
@@ -100305,6 +100310,11 @@
         "show_footer": true
     },
     "471499796730085408": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "471534322180947969": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
