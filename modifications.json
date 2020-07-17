@@ -3180,9 +3180,19 @@
                     250000,
                     300000
                 ]
+            },
+            "enchanted_firework_rocket": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    120000,
+                    135000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "645434212639571971": {
         "modification_history": {},
