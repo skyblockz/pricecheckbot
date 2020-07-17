@@ -27,6 +27,16 @@
                     70000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    70000,
+                    90000
+                ],
+                "to": [
+                    60000,
+                    65000
+                ]
+            },
             "ender_leggings": {
                 "from": [
                     70000,
@@ -88,7 +98,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "440522099505758208": {
         "modification_history": {},
