@@ -3170,8 +3170,19 @@
         "total_mods": 0
     },
     "626467774310383659": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_cooked_salmon": {
+                "from": [
+                    205000,
+                    255000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "645434212639571971": {
         "modification_history": {},
