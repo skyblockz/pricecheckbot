@@ -57,6 +57,16 @@
                     50000
                 ]
             },
+            "exp_share": {
+                "from": [
+                    650000,
+                    670000
+                ],
+                "to": [
+                    570000,
+                    580000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     30000,
@@ -108,7 +118,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "440522099505758208": {
         "modification_history": {},
