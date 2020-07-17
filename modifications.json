@@ -3181,6 +3181,16 @@
                     270
                 ]
             },
+            "carrot_bait": {
+                "from": [
+                    28,
+                    42
+                ],
+                "to": [
+                    45,
+                    55
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     88000,
@@ -3372,7 +3382,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "645434212639571971": {
         "modification_history": {},
