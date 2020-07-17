@@ -3331,6 +3331,16 @@
                     100
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    8,
+                    15
+                ],
+                "to": [
+                    25,
+                    35
+                ]
+            },
             "nether_wart": {
                 "from": [
                     6,
@@ -3402,7 +3412,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "645434212639571971": {
         "modification_history": {},
