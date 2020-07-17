@@ -3331,6 +3331,16 @@
                     100
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    12,
+                    13
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     26000,
@@ -3382,7 +3392,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "645434212639571971": {
         "modification_history": {},
