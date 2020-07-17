@@ -3191,6 +3191,16 @@
                     300000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    86000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    86000
+                ]
+            },
             "enchanted_firework_rocket": {
                 "from": [
                     130000,
@@ -3262,7 +3272,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "645434212639571971": {
         "modification_history": {},
