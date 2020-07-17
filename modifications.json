@@ -107,6 +107,16 @@
                     1300000
                 ]
             },
+            "lvl_1_legendary_silverfish": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    900000,
+                    900000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8300000,
@@ -138,7 +148,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "440522099505758208": {
         "modification_history": {},
