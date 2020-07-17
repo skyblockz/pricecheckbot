@@ -37,6 +37,16 @@
                     33000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    45000,
+                    75000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8300000,
@@ -48,7 +58,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "440522099505758208": {
         "modification_history": {},
