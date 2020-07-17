@@ -3301,6 +3301,16 @@
                     100000
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    25,
+                    30
+                ],
+                "to": [
+                    15,
+                    20
+                ]
+            },
             "light_bait": {
                 "from": [
                     37,
@@ -3362,7 +3372,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "645434212639571971": {
         "modification_history": {},
