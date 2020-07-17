@@ -3221,6 +3221,16 @@
                     200000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    125000,
+                    140000
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     50000,
@@ -3232,7 +3242,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "645434212639571971": {
         "modification_history": {},
