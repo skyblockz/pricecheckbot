@@ -777,6 +777,16 @@
                     1950
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    113500,
+                    140000
+                ],
+                "to": [
+                    115000,
+                    130000
+                ]
+            },
             "enchanted_slimeball": {
                 "from": [
                     1000,
@@ -1078,7 +1088,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "591986139037171712": {
         "modification_history": {},
