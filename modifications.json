@@ -885,6 +885,16 @@
                     2000
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    70,
+                    80
+                ],
+                "to": [
+                    78,
+                    96
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     595,
@@ -1336,7 +1346,7 @@
                 ]
             }
         },
-        "total_mods": 115
+        "total_mods": 116
     },
     "614661627513536526": {
         "modification_history": {},
