@@ -2029,6 +2029,13 @@
                     4
                 ]
             },
+            "nether_bricks": {
+                "from": null,
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "nether_wart": {
                 "from": [
                     12,
@@ -2357,7 +2364,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "645434212639571971": {
         "modification_history": {},
