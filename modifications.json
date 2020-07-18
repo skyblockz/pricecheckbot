@@ -1682,6 +1682,16 @@
                     3500
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    800,
+                    860
+                ],
+                "to": [
+                    1000,
+                    1150
+                ]
+            },
             "enchanted_raw_rabbit": {
                 "from": [
                     605,
@@ -1893,7 +1903,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "645434212639571971": {
         "modification_history": {},
