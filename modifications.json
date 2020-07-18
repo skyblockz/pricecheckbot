@@ -1502,6 +1502,16 @@
                     7
                 ]
             },
+            "diamond": {
+                "from": [
+                    8,
+                    8
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     480,
@@ -1683,7 +1693,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "645434212639571971": {
         "modification_history": {},
