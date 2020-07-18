@@ -675,6 +675,16 @@
                     75000
                 ]
             },
+            "green_gift": {
+                "from": [
+                    8700,
+                    10000
+                ],
+                "to": [
+                    8600,
+                    10400
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     23000,
@@ -786,7 +796,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "614661627513536526": {
         "modification_history": {},
