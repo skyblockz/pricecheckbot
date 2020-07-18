@@ -670,6 +670,16 @@
                     3
                 ]
             },
+            "glowstone": {
+                "from": [
+                    15,
+                    17
+                ],
+                "to": [
+                    16,
+                    19
+                ]
+            },
             "gold": {
                 "from": [
                     8,
@@ -811,7 +821,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "591986139037171712": {
         "modification_history": {},
