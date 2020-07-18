@@ -1935,6 +1935,13 @@
                     135
                 ]
             },
+            "glass": {
+                "from": null,
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "glowstone": {
                 "from": [
                     10,
@@ -2392,7 +2399,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "645434212639571971": {
         "modification_history": {},
