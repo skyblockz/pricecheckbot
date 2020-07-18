@@ -845,6 +845,16 @@
                     26000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    7,
+                    9
+                ],
+                "to": [
+                    6,
+                    8
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     470000,
@@ -906,7 +916,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "614661627513536526": {
         "modification_history": {},
