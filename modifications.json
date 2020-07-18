@@ -1473,6 +1473,16 @@
                     7
                 ]
             },
+            "blessed_bait": {
+                "from": [
+                    230,
+                    270
+                ],
+                "to": [
+                    130,
+                    1200
+                ]
+            },
             "brown_mushroom": {
                 "from": [
                     19,
@@ -2044,7 +2054,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "645434212639571971": {
         "modification_history": {},
