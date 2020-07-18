@@ -1490,6 +1490,13 @@
                     200
                 ]
             },
+            "block_of_quartz": {
+                "from": null,
+                "to": [
+                    32,
+                    32
+                ]
+            },
             "bricks": {
                 "from": null,
                 "to": [
@@ -2399,7 +2406,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "645434212639571971": {
         "modification_history": {},
