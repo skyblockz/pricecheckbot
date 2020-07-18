@@ -1772,6 +1772,16 @@
                     1
                 ]
             },
+            "snowball": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "wheat": {
                 "from": [
                     3,
@@ -1783,7 +1793,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "645434212639571971": {
         "modification_history": {},
