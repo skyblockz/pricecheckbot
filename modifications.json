@@ -835,6 +835,16 @@
                     1000
                 ]
             },
+            "enchanted_sand": {
+                "from": [
+                    1700,
+                    1950
+                ],
+                "to": [
+                    1730,
+                    2000
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     595,
@@ -1226,7 +1236,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "614661627513536526": {
         "modification_history": {},
