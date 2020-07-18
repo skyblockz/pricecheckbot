@@ -185,6 +185,16 @@
     },
     "608358478712537110": {
         "modification_history": {
+            "catalyst": {
+                "from": [
+                    28000,
+                    29000
+                ],
+                "to": [
+                    26000,
+                    28000
+                ]
+            },
             "compactor": {
                 "from": [
                     4500,
@@ -866,7 +876,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "614661627513536526": {
         "modification_history": {},
