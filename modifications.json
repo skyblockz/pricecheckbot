@@ -1533,6 +1533,16 @@
                     7
                 ]
             },
+            "dark_bait": {
+                "from": [
+                    300,
+                    400
+                ],
+                "to": [
+                    370,
+                    500
+                ]
+            },
             "dark_oak_wood": {
                 "from": [
                     3,
@@ -2024,7 +2034,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "645434212639571971": {
         "modification_history": {},
