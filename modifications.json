@@ -800,6 +800,16 @@
                     14
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    40,
+                    50
+                ],
+                "to": [
+                    40,
+                    40
+                ]
+            },
             "potato": {
                 "from": [
                     3,
@@ -871,7 +881,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "591986139037171712": {
         "modification_history": {},
