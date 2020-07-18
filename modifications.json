@@ -1652,6 +1652,16 @@
                     9
                 ]
             },
+            "gravel": {
+                "from": [
+                    4,
+                    8
+                ],
+                "to": [
+                    3,
+                    3
+                ]
+            },
             "nether_wart": {
                 "from": [
                     12,
@@ -1733,7 +1743,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "645434212639571971": {
         "modification_history": {},
