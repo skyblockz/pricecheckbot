@@ -687,6 +687,16 @@
                     1350
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    1000,
+                    1150
+                ],
+                "to": [
+                    900,
+                    925
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     2230,
@@ -1128,7 +1138,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "591986139037171712": {
         "modification_history": {},
