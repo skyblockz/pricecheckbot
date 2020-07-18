@@ -1490,6 +1490,13 @@
                     200
                 ]
             },
+            "bricks": {
+                "from": null,
+                "to": [
+                    6,
+                    6
+                ]
+            },
             "brown_mushroom": {
                 "from": [
                     19,
@@ -2385,7 +2392,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "645434212639571971": {
         "modification_history": {},
