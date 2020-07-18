@@ -540,6 +540,16 @@
                     25
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    9,
+                    11
+                ],
+                "to": [
+                    7,
+                    10
+                ]
+            },
             "potato": {
                 "from": [
                     3,
@@ -591,7 +601,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "591986139037171712": {
         "modification_history": {},
