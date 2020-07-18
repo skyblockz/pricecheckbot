@@ -265,6 +265,16 @@
                     1200
                 ]
             },
+            "enchanted_lapis_lazuli": {
+                "from": [
+                    1100,
+                    1200
+                ],
+                "to": [
+                    700,
+                    760
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     300000,
@@ -326,7 +336,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "614661627513536526": {
         "modification_history": {},
