@@ -1543,6 +1543,16 @@
                     7
                 ]
             },
+            "compactor": {
+                "from": [
+                    5500,
+                    7000
+                ],
+                "to": [
+                    5800,
+                    7300
+                ]
+            },
             "dark_bait": {
                 "from": [
                     300,
@@ -2094,7 +2104,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "645434212639571971": {
         "modification_history": {},
