@@ -219,8 +219,19 @@
         "total_mods": 3
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_bread": {
+                "from": [
+                    40,
+                    60
+                ],
+                "to": [
+                    50,
+                    100
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "591986139037171712": {
         "modification_history": {},
