@@ -1682,6 +1682,16 @@
                     11
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    40,
+                    50
+                ]
+            },
             "rabbit_hide": {
                 "from": [
                     11,
@@ -1753,7 +1763,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "645434212639571971": {
         "modification_history": {},
