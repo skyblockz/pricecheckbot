@@ -1484,6 +1484,16 @@
                     8000
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    25000,
+                    31000
+                ],
+                "to": [
+                    32000,
+                    37000
+                ]
+            },
             "wheat": {
                 "from": [
                     3,
@@ -1495,7 +1505,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "645434212639571971": {
         "modification_history": {},
