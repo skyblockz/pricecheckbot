@@ -1995,6 +1995,13 @@
                     21000
                 ]
             },
+            "hardened_clay": {
+                "from": null,
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "ice": {
                 "from": [
                     14,
@@ -2378,7 +2385,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "645434212639571971": {
         "modification_history": {},
