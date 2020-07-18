@@ -167,9 +167,19 @@
                     5,
                     7
                 ]
+            },
+            "enchanted_lava_bucket": {
+                "from": [
+                    290000,
+                    315000
+                ],
+                "to": [
+                    290000,
+                    300000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "466769036122783744": {
         "modification_history": {},
