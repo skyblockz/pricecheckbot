@@ -690,6 +690,16 @@
                     3
                 ]
             },
+            "flint": {
+                "from": [
+                    11,
+                    13
+                ],
+                "to": [
+                    11,
+                    12
+                ]
+            },
             "glowstone": {
                 "from": [
                     15,
@@ -841,7 +851,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "591986139037171712": {
         "modification_history": {},
