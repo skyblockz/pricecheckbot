@@ -1015,6 +1015,16 @@
                     23000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    40,
+                    50
+                ],
+                "to": [
+                    45,
+                    60
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     85000,
@@ -1286,7 +1296,7 @@
                 ]
             }
         },
-        "total_mods": 110
+        "total_mods": 111
     },
     "614661627513536526": {
         "modification_history": {},
