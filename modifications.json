@@ -172,6 +172,13 @@
                     7
                 ]
             },
+            "coal": {
+                "from": null,
+                "to": [
+                    9,
+                    12
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     290000,
@@ -193,7 +200,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
