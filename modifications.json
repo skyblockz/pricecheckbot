@@ -785,6 +785,16 @@
                     675
                 ]
             },
+            "enchanted_raw_fish": {
+                "from": [
+                    6000,
+                    6000
+                ],
+                "to": [
+                    3300,
+                    3800
+                ]
+            },
             "enchanted_raw_salmon": {
                 "from": [
                     1500,
@@ -1246,7 +1256,7 @@
                 ]
             }
         },
-        "total_mods": 106
+        "total_mods": 107
     },
     "614661627513536526": {
         "modification_history": {},
