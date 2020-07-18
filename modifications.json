@@ -305,6 +305,16 @@
                     315000
                 ]
             },
+            "enchanted_quartz": {
+                "from": [
+                    1200,
+                    1400
+                ],
+                "to": [
+                    1100,
+                    1300
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     480,
@@ -386,7 +396,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "614661627513536526": {
         "modification_history": {},
