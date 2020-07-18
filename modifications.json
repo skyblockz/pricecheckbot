@@ -2212,6 +2212,13 @@
                     76000
                 ]
             },
+            "torch": {
+                "from": null,
+                "to": [
+                    0,
+                    1
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2200,
@@ -2273,7 +2280,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "645434212639571971": {
         "modification_history": {},
