@@ -1903,6 +1903,16 @@
                     6
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    15,
+                    20
+                ],
+                "to": [
+                    60,
+                    90
+                ]
+            },
             "nether_wart": {
                 "from": [
                     12,
@@ -2054,7 +2064,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "645434212639571971": {
         "modification_history": {},
