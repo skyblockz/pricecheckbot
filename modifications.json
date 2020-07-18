@@ -400,6 +400,16 @@
                     34000
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    3200,
+                    3500
+                ],
+                "to": [
+                    3000,
+                    3200
+                ]
+            },
             "enchanted_paper": {
                 "from": [
                     405,
@@ -531,7 +541,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "591986139037171712": {
         "modification_history": {},
