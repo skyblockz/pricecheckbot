@@ -390,6 +390,16 @@
                     10000
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    1000,
+                    1100
+                ],
+                "to": [
+                    1025,
+                    1040
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     66000,
@@ -671,7 +681,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "591986139037171712": {
         "modification_history": {},
