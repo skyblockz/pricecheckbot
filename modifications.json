@@ -380,6 +380,16 @@
                     975
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    127000,
+                    164000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "enchanted_feather": {
                 "from": [
                     470,
@@ -731,7 +741,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "591986139037171712": {
         "modification_history": {},
