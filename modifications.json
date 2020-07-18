@@ -219,6 +219,16 @@
                     300000
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    405,
+                    435
+                ],
+                "to": [
+                    500,
+                    830
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     74000,
@@ -240,7 +250,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "466769036122783744": {
         "modification_history": {},
