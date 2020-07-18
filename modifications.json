@@ -1572,6 +1572,16 @@
                     98000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    105000,
+                    131000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": [
                     5000,
@@ -1843,7 +1853,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "645434212639571971": {
         "modification_history": {},
