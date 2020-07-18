@@ -220,10 +220,13 @@
                 ]
             },
             "enchanted_sugar_cane": {
-                "from": null,
-                "to": [
+                "from": [
                     74000,
                     75200
+                ],
+                "to": [
+                    71000,
+                    72500
                 ]
             },
             "summoning_eye": {
@@ -237,7 +240,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "466769036122783744": {
         "modification_history": {},
