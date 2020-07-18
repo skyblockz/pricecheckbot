@@ -390,6 +390,16 @@
                     150000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    560,
+                    610
+                ],
+                "to": [
+                    630,
+                    695
+                ]
+            },
             "enchanted_feather": {
                 "from": [
                     470,
@@ -931,7 +941,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "591986139037171712": {
         "modification_history": {},
