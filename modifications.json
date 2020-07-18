@@ -937,6 +937,16 @@
                     3
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "sand": {
                 "from": [
                     13,
@@ -958,7 +968,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "591986139037171712": {
         "modification_history": {},
