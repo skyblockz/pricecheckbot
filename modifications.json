@@ -1095,6 +1095,16 @@
                     105
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    7000,
+                    8000
+                ],
+                "to": [
+                    6800,
+                    7600
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     470000,
@@ -1166,7 +1176,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "614661627513536526": {
         "modification_history": {},
