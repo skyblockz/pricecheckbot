@@ -635,6 +635,16 @@
                     75000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    23000,
+                    26000
+                ],
+                "to": [
+                    21000,
+                    23000
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     8,
@@ -696,7 +706,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "614661627513536526": {
         "modification_history": {},
