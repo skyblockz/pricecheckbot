@@ -2050,6 +2050,13 @@
                     90
                 ]
             },
+            "lava_bucket": {
+                "from": null,
+                "to": [
+                    20,
+                    20
+                ]
+            },
             "moss_stone": {
                 "from": null,
                 "to": [
@@ -2441,7 +2448,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "645434212639571971": {
         "modification_history": {},
