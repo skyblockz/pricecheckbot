@@ -365,6 +365,16 @@
                     77000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    85000,
+                    100000
+                ],
+                "to": [
+                    81000,
+                    90000
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     8,
@@ -426,7 +436,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
