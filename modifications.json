@@ -205,6 +205,16 @@
                     28000
                 ]
             },
+            "clay": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "compactor": {
                 "from": [
                     4500,
@@ -976,7 +986,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "614661627513536526": {
         "modification_history": {},
