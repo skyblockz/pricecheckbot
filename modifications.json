@@ -2023,6 +2023,16 @@
                     2
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    20,
+                    40
+                ]
+            },
             "wheat": {
                 "from": [
                     3,
@@ -2034,7 +2044,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "645434212639571971": {
         "modification_history": {},
