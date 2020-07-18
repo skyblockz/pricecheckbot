@@ -330,6 +330,16 @@
                     88250
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1500,
+                    2000
+                ],
+                "to": [
+                    1500,
+                    1700
+                ]
+            },
             "enchanted_feather": {
                 "from": [
                     470,
@@ -571,7 +581,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "591986139037171712": {
         "modification_history": {},
