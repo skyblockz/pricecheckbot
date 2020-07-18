@@ -1562,6 +1562,16 @@
                     610
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    97000,
+                    100000
+                ],
+                "to": [
+                    88000,
+                    98000
+                ]
+            },
             "enchanted_glistering_melon": {
                 "from": [
                     5000,
@@ -1833,7 +1843,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "645434212639571971": {
         "modification_history": {},
