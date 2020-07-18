@@ -1552,6 +1552,16 @@
                     8000
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    95000,
+                    105000
+                ],
+                "to": [
+                    75000,
+                    82000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     6800,
@@ -1723,7 +1733,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "645434212639571971": {
         "modification_history": {},
