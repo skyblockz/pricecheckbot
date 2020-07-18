@@ -1482,6 +1482,16 @@
                     5
                 ]
             },
+            "coal": {
+                "from": [
+                    10,
+                    11
+                ],
+                "to": [
+                    12,
+                    13
+                ]
+            },
             "cocoa_beans": {
                 "from": [
                     3,
@@ -1663,7 +1673,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "645434212639571971": {
         "modification_history": {},
