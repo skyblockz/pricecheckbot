@@ -730,6 +730,16 @@
                     28
                 ]
             },
+            "redstone": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    3,
+                    3
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     242000,
@@ -741,7 +751,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "591986139037171712": {
         "modification_history": {},
