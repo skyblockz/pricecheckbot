@@ -225,6 +225,16 @@
                     570000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    435000,
+                    450000
+                ],
+                "to": [
+                    450000,
+                    474000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     20,
@@ -246,7 +256,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
