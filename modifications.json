@@ -965,6 +965,16 @@
                     38
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    12,
+                    13
+                ],
+                "to": [
+                    15,
+                    20
+                ]
+            },
             "golden_tooth": {
                 "from": [
                     73000,
@@ -1276,7 +1286,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "614661627513536526": {
         "modification_history": {},
