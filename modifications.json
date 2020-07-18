@@ -229,9 +229,19 @@
                     50,
                     100
                 ]
+            },
+            "hay_bale": {
+                "from": [
+                    45,
+                    60
+                ],
+                "to": [
+                    46,
+                    49
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "591986139037171712": {
         "modification_history": {},
