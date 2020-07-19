@@ -1412,6 +1412,16 @@
                     75200
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    123000,
+                    208000
+                ],
+                "to": [
+                    125000,
+                    185000
+                ]
+            },
             "end_stone": {
                 "from": [
                     5,
@@ -1763,7 +1773,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "591986139037171712": {
         "modification_history": {},
