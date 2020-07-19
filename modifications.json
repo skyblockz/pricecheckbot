@@ -792,6 +792,16 @@
                     700
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    520000,
+                    560000
+                ],
+                "to": [
+                    520000,
+                    592000
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     170000,
@@ -1613,7 +1623,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "591986139037171712": {
         "modification_history": {},
