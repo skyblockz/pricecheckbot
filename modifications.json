@@ -1781,9 +1781,19 @@
                     240000,
                     255000
                 ]
+            },
+            "tarantula_web": {
+                "from": [
+                    10,
+                    15
+                ],
+                "to": [
+                    10,
+                    12
+                ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "591986139037171712": {
         "modification_history": {},
