@@ -55,6 +55,16 @@
                     60
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "366232910334001152": {
         "modification_history": {},
