@@ -135,6 +135,16 @@
                     30
                 ]
             },
+            "red_mushroom_block": {
+                "from": [
+                    34,
+                    40
+                ],
+                "to": [
+                    40,
+                    60
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -146,7 +156,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "366232910334001152": {
         "modification_history": {},
