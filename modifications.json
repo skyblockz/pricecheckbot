@@ -249,6 +249,16 @@
                     12
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "dirt": {
                 "from": [
                     2,
@@ -430,7 +440,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "466769036122783744": {
         "modification_history": {
