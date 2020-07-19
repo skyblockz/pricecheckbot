@@ -249,6 +249,16 @@
                     12
                 ]
             },
+            "dirt": {
+                "from": [
+                    2,
+                    2
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "enchanted_bone": {
                 "from": [
                     1120,
@@ -420,7 +430,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "466769036122783744": {
         "modification_history": {
