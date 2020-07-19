@@ -15,6 +15,16 @@
                     60
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    46,
+                    49
+                ],
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -26,7 +36,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "366232910334001152": {
         "modification_history": {},
