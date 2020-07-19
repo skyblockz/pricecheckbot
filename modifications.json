@@ -1702,6 +1702,16 @@
                     3
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    23000,
+                    27000
+                ],
+                "to": [
+                    25000,
+                    27000
+                ]
+            },
             "rotten_flesh": {
                 "from": [
                     5,
@@ -1773,7 +1783,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "591986139037171712": {
         "modification_history": {},
