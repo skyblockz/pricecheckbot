@@ -65,6 +65,16 @@
                     60
                 ]
             },
+            "melon": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    2,
+                    2
+                ]
+            },
             "pumpkin": {
                 "from": [
                     4,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "366232910334001152": {
         "modification_history": {},
