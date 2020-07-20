@@ -310,6 +310,16 @@
                     165000
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    135000,
+                    175000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     445000,
@@ -321,7 +331,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "390661701046894592": {
         "modification_history": {},
