@@ -370,6 +370,16 @@
                     205000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    125000,
+                    185000
+                ],
+                "to": [
+                    130000,
+                    185000
+                ]
+            },
             "whale_bait": {
                 "from": [
                     630,
@@ -381,7 +391,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "390661701046894592": {
         "modification_history": {},
