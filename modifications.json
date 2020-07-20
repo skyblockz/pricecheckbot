@@ -300,6 +300,16 @@
     },
     "366232910334001152": {
         "modification_history": {
+            "enchanted_blaze_rod": {
+                "from": [
+                    300000,
+                    330000
+                ],
+                "to": [
+                    290000,
+                    300000
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     150000,
@@ -351,7 +361,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "390661701046894592": {
         "modification_history": {},
