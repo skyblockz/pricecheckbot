@@ -4481,6 +4481,13 @@
                     1
                 ]
             },
+            "undead_bow": {
+                "from": null,
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2200,
@@ -4556,7 +4563,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "645434212639571971": {
         "modification_history": {},
