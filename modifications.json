@@ -3667,6 +3667,13 @@
                     500
                 ]
             },
+            "dark_goggles": {
+                "from": null,
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "dark_oak_wood": {
                 "from": [
                     3,
@@ -4584,7 +4591,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "645434212639571971": {
         "modification_history": {},
