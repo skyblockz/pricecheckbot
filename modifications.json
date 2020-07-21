@@ -4509,6 +4509,13 @@
                     1
                 ]
             },
+            "trap": {
+                "from": null,
+                "to": [
+                    400,
+                    600
+                ]
+            },
             "undead_bow": {
                 "from": null,
                 "to": [
@@ -4591,7 +4598,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "645434212639571971": {
         "modification_history": {},
