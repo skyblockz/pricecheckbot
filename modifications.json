@@ -576,6 +576,16 @@
                     20000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    5000,
+                    25000
+                ],
+                "to": [
+                    41000,
+                    43000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8300000,
@@ -637,7 +647,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "442370099182043177": {
         "modification_history": {
