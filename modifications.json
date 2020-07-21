@@ -4440,6 +4440,13 @@
                     2
                 ]
             },
+            "stone_chestplate": {
+                "from": null,
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     16000,
@@ -4570,7 +4577,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "645434212639571971": {
         "modification_history": {},
