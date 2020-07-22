@@ -1047,6 +1047,16 @@
                     1500000
                 ]
             },
+            "young_dragon_fragment": {
+                "from": [
+                    8000,
+                    8400
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "zombies_heart": {
                 "from": [
                     300000,
@@ -1058,7 +1068,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "540685105513889793": {
         "modification_history": {
