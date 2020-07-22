@@ -419,6 +419,13 @@
                     400000
                 ]
             },
+            "dungeon_orb": {
+                "from": null,
+                "to": [
+                    5000,
+                    5500
+                ]
+            },
             "enchanted_end_stone": {
                 "from": [
                     650,
@@ -657,7 +664,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "442370099182043177": {
         "modification_history": {
