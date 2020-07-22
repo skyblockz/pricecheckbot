@@ -4303,6 +4303,13 @@
                     90
                 ]
             },
+            "infinite_quiver_x": {
+                "from": null,
+                "to": [
+                    600000,
+                    900000
+                ]
+            },
             "lava_bucket": {
                 "from": null,
                 "to": [
@@ -4792,7 +4799,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "645434212639571971": {
         "modification_history": {},
