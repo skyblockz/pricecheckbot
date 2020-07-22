@@ -986,6 +986,16 @@
                     950000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    850,
+                    920
+                ],
+                "to": [
+                    750,
+                    950
+                ]
+            },
             "fish_minion_xi": {
                 "from": null,
                 "to": [
@@ -1014,7 +1024,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "540685105513889793": {
         "modification_history": {
