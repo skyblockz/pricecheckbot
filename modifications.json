@@ -416,6 +416,13 @@
                     1050000
                 ]
             },
+            "adaptive_leggings": {
+                "from": null,
+                "to": [
+                    2850000,
+                    2900000
+                ]
+            },
             "clay_minion_xi": {
                 "from": [
                     250000,
@@ -671,7 +678,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "442370099182043177": {
         "modification_history": {
