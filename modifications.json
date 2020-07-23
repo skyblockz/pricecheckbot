@@ -2181,6 +2181,13 @@
                     19
                 ]
             },
+            "life_preserver": {
+                "from": null,
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "lily_pad": {
                 "from": [
                     120,
@@ -2476,7 +2483,7 @@
                 ]
             }
         },
-        "total_mods": 135
+        "total_mods": 136
     },
     "591986139037171712": {
         "modification_history": {},
