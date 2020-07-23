@@ -9597,7 +9597,7 @@
     "211566670987264010": {
         "receive_updates": true,
         "show_debug": false,
-        "show_footer": true
+        "show_footer": false
     },
     "211584415703367680": {
         "receive_updates": true,
@@ -142835,6 +142835,11 @@
         "show_footer": true
     },
     "604641984216432643": {
+        "receive_updates": true,
+        "show_debug": false,
+        "show_footer": true
+    },
+    "604649653811544065": {
         "receive_updates": true,
         "show_debug": false,
         "show_footer": true
