@@ -2222,6 +2222,16 @@
                     67500000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "magma_cream": {
                 "from": [
                     7,
@@ -2554,7 +2564,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "591986139037171712": {
         "modification_history": {},
