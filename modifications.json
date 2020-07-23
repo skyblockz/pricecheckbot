@@ -1045,6 +1045,16 @@
                     950000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    810,
+                    825
+                ],
+                "to": [
+                    820,
+                    850
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     850,
@@ -1153,7 +1163,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "540685105513889793": {
         "modification_history": {
