@@ -4674,10 +4674,13 @@
                 ]
             },
             "recombobulator_3000": {
-                "from": null,
-                "to": [
+                "from": [
                     5720000,
                     5750000
+                ],
+                "to": [
+                    5550000,
+                    5650000
                 ]
             },
             "red_mushroom": {
@@ -4994,7 +4997,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "645434212639571971": {
         "modification_history": {},
