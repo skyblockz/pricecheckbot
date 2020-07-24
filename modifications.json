@@ -933,6 +933,16 @@
                     72500
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    600000,
+                    675000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     72000000,
@@ -994,7 +1004,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "466769036122783744": {
         "modification_history": {
