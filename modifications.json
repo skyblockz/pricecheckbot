@@ -455,6 +455,16 @@
                     2900000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    180000,
+                    250000
+                ],
+                "to": [
+                    75000,
+                    75000
+                ]
+            },
             "clay_minion_xi": {
                 "from": [
                     250000,
@@ -750,7 +760,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "442370099182043177": {
         "modification_history": {
