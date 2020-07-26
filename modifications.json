@@ -2590,6 +2590,16 @@
                     3250000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    315000,
+                    330000
+                ]
+            },
             "slimeball": {
                 "from": [
                     8,
@@ -2725,7 +2735,7 @@
                 ]
             }
         },
-        "total_mods": 160
+        "total_mods": 161
     },
     "591986139037171712": {
         "modification_history": {},
