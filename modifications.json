@@ -1590,6 +1590,16 @@
                     500
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    204000,
+                    216000
+                ],
+                "to": [
+                    205000,
+                    207000
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     1500,
@@ -2735,7 +2745,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "591986139037171712": {
         "modification_history": {},
