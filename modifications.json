@@ -709,6 +709,16 @@
                     400000
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     6800,
@@ -740,7 +750,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "442370099182043177": {
         "modification_history": {
