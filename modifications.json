@@ -225,6 +225,13 @@
                     71000
                 ]
             },
+            "enchanting_exp_boost_iii": {
+                "from": null,
+                "to": [
+                    200,
+                    250
+                ]
+            },
             "hay_bale": {
                 "from": [
                     46,
@@ -296,7 +303,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "355554621248503811": {
         "modification_history": {},
