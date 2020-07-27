@@ -242,6 +242,16 @@
                     250
                 ]
             },
+            "flycatcher": {
+                "from": [
+                    8000000,
+                    10000000
+                ],
+                "to": [
+                    6850000,
+                    7900000
+                ]
+            },
             "golem_armor_boots": {
                 "from": [
                     13000,
@@ -513,7 +523,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "308262271262654464": {
         "modification_history": {
