@@ -142,6 +142,16 @@
                     4100
                 ]
             },
+            "fish_hat": {
+                "from": [
+                    100,
+                    200
+                ],
+                "to": [
+                    150,
+                    250
+                ]
+            },
             "golem_armor_boots": {
                 "from": [
                     13000,
@@ -383,7 +393,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "308262271262654464": {
         "modification_history": {
