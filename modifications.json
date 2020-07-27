@@ -3448,12 +3448,12 @@
             },
             "super_enchanted_egg": {
                 "from": [
-                    242000,
-                    270000
-                ],
-                "to": [
                     240000,
                     255000
+                ],
+                "to": [
+                    250000,
+                    259000
                 ]
             },
             "tarantula_silk": {
@@ -3541,7 +3541,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "591986139037171712": {
         "modification_history": {},
