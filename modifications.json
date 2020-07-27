@@ -352,6 +352,16 @@
                     20
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    1000,
+                    2500
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "launch_pad": {
                 "from": [
                     5000,
@@ -563,7 +573,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "308262271262654464": {
         "modification_history": {
