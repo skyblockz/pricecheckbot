@@ -152,6 +152,16 @@
                     76000
                 ]
             },
+            "prismarine_rod": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    20,
+                    26
+                ]
+            },
             "reforge_anvil": {
                 "from": [
                     1000000,
@@ -203,7 +213,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "308262271262654464": {
         "modification_history": {
