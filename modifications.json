@@ -507,6 +507,16 @@
                     26000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    3200,
+                    3750
+                ],
+                "to": [
+                    3550,
+                    3750
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     865,
@@ -685,7 +695,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "355554621248503811": {
         "modification_history": {},
