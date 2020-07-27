@@ -4101,12 +4101,12 @@
             },
             "enchanted_redstone_block": {
                 "from": [
-                    72000,
-                    76000
-                ],
-                "to": [
                     73000,
                     80000
+                ],
+                "to": [
+                    71000,
+                    78000
                 ]
             },
             "enchanted_redstone_lamp": {
@@ -4660,7 +4660,7 @@
                 ]
             }
         },
-        "total_mods": 134
+        "total_mods": 135
     },
     "614661627513536526": {
         "modification_history": {},
