@@ -294,6 +294,16 @@
                     2
                 ]
             },
+            "oak_wood": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "pumpkin": {
                 "from": [
                     4,
@@ -335,7 +345,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "355554621248503811": {
         "modification_history": {},
