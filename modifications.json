@@ -115,6 +115,16 @@
                     101000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    790000,
+                    900000
+                ],
+                "to": [
+                    625000,
+                    700000
+                ]
+            },
             "farmers_rod": {
                 "from": null,
                 "to": [
@@ -323,7 +333,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "308262271262654464": {
         "modification_history": {
