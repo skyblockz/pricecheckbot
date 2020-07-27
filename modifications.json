@@ -382,6 +382,16 @@
                     13500
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    33000000,
+                    37000000
+                ],
+                "to": [
+                    23900000,
+                    26990000
+                ]
+            },
             "personal_bank_item": {
                 "from": [
                     15000,
@@ -583,7 +593,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "308262271262654464": {
         "modification_history": {
