@@ -182,6 +182,16 @@
                     21000
                 ]
             },
+            "launch_pad": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    11000,
+                    13500
+                ]
+            },
             "prismarine_rod": {
                 "from": [
                     100,
@@ -243,7 +253,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "308262271262654464": {
         "modification_history": {
