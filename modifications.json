@@ -547,6 +547,16 @@
                     71000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    130000,
+                    185000
+                ],
+                "to": [
+                    130000,
+                    155000
+                ]
+            },
             "enchanting_exp_boost_iii": {
                 "from": null,
                 "to": [
@@ -695,7 +705,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "355554621248503811": {
         "modification_history": {},
