@@ -207,6 +207,16 @@
                     30000
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    900,
+                    925
+                ],
+                "to": [
+                    850,
+                    870
+                ]
+            },
             "enchanted_paper": {
                 "from": [
                     500,
@@ -355,7 +365,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "355554621248503811": {
         "modification_history": {},
