@@ -212,6 +212,16 @@
                     910000
                 ]
             },
+            "repelling_candle": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    4000,
+                    5100
+                ]
+            },
             "runaans_bow": {
                 "from": [
                     400000,
@@ -263,7 +273,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "308262271262654464": {
         "modification_history": {
