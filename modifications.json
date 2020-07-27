@@ -494,6 +494,16 @@
                     60
                 ]
             },
+            "ink_sack": {
+                "from": [
+                    300,
+                    310
+                ],
+                "to": [
+                    340,
+                    355
+                ]
+            },
             "jungle_wood": {
                 "from": [
                     4,
@@ -605,7 +615,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "355554621248503811": {
         "modification_history": {},
