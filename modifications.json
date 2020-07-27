@@ -125,6 +125,16 @@
                     700000
                 ]
             },
+            "farmer_orb": {
+                "from": [
+                    65000,
+                    85000
+                ],
+                "to": [
+                    90000,
+                    96000
+                ]
+            },
             "farmers_rod": {
                 "from": null,
                 "to": [
@@ -333,7 +343,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "308262271262654464": {
         "modification_history": {
