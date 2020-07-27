@@ -152,6 +152,16 @@
                     76000
                 ]
             },
+            "healing_talisman": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    17000,
+                    21000
+                ]
+            },
             "prismarine_rod": {
                 "from": [
                     100,
@@ -213,7 +223,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "308262271262654464": {
         "modification_history": {
