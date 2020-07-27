@@ -332,6 +332,16 @@
                     5300
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    60,
+                    90
+                ],
+                "to": [
+                    14,
+                    20
+                ]
+            },
             "launch_pad": {
                 "from": [
                     5000,
@@ -543,7 +553,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "308262271262654464": {
         "modification_history": {
