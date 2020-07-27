@@ -312,6 +312,16 @@
                     13500
                 ]
             },
+            "personal_bank_item": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    4200,
+                    5000
+                ]
+            },
             "piggy_bank": {
                 "from": [
                     54000,
@@ -493,7 +503,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "308262271262654464": {
         "modification_history": {
