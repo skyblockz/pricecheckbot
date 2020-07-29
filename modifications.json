@@ -1659,8 +1659,19 @@
         "total_mods": 39
     },
     "437305878257860608": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "rejuvenate_i": {
+                "from": [
+                    10000,
+                    50000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "442370099182043177": {
         "modification_history": {
