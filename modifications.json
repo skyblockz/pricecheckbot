@@ -1344,6 +1344,13 @@
                     2900000
                 ]
             },
+            "bank_i": {
+                "from": null,
+                "to": [
+                    8000,
+                    9500
+                ]
+            },
             "beheaded_horror": {
                 "from": [
                     180000,
@@ -1722,7 +1729,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "437305878257860608": {
         "modification_history": {
