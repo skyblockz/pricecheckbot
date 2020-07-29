@@ -1364,6 +1364,13 @@
                     400000
                 ]
             },
+            "combo_i": {
+                "from": null,
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "dungeon_orb": {
                 "from": null,
                 "to": [
@@ -1715,7 +1722,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "437305878257860608": {
         "modification_history": {
