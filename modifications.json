@@ -1947,6 +1947,16 @@
                     2000000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    56000000,
+                    59000000
+                ],
+                "to": [
+                    40000000,
+                    44000000
+                ]
+            },
             "rejuvenate_i": {
                 "from": [
                     10000,
@@ -1968,7 +1978,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "442370099182043177": {
         "modification_history": {
