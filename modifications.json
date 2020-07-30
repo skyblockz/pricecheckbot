@@ -1385,6 +1385,16 @@
                     60000
                 ]
             },
+            "dreadlord_sword": {
+                "from": [
+                    3500,
+                    6500
+                ],
+                "to": [
+                    12000,
+                    13000
+                ]
+            },
             "dungeon_orb": {
                 "from": null,
                 "to": [
@@ -1773,7 +1783,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "437305878257860608": {
         "modification_history": {
