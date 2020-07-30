@@ -1556,6 +1556,16 @@
                     20000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    100,
+                    200
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     4,
@@ -1783,7 +1793,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "437305878257860608": {
         "modification_history": {
