@@ -1387,12 +1387,12 @@
             },
             "common_mining_exp_boost": {
                 "from": [
-                    60000,
-                    60000
+                    120000,
+                    12000
                 ],
                 "to": [
                     120000,
-                    12000
+                    120000
                 ]
             },
             "dreadlord_sword": {
@@ -1823,7 +1823,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "437305878257860608": {
         "modification_history": {
