@@ -193,8 +193,19 @@
         "total_mods": 1
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 2
+        "modification_history": {
+            "devour_ring": {
+                "from": [
+                    1300000,
+                    1600000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "608358478712537110": {
         "modification_history": {},
