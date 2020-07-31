@@ -35,6 +35,16 @@
                     3800
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    76000,
+                    84000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     26500,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "308262271262654464": {
         "modification_history": {},
