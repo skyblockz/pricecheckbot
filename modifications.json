@@ -44,9 +44,19 @@
                     6550000,
                     7000000
                 ]
+            },
+            "revenant_viscera": {
+                "from": [
+                    25000,
+                    27000
+                ],
+                "to": [
+                    20000,
+                    27000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "308262271262654464": {
         "modification_history": {},
