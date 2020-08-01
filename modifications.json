@@ -212,9 +212,12 @@
                 ]
             },
             "epic_silent_death": {
-                "from": null,
-                "to": [
+                "from": [
                     400000,
+                    4250000
+                ],
+                "to": [
+                    4000000,
                     4250000
                 ]
             },
@@ -246,7 +249,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608358478712537110": {
         "modification_history": {},
