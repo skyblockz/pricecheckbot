@@ -1018,6 +1018,16 @@
                     500
                 ]
             },
+            "enchanted_clownfish": {
+                "from": [
+                    3000,
+                    3800
+                ],
+                "to": [
+                    3180,
+                    3460
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     820,
@@ -1759,7 +1769,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "614661627513536526": {
         "modification_history": {},
