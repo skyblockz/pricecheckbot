@@ -773,6 +773,16 @@
                     12
                 ]
             },
+            "sand": {
+                "from": [
+                    10,
+                    15
+                ],
+                "to": [
+                    655,
+                    665
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     3,
@@ -804,7 +814,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "608358478712537110": {
         "modification_history": {
