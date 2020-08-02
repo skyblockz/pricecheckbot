@@ -646,6 +646,16 @@
                     59500
                 ]
             },
+            "end_stone": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     400000,
@@ -824,7 +834,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "608358478712537110": {
         "modification_history": {
