@@ -778,6 +778,16 @@
                     79000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    21000
+                ],
+                "to": [
+                    21200,
+                    24000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     524000,
@@ -789,7 +799,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "614661627513536526": {
         "modification_history": {},
