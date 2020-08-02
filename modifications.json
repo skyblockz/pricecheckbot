@@ -566,6 +566,16 @@
                     485
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    71000,
+                    77000
+                ],
+                "to": [
+                    72000,
+                    74000
+                ]
+            },
             "enchanted_sugar": {
                 "from": [
                     350,
@@ -714,7 +724,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "608358478712537110": {
         "modification_history": {
