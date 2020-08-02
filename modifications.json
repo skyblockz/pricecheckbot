@@ -356,6 +356,16 @@
                     485
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    900,
+                    960
+                ]
+            },
             "enchanted_cocoa_beans": {
                 "from": [
                     460,
@@ -604,7 +614,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "608358478712537110": {
         "modification_history": {
