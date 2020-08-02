@@ -546,6 +546,16 @@
                     4
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    6,
+                    9
+                ]
+            },
             "lvl_100_legendary_jellyfish": {
                 "from": null,
                 "to": [
@@ -624,7 +634,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "608358478712537110": {
         "modification_history": {
