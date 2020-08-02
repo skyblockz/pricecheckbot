@@ -918,6 +918,16 @@
                     9
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    5,
+                    6
+                ]
+            },
             "compactor": {
                 "from": [
                     5600,
@@ -1939,7 +1949,7 @@
                 ]
             }
         },
-        "total_mods": 108
+        "total_mods": 109
     },
     "614661627513536526": {
         "modification_history": {},
