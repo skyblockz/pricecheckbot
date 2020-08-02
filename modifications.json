@@ -328,6 +328,16 @@
                     875
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    1900,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    2200
+                ]
+            },
             "enchanted_gold": {
                 "from": [
                     1900,
@@ -409,7 +419,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "614661627513536526": {
         "modification_history": {},
