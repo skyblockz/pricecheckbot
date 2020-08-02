@@ -510,6 +510,16 @@
                     8000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    980000,
+                    116000
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1170,
@@ -858,7 +868,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "608358478712537110": {
         "modification_history": {
