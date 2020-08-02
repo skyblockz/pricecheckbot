@@ -256,6 +256,16 @@
                     1300000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    55,
+                    60
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     400000,
@@ -304,7 +314,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "608358478712537110": {
         "modification_history": {
