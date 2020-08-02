@@ -436,6 +436,16 @@
                     475
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2000,
+                    2200
+                ],
+                "to": [
+                    2050,
+                    2125
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     800,
@@ -784,7 +794,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "608358478712537110": {
         "modification_history": {
