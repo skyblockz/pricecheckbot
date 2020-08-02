@@ -448,6 +448,16 @@
                     590
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    25000,
+                    27900
+                ],
+                "to": [
+                    27000,
+                    35000
+                ]
+            },
             "enchanted_packed_ice": {
                 "from": [
                     130000,
@@ -489,7 +499,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "614661627513536526": {
         "modification_history": {},
