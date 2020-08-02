@@ -266,6 +266,16 @@
                     60
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    7240,
+                    8300
+                ],
+                "to": [
+                    7250,
+                    8000
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     400000,
@@ -314,7 +324,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "608358478712537110": {
         "modification_history": {
