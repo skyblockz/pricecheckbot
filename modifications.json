@@ -2088,6 +2088,16 @@
                     100
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    20,
+                    40
+                ],
+                "to": [
+                    15,
+                    28
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     12000,
@@ -2169,7 +2179,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "614661627513536526": {
         "modification_history": {},
