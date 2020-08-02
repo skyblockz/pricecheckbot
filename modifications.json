@@ -1018,6 +1018,16 @@
                     500
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    25000,
+                    41000
+                ],
+                "to": [
+                    13000,
+                    29000
+                ]
+            },
             "enchanted_clay": {
                 "from": [
                     470,
@@ -1829,7 +1839,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "614661627513536526": {
         "modification_history": {},
