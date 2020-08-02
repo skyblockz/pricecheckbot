@@ -1338,6 +1338,16 @@
                     10000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    15,
+                    8
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -1489,7 +1499,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "614661627513536526": {
         "modification_history": {},
