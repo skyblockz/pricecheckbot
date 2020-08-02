@@ -408,6 +408,16 @@
                     590
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    108000,
+                    116000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     71000,
@@ -429,7 +439,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
