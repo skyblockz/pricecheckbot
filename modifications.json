@@ -1598,6 +1598,16 @@
                     24000
                 ]
             },
+            "spider_eye": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    7,
+                    11
+                ]
+            },
             "sponge": {
                 "from": [
                     83,
@@ -1669,7 +1679,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "614661627513536526": {
         "modification_history": {},
