@@ -1034,6 +1034,16 @@
                     12
                 ]
             },
+            "snowball": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    2,
+                    2
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     2,
@@ -1065,7 +1075,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "355554621248503811": {
         "modification_history": {},
