@@ -254,6 +254,13 @@
                     3500
                 ]
             },
+            "enchanted_bone_block": {
+                "from": null,
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "enchanted_bread": {
                 "from": [
                     55,
@@ -1115,7 +1122,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "355554621248503811": {
         "modification_history": {},
