@@ -554,6 +554,16 @@
                     12
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    9,
+                    13
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8500000,
@@ -695,7 +705,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "355554621248503811": {
         "modification_history": {},
