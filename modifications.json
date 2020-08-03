@@ -404,6 +404,16 @@
                     28000
                 ]
             },
+            "enchanted_nether_wart": {
+                "from": [
+                    1300,
+                    1400
+                ],
+                "to": [
+                    1240,
+                    1300
+                ]
+            },
             "enchanted_paper": {
                 "from": [
                     400,
@@ -705,7 +715,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "355554621248503811": {
         "modification_history": {},
