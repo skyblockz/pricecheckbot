@@ -1401,6 +1401,16 @@
                     3
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "sand": {
                 "from": [
                     9,
@@ -1492,7 +1502,7 @@
                 ]
             }
         },
-        "total_mods": 139
+        "total_mods": 140
     },
     "355554621248503811": {
         "modification_history": {},
