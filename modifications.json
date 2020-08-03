@@ -394,6 +394,16 @@
                     58000
                 ]
             },
+            "feather": {
+                "from": [
+                    1,
+                    3
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "hay_bale": {
                 "from": [
                     50,
@@ -485,7 +495,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "355554621248503811": {
         "modification_history": {},
