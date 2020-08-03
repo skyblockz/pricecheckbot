@@ -194,6 +194,16 @@
                     28000
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    63000,
+                    71500
+                ],
+                "to": [
+                    62000,
+                    68000
+                ]
+            },
             "enchanted_grilled_pork": {
                 "from": [
                     161000,
@@ -245,7 +255,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "355554621248503811": {
         "modification_history": {},
