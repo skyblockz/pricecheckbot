@@ -734,6 +734,16 @@
                     58000
                 ]
             },
+            "end_stone": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "feather": {
                 "from": [
                     1,
@@ -1045,7 +1055,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "355554621248503811": {
         "modification_history": {},
