@@ -594,6 +594,16 @@
                     3
                 ]
             },
+            "gold": {
+                "from": [
+                    10,
+                    11
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "hay_bale": {
                 "from": [
                     50,
@@ -795,7 +805,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "355554621248503811": {
         "modification_history": {},
