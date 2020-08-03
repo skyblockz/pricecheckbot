@@ -704,6 +704,16 @@
                     3
                 ]
             },
+            "flint": {
+                "from": [
+                    11,
+                    13
+                ],
+                "to": [
+                    11,
+                    12
+                ]
+            },
             "glowstone_dust": {
                 "from": [
                     11,
@@ -965,7 +975,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "355554621248503811": {
         "modification_history": {},
