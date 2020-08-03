@@ -184,6 +184,16 @@
                     5
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "cocoa_beans": {
                 "from": [
                     3,
@@ -715,7 +725,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "355554621248503811": {
         "modification_history": {},
