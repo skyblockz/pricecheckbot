@@ -1071,6 +1071,16 @@
                     5
                 ]
             },
+            "ink_sack": {
+                "from": [
+                    185,
+                    320
+                ],
+                "to": [
+                    300,
+                    342
+                ]
+            },
             "iron_ingot": {
                 "from": [
                     6,
@@ -1442,7 +1452,7 @@
                 ]
             }
         },
-        "total_mods": 134
+        "total_mods": 135
     },
     "355554621248503811": {
         "modification_history": {},
