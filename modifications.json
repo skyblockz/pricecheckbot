@@ -444,6 +444,16 @@
                     25
                 ]
             },
+            "sugar_cane": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "wheat": {
                 "from": [
                     4,
@@ -455,7 +465,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "355554621248503811": {
         "modification_history": {},
