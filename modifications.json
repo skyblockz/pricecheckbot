@@ -504,6 +504,16 @@
                     3
                 ]
             },
+            "mutton": {
+                "from": [
+                    7,
+                    11
+                ],
+                "to": [
+                    9,
+                    12
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8500000,
@@ -615,7 +625,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "355554621248503811": {
         "modification_history": {},
