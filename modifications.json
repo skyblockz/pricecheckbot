@@ -1481,6 +1481,16 @@
                     3
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1100000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    1150000
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     1,
@@ -1622,7 +1632,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "355554621248503811": {
         "modification_history": {},
