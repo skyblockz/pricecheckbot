@@ -234,6 +234,16 @@
                     9
                 ]
             },
+            "compactor": {
+                "from": [
+                    4800,
+                    6700
+                ],
+                "to": [
+                    6000,
+                    7000
+                ]
+            },
             "emerald": {
                 "from": [
                     6,
@@ -1552,7 +1562,7 @@
                 ]
             }
         },
-        "total_mods": 145
+        "total_mods": 146
     },
     "355554621248503811": {
         "modification_history": {},
