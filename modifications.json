@@ -115,6 +115,16 @@
                     75000
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    56000,
+                    58000
+                ],
+                "to": [
+                    56000,
+                    60000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1100000,
@@ -256,7 +266,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "280289227026071559": {
         "modification_history": {},
