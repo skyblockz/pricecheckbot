@@ -175,6 +175,16 @@
                     420000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    420000,
+                    435000
+                ],
+                "to": [
+                    430000,
+                    460000
+                ]
+            },
             "travel_scroll_to_spiders_den": {
                 "from": [
                     500000,
@@ -196,7 +206,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "280289227026071559": {
         "modification_history": {},
