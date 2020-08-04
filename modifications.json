@@ -165,6 +165,16 @@
                     420000
                 ]
             },
+            "travel_scroll_to_spiders_den": {
+                "from": [
+                    500000,
+                    1000000
+                ],
+                "to": [
+                    245000,
+                    265000
+                ]
+            },
             "wake_rune_i": {
                 "from": [
                     15000,
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "280289227026071559": {
         "modification_history": {},
