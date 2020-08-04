@@ -155,6 +155,16 @@
                     1350000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1400000,
+                    2200000
+                ],
+                "to": [
+                    1770000,
+                    1900000
+                ]
+            },
             "obsidian_minion_i": {
                 "from": [
                     2000,
@@ -296,7 +306,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "280289227026071559": {
         "modification_history": {},
