@@ -1728,6 +1728,16 @@
                     800000
                 ]
             },
+            "lvl_1_legendary_ghoul": {
+                "from": [
+                    5000000,
+                    7000000
+                ],
+                "to": [
+                    2600000,
+                    2700000
+                ]
+            },
             "ultimate_wise_1": {
                 "from": [
                     320000,
@@ -1739,7 +1749,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "421726698384392195": {
         "modification_history": {},
