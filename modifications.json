@@ -155,6 +155,16 @@
                     60000
                 ]
             },
+            "silver_fang": {
+                "from": [
+                    8000,
+                    10000
+                ],
+                "to": [
+                    3400,
+                    4500
+                ]
+            },
             "speed_talisman": {
                 "from": [
                     400,
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "280289227026071559": {
         "modification_history": {},
