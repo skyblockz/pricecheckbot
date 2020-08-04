@@ -125,6 +125,16 @@
                     27000
                 ]
             },
+            "speed_talisman": {
+                "from": [
+                    400,
+                    1000
+                ],
+                "to": [
+                    230,
+                    350
+                ]
+            },
             "speedster_boots": {
                 "from": [
                     125000,
@@ -186,7 +196,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "280289227026071559": {
         "modification_history": {},
