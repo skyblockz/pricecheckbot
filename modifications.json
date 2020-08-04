@@ -35,6 +35,16 @@
                     1900
                 ]
             },
+            "enchanted_cake": {
+                "from": [
+                    3600,
+                    4600
+                ],
+                "to": [
+                    3000,
+                    5200
+                ]
+            },
             "enchanted_clownfish": {
                 "from": [
                     3175,
@@ -266,7 +276,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "280289227026071559": {
         "modification_history": {},
