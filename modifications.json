@@ -4228,9 +4228,19 @@
                     5900000,
                     6000000
                 ]
+            },
+            "snow_block": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    5,
+                    7
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "645307099970011148": {
         "modification_history": {},
