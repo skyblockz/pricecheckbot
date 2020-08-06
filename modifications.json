@@ -1861,6 +1861,16 @@
                     83000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    145000,
+                    170000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     50000,
@@ -2029,7 +2039,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "421726698384392195": {
         "modification_history": {},
