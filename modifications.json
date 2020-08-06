@@ -4209,6 +4209,16 @@
     },
     "626467774310383659": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    6000,
+                    7000
+                ],
+                "to": [
+                    5790,
+                    6700
+                ]
+            },
             "enchanted_diamond_block": {
                 "from": [
                     205000,
@@ -4260,7 +4270,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "645307099970011148": {
         "modification_history": {},
