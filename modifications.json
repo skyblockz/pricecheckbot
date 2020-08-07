@@ -115,6 +115,16 @@
                     150000
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    400,
+                    445
+                ],
+                "to": [
+                    340,
+                    500
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     420,
@@ -316,7 +326,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "280289227026071559": {
         "modification_history": {},
