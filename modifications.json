@@ -4359,6 +4359,16 @@
                     6000000
                 ]
             },
+            "red_mushroom": {
+                "from": [
+                    17,
+                    17
+                ],
+                "to": [
+                    16,
+                    17
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     21000,
@@ -4410,7 +4420,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "645307099970011148": {
         "modification_history": {},
