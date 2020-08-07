@@ -4349,6 +4349,16 @@
                     3100
                 ]
             },
+            "end_stone": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    6,
+                    7
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     24800,
@@ -4530,7 +4540,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "645307099970011148": {
         "modification_history": {},
