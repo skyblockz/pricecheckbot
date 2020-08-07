@@ -2638,6 +2638,16 @@
                     9
                 ]
             },
+            "large_fishing_sack": {
+                "from": [
+                    1750000,
+                    1925000
+                ],
+                "to": [
+                    260000,
+                    300000
+                ]
+            },
             "lvl_100_legendary_jellyfish": {
                 "from": null,
                 "to": [
@@ -2756,7 +2766,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "608358478712537110": {
         "modification_history": {
