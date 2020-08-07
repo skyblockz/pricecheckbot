@@ -4489,6 +4489,16 @@
                     7
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    11000,
+                    12000
+                ],
+                "to": [
+                    10600,
+                    11300
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     430000,
@@ -4520,7 +4530,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "645307099970011148": {
         "modification_history": {},
