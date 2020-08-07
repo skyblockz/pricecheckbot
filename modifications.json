@@ -4359,6 +4359,16 @@
                     3550
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    6,
+                    8
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5900000,
@@ -4430,7 +4440,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "645307099970011148": {
         "modification_history": {},
