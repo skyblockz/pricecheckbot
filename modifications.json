@@ -151,6 +151,16 @@
                     1000
                 ]
             },
+            "enchanted_feather": {
+                "from": [
+                    480,
+                    480
+                ],
+                "to": [
+                    470,
+                    500
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     1950,
@@ -422,7 +432,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "614661627513536526": {
         "modification_history": {},
