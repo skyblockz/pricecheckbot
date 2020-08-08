@@ -141,6 +141,16 @@
                     196000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    59000,
+                    63000
+                ],
+                "to": [
+                    55000,
+                    61500
+                ]
+            },
             "enchanted_lapis_lazuli": {
                 "from": [
                     500,
@@ -202,7 +212,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "614661627513536526": {
         "modification_history": {},
