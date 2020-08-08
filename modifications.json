@@ -61,6 +61,16 @@
     },
     "608358478712537110": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    5790,
+                    6700
+                ],
+                "to": [
+                    5400,
+                    6500
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     775,
@@ -122,7 +132,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "614661627513536526": {
         "modification_history": {},
