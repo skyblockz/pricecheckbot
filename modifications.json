@@ -2678,6 +2678,16 @@
                     300000
                 ]
             },
+            "lvl_100_epic_ender_dragon": {
+                "from": [
+                    135000000,
+                    160000000
+                ],
+                "to": [
+                    190000000,
+                    200000000
+                ]
+            },
             "lvl_100_legendary_jellyfish": {
                 "from": null,
                 "to": [
@@ -2806,7 +2816,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "608358478712537110": {
         "modification_history": {
