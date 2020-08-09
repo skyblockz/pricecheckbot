@@ -25,6 +25,16 @@
                     77000
                 ]
             },
+            "piggy_bank": {
+                "from": [
+                    102000,
+                    110000
+                ],
+                "to": [
+                    42000,
+                    54000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     430000,
@@ -46,7 +56,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "280289227026071559": {
         "modification_history": {},
