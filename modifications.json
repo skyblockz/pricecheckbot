@@ -128,6 +128,16 @@
                     50000000
                 ]
             },
+            "krampus_helmet": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    470000,
+                    480000
+                ]
+            },
             "lvl_1_epic_spirit": {
                 "from": null,
                 "to": [
@@ -202,7 +212,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "421726698384392195": {
         "modification_history": {},
