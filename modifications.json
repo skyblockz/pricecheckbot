@@ -724,6 +724,16 @@
                     47000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    23000,
+                    25000
+                ],
+                "to": [
+                    22000,
+                    25000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     500000,
@@ -775,7 +785,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "614661627513536526": {
         "modification_history": {},
