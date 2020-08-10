@@ -984,6 +984,16 @@
                     6
                 ]
             },
+            "sponge": {
+                "from": [
+                    90,
+                    105
+                ],
+                "to": [
+                    70,
+                    80
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     500000,
@@ -1045,7 +1055,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "614661627513536526": {
         "modification_history": {},
