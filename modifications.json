@@ -744,6 +744,16 @@
                     73000
                 ]
             },
+            "enchanted_snow_block": {
+                "from": [
+                    600,
+                    600
+                ],
+                "to": [
+                    595,
+                    620
+                ]
+            },
             "enchanted_spider_eye": {
                 "from": [
                     1100,
@@ -1005,7 +1015,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "614661627513536526": {
         "modification_history": {},
