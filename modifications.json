@@ -128,6 +128,16 @@
                     28000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    65
+                ],
+                "to": [
+                    51,
+                    60
+                ]
+            },
             "ice_spray_wand": {
                 "from": null,
                 "to": [
@@ -305,7 +315,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "421726698384392195": {
         "modification_history": {},
