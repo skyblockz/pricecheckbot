@@ -324,6 +324,16 @@
                     840
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    100000,
+                    132000
+                ],
+                "to": [
+                    110000,
+                    133000
+                ]
+            },
             "enchanted_diamond_block": {
                 "from": [
                     204500,
@@ -1035,7 +1045,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "614661627513536526": {
         "modification_history": {},
