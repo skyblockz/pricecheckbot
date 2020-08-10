@@ -744,6 +744,16 @@
                     390
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "red_gift": {
                 "from": [
                     40000,
@@ -815,7 +825,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "614661627513536526": {
         "modification_history": {},
