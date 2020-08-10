@@ -794,6 +794,16 @@
                     12500
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    11,
+                    13
+                ],
+                "to": [
+                    12,
+                    15
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     72000,
@@ -955,7 +965,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "614661627513536526": {
         "modification_history": {},
