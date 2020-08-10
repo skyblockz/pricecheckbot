@@ -266,6 +266,16 @@
                     650000
                 ]
             },
+            "training_dummy": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "zombie_soldier_boots": {
                 "from": null,
                 "to": [
@@ -295,7 +305,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "421726698384392195": {
         "modification_history": {},
