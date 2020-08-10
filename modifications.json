@@ -138,6 +138,16 @@
                     60
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    52,
+                    59
+                ]
+            },
             "ice_spray_wand": {
                 "from": null,
                 "to": [
@@ -315,7 +325,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "421726698384392195": {
         "modification_history": {},
