@@ -25,6 +25,16 @@
                     328000
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    6400,
+                    6900
+                ],
+                "to": [
+                    6000,
+                    6500
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     1600,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "280289227026071559": {
         "modification_history": {},
