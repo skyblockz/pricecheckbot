@@ -254,6 +254,16 @@
                     320
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    29000,
+                    33000
+                ]
+            },
             "enchanted_pumpkin": {
                 "from": [
                     640,
@@ -325,7 +335,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "355554621248503811": {
         "modification_history": {},
