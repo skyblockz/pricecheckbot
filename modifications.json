@@ -1751,6 +1751,16 @@
                     2
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    22000,
+                    25000
+                ],
+                "to": [
+                    24000,
+                    26200
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     125,
@@ -1762,7 +1772,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "645307099970011148": {
         "modification_history": {},
