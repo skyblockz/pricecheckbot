@@ -184,6 +184,16 @@
                     100
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    52,
+                    59
+                ],
+                "to": [
+                    50,
+                    50
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     900000,
@@ -205,7 +215,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "355554621248503811": {
         "modification_history": {},
