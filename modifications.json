@@ -254,6 +254,16 @@
                     50
                 ]
             },
+            "melon": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    3,
+                    6
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     900000,
@@ -295,7 +305,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "355554621248503811": {
         "modification_history": {},
