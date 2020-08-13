@@ -1731,6 +1731,16 @@
     },
     "626467774310383659": {
         "modification_history": {
+            "compactor": {
+                "from": [
+                    5400,
+                    6500
+                ],
+                "to": [
+                    6000,
+                    6500
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     294000,
@@ -1972,7 +1982,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "645307099970011148": {
         "modification_history": {},
