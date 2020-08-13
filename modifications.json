@@ -1751,6 +1751,16 @@
                     313000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    22000,
+                    25000
+                ],
+                "to": [
+                    23750,
+                    27550
+                ]
+            },
             "enchanted_redstone_lamp": {
                 "from": [
                     81000,
@@ -2012,7 +2022,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "645307099970011148": {
         "modification_history": {},
