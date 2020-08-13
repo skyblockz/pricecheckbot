@@ -977,6 +977,16 @@
                     1600
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    220000,
+                    300000
+                ],
+                "to": [
+                    245000,
+                    300000
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     430,
@@ -1048,7 +1058,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "608358478712537110": {
         "modification_history": {
