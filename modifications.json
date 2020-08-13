@@ -35,6 +35,16 @@
                     1200
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2000,
+                    2200
+                ],
+                "to": [
+                    2600,
+                    2860
+                ]
+            },
             "enchanted_bone": {
                 "from": [
                     2360,
@@ -266,7 +276,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "280289227026071559": {
         "modification_history": {},
