@@ -821,6 +821,16 @@
                     22000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "snow_minion_xi": {
                 "from": [
                     600000,
@@ -915,7 +925,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "421726698384392195": {
         "modification_history": {},
