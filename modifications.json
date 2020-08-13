@@ -35,6 +35,16 @@
                     1600
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    220000,
+                    300000
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     125000,
@@ -196,7 +206,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "280289227026071559": {
         "modification_history": {},
