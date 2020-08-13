@@ -371,6 +371,16 @@
                     22000
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "spirit_bone": {
                 "from": null,
                 "to": [
@@ -455,7 +465,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "421726698384392195": {
         "modification_history": {},
