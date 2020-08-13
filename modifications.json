@@ -1751,6 +1751,16 @@
                     313000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    81000,
+                    90000
+                ],
+                "to": [
+                    82050,
+                    82050
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1235000,
@@ -1992,7 +2002,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "645307099970011148": {
         "modification_history": {},
