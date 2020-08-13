@@ -1781,6 +1781,16 @@
                     13500
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    22500
+                ],
+                "to": [
+                    20100,
+                    20800
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     72000,
@@ -1882,7 +1892,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "645307099970011148": {
         "modification_history": {},
