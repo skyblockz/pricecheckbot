@@ -1147,6 +1147,16 @@
                     60
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    8,
+                    10
+                ]
+            },
             "magma_cream": {
                 "from": [
                     8,
@@ -1218,7 +1228,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "608358478712537110": {
         "modification_history": {
