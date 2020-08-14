@@ -1087,6 +1087,16 @@
                     1500
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    181000,
+                    196000
+                ],
+                "to": [
+                    210000,
+                    235000
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1300,
@@ -1238,7 +1248,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "608358478712537110": {
         "modification_history": {
