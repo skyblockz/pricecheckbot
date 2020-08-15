@@ -63,6 +63,16 @@
                     7200
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    100
+                ],
+                "to": [
+                    60,
+                    70
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     915,
@@ -274,7 +284,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "614661627513536526": {
         "modification_history": {},
