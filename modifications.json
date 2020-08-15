@@ -233,6 +233,16 @@
                     270
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    29000,
+                    33000
+                ],
+                "to": [
+                    35000,
+                    44000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     2800,
@@ -344,7 +354,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "614661627513536526": {
         "modification_history": {},
