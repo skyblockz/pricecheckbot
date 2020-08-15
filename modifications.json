@@ -73,6 +73,16 @@
                     70
                 ]
             },
+            "enchanted_carrot": {
+                "from": [
+                    440,
+                    460
+                ],
+                "to": [
+                    440,
+                    480
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     915,
@@ -294,7 +304,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
