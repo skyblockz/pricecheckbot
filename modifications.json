@@ -147,6 +147,16 @@
                     2700000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    4500000,
+                    5000000
+                ],
+                "to": [
+                    2700000,
+                    2700000
+                ]
+            },
             "diamond_atom": {
                 "from": null,
                 "to": [
@@ -330,7 +340,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "421726698384392195": {
         "modification_history": {},
