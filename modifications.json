@@ -154,6 +154,16 @@
                     1500000
                 ]
             },
+            "red_scarf": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    290000,
+                    300000
+                ]
+            },
             "rejuvenate_v": {
                 "from": null,
                 "to": [
@@ -213,7 +223,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "421726698384392195": {
         "modification_history": {},
