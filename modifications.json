@@ -228,6 +228,16 @@
                     600000
                 ]
             },
+            "strong_dragon_helmet": {
+                "from": [
+                    700000,
+                    750000
+                ],
+                "to": [
+                    600000,
+                    610000
+                ]
+            },
             "treasure_ring": {
                 "from": null,
                 "to": [
@@ -243,7 +253,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "421726698384392195": {
         "modification_history": {},
