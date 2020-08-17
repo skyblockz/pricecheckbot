@@ -154,6 +154,16 @@
                     1500000
                 ]
             },
+            "lvl_1_epic_elephant": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    4800000,
+                    5200000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     100000,
@@ -313,7 +323,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "421726698384392195": {
         "modification_history": {},
