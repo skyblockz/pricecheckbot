@@ -147,6 +147,13 @@
                     2700000
                 ]
             },
+            "diamond_atom": {
+                "from": null,
+                "to": [
+                    1500000,
+                    1500000
+                ]
+            },
             "rejuvenate_v": {
                 "from": null,
                 "to": [
@@ -206,7 +213,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "421726698384392195": {
         "modification_history": {},
