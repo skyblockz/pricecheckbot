@@ -331,6 +331,16 @@
                     2600000
                 ]
             },
+            "sharpness_vi": {
+                "from": [
+                    8000000,
+                    11000000
+                ],
+                "to": [
+                    11500000,
+                    11500000
+                ]
+            },
             "spirit_bow": {
                 "from": null,
                 "to": [
@@ -430,7 +440,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "421726698384392195": {
         "modification_history": {},
