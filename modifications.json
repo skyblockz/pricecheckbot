@@ -538,14 +538,17 @@
                 ]
             },
             "treasure_artifact": {
-                "from": null,
-                "to": [
+                "from": [
                     140000,
+                    15750000
+                ],
+                "to": [
+                    140000000,
                     15750000
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "608358478712537110": {
         "modification_history": {
