@@ -572,6 +572,13 @@
                     250000
                 ]
             },
+            "training_weights": {
+                "from": null,
+                "to": [
+                    1,
+                    5
+                ]
+            },
             "treasure_artifact": {
                 "from": [
                     140000000,
@@ -583,7 +590,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "608358478712537110": {
         "modification_history": {
