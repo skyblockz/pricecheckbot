@@ -55,6 +55,16 @@
                     425000
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    110000,
+                    133000
+                ],
+                "to": [
+                    135000,
+                    180000
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     120,
@@ -173,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "280289227026071559": {
         "modification_history": {},
