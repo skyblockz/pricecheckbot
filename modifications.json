@@ -65,6 +65,16 @@
                     170
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    1400,
+                    1500
+                ],
+                "to": [
+                    1700,
+                    1930
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     137500,
@@ -163,7 +173,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "280289227026071559": {
         "modification_history": {},
