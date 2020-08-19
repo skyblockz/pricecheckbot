@@ -145,6 +145,16 @@
                     315000
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    6200,
+                    6400
+                ],
+                "to": [
+                    6700,
+                    7000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     23750,
@@ -393,7 +403,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "280289227026071559": {
         "modification_history": {},
