@@ -548,6 +548,16 @@
                     1100000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    45,
+                    50
+                ],
+                "to": [
+                    46,
+                    47
+                ]
+            },
             "reaper_mask": {
                 "from": [
                     5555555,
@@ -559,7 +569,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "355554621248503811": {
         "modification_history": {},
