@@ -165,6 +165,16 @@
                     3000
                 ]
             },
+            "holy_dragon_helmet": {
+                "from": [
+                    200000,
+                    240000
+                ],
+                "to": [
+                    134000,
+                    160000
+                ]
+            },
             "mender_fedora": {
                 "from": null,
                 "to": [
@@ -213,7 +223,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "280289227026071559": {
         "modification_history": {},
