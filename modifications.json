@@ -648,6 +648,16 @@
                     400
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    35000,
+                    44000
+                ],
+                "to": [
+                    38000,
+                    45000
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     440,
@@ -719,7 +729,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "355554621248503811": {
         "modification_history": {},
