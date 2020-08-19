@@ -603,6 +603,16 @@
                     35000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    50,
+                    50
+                ],
+                "to": [
+                    45,
+                    50
+                ]
+            },
             "lapis_minion_i": {
                 "from": [
                     500,
@@ -770,7 +780,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608358478712537110": {
         "modification_history": {
