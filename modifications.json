@@ -549,6 +549,16 @@
                     9
                 ]
             },
+            "small_storage": {
+                "from": [
+                    380,
+                    450
+                ],
+                "to": [
+                    320,
+                    400
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     21700,
@@ -600,7 +610,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "280289227026071559": {
         "modification_history": {},
