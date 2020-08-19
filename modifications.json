@@ -1046,6 +1046,16 @@
                     120000000
                 ]
             },
+            "lvl_1_legendary_black_cat": {
+                "from": [
+                    18000000,
+                    18500000
+                ],
+                "to": [
+                    14000000,
+                    14500000
+                ]
+            },
             "training_weights": {
                 "from": null,
                 "to": [
@@ -1064,7 +1074,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "608358478712537110": {
         "modification_history": {
