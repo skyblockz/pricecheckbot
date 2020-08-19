@@ -185,6 +185,16 @@
                     12
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    26000
+                ],
+                "to": [
+                    24900,
+                    25100
+                ]
+            },
             "golden_powder": {
                 "from": [
                     650000,
@@ -353,7 +363,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "280289227026071559": {
         "modification_history": {},
