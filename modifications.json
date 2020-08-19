@@ -135,6 +135,16 @@
                     1300
                 ]
             },
+            "flint": {
+                "from": [
+                    11,
+                    12
+                ],
+                "to": [
+                    12,
+                    12
+                ]
+            },
             "golden_powder": {
                 "from": [
                     650000,
@@ -283,7 +293,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "280289227026071559": {
         "modification_history": {},
