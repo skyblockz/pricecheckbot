@@ -628,6 +628,16 @@
                     1100000
                 ]
             },
+            "enchanted_melon": {
+                "from": [
+                    230,
+                    270
+                ],
+                "to": [
+                    300,
+                    400
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     440,
@@ -699,7 +709,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "355554621248503811": {
         "modification_history": {},
