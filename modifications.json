@@ -452,6 +452,13 @@
                     53000
                 ]
             },
+            "redstone_minion_i": {
+                "from": null,
+                "to": [
+                    300,
+                    450
+                ]
+            },
             "replenish_i": {
                 "from": [
                     1400000,
@@ -503,7 +510,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "280289227026071559": {
         "modification_history": {},
