@@ -295,6 +295,16 @@
                     34000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    82000,
+                    88000
+                ],
+                "to": [
+                    81000,
+                    85000
+                ]
+            },
             "enchanted_slime_block": {
                 "from": [
                     137500,
@@ -610,7 +620,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "280289227026071559": {
         "modification_history": {},
