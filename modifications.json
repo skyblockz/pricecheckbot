@@ -549,6 +549,16 @@
                     9
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    21700,
+                    25000
+                ],
+                "to": [
+                    18000,
+                    19500
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     13900,
@@ -590,7 +600,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "280289227026071559": {
         "modification_history": {},
