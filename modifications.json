@@ -65,6 +65,16 @@
                     180000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    240000,
+                    255000
+                ],
+                "to": [
+                    240000,
+                    265000
+                ]
+            },
             "enchanted_ghast_tear": {
                 "from": [
                     120,
@@ -183,7 +193,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "280289227026071559": {
         "modification_history": {},
