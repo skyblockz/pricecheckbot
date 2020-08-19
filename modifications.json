@@ -618,6 +618,16 @@
                     1100000
                 ]
             },
+            "enchanted_potato": {
+                "from": [
+                    440,
+                    480
+                ],
+                "to": [
+                    425,
+                    440
+                ]
+            },
             "hay_bale": {
                 "from": [
                     45,
@@ -649,7 +659,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "355554621248503811": {
         "modification_history": {},
