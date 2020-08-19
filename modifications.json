@@ -55,6 +55,16 @@
                     425000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    305000,
+                    335000
+                ]
+            },
             "enchanted_brown_mushroom_block": {
                 "from": [
                     7000,
@@ -520,7 +530,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "280289227026071559": {
         "modification_history": {},
