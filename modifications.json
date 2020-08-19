@@ -235,6 +235,16 @@
                     220000
                 ]
             },
+            "ink_wand": {
+                "from": [
+                    1800000,
+                    2200000
+                ],
+                "to": [
+                    1300000,
+                    1510000
+                ]
+            },
             "mender_fedora": {
                 "from": null,
                 "to": [
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "280289227026071559": {
         "modification_history": {},
