@@ -235,6 +235,16 @@
                     2600
                 ]
             },
+            "enchanted_pork": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1360,
+                    1900
+                ]
+            },
             "enchanted_pufferfish": {
                 "from": [
                     2840,
@@ -660,7 +670,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "280289227026071559": {
         "modification_history": {},
