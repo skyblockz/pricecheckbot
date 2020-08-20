@@ -2409,6 +2409,16 @@
                     7500000
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "devour_ring": {
                 "from": [
                     1000000,
@@ -2427,7 +2437,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "645307099970011148": {
         "modification_history": {},
