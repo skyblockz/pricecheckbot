@@ -1172,6 +1172,16 @@
                     20000000
                 ]
             },
+            "lvl_1_legendary_turtle": {
+                "from": [
+                    13750000,
+                    15000000
+                ],
+                "to": [
+                    15000000,
+                    15300000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     100000,
@@ -1398,7 +1408,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "421726698384392195": {
         "modification_history": {},
