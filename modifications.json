@@ -2409,6 +2409,16 @@
                     7500000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    840000,
+                    1050000
+                ]
+            },
             "speedster_rod": {
                 "from": null,
                 "to": [
@@ -2417,7 +2427,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "645307099970011148": {
         "modification_history": {},
