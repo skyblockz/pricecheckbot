@@ -1664,12 +1664,12 @@
             },
             "enchanted_iron_block": {
                 "from": [
-                    210000,
-                    235000
-                ],
-                "to": [
                     206000,
                     222000
+                ],
+                "to": [
+                    189000,
+                    208000
                 ]
             },
             "enchanted_lapis_block": {
@@ -1893,7 +1893,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "614661627513536526": {
         "modification_history": {},
