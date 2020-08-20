@@ -2429,6 +2429,16 @@
                     1050000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    830,
+                    870
+                ],
+                "to": [
+                    810,
+                    830
+                ]
+            },
             "speedster_rod": {
                 "from": null,
                 "to": [
@@ -2437,7 +2447,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "645307099970011148": {
         "modification_history": {},
