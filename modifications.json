@@ -1614,12 +1614,12 @@
             },
             "enchanted_gold_block": {
                 "from": [
-                    100000,
-                    112000
-                ],
-                "to": [
                     103000,
                     111000
+                ],
+                "to": [
+                    113000,
+                    122000
                 ]
             },
             "enchanted_grilled_pork": {
@@ -1893,7 +1893,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "614661627513536526": {
         "modification_history": {},
