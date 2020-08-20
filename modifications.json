@@ -2469,6 +2469,16 @@
                     1200
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    189000,
+                    208000
+                ],
+                "to": [
+                    189000,
+                    195200
+                ]
+            },
             "speedster_rod": {
                 "from": null,
                 "to": [
@@ -2477,7 +2487,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "645307099970011148": {
         "modification_history": {},
