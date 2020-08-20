@@ -1312,6 +1312,16 @@
     },
     "540685105513889793": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    365000,
+                    375000
+                ]
+            },
             "bonzos_mask_5_star": {
                 "from": null,
                 "to": [
@@ -1602,7 +1612,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "608358478712537110": {
         "modification_history": {
