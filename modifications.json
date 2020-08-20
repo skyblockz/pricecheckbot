@@ -1824,12 +1824,12 @@
             },
             "enchanted_redstone_lamp": {
                 "from": [
-                    82050,
-                    82050
+                    81000,
+                    85000
                 ],
                 "to": [
-                    82000,
-                    88000
+                    81800,
+                    88400
                 ]
             },
             "enchanted_spider_eye": {
@@ -1913,7 +1913,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "614661627513536526": {
         "modification_history": {},
