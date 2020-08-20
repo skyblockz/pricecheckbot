@@ -1293,6 +1293,16 @@
                     20000
                 ]
             },
+            "travel_scroll_to_dark_auction": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    2500000,
+                    2500000
+                ]
+            },
             "treasure_ring": {
                 "from": null,
                 "to": [
@@ -1318,7 +1328,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "421726698384392195": {
         "modification_history": {},
