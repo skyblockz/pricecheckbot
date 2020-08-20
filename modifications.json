@@ -2112,6 +2112,16 @@
                     420
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    6,
+                    8
+                ]
+            },
             "purple_candy": {
                 "from": [
                     6300,
@@ -2213,7 +2223,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "614661627513536526": {
         "modification_history": {},
