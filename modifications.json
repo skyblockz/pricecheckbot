@@ -217,12 +217,12 @@
             },
             "enchanted_mutton": {
                 "from": [
-                    1400,
-                    1500
-                ],
-                "to": [
                     1700,
                     1930
+                ],
+                "to": [
+                    2000,
+                    2210
                 ]
             },
             "enchanted_obsidian": {
@@ -650,7 +650,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "280289227026071559": {
         "modification_history": {},
