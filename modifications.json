@@ -1782,6 +1782,16 @@
                     1400
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    201000,
+                    226000
+                ],
+                "to": [
+                    210000,
+                    227000
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     12800,
@@ -1893,7 +1903,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "614661627513536526": {
         "modification_history": {},
