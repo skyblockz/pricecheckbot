@@ -492,6 +492,16 @@
                     800000
                 ]
             },
+            "mutton": {
+                "from": [
+                    9,
+                    12
+                ],
+                "to": [
+                    14,
+                    17
+                ]
+            },
             "rabbit_foot": {
                 "from": [
                     18,
@@ -650,7 +660,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "280289227026071559": {
         "modification_history": {},
