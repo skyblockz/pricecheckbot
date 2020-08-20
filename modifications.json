@@ -2509,6 +2509,16 @@
                     160000
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    700,
+                    770
+                ],
+                "to": [
+                    700,
+                    730
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1200,
@@ -2637,7 +2647,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "645307099970011148": {
         "modification_history": {},
