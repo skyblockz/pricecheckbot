@@ -1483,6 +1483,16 @@
                     14500000
                 ]
             },
+            "mystical_mushroom_soup": {
+                "from": [
+                    17000,
+                    20000
+                ],
+                "to": [
+                    13000,
+                    15000
+                ]
+            },
             "training_weights": {
                 "from": null,
                 "to": [
@@ -1498,7 +1508,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "608358478712537110": {
         "modification_history": {
