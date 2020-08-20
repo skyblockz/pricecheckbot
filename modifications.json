@@ -2589,6 +2589,16 @@
                     70000
                 ]
             },
+            "glowstone": {
+                "from": [
+                    11,
+                    14
+                ],
+                "to": [
+                    9,
+                    12
+                ]
+            },
             "lapis_lazuli": {
                 "from": [
                     2,
@@ -2627,7 +2637,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "645307099970011148": {
         "modification_history": {},
