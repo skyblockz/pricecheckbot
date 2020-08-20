@@ -1992,6 +1992,16 @@
                     10800
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20100,
+                    20800
+                ],
+                "to": [
+                    20000,
+                    22200
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     13900,
@@ -2043,7 +2053,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "614661627513536526": {
         "modification_history": {},
