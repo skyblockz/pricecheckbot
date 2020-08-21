@@ -37,6 +37,16 @@
                     600000
                 ]
             },
+            "farmers_boots": {
+                "from": [
+                    155000,
+                    170000
+                ],
+                "to": [
+                    130000,
+                    150000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2800000,
@@ -108,7 +118,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "355554621248503811": {
         "modification_history": {},
