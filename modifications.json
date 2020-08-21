@@ -27,6 +27,16 @@
                     3000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2800000,
+                    3100000
+                ],
+                "to": [
+                    2700000,
+                    2850000
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     15600000,
@@ -38,7 +48,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "355554621248503811": {
         "modification_history": {},
