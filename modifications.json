@@ -25,6 +25,16 @@
                     114000
                 ]
             },
+            "end_stone": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "green_gift": {
                 "from": [
                     10300,
@@ -46,7 +56,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "280289227026071559": {
         "modification_history": {},
