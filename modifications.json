@@ -55,6 +55,16 @@
                     140000
                 ]
             },
+            "enchanted_slimeball": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1100,
+                    1300
+                ]
+            },
             "end_stone": {
                 "from": [
                     6,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "280289227026071559": {
         "modification_history": {},
