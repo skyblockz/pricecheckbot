@@ -45,6 +45,16 @@
                     114000
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    110000,
+                    135000
+                ],
+                "to": [
+                    120000,
+                    140000
+                ]
+            },
             "end_stone": {
                 "from": [
                     6,
@@ -76,7 +86,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "280289227026071559": {
         "modification_history": {},
