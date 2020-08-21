@@ -107,6 +107,13 @@
                     585000
                 ]
             },
+            "undead_essence": {
+                "from": null,
+                "to": [
+                    800,
+                    1000
+                ]
+            },
             "wand_of_restoration": {
                 "from": [
                     50000,
@@ -125,7 +132,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "355554621248503811": {
         "modification_history": {},
