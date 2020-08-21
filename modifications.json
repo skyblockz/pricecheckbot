@@ -57,6 +57,16 @@
                     200000
                 ]
             },
+            "scorpion_bow": {
+                "from": [
+                    3000000,
+                    4500000
+                ],
+                "to": [
+                    3800000,
+                    4100000
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     15600000,
@@ -78,7 +88,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "355554621248503811": {
         "modification_history": {},
