@@ -351,10 +351,13 @@
                 ]
             },
             "epic_super_cleaver": {
-                "from": null,
-                "to": [
+                "from": [
                     800000,
                     95000
+                ],
+                "to": [
+                    800000,
+                    950000
                 ]
             },
             "lvl_100_epic_parrot": {
@@ -395,7 +398,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "608358478712537110": {
         "modification_history": {},
