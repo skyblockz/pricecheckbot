@@ -282,6 +282,16 @@
     },
     "540685105513889793": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    1200000,
+                    1200000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "catalyst": {
                 "from": [
                     25500,
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "608358478712537110": {
         "modification_history": {},
