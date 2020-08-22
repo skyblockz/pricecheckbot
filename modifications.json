@@ -343,6 +343,13 @@
                     30000
                 ]
             },
+            "cleaver": {
+                "from": null,
+                "to": [
+                    10,
+                    20
+                ]
+            },
             "lvl_100_epic_parrot": {
                 "from": [
                     16000000,
@@ -374,7 +381,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608358478712537110": {
         "modification_history": {},
