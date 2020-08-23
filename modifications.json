@@ -115,6 +115,16 @@
                     72000
                 ]
             },
+            "small_slayer_sack": {
+                "from": [
+                    250000,
+                    275000
+                ],
+                "to": [
+                    196000,
+                    229000
+                ]
+            },
             "white_gift": {
                 "from": [
                     6800,
@@ -126,7 +136,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "280289227026071559": {
         "modification_history": {},
