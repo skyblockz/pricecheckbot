@@ -95,6 +95,16 @@
                     6
                 ]
             },
+            "frozen_scythe": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    7010000,
+                    7450000
+                ]
+            },
             "green_gift": {
                 "from": [
                     10300,
@@ -156,7 +166,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "280289227026071559": {
         "modification_history": {},
