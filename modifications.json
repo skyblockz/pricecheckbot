@@ -115,6 +115,16 @@
                     72000
                 ]
             },
+            "large_slayer_sack": {
+                "from": [
+                    1750000,
+                    1750000
+                ],
+                "to": [
+                    1480000,
+                    1540000
+                ]
+            },
             "medium_slayer_sack": {
                 "from": [
                     1000000,
@@ -146,7 +156,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "280289227026071559": {
         "modification_history": {},
