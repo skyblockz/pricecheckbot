@@ -226,6 +226,13 @@
                     5000
                 ]
             },
+            "dragon_essence": {
+                "from": null,
+                "to": [
+                    3000,
+                    4000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     625000,
@@ -354,7 +361,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "355554621248503811": {
         "modification_history": {},
