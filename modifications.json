@@ -243,6 +243,16 @@
                     4000
                 ]
             },
+            "dungeon_orb": {
+                "from": [
+                    5000,
+                    5500
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     625000,
@@ -398,7 +408,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "355554621248503811": {
         "modification_history": {},
