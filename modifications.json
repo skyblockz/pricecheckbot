@@ -283,6 +283,16 @@
                     2850000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1200000,
+                    1500000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "revenant_chestplate": {
                 "from": [
                     1900000,
@@ -378,7 +388,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "355554621248503811": {
         "modification_history": {},
