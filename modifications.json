@@ -758,6 +758,16 @@
                     128000
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    380,
+                    420
+                ],
+                "to": [
+                    270,
+                    460
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     420,
@@ -869,7 +879,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "614661627513536526": {
         "modification_history": {},
