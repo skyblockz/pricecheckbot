@@ -558,6 +558,16 @@
                     1300
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    189000,
+                    195200
+                ],
+                "to": [
+                    182000,
+                    193000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     67500,
@@ -599,7 +609,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "614661627513536526": {
         "modification_history": {},
