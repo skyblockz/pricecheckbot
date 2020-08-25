@@ -293,6 +293,16 @@
                     1000000
                 ]
             },
+            "rejuvenate_i": {
+                "from": [
+                    25000,
+                    35000
+                ],
+                "to": [
+                    34000,
+                    40000
+                ]
+            },
             "revenant_chestplate": {
                 "from": [
                     1900000,
@@ -388,7 +398,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "355554621248503811": {
         "modification_history": {},
