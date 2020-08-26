@@ -304,6 +304,13 @@
                     8000
                 ]
             },
+            "ice_essence": {
+                "from": null,
+                "to": [
+                    25000,
+                    40000
+                ]
+            },
             "looting_iv": {
                 "from": [
                     30000,
@@ -494,7 +501,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "355554621248503811": {
         "modification_history": {},
