@@ -378,6 +378,16 @@
                     1000000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    4000000,
+                    6300000
+                ],
+                "to": [
+                    7000000,
+                    8000000
+                ]
+            },
             "protector_dragon_helmet": {
                 "from": [
                     100000,
@@ -558,7 +568,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "355554621248503811": {
         "modification_history": {},
