@@ -397,6 +397,16 @@
                     585000
                 ]
             },
+            "travel_scroll_to_dark_auction": {
+                "from": [
+                    2500000,
+                    2500000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "undead_essence": {
                 "from": [
                     800,
@@ -425,7 +435,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "355554621248503811": {
         "modification_history": {},
