@@ -283,6 +283,16 @@
                     130000
                 ]
             },
+            "looting_iv": {
+                "from": [
+                    30000,
+                    80000
+                ],
+                "to": [
+                    65000,
+                    80000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2800000,
@@ -415,7 +425,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "355554621248503811": {
         "modification_history": {},
