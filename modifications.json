@@ -1722,6 +1722,16 @@
                     6
                 ]
             },
+            "leather": {
+                "from": [
+                    13,
+                    14
+                ],
+                "to": [
+                    16,
+                    18
+                ]
+            },
             "obsidian": {
                 "from": [
                     15,
@@ -1840,7 +1850,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "645307099970011148": {
         "modification_history": {},
