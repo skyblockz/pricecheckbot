@@ -15,6 +15,16 @@
                     33000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    60000,
+                    74000
+                ],
+                "to": [
+                    94700,
+                    106500
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     810,
@@ -243,7 +253,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "280289227026071559": {
         "modification_history": {},
