@@ -1732,6 +1732,16 @@
                     650
                 ]
             },
+            "enchanted_red_mushroom": {
+                "from": [
+                    3600,
+                    4200
+                ],
+                "to": [
+                    3500,
+                    3850
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     595,
@@ -1950,7 +1960,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "645307099970011148": {
         "modification_history": {},
