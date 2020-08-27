@@ -1792,6 +1792,16 @@
                     19
                 ]
             },
+            "raw_beef": {
+                "from": [
+                    8,
+                    10
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "raw_chicken": {
                 "from": [
                     9,
@@ -1860,7 +1870,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "645307099970011148": {
         "modification_history": {},
