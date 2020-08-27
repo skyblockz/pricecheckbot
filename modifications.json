@@ -204,6 +204,16 @@
                     1300
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    245000,
+                    300000
+                ],
+                "to": [
+                    143000,
+                    167000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     3320000,
@@ -435,7 +445,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "326634716268724248": {
         "modification_history": {
