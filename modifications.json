@@ -1572,6 +1572,16 @@
                     650
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2400,
+                    2600
+                ],
+                "to": [
+                    2200,
+                    2500
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     2400,
@@ -1650,7 +1660,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "645307099970011148": {
         "modification_history": {},
