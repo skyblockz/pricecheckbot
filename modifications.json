@@ -1562,6 +1562,16 @@
                     115000
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    720,
+                    830
+                ],
+                "to": [
+                    635,
+                    650
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     595,
@@ -1610,7 +1620,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "645307099970011148": {
         "modification_history": {},
