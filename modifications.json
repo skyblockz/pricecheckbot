@@ -1642,6 +1642,16 @@
                     16
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    30,
+                    31
+                ],
+                "to": [
+                    37,
+                    38
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1680,7 +1690,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "645307099970011148": {
         "modification_history": {},
