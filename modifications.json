@@ -1692,6 +1692,16 @@
                     18
                 ]
             },
+            "raw_chicken": {
+                "from": [
+                    9,
+                    11
+                ],
+                "to": [
+                    7,
+                    7
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1730,7 +1740,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "645307099970011148": {
         "modification_history": {},
