@@ -1712,6 +1712,16 @@
                     7
                 ]
             },
+            "raw_rabbit": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    9,
+                    13
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1760,7 +1770,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "645307099970011148": {
         "modification_history": {},
