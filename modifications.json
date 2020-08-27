@@ -1562,6 +1562,16 @@
                     115000
                 ]
             },
+            "enchanted_snow_block": {
+                "from": [
+                    595,
+                    620
+                ],
+                "to": [
+                    595,
+                    600
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1600,7 +1610,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "645307099970011148": {
         "modification_history": {},
