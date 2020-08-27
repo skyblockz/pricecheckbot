@@ -212,6 +212,16 @@
                     20000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    352000,
+                    386500
+                ]
+            },
             "small_slayer_sack": {
                 "from": [
                     250000,
@@ -253,7 +263,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "280289227026071559": {
         "modification_history": {},
