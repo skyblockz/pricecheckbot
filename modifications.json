@@ -1552,6 +1552,16 @@
     },
     "626467774310383659": {
         "modification_history": {
+            "crystal_helmet": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    60000,
+                    115000
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1570,7 +1580,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "645307099970011148": {
         "modification_history": {},
