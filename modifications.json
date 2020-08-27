@@ -125,6 +125,16 @@
                     6
                 ]
             },
+            "end_stone_bow": {
+                "from": [
+                    10000,
+                    13000
+                ],
+                "to": [
+                    9000,
+                    11000
+                ]
+            },
             "epic_rotten_boots": {
                 "from": null,
                 "to": [
@@ -287,7 +297,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "280289227026071559": {
         "modification_history": {},
