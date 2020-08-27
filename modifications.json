@@ -204,6 +204,16 @@
                     100000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    760,
+                    840
+                ],
+                "to": [
+                    820,
+                    860
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     25000,
@@ -405,7 +415,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "326634716268724248": {
         "modification_history": {
