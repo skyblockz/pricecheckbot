@@ -204,6 +204,16 @@
                     100000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    26400
+                ],
+                "to": [
+                    24000,
+                    25000
+                ]
+            },
             "holy_dragon_fragment": {
                 "from": [
                     2700,
@@ -345,7 +355,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "326634716268724248": {
         "modification_history": {
