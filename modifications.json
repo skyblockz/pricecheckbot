@@ -1892,6 +1892,16 @@
                     13
                 ]
             },
+            "red_mushroom": {
+                "from": [
+                    18,
+                    22
+                ],
+                "to": [
+                    20,
+                    21
+                ]
+            },
             "revive_stone": {
                 "from": null,
                 "to": [
@@ -1940,7 +1950,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "645307099970011148": {
         "modification_history": {},
