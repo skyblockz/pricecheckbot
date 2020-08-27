@@ -1612,6 +1612,16 @@
                     1255
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    198000,
+                    225000
+                ],
+                "to": [
+                    203500,
+                    215000
+                ]
+            },
             "enchanted_snow_block": {
                 "from": [
                     595,
@@ -1720,7 +1730,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "645307099970011148": {
         "modification_history": {},
