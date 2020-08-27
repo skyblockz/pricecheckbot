@@ -1562,6 +1562,16 @@
                     115000
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    46000,
+                    52000
+                ],
+                "to": [
+                    43000,
+                    49000
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     1300,
@@ -1820,7 +1830,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "645307099970011148": {
         "modification_history": {},
