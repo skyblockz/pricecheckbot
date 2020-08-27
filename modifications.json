@@ -314,6 +314,16 @@
                     6000000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     14000,
@@ -395,7 +405,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "326634716268724248": {
         "modification_history": {
