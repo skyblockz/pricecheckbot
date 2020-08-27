@@ -1612,6 +1612,16 @@
                     15
                 ]
             },
+            "gravel": {
+                "from": [
+                    2,
+                    2
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "obsidian": {
                 "from": [
                     15,
@@ -1660,7 +1670,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "645307099970011148": {
         "modification_history": {},
