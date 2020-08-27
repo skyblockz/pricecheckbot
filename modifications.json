@@ -1562,6 +1562,16 @@
                     16
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    3,
+                    3
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "crystal_helmet": {
                 "from": [
                     100000,
@@ -2000,7 +2010,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "645307099970011148": {
         "modification_history": {},
