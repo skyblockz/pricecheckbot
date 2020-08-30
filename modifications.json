@@ -854,9 +854,19 @@
                     25000,
                     25000
                 ]
+            },
+            "small_backpack": {
+                "from": [
+                    1000,
+                    1500
+                ],
+                "to": [
+                    5000,
+                    5500
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "608358478712537110": {
         "modification_history": {},
