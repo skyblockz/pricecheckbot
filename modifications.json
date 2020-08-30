@@ -281,6 +281,16 @@
                     90000
                 ]
             },
+            "wand_of_mending": {
+                "from": [
+                    9000,
+                    15000
+                ],
+                "to": [
+                    35000,
+                    50000
+                ]
+            },
             "weird_tuba": {
                 "from": [
                     1600000,
@@ -292,7 +302,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "465602727368720385": {
         "modification_history": {},
