@@ -309,6 +309,16 @@
                     150000
                 ]
             },
+            "divers_boots": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    1500000,
+                    1650000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     395000,
@@ -707,7 +717,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "465602727368720385": {
         "modification_history": {},
