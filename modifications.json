@@ -181,6 +181,16 @@
                     30000
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    45,
+                    65
+                ],
+                "to": [
+                    70,
+                    100
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     533000,
@@ -232,7 +242,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "465602727368720385": {
         "modification_history": {},
