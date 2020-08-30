@@ -763,6 +763,13 @@
                     1800000
                 ]
             },
+            "zombie_knight_helmet": {
+                "from": null,
+                "to": [
+                    325000,
+                    375000
+                ]
+            },
             "zombie_soldier_boots": {
                 "from": [
                     100000,
@@ -794,7 +801,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "465602727368720385": {
         "modification_history": {},
