@@ -526,6 +526,16 @@
                     175000
                 ]
             },
+            "legendary_zombie_soldier_helmet": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    50000,
+                    150000
+                ]
+            },
             "machine_gun_bow": {
                 "from": [
                     9000,
@@ -677,7 +687,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "465602727368720385": {
         "modification_history": {},
