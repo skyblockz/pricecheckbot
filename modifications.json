@@ -603,6 +603,16 @@
                     175000
                 ]
             },
+            "large_storage": {
+                "from": [
+                    220000,
+                    260000
+                ],
+                "to": [
+                    265000,
+                    300000
+                ]
+            },
             "legendary_zombie_knight_sword": {
                 "from": [
                     200000,
@@ -852,7 +862,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "465602727368720385": {
         "modification_history": {},
