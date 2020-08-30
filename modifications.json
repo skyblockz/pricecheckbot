@@ -61,6 +61,16 @@
                     220000
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    395000,
+                    420000
+                ],
+                "to": [
+                    365000,
+                    395000
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     1360,
@@ -242,7 +252,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "465602727368720385": {
         "modification_history": {},
