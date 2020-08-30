@@ -339,6 +339,16 @@
                     3550000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    1500000,
+                    1600000
+                ],
+                "to": [
+                    3200000,
+                    3300000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     395000,
@@ -737,7 +747,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "465602727368720385": {
         "modification_history": {},
