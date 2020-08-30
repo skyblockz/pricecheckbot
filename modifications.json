@@ -41,6 +41,16 @@
                     1500000
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    160000,
+                    170000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     3000000,
@@ -72,7 +82,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "355554621248503811": {
         "modification_history": {},
