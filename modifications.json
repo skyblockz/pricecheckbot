@@ -807,8 +807,19 @@
         "total_mods": 1
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "greater_backpack": {
+                "from": [
+                    375000,
+                    475000
+                ],
+                "to": [
+                    450000,
+                    475000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "608358478712537110": {
         "modification_history": {},
