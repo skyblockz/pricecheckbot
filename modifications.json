@@ -318,6 +318,16 @@
                     175000
                 ]
             },
+            "machine_gun_bow": {
+                "from": [
+                    9000,
+                    10000
+                ],
+                "to": [
+                    7500,
+                    8000
+                ]
+            },
             "replenish_i": {
                 "from": [
                     1385000,
@@ -419,7 +429,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "465602727368720385": {
         "modification_history": {},
