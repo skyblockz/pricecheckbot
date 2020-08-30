@@ -31,6 +31,16 @@
                     1500000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "rod_of_legends": {
                 "from": [
                     5800000,
@@ -52,7 +62,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "355554621248503811": {
         "modification_history": {},
