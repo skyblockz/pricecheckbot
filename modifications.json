@@ -509,6 +509,16 @@
                     160000
                 ]
             },
+            "epic_rotten_boots": {
+                "from": [
+                    45000,
+                    60000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "epic_rotten_chestplate": {
                 "from": [
                     50000,
@@ -886,7 +896,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "465602727368720385": {
         "modification_history": {},
