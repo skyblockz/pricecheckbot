@@ -191,6 +191,16 @@
                     175000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1385000,
+                    1450000
+                ],
+                "to": [
+                    1160000,
+                    1370000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     27000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "465602727368720385": {
         "modification_history": {},
