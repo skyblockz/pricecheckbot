@@ -526,6 +526,16 @@
                     175000
                 ]
             },
+            "legendary_zombie_soldier_boots": {
+                "from": [
+                    1980000,
+                    2000000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "legendary_zombie_soldier_helmet": {
                 "from": [
                     300000,
@@ -687,7 +697,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "465602727368720385": {
         "modification_history": {},
