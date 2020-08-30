@@ -81,6 +81,16 @@
                     220000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    200000,
+                    240000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     395000,
@@ -312,7 +322,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "465602727368720385": {
         "modification_history": {},
