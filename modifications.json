@@ -509,6 +509,16 @@
                     160000
                 ]
             },
+            "epic_rotten_chestplate": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    40000
+                ]
+            },
             "epic_rotten_helmet": {
                 "from": null,
                 "to": [
@@ -876,7 +886,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "465602727368720385": {
         "modification_history": {},
