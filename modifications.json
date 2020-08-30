@@ -181,6 +181,16 @@
                     135000
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    2200,
+                    2500
+                ],
+                "to": [
+                    3000,
+                    3800
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     180000,
@@ -362,7 +372,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "465602727368720385": {
         "modification_history": {},
