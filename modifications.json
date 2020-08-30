@@ -645,9 +645,19 @@
                     1600000,
                     1800000
                 ]
+            },
+            "zombie_soldier_chestplate": {
+                "from": [
+                    45000,
+                    48000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "465602727368720385": {
         "modification_history": {},
