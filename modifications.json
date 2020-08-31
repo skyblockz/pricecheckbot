@@ -837,6 +837,16 @@
                     15000
                 ]
             },
+            "travel_scroll_to_spiders_den": {
+                "from": [
+                    245000,
+                    265000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     1900000,
@@ -926,7 +936,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "465602727368720385": {
         "modification_history": {},
