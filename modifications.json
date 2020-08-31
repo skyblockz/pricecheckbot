@@ -1030,6 +1030,16 @@
                     25000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    315000,
+                    330000
+                ],
+                "to": [
+                    400000,
+                    4000000
+                ]
+            },
             "small_backpack": {
                 "from": [
                     1000,
@@ -1041,7 +1051,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "608358478712537110": {
         "modification_history": {},
