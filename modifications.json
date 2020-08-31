@@ -837,6 +837,16 @@
                     90000
                 ]
             },
+            "travel_scroll_to_blazing_fortress": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    110000,
+                    130000
+                ]
+            },
             "travel_scroll_to_howling_cave": {
                 "from": [
                     500,
@@ -946,7 +956,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "465602727368720385": {
         "modification_history": {},
