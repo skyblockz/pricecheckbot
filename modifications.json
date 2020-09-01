@@ -730,6 +730,16 @@
                     8000
                 ]
             },
+            "potato_talisman": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    1300000,
+                    1400000
+                ]
+            },
             "rare_rotten_helmet": {
                 "from": null,
                 "to": [
@@ -976,7 +986,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "465602727368720385": {
         "modification_history": {},
