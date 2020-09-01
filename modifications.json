@@ -62,6 +62,16 @@
                     345000
                 ]
             },
+            "purple_candy": {
+                "from": [
+                    6400,
+                    6500
+                ],
+                "to": [
+                    6900,
+                    7350
+                ]
+            },
             "replenish_i": {
                 "from": [
                     1160000,
@@ -73,7 +83,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "280289227026071559": {
         "modification_history": {},
