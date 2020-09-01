@@ -15,6 +15,16 @@
                     31200
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    850000,
+                    950000
+                ],
+                "to": [
+                    840000,
+                    890000
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     880,
@@ -103,7 +113,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "280289227026071559": {
         "modification_history": {},
