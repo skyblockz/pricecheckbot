@@ -45,6 +45,16 @@
                     8000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    900,
+                    950
+                ],
+                "to": [
+                    930,
+                    995
+                ]
+            },
             "last_stand_i": {
                 "from": null,
                 "to": [
@@ -63,7 +73,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "280289227026071559": {
         "modification_history": {},
