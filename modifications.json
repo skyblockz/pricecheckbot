@@ -55,6 +55,16 @@
                     88000
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    30000,
+                    33000
+                ],
+                "to": [
+                    31000,
+                    33500
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     2000,
@@ -153,7 +163,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "280289227026071559": {
         "modification_history": {},
