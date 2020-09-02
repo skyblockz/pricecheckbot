@@ -232,6 +232,16 @@
                     1465000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    26300,
+                    30000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     5500000,
@@ -253,7 +263,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "280289227026071559": {
         "modification_history": {},
