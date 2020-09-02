@@ -189,6 +189,16 @@
                     9000000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    450000,
+                    475000
+                ],
+                "to": [
+                    420000,
+                    450000
+                ]
+            },
             "hurricane_bow": {
                 "from": [
                     150000,
@@ -347,7 +357,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "355554621248503811": {
         "modification_history": {},
