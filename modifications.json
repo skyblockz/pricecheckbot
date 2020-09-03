@@ -272,6 +272,16 @@
                     1465000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1700000,
+                    1800000
+                ],
+                "to": [
+                    1250000,
+                    1400000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     25000,
@@ -313,7 +323,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "280289227026071559": {
         "modification_history": {},
