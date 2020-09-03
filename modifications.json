@@ -2053,6 +2053,16 @@
                     75900
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    92000,
+                    100000
+                ],
+                "to": [
+                    86800,
+                    94500
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     15000,
@@ -2094,7 +2104,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "614661627513536526": {
         "modification_history": {},
