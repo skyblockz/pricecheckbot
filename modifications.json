@@ -395,6 +395,16 @@
                     2500
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    43000,
+                    49000
+                ],
+                "to": [
+                    250,
+                    270
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     405,
@@ -556,7 +566,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "326634716268724248": {
         "modification_history": {
