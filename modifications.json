@@ -987,6 +987,16 @@
                     3200000
                 ]
             },
+            "dragon_horn": {
+                "from": [
+                    9000000,
+                    9750000
+                ],
+                "to": [
+                    10200000,
+                    10200000
+                ]
+            },
             "lvl_100_legendary_lion": {
                 "from": null,
                 "to": [
@@ -1029,7 +1039,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "421726698384392195": {
         "modification_history": {},
