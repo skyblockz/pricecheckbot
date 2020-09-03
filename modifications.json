@@ -987,6 +987,13 @@
                     3200000
                 ]
             },
+            "bouncy_boots": {
+                "from": null,
+                "to": [
+                    220000,
+                    280000
+                ]
+            },
             "dragon_horn": {
                 "from": [
                     9000000,
@@ -1066,7 +1073,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "421726698384392195": {
         "modification_history": {},
