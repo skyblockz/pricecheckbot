@@ -1049,6 +1049,16 @@
                     7000000
                 ]
             },
+            "lvl_1_legendary_hound": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    8400000,
+                    8800000
+                ]
+            },
             "lvl_1_legendary_lion": {
                 "from": [
                     13000000,
@@ -1104,7 +1114,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "421726698384392195": {
         "modification_history": {},
