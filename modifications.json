@@ -1039,6 +1039,16 @@
                     90000000
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    29000000,
+                    33000000
+                ],
+                "to": [
+                    16900000,
+                    17000000
+                ]
+            },
             "lvl_1_epic_hound": {
                 "from": [
                     1100000,
@@ -1144,7 +1154,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "421726698384392195": {
         "modification_history": {},
