@@ -1001,6 +1001,13 @@
                     180000
                 ]
             },
+            "bouncy_leggings": {
+                "from": null,
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "dragon_horn": {
                 "from": [
                     9000000,
@@ -1080,7 +1087,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "421726698384392195": {
         "modification_history": {},
