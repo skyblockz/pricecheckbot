@@ -877,6 +877,16 @@
                     450000
                 ]
             },
+            "scarfs_grimoire": {
+                "from": [
+                    10300000,
+                    11000000
+                ],
+                "to": [
+                    8500000,
+                    9000000
+                ]
+            },
             "sniper_bow": {
                 "from": null,
                 "to": [
@@ -925,7 +935,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "355554621248503811": {
         "modification_history": {},
