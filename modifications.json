@@ -1921,6 +1921,16 @@
                     1300000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    325000,
+                    350000
+                ],
+                "to": [
+                    350000,
+                    357000
+                ]
+            },
             "epic_farming_exp_boost": {
                 "from": [
                     1500000,
@@ -1992,7 +2002,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "642620000083116062": {
         "modification_history": {},
