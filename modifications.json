@@ -780,6 +780,13 @@
                     580000
                 ]
             },
+            "rend_v": {
+                "from": null,
+                "to": [
+                    10000000,
+                    10500000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     3000000,
@@ -858,7 +865,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "355554621248503811": {
         "modification_history": {},
