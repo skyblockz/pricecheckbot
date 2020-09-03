@@ -15,6 +15,16 @@
                     31200
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    22000,
+                    28000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     850000,
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "280289227026071559": {
         "modification_history": {},
