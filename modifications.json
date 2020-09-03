@@ -660,6 +660,16 @@
                     1500000
                 ]
             },
+            "feather_falling_x": {
+                "from": [
+                    600000,
+                    600000
+                ],
+                "to": [
+                    400000,
+                    400000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     8150000,
@@ -865,7 +875,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "355554621248503811": {
         "modification_history": {},
