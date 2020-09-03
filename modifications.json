@@ -1089,6 +1089,16 @@
                     3200000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    700000,
+                    750000
+                ]
+            },
             "red_crab_hat_of_celebration": {
                 "from": [
                     250000,
@@ -1154,7 +1164,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "421726698384392195": {
         "modification_history": {},
