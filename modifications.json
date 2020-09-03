@@ -2031,6 +2031,16 @@
                     1
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    26300,
+                    30000
+                ],
+                "to": [
+                    26300,
+                    27000
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     18000,
@@ -2102,7 +2112,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "642620000083116062": {
         "modification_history": {},
