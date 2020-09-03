@@ -1025,6 +1025,16 @@
                     10200000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    190000,
+                    190000
+                ],
+                "to": [
+                    175000,
+                    180000
+                ]
+            },
             "inflatable_jerry": {
                 "from": null,
                 "to": [
@@ -1164,7 +1174,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "421726698384392195": {
         "modification_history": {},
