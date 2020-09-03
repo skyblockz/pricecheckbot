@@ -1931,6 +1931,16 @@
                     32000
                 ]
             },
+            "clay": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     325000,
@@ -2132,7 +2142,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "642620000083116062": {
         "modification_history": {},
