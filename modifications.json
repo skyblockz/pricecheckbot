@@ -1025,6 +1025,16 @@
                     10200000
                 ]
             },
+            "emerald_armor_boots": {
+                "from": [
+                    600000,
+                    670000
+                ],
+                "to": [
+                    450000,
+                    450000
+                ]
+            },
             "emerald_armor_chestplate": {
                 "from": [
                     1200000,
@@ -1224,7 +1234,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "421726698384392195": {
         "modification_history": {},
