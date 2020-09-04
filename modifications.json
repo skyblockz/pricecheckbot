@@ -2124,10 +2124,13 @@
     "540685105513889793": {
         "modification_history": {
             "adaptive_chestplate_5_star": {
-                "from": null,
-                "to": [
+                "from": [
                     7750000,
                     800000
+                ],
+                "to": [
+                    7750000,
+                    8000000
                 ]
             },
             "catalyst": {
@@ -2191,7 +2194,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "608358478712537110": {
         "modification_history": {
