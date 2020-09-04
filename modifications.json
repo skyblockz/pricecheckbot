@@ -2238,6 +2238,16 @@
                     475000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "large_backpack": {
                 "from": [
                     120000,
@@ -2279,7 +2289,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "608358478712537110": {
         "modification_history": {
