@@ -2338,6 +2338,16 @@
                     180000
                 ]
             },
+            "lily_pad": {
+                "from": [
+                    180,
+                    200
+                ],
+                "to": [
+                    200,
+                    215
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     10000,
@@ -2379,7 +2389,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608358478712537110": {
         "modification_history": {
