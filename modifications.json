@@ -2338,6 +2338,16 @@
                     25000
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    37,
+                    38
+                ],
+                "to": [
+                    42,
+                    43
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     400000,
@@ -2359,7 +2369,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "608358478712537110": {
         "modification_history": {
