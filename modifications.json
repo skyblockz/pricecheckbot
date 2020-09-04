@@ -1763,6 +1763,16 @@
                     4800000
                 ]
             },
+            "lvl_1_legendary_dolphin": {
+                "from": [
+                    15000000,
+                    28000000
+                ],
+                "to": [
+                    20000000,
+                    28000000
+                ]
+            },
             "machine_gun_bow": {
                 "from": [
                     9000,
@@ -2029,7 +2039,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "465602727368720385": {
         "modification_history": {},
