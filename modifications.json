@@ -1940,6 +1940,16 @@
                     90000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    4500000,
+                    4750000
+                ],
+                "to": [
+                    4000000,
+                    4500000
+                ]
+            },
             "travel_scroll_to_blazing_fortress": {
                 "from": [
                     50000,
@@ -2069,7 +2079,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "465602727368720385": {
         "modification_history": {},
