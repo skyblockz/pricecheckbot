@@ -1813,6 +1813,16 @@
                     8000
                 ]
             },
+            "personal_compactor_4000": {
+                "from": [
+                    900000,
+                    940000
+                ],
+                "to": [
+                    950000,
+                    1000000
+                ]
+            },
             "potato_talisman": {
                 "from": [
                     90000,
@@ -2079,7 +2089,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "465602727368720385": {
         "modification_history": {},
