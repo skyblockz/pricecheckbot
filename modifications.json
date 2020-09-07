@@ -700,6 +700,16 @@
                     1500000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    11000000,
+                    12000000
+                ],
+                "to": [
+                    3900000,
+                    4000000
+                ]
+            },
             "feather_falling_x": {
                 "from": [
                     600000,
@@ -1005,7 +1015,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "355554621248503811": {
         "modification_history": {},
