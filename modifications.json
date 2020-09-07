@@ -780,6 +780,16 @@
                     34000000
                 ]
             },
+            "lvl_1_epic_ender_dragon": {
+                "from": [
+                    175000000,
+                    180000000
+                ],
+                "to": [
+                    210000000,
+                    225000000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     18000000,
@@ -985,7 +995,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "355554621248503811": {
         "modification_history": {},
