@@ -385,6 +385,16 @@
                     1
                 ]
             },
+            "catalyst": {
+                "from": [
+                    30300,
+                    32000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     69000,
@@ -726,7 +736,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "326634716268724248": {
         "modification_history": {
