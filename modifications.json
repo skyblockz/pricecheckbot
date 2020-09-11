@@ -154,6 +154,16 @@
                     11000000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    45000,
+                    55000
+                ],
+                "to": [
+                    50000,
+                    70000
+                ]
+            },
             "treasure_artifact": {
                 "from": [
                     140000000,
@@ -165,7 +175,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "402579049219751946": {
         "modification_history": {},
