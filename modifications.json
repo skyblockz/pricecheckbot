@@ -94,6 +94,16 @@
                     1000000
                 ]
             },
+            "fairys_galoshes": {
+                "from": [
+                    25000,
+                    45000
+                ],
+                "to": [
+                    20000,
+                    150000
+                ]
+            },
             "fairys_trousers": {
                 "from": [
                     20000,
@@ -215,7 +225,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "402579049219751946": {
         "modification_history": {},
