@@ -94,6 +94,16 @@
                     1000000
                 ]
             },
+            "fairys_fedora": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    20000,
+                    150000
+                ]
+            },
             "fairys_galoshes": {
                 "from": [
                     25000,
@@ -235,7 +245,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "402579049219751946": {
         "modification_history": {},
