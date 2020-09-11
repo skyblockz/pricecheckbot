@@ -264,6 +264,16 @@
                     5000000
                 ]
             },
+            "minion_expander": {
+                "from": [
+                    5000,
+                    25000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     51000000,
@@ -385,7 +395,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "402579049219751946": {
         "modification_history": {},
