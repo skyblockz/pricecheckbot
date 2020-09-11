@@ -144,6 +144,16 @@
                     5000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    51000000,
+                    54000000
+                ],
+                "to": [
+                    47000000,
+                    50000000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     10000,
@@ -195,7 +205,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "402579049219751946": {
         "modification_history": {},
