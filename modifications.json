@@ -134,6 +134,16 @@
                     19020000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    4500000,
+                    5000000
+                ],
+                "to": [
+                    4300000,
+                    5000000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     10000,
@@ -185,7 +195,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "402579049219751946": {
         "modification_history": {},
