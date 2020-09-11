@@ -277,6 +277,16 @@
                     15000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    1100000,
+                    1100000
+                ],
+                "to": [
+                    1650000,
+                    1900000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -418,7 +428,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "465602727368720385": {
         "modification_history": {},
