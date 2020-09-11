@@ -287,6 +287,16 @@
                     1900000
                 ]
             },
+            "sponge": {
+                "from": [
+                    95,
+                    105
+                ],
+                "to": [
+                    800,
+                    900
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -428,7 +438,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "465602727368720385": {
         "modification_history": {},
