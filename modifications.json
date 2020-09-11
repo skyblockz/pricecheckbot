@@ -82,6 +82,16 @@
                     2900
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    63800,
+                    75000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     1000,
@@ -153,7 +163,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "465602727368720385": {
         "modification_history": {},
