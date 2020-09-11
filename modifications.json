@@ -234,6 +234,16 @@
                     19020000
                 ]
             },
+            "lvl_1_legendary_phoenix": {
+                "from": [
+                    80000000,
+                    110000000
+                ],
+                "to": [
+                    72500000,
+                    79000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     4500000,
@@ -365,7 +375,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "402579049219751946": {
         "modification_history": {},
