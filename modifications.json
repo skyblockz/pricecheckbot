@@ -224,6 +224,16 @@
                     50000
                 ]
             },
+            "recombobulator_3000": {
+                "from": [
+                    6460000,
+                    6725000
+                ],
+                "to": [
+                    7500000,
+                    7970000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     34000000,
@@ -285,7 +295,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "402579049219751946": {
         "modification_history": {},
