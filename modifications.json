@@ -104,6 +104,16 @@
                     34000000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1770000,
+                    1900000
+                ],
+                "to": [
+                    2100000,
+                    3500000
+                ]
+            },
             "lvl_100_legendary_black_cat": {
                 "from": [
                     80000000,
@@ -145,7 +155,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "402579049219751946": {
         "modification_history": {},
