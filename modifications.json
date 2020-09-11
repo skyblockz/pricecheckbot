@@ -104,6 +104,16 @@
                     150000
                 ]
             },
+            "fairys_polo": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    10000,
+                    100000
+                ]
+            },
             "fairys_trousers": {
                 "from": [
                     20000,
@@ -225,7 +235,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "402579049219751946": {
         "modification_history": {},
