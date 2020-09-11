@@ -134,6 +134,16 @@
                     19020000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    19000,
+                    50000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     34000000,
@@ -175,7 +185,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "402579049219751946": {
         "modification_history": {},
