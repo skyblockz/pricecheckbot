@@ -82,6 +82,16 @@
                     2900
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    1000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -143,7 +153,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "465602727368720385": {
         "modification_history": {},
