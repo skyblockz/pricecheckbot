@@ -84,6 +84,16 @@
                     350000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    86800,
+                    94500
+                ],
+                "to": [
+                    63000,
+                    65000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     600000,
@@ -295,7 +305,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "402579049219751946": {
         "modification_history": {},
