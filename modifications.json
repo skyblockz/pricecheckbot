@@ -64,6 +64,16 @@
     },
     "395028811399299082": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    800000,
+                    1300000
+                ],
+                "to": [
+                    850000,
+                    1300000
+                ]
+            },
             "earth_shard": {
                 "from": [
                     25000,
@@ -95,7 +105,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "402579049219751946": {
         "modification_history": {},
