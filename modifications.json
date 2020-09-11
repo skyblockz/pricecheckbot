@@ -124,6 +124,16 @@
                     19020000
                 ]
             },
+            "silk-edge_sword": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    4000000,
+                    11000000
+                ]
+            },
             "treasure_artifact": {
                 "from": [
                     140000000,
@@ -135,7 +145,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "402579049219751946": {
         "modification_history": {},
