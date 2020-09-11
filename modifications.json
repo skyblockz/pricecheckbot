@@ -94,6 +94,16 @@
                     1000000
                 ]
             },
+            "fairys_trousers": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    5000,
+                    60000
+                ]
+            },
             "hunter_ring": {
                 "from": [
                     22000000,
@@ -205,7 +215,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "402579049219751946": {
         "modification_history": {},
