@@ -118,6 +118,16 @@
                     65000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    12800000,
+                    12900000
+                ],
+                "to": [
+                    11500000,
+                    12900000
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     4000000,
@@ -506,7 +516,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "402579049219751946": {
         "modification_history": {},
