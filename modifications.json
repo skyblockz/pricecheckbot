@@ -531,6 +531,16 @@
                     3500000
                 ]
             },
+            "catalyst": {
+                "from": [
+                    45000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    45000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     2500,
@@ -872,7 +882,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "465602727368720385": {
         "modification_history": {},
