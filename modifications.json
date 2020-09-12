@@ -104,6 +104,16 @@
                     3000000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    475000,
+                    700000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     430000,
@@ -415,7 +425,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "402579049219751946": {
         "modification_history": {},
