@@ -551,6 +551,16 @@
                     30000
                 ]
             },
+            "epic_silent_death": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "exp_share": {
                 "from": [
                     390000,
@@ -852,7 +862,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "465602727368720385": {
         "modification_history": {},
