@@ -691,6 +691,16 @@
                     8500000
                 ]
             },
+            "pooch_sword": {
+                "from": [
+                    4250000,
+                    4750000
+                ],
+                "to": [
+                    5100000,
+                    5400000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     1000,
@@ -912,7 +922,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "465602727368720385": {
         "modification_history": {},
