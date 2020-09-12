@@ -318,6 +318,16 @@
                     700000
                 ]
             },
+            "lvl_1_legendary_spirit": {
+                "from": [
+                    4000000,
+                    4400000
+                ],
+                "to": [
+                    3400000,
+                    4900000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     4500000,
@@ -459,7 +469,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "402579049219751946": {
         "modification_history": {},
