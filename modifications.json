@@ -741,6 +741,16 @@
                     3500000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    1660000,
+                    1930000
+                ],
+                "to": [
+                    2300000,
+                    2600000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     1100000,
@@ -952,7 +962,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "465602727368720385": {
         "modification_history": {},
