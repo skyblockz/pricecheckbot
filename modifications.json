@@ -288,6 +288,16 @@
                     7600000
                 ]
             },
+            "lvl_1_epic_spirit": {
+                "from": [
+                    970000,
+                    980000
+                ],
+                "to": [
+                    900000,
+                    900000
+                ]
+            },
             "lvl_1_legendary_black_cat": {
                 "from": [
                     14000000,
@@ -469,7 +479,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "402579049219751946": {
         "modification_history": {},
