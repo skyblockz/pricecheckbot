@@ -631,6 +631,16 @@
                     9500000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "golden_tooth": {
                 "from": [
                     63800,
@@ -942,7 +952,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "465602727368720385": {
         "modification_history": {},
