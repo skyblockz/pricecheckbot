@@ -551,6 +551,16 @@
                     40000
                 ]
             },
+            "edible_mace": {
+                "from": [
+                    1400000,
+                    1700000
+                ],
+                "to": [
+                    900000,
+                    1300000
+                ]
+            },
             "enchanted_obsidian": {
                 "from": [
                     2500,
@@ -902,7 +912,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "465602727368720385": {
         "modification_history": {},
