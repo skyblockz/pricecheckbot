@@ -537,6 +537,16 @@
                     30000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    475000,
+                    700000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     8700000,
@@ -798,7 +808,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "465602727368720385": {
         "modification_history": {},
