@@ -728,6 +728,16 @@
                     400000
                 ]
             },
+            "feather_artifact": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    63000,
+                    70000
+                ]
+            },
             "feather_ring": {
                 "from": [
                     8000,
@@ -1119,7 +1129,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "465602727368720385": {
         "modification_history": {},
