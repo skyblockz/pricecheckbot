@@ -298,6 +298,16 @@
                     79000000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     4500000,
@@ -439,7 +449,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "402579049219751946": {
         "modification_history": {},
