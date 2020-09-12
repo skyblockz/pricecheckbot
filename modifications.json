@@ -788,6 +788,16 @@
                     5000000
                 ]
             },
+            "night_vision_charm": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8000000,
@@ -1049,7 +1059,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "465602727368720385": {
         "modification_history": {},
