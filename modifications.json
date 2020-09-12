@@ -641,6 +641,16 @@
                     5000000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    8000000,
+                    850000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     1000,
@@ -862,7 +872,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "465602727368720385": {
         "modification_history": {},
