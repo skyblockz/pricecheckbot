@@ -728,6 +728,16 @@
                     400000
                 ]
             },
+            "feather_ring": {
+                "from": [
+                    8000,
+                    13000
+                ],
+                "to": [
+                    3500,
+                    4000
+                ]
+            },
             "feather_talisman": {
                 "from": [
                     160,
@@ -1109,7 +1119,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "465602727368720385": {
         "modification_history": {},
