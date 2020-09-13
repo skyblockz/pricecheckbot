@@ -908,6 +908,16 @@
                     5000000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    200000,
+                    230000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "night_vision_charm": {
                 "from": [
                     30000,
@@ -1209,7 +1219,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "465602727368720385": {
         "modification_history": {},
