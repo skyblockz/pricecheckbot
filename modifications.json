@@ -728,6 +728,16 @@
                     3200
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    71800,
+                    75900
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     4200,
@@ -1279,7 +1289,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "465602727368720385": {
         "modification_history": {},
