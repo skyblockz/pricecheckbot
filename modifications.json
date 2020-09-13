@@ -235,6 +235,16 @@
                     750000
                 ]
             },
+            "flycatcher": {
+                "from": [
+                    6850000,
+                    7900000
+                ],
+                "to": [
+                    10500000,
+                    12500000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1200000,
@@ -603,7 +613,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "402579049219751946": {
         "modification_history": {},
