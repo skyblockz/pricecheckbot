@@ -848,6 +848,16 @@
                     20000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    100000,
+                    130000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     8700000,
@@ -1349,7 +1359,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "465602727368720385": {
         "modification_history": {},
