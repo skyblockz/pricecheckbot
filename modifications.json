@@ -285,6 +285,16 @@
                     34000000
                 ]
             },
+            "hyper_furnace": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    100000,
+                    140000
+                ]
+            },
             "ice_spray_wand": {
                 "from": [
                     49000000,
@@ -613,7 +623,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "402579049219751946": {
         "modification_history": {},
