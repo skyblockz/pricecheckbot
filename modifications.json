@@ -545,6 +545,16 @@
                     22000000
                 ]
             },
+            "treasure_talisman": {
+                "from": [
+                    2200000,
+                    2350000
+                ],
+                "to": [
+                    1900000,
+                    2500000
+                ]
+            },
             "weather_stick": {
                 "from": null,
                 "to": [
@@ -553,7 +563,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "402579049219751946": {
         "modification_history": {},
