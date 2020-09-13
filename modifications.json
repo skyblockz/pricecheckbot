@@ -415,6 +415,16 @@
                     100000
                 ]
             },
+            "nope_the_fish": {
+                "from": [
+                    420,
+                    1000
+                ],
+                "to": [
+                    50000,
+                    150000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     51000000,
@@ -563,7 +573,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "402579049219751946": {
         "modification_history": {},
