@@ -888,6 +888,16 @@
                     250000
                 ]
             },
+            "healing_talisman": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    70000,
+                    85000
+                ]
+            },
             "hilt_of_true_ice": {
                 "from": [
                     2800000,
@@ -1259,7 +1269,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "465602727368720385": {
         "modification_history": {},
