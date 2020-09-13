@@ -658,6 +658,16 @@
                     1300000
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2300,
+                    2575
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "enchanted_brown_mushroom": {
                 "from": [
                     985,
@@ -1219,7 +1229,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "465602727368720385": {
         "modification_history": {},
