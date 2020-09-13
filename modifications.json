@@ -738,6 +738,16 @@
                     400000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    485000,
+                    542000
+                ],
+                "to": [
+                    485000,
+                    500000
+                ]
+            },
             "feather_artifact": {
                 "from": [
                     95000,
@@ -1169,7 +1179,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "465602727368720385": {
         "modification_history": {},
