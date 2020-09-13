@@ -898,6 +898,16 @@
                     3100000
                 ]
             },
+            "lava_talisman": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     2100000,
@@ -1249,7 +1259,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "465602727368720385": {
         "modification_history": {},
