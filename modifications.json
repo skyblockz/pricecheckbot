@@ -535,6 +535,16 @@
                     157500000
                 ]
             },
+            "treasure_ring": {
+                "from": [
+                    17500000,
+                    17500000
+                ],
+                "to": [
+                    16700000,
+                    22000000
+                ]
+            },
             "weather_stick": {
                 "from": null,
                 "to": [
@@ -543,7 +553,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "402579049219751946": {
         "modification_history": {},
