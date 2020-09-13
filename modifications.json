@@ -698,6 +698,16 @@
                     2600
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    85000,
+                    94000
+                ],
+                "to": [
+                    115000,
+                    130000
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1270,
@@ -1399,7 +1409,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "465602727368720385": {
         "modification_history": {},
