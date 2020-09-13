@@ -888,6 +888,16 @@
                     5400000
                 ]
             },
+            "potion_affinity_talisman": {
+                "from": [
+                    1000,
+                    1200
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     1000,
@@ -1149,7 +1159,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "465602727368720385": {
         "modification_history": {},
