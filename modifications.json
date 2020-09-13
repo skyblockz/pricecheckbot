@@ -1170,12 +1170,12 @@
             },
             "super_compactor_3000": {
                 "from": [
-                    485000,
-                    498000
-                ],
-                "to": [
                     1500000,
                     1650000
+                ],
+                "to": [
+                    485000,
+                    495000
                 ]
             },
             "superior_dragon_chestplate": {
@@ -1309,7 +1309,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "465602727368720385": {
         "modification_history": {},
