@@ -225,6 +225,16 @@
                     60000
                 ]
             },
+            "flake_the_fish": {
+                "from": [
+                    70000,
+                    150000
+                ],
+                "to": [
+                    100000,
+                    750000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1200000,
@@ -573,7 +583,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "402579049219751946": {
         "modification_history": {},
