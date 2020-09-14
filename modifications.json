@@ -1671,6 +1671,16 @@
                     18500000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    40000000,
+                    44000000
+                ],
+                "to": [
+                    31500000,
+                    32000000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     940000,
@@ -1732,7 +1742,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "608358478712537110": {
         "modification_history": {},
