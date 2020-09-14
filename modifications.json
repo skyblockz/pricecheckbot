@@ -1681,6 +1681,16 @@
                     8000000
                 ]
             },
+            "sponge_chestplate": {
+                "from": [
+                    5500000,
+                    6500000
+                ],
+                "to": [
+                    9700000,
+                    10500000
+                ]
+            },
             "sponge_leggings": {
                 "from": [
                     5500000,
@@ -1702,7 +1712,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "608358478712537110": {
         "modification_history": {},
