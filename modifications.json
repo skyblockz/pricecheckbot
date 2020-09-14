@@ -505,6 +505,13 @@
                     50000
                 ]
             },
+            "rare_diamond": {
+                "from": null,
+                "to": [
+                    3000,
+                    10000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     6460000,
@@ -633,7 +640,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "402579049219751946": {
         "modification_history": {},
