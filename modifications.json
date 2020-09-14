@@ -455,6 +455,16 @@
                     100000
                 ]
             },
+            "molten_cube": {
+                "from": [
+                    400,
+                    500
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "nope_the_fish": {
                 "from": [
                     420,
@@ -640,7 +650,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "402579049219751946": {
         "modification_history": {},
