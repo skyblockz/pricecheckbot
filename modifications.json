@@ -98,6 +98,16 @@
                     600000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    430000,
+                    600000
+                ]
+            },
             "earth_shard": {
                 "from": [
                     25000,
@@ -700,7 +710,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "402579049219751946": {
         "modification_history": {},
