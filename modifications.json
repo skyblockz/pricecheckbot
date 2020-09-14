@@ -552,6 +552,16 @@
                     400000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    2250000,
+                    2300000
+                ],
+                "to": [
+                    1450000,
+                    2300000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     34000000,
@@ -690,7 +700,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "402579049219751946": {
         "modification_history": {},
