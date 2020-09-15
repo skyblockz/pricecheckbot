@@ -79,6 +79,16 @@
                     1600
                 ]
             },
+            "lily_pad": {
+                "from": [
+                    800,
+                    900
+                ],
+                "to": [
+                    280,
+                    320
+                ]
+            },
             "prismarine_shard": {
                 "from": [
                     3,
@@ -130,7 +140,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "280289227026071559": {
         "modification_history": {},
