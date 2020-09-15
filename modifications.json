@@ -139,6 +139,16 @@
                     10
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    485000,
+                    495000
+                ],
+                "to": [
+                    530000,
+                    540000
+                ]
+            },
             "whale_bait": {
                 "from": [
                     1000,
@@ -150,7 +160,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "280289227026071559": {
         "modification_history": {},
