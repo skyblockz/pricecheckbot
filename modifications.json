@@ -19,6 +19,16 @@
                     63100
                 ]
             },
+            "compactor": {
+                "from": [
+                    5500,
+                    7000
+                ],
+                "to": [
+                    7600,
+                    10000
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     650000,
@@ -160,7 +170,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "280289227026071559": {
         "modification_history": {},
