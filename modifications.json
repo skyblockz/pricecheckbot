@@ -59,6 +59,16 @@
                     1600
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    14,
+                    16
+                ],
+                "to": [
+                    16,
+                    22
+                ]
+            },
             "raw_fish": {
                 "from": [
                     23,
@@ -90,7 +100,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "280289227026071559": {
         "modification_history": {},
