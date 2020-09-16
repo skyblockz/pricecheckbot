@@ -318,6 +318,16 @@
                     350000
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    300000,
+                    650000
+                ]
+            },
             "enchanted_poisonous_potato": {
                 "from": null,
                 "to": [
@@ -930,7 +940,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "402579049219751946": {
         "modification_history": {},
