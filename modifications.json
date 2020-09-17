@@ -492,6 +492,13 @@
                     2000000
                 ]
             },
+            "god_potion": {
+                "from": null,
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "grizzly_bait": {
                 "from": [
                     1000000,
@@ -977,7 +984,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "402579049219751946": {
         "modification_history": {},
