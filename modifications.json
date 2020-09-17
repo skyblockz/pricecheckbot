@@ -549,6 +549,16 @@
                     60000000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    135000,
+                    140000
+                ],
+                "to": [
+                    155000,
+                    180000
+                ]
+            },
             "lava_talisman": {
                 "from": [
                     10000,
@@ -1004,7 +1014,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "402579049219751946": {
         "modification_history": {},
