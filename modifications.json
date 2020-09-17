@@ -562,6 +562,16 @@
                     3500000
                 ]
             },
+            "legendary_zombie_knight_sword": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "lvl_100_epic_parrot": {
                 "from": [
                     20500000,
@@ -967,7 +977,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "402579049219751946": {
         "modification_history": {},
