@@ -709,6 +709,16 @@
                     5000000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    7100,
+                    9500
+                ],
+                "to": [
+                    38000,
+                    50000
+                ]
+            },
             "minion_expander": {
                 "from": [
                     5000,
@@ -994,7 +1004,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "402579049219751946": {
         "modification_history": {},
