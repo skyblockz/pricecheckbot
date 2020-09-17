@@ -382,6 +382,16 @@
                     3000000
                 ]
             },
+            "epic_zombie_knight_sword": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    30000,
+                    75000
+                ]
+            },
             "exp_share_core": {
                 "from": [
                     200000,
@@ -957,7 +967,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "402579049219751946": {
         "modification_history": {},
