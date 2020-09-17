@@ -856,6 +856,16 @@
                     11000000
                 ]
             },
+            "small_backpack": {
+                "from": [
+                    960,
+                    1250
+                ],
+                "to": [
+                    9900,
+                    10000
+                ]
+            },
             "spider_artifact": {
                 "from": [
                     3300000,
@@ -984,7 +994,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "402579049219751946": {
         "modification_history": {},
