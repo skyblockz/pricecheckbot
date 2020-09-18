@@ -107,8 +107,19 @@
         "total_mods": 1
     },
     "423616130544828427": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enchanted_gold_block": {
+                "from": [
+                    785000,
+                    815000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "465602727368720385": {
         "modification_history": {},
