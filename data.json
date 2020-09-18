@@ -7636,5 +7636,11 @@
         "hi": 1300000,
         "low": 1200000,
         "name": "critical_damage_enrichment"
+    },
+    {
+        "ac": true,
+        "hi": 1300000,
+        "low": 1200000,
+        "name": "critical_chance_enrichment"
     }
 ]
