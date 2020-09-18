@@ -719,6 +719,16 @@
                     2700
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    131000,
+                    146000
+                ],
+                "to": [
+                    137000,
+                    154000
+                ]
+            },
             "enchanted_quartz": {
                 "from": [
                     2500,
@@ -820,7 +830,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "614661627513536526": {
         "modification_history": {},
