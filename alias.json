@@ -1734,5 +1734,9 @@
     {
         "dest": "hyper_catalyst_upgrade",
         "src": "hyper_catalyst"
+    },
+    {
+        "dest": "minion_storage_xpender",
+        "src": "xpender"
     }
 ]
