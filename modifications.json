@@ -550,6 +550,13 @@
                     35000
                 ]
             },
+            "strength_enrichment": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "travel_scroll_to_spiders_den": {
                 "from": [
                     15000,
@@ -578,7 +585,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "333950092493193216": {
         "modification_history": {},
