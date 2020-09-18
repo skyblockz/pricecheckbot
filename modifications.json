@@ -169,6 +169,16 @@
                     130000
                 ]
             },
+            "speedster_chestplate": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    475000,
+                    500000
+                ]
+            },
             "spider_catalyst": {
                 "from": [
                     500,
@@ -200,7 +210,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "465602727368720385": {
         "modification_history": {},
