@@ -223,6 +223,16 @@
                     3800000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    38000,
+                    50000
+                ],
+                "to": [
+                    33000,
+                    45000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     44000000,
@@ -324,7 +334,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "395295454872469504": {
         "modification_history": {},
