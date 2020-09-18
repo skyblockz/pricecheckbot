@@ -203,6 +203,16 @@
                     4200000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    155000,
+                    180000
+                ],
+                "to": [
+                    164000,
+                    200000
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     2000000,
@@ -334,7 +344,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "395295454872469504": {
         "modification_history": {},
