@@ -467,6 +467,13 @@
                     600
                 ]
             },
+            "skeleton_solider_boots": {
+                "from": null,
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "spiked_hook_vi": {
                 "from": [
                     35000,
@@ -505,7 +512,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "333950092493193216": {
         "modification_history": {},
