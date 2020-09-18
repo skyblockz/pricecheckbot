@@ -457,6 +457,13 @@
                     190000
                 ]
             },
+            "critical_damage_enrichment": {
+                "from": null,
+                "to": [
+                    1200000,
+                    1300000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     32000,
@@ -557,7 +564,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "333950092493193216": {
         "modification_history": {},
