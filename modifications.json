@@ -183,6 +183,16 @@
                     1900000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    40000,
+                    40000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "daedalus_axe": {
                 "from": [
                     30000000,
@@ -264,7 +274,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "465602727368720385": {
         "modification_history": {},
