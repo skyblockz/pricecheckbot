@@ -35,6 +35,16 @@
                     1000000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    190000,
+                    200000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "heat_core": {
                 "from": null,
                 "to": [
@@ -118,7 +128,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "243891044947722240": {
         "modification_history": {},
