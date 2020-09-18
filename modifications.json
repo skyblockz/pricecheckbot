@@ -495,6 +495,13 @@
                     80000
                 ]
             },
+            "intelligence_enrichment": {
+                "from": null,
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "jumbo_backpack": {
                 "from": null,
                 "to": [
@@ -592,7 +599,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "333950092493193216": {
         "modification_history": {},
