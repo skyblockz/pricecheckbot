@@ -2802,6 +2802,16 @@
                     290
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "lily_pad": {
                 "from": [
                     280,
@@ -2903,7 +2913,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "642620000083116062": {
         "modification_history": {},
