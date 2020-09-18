@@ -464,6 +464,13 @@
                     190000
                 ]
             },
+            "booster_cookie": {
+                "from": null,
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "critical_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -620,7 +627,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "333950092493193216": {
         "modification_history": {},
