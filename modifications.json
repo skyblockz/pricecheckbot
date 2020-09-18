@@ -2732,6 +2732,16 @@
                     434000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    270000,
+                    315000
+                ]
+            },
             "ink_sack": {
                 "from": [
                     390,
@@ -2783,7 +2793,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "642620000083116062": {
         "modification_history": {},
