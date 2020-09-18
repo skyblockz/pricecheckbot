@@ -312,6 +312,16 @@
                     100000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    50,
+                    65
+                ],
+                "to": [
+                    55,
+                    70
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     32200,
@@ -443,7 +453,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "326634716268724248": {
         "modification_history": {
