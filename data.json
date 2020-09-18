@@ -7642,5 +7642,11 @@
         "hi": 1300000,
         "low": 1200000,
         "name": "critical_chance_enrichment"
+    },
+    {
+        "ac": true,
+        "hi": 1300000,
+        "low": 1000000,
+        "name": "speed_enrichment"
     }
 ]
