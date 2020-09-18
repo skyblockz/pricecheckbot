@@ -2752,6 +2752,16 @@
                     315000
                 ]
             },
+            "enchanted_rotten_flesh": {
+                "from": [
+                    820,
+                    860
+                ],
+                "to": [
+                    750,
+                    770
+                ]
+            },
             "ghast_tear": {
                 "from": [
                     29,
@@ -2873,7 +2883,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "642620000083116062": {
         "modification_history": {},
