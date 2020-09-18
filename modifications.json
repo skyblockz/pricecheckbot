@@ -519,6 +519,16 @@
                     1350
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    250000,
+                    269000
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1000,
@@ -600,7 +610,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "614661627513536526": {
         "modification_history": {},
