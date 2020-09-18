@@ -312,6 +312,16 @@
                     100000
                 ]
             },
+            "carrot": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "enchanted_bread": {
                 "from": [
                     50,
@@ -473,7 +483,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "326634716268724248": {
         "modification_history": {
