@@ -616,6 +616,13 @@
                     370000
                 ]
             },
+            "uncommon_griffin_upgrade_stone": {
+                "from": null,
+                "to": [
+                    1400000,
+                    1800000
+                ]
+            },
             "warped_stone": {
                 "from": null,
                 "to": [
@@ -634,7 +641,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "333950092493193216": {
         "modification_history": {},
