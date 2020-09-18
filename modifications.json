@@ -1039,6 +1039,16 @@
                     380
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    24900,
+                    25300
+                ],
+                "to": [
+                    25000,
+                    26000
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     2000000,
@@ -1090,7 +1100,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "614661627513536526": {
         "modification_history": {},
