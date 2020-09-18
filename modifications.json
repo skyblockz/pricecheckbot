@@ -719,6 +719,16 @@
                     57500
                 ]
             },
+            "personal_compactor_5000": {
+                "from": [
+                    2000000,
+                    21000000
+                ],
+                "to": [
+                    2000000,
+                    2100000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     673000,
@@ -760,7 +770,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "614661627513536526": {
         "modification_history": {},
