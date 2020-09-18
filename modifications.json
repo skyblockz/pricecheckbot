@@ -639,6 +639,16 @@
                     1000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    72000,
+                    82000
+                ],
+                "to": [
+                    74000,
+                    83000
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1300,
@@ -960,7 +970,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "614661627513536526": {
         "modification_history": {},
