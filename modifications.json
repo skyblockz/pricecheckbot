@@ -333,6 +333,16 @@
                     15000
                 ]
             },
+            "small_storage": {
+                "from": [
+                    320,
+                    400
+                ],
+                "to": [
+                    450,
+                    500
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     18100000,
@@ -354,7 +364,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395295454872469504": {
         "modification_history": {},
