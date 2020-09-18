@@ -489,6 +489,16 @@
                     1350
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    415000,
+                    434000
+                ],
+                "to": [
+                    429000,
+                    485000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     50000,
@@ -530,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "614661627513536526": {
         "modification_history": {},
