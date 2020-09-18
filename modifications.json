@@ -481,6 +481,13 @@
                     80000
                 ]
             },
+            "jumbo_backpack_upgrade": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "lily_pad": {
                 "from": [
                     200,
@@ -543,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "333950092493193216": {
         "modification_history": {},
