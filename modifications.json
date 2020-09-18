@@ -533,6 +533,13 @@
                     20000
                 ]
             },
+            "speed_enrichment": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "spiked_hook_vi": {
                 "from": [
                     35000,
@@ -571,7 +578,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "333950092493193216": {
         "modification_history": {},
