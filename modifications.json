@@ -25,6 +25,13 @@
                     600000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": null,
+                "to": [
+                    50000,
+                    70000
+                ]
+            },
             "jumbo_backpack": {
                 "from": [
                     1500000,
@@ -66,7 +73,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "243891044947722240": {
         "modification_history": {},
