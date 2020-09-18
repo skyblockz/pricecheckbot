@@ -1049,6 +1049,16 @@
                     26000
                 ]
             },
+            "golden_tooth": {
+                "from": [
+                    60000,
+                    65000
+                ],
+                "to": [
+                    58000,
+                    68000
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     2000000,
@@ -1100,7 +1110,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "614661627513536526": {
         "modification_history": {},
