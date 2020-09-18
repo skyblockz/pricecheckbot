@@ -243,6 +243,16 @@
                     1000000
                 ]
             },
+            "personal_compactor_5000": {
+                "from": [
+                    1500000,
+                    1650000
+                ],
+                "to": [
+                    2000000,
+                    21000000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8000000,
@@ -294,7 +304,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "395295454872469504": {
         "modification_history": {},
