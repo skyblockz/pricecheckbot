@@ -471,6 +471,13 @@
                     1300000
                 ]
             },
+            "defence_enrichment": {
+                "from": null,
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "enchanted_lily_pad": {
                 "from": [
                     32000,
@@ -599,7 +606,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "333950092493193216": {
         "modification_history": {},
