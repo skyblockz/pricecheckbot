@@ -422,6 +422,16 @@
                     65000000
                 ]
             },
+            "potato": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     10000000,
@@ -513,7 +523,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "326634716268724248": {
         "modification_history": {
