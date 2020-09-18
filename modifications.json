@@ -223,6 +223,16 @@
                     3800000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    44000000,
+                    45000000
+                ],
+                "to": [
+                    48500000,
+                    51000000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8000000,
@@ -274,7 +284,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "395295454872469504": {
         "modification_history": {},
