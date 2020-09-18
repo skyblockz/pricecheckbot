@@ -467,6 +467,16 @@
                     600
                 ]
             },
+            "spiked_hook_vi": {
+                "from": [
+                    35000,
+                    65000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
             "travel_scroll_to_spiders_den": {
                 "from": [
                     15000,
@@ -488,7 +498,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "333950092493193216": {
         "modification_history": {},
