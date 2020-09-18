@@ -223,6 +223,16 @@
                     8500000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    19000,
+                    50000
+                ],
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "silk-edge_sword": {
                 "from": [
                     4000000,
@@ -254,7 +264,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395295454872469504": {
         "modification_history": {},
