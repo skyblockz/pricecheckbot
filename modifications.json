@@ -2702,6 +2702,16 @@
                     1000000
                 ]
             },
+            "lily_pad": {
+                "from": [
+                    280,
+                    320
+                ],
+                "to": [
+                    150,
+                    260
+                ]
+            },
             "rare_diamond": {
                 "from": [
                     3000,
@@ -2723,7 +2733,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "642620000083116062": {
         "modification_history": {},
