@@ -293,6 +293,16 @@
                     7000000
                 ]
             },
+            "small_backpack": {
+                "from": [
+                    9900,
+                    10000
+                ],
+                "to": [
+                    14000,
+                    15000
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     18100000,
@@ -314,7 +324,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395295454872469504": {
         "modification_history": {},
