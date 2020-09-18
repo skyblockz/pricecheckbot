@@ -312,6 +312,16 @@
                     100000
                 ]
             },
+            "lvl_1_epic_parrot": {
+                "from": [
+                    6500000,
+                    7600000
+                ],
+                "to": [
+                    5500000,
+                    65000000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     10000000,
@@ -333,7 +343,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "326634716268724248": {
         "modification_history": {
