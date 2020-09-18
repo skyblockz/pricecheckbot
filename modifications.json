@@ -193,6 +193,16 @@
                     50000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    60000,
+                    115000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "daedalus_axe": {
                 "from": [
                     30000000,
@@ -274,7 +284,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "465602727368720385": {
         "modification_history": {},
