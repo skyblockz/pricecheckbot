@@ -495,6 +495,13 @@
                     1700000
                 ]
             },
+            "health_enrichment": {
+                "from": null,
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "honed_shark_tooth_necklace": {
                 "from": null,
                 "to": [
@@ -606,7 +613,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "333950092493193216": {
         "modification_history": {},
