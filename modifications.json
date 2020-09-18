@@ -18,6 +18,13 @@
                     1000000
                 ]
             },
+            "hologram": {
+                "from": null,
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "jumbo_backpack": {
                 "from": [
                     1500000,
@@ -59,7 +66,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "243891044947722240": {
         "modification_history": {},
