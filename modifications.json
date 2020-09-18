@@ -519,6 +519,13 @@
                     600
                 ]
             },
+            "magic_find_enrichment": {
+                "from": null,
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "rod_of_the_sea": {
                 "from": null,
                 "to": [
@@ -585,7 +592,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "333950092493193216": {
         "modification_history": {},
