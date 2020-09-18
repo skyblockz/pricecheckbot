@@ -7678,5 +7678,11 @@
         "hi": 1300000,
         "low": 1100000,
         "name": "health_enrichment"
+    },
+    {
+        "ac": true,
+        "hi": 80000,
+        "low": 70000,
+        "name": "accessory_enrichment_swapper"
     }
 ]
