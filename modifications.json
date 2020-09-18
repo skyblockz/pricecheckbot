@@ -18,6 +18,13 @@
                     1000000
                 ]
             },
+            "heat_core": {
+                "from": null,
+                "to": [
+                    840000,
+                    1500000
+                ]
+            },
             "hologram": {
                 "from": null,
                 "to": [
@@ -80,7 +87,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "243891044947722240": {
         "modification_history": {},
