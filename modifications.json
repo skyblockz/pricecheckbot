@@ -2732,12 +2732,12 @@
             },
             "enchanted_wet_sponge": {
                 "from": [
-                    12,
+                    1250000,
                     1400000
                 ],
                 "to": [
-                    1300000,
-                    1400000
+                    1150000,
+                    120000
                 ]
             },
             "epic_silent_death": {
@@ -2901,7 +2901,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "608358478712537110": {
         "modification_history": {},
