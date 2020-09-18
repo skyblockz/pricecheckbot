@@ -2896,6 +2896,16 @@
                     9000000
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    8,
+                    14
+                ],
+                "to": [
+                    7,
+                    12
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     20000,
@@ -2947,7 +2957,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "642620000083116062": {
         "modification_history": {},
