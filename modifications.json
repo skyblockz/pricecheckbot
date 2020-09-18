@@ -809,6 +809,16 @@
                     640
                 ]
             },
+            "enchanted_pumpkin": {
+                "from": [
+                    630,
+                    640
+                ],
+                "to": [
+                    635,
+                    675
+                ]
+            },
             "enchanted_quartz": {
                 "from": [
                     2500,
@@ -910,7 +920,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "614661627513536526": {
         "modification_history": {},
