@@ -1059,6 +1059,16 @@
                     68000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20800,
+                    23000
+                ],
+                "to": [
+                    20000,
+                    22000
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     2000000,
@@ -1110,7 +1120,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "614661627513536526": {
         "modification_history": {},
