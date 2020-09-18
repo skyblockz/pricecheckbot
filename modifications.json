@@ -1,6 +1,16 @@
 {
     "196278928678060032": {
         "modification_history": {
+            "accessory_enrichment_swapper": {
+                "from": [
+                    70000,
+                    80000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "beacon_block": {
                 "from": [
                     80000,
@@ -108,7 +118,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "243891044947722240": {
         "modification_history": {},
