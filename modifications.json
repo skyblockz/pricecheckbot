@@ -2782,6 +2782,16 @@
                     33
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    11,
+                    13
+                ],
+                "to": [
+                    10,
+                    12
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     68000,
@@ -2913,7 +2923,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "642620000083116062": {
         "modification_history": {},
