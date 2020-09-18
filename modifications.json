@@ -223,6 +223,16 @@
                     200000
                 ]
             },
+            "large_storage": {
+                "from": [
+                    265000,
+                    300000
+                ],
+                "to": [
+                    370000,
+                    490000
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     2000000,
@@ -364,7 +374,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "395295454872469504": {
         "modification_history": {},
