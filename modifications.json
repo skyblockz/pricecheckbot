@@ -489,6 +489,16 @@
                     8100
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    1100,
+                    1150
+                ],
+                "to": [
+                    1300,
+                    1600
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     830,
@@ -570,7 +580,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "614661627513536526": {
         "modification_history": {},
