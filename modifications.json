@@ -213,6 +213,16 @@
                     8500000
                 ]
             },
+            "silk-edge_sword": {
+                "from": [
+                    4000000,
+                    11000000
+                ],
+                "to": [
+                    3000000,
+                    7000000
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     18100000,
@@ -224,7 +234,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "395295454872469504": {
         "modification_history": {},
