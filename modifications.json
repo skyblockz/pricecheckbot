@@ -292,6 +292,16 @@
     },
     "308262271262654464": {
         "modification_history": {
+            "beacon_block": {
+                "from": [
+                    80000,
+                    600000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     10000000,
@@ -313,7 +323,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "326634716268724248": {
         "modification_history": {
