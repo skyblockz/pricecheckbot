@@ -213,6 +213,16 @@
                     3000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    4300000,
+                    5000000
+                ],
+                "to": [
+                    2600000,
+                    3800000
+                ]
+            },
             "pigman_sword": {
                 "from": [
                     8000000,
@@ -264,7 +274,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395295454872469504": {
         "modification_history": {},
