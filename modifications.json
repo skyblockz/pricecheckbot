@@ -2830,6 +2830,16 @@
                     6500000
                 ]
             },
+            "sponge": {
+                "from": [
+                    650,
+                    755
+                ],
+                "to": [
+                    670,
+                    715
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     9700000,
@@ -2911,7 +2921,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608358478712537110": {
         "modification_history": {},
