@@ -464,6 +464,13 @@
                     190000
                 ]
             },
+            "base_griffin_upgrade_stone": {
+                "from": null,
+                "to": [
+                    490000,
+                    550000
+                ]
+            },
             "booster_cookie": {
                 "from": null,
                 "to": [
@@ -627,7 +634,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "333950092493193216": {
         "modification_history": {},
