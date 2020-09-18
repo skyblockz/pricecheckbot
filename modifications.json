@@ -719,6 +719,16 @@
                     57500
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    63000,
+                    65000
+                ],
+                "to": [
+                    48000,
+                    57500
+                ]
+            },
             "personal_compactor_5000": {
                 "from": [
                     2000000,
@@ -770,7 +780,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "614661627513536526": {
         "modification_history": {},
