@@ -141,6 +141,16 @@
                     510000
                 ]
             },
+            "tier_boost": {
+                "from": [
+                    28000000,
+                    30000000
+                ],
+                "to": [
+                    31000000,
+                    33000000
+                ]
+            },
             "ultimate_carrot_candy": {
                 "from": null,
                 "to": [
@@ -149,7 +159,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "243891044947722240": {
         "modification_history": {},
