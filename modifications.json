@@ -233,6 +233,16 @@
                     600000
                 ]
             },
+            "grizzly_bait": {
+                "from": [
+                    345000,
+                    740000
+                ],
+                "to": [
+                    990000,
+                    1190000
+                ]
+            },
             "large_backpack": {
                 "from": [
                     155000,
@@ -494,7 +504,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395295454872469504": {
         "modification_history": {},
