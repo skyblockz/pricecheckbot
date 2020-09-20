@@ -213,6 +213,16 @@
                     4200000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    3900000,
+                    4000000
+                ],
+                "to": [
+                    2275000,
+                    2550000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     360000,
@@ -484,7 +494,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "395295454872469504": {
         "modification_history": {},
