@@ -11,6 +11,13 @@
                     80000
                 ]
             },
+            "ancient_claw": {
+                "from": null,
+                "to": [
+                    600,
+                    1400
+                ]
+            },
             "beacon_block": {
                 "from": [
                     80000,
@@ -176,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "243891044947722240": {
         "modification_history": {},
