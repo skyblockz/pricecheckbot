@@ -18,6 +18,13 @@
                     50000
                 ]
             },
+            "all_skills_exp_super_boost": {
+                "from": null,
+                "to": [
+                    5000000,
+                    6000000
+                ]
+            },
             "ancient_claw": {
                 "from": null,
                 "to": [
@@ -239,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "243891044947722240": {
         "modification_history": {},
