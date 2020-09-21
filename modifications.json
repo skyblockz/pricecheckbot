@@ -32,6 +32,16 @@
                     1400
                 ]
             },
+            "base_griffin_upgrade_stone": {
+                "from": [
+                    490000,
+                    550000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
             "beacon_block": {
                 "from": [
                     80000,
@@ -253,7 +263,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "243891044947722240": {
         "modification_history": {},
