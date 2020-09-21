@@ -80,6 +80,13 @@
                     2000000
                 ]
             },
+            "griffin_feather": {
+                "from": null,
+                "to": [
+                    60000,
+                    75000
+                ]
+            },
             "heat_core": {
                 "from": null,
                 "to": [
@@ -190,7 +197,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "243891044947722240": {
         "modification_history": {},
