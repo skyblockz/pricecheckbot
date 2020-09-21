@@ -1750,5 +1750,9 @@
     {
         "dest": "minion_storage_xpender",
         "src": "minion_xpender"
+    },
+    {
+        "dest": "all_skills_exp_super_boost",
+        "src": "all_skills_super_exp_boost"
     }
 ]
