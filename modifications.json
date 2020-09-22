@@ -892,6 +892,16 @@
                     275000
                 ]
             },
+            "old_dragon_chestplate": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    140000,
+                    180000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2450,
@@ -1203,7 +1213,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "465602727368720385": {
         "modification_history": {},
