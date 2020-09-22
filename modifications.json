@@ -352,6 +352,16 @@
                     4200000
                 ]
             },
+            "beacon_block": {
+                "from": [
+                    30000,
+                    100000
+                ],
+                "to": [
+                    145000,
+                    200000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     3900000,
@@ -643,7 +653,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "395295454872469504": {
         "modification_history": {},
