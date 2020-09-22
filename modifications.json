@@ -392,6 +392,16 @@
                     1190000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    100,
+                    200
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "large_backpack": {
                 "from": [
                     155000,
@@ -663,7 +673,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "395295454872469504": {
         "modification_history": {},
