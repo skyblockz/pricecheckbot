@@ -547,9 +547,19 @@
                     3,
                     4
                 ]
+            },
+            "redstone": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    2,
+                    2
+                ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "326634716268724248": {
         "modification_history": {},
