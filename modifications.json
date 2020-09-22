@@ -388,6 +388,16 @@
                     830
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1290,
+                    1350
+                ]
+            },
             "iron_ingot": {
                 "from": [
                     7,
@@ -399,7 +409,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "326634716268724248": {
         "modification_history": {},
