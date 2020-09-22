@@ -362,6 +362,16 @@
                     200000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    1350000,
+                    1550000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     3900000,
@@ -693,7 +703,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "395295454872469504": {
         "modification_history": {},
