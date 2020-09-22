@@ -832,6 +832,16 @@
                     50000000
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    450000,
+                    475000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "enchanted_gold_block": {
                 "from": [
                     785000,
@@ -1273,7 +1283,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "465602727368720385": {
         "modification_history": {},
