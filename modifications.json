@@ -508,6 +508,16 @@
                     600
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    285,
+                    345
+                ],
+                "to": [
+                    335,
+                    400
+                ]
+            },
             "gold_ingot": {
                 "from": [
                     10,
@@ -539,7 +549,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "326634716268724248": {
         "modification_history": {},
