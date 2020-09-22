@@ -408,6 +408,16 @@
                     230000
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    10,
+                    12
+                ],
+                "to": [
+                    9,
+                    10
+                ]
+            },
             "iron_ingot": {
                 "from": [
                     7,
@@ -419,7 +429,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "326634716268724248": {
         "modification_history": {},
