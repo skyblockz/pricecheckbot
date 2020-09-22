@@ -348,6 +348,16 @@
                     6
                 ]
             },
+            "diamond": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
                     165000,
@@ -449,7 +459,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "326634716268724248": {
         "modification_history": {},
