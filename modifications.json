@@ -502,6 +502,16 @@
                     8500000
                 ]
             },
+            "premium_flesh": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     19000,
@@ -653,7 +663,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "395295454872469504": {
         "modification_history": {},
