@@ -3211,12 +3211,6 @@
     },
     {
         "ac": true,
-        "hi": 40,
-        "low": 35,
-        "name": "quartz"
-    },
-    {
-        "ac": true,
         "hi": 700,
         "low": 500,
         "name": "lapis_minion_i"
@@ -7906,5 +7900,11 @@
         "hi": 2000000,
         "low": 1800000,
         "name": "lvl_1_epic_megalodon"
+    },
+    {
+        "ac": true,
+        "hi": 40,
+        "low": 35,
+        "name": "nether_quartz"
     }
 ]
