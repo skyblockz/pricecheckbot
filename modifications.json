@@ -452,6 +452,13 @@
                     3000000
                 ]
             },
+            "lvl_100_legendary_griffin": {
+                "from": null,
+                "to": [
+                    190000000,
+                    225000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     4300000,
@@ -703,7 +710,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "395295454872469504": {
         "modification_history": {},
