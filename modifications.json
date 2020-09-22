@@ -101,6 +101,16 @@
                     1000000
                 ]
             },
+            "fuming_potato_book": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "gold_claws": {
                 "from": null,
                 "to": [
@@ -298,7 +308,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "243891044947722240": {
         "modification_history": {},
