@@ -194,6 +194,16 @@
                     180000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    200,
+                    800
+                ]
+            },
             "legendary_beastmaster_crest": {
                 "from": null,
                 "to": [
@@ -308,7 +318,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "243891044947722240": {
         "modification_history": {},
