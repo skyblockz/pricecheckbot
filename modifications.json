@@ -391,6 +391,16 @@
                     271000
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    35000,
+                    38000
+                ],
+                "to": [
+                    22000,
+                    26600
+                ]
+            },
             "enchanted_shark_fin": {
                 "from": null,
                 "to": [
@@ -510,7 +520,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "280289227026071559": {
         "modification_history": {},
