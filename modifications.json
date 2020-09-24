@@ -401,6 +401,16 @@
                     825
                 ]
             },
+            "enchanted_end_stone": {
+                "from": [
+                    780,
+                    850
+                ],
+                "to": [
+                    440,
+                    480
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     21000,
@@ -580,7 +590,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "280289227026071559": {
         "modification_history": {},
