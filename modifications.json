@@ -418,6 +418,16 @@
                     821000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    800,
+                    900
+                ],
+                "to": [
+                    530,
+                    600
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     87000,
@@ -490,7 +500,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "280289227026071559": {
         "modification_history": {},
