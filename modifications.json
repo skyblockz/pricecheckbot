@@ -351,6 +351,16 @@
                     10500
                 ]
             },
+            "catalyst": {
+                "from": [
+                    52500,
+                    55000
+                ],
+                "to": [
+                    67000,
+                    71000
+                ]
+            },
             "enchanted_shark_fin": {
                 "from": null,
                 "to": [
@@ -440,7 +450,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "280289227026071559": {
         "modification_history": {},
