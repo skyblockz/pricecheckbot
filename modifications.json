@@ -478,6 +478,16 @@
                     791000
                 ]
             },
+            "end_stone": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "green_candy": {
                 "from": [
                     800,
@@ -590,7 +600,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "280289227026071559": {
         "modification_history": {},
