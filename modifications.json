@@ -498,6 +498,16 @@
                     4600000
                 ]
             },
+            "nether_quartz": {
+                "from": [
+                    35,
+                    40
+                ],
+                "to": [
+                    17,
+                    20
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": null,
                 "to": [
@@ -560,7 +570,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "280289227026071559": {
         "modification_history": {},
