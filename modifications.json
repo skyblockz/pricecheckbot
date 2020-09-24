@@ -255,6 +255,13 @@
                     510000
                 ]
             },
+            "plasma_bucket": {
+                "from": null,
+                "to": [
+                    3500000,
+                    3750000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": null,
                 "to": [
@@ -325,7 +332,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "243891044947722240": {
         "modification_history": {},
