@@ -241,6 +241,13 @@
                     11000000
                 ]
             },
+            "magma_bucket": {
+                "from": null,
+                "to": [
+                    1300000,
+                    1400000
+                ]
+            },
             "minion_storage_xpender": {
                 "from": null,
                 "to": [
@@ -318,7 +325,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "243891044947722240": {
         "modification_history": {},
