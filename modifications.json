@@ -2304,6 +2304,16 @@
                     40000
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    875,
+                    1000
+                ],
+                "to": [
+                    840,
+                    905
+                ]
+            },
             "fel_pearl": {
                 "from": null,
                 "to": [
@@ -2465,7 +2475,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "594239049884237836": {
         "modification_history": {},
