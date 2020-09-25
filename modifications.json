@@ -947,6 +947,16 @@
                     2500000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "epic_skeleton_soldier_boots": {
                 "from": null,
                 "to": [
@@ -1147,7 +1157,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "333950092493193216": {
         "modification_history": {},
