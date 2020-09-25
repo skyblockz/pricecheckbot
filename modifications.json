@@ -1031,6 +1031,16 @@
                     70000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    48500000,
+                    51000000
+                ],
+                "to": [
+                    45000000,
+                    50000000
+                ]
+            },
             "refined_mineral": {
                 "from": null,
                 "to": [
@@ -1077,7 +1087,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "333950092493193216": {
         "modification_history": {},
