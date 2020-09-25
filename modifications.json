@@ -1031,6 +1031,16 @@
                     70000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2600000,
+                    3800000
+                ],
+                "to": [
+                    2200000,
+                    2500000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     48500000,
@@ -1087,7 +1097,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "333950092493193216": {
         "modification_history": {},
