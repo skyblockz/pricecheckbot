@@ -2338,6 +2338,16 @@
                     2000000
                 ]
             },
+            "frozen_scythe": {
+                "from": [
+                    9000000,
+                    9500000
+                ],
+                "to": [
+                    8750000,
+                    9250000
+                ]
+            },
             "honed_shark_tooth_necklace": {
                 "from": [
                     65000,
@@ -2495,7 +2505,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "594239049884237836": {
         "modification_history": {},
