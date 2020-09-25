@@ -2396,6 +2396,16 @@
                     12000000
                 ]
             },
+            "recombobulator_3000": {
+                "from": [
+                    9150000,
+                    9500000
+                ],
+                "to": [
+                    6000000,
+                    6150000
+                ]
+            },
             "shadow_assasin_helmet": {
                 "from": null,
                 "to": [
@@ -2435,7 +2445,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "594239049884237836": {
         "modification_history": {},
