@@ -2354,6 +2354,16 @@
                     143000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    17000,
+                    20000
+                ],
+                "to": [
+                    16750,
+                    19500
+                ]
+            },
             "fel_pearl": {
                 "from": null,
                 "to": [
@@ -2555,7 +2565,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "594239049884237836": {
         "modification_history": {},
