@@ -2476,6 +2476,16 @@
                     6150000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1400000,
+                    1550000
+                ],
+                "to": [
+                    1490000,
+                    1550000
+                ]
+            },
             "shadow_assasin_helmet": {
                 "from": null,
                 "to": [
@@ -2525,7 +2535,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "594239049884237836": {
         "modification_history": {},
