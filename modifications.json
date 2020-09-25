@@ -2300,6 +2300,16 @@
                     65000000
                 ]
             },
+            "cocoa_beans": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "dark_orb": {
                 "from": null,
                 "to": [
@@ -2535,7 +2545,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "594239049884237836": {
         "modification_history": {},
