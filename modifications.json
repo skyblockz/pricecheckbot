@@ -2311,6 +2311,13 @@
                     2000000
                 ]
             },
+            "last_breath": {
+                "from": null,
+                "to": [
+                    7100000,
+                    7200000
+                ]
+            },
             "lvl_100_epic_jellyfish": {
                 "from": [
                     10500000,
@@ -2383,7 +2390,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "594239049884237836": {
         "modification_history": {},
