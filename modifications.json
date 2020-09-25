@@ -927,6 +927,16 @@
     },
     "326634716268724248": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "aspect_of_the_dragons": {
                 "from": [
                     3250000,
@@ -1097,7 +1107,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "333950092493193216": {
         "modification_history": {},
