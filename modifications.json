@@ -2283,6 +2283,16 @@
     },
     "540685105513889793": {
         "modification_history": {
+            "auger_rod": {
+                "from": [
+                    15000000,
+                    15500000
+                ],
+                "to": [
+                    12000000,
+                    12250000
+                ]
+            },
             "chimera_i": {
                 "from": null,
                 "to": [
@@ -2505,7 +2515,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "594239049884237836": {
         "modification_history": {},
