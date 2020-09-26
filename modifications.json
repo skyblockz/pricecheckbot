@@ -89,6 +89,13 @@
                     450000
                 ]
             },
+            "hyper_catalyst": {
+                "from": null,
+                "to": [
+                    58700,
+                    59600
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     50000,
@@ -130,7 +137,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "395295454872469504": {
         "modification_history": {},
