@@ -49,6 +49,16 @@
     },
     "395028811399299082": {
         "modification_history": {
+            "expertise_i": {
+                "from": [
+                    880000,
+                    1000000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     50000,
@@ -70,7 +80,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "395295454872469504": {
         "modification_history": {},
