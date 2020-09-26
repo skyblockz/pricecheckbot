@@ -89,6 +89,16 @@
                     100000
                 ]
             },
+            "magma_bucket": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1400000,
+                    1700000
+                ]
+            },
             "plasma_bucket": {
                 "from": [
                     3500000,
@@ -100,7 +110,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395295454872469504": {
         "modification_history": {},
