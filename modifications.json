@@ -48,8 +48,19 @@
         "total_mods": 1
     },
     "395028811399299082": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    50000,
+                    55000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "395295454872469504": {
         "modification_history": {},
