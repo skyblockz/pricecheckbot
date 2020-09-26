@@ -59,6 +59,16 @@
                     650000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    22000
+                ],
+                "to": [
+                    20000,
+                    21200
+                ]
+            },
             "hologram": {
                 "from": [
                     400000,
@@ -110,7 +120,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395295454872469504": {
         "modification_history": {},
