@@ -59,6 +59,16 @@
                     1115
                 ]
             },
+            "bat_person_boots": {
+                "from": [
+                    500000,
+                    575000
+                ],
+                "to": [
+                    790000,
+                    1000000
+                ]
+            },
             "bat_person_chestplate": {
                 "from": [
                     525000,
@@ -331,7 +341,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395295454872469504": {
         "modification_history": {},
