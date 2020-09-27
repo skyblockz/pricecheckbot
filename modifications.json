@@ -166,6 +166,13 @@
                     4000000
                 ]
             },
+            "present_stack": {
+                "from": null,
+                "to": [
+                    5000,
+                    50000
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     670000,
@@ -177,7 +184,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "395295454872469504": {
         "modification_history": {},
