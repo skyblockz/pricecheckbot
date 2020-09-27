@@ -59,6 +59,16 @@
                     1115
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    750000,
+                    1000000
+                ]
+            },
             "catalyst": {
                 "from": [
                     67000,
@@ -301,7 +311,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "395295454872469504": {
         "modification_history": {},
