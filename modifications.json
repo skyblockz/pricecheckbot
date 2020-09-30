@@ -20,9 +20,16 @@
                     340000,
                     380000
                 ]
+            },
+            "healing_tissue": {
+                "from": null,
+                "to": [
+                    170000,
+                    200000
+                ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "243891044947722240": {
         "modification_history": {},
