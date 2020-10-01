@@ -51,6 +51,16 @@
                     300000
                 ]
             },
+            "great_white_shark_tooth": {
+                "from": [
+                    1500000,
+                    1700000
+                ],
+                "to": [
+                    2100000,
+                    2500000
+                ]
+            },
             "healing_tissue": {
                 "from": null,
                 "to": [
@@ -183,7 +193,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "243891044947722240": {
         "modification_history": {},
