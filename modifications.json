@@ -58,6 +58,16 @@
                     500000
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    58700,
+                    59600
+                ],
+                "to": [
+                    50000,
+                    55000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     70000,
@@ -153,7 +163,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "243891044947722240": {
         "modification_history": {},
