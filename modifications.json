@@ -502,6 +502,16 @@
                     300000
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    160000,
+                    170000
+                ],
+                "to": [
+                    95000,
+                    110000
+                ]
+            },
             "ice_spray_wand": {
                 "from": [
                     38000000,
@@ -680,7 +690,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "465602727368720385": {
         "modification_history": {},
