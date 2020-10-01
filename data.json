@@ -1315,12 +1315,6 @@
     },
     {
         "ac": true,
-        "hi": 2500000,
-        "low": 2300000,
-        "name": "silk-edge_sword"
-    },
-    {
-        "ac": true,
         "hi": 26600,
         "low": 22000,
         "name": "enchanted_lily_pad"
@@ -8152,5 +8146,11 @@
         "hi": 200000,
         "low": 170000,
         "name": "healing_tissue"
+    },
+    {
+        "ac": true,
+        "hi": 2500000,
+        "low": 2300000,
+        "name": "silk_edge_sword"
     }
 ]
