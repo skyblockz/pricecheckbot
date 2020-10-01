@@ -48,6 +48,16 @@
                     200000
                 ]
             },
+            "heat_core": {
+                "from": [
+                    840000,
+                    1500000
+                ],
+                "to": [
+                    460000,
+                    500000
+                ]
+            },
             "lethality_vi": {
                 "from": null,
                 "to": [
@@ -123,7 +133,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "243891044947722240": {
         "modification_history": {},
