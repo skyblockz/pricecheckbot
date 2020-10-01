@@ -402,6 +402,16 @@
                     2200000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    305000,
+                    335000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "reaper_scythe": {
                 "from": [
                     6900000,
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "465602727368720385": {
         "modification_history": {},
