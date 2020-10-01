@@ -609,6 +609,16 @@
                     60000000
                 ]
             },
+            "zombie_knight_boots": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    100000,
+                    125000
+                ]
+            },
             "zombie_sword": {
                 "from": [
                     380000,
@@ -620,7 +630,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "465602727368720385": {
         "modification_history": {},
