@@ -502,6 +502,16 @@
                     30000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    2300000,
+                    2600000
+                ],
+                "to": [
+                    2700000,
+                    2800000
+                ]
+            },
             "shadow_fury": {
                 "from": null,
                 "to": [
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "465602727368720385": {
         "modification_history": {},
