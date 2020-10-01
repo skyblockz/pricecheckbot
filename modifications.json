@@ -58,6 +58,16 @@
                     500000
                 ]
             },
+            "kat_flower": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "lethality_vi": {
                 "from": null,
                 "to": [
@@ -133,7 +143,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "243891044947722240": {
         "modification_history": {},
