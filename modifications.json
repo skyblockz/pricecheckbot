@@ -162,6 +162,16 @@
                     1000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "rod_of_the_sea": {
                 "from": [
                     14000000,
@@ -240,7 +250,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "243891044947722240": {
         "modification_history": {},
