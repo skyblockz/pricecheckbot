@@ -28,6 +28,16 @@
                     860000
                 ]
             },
+            "dungeons_chest_key": {
+                "from": [
+                    170000,
+                    175000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "ember_rod": {
                 "from": [
                     225000,
@@ -230,7 +240,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "243891044947722240": {
         "modification_history": {},
