@@ -162,6 +162,16 @@
                     1000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    6000000,
+                    7500000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     500,
@@ -250,7 +260,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "243891044947722240": {
         "modification_history": {},
