@@ -532,6 +532,16 @@
                     3750000
                 ]
             },
+            "rare_super_cleaver": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "reaper_scythe": {
                 "from": [
                     6900000,
@@ -640,7 +650,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "465602727368720385": {
         "modification_history": {},
