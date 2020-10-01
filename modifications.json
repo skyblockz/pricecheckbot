@@ -1,6 +1,13 @@
 {
     "196278928678060032": {
         "modification_history": {
+            "barrier": {
+                "from": null,
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "blue_shark_tooth": {
                 "from": [
                     8800,
@@ -223,7 +230,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "243891044947722240": {
         "modification_history": {},
