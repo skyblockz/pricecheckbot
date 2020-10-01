@@ -48,6 +48,13 @@
                     200000
                 ]
             },
+            "lethality_vi": {
+                "from": null,
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "thunderlord_vi": {
                 "from": null,
                 "to": [
@@ -56,7 +63,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "243891044947722240": {
         "modification_history": {},
