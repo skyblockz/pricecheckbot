@@ -462,6 +462,16 @@
                     8000000
                 ]
             },
+            "recluse_fang": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "shadow_fury": {
                 "from": null,
                 "to": [
@@ -500,7 +510,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "465602727368720385": {
         "modification_history": {},
