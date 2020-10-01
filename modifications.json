@@ -452,6 +452,16 @@
                     2500000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    700000,
+                    750000
+                ],
+                "to": [
+                    850000,
+                    950000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     5100000,
@@ -520,7 +530,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "465602727368720385": {
         "modification_history": {},
