@@ -1401,6 +1401,16 @@
                     11700000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    15000,
+                    19500
+                ],
+                "to": [
+                    15500,
+                    24250
+                ]
+            },
             "lvl_100_legendary_ender_dragon": {
                 "from": null,
                 "to": [
@@ -1419,7 +1429,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "586939737936363520": {
         "modification_history": {},
