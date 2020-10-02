@@ -1104,6 +1104,16 @@
                     100000
                 ]
             },
+            "leggings_of_growth": {
+                "from": [
+                    200000,
+                    375000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
             "magma_bucket": {
                 "from": [
                     1300000,
@@ -1299,7 +1309,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "395295454872469504": {
         "modification_history": {},
