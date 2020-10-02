@@ -312,6 +312,16 @@
                     1200
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    26000
+                ],
+                "to": [
+                    24900,
+                    25250
+                ]
+            },
             "hamster_wheel": {
                 "from": [
                     20000,
@@ -363,7 +373,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "280289227026071559": {
         "modification_history": {},
