@@ -172,6 +172,16 @@
                     115000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     2500000,
@@ -280,7 +290,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "243891044947722240": {
         "modification_history": {},
