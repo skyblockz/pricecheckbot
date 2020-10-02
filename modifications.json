@@ -332,6 +332,16 @@
                     388000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    725000,
+                    770000
+                ],
+                "to": [
+                    746000,
+                    949000
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     25000,
@@ -403,7 +413,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "280289227026071559": {
         "modification_history": {},
