@@ -68,6 +68,16 @@
                     440000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    485000,
+                    500000
+                ],
+                "to": [
+                    500000,
+                    525000
+                ]
+            },
             "fel_pearl": {
                 "from": [
                     50000,
@@ -500,7 +510,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "243891044947722240": {
         "modification_history": {},
