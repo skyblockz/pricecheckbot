@@ -197,6 +197,16 @@
                     1200000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    33000,
+                    45000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     6000000,
@@ -238,7 +248,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "681279583906955331": {
         "modification_history": {},
