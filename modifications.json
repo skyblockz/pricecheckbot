@@ -312,6 +312,16 @@
                     1200
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    21200
+                ],
+                "to": [
+                    19900,
+                    20500
+                ]
+            },
             "hyper_catalyst": {
                 "from": [
                     50000,
@@ -353,7 +363,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "280289227026071559": {
         "modification_history": {},
