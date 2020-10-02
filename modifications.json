@@ -595,6 +595,16 @@
                     81000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    130000,
+                    155000
+                ],
+                "to": [
+                    125000,
+                    145000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     1900,
@@ -666,7 +676,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "326634716268724248": {
         "modification_history": {},
