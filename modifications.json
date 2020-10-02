@@ -245,6 +245,16 @@
                     100000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    200,
+                    800
+                ],
+                "to": [
+                    400,
+                    800
+                ]
+            },
             "lethality_vi": {
                 "from": null,
                 "to": [
@@ -570,7 +580,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "243891044947722240": {
         "modification_history": {},
