@@ -332,6 +332,16 @@
                     252000
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    143000,
+                    167000
+                ],
+                "to": [
+                    106000,
+                    138500
+                ]
+            },
             "enchanted_cake": {
                 "from": [
                     3000,
@@ -503,7 +513,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "280289227026071559": {
         "modification_history": {},
