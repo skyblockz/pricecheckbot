@@ -162,6 +162,16 @@
                     1000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    115000,
+                    125000
+                ],
+                "to": [
+                    100000,
+                    115000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     2500000,
@@ -270,7 +280,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "243891044947722240": {
         "modification_history": {},
