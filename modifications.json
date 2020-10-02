@@ -1164,6 +1164,16 @@
                     1500000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    3100000,
+                    3200000
+                ],
+                "to": [
+                    3000000,
+                    3400000
+                ]
+            },
             "magma_bucket": {
                 "from": [
                     1300000,
@@ -1389,7 +1399,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "395295454872469504": {
         "modification_history": {},
