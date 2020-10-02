@@ -575,6 +575,16 @@
                     6
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    106000,
+                    138500
+                ],
+                "to": [
+                    100000,
+                    140000
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     750,
@@ -596,7 +606,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "326634716268724248": {
         "modification_history": {},
