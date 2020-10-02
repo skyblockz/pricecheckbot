@@ -735,6 +735,16 @@
                     10
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    43,
+                    50
+                ]
+            },
             "magma_cream": {
                 "from": [
                     7,
@@ -796,7 +806,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "326634716268724248": {
         "modification_history": {},
