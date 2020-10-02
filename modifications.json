@@ -1358,6 +1358,16 @@
                     3000000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    330000,
+                    353000
+                ],
+                "to": [
+                    340000,
+                    350000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     1250000,
@@ -1449,7 +1459,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "395295454872469504": {
         "modification_history": {},
