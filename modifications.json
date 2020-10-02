@@ -292,6 +292,16 @@
                     20
                 ]
             },
+            "bone": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "catalyst": {
                 "from": [
                     51000,
@@ -523,7 +533,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "280289227026071559": {
         "modification_history": {},
