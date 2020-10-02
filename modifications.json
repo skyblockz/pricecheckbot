@@ -1069,12 +1069,12 @@
             },
             "diamond_spreading": {
                 "from": [
-                    15000,
-                    20000
-                ],
-                "to": [
                     6000,
                     7000
+                ],
+                "to": [
+                    1000,
+                    2000
                 ]
             },
             "digested_mosquito": {
@@ -1449,7 +1449,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "395295454872469504": {
         "modification_history": {},
