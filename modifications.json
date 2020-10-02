@@ -312,6 +312,16 @@
                     1200
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    50000,
+                    55000
+                ],
+                "to": [
+                    55200,
+                    57800
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     756500,
@@ -343,7 +353,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "280289227026071559": {
         "modification_history": {},
