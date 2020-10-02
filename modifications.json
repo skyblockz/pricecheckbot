@@ -595,6 +595,16 @@
                     140000
                 ]
             },
+            "enchanted_bread": {
+                "from": [
+                    55,
+                    75
+                ],
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "enchanted_ender_pearl": {
                 "from": [
                     195,
@@ -786,7 +796,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "326634716268724248": {
         "modification_history": {},
