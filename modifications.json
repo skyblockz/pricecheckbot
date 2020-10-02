@@ -1184,6 +1184,16 @@
                     1000000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    17000000,
+                    1800000
+                ],
+                "to": [
+                    18500000,
+                    30000000
+                ]
+            },
             "nether_wart_island": {
                 "from": null,
                 "to": [
@@ -1329,7 +1339,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "395295454872469504": {
         "modification_history": {},
