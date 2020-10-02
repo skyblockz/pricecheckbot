@@ -1641,6 +1641,16 @@
                     495
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    137000,
+                    143000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     15000,
@@ -1829,7 +1839,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "586939737936363520": {
         "modification_history": {},
