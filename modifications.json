@@ -302,6 +302,16 @@
                     5200
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    268000,
+                    271000
+                ],
+                "to": [
+                    241000,
+                    252000
+                ]
+            },
             "enchanted_cake": {
                 "from": [
                     3000,
@@ -473,7 +483,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "280289227026071559": {
         "modification_history": {},
