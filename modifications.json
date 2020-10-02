@@ -292,6 +292,16 @@
                     51000
                 ]
             },
+            "compactor": {
+                "from": [
+                    6200,
+                    7800
+                ],
+                "to": [
+                    4200,
+                    5200
+                ]
+            },
             "enchanted_cake": {
                 "from": [
                     3000,
@@ -393,7 +403,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "280289227026071559": {
         "modification_history": {},
