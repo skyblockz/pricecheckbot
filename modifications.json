@@ -665,6 +665,16 @@
                     1900
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    7000,
+                    8500
+                ],
+                "to": [
+                    6750,
+                    7500
+                ]
+            },
             "enchanted_magma_cream": {
                 "from": [
                     1270,
@@ -806,7 +816,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "326634716268724248": {
         "modification_history": {},
