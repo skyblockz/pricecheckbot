@@ -422,6 +422,16 @@
                     12000000
                 ]
             },
+            "textbook": {
+                "from": [
+                    425000,
+                    475000
+                ],
+                "to": [
+                    580000,
+                    630000
+                ]
+            },
             "thunderlord_vi": {
                 "from": null,
                 "to": [
@@ -520,7 +530,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "243891044947722240": {
         "modification_history": {},
