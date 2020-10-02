@@ -595,6 +595,16 @@
                     81000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    1900,
+                    2200
+                ],
+                "to": [
+                    1800,
+                    1900
+                ]
+            },
             "enchanted_rotten_flesh": {
                 "from": [
                     750,
@@ -656,7 +666,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "326634716268724248": {
         "modification_history": {},
