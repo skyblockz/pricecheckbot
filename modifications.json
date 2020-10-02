@@ -237,6 +237,16 @@
                     12000
                 ]
             },
+            "raider_axe": {
+                "from": [
+                    130000,
+                    130000
+                ],
+                "to": [
+                    155000,
+                    170000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     6000000,
@@ -278,7 +288,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "681279583906955331": {
         "modification_history": {},
