@@ -28,6 +28,16 @@
                     860000
                 ]
             },
+            "caster_vi": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    120000,
+                    160000
+                ]
+            },
             "dungeons_chest_key": {
                 "from": [
                     170000,
@@ -430,7 +440,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "243891044947722240": {
         "modification_history": {},
