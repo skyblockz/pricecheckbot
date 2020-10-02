@@ -1468,6 +1468,16 @@
                     11250000
                 ]
             },
+            "shark_scale_boots": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    4200000,
+                    430000
+                ]
+            },
             "shark_tooth_necklace": {
                 "from": [
                     1000000,
@@ -1489,7 +1499,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "586939737936363520": {
         "modification_history": {},
