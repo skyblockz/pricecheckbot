@@ -1094,6 +1094,16 @@
                     1700000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "nether_wart_island": {
                 "from": null,
                 "to": [
@@ -1239,7 +1249,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "395295454872469504": {
         "modification_history": {},
