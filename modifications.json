@@ -775,6 +775,16 @@
                     11
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "rotten_flesh": {
                 "from": [
                     4,
@@ -826,7 +836,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "326634716268724248": {
         "modification_history": {},
