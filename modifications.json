@@ -479,6 +479,16 @@
                     1400000
                 ]
             },
+            "warped_stone": {
+                "from": [
+                    7000000,
+                    7500000
+                ],
+                "to": [
+                    8350000,
+                    8500000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     350000,
@@ -560,7 +570,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "243891044947722240": {
         "modification_history": {},
