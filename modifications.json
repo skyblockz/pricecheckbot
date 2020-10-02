@@ -332,6 +332,16 @@
                     388000
                 ]
             },
+            "enchanted_sponge": {
+                "from": [
+                    16750,
+                    19500
+                ],
+                "to": [
+                    15000,
+                    19500
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     725000,
@@ -413,7 +423,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "280289227026071559": {
         "modification_history": {},
