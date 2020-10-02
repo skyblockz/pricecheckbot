@@ -131,6 +131,16 @@
                     350000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    420000,
+                    600000
+                ],
+                "to": [
+                    390000,
+                    420000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     90000,
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "681279583906955331": {
         "modification_history": {},
