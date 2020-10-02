@@ -1611,6 +1611,16 @@
                     1200000
                 ]
             },
+            "enchanted_ice": {
+                "from": [
+                    840,
+                    905
+                ],
+                "to": [
+                    765,
+                    820
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     51000,
@@ -1819,7 +1829,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "586939737936363520": {
         "modification_history": {},
