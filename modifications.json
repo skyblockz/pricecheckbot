@@ -68,6 +68,16 @@
                     1000000
                 ]
             },
+            "frozen_blaze_chestplate": {
+                "from": [
+                    13000000,
+                    14500000
+                ],
+                "to": [
+                    7800000,
+                    8300000
+                ]
+            },
             "frozen_blaze_helmet": {
                 "from": [
                     12000000,
@@ -390,7 +400,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "243891044947722240": {
         "modification_history": {},
