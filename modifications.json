@@ -1401,6 +1401,16 @@
                     11700000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    11750000,
+                    1200000
+                ]
+            },
             "enchanted_sponge": {
                 "from": [
                     15000,
@@ -1439,7 +1449,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "586939737936363520": {
         "modification_history": {},
