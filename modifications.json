@@ -1124,6 +1124,16 @@
                     100000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1900000,
+                    2500000
+                ],
+                "to": [
+                    1575000,
+                    2500000
+                ]
+            },
             "leggings_of_growth": {
                 "from": [
                     200000,
@@ -1359,7 +1369,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "395295454872469504": {
         "modification_history": {},
