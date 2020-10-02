@@ -242,6 +242,16 @@
                     1000
                 ]
             },
+            "personal_bank_item": {
+                "from": [
+                    4200,
+                    5000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     115000,
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "243891044947722240": {
         "modification_history": {},
