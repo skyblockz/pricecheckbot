@@ -1000,6 +1000,16 @@
                     52500
                 ]
             },
+            "chestplate_of_growth": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "coal_minion_i": {
                 "from": null,
                 "to": [
@@ -1289,7 +1299,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "395295454872469504": {
         "modification_history": {},
