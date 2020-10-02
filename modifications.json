@@ -1144,6 +1144,16 @@
                     700000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    300000,
+                    300000
+                ],
+                "to": [
+                    990000,
+                    1500000
+                ]
+            },
             "magma_bucket": {
                 "from": [
                     1300000,
@@ -1369,7 +1379,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "395295454872469504": {
         "modification_history": {},
