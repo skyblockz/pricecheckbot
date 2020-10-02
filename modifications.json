@@ -1681,6 +1681,16 @@
                     160000
                 ]
             },
+            "ice": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "lvl_100_legendary_blaze": {
                 "from": [
                     115000000,
@@ -1799,7 +1809,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "586939737936363520": {
         "modification_history": {},
