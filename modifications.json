@@ -218,6 +218,16 @@
                     420000
                 ]
             },
+            "hardened_diamond_chestplate": {
+                "from": [
+                    5000,
+                    6700
+                ],
+                "to": [
+                    15000,
+                    16000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     90000,
@@ -359,7 +369,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "681279583906955331": {
         "modification_history": {},
