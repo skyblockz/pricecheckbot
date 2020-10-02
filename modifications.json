@@ -302,6 +302,16 @@
                     1200
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    756500,
+                    778000
+                ],
+                "to": [
+                    690000,
+                    740000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     635000,
@@ -323,7 +333,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "280289227026071559": {
         "modification_history": {},
