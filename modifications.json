@@ -1027,6 +1027,16 @@
                     850
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     2275000,
@@ -1399,7 +1409,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "395295454872469504": {
         "modification_history": {},
