@@ -235,6 +235,16 @@
                     390000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    250000,
+                    265000
+                ],
+                "to": [
+                    282000,
+                    305000
+                ]
+            },
             "end_stone_sword": {
                 "from": [
                     50000,
@@ -537,7 +547,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "681279583906955331": {
         "modification_history": {},
