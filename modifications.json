@@ -245,6 +245,16 @@
                     305000
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    49000,
+                    53000
+                ],
+                "to": [
+                    51000,
+                    54000
+                ]
+            },
             "end_stone_sword": {
                 "from": [
                     50000,
@@ -547,7 +557,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "681279583906955331": {
         "modification_history": {},
