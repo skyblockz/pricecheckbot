@@ -445,6 +445,16 @@
                     11000000
                 ]
             },
+            "sponge_helmet": {
+                "from": [
+                    8000000,
+                    8250000
+                ],
+                "to": [
+                    5000000,
+                    5500000
+                ]
+            },
             "strong_dragon_chestplate": {
                 "from": [
                     440000,
@@ -506,7 +516,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "681279583906955331": {
         "modification_history": {},
