@@ -415,6 +415,16 @@
                     2600000
                 ]
             },
+            "shadow_assassin_chestplate": {
+                "from": [
+                    37000000,
+                    38000000
+                ],
+                "to": [
+                    44000000,
+                    45000000
+                ]
+            },
             "shadow_fury": {
                 "from": [
                     35000000,
@@ -486,7 +496,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "681279583906955331": {
         "modification_history": {},
