@@ -524,6 +524,16 @@
                     4000
                 ]
             },
+            "minion_expander": {
+                "from": [
+                    25000,
+                    69000
+                ],
+                "to": [
+                    20000,
+                    22000
+                ]
+            },
             "necromancers_brooch": {
                 "from": [
                     68000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "681279583906955331": {
         "modification_history": {},
