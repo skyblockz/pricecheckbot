@@ -114,6 +114,16 @@
                     700000
                 ]
             },
+            "growth_vi": {
+                "from": [
+                    10400000,
+                    10500000
+                ],
+                "to": [
+                    13900000,
+                    14500000
+                ]
+            },
             "optical_lens": {
                 "from": null,
                 "to": [
@@ -162,7 +172,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "465602727368720385": {
         "modification_history": {},
