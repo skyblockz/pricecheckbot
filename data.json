@@ -6613,12 +6613,6 @@
     },
     {
         "ac": true,
-        "hi": 3400000,
-        "low": 3140000,
-        "name": "ultimate_wise_5"
-    },
-    {
-        "ac": true,
         "hi": 1,
         "low": 1,
         "name": "dungeon_orb"
@@ -8200,5 +8194,11 @@
         "hi": 1000000,
         "low": 990000,
         "name": "legion_i"
+    },
+    {
+        "ac": true,
+        "hi": 3400000,
+        "low": 3140000,
+        "name": "ultimate_wise_v"
     }
 ]
