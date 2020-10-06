@@ -407,6 +407,16 @@
                     4000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    68000,
+                    69000
+                ],
+                "to": [
+                    75000,
+                    77000
+                ]
+            },
             "plasma_bucket": {
                 "from": [
                     3000000,
@@ -565,7 +575,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "681279583906955331": {
         "modification_history": {},
