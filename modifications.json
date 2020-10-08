@@ -11,6 +11,16 @@
                     240000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    3300000,
+                    3500000
+                ],
+                "to": [
+                    2500000,
+                    2650000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": null,
                 "to": [
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "204280646493929472": {
         "modification_history": {},
