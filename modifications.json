@@ -308,6 +308,16 @@
                     7500000
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    375000,
+                    450000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "spirit_mask": {
                 "from": [
                     400000,
@@ -379,7 +389,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "465602727368720385": {
         "modification_history": {},
