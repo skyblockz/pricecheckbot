@@ -750,6 +750,13 @@
                     180000
                 ]
             },
+            "bank_v": {
+                "from": null,
+                "to": [
+                    590000,
+                    610000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     365000,
@@ -1214,7 +1221,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "681279583906955331": {
         "modification_history": {},
