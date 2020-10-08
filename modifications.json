@@ -148,6 +148,16 @@
                     12000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2200000,
+                    2500000
+                ],
+                "to": [
+                    3000000,
+                    3400000
+                ]
+            },
             "optical_lens": {
                 "from": [
                     25000,
@@ -216,7 +226,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "204280646493929472": {
         "modification_history": {},
