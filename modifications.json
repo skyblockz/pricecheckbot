@@ -864,6 +864,16 @@
                     420000
                 ]
             },
+            "growth_vi": {
+                "from": [
+                    13900000,
+                    14500000
+                ],
+                "to": [
+                    13000000,
+                    13200000
+                ]
+            },
             "hardened_diamond_chestplate": {
                 "from": [
                     5000,
@@ -1221,7 +1231,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "681279583906955331": {
         "modification_history": {},
