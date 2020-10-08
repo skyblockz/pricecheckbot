@@ -191,6 +191,16 @@
                     14500000
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    55200,
+                    57800
+                ],
+                "to": [
+                    50000,
+                    55000
+                ]
+            },
             "optical_lens": {
                 "from": null,
                 "to": [
@@ -279,7 +289,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "465602727368720385": {
         "modification_history": {},
