@@ -241,6 +241,16 @@
                     950000
                 ]
             },
+            "krampus_helmet": {
+                "from": [
+                    470000,
+                    480000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "optical_lens": {
                 "from": null,
                 "to": [
@@ -349,7 +359,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "465602727368720385": {
         "modification_history": {},
