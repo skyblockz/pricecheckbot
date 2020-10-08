@@ -477,6 +477,16 @@
                     435000
                 ]
             },
+            "flycatcher": {
+                "from": [
+                    10500000,
+                    12500000
+                ],
+                "to": [
+                    9000000,
+                    9100000
+                ]
+            },
             "necromancers_brooch": {
                 "from": [
                     75000,
@@ -618,7 +628,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "586939737936363520": {
         "modification_history": {},
