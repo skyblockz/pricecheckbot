@@ -61,6 +61,16 @@
                     2650000
                 ]
             },
+            "chestplate_of_growth": {
+                "from": [
+                    650000,
+                    800000
+                ],
+                "to": [
+                    250000,
+                    280000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": null,
                 "to": [
@@ -266,7 +276,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "204280646493929472": {
         "modification_history": {},
