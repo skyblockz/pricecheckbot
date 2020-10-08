@@ -517,6 +517,16 @@
                     9000000
                 ]
             },
+            "scythe_blade": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1300000,
@@ -588,7 +598,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "586939737936363520": {
         "modification_history": {},
