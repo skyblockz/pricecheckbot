@@ -148,6 +148,16 @@
                     12000000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1350000,
+                    1400000
+                ],
+                "to": [
+                    1200000,
+                    1275000
+                ]
+            },
             "skeletor_helmet": {
                 "from": null,
                 "to": [
@@ -156,7 +166,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "204280646493929472": {
         "modification_history": {},
