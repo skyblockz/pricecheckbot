@@ -459,12 +459,12 @@
             },
             "diamond_essence": {
                 "from": [
-                    6000,
-                    8000
-                ],
-                "to": [
                     3000,
                     3500
+                ],
+                "to": [
+                    5000,
+                    7000
                 ]
             },
             "digested_mosquito": {
@@ -708,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "586939737936363520": {
         "modification_history": {},
