@@ -1,6 +1,16 @@
 {
     "196278928678060032": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    260000,
+                    350000
+                ],
+                "to": [
+                    215000,
+                    240000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": null,
                 "to": [
@@ -56,7 +66,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "204280646493929472": {
         "modification_history": {},
