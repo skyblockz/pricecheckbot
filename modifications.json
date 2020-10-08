@@ -118,6 +118,16 @@
                     8400000
                 ]
             },
+            "helmet_of_growth": {
+                "from": [
+                    600000,
+                    600000
+                ],
+                "to": [
+                    200000,
+                    220000
+                ]
+            },
             "leggings_of_growth": {
                 "from": [
                     650000,
@@ -256,7 +266,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "204280646493929472": {
         "modification_history": {},
