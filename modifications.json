@@ -250,6 +250,16 @@
                     2100000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    282000,
+                    305000
+                ],
+                "to": [
+                    420000,
+                    435000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     573000,
@@ -261,7 +271,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "586939737936363520": {
         "modification_history": {},
