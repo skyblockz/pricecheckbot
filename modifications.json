@@ -178,6 +178,16 @@
                     30000
                 ]
             },
+            "shark_scale_boots": {
+                "from": [
+                    4200000,
+                    4300000
+                ],
+                "to": [
+                    3500000,
+                    3600000
+                ]
+            },
             "spooky_boots": {
                 "from": [
                     450000,
@@ -219,7 +229,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "465602727368720385": {
         "modification_history": {},
