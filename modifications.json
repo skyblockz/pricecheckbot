@@ -215,6 +215,16 @@
                     3100000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    335000,
+                    370000
+                ],
+                "to": [
+                    300000,
+                    325000
+                ]
+            },
             "ultimate_wise_1": {
                 "from": [
                     160000,
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "204280646493929472": {
         "modification_history": {},
