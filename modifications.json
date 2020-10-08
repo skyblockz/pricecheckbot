@@ -457,6 +457,16 @@
                     2000000
                 ]
             },
+            "diamond_essence": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    3000,
+                    3500
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     1900000,
@@ -698,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "586939737936363520": {
         "modification_history": {},
