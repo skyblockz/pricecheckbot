@@ -358,6 +358,16 @@
                     450000
                 ]
             },
+            "vampire_mask": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    40000,
+                    75000
+                ]
+            },
             "water_hydra_head": {
                 "from": [
                     60000,
@@ -369,7 +379,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "465602727368720385": {
         "modification_history": {},
