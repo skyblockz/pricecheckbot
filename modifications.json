@@ -118,6 +118,16 @@
                     38000000
                 ]
             },
+            "ember_helmet": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "emperors_skull": {
                 "from": [
                     300000,
@@ -636,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "204280646493929472": {
         "modification_history": {},
