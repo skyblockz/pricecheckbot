@@ -138,6 +138,16 @@
                     10000
                 ]
             },
+            "fairys_polo": {
+                "from": [
+                    10000,
+                    100000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     50000,
@@ -546,7 +556,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "204280646493929472": {
         "modification_history": {},
