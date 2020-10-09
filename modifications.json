@@ -676,6 +676,16 @@
                     1200000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    378000,
+                    390000
+                ],
+                "to": [
+                    345000,
+                    3000000
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     73000,
@@ -784,7 +794,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "395295454872469504": {
         "modification_history": {},
