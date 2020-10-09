@@ -81,6 +81,16 @@
                     280000
                 ]
             },
+            "chestplate_of_the_pack": {
+                "from": [
+                    900000,
+                    950000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": null,
                 "to": [
@@ -466,7 +476,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "204280646493929472": {
         "modification_history": {},
