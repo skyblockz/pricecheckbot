@@ -501,6 +501,16 @@
                     700000
                 ]
             },
+            "potato": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    2,
+                    5
+                ]
+            },
             "wheat": {
                 "from": [
                     3,
@@ -512,7 +522,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "327186268159082500": {
         "modification_history": {},
