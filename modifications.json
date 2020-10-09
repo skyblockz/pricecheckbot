@@ -666,6 +666,16 @@
                     1000000
                 ]
             },
+            "epic_silent_death": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    73000,
+                    1000000
+                ]
+            },
             "golem_sword": {
                 "from": [
                     250000,
@@ -757,7 +767,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395295454872469504": {
         "modification_history": {},
