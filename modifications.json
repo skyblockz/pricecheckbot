@@ -88,6 +88,16 @@
                     38000000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    282000,
+                    305000
+                ],
+                "to": [
+                    480000,
+                    500000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     50000,
@@ -346,7 +356,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "204280646493929472": {
         "modification_history": {},
