@@ -431,6 +431,16 @@
                     30000
                 ]
             },
+            "enchanted_golden_carrot": {
+                "from": [
+                    70000,
+                    86000
+                ],
+                "to": [
+                    69000,
+                    75000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     6750,
@@ -502,7 +512,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "327186268159082500": {
         "modification_history": {},
