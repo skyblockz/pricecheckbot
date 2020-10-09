@@ -776,6 +776,16 @@
                     200000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    10000,
+                    12000
+                ],
+                "to": [
+                    29000,
+                    50000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     950000,
@@ -931,7 +941,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "395295454872469504": {
         "modification_history": {},
