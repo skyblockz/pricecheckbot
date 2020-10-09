@@ -198,6 +198,16 @@
                     75000
                 ]
             },
+            "golem_armor_leggings": {
+                "from": [
+                    72000,
+                    76000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "helmet_of_growth": {
                 "from": [
                     600000,
@@ -516,7 +526,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "204280646493929472": {
         "modification_history": {},
