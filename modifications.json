@@ -616,6 +616,16 @@
                     2000000
                 ]
             },
+            "recluse_fang": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    50000,
+                    2400000
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     2500000,
@@ -637,7 +647,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395295454872469504": {
         "modification_history": {},
