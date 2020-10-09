@@ -328,6 +328,16 @@
                     4450000
                 ]
             },
+            "shredder": {
+                "from": [
+                    2500000,
+                    2800000
+                ],
+                "to": [
+                    580000,
+                    750000
+                ]
+            },
             "skeletor_helmet": {
                 "from": null,
                 "to": [
@@ -416,7 +426,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "204280646493929472": {
         "modification_history": {},
