@@ -188,6 +188,16 @@
                     12000000
                 ]
             },
+            "lvl_1_epic_sheep": {
+                "from": [
+                    1700000,
+                    2000000
+                ],
+                "to": [
+                    800000,
+                    950000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -286,7 +296,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "204280646493929472": {
         "modification_history": {},
