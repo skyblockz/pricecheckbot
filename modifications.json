@@ -535,6 +535,16 @@
                     3100000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    480000,
+                    530000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     335000,
@@ -606,7 +616,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "204280646493929472": {
         "modification_history": {},
