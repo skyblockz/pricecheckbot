@@ -458,6 +458,16 @@
                     750000
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "skeletor_helmet": {
                 "from": null,
                 "to": [
@@ -576,7 +586,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "204280646493929472": {
         "modification_history": {},
