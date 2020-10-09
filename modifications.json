@@ -706,6 +706,16 @@
                     1000000
                 ]
             },
+            "epic_zombie_knight_sword": {
+                "from": [
+                    30000,
+                    75000
+                ],
+                "to": [
+                    17000,
+                    75000
+                ]
+            },
             "golem_sword": {
                 "from": [
                     250000,
@@ -854,7 +864,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395295454872469504": {
         "modification_history": {},
