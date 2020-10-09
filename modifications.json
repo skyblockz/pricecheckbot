@@ -101,6 +101,16 @@
                     700000
                 ]
             },
+            "creeper_pants": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    615000,
+                    700000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": null,
                 "to": [
@@ -596,7 +606,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "204280646493929472": {
         "modification_history": {},
