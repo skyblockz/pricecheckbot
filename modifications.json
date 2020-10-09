@@ -168,6 +168,16 @@
                     220000
                 ]
             },
+            "helmet_of_the_pack": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     81000,
@@ -456,7 +466,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "204280646493929472": {
         "modification_history": {},
