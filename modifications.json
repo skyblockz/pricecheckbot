@@ -471,6 +471,16 @@
                     500
                 ]
             },
+            "enchanted_pumpkin": {
+                "from": [
+                    635,
+                    675
+                ],
+                "to": [
+                    630,
+                    6601
+                ]
+            },
             "hay_bale": {
                 "from": [
                     43,
@@ -552,7 +562,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "327186268159082500": {
         "modification_history": {},
