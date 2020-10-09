@@ -686,6 +686,16 @@
                     3000000
                 ]
             },
+            "end_stone_sword": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    160000,
+                    200000
+                ]
+            },
             "epic_silent_death": {
                 "from": [
                     73000,
@@ -794,7 +804,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395295454872469504": {
         "modification_history": {},
