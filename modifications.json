@@ -796,6 +796,16 @@
                     200000
                 ]
             },
+            "lvl_1_legendary_turtle": {
+                "from": [
+                    15000000,
+                    15300000
+                ],
+                "to": [
+                    13000000,
+                    15300000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     10000,
@@ -961,7 +971,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395295454872469504": {
         "modification_history": {},
