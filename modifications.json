@@ -863,6 +863,13 @@
                     2500000
                 ]
             },
+            "zombie_commander_whip": {
+                "from": null,
+                "to": [
+                    170000,
+                    250000
+                ]
+            },
             "zombie_soldier_cutlass": {
                 "from": [
                     11000,
@@ -884,7 +891,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395295454872469504": {
         "modification_history": {},
