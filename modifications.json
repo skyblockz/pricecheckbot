@@ -258,6 +258,16 @@
                     110000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    1200,
+                    17500
+                ],
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
             "helmet_of_growth": {
                 "from": [
                     600000,
@@ -586,7 +596,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "204280646493929472": {
         "modification_history": {},
