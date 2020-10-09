@@ -836,6 +836,16 @@
                     10000
                 ]
             },
+            "spirit_sword": {
+                "from": [
+                    2800000,
+                    3100000
+                ],
+                "to": [
+                    2350000,
+                    4000000
+                ]
+            },
             "super_cleaver": {
                 "from": null,
                 "to": [
@@ -874,7 +884,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395295454872469504": {
         "modification_history": {},
