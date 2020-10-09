@@ -148,6 +148,16 @@
                     10000
                 ]
             },
+            "fairys_trousers": {
+                "from": [
+                    5000,
+                    60000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     50000,
@@ -556,7 +566,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "204280646493929472": {
         "modification_history": {},
