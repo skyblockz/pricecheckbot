@@ -114,9 +114,19 @@
                     52000,
                     60000
                 ]
+            },
+            "dragon_essence": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    2500,
+                    3500
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "586939737936363520": {
         "modification_history": {},
