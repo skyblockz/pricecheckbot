@@ -73,6 +73,16 @@
                     350000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    104000,
+                    200000
+                ]
+            },
             "ultimate_carrot_candy_upgrade": {
                 "from": null,
                 "to": [
@@ -121,7 +131,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395295454872469504": {
         "modification_history": {},
