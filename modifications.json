@@ -90,6 +90,16 @@
                     800000
                 ]
             },
+            "fancy_tuxedo_jacket": {
+                "from": [
+                    5000000,
+                    7000000
+                ],
+                "to": [
+                    6500000,
+                    7000000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     120000,
@@ -298,7 +308,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395295454872469504": {
         "modification_history": {},
