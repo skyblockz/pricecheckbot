@@ -471,6 +471,13 @@
                     25000
                 ]
             },
+            "swarm_i": {
+                "from": null,
+                "to": [
+                    720000,
+                    750000
+                ]
+            },
             "undead_essence": {
                 "from": [
                     800,
@@ -482,7 +489,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "586939737936363520": {
         "modification_history": {},
