@@ -8248,5 +8248,11 @@
         "hi": 9600000,
         "low": 9000000,
         "name": "overload_v"
+    },
+    {
+        "ac": true,
+        "hi": 750000,
+        "low": 720000,
+        "name": "swarm_i"
     }
 ]
