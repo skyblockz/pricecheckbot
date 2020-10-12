@@ -103,6 +103,16 @@
                     200000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    100000,
+                    110000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "ultimate_carrot_candy_upgrade": {
                 "from": null,
                 "to": [
@@ -151,7 +161,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "395295454872469504": {
         "modification_history": {},
