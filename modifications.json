@@ -73,6 +73,16 @@
                     1000000
                 ]
             },
+            "cheap_tuxedo_pants": {
+                "from": [
+                    380000,
+                    450000
+                ],
+                "to": [
+                    450000,
+                    800000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     120000,
@@ -281,7 +291,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395295454872469504": {
         "modification_history": {},
