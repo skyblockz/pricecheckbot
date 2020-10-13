@@ -598,6 +598,16 @@
                     500000
                 ]
             },
+            "flower_minion_xi": {
+                "from": [
+                    6800000,
+                    7200000
+                ],
+                "to": [
+                    15000000,
+                    20000000
+                ]
+            },
             "flower_of_truth": {
                 "from": null,
                 "to": [
@@ -760,7 +770,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "681279583906955331": {
         "modification_history": {},
