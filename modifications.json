@@ -702,6 +702,16 @@
                     14500000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    335000,
+                    370000
+                ],
+                "to": [
+                    300000,
+                    320000
+                ]
+            },
             "washed_up_souvenir": {
                 "from": null,
                 "to": [
@@ -740,7 +750,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "681279583906955331": {
         "modification_history": {},
