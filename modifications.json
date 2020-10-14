@@ -580,12 +580,12 @@
             },
             "dragon_scale": {
                 "from": [
-                    650000,
-                    680000
-                ],
-                "to": [
                     500000,
                     550000
+                ],
+                "to": [
+                    950000,
+                    1000000
                 ]
             },
             "feather_falling_x": {
@@ -770,7 +770,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "681279583906955331": {
         "modification_history": {},
