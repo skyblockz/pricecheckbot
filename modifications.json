@@ -121,6 +121,13 @@
                     9600000
                 ]
             },
+            "golden_sadan_head": {
+                "from": null,
+                "to": [
+                    1400000,
+                    1600000
+                ]
+            },
             "hurricane_bow": {
                 "from": [
                     95000,
@@ -202,7 +209,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "268844820317863936": {
         "modification_history": {},
