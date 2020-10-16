@@ -338,6 +338,16 @@
                     500000
                 ]
             },
+            "scarfs_thesis": {
+                "from": [
+                    2500000,
+                    2600000
+                ],
+                "to": [
+                    1900000,
+                    2100000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     3000000,
@@ -419,7 +429,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "268844820317863936": {
         "modification_history": {},
