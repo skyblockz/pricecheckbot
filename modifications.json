@@ -1089,6 +1089,16 @@
                     13000000
                 ]
             },
+            "ultimate_carrot_candy_upgrade": {
+                "from": [
+                    850000,
+                    1500000
+                ],
+                "to": [
+                    880000,
+                    900000
+                ]
+            },
             "undead_essence": {
                 "from": [
                     800,
@@ -1100,7 +1110,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "586939737936363520": {
         "modification_history": {},
