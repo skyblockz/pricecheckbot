@@ -1063,10 +1063,13 @@
                 ]
             },
             "dwarf_turtle_shelmet": {
-                "from": null,
+                "from": [
+                    8000000,
+                    8300000
+                ],
                 "to": [
-                    6100000,
-                    6200000
+                    7900000,
+                    8000000
                 ]
             },
             "ice_essence": {
@@ -1140,7 +1143,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "586939737936363520": {
         "modification_history": {},
