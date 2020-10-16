@@ -37,6 +37,16 @@
                     5000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    800,
+                    825
+                ],
+                "to": [
+                    570,
+                    580
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     800000,
@@ -55,7 +65,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "333950092493193216": {
         "modification_history": {},
