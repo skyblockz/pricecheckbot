@@ -31,6 +31,16 @@
                     1700000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    2500000,
+                    2750000
+                ],
+                "to": [
+                    1100000,
+                    1400000
+                ]
+            },
             "mastiff_boots": {
                 "from": [
                     650000,
@@ -72,7 +82,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "268844820317863936": {
         "modification_history": {},
