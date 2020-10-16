@@ -1072,6 +1072,16 @@
                     8000000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    500000,
+                    525000
+                ],
+                "to": [
+                    350000,
+                    360000
+                ]
+            },
             "ice_essence": {
                 "from": [
                     25000,
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "586939737936363520": {
         "modification_history": {},
