@@ -1060,10 +1060,13 @@
                 ]
             },
             "swarm_v": {
-                "from": null,
-                "to": [
+                "from": [
                     14200000,
                     14300000
+                ],
+                "to": [
+                    12800000,
+                    13000000
                 ]
             },
             "undead_essence": {
@@ -1077,7 +1080,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "586939737936363520": {
         "modification_history": {},
