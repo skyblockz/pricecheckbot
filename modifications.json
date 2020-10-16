@@ -328,6 +328,16 @@
                     350000
                 ]
             },
+            "scarfs_studies": {
+                "from": [
+                    580000,
+                    585000
+                ],
+                "to": [
+                    580000,
+                    610000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     3000000,
@@ -409,7 +419,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "268844820317863936": {
         "modification_history": {},
