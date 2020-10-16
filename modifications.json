@@ -37,6 +37,16 @@
                     4
                 ]
             },
+            "diamond": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "diamond_essence": {
                 "from": [
                     6000,
@@ -165,7 +175,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "333950092493193216": {
         "modification_history": {},
