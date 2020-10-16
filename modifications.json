@@ -258,6 +258,16 @@
                     700000
                 ]
             },
+            "personal_compactor_5000": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    1400000,
+                    1500000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5800000,
@@ -389,7 +399,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "268844820317863936": {
         "modification_history": {},
