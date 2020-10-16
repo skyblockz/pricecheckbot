@@ -505,6 +505,16 @@
                     650000
                 ]
             },
+            "shaman_sword": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     3000000,
@@ -666,7 +676,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "268844820317863936": {
         "modification_history": {},
