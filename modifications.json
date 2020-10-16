@@ -15,6 +15,13 @@
                     1800000
                 ]
             },
+            "dungeon_sack": {
+                "from": null,
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": null,
                 "to": [
@@ -47,7 +54,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "268844820317863936": {
         "modification_history": {},
