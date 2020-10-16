@@ -57,6 +57,16 @@
                     5000
                 ]
             },
+            "emerald": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "enchanted_block_of_coal": {
                 "from": [
                     222000,
@@ -195,7 +205,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "333950092493193216": {
         "modification_history": {},
