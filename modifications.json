@@ -111,6 +111,16 @@
                     9600000
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    95000,
+                    110000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "mastiff_boots": {
                 "from": [
                     650000,
@@ -182,7 +192,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "268844820317863936": {
         "modification_history": {},
