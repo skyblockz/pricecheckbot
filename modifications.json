@@ -101,6 +101,16 @@
                     1650000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    1900000,
+                    2600000
+                ],
+                "to": [
+                    1300000,
+                    1450000
+                ]
+            },
             "divers_boots": {
                 "from": [
                     1000000,
@@ -596,7 +606,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "268844820317863936": {
         "modification_history": {},
