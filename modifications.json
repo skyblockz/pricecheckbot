@@ -61,6 +61,16 @@
                     10100000
                 ]
             },
+            "divers_mask": {
+                "from": [
+                    1500000,
+                    1750000
+                ],
+                "to": [
+                    980000,
+                    1100000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     6100000,
@@ -142,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "268844820317863936": {
         "modification_history": {},
