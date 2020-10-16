@@ -1,6 +1,16 @@
 {
     "196278928678060032": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "mastiff_boots": {
                 "from": [
                     650000,
@@ -42,7 +52,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "268844820317863936": {
         "modification_history": {},
