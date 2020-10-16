@@ -87,6 +87,16 @@
                     580
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1100,
+                    1300
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     800000,
@@ -115,7 +125,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "333950092493193216": {
         "modification_history": {},
