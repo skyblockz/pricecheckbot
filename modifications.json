@@ -208,6 +208,16 @@
                     5000000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "rod_of_legends": {
                 "from": [
                     6400000,
@@ -239,7 +249,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "268844820317863936": {
         "modification_history": {},
