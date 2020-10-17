@@ -240,6 +240,16 @@
                     3800000
                 ]
             },
+            "lvl_100_legendary_wolf": {
+                "from": [
+                    14000000,
+                    16000000
+                ],
+                "to": [
+                    9000000,
+                    11000000
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     700,
@@ -311,7 +321,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "268844820317863936": {
         "modification_history": {},
