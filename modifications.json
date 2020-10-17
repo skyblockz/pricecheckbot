@@ -210,6 +210,16 @@
                     45
                 ]
             },
+            "spirit_mask": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    400000
+                ]
+            },
             "tiger_shark_tooth": {
                 "from": [
                     140000,
@@ -241,7 +251,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "268844820317863936": {
         "modification_history": {},
