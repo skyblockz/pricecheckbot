@@ -244,8 +244,19 @@
         "total_mods": 1
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "jumbo_backpack_upgrade": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    550000,
+                    560000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "586939737936363520": {
         "modification_history": {},
