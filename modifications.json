@@ -200,6 +200,16 @@
                     300
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    690000,
+                    740000
+                ],
+                "to": [
+                    930000,
+                    990000
+                ]
+            },
             "shark_fin": {
                 "from": [
                     110,
@@ -251,7 +261,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "268844820317863936": {
         "modification_history": {},
