@@ -230,6 +230,16 @@
                     8000000
                 ]
             },
+            "lvl_100_legendary_silverfish": {
+                "from": [
+                    9000000,
+                    10000000
+                ],
+                "to": [
+                    2600000,
+                    3800000
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     700,
@@ -301,7 +311,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "268844820317863936": {
         "modification_history": {},
