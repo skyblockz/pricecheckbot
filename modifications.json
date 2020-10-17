@@ -128,6 +128,16 @@
                     6500000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    4100000,
+                    4500000
+                ],
+                "to": [
+                    1500000,
+                    1700000
+                ]
+            },
             "trick_or_treat_bad": {
                 "from": null,
                 "to": [
@@ -146,7 +156,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "268844820317863936": {
         "modification_history": {},
