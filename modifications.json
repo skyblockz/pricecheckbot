@@ -453,6 +453,16 @@
     },
     "676937120069189632": {
         "modification_history": {
+            "dragon_claw": {
+                "from": [
+                    3500000,
+                    3600000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "summoning_ring": {
                 "from": null,
                 "to": [
@@ -471,7 +481,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "681279583906955331": {
         "modification_history": {},
