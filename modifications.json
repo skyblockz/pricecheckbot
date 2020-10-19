@@ -230,6 +230,16 @@
                     60000
                 ]
             },
+            "ember_fragment": {
+                "from": [
+                    550,
+                    600
+                ],
+                "to": [
+                    4500,
+                    9000
+                ]
+            },
             "enchanted_shark_fin": {
                 "from": [
                     17500,
@@ -431,7 +441,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "268844820317863936": {
         "modification_history": {},
