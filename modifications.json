@@ -480,6 +480,16 @@
                     55000000
                 ]
             },
+            "young_dragon_boots": {
+                "from": [
+                    330000,
+                    380000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "young_dragon_helmet": {
                 "from": [
                     400000,
@@ -491,7 +501,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "268844820317863936": {
         "modification_history": {},
