@@ -513,6 +513,16 @@
                     3000000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    299000,
+                    425000
+                ],
+                "to": [
+                    900000,
+                    950000
+                ]
+            },
             "summoning_ring": {
                 "from": null,
                 "to": [
@@ -541,7 +551,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "681279583906955331": {
         "modification_history": {},
