@@ -29,6 +29,16 @@
                     1800000
                 ]
             },
+            "daedalus_axe": {
+                "from": [
+                    40000000,
+                    50000000
+                ],
+                "to": [
+                    29000000,
+                    32000000
+                ]
+            },
             "dungeon_sack": {
                 "from": null,
                 "to": [
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "236625470387519488": {
         "modification_history": {
