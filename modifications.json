@@ -280,6 +280,16 @@
                     300
                 ]
             },
+            "recombobulator_3000": {
+                "from": [
+                    5800000,
+                    6000000
+                ],
+                "to": [
+                    5000000,
+                    5100000
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     690000,
@@ -361,7 +371,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "268844820317863936": {
         "modification_history": {},
