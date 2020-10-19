@@ -200,6 +200,16 @@
                     3650
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    830000,
+                    860000
+                ],
+                "to": [
+                    900000,
+                    910000
+                ]
+            },
             "enchanted_shark_fin": {
                 "from": [
                     17500,
@@ -371,7 +381,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "268844820317863936": {
         "modification_history": {},
