@@ -751,6 +751,13 @@
                     11500000
                 ]
             },
+            "protection_7": {
+                "from": null,
+                "to": [
+                    4500000,
+                    5000000
+                ]
+            },
             "summoning_ring": {
                 "from": null,
                 "to": [
@@ -779,7 +786,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "681279583906955331": {
         "modification_history": {},
