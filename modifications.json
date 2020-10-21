@@ -700,6 +700,13 @@
     },
     "676937120069189632": {
         "modification_history": {
+            "builders_wand": {
+                "from": null,
+                "to": [
+                    4290000,
+                    5000000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     1900000,
@@ -765,7 +772,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "681279583906955331": {
         "modification_history": {},
