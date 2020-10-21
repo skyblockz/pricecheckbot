@@ -758,6 +758,13 @@
                     11500000
                 ]
             },
+            "midas_staff": {
+                "from": null,
+                "to": [
+                    120000000,
+                    120500000
+                ]
+            },
             "protection_7": {
                 "from": null,
                 "to": [
@@ -793,7 +800,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "681279583906955331": {
         "modification_history": {},
