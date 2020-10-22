@@ -1049,6 +1049,16 @@
     },
     "676937120069189632": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    548000,
+                    600000
+                ],
+                "to": [
+                    290000,
+                    300000
+                ]
+            },
             "bits_talisman": {
                 "from": null,
                 "to": [
@@ -1199,7 +1209,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "681279583906955331": {
         "modification_history": {},
