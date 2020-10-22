@@ -630,6 +630,16 @@
                     900000
                 ]
             },
+            "daedalus_stick": {
+                "from": [
+                    10000000,
+                    12000000
+                ],
+                "to": [
+                    4550000,
+                    5550000
+                ]
+            },
             "griffin_feather": {
                 "from": [
                     85000,
@@ -681,7 +691,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395295454872469504": {
         "modification_history": {},
