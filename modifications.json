@@ -670,6 +670,16 @@
                     35200
                 ]
             },
+            "enchanted_shark_fin": {
+                "from": [
+                    17500,
+                    26000
+                ],
+                "to": [
+                    4500,
+                    6650
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     2100000,
@@ -761,7 +771,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "395295454872469504": {
         "modification_history": {},
