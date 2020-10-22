@@ -240,6 +240,16 @@
                     910000
                 ]
             },
+            "builders_wand": {
+                "from": [
+                    4290000,
+                    5000000
+                ],
+                "to": [
+                    3900000,
+                    4000000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     35000,
@@ -511,7 +521,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "268844820317863936": {
         "modification_history": {},
