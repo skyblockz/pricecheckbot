@@ -660,6 +660,16 @@
                     900000
                 ]
             },
+            "creeper_pants": {
+                "from": [
+                    450000,
+                    700000
+                ],
+                "to": [
+                    670000,
+                    690000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     10000000,
@@ -861,7 +871,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395295454872469504": {
         "modification_history": {},
