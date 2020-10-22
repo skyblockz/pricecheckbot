@@ -710,6 +710,16 @@
                     6650
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    175000,
+                    180000
+                ],
+                "to": [
+                    175000,
+                    250000
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     2100000,
@@ -871,7 +881,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395295454872469504": {
         "modification_history": {},
