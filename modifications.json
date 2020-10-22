@@ -609,8 +609,19 @@
         "total_mods": 0
     },
     "395028811399299082": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "booster_cookie": {
+                "from": [
+                    900000,
+                    910000
+                ],
+                "to": [
+                    86800,
+                    900000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "395295454872469504": {
         "modification_history": {},
