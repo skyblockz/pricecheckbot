@@ -770,6 +770,16 @@
                     3000000
                 ]
             },
+            "tier_boost_core": {
+                "from": [
+                    25000000,
+                    30000000
+                ],
+                "to": [
+                    20330000,
+                    21000000
+                ]
+            },
             "tiger_shark_tooth": {
                 "from": [
                     140000,
@@ -811,7 +821,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395295454872469504": {
         "modification_history": {},
