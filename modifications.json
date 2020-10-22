@@ -610,6 +610,16 @@
     },
     "395028811399299082": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    450000,
+                    800000
+                ]
+            },
             "booster_cookie": {
                 "from": [
                     86800,
@@ -661,7 +671,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395295454872469504": {
         "modification_history": {},
