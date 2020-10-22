@@ -850,6 +850,16 @@
                     81000
                 ]
             },
+            "travel_scroll_to_magma_fields": {
+                "from": [
+                    19500,
+                    20000
+                ],
+                "to": [
+                    9000,
+                    20000
+                ]
+            },
             "travel_scroll_to_mushroom_island": {
                 "from": [
                     100000,
@@ -891,7 +901,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "395295454872469504": {
         "modification_history": {},
