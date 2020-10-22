@@ -1059,6 +1059,16 @@
                     300000
                 ]
             },
+            "adaptive_chestplate": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    3850000,
+                    4000000
+                ]
+            },
             "adaptive_leggings": {
                 "from": [
                     2500000,
@@ -1219,7 +1229,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "681279583906955331": {
         "modification_history": {},
