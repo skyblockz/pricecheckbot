@@ -630,6 +630,16 @@
                     900000
                 ]
             },
+            "griffin_feather": {
+                "from": [
+                    85000,
+                    90000
+                ],
+                "to": [
+                    39900,
+                    42300
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     1575000,
@@ -671,7 +681,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395295454872469504": {
         "modification_history": {},
