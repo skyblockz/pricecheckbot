@@ -700,6 +700,16 @@
                     5500000
                 ]
             },
+            "nurse_shark_tooth": {
+                "from": [
+                    700,
+                    1000
+                ],
+                "to": [
+                    85,
+                    185
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     2500000,
@@ -711,7 +721,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "395295454872469504": {
         "modification_history": {},
