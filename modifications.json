@@ -620,6 +620,16 @@
                     900000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1575000,
+                    2500000
+                ],
+                "to": [
+                    1400000,
+                    2500000
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     2500000,
@@ -631,7 +641,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "395295454872469504": {
         "modification_history": {},
