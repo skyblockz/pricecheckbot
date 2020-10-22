@@ -1059,6 +1059,16 @@
                     300000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    2500000,
+                    2750000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "bits_talisman": {
                 "from": null,
                 "to": [
@@ -1209,7 +1219,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "681279583906955331": {
         "modification_history": {},
