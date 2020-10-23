@@ -566,9 +566,19 @@
                     1000,
                     1000
                 ]
+            },
+            "zombie_artifact": {
+                "from": [
+                    1100000,
+                    2000000
+                ],
+                "to": [
+                    1650000,
+                    1750000
+                ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "236625470387519488": {
         "modification_history": {
