@@ -345,6 +345,16 @@
                     500000
                 ]
             },
+            "spirit_boots": {
+                "from": [
+                    3700000,
+                    3850000
+                ],
+                "to": [
+                    2450000,
+                    2600000
+                ]
+            },
             "trick_or_treat_bad": {
                 "from": null,
                 "to": [
@@ -363,7 +373,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "236625470387519488": {
         "modification_history": {
