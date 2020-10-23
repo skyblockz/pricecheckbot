@@ -146,6 +146,16 @@
                     450000
                 ]
             },
+            "feather_falling_x": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    230000,
+                    250000
+                ]
+            },
             "giant_tooth": {
                 "from": null,
                 "to": [
@@ -383,7 +393,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "236625470387519488": {
         "modification_history": {
