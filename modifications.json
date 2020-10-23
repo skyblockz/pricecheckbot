@@ -75,6 +75,16 @@
                     400000
                 ]
             },
+            "bonemerang": {
+                "from": [
+                    8000000,
+                    8500000
+                ],
+                "to": [
+                    11500000,
+                    12000000
+                ]
+            },
             "candy_artifact": {
                 "from": [
                     250000,
@@ -343,7 +353,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "236625470387519488": {
         "modification_history": {
