@@ -1169,6 +1169,16 @@
                     45
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    650000,
+                    70000
+                ]
+            },
             "lvl_100_legendary_megalodon": {
                 "from": null,
                 "to": [
@@ -1264,7 +1274,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "333950092493193216": {
         "modification_history": {},
