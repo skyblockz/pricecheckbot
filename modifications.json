@@ -264,6 +264,16 @@
                     1750000
                 ]
             },
+            "lethality_vi": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    115000,
+                    140000
+                ]
+            },
             "luxurious_spool": {
                 "from": [
                     250000,
@@ -538,7 +548,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "236625470387519488": {
         "modification_history": {
