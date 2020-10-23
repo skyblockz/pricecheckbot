@@ -969,6 +969,16 @@
                     5
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1350000,
+                    1550000
+                ],
+                "to": [
+                    850000,
+                    900000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     50000000,
@@ -1234,7 +1244,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "333950092493193216": {
         "modification_history": {},
