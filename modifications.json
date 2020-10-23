@@ -1366,6 +1366,16 @@
                     3600000
                 ]
             },
+            "flower_of_truth": {
+                "from": [
+                    8100000,
+                    8200000
+                ],
+                "to": [
+                    7400000,
+                    7500000
+                ]
+            },
             "giants_sword": {
                 "from": null,
                 "to": [
@@ -1384,7 +1394,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "586939737936363520": {
         "modification_history": {},
