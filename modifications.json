@@ -530,6 +530,16 @@
                     2600000
                 ]
             },
+            "thunderlord_vi": {
+                "from": [
+                    470000,
+                    520000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "trick_or_treat_bad": {
                 "from": null,
                 "to": [
@@ -548,7 +558,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "236625470387519488": {
         "modification_history": {
