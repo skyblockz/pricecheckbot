@@ -25,6 +25,16 @@
                     700000
                 ]
             },
+            "bat_person_chestplate": {
+                "from": [
+                    800000,
+                    1300000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "bat_person_helmet": {
                 "from": [
                     750000,
@@ -313,7 +323,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "236625470387519488": {
         "modification_history": {
