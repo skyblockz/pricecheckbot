@@ -1396,6 +1396,16 @@
                     2100000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    1175000,
+                    1200000
+                ],
+                "to": [
+                    835000,
+                    850000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     47000,
@@ -1538,7 +1548,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "586939737936363520": {
         "modification_history": {},
