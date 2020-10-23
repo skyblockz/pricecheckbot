@@ -1366,6 +1366,16 @@
                     900000
                 ]
             },
+            "budget_hopper": {
+                "from": [
+                    5500,
+                    7500
+                ],
+                "to": [
+                    6000,
+                    6100
+                ]
+            },
             "clay_minion_xi": {
                 "from": [
                     250000,
@@ -1548,7 +1558,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "586939737936363520": {
         "modification_history": {},
