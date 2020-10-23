@@ -689,12 +689,12 @@
             },
             "enchanted_red_mushroom_block": {
                 "from": [
-                    28000,
-                    38000
-                ],
-                "to": [
                     20,
                     60
+                ],
+                "to": [
+                    17000,
+                    40000
                 ]
             },
             "hay_bale": {
@@ -792,7 +792,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "333950092493193216": {
         "modification_history": {},
