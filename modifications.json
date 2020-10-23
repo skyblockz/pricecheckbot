@@ -15,6 +15,16 @@
                     1600000
                 ]
             },
+            "bat_ring": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "cheetah_talisman": {
                 "from": null,
                 "to": [
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "236625470387519488": {
         "modification_history": {
