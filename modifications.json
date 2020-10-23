@@ -832,6 +832,16 @@
                     300
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    100000,
+                    110000
+                ],
+                "to": [
+                    120000,
+                    140000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5800000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "268844820317863936": {
         "modification_history": {},
