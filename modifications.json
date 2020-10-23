@@ -417,6 +417,16 @@
                     60000
                 ]
             },
+            "day_crystal": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "ember_fragment": {
                 "from": [
                     550,
@@ -698,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "268844820317863936": {
         "modification_history": {},
