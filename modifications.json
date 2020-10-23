@@ -547,6 +547,16 @@
                     26000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     700,
@@ -688,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "268844820317863936": {
         "modification_history": {},
