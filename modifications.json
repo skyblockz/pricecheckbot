@@ -979,6 +979,16 @@
                     8000000
                 ]
             },
+            "bat_artifact": {
+                "from": [
+                    635000,
+                    700000
+                ],
+                "to": [
+                    1300000,
+                    1300000
+                ]
+            },
             "brown_mushroom": {
                 "from": [
                     14,
@@ -1294,7 +1304,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "333950092493193216": {
         "modification_history": {},
