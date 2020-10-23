@@ -102,6 +102,16 @@
                     1300000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "crochet_tiger_plushie": {
                 "from": null,
                 "to": [
@@ -353,7 +363,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "236625470387519488": {
         "modification_history": {
