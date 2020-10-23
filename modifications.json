@@ -207,6 +207,16 @@
                     40000000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     118000,
@@ -588,7 +598,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "236625470387519488": {
         "modification_history": {
