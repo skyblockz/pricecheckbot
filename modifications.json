@@ -651,6 +651,16 @@
                     7300000
                 ]
             },
+            "potato": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     12000000,
@@ -672,7 +682,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "333950092493193216": {
         "modification_history": {},
