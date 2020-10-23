@@ -25,6 +25,16 @@
                     400000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "cheetah_talisman": {
                 "from": null,
                 "to": [
@@ -246,7 +256,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "236625470387519488": {
         "modification_history": {
