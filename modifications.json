@@ -1283,6 +1283,16 @@
                     60
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    1650000,
+                    1900000
+                ],
+                "to": [
+                    1300000,
+                    1300000
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     12000000,
@@ -1304,7 +1314,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "333950092493193216": {
         "modification_history": {},
