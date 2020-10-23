@@ -681,6 +681,16 @@
                     4
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     12000000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "333950092493193216": {
         "modification_history": {},
