@@ -832,6 +832,16 @@
                     300
                 ]
             },
+            "potato_talisman": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     100000,
@@ -993,7 +1003,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "268844820317863936": {
         "modification_history": {},
