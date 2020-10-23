@@ -587,6 +587,16 @@
                     400
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    30000,
+                    45000
+                ],
+                "to": [
+                    12000,
+                    20000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     6750,
@@ -652,7 +662,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "333950092493193216": {
         "modification_history": {},
