@@ -85,6 +85,16 @@
                     12000000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    3300000,
+                    3500000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "candy_artifact": {
                 "from": [
                     250000,
@@ -470,7 +480,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "236625470387519488": {
         "modification_history": {
