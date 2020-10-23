@@ -2049,6 +2049,16 @@
                     23700000
                 ]
             },
+            "tarantula_talisman": {
+                "from": [
+                    4900000,
+                    5000000
+                ],
+                "to": [
+                    4000000,
+                    4100000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     15000000,
@@ -2070,7 +2080,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "586939737936363520": {
         "modification_history": {},
