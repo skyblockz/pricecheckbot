@@ -66,6 +66,16 @@
                     120000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    500000,
+                    525000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "giant_tooth": {
                 "from": null,
                 "to": [
@@ -256,7 +266,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "236625470387519488": {
         "modification_history": {
