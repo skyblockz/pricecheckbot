@@ -567,6 +567,16 @@
                     5000000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    43,
+                    50
+                ],
+                "to": [
+                    40,
+                    45
+                ]
+            },
             "lvl_100_legendary_megalodon": {
                 "from": null,
                 "to": [
@@ -612,7 +622,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "333950092493193216": {
         "modification_history": {},
