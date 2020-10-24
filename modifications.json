@@ -15,6 +15,16 @@
                     24000000
                 ]
             },
+            "magma_bucket": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "old_dragon_helmet": {
                 "from": [
                     100000,
@@ -46,7 +56,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "268844820317863936": {
         "modification_history": {},
