@@ -5,6 +5,16 @@
     },
     "236625470387519488": {
         "modification_history": {
+            "fish_affinity_talisman": {
+                "from": [
+                    35000,
+                    60000
+                ],
+                "to": [
+                    15000,
+                    25000
+                ]
+            },
             "heat_core": {
                 "from": [
                     460000,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "268844820317863936": {
         "modification_history": {},
