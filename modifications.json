@@ -242,6 +242,16 @@
                     1200000
                 ]
             },
+            "daedalus_axe": {
+                "from": [
+                    29000000,
+                    32000000
+                ],
+                "to": [
+                    18000000,
+                    20000000
+                ]
+            },
             "florid_zombie_sword": {
                 "from": null,
                 "to": [
@@ -327,7 +337,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "333950092493193216": {
         "modification_history": {},
