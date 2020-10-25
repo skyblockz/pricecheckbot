@@ -45,6 +45,16 @@
                     50000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    60000,
+                    65000
+                ],
+                "to": [
+                    35000,
+                    45000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     35000,
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "268844820317863936": {
         "modification_history": {},
