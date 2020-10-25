@@ -182,6 +182,16 @@
                     1200000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    850000,
+                    900000
+                ],
+                "to": [
+                    2000000,
+                    2000000
+                ]
+            },
             "blaze_boots": {
                 "from": [
                     850000,
@@ -263,7 +273,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "333950092493193216": {
         "modification_history": {},
