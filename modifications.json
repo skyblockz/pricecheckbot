@@ -45,6 +45,16 @@
                     50000
                 ]
             },
+            "ender_chestplate": {
+                "from": [
+                    70000,
+                    70000
+                ],
+                "to": [
+                    45000,
+                    55000
+                ]
+            },
             "ender_helmet": {
                 "from": [
                     60000,
@@ -186,7 +196,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "268844820317863936": {
         "modification_history": {},
