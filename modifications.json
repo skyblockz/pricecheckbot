@@ -230,6 +230,16 @@
     },
     "540685105513889793": {
         "modification_history": {
+            "auger_rod": {
+                "from": [
+                    15000000,
+                    16000000
+                ],
+                "to": [
+                    10000000,
+                    10100000
+                ]
+            },
             "fel_pearl": {
                 "from": [
                     20000,
@@ -261,7 +271,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "586939737936363520": {
         "modification_history": {},
