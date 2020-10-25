@@ -45,6 +45,16 @@
                     50000
                 ]
             },
+            "ender_boots": {
+                "from": [
+                    60000,
+                    90000
+                ],
+                "to": [
+                    48000,
+                    55000
+                ]
+            },
             "ender_chestplate": {
                 "from": [
                     70000,
@@ -206,7 +216,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "268844820317863936": {
         "modification_history": {},
