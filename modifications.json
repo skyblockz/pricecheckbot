@@ -25,6 +25,16 @@
                     25000
                 ]
             },
+            "ember_chestplate": {
+                "from": [
+                    30000,
+                    30000
+                ],
+                "to": [
+                    75000,
+                    85000
+                ]
+            },
             "ember_leggings": {
                 "from": [
                     30000,
@@ -166,7 +176,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "268844820317863936": {
         "modification_history": {},
