@@ -302,6 +302,13 @@
                     2200000
                 ]
             },
+            "precursor_eye": {
+                "from": null,
+                "to": [
+                    32500000,
+                    30000000
+                ]
+            },
             "rod_of_the_sea": {
                 "from": [
                     10000000,
@@ -313,7 +320,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "333950092493193216": {
         "modification_history": {},
