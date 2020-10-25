@@ -15,6 +15,16 @@
                     180000
                 ]
             },
+            "ember_boots": {
+                "from": [
+                    15000,
+                    15000
+                ],
+                "to": [
+                    19000,
+                    25000
+                ]
+            },
             "ember_leggings": {
                 "from": [
                     30000,
@@ -156,7 +166,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "268844820317863936": {
         "modification_history": {},
