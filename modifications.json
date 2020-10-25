@@ -272,6 +272,16 @@
                     450000
                 ]
             },
+            "personal_compactor_4000": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    700000,
+                    700000
+                ]
+            },
             "rod_of_the_sea": {
                 "from": [
                     10000000,
@@ -283,7 +293,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "333950092493193216": {
         "modification_history": {},
