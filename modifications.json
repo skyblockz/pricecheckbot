@@ -445,8 +445,19 @@
         "total_mods": 0
     },
     "395028811399299082": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "beacon_block": {
+                "from": [
+                    145000,
+                    200000
+                ],
+                "to": [
+                    189000,
+                    200000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "395295454872469504": {
         "modification_history": {},
