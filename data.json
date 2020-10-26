@@ -8227,12 +8227,6 @@
     },
     {
         "ac": true,
-        "hi": 17000000,
-        "low": 16500000,
-        "name": "protection_7"
-    },
-    {
-        "ac": true,
         "hi": 4500000,
         "low": 4200000,
         "name": "bits_talisman"
@@ -8374,5 +8368,11 @@
         "hi": 13990000,
         "low": 13450000,
         "name": "power_vii"
+    },
+    {
+        "ac": true,
+        "hi": 17000000,
+        "low": 16500000,
+        "name": "protection_vii"
     }
 ]
