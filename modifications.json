@@ -486,9 +486,16 @@
                     6250000,
                     7000000
                 ]
+            },
+            "power_vii": {
+                "from": null,
+                "to": [
+                    13450000,
+                    13990000
+                ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395295454872469504": {
         "modification_history": {},
