@@ -711,8 +711,19 @@
         "total_mods": 0
     },
     "676937120069189632": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "adaptive_helmet": {
+                "from": [
+                    1200000,
+                    1200000
+                ],
+                "to": [
+                    1700000,
+                    1720000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "681279583906955331": {
         "modification_history": {},
