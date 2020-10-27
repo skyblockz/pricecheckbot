@@ -456,6 +456,16 @@
     },
     "395028811399299082": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    450000,
+                    800000
+                ],
+                "to": [
+                    650000,
+                    1500000
+                ]
+            },
             "ancient_claw": {
                 "from": [
                     242,
@@ -565,7 +575,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395295454872469504": {
         "modification_history": {},
