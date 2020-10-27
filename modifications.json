@@ -576,6 +576,16 @@
                     71400
                 ]
             },
+            "minion_storage_xpender": {
+                "from": [
+                    340000,
+                    510000
+                ],
+                "to": [
+                    320000,
+                    400000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": null,
                 "to": [
@@ -615,7 +625,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "395295454872469504": {
         "modification_history": {},
