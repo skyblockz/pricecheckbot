@@ -596,6 +596,16 @@
                     71400
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    50000,
+                    55000
+                ],
+                "to": [
+                    50000,
+                    70000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     75000,
@@ -655,7 +665,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "395295454872469504": {
         "modification_history": {},
