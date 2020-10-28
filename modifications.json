@@ -87,6 +87,16 @@
                     1000000
                 ]
             },
+            "sharpness_vii": {
+                "from": [
+                    30400000,
+                    30600000
+                ],
+                "to": [
+                    23750000,
+                    24500000
+                ]
+            },
             "toil_log": {
                 "from": null,
                 "to": [
@@ -105,7 +115,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "236625470387519488": {
         "modification_history": {
