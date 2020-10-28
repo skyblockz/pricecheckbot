@@ -339,6 +339,16 @@
                     13000000
                 ]
             },
+            "treasure_ring": {
+                "from": [
+                    5750000,
+                    7750000
+                ],
+                "to": [
+                    5250000,
+                    6000000
+                ]
+            },
             "unstable_dragon_chestplate": {
                 "from": [
                     180000,
@@ -350,7 +360,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "268844820317863936": {
         "modification_history": {},
