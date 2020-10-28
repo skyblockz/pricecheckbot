@@ -683,9 +683,19 @@
                     100000,
                     200000
                 ]
+            },
+            "snow_suit_leggings": {
+                "from": [
+                    1000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    150000
+                ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395295454872469504": {
         "modification_history": {},
