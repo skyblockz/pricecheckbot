@@ -42,6 +42,13 @@
                     50000
                 ]
             },
+            "toil_log": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     10800000,
@@ -53,7 +60,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "236625470387519488": {
         "modification_history": {
