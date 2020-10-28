@@ -649,6 +649,16 @@
                     200000
                 ]
             },
+            "bits_talisman": {
+                "from": [
+                    3200000,
+                    3400000
+                ],
+                "to": [
+                    3287000,
+                    3450000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     4550000,
@@ -828,7 +838,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "395295454872469504": {
         "modification_history": {},
