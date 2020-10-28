@@ -28,6 +28,13 @@
                     1000000
                 ]
             },
+            "dirt_bottle": {
+                "from": null,
+                "to": [
+                    68000,
+                    75000
+                ]
+            },
             "moil_log": {
                 "from": null,
                 "to": [
@@ -46,7 +53,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "236625470387519488": {
         "modification_history": {
