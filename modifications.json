@@ -42,6 +42,16 @@
                     75000
                 ]
             },
+            "midas_staff": {
+                "from": [
+                    120000000,
+                    120500000
+                ],
+                "to": [
+                    34000000,
+                    105000000
+                ]
+            },
             "moil_log": {
                 "from": null,
                 "to": [
@@ -74,7 +84,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "236625470387519488": {
         "modification_history": {
