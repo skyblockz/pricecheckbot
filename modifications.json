@@ -66,6 +66,13 @@
                     50000
                 ]
             },
+            "plasma_nucleus": {
+                "from": null,
+                "to": [
+                    78000000,
+                    80000000
+                ]
+            },
             "refined_amber": {
                 "from": null,
                 "to": [
@@ -91,7 +98,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "236625470387519488": {
         "modification_history": {
