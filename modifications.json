@@ -21,6 +21,13 @@
                     2400000
                 ]
             },
+            "compact_i": {
+                "from": null,
+                "to": [
+                    820000,
+                    1000000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     10800000,
@@ -32,7 +39,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "236625470387519488": {
         "modification_history": {
