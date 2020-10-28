@@ -42,6 +42,13 @@
                     50000
                 ]
             },
+            "refined_amber": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "toil_log": {
                 "from": null,
                 "to": [
@@ -60,7 +67,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "236625470387519488": {
         "modification_history": {
