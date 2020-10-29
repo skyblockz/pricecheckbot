@@ -1115,6 +1115,16 @@
                     1500000
                 ]
             },
+            "ancient_rose": {
+                "from": [
+                    850000,
+                    1000000
+                ],
+                "to": [
+                    920000,
+                    1000500
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     58000,
@@ -1233,7 +1243,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "681279583906955331": {
         "modification_history": {},
