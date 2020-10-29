@@ -1135,6 +1135,16 @@
                     65400
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    222000,
+                    233000
+                ],
+                "to": [
+                    138000,
+                    140000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     8400000,
@@ -1253,7 +1263,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "681279583906955331": {
         "modification_history": {},
