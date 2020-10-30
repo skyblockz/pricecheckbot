@@ -399,6 +399,16 @@
                     725000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    7000000,
+                    8500000
+                ],
+                "to": [
+                    5200000,
+                    6000000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     300000,
@@ -540,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "268844820317863936": {
         "modification_history": {},
