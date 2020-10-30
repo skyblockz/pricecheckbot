@@ -466,6 +466,16 @@
                     1200000
                 ]
             },
+            "carrot": {
+                "from": [
+                    2,
+                    4
+                ],
+                "to": [
+                    3,
+                    6
+                ]
+            },
             "daedalus_axe": {
                 "from": [
                     29000000,
@@ -601,7 +611,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "333950092493193216": {
         "modification_history": {},
