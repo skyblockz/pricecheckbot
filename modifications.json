@@ -179,6 +179,16 @@
                     50000
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    450000,
+                    470000
+                ],
+                "to": [
+                    300000,
+                    325000
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     835000,
@@ -400,7 +410,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "268844820317863936": {
         "modification_history": {},
