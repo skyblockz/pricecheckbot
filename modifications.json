@@ -1005,6 +1005,16 @@
                     37000000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    599000,
+                    600000
+                ],
+                "to": [
+                    550000,
+                    555000
+                ]
+            },
             "summoning_ring": {
                 "from": null,
                 "to": [
@@ -1053,7 +1063,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "586939737936363520": {
         "modification_history": {},
