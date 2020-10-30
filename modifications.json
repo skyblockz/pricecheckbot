@@ -305,6 +305,16 @@
                     1400000
                 ]
             },
+            "obsidian_chestplate": {
+                "from": [
+                    4500,
+                    5000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "old_dragon_helmet": {
                 "from": [
                     100000,
@@ -546,7 +556,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "268844820317863936": {
         "modification_history": {},
