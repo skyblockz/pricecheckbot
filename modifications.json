@@ -1021,6 +1021,16 @@
                     45000
                 ]
             },
+            "crooked_artifact": {
+                "from": [
+                    18000000,
+                    25000000
+                ],
+                "to": [
+                    10000000,
+                    10500000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     8300000,
@@ -1402,7 +1412,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "333950092493193216": {
         "modification_history": {},
