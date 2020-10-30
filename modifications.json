@@ -908,6 +908,16 @@
                     10100000
                 ]
             },
+            "bat_artifact": {
+                "from": [
+                    635000,
+                    700000
+                ],
+                "to": [
+                    700000,
+                    750000
+                ]
+            },
             "big_brain_v": {
                 "from": null,
                 "to": [
@@ -1130,7 +1140,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "586939737936363520": {
         "modification_history": {},
