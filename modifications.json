@@ -2173,6 +2173,16 @@
                     37000000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    75000,
+                    77000
+                ],
+                "to": [
+                    55000,
+                    65000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     123000000,
@@ -2301,7 +2311,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "586939737936363520": {
         "modification_history": {},
