@@ -791,6 +791,16 @@
                     5000000
                 ]
             },
+            "lvl_1_epic_blaze": {
+                "from": [
+                    8900000,
+                    9500000
+                ],
+                "to": [
+                    5900000,
+                    6000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     210000000,
@@ -822,7 +832,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "333950092493193216": {
         "modification_history": {},
