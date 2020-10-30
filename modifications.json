@@ -425,6 +425,16 @@
                     200000
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     1694000,
@@ -636,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "268844820317863936": {
         "modification_history": {},
