@@ -1035,6 +1035,16 @@
                     6000000
                 ]
             },
+            "infinite_quiver_x": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "lvl_100_epic_baby_yeti": {
                 "from": [
                     18500000,
@@ -1140,7 +1150,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "586939737936363520": {
         "modification_history": {},
