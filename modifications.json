@@ -339,6 +339,16 @@
                     140000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    850000,
+                    950000
+                ],
+                "to": [
+                    680000,
+                    725000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     300000,
@@ -440,7 +450,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "268844820317863936": {
         "modification_history": {},
