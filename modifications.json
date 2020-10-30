@@ -1432,6 +1432,16 @@
                     1000500
                 ]
             },
+            "bits_talisman": {
+                "from": [
+                    3287000,
+                    3450000
+                ],
+                "to": [
+                    3200000,
+                    3300000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     58000,
@@ -1590,7 +1600,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "681279583906955331": {
         "modification_history": {},
