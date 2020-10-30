@@ -1763,6 +1763,16 @@
                     120000000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    1300000,
+                    1300000
+                ],
+                "to": [
+                    1500000,
+                    1550000
+                ]
+            },
             "shadow_assasin_helmet": {
                 "from": [
                     1800000,
@@ -1871,7 +1881,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "586939737936363520": {
         "modification_history": {},
