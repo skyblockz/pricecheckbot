@@ -455,6 +455,16 @@
                     540000
                 ]
             },
+            "stereo_pants": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    90000,
+                    110000
+                ]
+            },
             "superior_dragon_boots": {
                 "from": [
                     9000000,
@@ -566,7 +576,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "268844820317863936": {
         "modification_history": {},
