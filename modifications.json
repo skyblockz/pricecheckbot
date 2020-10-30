@@ -379,6 +379,16 @@
                     1100000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    4100000,
+                    4500000
+                ],
+                "to": [
+                    2850000,
+                    3200000
+                ]
+            },
             "shaman_sword": {
                 "from": [
                     200000,
@@ -460,7 +470,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "268844820317863936": {
         "modification_history": {},
