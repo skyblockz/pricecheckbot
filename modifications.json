@@ -1011,6 +1011,16 @@
                     14500000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    40000,
+                    45000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     8300000,
@@ -1212,7 +1222,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "333950092493193216": {
         "modification_history": {},
