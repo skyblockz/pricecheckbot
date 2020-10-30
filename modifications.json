@@ -861,6 +861,16 @@
                     1500000
                 ]
             },
+            "lvl_1_legendary_snowman": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    5500000,
+                    6000000
+                ]
+            },
             "runaans_bow": {
                 "from": [
                     375000,
@@ -902,7 +912,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "333950092493193216": {
         "modification_history": {},
