@@ -1251,6 +1251,16 @@
                     1500000
                 ]
             },
+            "lvl_1_epic_zombie": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "lvl_1_legendary_black_cat": {
                 "from": [
                     17990999,
@@ -1362,7 +1372,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "333950092493193216": {
         "modification_history": {},
