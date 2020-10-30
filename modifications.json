@@ -1251,6 +1251,16 @@
                     1500000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    990000,
+                    1500000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "lvl_1_epic_zombie": {
                 "from": [
                     2000000,
@@ -1372,7 +1382,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "333950092493193216": {
         "modification_history": {},
