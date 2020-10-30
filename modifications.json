@@ -229,6 +229,16 @@
                     65000
                 ]
             },
+            "fel_sword": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    190000,
+                    220000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     35000,
@@ -390,7 +400,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "268844820317863936": {
         "modification_history": {},
