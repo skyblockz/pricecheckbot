@@ -179,6 +179,16 @@
                     50000
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    835000,
+                    850000
+                ],
+                "to": [
+                    900000,
+                    925000
+                ]
+            },
             "ender_boots": {
                 "from": [
                     60000,
@@ -380,7 +390,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "268844820317863936": {
         "modification_history": {},
