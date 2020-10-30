@@ -841,6 +841,16 @@
                     10800000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    650000,
+                    700000
+                ],
+                "to": [
+                    540000,
+                    600000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     9200000,
@@ -982,7 +992,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "333950092493193216": {
         "modification_history": {},
