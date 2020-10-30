@@ -1092,6 +1092,16 @@
                     120000000
                 ]
             },
+            "shadow_assasin_helmet": {
+                "from": [
+                    1800000,
+                    1900000
+                ],
+                "to": [
+                    1900000,
+                    2000000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     599000,
@@ -1160,7 +1170,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "586939737936363520": {
         "modification_history": {},
