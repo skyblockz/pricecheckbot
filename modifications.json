@@ -869,6 +869,16 @@
                     140000
                 ]
             },
+            "livid_dagger": {
+                "from": [
+                    9700000,
+                    9750000
+                ],
+                "to": [
+                    10700000,
+                    9750000
+                ]
+            },
             "minion_storage_xpender": {
                 "from": [
                     340000,
@@ -958,7 +968,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "395295454872469504": {
         "modification_history": {},
