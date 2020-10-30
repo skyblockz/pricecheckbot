@@ -1171,6 +1171,16 @@
                     3100000
                 ]
             },
+            "lvl_1_epic_megalodon": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "lvl_1_epic_phoenix": {
                 "from": [
                     10000000,
@@ -1292,7 +1302,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "333950092493193216": {
         "modification_history": {},
