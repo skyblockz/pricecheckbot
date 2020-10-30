@@ -486,6 +486,16 @@
                     20000000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    64600,
+                    65400
+                ],
+                "to": [
+                    62000,
+                    65000
+                ]
+            },
             "enchanted_bread": {
                 "from": [
                     50,
@@ -661,7 +671,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "333950092493193216": {
         "modification_history": {},
