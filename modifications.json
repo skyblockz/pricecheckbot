@@ -939,9 +939,12 @@
                 ]
             },
             "counter_strike_v": {
-                "from": null,
-                "to": [
+                "from": [
                     600000,
+                    6100000
+                ],
+                "to": [
+                    6000000,
                     6100000
                 ]
             },
@@ -1100,7 +1103,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "586939737936363520": {
         "modification_history": {},
