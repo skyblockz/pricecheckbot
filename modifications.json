@@ -349,6 +349,16 @@
                     1200000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1500000,
+                    1750000
+                ],
+                "to": [
+                    1750000,
+                    2000000
+                ]
+            },
             "lvl_100_legendary_monkey": {
                 "from": [
                     32000000,
@@ -500,7 +510,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "268844820317863936": {
         "modification_history": {},
