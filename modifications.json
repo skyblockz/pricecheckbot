@@ -493,6 +493,16 @@
                     4000000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    40,
+                    45
+                ],
+                "to": [
+                    40,
+                    50
+                ]
+            },
             "hunter_ring": {
                 "from": [
                     24000000,
@@ -581,7 +591,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "333950092493193216": {
         "modification_history": {},
