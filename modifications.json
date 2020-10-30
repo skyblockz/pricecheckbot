@@ -225,6 +225,16 @@
                     200000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    30000,
+                    100000
+                ],
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "heat_core": {
                 "from": [
                     460000,
@@ -556,7 +566,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "268844820317863936": {
         "modification_history": {},
