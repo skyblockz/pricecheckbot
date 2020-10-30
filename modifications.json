@@ -255,6 +255,16 @@
                     1200000
                 ]
             },
+            "krampus_helmet": {
+                "from": [
+                    470000,
+                    480000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     1500000,
@@ -506,7 +516,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "268844820317863936": {
         "modification_history": {},
