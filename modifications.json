@@ -1041,6 +1041,16 @@
                     45000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    430000,
+                    525000
+                ],
+                "to": [
+                    100000,
+                    1250000
+                ]
+            },
             "crooked_artifact": {
                 "from": [
                     18000000,
@@ -1572,7 +1582,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "333950092493193216": {
         "modification_history": {},
