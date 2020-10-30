@@ -486,6 +486,16 @@
                     50
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    6000,
+                    6700
+                ],
+                "to": [
+                    5300,
+                    6000
+                ]
+            },
             "florid_zombie_sword": {
                 "from": null,
                 "to": [
@@ -591,7 +601,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "333950092493193216": {
         "modification_history": {},
