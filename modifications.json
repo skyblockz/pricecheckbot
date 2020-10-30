@@ -1482,6 +1482,16 @@
                     450000
                 ]
             },
+            "greater_backpack": {
+                "from": [
+                    390000,
+                    420000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "livid_dagger": {
                 "from": [
                     9300000,
@@ -1600,7 +1610,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "681279583906955331": {
         "modification_history": {},
