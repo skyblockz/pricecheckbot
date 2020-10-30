@@ -25,6 +25,16 @@
                     180000
                 ]
             },
+            "crystallized_heart": {
+                "from": [
+                    600000,
+                    630000
+                ],
+                "to": [
+                    640000,
+                    680000
+                ]
+            },
             "edible_mace": {
                 "from": [
                     900000,
@@ -536,7 +546,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "268844820317863936": {
         "modification_history": {},
