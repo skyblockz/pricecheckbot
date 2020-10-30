@@ -991,6 +991,16 @@
     },
     "322989795251060737": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    650000,
+                    1500000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "auger_rod": {
                 "from": [
                     18000000,
@@ -1642,7 +1652,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "333950092493193216": {
         "modification_history": {},
