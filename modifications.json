@@ -2095,6 +2095,16 @@
                     1400000
                 ]
             },
+            "bat_person_leggings": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    2000000,
+                    2600000
+                ]
+            },
             "bat_person_talisman": {
                 "from": null,
                 "to": [
@@ -2113,7 +2123,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "531576685469106186": {
         "modification_history": {},
