@@ -2075,6 +2075,16 @@
     },
     "513140456813625387": {
         "modification_history": {
+            "bat_person_helmet": {
+                "from": [
+                    300000,
+                    325000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "bat_person_talisman": {
                 "from": null,
                 "to": [
@@ -2093,7 +2103,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "531576685469106186": {
         "modification_history": {},
