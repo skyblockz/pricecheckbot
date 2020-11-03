@@ -2366,6 +2366,16 @@
                     1000000
                 ]
             },
+            "superior_dragon_helmet": {
+                "from": [
+                    9000000,
+                    10000000
+                ],
+                "to": [
+                    7400000,
+                    7800000
+                ]
+            },
             "swarm_i": {
                 "from": null,
                 "to": [
@@ -2401,7 +2411,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "531576685469106186": {
         "modification_history": {},
