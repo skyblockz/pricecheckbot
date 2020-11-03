@@ -1937,6 +1937,16 @@
                     1388000
                 ]
             },
+            "critical_damage_enrichment": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    1250000,
+                    1400000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     4550000,
@@ -2166,7 +2176,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "395295454872469504": {
         "modification_history": {},
