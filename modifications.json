@@ -1927,6 +1927,16 @@
                     3000000
                 ]
             },
+            "critical_chance_enrichment": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    1100000,
+                    1388000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     4550000,
@@ -2146,7 +2156,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "395295454872469504": {
         "modification_history": {},
