@@ -2299,6 +2299,13 @@
                     4000000
                 ]
             },
+            "giant_tooth": {
+                "from": null,
+                "to": [
+                    500000,
+                    800000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     730000,
@@ -2394,7 +2401,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "531576685469106186": {
         "modification_history": {},
