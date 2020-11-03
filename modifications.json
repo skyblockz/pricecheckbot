@@ -2154,9 +2154,19 @@
                     2900000,
                     4000000
                 ]
+            },
+            "strength_enrichment": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    1200000,
+                    1300000
+                ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "395295454872469504": {
         "modification_history": {},
