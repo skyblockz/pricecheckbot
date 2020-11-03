@@ -2007,6 +2007,16 @@
                     70000
                 ]
             },
+            "intelligence_enrichment": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    950000,
+                    1200000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     75000,
@@ -2126,7 +2136,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395295454872469504": {
         "modification_history": {},
