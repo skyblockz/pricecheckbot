@@ -2460,6 +2460,16 @@
                     5000000
                 ]
             },
+            "protection_vii": {
+                "from": [
+                    16500000,
+                    17000000
+                ],
+                "to": [
+                    12000000,
+                    17000000
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     35000000,
@@ -2545,7 +2555,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "531576685469106186": {
         "modification_history": {},
