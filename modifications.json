@@ -1445,6 +1445,16 @@
                     800000
                 ]
             },
+            "lvl_1_epic_tarantula": {
+                "from": [
+                    2000000,
+                    4000000
+                ],
+                "to": [
+                    1500000,
+                    1800000
+                ]
+            },
             "lvl_1_epic_turtle": {
                 "from": [
                     1900000,
@@ -1856,7 +1866,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "333950092493193216": {
         "modification_history": {},
