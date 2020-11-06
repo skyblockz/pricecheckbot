@@ -1178,6 +1178,13 @@
                     7000000
                 ]
             },
+            "echolocator": {
+                "from": null,
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     8300000,
@@ -2143,7 +2150,7 @@
                 ]
             }
         },
-        "total_mods": 137
+        "total_mods": 138
     },
     "333950092493193216": {
         "modification_history": {},
