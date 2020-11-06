@@ -1069,6 +1069,16 @@
                     4000000
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    11,
+                    13
+                ]
+            },
             "hay_bale": {
                 "from": [
                     40,
@@ -1244,7 +1254,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "322989795251060737": {
         "modification_history": {
