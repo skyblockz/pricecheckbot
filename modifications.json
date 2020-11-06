@@ -718,6 +718,16 @@
                     3500000
                 ]
             },
+            "lvl_1_legendary_dolphin": {
+                "from": [
+                    20000000,
+                    28000000
+                ],
+                "to": [
+                    14000000,
+                    15000000
+                ]
+            },
             "tier_boost": {
                 "from": [
                     21650000,
@@ -739,7 +749,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "288787239964770304": {
         "modification_history": {},
