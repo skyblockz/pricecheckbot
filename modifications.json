@@ -1116,6 +1116,16 @@
                     19000000
                 ]
             },
+            "nether_quartz": {
+                "from": [
+                    17,
+                    20
+                ],
+                "to": [
+                    15,
+                    21
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     900000,
@@ -1194,7 +1204,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "322989795251060737": {
         "modification_history": {
