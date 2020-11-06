@@ -2259,6 +2259,13 @@
                     150000
                 ]
             },
+            "soul_whip": {
+                "from": null,
+                "to": [
+                    8000000,
+                    15000000
+                ]
+            },
             "speed_enrichment": {
                 "from": [
                     1000000,
@@ -2307,7 +2314,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "395295454872469504": {
         "modification_history": {},
