@@ -1208,6 +1208,16 @@
                     18500000
                 ]
             },
+            "intimidation_ring": {
+                "from": [
+                    20000,
+                    50000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "last_breath": {
                 "from": [
                     11000000,
@@ -2033,7 +2043,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "333950092493193216": {
         "modification_history": {},
