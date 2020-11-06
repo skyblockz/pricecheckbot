@@ -969,6 +969,16 @@
                     4000000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    8,
+                    8
+                ],
+                "to": [
+                    6,
+                    7
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     3100000,
@@ -1064,7 +1074,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "322989795251060737": {
         "modification_history": {
