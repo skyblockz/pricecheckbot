@@ -698,6 +698,16 @@
     },
     "288472857745555457": {
         "modification_history": {
+            "tier_boost": {
+                "from": [
+                    21650000,
+                    21800000
+                ],
+                "to": [
+                    29000000,
+                    30000000
+                ]
+            },
             "tier_boost_core": {
                 "from": [
                     23000000,
@@ -709,7 +719,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "288787239964770304": {
         "modification_history": {},
