@@ -785,6 +785,16 @@
                     470000000
                 ]
             },
+            "lvl_1_legendary_rock": {
+                "from": [
+                    10000000,
+                    17000000
+                ],
+                "to": [
+                    22000000,
+                    23000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -846,7 +856,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "288787239964770304": {
         "modification_history": {},
