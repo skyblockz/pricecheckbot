@@ -2004,6 +2004,13 @@
                     3000000
                 ]
             },
+            "candy_relic": {
+                "from": null,
+                "to": [
+                    8695000,
+                    9000000
+                ]
+            },
             "critical_chance_enrichment": {
                 "from": [
                     1200000,
@@ -2321,7 +2328,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "395295454872469504": {
         "modification_history": {},
