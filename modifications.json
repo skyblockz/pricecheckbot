@@ -1872,6 +1872,16 @@
                     2900000
                 ]
             },
+            "spooky_chestplate": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "spooky_helmet": {
                 "from": [
                     400000,
@@ -2093,7 +2103,7 @@
                 ]
             }
         },
-        "total_mods": 133
+        "total_mods": 134
     },
     "333950092493193216": {
         "modification_history": {},
