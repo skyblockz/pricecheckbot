@@ -1099,6 +1099,16 @@
                     13
                 ]
             },
+            "gravel": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "hay_bale": {
                 "from": [
                     40,
@@ -1274,7 +1284,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "322989795251060737": {
         "modification_history": {
