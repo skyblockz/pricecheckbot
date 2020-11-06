@@ -2932,6 +2932,13 @@
                     45000000
                 ]
             },
+            "mineral_helmet": {
+                "from": null,
+                "to": [
+                    1800000,
+                    1900000
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": null,
                 "to": [
@@ -3084,7 +3091,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "586939737936363520": {
         "modification_history": {},
