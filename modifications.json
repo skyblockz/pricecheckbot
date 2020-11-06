@@ -2224,10 +2224,13 @@
                 ]
             },
             "phantom_rod": {
-                "from": null,
-                "to": [
+                "from": [
                     7555000,
                     10500000
+                ],
+                "to": [
+                    6500000,
+                    10000000
                 ]
             },
             "power_vi": {
@@ -2387,7 +2390,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "395295454872469504": {
         "modification_history": {},
