@@ -2300,6 +2300,13 @@
                     4000000
                 ]
             },
+            "spooky_cupcake": {
+                "from": null,
+                "to": [
+                    250000,
+                    450000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1000000,
@@ -2328,7 +2335,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "395295454872469504": {
         "modification_history": {},
