@@ -1582,6 +1582,16 @@
                     12000000
                 ]
             },
+            "lvl_1_legendary_skeleton_horse": {
+                "from": [
+                    2000000,
+                    2400000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "lvl_1_legendary_snowman": {
                 "from": [
                     8000000,
@@ -2160,7 +2170,7 @@
                 ]
             }
         },
-        "total_mods": 140
+        "total_mods": 141
     },
     "333950092493193216": {
         "modification_history": {},
