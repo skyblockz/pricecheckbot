@@ -708,6 +708,13 @@
                     500000
                 ]
             },
+            "lvl_100_epic_dolphin": {
+                "from": null,
+                "to": [
+                    21000000,
+                    24000000
+                ]
+            },
             "lvl_100_legendary_dolphin": {
                 "from": [
                     37000000,
@@ -759,7 +766,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "288787239964770304": {
         "modification_history": {},
