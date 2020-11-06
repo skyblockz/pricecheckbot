@@ -862,6 +862,16 @@
                     23000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    800,
+                    825
+                ],
+                "to": [
+                    1100,
+                    1200
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     56000,
@@ -1024,7 +1034,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "322989795251060737": {
         "modification_history": {
