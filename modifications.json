@@ -835,6 +835,16 @@
                     600000
                 ]
             },
+            "mastiff_leggings": {
+                "from": [
+                    850000,
+                    1000000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     31500000,
@@ -896,7 +906,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "288787239964770304": {
         "modification_history": {},
