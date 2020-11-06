@@ -958,6 +958,16 @@
                     450000
                 ]
             },
+            "bat_firework": {
+                "from": [
+                    80000,
+                    10000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "bat_person_artifact": {
                 "from": [
                     14000000,
@@ -2123,7 +2133,7 @@
                 ]
             }
         },
-        "total_mods": 135
+        "total_mods": 136
     },
     "333950092493193216": {
         "modification_history": {},
