@@ -1964,6 +1964,13 @@
                     285
                 ]
             },
+            "bat_person_talisman": {
+                "from": null,
+                "to": [
+                    1169000,
+                    2000000
+                ]
+            },
             "beacon_block": {
                 "from": [
                     145000,
@@ -2446,7 +2453,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "395295454872469504": {
         "modification_history": {},
