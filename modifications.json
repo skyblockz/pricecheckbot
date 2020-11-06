@@ -1143,6 +1143,16 @@
                     30000000
                 ]
             },
+            "redstone": {
+                "from": [
+                    2,
+                    2
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "rod_of_the_sea": {
                 "from": [
                     10000000,
@@ -1164,7 +1174,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "322989795251060737": {
         "modification_history": {
