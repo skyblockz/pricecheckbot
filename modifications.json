@@ -802,6 +802,16 @@
                     6
                 ]
             },
+            "coal": {
+                "from": [
+                    9,
+                    11
+                ],
+                "to": [
+                    7,
+                    9
+                ]
+            },
             "cobblestone": {
                 "from": [
                     4,
@@ -1034,7 +1044,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "322989795251060737": {
         "modification_history": {
