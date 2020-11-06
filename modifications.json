@@ -2435,6 +2435,13 @@
                     20000000
                 ]
             },
+            "vampire_witch_mask": {
+                "from": null,
+                "to": [
+                    1250000,
+                    1900000
+                ]
+            },
             "vampirism_vi": {
                 "from": [
                     600000,
@@ -2495,7 +2502,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "395295454872469504": {
         "modification_history": {},
