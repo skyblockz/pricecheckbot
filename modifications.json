@@ -948,6 +948,16 @@
                     7200000
                 ]
             },
+            "bat_person_artifact": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    11000000,
+                    12000000
+                ]
+            },
             "bat_person_ring": {
                 "from": [
                     14000000,
@@ -1963,7 +1973,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "333950092493193216": {
         "modification_history": {},
