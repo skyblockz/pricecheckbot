@@ -1020,12 +1020,12 @@
             },
             "dwarf_turtle_shelmet": {
                 "from": [
-                    5000000,
-                    5000000
-                ],
-                "to": [
                     5750000,
                     6250000
+                ],
+                "to": [
+                    6400000,
+                    7000000
                 ]
             },
             "ender_artifact": {
@@ -1836,7 +1836,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "333950092493193216": {
         "modification_history": {},
