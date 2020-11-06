@@ -958,6 +958,16 @@
                     12000000
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    1200000,
+                    1400000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "bat_person_ring": {
                 "from": [
                     14000000,
@@ -1973,7 +1983,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "333950092493193216": {
         "modification_history": {},
