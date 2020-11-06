@@ -922,6 +922,16 @@
                     6000
                 ]
             },
+            "enchanted_iron": {
+                "from": [
+                    1100,
+                    1300
+                ],
+                "to": [
+                    980,
+                    100
+                ]
+            },
             "enchanted_potato": {
                 "from": [
                     370,
@@ -1074,7 +1084,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "322989795251060737": {
         "modification_history": {
