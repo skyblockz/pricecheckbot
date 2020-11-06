@@ -295,6 +295,16 @@
                     2000000
                 ]
             },
+            "lucky_hoof": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "lvl_100_legendary_monkey": {
                 "from": [
                     32000000,
@@ -686,7 +696,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "268844820317863936": {
         "modification_history": {},
