@@ -1465,6 +1465,16 @@
                     8500000
                 ]
             },
+            "recluse_fang": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "red_claw_artifact": {
                 "from": [
                     4900000,
@@ -1806,7 +1816,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "333950092493193216": {
         "modification_history": {},
