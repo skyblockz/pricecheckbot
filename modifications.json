@@ -2320,6 +2320,16 @@
                     53000000
                 ]
             },
+            "lvl_1_legendary_ocelot": {
+                "from": [
+                    1500000,
+                    2400000
+                ],
+                "to": [
+                    1000000,
+                    1700000
+                ]
+            },
             "lvl_1_legendary_turtle": {
                 "from": [
                     15000000,
@@ -2475,7 +2485,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "531576685469106186": {
         "modification_history": {},
