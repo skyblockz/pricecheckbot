@@ -805,6 +805,16 @@
                     2100000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     31500000,
@@ -866,7 +876,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "288787239964770304": {
         "modification_history": {},
