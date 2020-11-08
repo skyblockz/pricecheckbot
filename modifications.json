@@ -3256,6 +3256,16 @@
                     2200000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    2000000,
+                    2100000
+                ],
+                "to": [
+                    950000,
+                    1050000
+                ]
+            },
             "eternal_hoof": {
                 "from": [
                     14500000,
@@ -3585,7 +3595,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "586939737936363520": {
         "modification_history": {},
