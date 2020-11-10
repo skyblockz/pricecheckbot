@@ -335,6 +335,16 @@
                     24000000
                 ]
             },
+            "lvl_1_legendary_ghoul": {
+                "from": [
+                    2600000,
+                    2700000
+                ],
+                "to": [
+                    900000,
+                    1300000
+                ]
+            },
             "magma_bucket": {
                 "from": [
                     1100000,
@@ -726,7 +736,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "268844820317863936": {
         "modification_history": {},
