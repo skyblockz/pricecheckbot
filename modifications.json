@@ -335,6 +335,16 @@
                     24000000
                 ]
             },
+            "lvl_1_epic_ghoul": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "lvl_1_legendary_ghoul": {
                 "from": [
                     2600000,
@@ -736,7 +746,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "268844820317863936": {
         "modification_history": {},
