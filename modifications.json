@@ -2844,6 +2844,16 @@
                     1300000
                 ]
             },
+            "tier_boost_core": {
+                "from": [
+                    27000000,
+                    28000000
+                ],
+                "to": [
+                    23000000,
+                    26000000
+                ]
+            },
             "vampire_fang": {
                 "from": null,
                 "to": [
@@ -2918,7 +2928,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "395295454872469504": {
         "modification_history": {},
