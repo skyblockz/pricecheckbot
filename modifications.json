@@ -2763,6 +2763,16 @@
                     32000000
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    4150000,
+                    4750000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     35000,
@@ -2998,7 +3008,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "395295454872469504": {
         "modification_history": {},
