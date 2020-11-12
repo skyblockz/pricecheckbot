@@ -2705,10 +2705,13 @@
                 ]
             },
             "rock_candy": {
-                "from": null,
-                "to": [
+                "from": [
                     15000,
                     45000
+                ],
+                "to": [
+                    770,
+                    30000
                 ]
             },
             "seal_of_the_family": {
@@ -2896,7 +2899,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "395295454872469504": {
         "modification_history": {},
