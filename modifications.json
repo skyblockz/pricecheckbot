@@ -1335,6 +1335,16 @@
                     18500000
                 ]
             },
+            "ice_essence": {
+                "from": [
+                    25000,
+                    40000
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "intimidation_artifact": {
                 "from": [
                     650000,
@@ -2240,7 +2250,7 @@
                 ]
             }
         },
-        "total_mods": 141
+        "total_mods": 142
     },
     "333950092493193216": {
         "modification_history": {},
