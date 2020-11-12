@@ -2431,10 +2431,13 @@
                 ]
             },
             "candy_the_fish": {
-                "from": null,
-                "to": [
+                "from": [
                     325000,
                     380000
+                ],
+                "to": [
+                    85000,
+                    230000
                 ]
             },
             "critical_chance_enrichment": {
@@ -2905,7 +2908,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "395295454872469504": {
         "modification_history": {},
