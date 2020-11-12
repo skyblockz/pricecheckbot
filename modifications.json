@@ -2619,10 +2619,13 @@
                 ]
             },
             "lucky_hoof": {
-                "from": null,
+                "from": [
+                    420000,
+                    425000
+                ],
                 "to": [
-                    1800000,
-                    2000000
+                    99000,
+                    577000
                 ]
             },
             "magic_find_enrichment": {
@@ -2902,7 +2905,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "395295454872469504": {
         "modification_history": {},
