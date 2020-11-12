@@ -2591,6 +2591,16 @@
                     71400
                 ]
             },
+            "hunter_knife": {
+                "from": [
+                    250,
+                    500
+                ],
+                "to": [
+                    8000000,
+                    8000000
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     50000,
@@ -2948,7 +2958,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "395295454872469504": {
         "modification_history": {},
