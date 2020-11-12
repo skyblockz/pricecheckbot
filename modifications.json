@@ -2709,6 +2709,16 @@
                     13990000
                 ]
             },
+            "precursor_eye": {
+                "from": [
+                    38500000,
+                    40000000
+                ],
+                "to": [
+                    35000000,
+                    40800000
+                ]
+            },
             "pumpkin_guts": {
                 "from": null,
                 "to": [
@@ -2938,7 +2948,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "395295454872469504": {
         "modification_history": {},
