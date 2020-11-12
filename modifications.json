@@ -2348,6 +2348,16 @@
                     285
                 ]
             },
+            "bat_firework": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    58000,
+                    200000
+                ]
+            },
             "bat_person_artifact": {
                 "from": null,
                 "to": [
@@ -2908,7 +2918,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "395295454872469504": {
         "modification_history": {},
