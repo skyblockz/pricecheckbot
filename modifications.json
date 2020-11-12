@@ -2492,10 +2492,13 @@
                 ]
             },
             "eternal_hoof": {
-                "from": null,
+                "from": [
+                    7500000,
+                    7600000
+                ],
                 "to": [
-                    14500000,
-                    16950000
+                    5000000,
+                    6990000
                 ]
             },
             "fuming_potato_book": {
@@ -2899,7 +2902,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "395295454872469504": {
         "modification_history": {},
