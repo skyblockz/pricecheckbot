@@ -835,6 +835,16 @@
                     130000000
                 ]
             },
+            "lvl_1_legendary_black_cat": {
+                "from": [
+                    11000000,
+                    12000000
+                ],
+                "to": [
+                    7000000,
+                    8000000
+                ]
+            },
             "lvl_1_legendary_dolphin": {
                 "from": [
                     20000000,
@@ -976,7 +986,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "288787239964770304": {
         "modification_history": {},
