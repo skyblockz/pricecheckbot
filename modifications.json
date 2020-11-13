@@ -1813,6 +1813,16 @@
                     9000000
                 ]
             },
+            "lvl_1_legendary_tarantula": {
+                "from": [
+                    14500000,
+                    15500000
+                ],
+                "to": [
+                    5000000,
+                    5500000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -1924,7 +1934,7 @@
                 ]
             }
         },
-        "total_mods": 124
+        "total_mods": 125
     },
     "288787239964770304": {
         "modification_history": {},
