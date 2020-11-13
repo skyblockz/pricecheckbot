@@ -805,6 +805,16 @@
                     175000000
                 ]
             },
+            "lvl_100_epic_sheep": {
+                "from": [
+                    4700000,
+                    4800000
+                ],
+                "to": [
+                    3900000,
+                    4000000
+                ]
+            },
             "lvl_100_legendary_black_cat": {
                 "from": [
                     42000000,
@@ -1006,7 +1016,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "288787239964770304": {
         "modification_history": {},
