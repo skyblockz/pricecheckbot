@@ -971,12 +971,12 @@
             },
             "lvl_1_epic_dolphin": {
                 "from": [
-                    7800000,
-                    7900000
-                ],
-                "to": [
                     3400000,
                     3500000
+                ],
+                "to": [
+                    2500000,
+                    2700000
                 ]
             },
             "lvl_1_epic_ender_dragon": {
@@ -1210,7 +1210,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "288787239964770304": {
         "modification_history": {},
