@@ -982,6 +982,16 @@
                     2700000
                 ]
             },
+            "lvl_1_epic_elephant": {
+                "from": [
+                    4800000,
+                    5200000
+                ],
+                "to": [
+                    2000000,
+                    2100000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     133000000,
@@ -1213,7 +1223,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "288787239964770304": {
         "modification_history": {},
