@@ -882,6 +882,16 @@
                     40000000
                 ]
             },
+            "lvl_100_legendary_blue_whale": {
+                "from": [
+                    50000000,
+                    60000000
+                ],
+                "to": [
+                    50000000,
+                    55000000
+                ]
+            },
             "lvl_100_legendary_dolphin": {
                 "from": [
                     37000000,
@@ -1173,7 +1183,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "288787239964770304": {
         "modification_history": {},
