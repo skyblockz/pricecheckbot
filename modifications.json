@@ -1682,6 +1682,16 @@
                     2500000
                 ]
             },
+            "lvl_1_legendary_silverfish": {
+                "from": [
+                    900000,
+                    900000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_skeleton_horse": {
                 "from": [
                     650000,
@@ -1803,7 +1813,7 @@
                 ]
             }
         },
-        "total_mods": 111
+        "total_mods": 112
     },
     "288787239964770304": {
         "modification_history": {},
