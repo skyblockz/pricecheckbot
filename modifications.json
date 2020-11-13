@@ -885,6 +885,16 @@
                     23000000
                 ]
             },
+            "lvl_1_legendary_sheep": {
+                "from": [
+                    4800000,
+                    4900000
+                ],
+                "to": [
+                    2500000,
+                    2500000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -996,7 +1006,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "288787239964770304": {
         "modification_history": {},
