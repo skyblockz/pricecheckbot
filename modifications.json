@@ -1022,6 +1022,16 @@
                     18000000
                 ]
             },
+            "lvl_1_legendary_chicken": {
+                "from": [
+                    650000,
+                    1000000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_dolphin": {
                 "from": [
                     20000000,
@@ -1183,7 +1193,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "288787239964770304": {
         "modification_history": {},
