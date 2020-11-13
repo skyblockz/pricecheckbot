@@ -1234,6 +1234,16 @@
                     1600000
                 ]
             },
+            "lvl_1_epic_ocelot": {
+                "from": [
+                    550000,
+                    675000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     43000000,
@@ -1602,7 +1612,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "288787239964770304": {
         "modification_history": {},
