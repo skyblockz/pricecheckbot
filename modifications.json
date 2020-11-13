@@ -1122,6 +1122,16 @@
                     18000000
                 ]
             },
+            "lvl_1_legendary_endermite": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    1500000,
+                    1700000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1263,7 +1273,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "288787239964770304": {
         "modification_history": {},
