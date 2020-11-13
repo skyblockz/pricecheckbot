@@ -959,6 +959,16 @@
                     5000000
                 ]
             },
+            "lvl_1_epic_chicken": {
+                "from": [
+                    10000,
+                    50000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "lvl_1_epic_dolphin": {
                 "from": [
                     7800000,
@@ -1200,7 +1210,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "288787239964770304": {
         "modification_history": {},
