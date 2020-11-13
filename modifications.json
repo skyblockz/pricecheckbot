@@ -1417,6 +1417,16 @@
                     14000000
                 ]
             },
+            "lvl_1_legendary_magma_cube": {
+                "from": [
+                    1000000,
+                    2000000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1568,7 +1578,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "288787239964770304": {
         "modification_history": {},
