@@ -1903,6 +1903,16 @@
                     2500000
                 ]
             },
+            "lvl_1_legendary_wolf": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -2014,7 +2024,7 @@
                 ]
             }
         },
-        "total_mods": 133
+        "total_mods": 134
     },
     "288787239964770304": {
         "modification_history": {},
