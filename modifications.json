@@ -1759,6 +1759,16 @@
                     600000
                 ]
             },
+            "lvl_1_legendary_spider": {
+                "from": [
+                    1700000,
+                    2400000
+                ],
+                "to": [
+                    2500000,
+                    3000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -1870,7 +1880,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "288787239964770304": {
         "modification_history": {},
