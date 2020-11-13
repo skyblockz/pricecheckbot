@@ -1301,6 +1301,16 @@
                     6500000
                 ]
             },
+            "lvl_1_epic_pig": {
+                "from": [
+                    500,
+                    10000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     43000000,
@@ -1699,7 +1709,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "288787239964770304": {
         "modification_history": {},
