@@ -932,6 +932,16 @@
                     4000000
                 ]
             },
+            "lvl_1_epic_blue_whale": {
+                "from": [
+                    500000,
+                    1500000
+                ],
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "lvl_1_epic_dolphin": {
                 "from": [
                     7800000,
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "288787239964770304": {
         "modification_history": {},
