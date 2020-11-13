@@ -1167,6 +1167,16 @@
                     500000
                 ]
             },
+            "lvl_1_epic_jellyfish": {
+                "from": [
+                    2950000,
+                    3100000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "lvl_1_epic_monkey": {
                 "from": [
                     1000000,
@@ -1508,7 +1518,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "288787239964770304": {
         "modification_history": {},
