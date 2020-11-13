@@ -1206,6 +1206,16 @@
                     800000
                 ]
             },
+            "lvl_1_legendary_giraffe": {
+                "from": [
+                    14000000,
+                    16000000
+                ],
+                "to": [
+                    8000000,
+                    9000000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1347,7 +1357,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "288787239964770304": {
         "modification_history": {},
