@@ -1786,6 +1786,16 @@
                     3000000
                 ]
             },
+            "lvl_1_legendary_squid": {
+                "from": [
+                    5500000,
+                    6750000
+                ],
+                "to": [
+                    8000000,
+                    9000000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -1897,7 +1907,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "288787239964770304": {
         "modification_history": {},
