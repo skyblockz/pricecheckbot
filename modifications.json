@@ -788,6 +788,16 @@
                     500000
                 ]
             },
+            "lvl_100_epic_bat": {
+                "from": [
+                    15200000,
+                    15500000
+                ],
+                "to": [
+                    7000000,
+                    8000000
+                ]
+            },
             "lvl_100_epic_dolphin": {
                 "from": null,
                 "to": [
@@ -1066,7 +1076,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "288787239964770304": {
         "modification_history": {},
