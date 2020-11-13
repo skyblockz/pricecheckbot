@@ -1152,6 +1152,16 @@
                     1700000
                 ]
             },
+            "lvl_1_legendary_flying_fish": {
+                "from": [
+                    1800000,
+                    2300000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1293,7 +1303,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "288787239964770304": {
         "modification_history": {},
