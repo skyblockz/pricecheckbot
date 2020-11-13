@@ -956,6 +956,16 @@
                     39000000
                 ]
             },
+            "lvl_100_legendary_golem": {
+                "from": [
+                    40000000,
+                    60000000
+                ],
+                "to": [
+                    40000000,
+                    50000000
+                ]
+            },
             "lvl_100_legendary_sheep": {
                 "from": [
                     8500000,
@@ -1374,7 +1384,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "288787239964770304": {
         "modification_history": {},
