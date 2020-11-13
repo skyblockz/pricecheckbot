@@ -1496,6 +1496,16 @@
                     3000000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     43000000,
@@ -1974,7 +1984,7 @@
                 ]
             }
         },
-        "total_mods": 129
+        "total_mods": 130
     },
     "288787239964770304": {
         "modification_history": {},
