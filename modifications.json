@@ -872,6 +872,16 @@
                     48000000
                 ]
             },
+            "lvl_100_legendary_blaze": {
+                "from": [
+                    58000000,
+                    60000000
+                ],
+                "to": [
+                    38000000,
+                    40000000
+                ]
+            },
             "lvl_100_legendary_dolphin": {
                 "from": [
                     37000000,
@@ -1153,7 +1163,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "288787239964770304": {
         "modification_history": {},
