@@ -922,6 +922,16 @@
                     31000000
                 ]
             },
+            "lvl_100_legendary_endermite": {
+                "from": [
+                    7000000,
+                    7500000
+                ],
+                "to": [
+                    10000000,
+                    10500000
+                ]
+            },
             "lvl_100_legendary_sheep": {
                 "from": [
                     8500000,
@@ -1273,7 +1283,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "288787239964770304": {
         "modification_history": {},
