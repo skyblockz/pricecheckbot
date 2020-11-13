@@ -1343,6 +1343,16 @@
                     2500000
                 ]
             },
+            "lvl_1_legendary_skeleton_horse": {
+                "from": [
+                    650000,
+                    800000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -1454,7 +1464,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "288787239964770304": {
         "modification_history": {},
