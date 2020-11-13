@@ -1873,6 +1873,16 @@
                     5500000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    3000000,
+                    3400000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2200000,
@@ -1984,7 +1994,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "288787239964770304": {
         "modification_history": {},
