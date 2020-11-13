@@ -1429,6 +1429,16 @@
                     250000
                 ]
             },
+            "lvl_1_epic_squid": {
+                "from": [
+                    2400000,
+                    3500000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     43000000,
@@ -1887,7 +1897,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "288787239964770304": {
         "modification_history": {},
