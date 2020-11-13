@@ -1182,6 +1182,16 @@
                     1100000
                 ]
             },
+            "lvl_1_legendary_ghoul": {
+                "from": [
+                    900000,
+                    1300000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1323,7 +1333,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "288787239964770304": {
         "modification_history": {},
