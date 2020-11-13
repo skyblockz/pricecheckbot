@@ -932,6 +932,16 @@
                     10500000
                 ]
             },
+            "lvl_100_legendary_flying_fish": {
+                "from": [
+                    7500000,
+                    8000000
+                ],
+                "to": [
+                    15000000,
+                    20000000
+                ]
+            },
             "lvl_100_legendary_sheep": {
                 "from": [
                     8500000,
@@ -1303,7 +1313,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "288787239964770304": {
         "modification_history": {},
