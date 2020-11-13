@@ -1108,6 +1108,16 @@
                     7400000
                 ]
             },
+            "lvl_100_legendary_silverfish": {
+                "from": [
+                    9000000,
+                    10000000
+                ],
+                "to": [
+                    6400000,
+                    7000000
+                ]
+            },
             "lvl_1_epic_baby_yeti": {
                 "from": [
                     43000000,
@@ -1813,7 +1823,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "288787239964770304": {
         "modification_history": {},
