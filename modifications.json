@@ -1615,6 +1615,16 @@
                     2400000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "lvl_1_legendary_rock": {
                 "from": [
                     10000000,
@@ -1756,7 +1766,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "288787239964770304": {
         "modification_history": {},
