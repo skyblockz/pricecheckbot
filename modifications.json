@@ -1113,6 +1113,16 @@
                     9500000
                 ]
             },
+            "lvl_1_epic_guardian": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "lvl_1_epic_monkey": {
                 "from": [
                     1000000,
@@ -1414,7 +1424,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "288787239964770304": {
         "modification_history": {},
