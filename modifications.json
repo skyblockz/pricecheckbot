@@ -1254,6 +1254,16 @@
                     500000
                 ]
             },
+            "lvl_1_epic_parrot": {
+                "from": [
+                    1350000,
+                    1450000
+                ],
+                "to": [
+                    1500000,
+                    1700000
+                ]
+            },
             "lvl_1_legendary_baby_yeti": {
                 "from": [
                     43000000,
@@ -1632,7 +1642,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "288787239964770304": {
         "modification_history": {},
