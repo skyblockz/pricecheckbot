@@ -1588,6 +1588,16 @@
                     800000
                 ]
             },
+            "lvl_1_legendary_pigman": {
+                "from": [
+                    5000000,
+                    7500000
+                ],
+                "to": [
+                    2100000,
+                    2400000
+                ]
+            },
             "lvl_1_legendary_rock": {
                 "from": [
                     10000000,
@@ -1729,7 +1739,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "288787239964770304": {
         "modification_history": {},
