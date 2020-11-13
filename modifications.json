@@ -1092,6 +1092,16 @@
                     470000000
                 ]
             },
+            "lvl_1_legendary_enderman": {
+                "from": [
+                    28000000,
+                    33000000
+                ],
+                "to": [
+                    17000000,
+                    18000000
+                ]
+            },
             "lvl_1_legendary_monkey": {
                 "from": [
                     21000000,
@@ -1233,7 +1243,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "288787239964770304": {
         "modification_history": {},
