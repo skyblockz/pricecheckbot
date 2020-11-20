@@ -4095,6 +4095,16 @@
                     1600000
                 ]
             },
+            "lvl_1_legendary_jellyfish": {
+                "from": [
+                    5500000,
+                    6500000
+                ],
+                "to": [
+                    7400000,
+                    7600000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     340000,
@@ -4116,7 +4126,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "642620000083116062": {
         "modification_history": {},
