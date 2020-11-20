@@ -4327,6 +4327,13 @@
                     1300000
                 ]
             },
+            "white_sheep_skin": {
+                "from": null,
+                "to": [
+                    7000000,
+                    8000000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     15500000,
@@ -4338,7 +4345,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "642620000083116062": {
         "modification_history": {},
