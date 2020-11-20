@@ -4463,6 +4463,16 @@
                     85000000
                 ]
             },
+            "legendary_griffin_upgrade_stone": {
+                "from": [
+                    55000000,
+                    60000000
+                ],
+                "to": [
+                    44500000,
+                    46000000
+                ]
+            },
             "legendary_zombie_commander_whip": {
                 "from": null,
                 "to": [
@@ -4737,7 +4747,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "642620000083116062": {
         "modification_history": {},
