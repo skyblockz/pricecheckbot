@@ -4700,6 +4700,16 @@
                     5000000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    849000,
+                    860000
+                ]
+            },
             "intimidation_ring": {
                 "from": [
                     125000,
@@ -4951,6 +4961,6 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     }
 }
