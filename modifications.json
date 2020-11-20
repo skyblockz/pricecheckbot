@@ -4418,6 +4418,16 @@
                     10000000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    290000,
+                    330000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "infinidirt_wand": {
                 "from": null,
                 "to": [
@@ -4713,7 +4723,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "642620000083116062": {
         "modification_history": {},
