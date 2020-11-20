@@ -4870,6 +4870,16 @@
                     500000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    155000,
+                    200000
+                ],
+                "to": [
+                    240000,
+                    250000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4500000,
@@ -5121,6 +5131,6 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     }
 }
