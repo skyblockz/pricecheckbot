@@ -679,6 +679,16 @@
                     3000000
                 ]
             },
+            "silky_lichen": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    14000,
+                    16000
+                ]
+            },
             "skeletons_helmet": {
                 "from": [
                     250000,
@@ -980,7 +990,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "268844820317863936": {
         "modification_history": {},
