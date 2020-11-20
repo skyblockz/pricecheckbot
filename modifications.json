@@ -4593,6 +4593,16 @@
     },
     "748574639776727134": {
         "modification_history": {
+            "bait_ring": {
+                "from": [
+                    7000000,
+                    7200000
+                ],
+                "to": [
+                    8500000,
+                    9210000
+                ]
+            },
             "bat_person_artifact": {
                 "from": [
                     11000000,
@@ -4834,6 +4844,6 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     }
 }
