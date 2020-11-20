@@ -139,6 +139,16 @@
                     925000
                 ]
             },
+            "enchanted_packed_ice": {
+                "from": [
+                    125000,
+                    135000
+                ],
+                "to": [
+                    70000,
+                    75000
+                ]
+            },
             "end_stone_sword": {
                 "from": [
                     120000,
@@ -930,7 +940,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "268844820317863936": {
         "modification_history": {},
