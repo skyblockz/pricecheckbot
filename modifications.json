@@ -4085,6 +4085,16 @@
                     21500000
                 ]
             },
+            "diamond_essence": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10300000,
@@ -4136,7 +4146,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "642620000083116062": {
         "modification_history": {},
