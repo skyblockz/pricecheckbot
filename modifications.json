@@ -449,6 +449,16 @@
                     1400000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    525000,
+                    600000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "obsidian_chestplate": {
                 "from": [
                     4500,
@@ -1010,7 +1020,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "268844820317863936": {
         "modification_history": {},
