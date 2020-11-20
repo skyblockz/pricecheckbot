@@ -4403,6 +4403,16 @@
                     10000000
                 ]
             },
+            "spooky_cupcake": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    315000,
+                    350000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     340000,
@@ -4560,7 +4570,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "642620000083116062": {
         "modification_history": {},
