@@ -4350,6 +4350,16 @@
                     600000
                 ]
             },
+            "base_griffin_upgrade_stone": {
+                "from": [
+                    650000,
+                    700000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "black_sheep_skin": {
                 "from": null,
                 "to": [
@@ -4747,7 +4757,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "642620000083116062": {
         "modification_history": {},
