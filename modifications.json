@@ -479,6 +479,16 @@
                     200000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    200000,
+                    220000
+                ],
+                "to": [
+                    150000,
+                    170000
+                ]
+            },
             "quartz_minion_xi": {
                 "from": [
                     4000000,
@@ -890,7 +900,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "268844820317863936": {
         "modification_history": {},
