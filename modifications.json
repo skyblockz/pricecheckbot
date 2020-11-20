@@ -4800,6 +4800,16 @@
                     52000000
                 ]
             },
+            "personal_compactor_6000": {
+                "from": [
+                    2200000,
+                    2200000
+                ],
+                "to": [
+                    2888888,
+                    2989000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4500000,
@@ -5031,6 +5041,6 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     }
 }
