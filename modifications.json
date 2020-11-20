@@ -39,6 +39,16 @@
                     3300000
                 ]
             },
+            "cheap_tuxedo": {
+                "from": [
+                    625000,
+                    1400000
+                ],
+                "to": [
+                    200000,
+                    400000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     600000,
@@ -1040,7 +1050,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "268844820317863936": {
         "modification_history": {},
