@@ -4605,6 +4605,16 @@
                     90000000
                 ]
             },
+            "lucky_hoof": {
+                "from": [
+                    99000,
+                    577000
+                ],
+                "to": [
+                    575000,
+                    630000
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": [
                     36000000,
@@ -4686,6 +4696,6 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     }
 }
