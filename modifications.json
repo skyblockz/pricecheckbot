@@ -5574,6 +5574,16 @@
                     35000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    330000,
+                    390000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     3000000,
@@ -5675,6 +5685,6 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     }
 }
