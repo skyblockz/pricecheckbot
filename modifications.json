@@ -5414,6 +5414,16 @@
                     2700000
                 ]
             },
+            "shark_scale_chestplate": {
+                "from": [
+                    5900000,
+                    8000000
+                ],
+                "to": [
+                    4700000,
+                    5000000
+                ]
+            },
             "shark_scale_leggings": {
                 "from": [
                     5000000,
@@ -5655,6 +5665,6 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     }
 }
