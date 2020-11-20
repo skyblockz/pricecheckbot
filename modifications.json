@@ -4564,6 +4564,16 @@
                     4499999
                 ]
             },
+            "bat_person_talisman": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    850000,
+                    889000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     87000000,
@@ -4625,6 +4635,6 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     }
 }
