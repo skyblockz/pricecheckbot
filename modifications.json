@@ -4615,6 +4615,16 @@
                     630000
                 ]
             },
+            "miner_helmet": {
+                "from": [
+                    700,
+                    700
+                ],
+                "to": [
+                    2000,
+                    2050
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": [
                     36000000,
@@ -4696,6 +4706,6 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     }
 }
