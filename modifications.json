@@ -5074,6 +5074,16 @@
                     52000000
                 ]
             },
+            "obsidian_chestplate": {
+                "from": [
+                    10000,
+                    12000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     680000,
@@ -5545,6 +5555,6 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     }
 }
