@@ -5092,12 +5092,12 @@
             },
             "tactician_sword": {
                 "from": [
-                    35000,
-                    35000
-                ],
-                "to": [
                     60000,
                     60000
+                ],
+                "to": [
+                    35000,
+                    35000
                 ]
             },
             "tarantula_talisman": {
@@ -5191,6 +5191,6 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     }
 }
