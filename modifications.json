@@ -4670,6 +4670,16 @@
                     1400000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    15000,
+                    25000
+                ],
+                "to": [
+                    96000,
+                    100000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     87000000,
@@ -4961,6 +4971,6 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     }
 }
