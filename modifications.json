@@ -119,6 +119,16 @@
                     370000
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2400,
+                    2700
+                ],
+                "to": [
+                    1450,
+                    1550
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     835000,
@@ -920,7 +930,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "268844820317863936": {
         "modification_history": {},
