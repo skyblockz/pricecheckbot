@@ -4549,6 +4549,16 @@
                     4400000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    55000,
+                    65000
+                ],
+                "to": [
+                    75000,
+                    90000
+                ]
+            },
             "overload_1": {
                 "from": null,
                 "to": [
@@ -4775,7 +4785,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "642620000083116062": {
         "modification_history": {},
