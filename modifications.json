@@ -4964,10 +4964,13 @@
                 ]
             },
             "overload_1": {
-                "from": null,
-                "to": [
+                "from": [
                     800000,
                     900000
+                ],
+                "to": [
+                    780000,
+                    800000
                 ]
             },
             "pet_rock_century_cake": {
@@ -5659,7 +5662,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "642620000083116062": {
         "modification_history": {},
