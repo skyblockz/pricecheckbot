@@ -4577,10 +4577,13 @@
                 ]
             },
             "legendary_griffin_pet_lvl_1": {
-                "from": null,
-                "to": [
+                "from": [
                     52000000,
                     53000000
+                ],
+                "to": [
+                    60000000,
+                    62000000
                 ]
             },
             "legendary_griffin_pet_lvl_100": {
@@ -4926,7 +4929,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "642620000083116062": {
         "modification_history": {},
