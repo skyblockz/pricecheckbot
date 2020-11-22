@@ -4436,6 +4436,16 @@
                     5000
                 ]
             },
+            "dragon_essence": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10300000,
@@ -4819,7 +4829,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "642620000083116062": {
         "modification_history": {},
