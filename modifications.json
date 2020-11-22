@@ -4792,6 +4792,13 @@
                     8400000
                 ]
             },
+            "tier_1_euclids_wheat_hoe": {
+                "from": null,
+                "to": [
+                    1350000,
+                    1600000
+                ]
+            },
             "turbo-cacti_1": {
                 "from": null,
                 "to": [
@@ -4929,7 +4936,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "642620000083116062": {
         "modification_history": {},
