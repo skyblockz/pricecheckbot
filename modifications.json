@@ -4798,6 +4798,16 @@
                     15000000
                 ]
             },
+            "silk_edge_sword": {
+                "from": [
+                    1750000,
+                    2400000
+                ],
+                "to": [
+                    1500000,
+                    1750000
+                ]
+            },
             "silver_medal": {
                 "from": null,
                 "to": [
@@ -5114,7 +5124,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "642620000083116062": {
         "modification_history": {},
