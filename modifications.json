@@ -4576,6 +4576,16 @@
                     750000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1750000,
+                    2000000
+                ],
+                "to": [
+                    1600000,
+                    1750000
+                ]
+            },
             "legendary_griffin_pet_lvl_1": {
                 "from": [
                     52000000,
@@ -5104,7 +5114,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "642620000083116062": {
         "modification_history": {},
