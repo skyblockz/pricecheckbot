@@ -5032,6 +5032,16 @@
                     40000
                 ]
             },
+            "rejuvenate_v": {
+                "from": [
+                    580000,
+                    600000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     300000,
@@ -5629,7 +5639,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "642620000083116062": {
         "modification_history": {},
