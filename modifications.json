@@ -4713,6 +4713,16 @@
                     350000
                 ]
             },
+            "infinite_quiver_vi": {
+                "from": [
+                    13000,
+                    19000
+                ],
+                "to": [
+                    500,
+                    3000
+                ]
+            },
             "jacobs_ticket": {
                 "from": [
                     16000,
@@ -5542,7 +5552,7 @@
                 ]
             }
         },
-        "total_mods": 140
+        "total_mods": 141
     },
     "642620000083116062": {
         "modification_history": {},
