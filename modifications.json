@@ -4702,6 +4702,16 @@
                     90000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    950000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "overload_1": {
                 "from": null,
                 "to": [
@@ -5214,7 +5224,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "642620000083116062": {
         "modification_history": {},
