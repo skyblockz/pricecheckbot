@@ -4806,6 +4806,13 @@
                     1600000
                 ]
             },
+            "tier_1_common_turing_sugar_cane_hoe": {
+                "from": null,
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "tier_1_euclids_wheat_hoe": {
                 "from": null,
                 "to": [
@@ -4992,7 +4999,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "642620000083116062": {
         "modification_history": {},
