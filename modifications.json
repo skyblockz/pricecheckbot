@@ -4827,6 +4827,13 @@
                     2600000
                 ]
             },
+            "tier_2_uncommon_pythagorean_potato_hoe": {
+                "from": null,
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "tier_3_euclids_wheat_hoe": {
                 "from": null,
                 "to": [
@@ -4978,7 +4985,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "642620000083116062": {
         "modification_history": {},
