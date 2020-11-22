@@ -4672,6 +4672,16 @@
                     4400000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    10000000,
+                    11000000
+                ],
+                "to": [
+                    9400000,
+                    10000000
+                ]
+            },
             "necromancers_brooch": {
                 "from": [
                     55000,
@@ -5094,7 +5104,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "642620000083116062": {
         "modification_history": {},
