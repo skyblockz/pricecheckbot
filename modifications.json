@@ -4436,6 +4436,13 @@
                     600000
                 ]
             },
+            "coco_chopper": {
+                "from": null,
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "crab_colored_century_cake": {
                 "from": null,
                 "to": [
@@ -4894,7 +4901,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "642620000083116062": {
         "modification_history": {},
