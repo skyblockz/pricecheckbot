@@ -4661,6 +4661,16 @@
                     7600000
                 ]
             },
+            "machine_gun_bow": {
+                "from": [
+                    7500,
+                    8000
+                ],
+                "to": [
+                    5500,
+                    7000
+                ]
+            },
             "mathematical_hoe_blueprint": {
                 "from": null,
                 "to": [
@@ -5264,7 +5274,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "642620000083116062": {
         "modification_history": {},
