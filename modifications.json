@@ -4388,6 +4388,16 @@
                     1000000
                 ]
             },
+            "basket_of_seeds": {
+                "from": [
+                    1250000,
+                    1500000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
             "black_sheep_skin": {
                 "from": null,
                 "to": [
@@ -4884,7 +4894,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "642620000083116062": {
         "modification_history": {},
