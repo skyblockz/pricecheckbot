@@ -4571,6 +4571,16 @@
                     19500000
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    1100,
+                    1200
+                ],
+                "to": [
+                    1060,
+                    1100
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     10300000,
@@ -5682,7 +5692,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "642620000083116062": {
         "modification_history": {},
