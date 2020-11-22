@@ -4508,10 +4508,13 @@
                 ]
             },
             "infinidirt_wand": {
-                "from": null,
-                "to": [
+                "from": [
                     15000,
                     20000
+                ],
+                "to": [
+                    10000,
+                    14000
                 ]
             },
             "infinite_quiver_10": {
@@ -4860,7 +4863,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "642620000083116062": {
         "modification_history": {},
