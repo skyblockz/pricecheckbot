@@ -4457,6 +4457,16 @@
                     1500000
                 ]
             },
+            "combo_i": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    30000,
+                    45000
+                ]
+            },
             "crab_colored_century_cake": {
                 "from": null,
                 "to": [
@@ -5471,7 +5481,7 @@
                 ]
             }
         },
-        "total_mods": 132
+        "total_mods": 133
     },
     "642620000083116062": {
         "modification_history": {},
