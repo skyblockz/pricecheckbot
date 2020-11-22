@@ -4467,6 +4467,16 @@
                     600000
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    6,
+                    7
+                ]
+            },
             "coco_chopper": {
                 "from": null,
                 "to": [
@@ -5672,7 +5682,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "642620000083116062": {
         "modification_history": {},
