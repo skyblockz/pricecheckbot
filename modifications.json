@@ -4882,6 +4882,16 @@
                     8400000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    330000,
+                    390000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "tier_1_common_gauss_carrot_hoe": {
                 "from": null,
                 "to": [
@@ -5124,7 +5134,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "642620000083116062": {
         "modification_history": {},
