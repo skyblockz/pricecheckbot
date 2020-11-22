@@ -5166,6 +5166,16 @@
                     700000
                 ]
             },
+            "werewolf_leggings": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    700000,
+                    1000000
+                ]
+            },
             "white_sheep_skin": {
                 "from": null,
                 "to": [
@@ -5184,7 +5194,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "642620000083116062": {
         "modification_history": {},
