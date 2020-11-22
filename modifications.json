@@ -4798,6 +4798,16 @@
                     6500000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "scorpion_bow": {
                 "from": [
                     3899999,
@@ -5311,7 +5321,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "642620000083116062": {
         "modification_history": {},
