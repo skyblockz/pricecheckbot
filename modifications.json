@@ -4385,6 +4385,16 @@
                     650000
                 ]
             },
+            "bank_i": {
+                "from": [
+                    8000,
+                    9500
+                ],
+                "to": [
+                    1500,
+                    4000
+                ]
+            },
             "barry_century_cake": {
                 "from": null,
                 "to": [
@@ -5525,7 +5535,7 @@
                 ]
             }
         },
-        "total_mods": 138
+        "total_mods": 139
     },
     "642620000083116062": {
         "modification_history": {},
