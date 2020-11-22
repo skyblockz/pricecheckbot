@@ -3897,8 +3897,19 @@
         "total_mods": 32
     },
     "523019950072266764": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "gold_essence": {
+                "from": [
+                    12000,
+                    20000
+                ],
+                "to": [
+                    5000,
+                    6000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "531576685469106186": {
         "modification_history": {},
