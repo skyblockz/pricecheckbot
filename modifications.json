@@ -4916,6 +4916,16 @@
                     90000
                 ]
             },
+            "no_pain_no_gain_1": {
+                "from": [
+                    24000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    13000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     950000,
@@ -5582,7 +5592,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "642620000083116062": {
         "modification_history": {},
