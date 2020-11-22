@@ -2076,14 +2076,6 @@
         "src": "leg_griffin"
     },
     {
-        "dest": "tier_3_euclids_wheat_hoe",
-        "src": "tier_3_wheat_hoe"
-    },
-    {
-        "dest": "tier_3_euclids_wheat_hoe",
-        "src": "t3_wheat_hoe"
-    },
-    {
         "dest": "tier_1_common_euclids_wheat_hoe",
         "src": "tier_1_wheat_hoe"
     },
@@ -2098,5 +2090,13 @@
     {
         "dest": "tier_2_uncommon_euclids_wheat_hoe",
         "src": "tier_2_wheat_hoe"
+    },
+    {
+        "dest": "tier_3_rare_euclids_wheat_hoe",
+        "src": "tier_3_wheat_hoe"
+    },
+    {
+        "dest": "tier_3_rare_euclids_wheat_hoe",
+        "src": "t3_wheat_hoe"
     }
 ]
