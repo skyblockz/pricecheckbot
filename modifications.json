@@ -4930,6 +4930,13 @@
                     1500000
                 ]
             },
+            "mineral_boots": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "mineral_chestpkate": {
                 "from": null,
                 "to": [
@@ -5717,7 +5724,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "642620000083116062": {
         "modification_history": {},
