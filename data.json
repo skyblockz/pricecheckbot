@@ -9055,12 +9055,6 @@
     },
     {
         "ac": true,
-        "hi": 400000,
-        "low": 375000,
-        "name": "hoe_of_greater_tiling"
-    },
-    {
-        "ac": true,
         "hi": 1500000,
         "low": 1300000,
         "name": "coco_chopper"
@@ -9220,5 +9214,11 @@
         "hi": 1200000,
         "low": 1000000,
         "name": "greater_hoe_of_tilling"
+    },
+    {
+        "ac": true,
+        "hi": 400000,
+        "low": 375000,
+        "name": "hoe"
     }
 ]
