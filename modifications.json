@@ -4124,6 +4124,16 @@
                     36000
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    55200,
+                    57800
+                ],
+                "to": [
+                    136000,
+                    142000
+                ]
+            },
             "infinite_quiver_x": {
                 "from": [
                     400000,
@@ -4383,7 +4393,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "586939737936363520": {
         "modification_history": {},
