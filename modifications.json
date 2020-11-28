@@ -3917,9 +3917,19 @@
                     5000,
                     6000
                 ]
+            },
+            "lvl_100_legendary_griffin": {
+                "from": [
+                    90000000,
+                    100000000
+                ],
+                "to": [
+                    84000000,
+                    85000000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "531576685469106186": {
         "modification_history": {},
