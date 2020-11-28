@@ -459,6 +459,16 @@
                     150000
                 ]
             },
+            "lvl_1_legendary_elephant": {
+                "from": [
+                    16400000,
+                    17000000
+                ],
+                "to": [
+                    17000000,
+                    17100000
+                ]
+            },
             "lvl_1_legendary_ghoul": {
                 "from": [
                     2600000,
@@ -1080,7 +1090,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "268844820317863936": {
         "modification_history": {},
