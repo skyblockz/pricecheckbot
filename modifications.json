@@ -39,6 +39,16 @@
                     180000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    85000,
+                    100000
+                ]
+            },
             "builders_wand": {
                 "from": [
                     2550000,
@@ -1140,7 +1150,7 @@
                 ]
             }
         },
-        "total_mods": 129
+        "total_mods": 130
     },
     "268844820317863936": {
         "modification_history": {},
