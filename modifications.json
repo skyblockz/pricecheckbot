@@ -2865,6 +2865,16 @@
                     7000000
                 ]
             },
+            "wither_blood": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    2750000,
+                    3000000
+                ]
+            },
             "wither_boots": {
                 "from": null,
                 "to": [
@@ -2901,7 +2911,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "327186268159082500": {
         "modification_history": {},
