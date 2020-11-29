@@ -2838,6 +2838,16 @@
                     500000000
                 ]
             },
+            "one_for_all": {
+                "from": [
+                    2000000,
+                    2100000
+                ],
+                "to": [
+                    5250000,
+                    5750000
+                ]
+            },
             "precursor_gear": {
                 "from": null,
                 "to": [
@@ -2928,7 +2938,7 @@
                 ]
             }
         },
-        "total_mods": 162
+        "total_mods": 163
     },
     "327186268159082500": {
         "modification_history": {},
