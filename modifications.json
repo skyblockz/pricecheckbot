@@ -2877,6 +2877,13 @@
                     115000000
                 ]
             },
+            "maxors_helmet": {
+                "from": null,
+                "to": [
+                    3250000,
+                    3950000
+                ]
+            },
             "necrons_boots": {
                 "from": null,
                 "to": [
@@ -3077,7 +3084,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "327186268159082500": {
         "modification_history": {},
