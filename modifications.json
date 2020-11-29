@@ -4221,6 +4221,13 @@
                     142000
                 ]
             },
+            "implosion": {
+                "from": null,
+                "to": [
+                    60000000,
+                    62000000
+                ]
+            },
             "infinite_quiver_x": {
                 "from": [
                     400000,
@@ -4487,7 +4494,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "586939737936363520": {
         "modification_history": {},
