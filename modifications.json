@@ -4473,6 +4473,13 @@
                     2500000
                 ]
             },
+            "wither_shield": {
+                "from": null,
+                "to": [
+                    75000000,
+                    77500000
+                ]
+            },
             "yeti_rod": {
                 "from": [
                     980000,
@@ -4494,7 +4501,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "586939737936363520": {
         "modification_history": {},
