@@ -4382,6 +4382,13 @@
                     4000000
                 ]
             },
+            "shadow_warp": {
+                "from": null,
+                "to": [
+                    45000000,
+                    47500000
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     26150000,
@@ -4501,7 +4508,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "586939737936363520": {
         "modification_history": {},
