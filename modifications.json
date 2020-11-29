@@ -2838,6 +2838,13 @@
                     500000000
                 ]
             },
+            "precursor_gear": {
+                "from": null,
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "ultimate_wise_1": {
                 "from": [
                     174000,
@@ -2894,7 +2901,7 @@
                 ]
             }
         },
-        "total_mods": 158
+        "total_mods": 159
     },
     "327186268159082500": {
         "modification_history": {},
