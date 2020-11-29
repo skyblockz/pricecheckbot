@@ -4459,6 +4459,13 @@
                     24000000
                 ]
             },
+            "wither_blood": {
+                "from": null,
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "yeti_rod": {
                 "from": [
                     980000,
@@ -4480,7 +4487,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "586939737936363520": {
         "modification_history": {},
