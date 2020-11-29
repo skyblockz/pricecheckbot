@@ -4329,6 +4329,13 @@
                     530000000
                 ]
             },
+            "one_for_all": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2100000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     123000000,
@@ -4529,7 +4536,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "586939737936363520": {
         "modification_history": {},
