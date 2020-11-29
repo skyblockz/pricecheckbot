@@ -2771,6 +2771,16 @@
     },
     "322989795251060737": {
         "modification_history": {
+            "auto_recombobulator": {
+                "from": [
+                    40000000,
+                    42000000
+                ],
+                "to": [
+                    35000000,
+                    40000000
+                ]
+            },
             "basket_of_seeds": {
                 "from": null,
                 "to": [
@@ -2884,7 +2894,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "327186268159082500": {
         "modification_history": {},
