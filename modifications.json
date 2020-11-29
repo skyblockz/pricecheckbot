@@ -4017,6 +4017,13 @@
                     10100000
                 ]
             },
+            "auto_recombobulator": {
+                "from": null,
+                "to": [
+                    40000000,
+                    42000000
+                ]
+            },
             "bat_artifact": {
                 "from": [
                     635000,
@@ -4473,7 +4480,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "586939737936363520": {
         "modification_history": {},
