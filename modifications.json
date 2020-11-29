@@ -2877,6 +2877,13 @@
                     115000000
                 ]
             },
+            "maxors_boots": {
+                "from": null,
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "maxors_helmet": {
                 "from": null,
                 "to": [
@@ -3091,7 +3098,7 @@
                 ]
             }
         },
-        "total_mods": 184
+        "total_mods": 185
     },
     "327186268159082500": {
         "modification_history": {},
