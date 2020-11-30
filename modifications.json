@@ -5044,6 +5044,16 @@
                     19500000
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    100000,
+                    140000
+                ],
+                "to": [
+                    140000,
+                    170000
+                ]
+            },
             "enchanted_cobblestone": {
                 "from": [
                     1100,
@@ -6206,7 +6216,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "642620000083116062": {
         "modification_history": {},
