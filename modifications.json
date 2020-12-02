@@ -4400,6 +4400,16 @@
                     1050000
                 ]
             },
+            "dirt": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "enchanted_fermented_spider_eye": {
                 "from": [
                     74000,
@@ -4825,7 +4835,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "586939737936363520": {
         "modification_history": {},
