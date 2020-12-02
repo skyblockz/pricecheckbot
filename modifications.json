@@ -2860,6 +2860,16 @@
                     9250000
                 ]
             },
+            "hunter_knife": {
+                "from": [
+                    8000000,
+                    8000000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "jolly_pink_rock": {
                 "from": null,
                 "to": [
@@ -3108,7 +3118,7 @@
                 ]
             }
         },
-        "total_mods": 185
+        "total_mods": 186
     },
     "327186268159082500": {
         "modification_history": {},
