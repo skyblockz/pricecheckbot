@@ -4608,6 +4608,16 @@
                     45000000
                 ]
             },
+            "midas_jewel": {
+                "from": [
+                    1200000,
+                    1600000
+                ],
+                "to": [
+                    330000,
+                    350000
+                ]
+            },
             "mineral_helmet": {
                 "from": null,
                 "to": [
@@ -4856,7 +4866,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "586939737936363520": {
         "modification_history": {},
