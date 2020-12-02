@@ -4676,6 +4676,16 @@
                     30000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1350000,
+                    1400000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     1300000,
@@ -4866,7 +4876,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "586939737936363520": {
         "modification_history": {},
