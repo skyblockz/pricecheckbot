@@ -4025,6 +4025,16 @@
                     4000000
                 ]
             },
+            "dragon_horn": {
+                "from": [
+                    12100000,
+                    12200000
+                ],
+                "to": [
+                    8000000,
+                    10000000
+                ]
+            },
             "giant_tooth": {
                 "from": null,
                 "to": [
@@ -4267,7 +4277,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "523019950072266764": {
         "modification_history": {
