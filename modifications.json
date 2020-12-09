@@ -4035,6 +4035,16 @@
                     31000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "deep_sea_orb": {
                 "from": [
                     2100000,
@@ -4307,7 +4317,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "523019950072266764": {
         "modification_history": {
