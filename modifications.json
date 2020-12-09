@@ -4065,6 +4065,16 @@
                     10000000
                 ]
             },
+            "expertise_i": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    950000,
+                    1200000
+                ]
+            },
             "giant_tooth": {
                 "from": null,
                 "to": [
@@ -4327,7 +4337,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "523019950072266764": {
         "modification_history": {
