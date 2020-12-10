@@ -4631,6 +4631,13 @@
                     6000000
                 ]
             },
+            "fungi_cutter": {
+                "from": null,
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "ghoul_buster": {
                 "from": [
                     2500000,
@@ -5013,7 +5020,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "586939737936363520": {
         "modification_history": {},
