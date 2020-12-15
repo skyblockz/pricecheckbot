@@ -4524,6 +4524,13 @@
                     6100000
                 ]
             },
+            "critical_vii": {
+                "from": null,
+                "to": [
+                    35000000,
+                    37000000
+                ]
+            },
             "crown_of_greed": {
                 "from": [
                     1400000,
@@ -5075,7 +5082,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "586939737936363520": {
         "modification_history": {},
