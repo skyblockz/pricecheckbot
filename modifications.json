@@ -3770,10 +3770,13 @@
                 ]
             },
             "soul_fragment": {
-                "from": null,
-                "to": [
+                "from": [
                     919000,
                     1104000
+                ],
+                "to": [
+                    622000,
+                    586000
                 ]
             },
             "soul_whip": {
@@ -3964,7 +3967,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "395295454872469504": {
         "modification_history": {},
