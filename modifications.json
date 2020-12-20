@@ -5318,6 +5318,16 @@
                     84000
                 ]
             },
+            "enchanted_potato": {
+                "from": [
+                    150,
+                    270
+                ],
+                "to": [
+                    300,
+                    320
+                ]
+            },
             "enchanted_quartz": {
                 "from": [
                     890,
@@ -5439,7 +5449,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "608381370095370289": {
         "modification_history": {},
