@@ -5178,6 +5178,16 @@
                     560000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    520000,
+                    550000
+                ],
+                "to": [
+                    603000,
+                    644000
+                ]
+            },
             "superior_dragon_fragment": {
                 "from": [
                     162000,
@@ -5199,7 +5209,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608381370095370289": {
         "modification_history": {},
