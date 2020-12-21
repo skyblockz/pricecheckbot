@@ -2726,6 +2726,16 @@
                     3
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    120000000,
+                    130000000
+                ],
+                "to": [
+                    60000000,
+                    80000000
+                ]
+            },
             "potato": {
                 "from": [
                     2,
@@ -2807,7 +2817,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "322989795251060737": {
         "modification_history": {
