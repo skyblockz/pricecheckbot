@@ -1784,10 +1784,6 @@
         "src": "sa_leggings"
     },
     {
-        "dest": "shadow_assasin_helmet",
-        "src": "sa_helmet"
-    },
-    {
         "dest": "frozen_scythe",
         "src": "f_scythe"
     },
@@ -2322,5 +2318,9 @@
     {
         "dest": "bits_talisman",
         "src": "bits_tali"
+    },
+    {
+        "dest": "shadow_assassin_helmet",
+        "src": "sa_helmet"
     }
 ]

@@ -8029,12 +8029,6 @@
     },
     {
         "ac": true,
-        "hi": 2000000,
-        "low": 1900000,
-        "name": "shadow_assasin_helmet"
-    },
-    {
-        "ac": true,
         "hi": 300000,
         "low": 150000,
         "name": "fel_sword"
@@ -9478,5 +9472,11 @@
         "hi": 750000,
         "low": 500000,
         "name": "hoe_of_greater_tilling"
+    },
+    {
+        "ac": true,
+        "hi": 2000000,
+        "low": 1900000,
+        "name": "shadow_assassin_helmet"
     }
 ]
