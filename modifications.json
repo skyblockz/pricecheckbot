@@ -3280,6 +3280,16 @@
                     31500000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1900000,
+                    2000000
+                ],
+                "to": [
+                    900000,
+                    110000
+                ]
+            },
             "shadow_assassin_leggings": {
                 "from": [
                     4875000,
@@ -3301,7 +3311,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "376600317493510146": {
         "modification_history": {},
