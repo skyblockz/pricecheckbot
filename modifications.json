@@ -4215,6 +4215,16 @@
                     1100000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    177000,
+                    185000
+                ]
+            },
             "salmon_boots": {
                 "from": null,
                 "to": [
@@ -4274,7 +4284,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "509450669951025162": {
         "modification_history": {},
