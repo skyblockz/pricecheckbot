@@ -3928,6 +3928,16 @@
                     26000000
                 ]
             },
+            "undead_essence": {
+                "from": [
+                    800,
+                    900
+                ],
+                "to": [
+                    800,
+                    1000
+                ]
+            },
             "vampire_fang": {
                 "from": null,
                 "to": [
@@ -4012,7 +4022,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "395295454872469504": {
         "modification_history": {},
