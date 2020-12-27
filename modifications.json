@@ -4246,6 +4246,13 @@
                     1100000
                 ]
             },
+            "lvl_100_mythic_bat": {
+                "from": null,
+                "to": [
+                    16000000,
+                    18000000
+                ]
+            },
             "lvl_1_mythic_bat": {
                 "from": null,
                 "to": [
@@ -4352,7 +4359,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "509450669951025162": {
         "modification_history": {},
