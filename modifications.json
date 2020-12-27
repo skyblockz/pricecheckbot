@@ -4294,6 +4294,16 @@
                     61000000
                 ]
             },
+            "sharpness_vii": {
+                "from": [
+                    23750000,
+                    24500000
+                ],
+                "to": [
+                    20000000,
+                    22000000
+                ]
+            },
             "tier_3_rare_euclids_wheat_hoe": {
                 "from": [
                     135000000,
@@ -4335,7 +4345,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "509450669951025162": {
         "modification_history": {},
