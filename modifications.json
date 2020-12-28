@@ -4205,6 +4205,16 @@
                     15000000
                 ]
             },
+            "catalyst": {
+                "from": [
+                    80000,
+                    83000
+                ],
+                "to": [
+                    85000,
+                    95000
+                ]
+            },
             "diamond_necron_head": {
                 "from": null,
                 "to": [
@@ -4369,7 +4379,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "509450669951025162": {
         "modification_history": {},
