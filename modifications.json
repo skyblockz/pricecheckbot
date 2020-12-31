@@ -5527,6 +5527,13 @@
                     10000
                 ]
             },
+            "triple_strike_iv": {
+                "from": null,
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "vicious_5": {
                 "from": null,
                 "to": [
@@ -5579,7 +5586,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "586939737936363520": {
         "modification_history": {},
