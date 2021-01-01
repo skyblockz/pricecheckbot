@@ -3328,6 +3328,16 @@
                     9500000
                 ]
             },
+            "rare_griffin_upgrade_stone": {
+                "from": [
+                    3700000,
+                    3900000
+                ],
+                "to": [
+                    2600000,
+                    3000000
+                ]
+            },
             "sadans_brooch": {
                 "from": [
                     1300000,
@@ -3423,7 +3433,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "376600317493510146": {
         "modification_history": {},
