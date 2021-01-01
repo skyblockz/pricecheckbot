@@ -3328,6 +3328,13 @@
                     1100000
                 ]
             },
+            "scylla": {
+                "from": null,
+                "to": [
+                    330000000,
+                    335000000
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     41600000,
@@ -3406,7 +3413,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "376600317493510146": {
         "modification_history": {},
