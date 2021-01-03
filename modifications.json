@@ -4669,6 +4669,16 @@
                     110000
                 ]
             },
+            "snow_suit_boots": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    10000,
+                    30000
+                ]
+            },
             "storm_the_fish": {
                 "from": null,
                 "to": [
@@ -4677,7 +4687,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "509450669951025162": {
         "modification_history": {},
