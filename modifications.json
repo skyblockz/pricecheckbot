@@ -3495,6 +3495,16 @@
                     11000000
                 ]
             },
+            "treasure_artifact": {
+                "from": [
+                    42500000,
+                    43900000
+                ],
+                "to": [
+                    37000000,
+                    37500000
+                ]
+            },
             "valkyrie": {
                 "from": null,
                 "to": [
@@ -3503,7 +3513,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "376600317493510146": {
         "modification_history": {},
