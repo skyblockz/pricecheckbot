@@ -4595,6 +4595,16 @@
                     3500000
                 ]
             },
+            "golden_scarf_head": {
+                "from": [
+                    1100000,
+                    2000000
+                ],
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "goldor_the_fish": {
                 "from": null,
                 "to": [
@@ -4617,7 +4627,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "509450669951025162": {
         "modification_history": {},
