@@ -4679,6 +4679,16 @@
                     30000
                 ]
             },
+            "snow_suit_leggings": {
+                "from": [
+                    40000,
+                    150000
+                ],
+                "to": [
+                    20000,
+                    35000
+                ]
+            },
             "storm_the_fish": {
                 "from": null,
                 "to": [
@@ -4687,7 +4697,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "509450669951025162": {
         "modification_history": {},
