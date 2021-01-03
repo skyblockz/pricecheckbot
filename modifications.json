@@ -4732,6 +4732,16 @@
                     7000000
                 ]
             },
+            "lucky_hoof": {
+                "from": [
+                    575000,
+                    630000
+                ],
+                "to": [
+                    100000,
+                    300000
+                ]
+            },
             "maxor_the_fish": {
                 "from": null,
                 "to": [
@@ -4948,7 +4958,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "509450669951025162": {
         "modification_history": {},
