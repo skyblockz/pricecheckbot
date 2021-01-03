@@ -5798,6 +5798,16 @@
                     315000000
                 ]
             },
+            "scarfs_grimoire": {
+                "from": [
+                    8000000,
+                    8300000
+                ],
+                "to": [
+                    8500000,
+                    9000000
+                ]
+            },
             "wither_chestplate": {
                 "from": [
                     85000000,
@@ -5819,7 +5829,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "586939737936363520": {
         "modification_history": {},
