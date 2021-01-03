@@ -4809,6 +4809,16 @@
                     300000
                 ]
             },
+            "lvl_1_epic_rock": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    4900000,
+                    5200000
+                ]
+            },
             "maxor_the_fish": {
                 "from": null,
                 "to": [
@@ -5035,7 +5045,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "509450669951025162": {
         "modification_history": {},
