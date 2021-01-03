@@ -4595,6 +4595,16 @@
                     3500000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    95000,
+                    150000
+                ]
+            },
             "golden_scarf_head": {
                 "from": [
                     1100000,
@@ -4627,7 +4637,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "509450669951025162": {
         "modification_history": {},
