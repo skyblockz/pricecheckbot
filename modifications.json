@@ -5808,6 +5808,16 @@
                     9000000
                 ]
             },
+            "scarfs_studies": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "wither_chestplate": {
                 "from": [
                     85000000,
@@ -5829,7 +5839,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "586939737936363520": {
         "modification_history": {},
