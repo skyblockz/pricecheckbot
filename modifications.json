@@ -4646,10 +4646,13 @@
                 ]
             },
             "dungeon_sack": {
-                "from": null,
-                "to": [
+                "from": [
                     1800000,
                     2500000
+                ],
+                "to": [
+                    0,
+                    0
                 ]
             },
             "french_bread": {
@@ -4918,7 +4921,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "509450669951025162": {
         "modification_history": {},
