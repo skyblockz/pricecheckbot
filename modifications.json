@@ -4799,6 +4799,16 @@
                     7000000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    949000,
+                    1250000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     100000,
@@ -4958,7 +4968,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "509450669951025162": {
         "modification_history": {},
