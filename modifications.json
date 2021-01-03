@@ -4873,6 +4873,16 @@
                     4200000
                 ]
             },
+            "turbo-wart_1": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "yellow_crab_hat_of_celebration": {
                 "from": [
                     250000,
@@ -4884,7 +4894,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "509450669951025162": {
         "modification_history": {},
