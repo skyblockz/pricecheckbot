@@ -4521,6 +4521,16 @@
                     1100000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "lvl_100_mythic_bat": {
                 "from": null,
                 "to": [
@@ -4674,7 +4684,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "508886846873272322": {
         "modification_history": {
