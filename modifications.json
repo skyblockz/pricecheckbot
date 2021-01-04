@@ -7226,6 +7226,16 @@
                     276000
                 ]
             },
+            "experience_bottle": {
+                "from": [
+                    30,
+                    30
+                ],
+                "to": [
+                    30,
+                    40
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     24900,
@@ -7617,7 +7627,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "608381370095370289": {
         "modification_history": {
