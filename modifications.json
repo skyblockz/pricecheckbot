@@ -6678,12 +6678,12 @@
             },
             "enchanted_redstone_lamp": {
                 "from": [
-                    48000,
-                    57500
-                ],
-                "to": [
                     86000,
                     100000
+                ],
+                "to": [
+                    51700,
+                    87900
                 ]
             },
             "grand_experience_bottle": {
@@ -6757,7 +6757,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "608381370095370289": {
         "modification_history": {
