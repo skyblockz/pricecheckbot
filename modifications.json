@@ -6426,6 +6426,16 @@
                     65
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    6000,
+                    6500
+                ],
+                "to": [
+                    4000,
+                    6200
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     300,
@@ -6787,7 +6797,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "608381370095370289": {
         "modification_history": {
