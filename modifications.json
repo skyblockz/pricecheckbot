@@ -6618,12 +6618,12 @@
             },
             "enchanted_packed_ice": {
                 "from": [
-                    70000,
-                    75000
-                ],
-                "to": [
                     76000,
                     84000
+                ],
+                "to": [
+                    62800,
+                    67400
                 ]
             },
             "enchanted_potato": {
@@ -6757,7 +6757,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "608381370095370289": {
         "modification_history": {
