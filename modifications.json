@@ -6548,12 +6548,12 @@
             },
             "enchanted_iron": {
                 "from": [
-                    980,
-                    1100
-                ],
-                "to": [
                     1100,
                     1200
+                ],
+                "to": [
+                    1300,
+                    1500
                 ]
             },
             "enchanted_lapis_block": {
@@ -6737,7 +6737,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "608381370095370289": {
         "modification_history": {
