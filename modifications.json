@@ -6668,12 +6668,12 @@
             },
             "grand_experience_bottle": {
                 "from": [
-                    3600,
-                    3900
-                ],
-                "to": [
                     6000,
                     6500
+                ],
+                "to": [
+                    4200,
+                    4900
                 ]
             },
             "strong_dragon_fragment": {
@@ -6737,7 +6737,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "608381370095370289": {
         "modification_history": {
