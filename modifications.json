@@ -6628,12 +6628,12 @@
             },
             "enchanted_potato": {
                 "from": [
-                    150,
-                    270
-                ],
-                "to": [
                     300,
                     320
+                ],
+                "to": [
+                    315,
+                    390
                 ]
             },
             "enchanted_quartz": {
@@ -6757,7 +6757,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "608381370095370289": {
         "modification_history": {
