@@ -6648,12 +6648,12 @@
             },
             "enchanted_quartz_block": {
                 "from": [
-                    110000,
-                    130000
-                ],
-                "to": [
                     103000,
                     122000
+                ],
+                "to": [
+                    100000,
+                    110000
                 ]
             },
             "enchanted_redstone": {
@@ -6757,7 +6757,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "608381370095370289": {
         "modification_history": {
