@@ -6586,6 +6586,16 @@
                     142000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    1800,
+                    1900
+                ],
+                "to": [
+                    1600,
+                    2000
+                ]
+            },
             "enchanted_hay_bale": {
                 "from": [
                     3000,
@@ -6917,7 +6927,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "608381370095370289": {
         "modification_history": {
