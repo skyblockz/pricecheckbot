@@ -3660,10 +3660,13 @@
                 ]
             },
             "wither_chestplate": {
-                "from": null,
+                "from": [
+                    37500000,
+                    40000000
+                ],
                 "to": [
-                    85000000,
-                    92500000
+                    49000000,
+                    54000000
                 ]
             },
             "wither_cloak_sword": {
@@ -3705,7 +3708,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "327186268159082500": {
         "modification_history": {},
