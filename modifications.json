@@ -3646,10 +3646,13 @@
                 ]
             },
             "wither_boots": {
-                "from": null,
-                "to": [
+                "from": [
                     1500000,
                     1800000
+                ],
+                "to": [
+                    1800000,
+                    21000000
                 ]
             },
             "wither_catalyst": {
@@ -3708,7 +3711,7 @@
                 ]
             }
         },
-        "total_mods": 197
+        "total_mods": 198
     },
     "327186268159082500": {
         "modification_history": {},
