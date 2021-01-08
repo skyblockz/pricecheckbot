@@ -3351,10 +3351,13 @@
                 ]
             },
             "diamantes_handle": {
-                "from": null,
+                "from": [
+                    1600000,
+                    1700000
+                ],
                 "to": [
-                    2750000,
-                    3000000
+                    1200000,
+                    1400000
                 ]
             },
             "ender_artifact": {
@@ -3656,7 +3659,7 @@
                 ]
             }
         },
-        "total_mods": 189
+        "total_mods": 190
     },
     "327186268159082500": {
         "modification_history": {},
