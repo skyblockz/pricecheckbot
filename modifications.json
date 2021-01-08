@@ -1249,6 +1249,16 @@
                     15000000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    19000,
+                    20000
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "sword_of_revelations": {
                 "from": [
                     13000000,
@@ -1390,7 +1400,7 @@
                 ]
             }
         },
-        "total_mods": 162
+        "total_mods": 163
     },
     "268844820317863936": {
         "modification_history": {},
