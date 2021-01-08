@@ -769,6 +769,16 @@
                     120000
                 ]
             },
+            "onyx": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     850000,
@@ -1360,7 +1370,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "268844820317863936": {
         "modification_history": {},
