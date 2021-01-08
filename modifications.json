@@ -839,6 +839,16 @@
                     1100000
                 ]
             },
+            "rare_diamond": {
+                "from": [
+                    2000,
+                    10000
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     4100000,
@@ -1330,7 +1340,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "268844820317863936": {
         "modification_history": {},
