@@ -3975,12 +3975,12 @@
             },
             "magic_find_enrichment": {
                 "from": [
-                    1100000,
-                    1300000
-                ],
-                "to": [
                     1000000,
                     1694000
+                ],
+                "to": [
+                    999000,
+                    1300000
                 ]
             },
             "minion_storage_xpender": {
@@ -4410,7 +4410,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "395295454872469504": {
         "modification_history": {},
