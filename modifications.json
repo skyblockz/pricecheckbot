@@ -529,6 +529,16 @@
                     600000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    135000,
+                    200000
+                ],
+                "to": [
+                    40000,
+                    60000
+                ]
+            },
             "lvl_100_epic_dolphin": {
                 "from": [
                     21000000,
@@ -1320,7 +1330,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "268844820317863936": {
         "modification_history": {},
