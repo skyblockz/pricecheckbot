@@ -4296,6 +4296,16 @@
                     26000000
                 ]
             },
+            "treecapitator": {
+                "from": [
+                    1135000,
+                    1150000
+                ],
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
             "undead_essence": {
                 "from": [
                     800,
@@ -4390,7 +4400,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "395295454872469504": {
         "modification_history": {},
