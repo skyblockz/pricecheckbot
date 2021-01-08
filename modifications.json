@@ -9453,6 +9453,16 @@
                     1000500
                 ]
             },
+            "auto_recombobulator": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    6400000,
+                    6520000
+                ]
+            },
             "bits_talisman": {
                 "from": [
                     3287000,
@@ -9765,7 +9775,7 @@
                 ]
             }
         },
-        "total_mods": 147
+        "total_mods": 148
     },
     "681279583906955331": {
         "modification_history": {},
