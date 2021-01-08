@@ -9493,6 +9493,16 @@
                     107400
                 ]
             },
+            "compactor": {
+                "from": [
+                    6700,
+                    8400
+                ],
+                "to": [
+                    7500,
+                    11200
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     58000,
@@ -9825,7 +9835,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "681279583906955331": {
         "modification_history": {},
