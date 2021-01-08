@@ -4075,6 +4075,16 @@
                     30000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    177000,
+                    185000
+                ],
+                "to": [
+                    150000,
+                    650000
+                ]
+            },
             "scarf_fragment": {
                 "from": null,
                 "to": [
@@ -4400,7 +4410,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "395295454872469504": {
         "modification_history": {},
