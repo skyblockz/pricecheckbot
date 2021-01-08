@@ -9560,6 +9560,16 @@
                     1500000
                 ]
             },
+            "necromancer_lord_chestplate": {
+                "from": [
+                    23000000,
+                    24000000
+                ],
+                "to": [
+                    26000000,
+                    28000000
+                ]
+            },
             "necromancer_lord_helmet": {
                 "from": [
                     900000,
@@ -9675,7 +9685,7 @@
                 ]
             }
         },
-        "total_mods": 136
+        "total_mods": 137
     },
     "681279583906955331": {
         "modification_history": {},
