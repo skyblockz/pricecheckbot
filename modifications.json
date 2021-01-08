@@ -149,6 +149,16 @@
                     250000
                 ]
             },
+            "creeper_pants": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     600000,
@@ -1600,7 +1610,7 @@
                 ]
             }
         },
-        "total_mods": 188
+        "total_mods": 189
     },
     "268844820317863936": {
         "modification_history": {},
