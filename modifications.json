@@ -659,6 +659,16 @@
                     700000
                 ]
             },
+            "molten_cube": {
+                "from": [
+                    200,
+                    300
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "necromancers_brooch": {
                 "from": [
                     39000,
@@ -1310,7 +1320,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "268844820317863936": {
         "modification_history": {},
