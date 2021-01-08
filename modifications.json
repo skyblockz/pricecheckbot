@@ -9670,6 +9670,16 @@
                     400000
                 ]
             },
+            "molten_cube": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    200,
+                    300
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": [
                     1450000,
@@ -9845,7 +9855,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "681279583906955331": {
         "modification_history": {},
