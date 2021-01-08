@@ -3327,10 +3327,13 @@
                 ]
             },
             "bigfoots_lasso": {
-                "from": null,
-                "to": [
+                "from": [
                     40000,
                     50000
+                ],
+                "to": [
+                    10000,
+                    15000
                 ]
             },
             "blaze_helmet": {
@@ -3669,7 +3672,7 @@
                 ]
             }
         },
-        "total_mods": 191
+        "total_mods": 192
     },
     "327186268159082500": {
         "modification_history": {},
