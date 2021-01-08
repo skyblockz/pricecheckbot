@@ -3799,6 +3799,13 @@
                     6000000
                 ]
             },
+            "defense_enrichment": {
+                "from": null,
+                "to": [
+                    988000,
+                    1200000
+                ]
+            },
             "ectoplasm": {
                 "from": null,
                 "to": [
@@ -4410,7 +4417,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "395295454872469504": {
         "modification_history": {},
