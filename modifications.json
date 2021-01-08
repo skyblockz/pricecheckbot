@@ -3550,6 +3550,16 @@
                     800000
                 ]
             },
+            "scarf_fragment": {
+                "from": [
+                    4000,
+                    18000
+                ],
+                "to": [
+                    4000,
+                    6000
+                ]
+            },
             "shadow_warp": {
                 "from": [
                     45000000,
@@ -3695,7 +3705,7 @@
                 ]
             }
         },
-        "total_mods": 195
+        "total_mods": 196
     },
     "327186268159082500": {
         "modification_history": {},
