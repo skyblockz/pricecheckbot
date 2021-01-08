@@ -499,6 +499,16 @@
                     100000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    400,
+                    800
+                ],
+                "to": [
+                    50,
+                    200
+                ]
+            },
             "leaping_sword": {
                 "from": [
                     1500000,
@@ -1340,7 +1350,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "268844820317863936": {
         "modification_history": {},
