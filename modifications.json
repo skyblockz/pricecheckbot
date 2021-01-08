@@ -3346,6 +3346,16 @@
                     1300000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    14000,
+                    16000
+                ]
+            },
             "catacombs_expert_ring": {
                 "from": null,
                 "to": [
@@ -3675,7 +3685,7 @@
                 ]
             }
         },
-        "total_mods": 193
+        "total_mods": 194
     },
     "327186268159082500": {
         "modification_history": {},
