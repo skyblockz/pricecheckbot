@@ -3630,6 +3630,13 @@
                     1250000
                 ]
             },
+            "titan_killer_vi": {
+                "from": null,
+                "to": [
+                    10000,
+                    25000
+                ]
+            },
             "ultimate_wise_1": {
                 "from": [
                     174000,
@@ -3729,7 +3736,7 @@
                 ]
             }
         },
-        "total_mods": 201
+        "total_mods": 202
     },
     "327186268159082500": {
         "modification_history": {},
