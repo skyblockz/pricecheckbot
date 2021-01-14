@@ -5422,6 +5422,13 @@
                     155000000
                 ]
             },
+            "tightly_tied_hay_bale": {
+                "from": null,
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "travel_scroll_to_dark_auction": {
                 "from": [
                     2800000,
@@ -5453,7 +5460,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "508886846873272322": {
         "modification_history": {
