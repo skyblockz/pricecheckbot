@@ -1199,12 +1199,12 @@
             },
             "scorpion_foil": {
                 "from": [
-                    1100000,
-                    1600000
-                ],
-                "to": [
                     1800000,
                     2000000
+                ],
+                "to": [
+                    4000000,
+                    4600000
                 ]
             },
             "shadow_assassin_chestplate": {
@@ -1698,7 +1698,7 @@
                 ]
             }
         },
-        "total_mods": 200
+        "total_mods": 201
     },
     "268844820317863936": {
         "modification_history": {},
