@@ -3418,6 +3418,16 @@
                     5000000
                 ]
             },
+            "vampire_witch_mask": {
+                "from": [
+                    1250000,
+                    1900000
+                ],
+                "to": [
+                    2400000,
+                    2800000
+                ]
+            },
             "washed_up_souvenir": {
                 "from": [
                     4450000,
@@ -3545,7 +3555,7 @@
                 ]
             }
         },
-        "total_mods": 212
+        "total_mods": 213
     },
     "327186268159082500": {
         "modification_history": {},
