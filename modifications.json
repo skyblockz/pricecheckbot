@@ -3680,6 +3680,16 @@
                     1000000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    75000,
+                    85000
+                ],
+                "to": [
+                    90000,
+                    110000
+                ]
+            },
             "beating_heart": {
                 "from": [
                     100000,
@@ -4068,7 +4078,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "508886846873272322": {
         "modification_history": {
