@@ -4017,6 +4017,16 @@
                     6800000
                 ]
             },
+            "treasure_talisman": {
+                "from": [
+                    500000,
+                    530000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     22000000,
@@ -4038,7 +4048,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "508886846873272322": {
         "modification_history": {
