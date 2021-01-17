@@ -6546,6 +6546,16 @@
                     560000
                 ]
             },
+            "treasure_artifact": {
+                "from": [
+                    37000000,
+                    37500000
+                ],
+                "to": [
+                    33500000,
+                    35500000
+                ]
+            },
             "wither_chestplate": {
                 "from": [
                     49000000,
@@ -6557,7 +6567,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "622895636013907977": {
         "modification_history": {
