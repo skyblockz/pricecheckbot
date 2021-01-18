@@ -4962,6 +4962,16 @@
                     20000000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    75000,
+                    90000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "execute_vi": {
                 "from": null,
                 "to": [
@@ -5000,7 +5010,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "584353901973733386": {
         "modification_history": {
