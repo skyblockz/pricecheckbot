@@ -6653,6 +6653,13 @@
                     190
                 ]
             },
+            "mutant_nether_wart": {
+                "from": null,
+                "to": [
+                    65000,
+                    75000
+                ]
+            },
             "overload_i": {
                 "from": [
                     250000,
@@ -6691,7 +6698,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "622895636013907977": {
         "modification_history": {
