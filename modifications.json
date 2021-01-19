@@ -3787,6 +3787,16 @@
                     160000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    96000,
+                    100000
+                ],
+                "to": [
+                    125000,
+                    175000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     10500000,
@@ -4125,7 +4135,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "508886846873272322": {
         "modification_history": {
