@@ -2527,6 +2527,16 @@
                     850000
                 ]
             },
+            "lvl_1_epic_wolf": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    290000,
+                    320000
+                ]
+            },
             "lvl_1_legendary_wolf": {
                 "from": [
                     1200000,
@@ -2779,7 +2789,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "376600317493510146": {
         "modification_history": {},
