@@ -1836,6 +1836,16 @@
                     1500000
                 ]
             },
+            "bejeweled_handle": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "bigfoots_lasso": {
                 "from": [
                     40000,
@@ -2344,7 +2354,7 @@
                 ]
             }
         },
-        "total_mods": 216
+        "total_mods": 217
     },
     "327186268159082500": {
         "modification_history": {},
