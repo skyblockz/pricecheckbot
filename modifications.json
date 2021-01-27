@@ -2575,6 +2575,16 @@
                     2000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2450000,
+                    2600000
+                ],
+                "to": [
+                    1550000,
+                    1600000
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": [
                     28000000,
@@ -2817,7 +2827,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "376600317493510146": {
         "modification_history": {},
