@@ -3960,6 +3960,13 @@
                     160000
                 ]
             },
+            "experimentation_table": {
+                "from": null,
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     96000,
@@ -4378,7 +4385,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "508886846873272322": {
         "modification_history": {
