@@ -757,6 +757,16 @@
                     24000000
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    9500000,
+                    9900000
+                ],
+                "to": [
+                    11000000,
+                    12000000
+                ]
+            },
             "lvl_1_epic_dolphin": {
                 "from": [
                     2500000,
@@ -1788,7 +1798,7 @@
                 ]
             }
         },
-        "total_mods": 218
+        "total_mods": 219
     },
     "254833610824089601": {
         "modification_history": {},
