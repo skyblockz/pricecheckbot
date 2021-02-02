@@ -4378,6 +4378,16 @@
                     13000000
                 ]
             },
+            "storms_boots": {
+                "from": [
+                    6550000,
+                    7000000
+                ],
+                "to": [
+                    6000000,
+                    6500000
+                ]
+            },
             "tier_3_rare_euclids_wheat_hoe": {
                 "from": [
                     135000000,
@@ -4446,7 +4456,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "508886846873272322": {
         "modification_history": {
