@@ -9934,5 +9934,11 @@
         "hi": 100000000,
         "low": 90000000,
         "name": "beacon_v"
+    },
+    {
+        "ac": true,
+        "hi": 1200000,
+        "low": 1000000,
+        "name": "xx-large_storage"
     }
 ]
