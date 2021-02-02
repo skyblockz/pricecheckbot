@@ -1862,6 +1862,16 @@
                     43000000
                 ]
             },
+            "shark_scale_chestplate": {
+                "from": [
+                    4700000,
+                    5000000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "wither_blood": {
                 "from": [
                     2500000,
@@ -1873,7 +1883,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "322989795251060737": {
         "modification_history": {},
