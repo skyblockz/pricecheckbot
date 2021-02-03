@@ -8561,6 +8561,16 @@
                     1800000
                 ]
             },
+            "refined_titanium": {
+                "from": [
+                    6000000,
+                    7200000
+                ],
+                "to": [
+                    825000,
+                    900000
+                ]
+            },
             "x-large_storage": {
                 "from": [
                     700000,
@@ -8572,7 +8582,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "664325814531391528": {
         "modification_history": {},
