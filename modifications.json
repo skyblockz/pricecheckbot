@@ -8531,6 +8531,13 @@
     },
     "647100327048511519": {
         "modification_history": {
+            "chance_v": {
+                "from": null,
+                "to": [
+                    54000000,
+                    55000000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     6750000,
@@ -8562,7 +8569,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "664325814531391528": {
         "modification_history": {},
