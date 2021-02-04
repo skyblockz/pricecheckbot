@@ -8551,6 +8551,13 @@
                     8500000
                 ]
             },
+            "fuel_tank": {
+                "from": null,
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "lvl_1_epic_squid": {
                 "from": [
                     900000,
@@ -8609,7 +8616,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "664325814531391528": {
         "modification_history": {},
