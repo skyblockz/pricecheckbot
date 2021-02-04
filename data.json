@@ -10018,5 +10018,11 @@
         "hi": 600000,
         "low": 400000,
         "name": "fuel_tank"
+    },
+    {
+        "ac": true,
+        "hi": 15000000,
+        "low": 14000000,
+        "name": "beacon_iii"
     }
 ]
