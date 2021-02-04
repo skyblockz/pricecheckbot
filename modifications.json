@@ -8581,6 +8581,13 @@
     },
     "647100327048511519": {
         "modification_history": {
+            "beacon_iii": {
+                "from": null,
+                "to": [
+                    14000000,
+                    15000000
+                ]
+            },
             "chance_v": {
                 "from": [
                     54000000,
@@ -8666,7 +8673,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "664325814531391528": {
         "modification_history": {},
