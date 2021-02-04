@@ -8561,6 +8561,16 @@
                     1800000
                 ]
             },
+            "mithril": {
+                "from": [
+                    120,
+                    190
+                ],
+                "to": [
+                    15,
+                    20
+                ]
+            },
             "refined_mithril": {
                 "from": [
                     2200000,
@@ -8599,7 +8609,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "664325814531391528": {
         "modification_history": {},
