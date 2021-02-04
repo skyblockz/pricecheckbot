@@ -8581,6 +8581,13 @@
     },
     "647100327048511519": {
         "modification_history": {
+            "beacon_ii": {
+                "from": null,
+                "to": [
+                    5000000,
+                    6500000
+                ]
+            },
             "beacon_iii": {
                 "from": null,
                 "to": [
@@ -8673,7 +8680,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "664325814531391528": {
         "modification_history": {},
