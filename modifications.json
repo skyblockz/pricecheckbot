@@ -1966,6 +1966,16 @@
                     40000000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    65600,
+                    75000
+                ],
+                "to": [
+                    53000,
+                    63000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1056000,
@@ -2401,7 +2411,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "348956398840840192": {
         "modification_history": {},
