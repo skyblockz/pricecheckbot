@@ -1949,6 +1949,16 @@
                     1550000
                 ]
             },
+            "compactor": {
+                "from": [
+                    7500,
+                    11200
+                ],
+                "to": [
+                    6500,
+                    7500
+                ]
+            },
             "diamond_livid_head": {
                 "from": null,
                 "to": [
@@ -2311,7 +2321,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "348956398840840192": {
         "modification_history": {},
