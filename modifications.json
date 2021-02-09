@@ -1909,6 +1909,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    300000,
+                    450000
+                ]
+            },
             "hyperion": {
                 "from": [
                     490000000,
@@ -2110,7 +2120,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "348956398840840192": {
         "modification_history": {},
