@@ -6183,6 +6183,16 @@
                     16000000
                 ]
             },
+            "mimic_fragment": {
+                "from": [
+                    3125,
+                    4000
+                ],
+                "to": [
+                    6000,
+                    7000
+                ]
+            },
             "mithril_infused_fuel_tank": {
                 "from": null,
                 "to": [
@@ -6487,7 +6497,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "584353901973733386": {
         "modification_history": {
