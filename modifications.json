@@ -2130,6 +2130,16 @@
                     2500
                 ]
             },
+            "purple_candy": {
+                "from": [
+                    3600,
+                    3700
+                ],
+                "to": [
+                    5300,
+                    5400
+                ]
+            },
             "ranchers_boots": {
                 "from": [
                     2000000,
@@ -2391,7 +2401,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "348956398840840192": {
         "modification_history": {},
