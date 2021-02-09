@@ -1909,6 +1909,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "bonzo_fragment": {
+                "from": [
+                    14000,
+                    16000
+                ],
+                "to": [
+                    27000,
+                    59000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     450000,
@@ -2130,7 +2140,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "348956398840840192": {
         "modification_history": {},
