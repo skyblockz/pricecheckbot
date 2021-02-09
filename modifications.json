@@ -5073,6 +5073,16 @@
                     760000
                 ]
             },
+            "combo_i": {
+                "from": [
+                    30000,
+                    45000
+                ],
+                "to": [
+                    97000,
+                    100000
+                ]
+            },
             "diamonite": {
                 "from": null,
                 "to": [
@@ -5504,7 +5514,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "584353901973733386": {
         "modification_history": {
