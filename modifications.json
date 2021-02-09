@@ -2190,6 +2190,16 @@
                     6500
                 ]
             },
+            "light_bait": {
+                "from": [
+                    50,
+                    85
+                ],
+                "to": [
+                    78,
+                    121
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     225000,
@@ -2591,7 +2601,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "348956398840840192": {
         "modification_history": {},
