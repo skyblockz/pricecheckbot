@@ -1949,6 +1949,16 @@
                     420000000
                 ]
             },
+            "ranchers_boots": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    1900000,
+                    2000000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1200000,
@@ -2070,7 +2080,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "348956398840840192": {
         "modification_history": {},
