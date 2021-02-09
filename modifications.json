@@ -2036,6 +2036,16 @@
                     63000
                 ]
             },
+            "enchanted_diamond": {
+                "from": [
+                    1300,
+                    1400
+                ],
+                "to": [
+                    1200,
+                    1300
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     370,
@@ -2775,7 +2785,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "348956398840840192": {
         "modification_history": {},
