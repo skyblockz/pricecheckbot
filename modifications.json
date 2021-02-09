@@ -2190,6 +2190,16 @@
                     450000000
                 ]
             },
+            "ice_bait": {
+                "from": [
+                    24,
+                    30
+                ],
+                "to": [
+                    40,
+                    55
+                ]
+            },
             "infinite_quiver_x": {
                 "from": [
                     260000,
@@ -2641,7 +2651,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "348956398840840192": {
         "modification_history": {},
