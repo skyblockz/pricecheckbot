@@ -2200,6 +2200,16 @@
                     4000000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    20000,
+                    20900
+                ],
+                "to": [
+                    110000,
+                    140000
+                ]
+            },
             "storm_the_fish": {
                 "from": [
                     90000,
@@ -2301,7 +2311,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "348956398840840192": {
         "modification_history": {},
