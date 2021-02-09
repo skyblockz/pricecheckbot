@@ -1939,6 +1939,16 @@
                     2500000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    1500000,
+                    1550000
+                ]
+            },
             "diamond_livid_head": {
                 "from": null,
                 "to": [
@@ -2261,7 +2271,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "348956398840840192": {
         "modification_history": {},
