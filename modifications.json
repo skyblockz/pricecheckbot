@@ -1956,6 +1956,13 @@
                     500000
                 ]
             },
+            "golden_necrons_head": {
+                "from": null,
+                "to": [
+                    1200000,
+                    2000000
+                ]
+            },
             "golden_scarf_head": {
                 "from": [
                     300000,
@@ -2237,7 +2244,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "348956398840840192": {
         "modification_history": {},
