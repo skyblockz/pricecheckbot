@@ -1976,6 +1976,16 @@
                     63000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    259000,
+                    291000
+                ],
+                "to": [
+                    320000,
+                    330000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     1056000,
@@ -2451,7 +2461,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "348956398840840192": {
         "modification_history": {},
