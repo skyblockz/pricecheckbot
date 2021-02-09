@@ -2367,6 +2367,16 @@
                     420000000
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    2,
+                    4
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     85,
@@ -2802,7 +2812,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "348956398840840192": {
         "modification_history": {},
