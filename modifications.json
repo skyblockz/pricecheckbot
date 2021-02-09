@@ -6173,6 +6173,16 @@
                     2150000
                 ]
             },
+            "magma_bucket": {
+                "from": [
+                    1200000,
+                    1400000
+                ],
+                "to": [
+                    1500000,
+                    16000000
+                ]
+            },
             "mithril_infused_fuel_tank": {
                 "from": null,
                 "to": [
@@ -6477,7 +6487,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "584353901973733386": {
         "modification_history": {
