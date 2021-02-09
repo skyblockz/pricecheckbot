@@ -2367,6 +2367,16 @@
                     16
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    65000,
+                    75000
+                ],
+                "to": [
+                    76000,
+                    78000
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     435000000,
@@ -2822,7 +2832,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "348956398840840192": {
         "modification_history": {},
