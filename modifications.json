@@ -2136,6 +2136,16 @@
                     323
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    59000,
+                    60300
+                ],
+                "to": [
+                    51000,
+                    52000
+                ]
+            },
             "enchanted_titanium": {
                 "from": null,
                 "to": [
@@ -2852,7 +2862,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "348956398840840192": {
         "modification_history": {},
