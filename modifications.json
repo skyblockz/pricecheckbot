@@ -2430,6 +2430,16 @@
                     1300000
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    70,
+                    100
+                ],
+                "to": [
+                    60,
+                    90
+                ]
+            },
             "spirit_sceptre": {
                 "from": [
                     10000000,
@@ -2621,7 +2631,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "348956398840840192": {
         "modification_history": {},
