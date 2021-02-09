@@ -2046,6 +2046,16 @@
                     1300
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    206000,
+                    226000
+                ],
+                "to": [
+                    205000,
+                    212000
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     370,
@@ -2785,7 +2795,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "348956398840840192": {
         "modification_history": {},
