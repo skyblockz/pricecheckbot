@@ -2066,6 +2066,16 @@
                     1430
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    4000,
+                    6200
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1300,
@@ -2912,7 +2922,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "348956398840840192": {
         "modification_history": {},
