@@ -1979,6 +1979,16 @@
                     9
                 ]
             },
+            "brown_mushroom_block": {
+                "from": [
+                    4,
+                    11
+                ],
+                "to": [
+                    16,
+                    43
+                ]
+            },
             "carrot_bait": {
                 "from": [
                     32,
@@ -2902,7 +2912,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "348956398840840192": {
         "modification_history": {},
