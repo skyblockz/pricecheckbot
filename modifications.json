@@ -2210,6 +2210,16 @@
                     2200000
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    7,
+                    13
+                ],
+                "to": [
+                    12,
+                    19
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     435000000,
@@ -2571,7 +2581,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "348956398840840192": {
         "modification_history": {},
