@@ -2350,6 +2350,16 @@
                     4250000
                 ]
             },
+            "shark_fin": {
+                "from": [
+                    17,
+                    38
+                ],
+                "to": [
+                    200,
+                    300
+                ]
+            },
             "soul_fragment": {
                 "from": [
                     586000,
@@ -2541,7 +2551,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "348956398840840192": {
         "modification_history": {},
