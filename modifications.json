@@ -6253,6 +6253,16 @@
                     2150000
                 ]
             },
+            "machine_gun_bow": {
+                "from": [
+                    5500,
+                    7000
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "magma_bucket": {
                 "from": [
                     1200000,
@@ -6637,7 +6647,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "584353901973733386": {
         "modification_history": {
