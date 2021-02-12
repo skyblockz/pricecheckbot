@@ -6015,6 +6015,16 @@
                     100000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    100000,
+                    500000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "diamonite": {
                 "from": null,
                 "to": [
@@ -6657,7 +6667,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "584353901973733386": {
         "modification_history": {
