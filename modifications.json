@@ -8597,6 +8597,16 @@
                     50000
                 ]
             },
+            "golden_jerry_box": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    3200000,
+                    3400000
+                ]
+            },
             "jerry_3d_glasses": {
                 "from": null,
                 "to": [
@@ -8728,7 +8738,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "622895636013907977": {
         "modification_history": {
