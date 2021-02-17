@@ -3584,6 +3584,13 @@
                     285
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": null,
+                "to": [
+                    1888000,
+                    1888000
+                ]
+            },
             "bait_ring": {
                 "from": [
                     8500000,
@@ -4398,7 +4405,7 @@
                 ]
             }
         },
-        "total_mods": 116
+        "total_mods": 117
     },
     "395295454872469504": {
         "modification_history": {},
