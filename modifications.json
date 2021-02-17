@@ -4214,6 +4214,16 @@
                     270000
                 ]
             },
+            "speedster_chestplate": {
+                "from": [
+                    475000,
+                    500000
+                ],
+                "to": [
+                    425000,
+                    500000
+                ]
+            },
             "speedster_leggings": {
                 "from": [
                     520000,
@@ -4425,7 +4435,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "395295454872469504": {
         "modification_history": {},
