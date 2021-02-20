@@ -4010,6 +4010,16 @@
                     20000000
                 ]
             },
+            "mithril_infused_fuel_tank": {
+                "from": [
+                    20000000,
+                    21000000
+                ],
+                "to": [
+                    27000000,
+                    27000000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": null,
                 "to": [
@@ -4497,7 +4507,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "395295454872469504": {
         "modification_history": {},
