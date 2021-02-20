@@ -3993,6 +3993,16 @@
                     400000
                 ]
             },
+            "mithril-plated_drill_engine": {
+                "from": [
+                    30000000,
+                    32000000
+                ],
+                "to": [
+                    30000000,
+                    35500000
+                ]
+            },
             "mithril_drill_sx-r226": {
                 "from": [
                     5000000,
@@ -4507,7 +4517,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "395295454872469504": {
         "modification_history": {},
