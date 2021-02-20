@@ -4095,6 +4095,16 @@
                     650000
                 ]
             },
+            "runaans_bow": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    490000,
+                    900000
+                ]
+            },
             "scarf_fragment": {
                 "from": null,
                 "to": [
@@ -4460,7 +4470,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "395295454872469504": {
         "modification_history": {},
