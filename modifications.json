@@ -3893,6 +3893,16 @@
                     8000000
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    110000,
+                    115000
+                ],
+                "to": [
+                    199000,
+                    330000
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     50000,
@@ -4470,7 +4480,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "395295454872469504": {
         "modification_history": {},
