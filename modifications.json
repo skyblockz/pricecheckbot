@@ -8753,12 +8753,12 @@
             },
             "diamantes_handle": {
                 "from": [
-                    1600000,
-                    1900000
-                ],
-                "to": [
                     1250000,
                     1400000
+                ],
+                "to": [
+                    800000,
+                    900000
                 ]
             },
             "flower_of_truth": {
@@ -8919,7 +8919,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "622895636013907977": {
         "modification_history": {
