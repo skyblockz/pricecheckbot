@@ -6658,6 +6658,16 @@
                     6500000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    500000,
+                    565000
+                ]
+            },
             "ranchers_boots": {
                 "from": [
                     2000000,
@@ -7060,7 +7070,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "584353901973733386": {
         "modification_history": {
