@@ -6752,6 +6752,16 @@
                     2500000
                 ]
             },
+            "rare_griffin_upgrade_stone": {
+                "from": [
+                    2600000,
+                    3000000
+                ],
+                "to": [
+                    2340000,
+                    2360000
+                ]
+            },
             "razor_sharp_shark_tooth_necklace": {
                 "from": [
                     5000000,
@@ -7154,7 +7164,7 @@
                 ]
             }
         },
-        "total_mods": 115
+        "total_mods": 116
     },
     "584353901973733386": {
         "modification_history": {
