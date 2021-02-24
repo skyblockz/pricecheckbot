@@ -6928,6 +6928,16 @@
                     200000
                 ]
             },
+            "speed_ring": {
+                "from": [
+                    48000,
+                    50000
+                ],
+                "to": [
+                    55000,
+                    57000
+                ]
+            },
             "speedster_helmet": {
                 "from": [
                     300000,
@@ -7238,7 +7248,7 @@
                 ]
             }
         },
-        "total_mods": 125
+        "total_mods": 126
     },
     "584353901973733386": {
         "modification_history": {
