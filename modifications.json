@@ -6439,12 +6439,12 @@
             },
             "glacite_helmet": {
                 "from": [
-                    15000,
-                    20000
-                ],
-                "to": [
                     17000,
                     19500
+                ],
+                "to": [
+                    10000,
+                    17000
                 ]
             },
             "glacite_jewel": {
@@ -7100,7 +7100,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "584353901973733386": {
         "modification_history": {
