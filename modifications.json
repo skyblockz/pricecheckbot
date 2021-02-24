@@ -4562,6 +4562,16 @@
     },
     "451712413486678026": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    300000,
+                    450000
+                ],
+                "to": [
+                    275000,
+                    325000
+                ]
+            },
             "implosion": {
                 "from": [
                     72000000,
@@ -4683,7 +4693,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "465602727368720385": {
         "modification_history": {},
