@@ -5781,6 +5781,16 @@
                     22000000
                 ]
             },
+            "silk_edge_sword": {
+                "from": [
+                    2100000,
+                    2300000
+                ],
+                "to": [
+                    2000000,
+                    23000000
+                ]
+            },
             "sorrow_boost": {
                 "from": null,
                 "to": [
@@ -5894,7 +5904,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "506014845833838593": {
         "modification_history": {
