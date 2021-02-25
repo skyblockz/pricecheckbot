@@ -4811,6 +4811,16 @@
                     30000
                 ]
             },
+            "goblin_boots": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    1750,
+                    4000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     750000,
@@ -4882,7 +4892,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {
