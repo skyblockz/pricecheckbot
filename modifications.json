@@ -4731,6 +4731,16 @@
                     1400000
                 ]
             },
+            "ender_chestplate": {
+                "from": [
+                    45000,
+                    55000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "florid_zombie_sword": {
                 "from": [
                     3500000,
@@ -4812,7 +4822,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {
