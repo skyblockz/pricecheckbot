@@ -4562,6 +4562,13 @@
     },
     "451712413486678026": {
         "modification_history": {
+            "block_zapper": {
+                "from": null,
+                "to": [
+                    1500000,
+                    1700000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     300000,
@@ -4750,7 +4757,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "465602727368720385": {
         "modification_history": {},
