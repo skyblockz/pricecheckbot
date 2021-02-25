@@ -4751,6 +4751,16 @@
                     16000000
                 ]
             },
+            "superior_dragon_helmet": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    5150000,
+                    5700000
+                ]
+            },
             "zombie_sword": {
                 "from": [
                     325000,
@@ -4762,7 +4772,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "466769036122783744": {
         "modification_history": {
