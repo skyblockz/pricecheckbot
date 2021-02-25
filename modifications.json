@@ -4572,6 +4572,13 @@
                     325000
                 ]
             },
+            "colossal_experience_bottle_upgrade": {
+                "from": null,
+                "to": [
+                    350000,
+                    440000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     150000,
@@ -4743,7 +4750,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "465602727368720385": {
         "modification_history": {},
