@@ -4731,6 +4731,16 @@
                     1900000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    750000,
+                    900000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "shadow_fury": {
                 "from": [
                     15000000,
@@ -4742,7 +4752,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "466769036122783744": {
         "modification_history": {
