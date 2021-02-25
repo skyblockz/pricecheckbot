@@ -4741,6 +4741,16 @@
                     90000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    55000,
+                    60000
+                ],
+                "to": [
+                    85000,
+                    90000
+                ]
+            },
             "florid_zombie_sword": {
                 "from": [
                     3500000,
@@ -4822,7 +4832,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {
