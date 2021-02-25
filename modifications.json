@@ -4673,6 +4673,16 @@
                     32000000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1600000,
+                    1750000
+                ],
+                "to": [
+                    1900000,
+                    2100000
+                ]
+            },
             "legendary_beastmaster_crest": {
                 "from": [
                     28000000,
@@ -4871,7 +4881,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "465602727368720385": {
         "modification_history": {},
