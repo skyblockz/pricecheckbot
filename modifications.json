@@ -4579,6 +4579,16 @@
                     6600000
                 ]
             },
+            "bane_of_arthropods_vi": {
+                "from": [
+                    30000,
+                    30000
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "block_zapper": {
                 "from": null,
                 "to": [
@@ -4891,7 +4901,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "465602727368720385": {
         "modification_history": {},
