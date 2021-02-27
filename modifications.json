@@ -13072,6 +13072,16 @@
                     8100000
                 ]
             },
+            "necrons_leggings": {
+                "from": [
+                    21000000,
+                    22000000
+                ],
+                "to": [
+                    16500000,
+                    18000000
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     24300000,
@@ -13123,6 +13133,6 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     }
 }
