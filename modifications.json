@@ -13024,7 +13024,15 @@
         "total_mods": 121
     },
     "796667956980875265": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "bedrock": {
+                "from": null,
+                "to": [
+                    3800000,
+                    4099999
+                ]
+            }
+        },
+        "total_mods": 1
     }
 }
