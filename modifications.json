@@ -5428,6 +5428,16 @@
                     344000000
                 ]
             },
+            "nope_the_fish": {
+                "from": [
+                    50000,
+                    150000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     750000,
@@ -5719,7 +5729,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "466769036122783744": {
         "modification_history": {
