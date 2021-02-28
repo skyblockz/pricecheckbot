@@ -5058,6 +5058,16 @@
                     5000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    570000,
+                    600000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "golden_necrons_head": {
                 "from": [
                     1389000,
@@ -5289,7 +5299,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "466769036122783744": {
         "modification_history": {
