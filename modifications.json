@@ -4928,6 +4928,16 @@
                     200000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    230000,
+                    240000
+                ],
+                "to": [
+                    230000,
+                    300000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     1000,
@@ -5309,7 +5319,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "466769036122783744": {
         "modification_history": {
