@@ -5128,6 +5128,16 @@
                     1900000
                 ]
             },
+            "game_breaker": {
+                "from": [
+                    15000000,
+                    40000000
+                ],
+                "to": [
+                    400000000,
+                    450000000
+                ]
+            },
             "glacite_chestplate": {
                 "from": [
                     23000,
@@ -5589,7 +5599,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "466769036122783744": {
         "modification_history": {
