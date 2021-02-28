@@ -5978,6 +5978,16 @@
                     36400000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    500000,
+                    565000
+                ],
+                "to": [
+                    640000,
+                    680000
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     25500000,
@@ -6029,7 +6039,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "508886846873272322": {
         "modification_history": {
