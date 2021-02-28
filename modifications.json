@@ -4918,6 +4918,16 @@
                     3750000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    130000,
+                    140000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     1000,
@@ -5299,7 +5309,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "466769036122783744": {
         "modification_history": {
