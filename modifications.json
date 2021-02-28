@@ -5278,6 +5278,16 @@
                     2000000
                 ]
             },
+            "lvl_1_epic_turtle": {
+                "from": [
+                    1500000,
+                    1600000
+                ],
+                "to": [
+                    675000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_parrot": {
                 "from": [
                     7000000,
@@ -5559,7 +5569,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "466769036122783744": {
         "modification_history": {
