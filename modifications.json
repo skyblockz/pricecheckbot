@@ -5218,6 +5218,16 @@
                     625000
                 ]
             },
+            "salmon_boots": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    50000
+                ]
+            },
             "salmon_chestplate": {
                 "from": [
                     2500000,
@@ -5419,7 +5429,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "466769036122783744": {
         "modification_history": {
