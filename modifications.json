@@ -5160,12 +5160,12 @@
             },
             "miner_leggings": {
                 "from": [
-                    1200,
-                    1200
-                ],
-                "to": [
                     700000,
                     800000
+                ],
+                "to": [
+                    1200,
+                    1200
                 ]
             },
             "necrons_handle": {
@@ -5379,7 +5379,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "466769036122783744": {
         "modification_history": {
