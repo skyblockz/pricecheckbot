@@ -4602,6 +4602,13 @@
                     440000
                 ]
             },
+            "cultivating_i": {
+                "from": null,
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     150000,
@@ -4880,7 +4887,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "465602727368720385": {
         "modification_history": {},
