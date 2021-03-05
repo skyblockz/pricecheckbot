@@ -1073,12 +1073,12 @@
             },
             "pooch_sword": {
                 "from": [
-                    900000,
-                    1100000
-                ],
-                "to": [
                     2700000,
                     3000000
+                ],
+                "to": [
+                    500000,
+                    800000
                 ]
             },
             "potion_affinity_artifact": {
@@ -1842,7 +1842,7 @@
                 ]
             }
         },
-        "total_mods": 226
+        "total_mods": 227
     },
     "254833610824089601": {
         "modification_history": {},
