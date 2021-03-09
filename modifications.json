@@ -1960,6 +1960,13 @@
                     20000
                 ]
             },
+            "starfall": {
+                "from": null,
+                "to": [
+                    200,
+                    300
+                ]
+            },
             "titanium_pickaxe": {
                 "from": [
                     2500000,
@@ -1981,7 +1988,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "308262271262654464": {
         "modification_history": {},
