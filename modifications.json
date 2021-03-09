@@ -3627,6 +3627,13 @@
                     27000000
                 ]
             },
+            "raffle_ticket": {
+                "from": null,
+                "to": [
+                    0,
+                    0
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     53000000,
@@ -3668,7 +3675,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "376600317493510146": {
         "modification_history": {},
