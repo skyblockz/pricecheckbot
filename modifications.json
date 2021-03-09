@@ -1926,6 +1926,16 @@
                     50000
                 ]
             },
+            "onyx": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    100,
+                    100
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     30000,
@@ -1961,7 +1971,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "308262271262654464": {
         "modification_history": {},
