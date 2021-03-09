@@ -3540,6 +3540,16 @@
                     210000000
                 ]
             },
+            "implosion": {
+                "from": [
+                    28000000,
+                    32000000
+                ],
+                "to": [
+                    28000000,
+                    30000000
+                ]
+            },
             "kismet_feather": {
                 "from": null,
                 "to": [
@@ -3588,7 +3598,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "376600317493510146": {
         "modification_history": {},
