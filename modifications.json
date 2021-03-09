@@ -1896,6 +1896,16 @@
                     1800000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    550000,
+                    600000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     30000,
@@ -1917,7 +1927,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "308262271262654464": {
         "modification_history": {},
