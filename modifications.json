@@ -1896,6 +1896,16 @@
                     1800000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "treasurite": {
                 "from": [
                     200000,
@@ -1907,7 +1917,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "308262271262654464": {
         "modification_history": {},
