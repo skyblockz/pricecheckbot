@@ -1973,6 +1973,16 @@
                     3000000
                 ]
             },
+            "rock_candy": {
+                "from": [
+                    19000,
+                    21000
+                ],
+                "to": [
+                    4000,
+                    10000
+                ]
+            },
             "soul_string": {
                 "from": null,
                 "to": [
@@ -2008,7 +2018,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "308262271262654464": {
         "modification_history": {},
