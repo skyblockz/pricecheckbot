@@ -2107,6 +2107,16 @@
                     300
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "titanium_pickaxe": {
                 "from": [
                     2500000,
@@ -2128,7 +2138,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "308262271262654464": {
         "modification_history": {},
