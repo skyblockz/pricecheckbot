@@ -1996,6 +1996,16 @@
                     40000
                 ]
             },
+            "pure_mithril": {
+                "from": [
+                    1000000,
+                    2000000
+                ],
+                "to": [
+                    1000000,
+                    1200000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     30000,
@@ -2078,7 +2088,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "308262271262654464": {
         "modification_history": {},
