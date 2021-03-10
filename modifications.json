@@ -1886,6 +1886,16 @@
     },
     "299643509114404866": {
         "modification_history": {
+            "beating_heart": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "catalyst": {
                 "from": [
                     100000,
@@ -2028,7 +2038,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "308262271262654464": {
         "modification_history": {},
