@@ -2026,6 +2026,16 @@
                     50000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    120000,
+                    160000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "onyx": {
                 "from": [
                     500,
@@ -2188,7 +2198,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "308262271262654464": {
         "modification_history": {},
