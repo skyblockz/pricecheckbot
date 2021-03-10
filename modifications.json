@@ -6458,6 +6458,16 @@
                     10000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    540000,
+                    600000
+                ],
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "infinityboom_tnt": {
                 "from": null,
                 "to": [
@@ -6617,7 +6627,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "482763025065967626": {
         "modification_history": {},
