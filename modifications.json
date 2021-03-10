@@ -6448,6 +6448,13 @@
                     10000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": null,
+                "to": [
+                    26000000,
+                    29000000
+                ]
+            },
             "last_stand_i": {
                 "from": [
                     140000,
@@ -6563,7 +6570,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "482763025065967626": {
         "modification_history": {},
