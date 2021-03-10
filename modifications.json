@@ -6441,6 +6441,13 @@
                     1200000
                 ]
             },
+            "conjuring": {
+                "from": null,
+                "to": [
+                    40000,
+                    10000
+                ]
+            },
             "last_stand_i": {
                 "from": [
                     140000,
@@ -6539,7 +6546,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "482763025065967626": {
         "modification_history": {},
