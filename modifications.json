@@ -6475,6 +6475,16 @@
                     10000
                 ]
             },
+            "dwarf_turtle_shelmet": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    3000000,
+                    3500000
+                ]
+            },
             "exp_share_core": {
                 "from": [
                     540000,
@@ -6644,7 +6654,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "482763025065967626": {
         "modification_history": {},
