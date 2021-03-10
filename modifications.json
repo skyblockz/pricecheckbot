@@ -2325,10 +2325,13 @@
                 ]
             },
             "epic_zombie_knight_leggings": {
-                "from": null,
-                "to": [
+                "from": [
                     1300000,
                     1400000
+                ],
+                "to": [
+                    7000,
+                    15000
                 ]
             },
             "hyperion": {
@@ -2383,7 +2386,7 @@
                 ]
             }
         },
-        "total_mods": 229
+        "total_mods": 230
     },
     "327186268159082500": {
         "modification_history": {},
