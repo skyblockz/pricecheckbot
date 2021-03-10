@@ -1946,6 +1946,16 @@
                     700000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    50,
+                    200
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "luxurious_spool": {
                 "from": [
                     40000,
@@ -2068,7 +2078,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "308262271262654464": {
         "modification_history": {},
