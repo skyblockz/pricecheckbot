@@ -2096,6 +2096,16 @@
                     30000
                 ]
             },
+            "red_scarf": {
+                "from": [
+                    290000,
+                    350000
+                ],
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "refined_titanium_pickaxe": {
                 "from": null,
                 "to": [
@@ -2208,7 +2218,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "308262271262654464": {
         "modification_history": {},
