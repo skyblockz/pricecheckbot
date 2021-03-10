@@ -6428,6 +6428,16 @@
                     25000
                 ]
             },
+            "auto_recombobulator": {
+                "from": [
+                    19000000,
+                    20000000
+                ],
+                "to": [
+                    11000000,
+                    11500000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     27000,
@@ -6634,7 +6644,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "482763025065967626": {
         "modification_history": {},
