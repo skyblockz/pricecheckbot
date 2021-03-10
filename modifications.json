@@ -6545,6 +6545,16 @@
                     5500000
                 ]
             },
+            "spirit_bow": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    1600000,
+                    2000000
+                ]
+            },
             "zombie_commander_leggings": {
                 "from": null,
                 "to": [
@@ -6553,7 +6563,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "482763025065967626": {
         "modification_history": {},
