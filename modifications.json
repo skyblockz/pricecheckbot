@@ -6532,6 +6532,16 @@
                     62000000
                 ]
             },
+            "melon_minion_xi": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    650000,
+                    750000
+                ]
+            },
             "mineral_helmet": {
                 "from": [
                     1300000,
@@ -6597,7 +6607,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "482763025065967626": {
         "modification_history": {},
