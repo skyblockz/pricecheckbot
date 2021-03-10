@@ -6522,6 +6522,16 @@
                     22000000
                 ]
             },
+            "lvl_1_legendary_phoenix": {
+                "from": [
+                    30000000,
+                    32000000
+                ],
+                "to": [
+                    60000000,
+                    62000000
+                ]
+            },
             "mineral_helmet": {
                 "from": [
                     1300000,
@@ -6587,7 +6597,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "482763025065967626": {
         "modification_history": {},
