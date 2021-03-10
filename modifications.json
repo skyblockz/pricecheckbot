@@ -1976,6 +1976,16 @@
                     100
                 ]
             },
+            "optical_lens": {
+                "from": [
+                    7000,
+                    10000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     30000,
@@ -2048,7 +2058,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "308262271262654464": {
         "modification_history": {},
