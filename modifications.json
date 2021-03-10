@@ -6427,6 +6427,16 @@
                     4000000
                 ]
             },
+            "lvl_1_legendary_black_cat": {
+                "from": [
+                    7000000,
+                    8000000
+                ],
+                "to": [
+                    1650000,
+                    17500000
+                ]
+            },
             "lvl_1_legendary_elephant": {
                 "from": [
                     17000000,
@@ -6488,7 +6498,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "482763025065967626": {
         "modification_history": {},
