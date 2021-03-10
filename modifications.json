@@ -1996,6 +1996,16 @@
                     40000
                 ]
             },
+            "petrified_starfall": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "pure_mithril": {
                 "from": [
                     1000000,
@@ -2098,7 +2108,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "308262271262654464": {
         "modification_history": {},
