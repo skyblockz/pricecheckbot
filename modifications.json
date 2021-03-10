@@ -6599,6 +6599,16 @@
                     2000000
                 ]
             },
+            "thick_tactician_sword": {
+                "from": [
+                    2750000,
+                    3100000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "zombie_commander_leggings": {
                 "from": null,
                 "to": [
@@ -6607,7 +6617,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "482763025065967626": {
         "modification_history": {},
