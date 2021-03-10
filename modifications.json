@@ -2003,6 +2003,16 @@
                     10000
                 ]
             },
+            "salmon_opal": {
+                "from": [
+                    5000,
+                    7500
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "soul_string": {
                 "from": null,
                 "to": [
@@ -2038,7 +2048,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "308262271262654464": {
         "modification_history": {},
