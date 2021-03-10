@@ -6397,6 +6397,16 @@
                     250000
                 ]
             },
+            "last_stand_v": {
+                "from": [
+                    6000000,
+                    6400000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "lvl_1_legendary_enderman": {
                 "from": [
                     17000000,
@@ -6438,7 +6448,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "482763025065967626": {
         "modification_history": {},
