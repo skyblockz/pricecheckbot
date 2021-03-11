@@ -2439,8 +2439,19 @@
         "total_mods": 61
     },
     "308262271262654464": {
-        "modification_history": {},
-        "total_mods": 100
+        "modification_history": {
+            "giants_sword": {
+                "from": [
+                    70000000,
+                    80000000
+                ],
+                "to": [
+                    100000000,
+                    120000000
+                ]
+            }
+        },
+        "total_mods": 101
     },
     "322989795251060737": {
         "modification_history": {
