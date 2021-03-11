@@ -2258,9 +2258,12 @@
                 ]
             },
             "soul_string": {
-                "from": null,
-                "to": [
+                "from": [
                     15000,
+                    20000
+                ],
+                "to": [
+                    5000,
                     20000
                 ]
             },
@@ -2332,7 +2335,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "308262271262654464": {
         "modification_history": {},
