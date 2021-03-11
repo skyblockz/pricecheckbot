@@ -2210,6 +2210,16 @@
                     1200000
                 ]
             },
+            "purple_sheep_skin": {
+                "from": [
+                    8100000,
+                    10000000
+                ],
+                "to": [
+                    200000000,
+                    300000000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     30000,
@@ -2382,7 +2392,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "308262271262654464": {
         "modification_history": {},
