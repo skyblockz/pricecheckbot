@@ -2171,9 +2171,12 @@
                 ]
             },
             "neon_blue_sheep_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     9000000,
+                    120000000
+                ],
+                "to": [
+                    90000000,
                     120000000
                 ]
             },
@@ -2419,7 +2422,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "308262271262654464": {
         "modification_history": {},
