@@ -2090,6 +2090,16 @@
                     500
                 ]
             },
+            "light_blue_sheep_skin": {
+                "from": [
+                    9000000,
+                    9500000
+                ],
+                "to": [
+                    100000000,
+                    200000000
+                ]
+            },
             "light_green_sheep_skin": {
                 "from": [
                     9000000,
@@ -2362,7 +2372,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "308262271262654464": {
         "modification_history": {},
