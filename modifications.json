@@ -6708,6 +6708,16 @@
                     4000000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    5000,
+                    40000
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "lvl_100_epic_elephant": {
                 "from": null,
                 "to": [
@@ -6850,7 +6860,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "482763025065967626": {
         "modification_history": {},
