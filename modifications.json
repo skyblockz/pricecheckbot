@@ -7259,6 +7259,16 @@
                     550000
                 ]
             },
+            "lvl_1_epic_tarantula": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    90000,
+                    110000
+                ]
+            },
             "lvl_1_mythic_bat": {
                 "from": null,
                 "to": [
@@ -7673,7 +7683,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "506014845833838593": {
         "modification_history": {
