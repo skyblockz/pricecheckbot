@@ -7478,6 +7478,16 @@
                     3000000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    17400,
+                    24400
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "rock_candy": {
                 "from": [
                     770,
@@ -7713,7 +7723,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "506014845833838593": {
         "modification_history": {
