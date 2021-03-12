@@ -13164,6 +13164,16 @@
                     1800000
                 ]
             },
+            "lvl_1_legendary_tarantula": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    900000,
+                    1500000
+                ]
+            },
             "mithril": {
                 "from": [
                     120,
@@ -13212,7 +13222,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "664325814531391528": {
         "modification_history": {},
