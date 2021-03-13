@@ -4333,6 +4333,13 @@
                     56000000
                 ]
             },
+            "warden_helmet": {
+                "from": null,
+                "to": [
+                    180000000,
+                    190000000
+                ]
+            },
             "wither_shield": {
                 "from": [
                     25000000,
@@ -4364,7 +4371,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "376600317493510146": {
         "modification_history": {},
