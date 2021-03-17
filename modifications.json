@@ -2485,14 +2485,17 @@
                 ]
             },
             "strong_dragon_set": {
-                "from": null,
-                "to": [
+                "from": [
                     220000,
+                    2300000
+                ],
+                "to": [
+                    2200000,
                     2300000
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "322989795251060737": {
         "modification_history": {
