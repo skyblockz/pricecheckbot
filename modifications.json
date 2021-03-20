@@ -7107,6 +7107,16 @@
                     800000
                 ]
             },
+            "wither_cloak_sword": {
+                "from": [
+                    3500000,
+                    4250000
+                ],
+                "to": [
+                    3850000,
+                    4250000
+                ]
+            },
             "zombie_commander_leggings": {
                 "from": null,
                 "to": [
@@ -7115,7 +7125,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "482763025065967626": {
         "modification_history": {},
