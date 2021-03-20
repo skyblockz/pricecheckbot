@@ -6866,6 +6866,16 @@
                     13600000
                 ]
             },
+            "epic_griffin_upgrade_stone": {
+                "from": [
+                    9900000,
+                    10000000
+                ],
+                "to": [
+                    6250000,
+                    6500000
+                ]
+            },
             "exp_share_core": {
                 "from": [
                     540000,
@@ -7135,7 +7145,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "482763025065967626": {
         "modification_history": {},
