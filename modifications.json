@@ -6819,6 +6819,16 @@
                     10000
                 ]
             },
+            "crystal_chestplate": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     2500000,
@@ -7068,7 +7078,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "482763025065967626": {
         "modification_history": {},
