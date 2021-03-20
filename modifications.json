@@ -6970,6 +6970,16 @@
                     62000000
                 ]
             },
+            "lvl_1_legendary_spirit": {
+                "from": [
+                    4300000,
+                    4500000
+                ],
+                "to": [
+                    2100000,
+                    2500000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     350000,
@@ -7095,7 +7105,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "482763025065967626": {
         "modification_history": {},
