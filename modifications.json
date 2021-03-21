@@ -1897,10 +1897,13 @@
                 ]
             },
             "arachnes_keeper_fragment": {
-                "from": null,
-                "to": [
+                "from": [
                     150000,
                     300000
+                ],
+                "to": [
+                    40000,
+                    50000
                 ]
             },
             "beating_heart": {
@@ -2470,7 +2473,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "308262271262654464": {
         "modification_history": {
