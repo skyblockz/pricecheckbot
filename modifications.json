@@ -2211,6 +2211,16 @@
                     100000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    60000000,
+                    80000000
+                ],
+                "to": [
+                    33000000,
+                    35000000
+                ]
+            },
             "neon_blue_sheep_skin": {
                 "from": [
                     9000000,
@@ -2591,7 +2601,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "308262271262654464": {
         "modification_history": {
