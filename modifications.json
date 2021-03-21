@@ -7799,6 +7799,16 @@
                     70000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    330000000,
+                    335000000
+                ],
+                "to": [
+                    260000000,
+                    280000000
+                ]
+            },
             "neon_blue_sheep_skin": {
                 "from": null,
                 "to": [
@@ -8145,7 +8155,7 @@
                 ]
             }
         },
-        "total_mods": 106
+        "total_mods": 107
     },
     "506014845833838593": {
         "modification_history": {
