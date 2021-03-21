@@ -2427,10 +2427,13 @@
                 ]
             },
             "venoms_touch": {
-                "from": null,
-                "to": [
+                "from": [
                     930000,
                     1000000
+                ],
+                "to": [
+                    800000,
+                    800000
                 ]
             },
             "warped_stone": {
@@ -2464,7 +2467,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "308262271262654464": {
         "modification_history": {
