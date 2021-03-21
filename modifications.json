@@ -3949,8 +3949,19 @@
         "total_mods": 1
     },
     "360017282572877824": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "wither_chestplate": {
+                "from": [
+                    30000000,
+                    40000000
+                ],
+                "to": [
+                    20000000,
+                    23000000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "360187083576442880": {
         "modification_history": {},
