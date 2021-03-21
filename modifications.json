@@ -2365,6 +2365,16 @@
                     20000
                 ]
             },
+            "shard_of_the_shredded": {
+                "from": [
+                    18000000,
+                    19000000
+                ],
+                "to": [
+                    16250000,
+                    16750000
+                ]
+            },
             "soul_string": {
                 "from": [
                     5000,
@@ -2504,7 +2514,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "308262271262654464": {
         "modification_history": {
