@@ -7064,6 +7064,16 @@
                     380000000
                 ]
             },
+            "implosion": {
+                "from": [
+                    28000000,
+                    30000000
+                ],
+                "to": [
+                    15000000,
+                    18000000
+                ]
+            },
             "infinityboom_tnt": {
                 "from": null,
                 "to": [
@@ -7313,7 +7323,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "482763025065967626": {
         "modification_history": {},
