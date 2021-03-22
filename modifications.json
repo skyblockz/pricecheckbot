@@ -9240,6 +9240,16 @@
                     6000000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    125000,
+                    175000
+                ],
+                "to": [
+                    65000,
+                    100000
+                ]
+            },
             "giants_sword": {
                 "from": [
                     100000000,
@@ -9432,7 +9442,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "523019950072266764": {
         "modification_history": {},
