@@ -9314,6 +9314,16 @@
                     7500000
                 ]
             },
+            "spider_boots": {
+                "from": [
+                    220000,
+                    250000
+                ],
+                "to": [
+                    400000,
+                    470000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     700000,
@@ -9345,7 +9355,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "523019950072266764": {
         "modification_history": {},
