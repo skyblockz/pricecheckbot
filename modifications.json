@@ -9411,6 +9411,16 @@
                     33000000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    510000,
+                    540000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     700000,
@@ -9462,7 +9472,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "523019950072266764": {
         "modification_history": {},
