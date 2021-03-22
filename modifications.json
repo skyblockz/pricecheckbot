@@ -9250,6 +9250,16 @@
                     7500000
                 ]
             },
+            "treasure_talisman": {
+                "from": [
+                    289000,
+                    350000
+                ],
+                "to": [
+                    260000,
+                    315000
+                ]
+            },
             "vampire_fang": {
                 "from": [
                     6400000,
@@ -9261,7 +9271,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "523019950072266764": {
         "modification_history": {},
