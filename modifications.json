@@ -9189,8 +9189,19 @@
         "total_mods": 39
     },
     "518285389795164200": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "bat_artifact": {
+                "from": [
+                    649000,
+                    666000
+                ],
+                "to": [
+                    700000,
+                    725000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "523019950072266764": {
         "modification_history": {},
