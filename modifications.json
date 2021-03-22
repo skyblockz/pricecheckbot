@@ -9240,6 +9240,13 @@
                     1900000
                 ]
             },
+            "maxors_chestplate": {
+                "from": null,
+                "to": [
+                    24000000,
+                    33000000
+                ]
+            },
             "music_rune_iii": {
                 "from": null,
                 "to": [
@@ -9375,7 +9382,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "523019950072266764": {
         "modification_history": {},
