@@ -9314,6 +9314,16 @@
                     7500000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     289000,
@@ -9335,7 +9345,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "523019950072266764": {
         "modification_history": {},
