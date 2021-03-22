@@ -7299,6 +7299,16 @@
                     29000000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1900000,
+                    3000000
+                ],
+                "to": [
+                    2000000,
+                    3000000
+                ]
+            },
             "souls_rebound": {
                 "from": null,
                 "to": [
@@ -7384,7 +7394,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "482763025065967626": {
         "modification_history": {},
