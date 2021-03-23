@@ -7386,6 +7386,16 @@
                     800000
                 ]
             },
+            "unstable_dragon_helmet": {
+                "from": [
+                    135000,
+                    148000
+                ],
+                "to": [
+                    190000,
+                    220000
+                ]
+            },
             "wither_cloak_sword": {
                 "from": [
                     3500000,
@@ -7404,7 +7414,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "482763025065967626": {
         "modification_history": {},
