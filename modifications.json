@@ -9320,6 +9320,16 @@
                     1900000
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    155000,
+                    160000
+                ],
+                "to": [
+                    230000,
+                    255000
+                ]
+            },
             "maxors_chestplate": {
                 "from": null,
                 "to": [
@@ -9492,7 +9502,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "523019950072266764": {
         "modification_history": {},
