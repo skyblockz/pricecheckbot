@@ -4008,6 +4008,16 @@
                     900000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     2500000,
@@ -4116,7 +4126,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "360187083576442880": {
         "modification_history": {},
