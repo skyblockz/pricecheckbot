@@ -5796,6 +5796,13 @@
                     1400000
                 ]
             },
+            "death_bow": {
+                "from": null,
+                "to": [
+                    5000000,
+                    5000000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     150000,
@@ -6084,7 +6091,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "465602727368720385": {
         "modification_history": {},
