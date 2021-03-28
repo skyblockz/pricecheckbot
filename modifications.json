@@ -3988,6 +3988,16 @@
                     1400000
                 ]
             },
+            "divers_boots": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    700000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     2500000,
@@ -4096,7 +4106,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "360187083576442880": {
         "modification_history": {},
