@@ -3998,6 +3998,16 @@
                     1500000
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    2900000,
+                    3500000
+                ],
+                "to": [
+                    1400000,
+                    1800000
+                ]
+            },
             "sponge_boots": {
                 "from": null,
                 "to": [
@@ -4066,7 +4076,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "360187083576442880": {
         "modification_history": {},
