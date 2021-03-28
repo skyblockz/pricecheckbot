@@ -3988,6 +3988,16 @@
                     1400000
                 ]
             },
+            "shark_scale_boots": {
+                "from": [
+                    2500000,
+                    2700000
+                ],
+                "to": [
+                    1200000,
+                    1500000
+                ]
+            },
             "sponge_boots": {
                 "from": null,
                 "to": [
@@ -4056,7 +4066,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "360187083576442880": {
         "modification_history": {},
