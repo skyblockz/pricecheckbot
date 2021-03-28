@@ -4008,6 +4008,16 @@
                     1800000
                 ]
             },
+            "shark_scale_leggings": {
+                "from": [
+                    3800000,
+                    5000000
+                ],
+                "to": [
+                    1750000,
+                    2000000
+                ]
+            },
             "sponge_boots": {
                 "from": null,
                 "to": [
@@ -4076,7 +4086,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "360187083576442880": {
         "modification_history": {},
