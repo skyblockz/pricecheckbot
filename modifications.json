@@ -6097,6 +6097,16 @@
                     30000000
                 ]
             },
+            "shard_of_the_shredded": {
+                "from": [
+                    16250000,
+                    16750000
+                ],
+                "to": [
+                    18000000,
+                    19000000
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     1500000,
@@ -6228,7 +6238,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "465602727368720385": {
         "modification_history": {},
