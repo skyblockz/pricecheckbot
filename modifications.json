@@ -7431,6 +7431,16 @@
                     350000
                 ]
             },
+            "music_rune_i": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    2200000,
+                    2300000
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": [
                     13000000,
@@ -7616,7 +7626,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "482763025065967626": {
         "modification_history": {},
