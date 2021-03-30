@@ -4088,6 +4088,16 @@
                     30000000
                 ]
             },
+            "no_pain_no_gain_i": {
+                "from": [
+                    10000,
+                    13000
+                ],
+                "to": [
+                    5000,
+                    15000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     2500000,
@@ -4216,7 +4226,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "360187083576442880": {
         "modification_history": {},
