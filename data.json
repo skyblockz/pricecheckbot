@@ -6745,12 +6745,6 @@
     },
     {
         "ac": true,
-        "hi": 13000,
-        "low": 10000,
-        "name": "no_pain_no_gain_1"
-    },
-    {
-        "ac": true,
         "hi": 150000,
         "low": 50000,
         "name": "legendary_zombie_soldier_helmet"
@@ -10528,5 +10522,11 @@
         "hi": 380000,
         "low": 340000,
         "name": "large_enchanted_husbandry_sack"
+    },
+    {
+        "ac": true,
+        "hi": 13000,
+        "low": 10000,
+        "name": "no_pain_no_gain_i"
     }
 ]
