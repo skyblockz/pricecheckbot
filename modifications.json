@@ -10197,6 +10197,16 @@
                     700000
                 ]
             },
+            "treasure_ring": {
+                "from": [
+                    4000000,
+                    4400000
+                ],
+                "to": [
+                    2500000,
+                    3000000
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     289000,
@@ -10328,7 +10338,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "523019950072266764": {
         "modification_history": {},
