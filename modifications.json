@@ -10016,6 +10016,16 @@
                     8000000
                 ]
             },
+            "lvl_100_legendary_jellyfish": {
+                "from": [
+                    9000000,
+                    9500000
+                ],
+                "to": [
+                    16000000,
+                    20000000
+                ]
+            },
             "lvl_100_legendary_parrot": {
                 "from": [
                     13500000,
@@ -10528,7 +10538,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "523019950072266764": {
         "modification_history": {},
