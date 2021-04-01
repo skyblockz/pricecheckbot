@@ -10113,6 +10113,16 @@
                     35000000
                 ]
             },
+            "lvl_100_legendary_snowman": {
+                "from": [
+                    45000000,
+                    48000000
+                ],
+                "to": [
+                    42500000,
+                    60000000
+                ]
+            },
             "lvl_100_legendary_spirit": {
                 "from": [
                     66000000,
@@ -10755,7 +10765,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "523019950072266764": {
         "modification_history": {},
