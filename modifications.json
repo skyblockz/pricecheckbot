@@ -10006,6 +10006,16 @@
                     8000000
                 ]
             },
+            "lvl_100_legendary_parrot": {
+                "from": [
+                    13500000,
+                    15000000
+                ],
+                "to": [
+                    25000000,
+                    35000000
+                ]
+            },
             "lvl_100_legendary_spirit": {
                 "from": [
                     66000000,
@@ -10508,7 +10518,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "523019950072266764": {
         "modification_history": {},
