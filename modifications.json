@@ -7602,6 +7602,16 @@
                     2500000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    1550000,
+                    1600000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     350000,
@@ -7817,7 +7827,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "482763025065967626": {
         "modification_history": {},
