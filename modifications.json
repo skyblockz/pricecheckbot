@@ -7542,6 +7542,16 @@
                     52000000
                 ]
             },
+            "lvl_1_epic_rabbit": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "lvl_1_legendary_black_cat": {
                 "from": [
                     1650000,
@@ -7857,7 +7867,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "482763025065967626": {
         "modification_history": {},
