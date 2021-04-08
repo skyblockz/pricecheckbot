@@ -7034,6 +7034,16 @@
                     1650000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    85000,
+                    100000
+                ]
+            },
             "ice_essence": {
                 "from": [
                     8000,
@@ -7859,7 +7869,7 @@
                 ]
             }
         },
-        "total_mods": 169
+        "total_mods": 170
     },
     "466769036122783744": {
         "modification_history": {
