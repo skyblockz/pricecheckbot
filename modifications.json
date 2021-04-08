@@ -6787,6 +6787,13 @@
                     16000000
                 ]
             },
+            "ferocity_enrichment": {
+                "from": null,
+                "to": [
+                    1500000,
+                    1750000
+                ]
+            },
             "flake_the_fish": {
                 "from": [
                     100000,
@@ -7702,7 +7709,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "466769036122783744": {
         "modification_history": {
