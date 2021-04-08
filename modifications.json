@@ -6457,6 +6457,16 @@
                     190000
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    1888000,
+                    1888000
+                ],
+                "to": [
+                    1500000,
+                    1750000
+                ]
+            },
             "barry_century_cake": {
                 "from": [
                     590000,
@@ -7789,7 +7799,7 @@
                 ]
             }
         },
-        "total_mods": 158
+        "total_mods": 159
     },
     "466769036122783744": {
         "modification_history": {
