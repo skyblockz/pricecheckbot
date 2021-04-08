@@ -6717,6 +6717,13 @@
                     7000000
                 ]
             },
+            "decoy": {
+                "from": null,
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "deep_sea_orb": {
                 "from": [
                     5350000,
@@ -8090,7 +8097,7 @@
                 ]
             }
         },
-        "total_mods": 193
+        "total_mods": 194
     },
     "466769036122783744": {
         "modification_history": {
