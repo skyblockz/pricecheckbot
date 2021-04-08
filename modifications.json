@@ -6607,6 +6607,16 @@
                     2500000
                 ]
             },
+            "critical_damage_enrichment": {
+                "from": [
+                    994444,
+                    1000000
+                ],
+                "to": [
+                    1550000,
+                    1600000
+                ]
+            },
             "crystal_boots": {
                 "from": [
                     130000,
@@ -7739,7 +7749,7 @@
                 ]
             }
         },
-        "total_mods": 153
+        "total_mods": 154
     },
     "466769036122783744": {
         "modification_history": {
