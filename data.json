@@ -7183,12 +7183,6 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 90000,
-        "name": "epic_super_cleaver"
-    },
-    {
-        "ac": true,
         "hi": 40000,
         "low": 40000,
         "name": "epic_rotten_chestplate"
@@ -10564,5 +10558,11 @@
         "hi": 1750000,
         "low": 1500000,
         "name": "ferocity_enrichment"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 90000,
+        "name": "super_cleaver"
     }
 ]
