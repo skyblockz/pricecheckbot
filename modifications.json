@@ -7311,6 +7311,16 @@
                     150000
                 ]
             },
+            "mender_fedora": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    900000,
+                    1250000
+                ]
+            },
             "metal_chestplate": {
                 "from": [
                     500000,
@@ -7966,7 +7976,7 @@
                 ]
             }
         },
-        "total_mods": 180
+        "total_mods": 181
     },
     "466769036122783744": {
         "modification_history": {
