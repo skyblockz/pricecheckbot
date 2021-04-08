@@ -7379,12 +7379,12 @@
             },
             "werewolf_helmet": {
                 "from": [
-                    550000,
-                    700000
-                ],
-                "to": [
                     1000000,
                     1300000
+                ],
+                "to": [
+                    1500000,
+                    1750000
                 ]
             },
             "werewolf_leggings": {
@@ -7478,7 +7478,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "466769036122783744": {
         "modification_history": {
