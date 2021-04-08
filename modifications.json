@@ -6579,12 +6579,12 @@
             },
             "builders_wand": {
                 "from": [
-                    3500000,
-                    3750000
-                ],
-                "to": [
                     3700000,
                     3700000
+                ],
+                "to": [
+                    3800000,
+                    4000000
                 ]
             },
             "century_cake_of_the_next_dungeon_floor": {
@@ -7799,7 +7799,7 @@
                 ]
             }
         },
-        "total_mods": 160
+        "total_mods": 161
     },
     "466769036122783744": {
         "modification_history": {
