@@ -7427,6 +7427,16 @@
                     40000000
                 ]
             },
+            "wither_cloak_sword": {
+                "from": [
+                    3850000,
+                    4250000
+                ],
+                "to": [
+                    1900000,
+                    2250000
+                ]
+            },
             "wither_helmet": {
                 "from": [
                     3000000,
@@ -7468,7 +7478,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "466769036122783744": {
         "modification_history": {
