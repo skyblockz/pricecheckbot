@@ -7064,6 +7064,16 @@
                     250000
                 ]
             },
+            "jumbo_backpack_upgrade": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    1120000,
+                    1500000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     150000,
@@ -7829,7 +7839,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "466769036122783744": {
         "modification_history": {
