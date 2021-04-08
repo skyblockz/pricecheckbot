@@ -6847,6 +6847,16 @@
                     16000000
                 ]
             },
+            "expertise_i": {
+                "from": [
+                    950000,
+                    1200000
+                ],
+                "to": [
+                    1400000,
+                    1400000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": null,
                 "to": [
@@ -7879,7 +7889,7 @@
                 ]
             }
         },
-        "total_mods": 171
+        "total_mods": 172
     },
     "466769036122783744": {
         "modification_history": {
