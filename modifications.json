@@ -6984,6 +6984,16 @@
                     5000
                 ]
             },
+            "intelligence_enrichment": {
+                "from": [
+                    2200000,
+                    2300000
+                ],
+                "to": [
+                    1600000,
+                    1600000
+                ]
+            },
             "jerry_candy": {
                 "from": [
                     39000,
@@ -7729,7 +7739,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "466769036122783744": {
         "modification_history": {
