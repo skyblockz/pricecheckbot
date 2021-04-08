@@ -6667,6 +6667,16 @@
                     5500000
                 ]
             },
+            "defense_enrichment": {
+                "from": [
+                    988000,
+                    1200000
+                ],
+                "to": [
+                    0,
+                    0
+                ]
+            },
             "diamond_necron_head": {
                 "from": [
                     90000000,
@@ -7759,7 +7769,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "466769036122783744": {
         "modification_history": {
