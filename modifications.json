@@ -7134,6 +7134,16 @@
                     900000
                 ]
             },
+            "magic_find_enrichment": {
+                "from": [
+                    999000,
+                    1300000
+                ],
+                "to": [
+                    1550000,
+                    1700000
+                ]
+            },
             "mastiff_boots": {
                 "from": [
                     700000,
@@ -7779,7 +7789,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "466769036122783744": {
         "modification_history": {
