@@ -7034,6 +7034,16 @@
                     1650000
                 ]
             },
+            "heat_core": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    770000,
+                    900000
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     50000,
@@ -7869,7 +7879,7 @@
                 ]
             }
         },
-        "total_mods": 170
+        "total_mods": 171
     },
     "466769036122783744": {
         "modification_history": {
