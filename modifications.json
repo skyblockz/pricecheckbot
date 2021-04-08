@@ -6617,6 +6617,16 @@
                     130000000
                 ]
             },
+            "colossal_experience_bottle_upgrade": {
+                "from": [
+                    350000,
+                    440000
+                ],
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "crab_colored_century_cake": {
                 "from": [
                     690000,
@@ -7839,7 +7849,7 @@
                 ]
             }
         },
-        "total_mods": 167
+        "total_mods": 168
     },
     "466769036122783744": {
         "modification_history": {
