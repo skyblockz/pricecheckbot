@@ -7534,6 +7534,16 @@
                     2000000
                 ]
             },
+            "strength_enrichment": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     8750000,
@@ -7749,7 +7759,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "466769036122783744": {
         "modification_history": {
