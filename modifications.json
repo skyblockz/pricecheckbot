@@ -8532,6 +8532,16 @@
                     2200000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "reaper_mask": {
                 "from": [
                     4000000,
@@ -8717,7 +8727,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "482763025065967626": {
         "modification_history": {},
