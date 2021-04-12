@@ -8315,6 +8315,13 @@
                     300000
                 ]
             },
+            "fire_protection_vii": {
+                "from": null,
+                "to": [
+                    6500000,
+                    7500000
+                ]
+            },
             "growth_vii": {
                 "from": [
                     57000000,
@@ -8805,7 +8812,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "482763025065967626": {
         "modification_history": {},
