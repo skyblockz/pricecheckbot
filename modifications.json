@@ -8291,6 +8291,16 @@
                     1300000
                 ]
             },
+            "farmers_boots": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "feather_falling_vi": {
                 "from": [
                     16000,
@@ -8812,7 +8822,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "482763025065967626": {
         "modification_history": {},
