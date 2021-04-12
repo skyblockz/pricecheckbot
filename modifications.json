@@ -8241,6 +8241,16 @@
                     10000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    160000,
+                    180000
+                ]
+            },
             "crystal_chestplate": {
                 "from": [
                     350000,
@@ -8832,7 +8842,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "482763025065967626": {
         "modification_history": {},
