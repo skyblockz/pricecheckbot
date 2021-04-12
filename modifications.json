@@ -8532,6 +8532,16 @@
                     14000000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    35000,
+                    50000
+                ]
+            },
             "necrons_helmet": {
                 "from": [
                     18000000,
@@ -8767,7 +8777,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "482763025065967626": {
         "modification_history": {},
