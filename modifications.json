@@ -8482,6 +8482,16 @@
                     2500000
                 ]
             },
+            "mastiff_chestplate": {
+                "from": [
+                    750000,
+                    800000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     350000,
@@ -8747,7 +8757,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "482763025065967626": {
         "modification_history": {},
