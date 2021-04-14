@@ -2713,6 +2713,16 @@
                     120000000
                 ]
             },
+            "mathematical_hoe_blueprint": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "netherwart_pouch": {
                 "from": [
                     900000,
@@ -2744,7 +2754,7 @@
                 ]
             }
         },
-        "total_mods": 108
+        "total_mods": 109
     },
     "322989795251060737": {
         "modification_history": {
