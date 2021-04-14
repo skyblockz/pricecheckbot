@@ -4012,6 +4012,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "catalyst": {
+                "from": [
+                    135000,
+                    140000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "cobblestone_minion_i": {
                 "from": null,
                 "to": [
@@ -4294,7 +4304,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "360187083576442880": {
         "modification_history": {},
