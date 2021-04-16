@@ -8413,6 +8413,16 @@
                     3500000
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    46000,
+                    52800
+                ],
+                "to": [
+                    125000,
+                    145000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     12500000,
@@ -8984,7 +8994,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "482763025065967626": {
         "modification_history": {},
