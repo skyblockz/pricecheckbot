@@ -8504,6 +8504,13 @@
                     65000000
                 ]
             },
+            "harvesting_vi": {
+                "from": null,
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
             "hyperion": {
                 "from": [
                     387000000,
@@ -8994,7 +9001,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "482763025065967626": {
         "modification_history": {},
