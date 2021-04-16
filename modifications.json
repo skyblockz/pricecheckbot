@@ -8423,6 +8423,16 @@
                     145000
                 ]
             },
+            "enchanted_pork": {
+                "from": [
+                    1200,
+                    1500
+                ],
+                "to": [
+                    4500,
+                    6500
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     12500000,
@@ -9001,7 +9011,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "482763025065967626": {
         "modification_history": {},
