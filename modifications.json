@@ -7444,6 +7444,13 @@
                     900000
                 ]
             },
+            "lvl_1_rat": {
+                "from": null,
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "magic_find_enrichment": {
                 "from": [
                     999000,
@@ -8317,7 +8324,7 @@
                 ]
             }
         },
-        "total_mods": 207
+        "total_mods": 208
     },
     "466769036122783744": {
         "modification_history": {
