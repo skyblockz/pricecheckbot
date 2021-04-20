@@ -8651,6 +8651,16 @@
                     39000000
                 ]
             },
+            "lvl_100_legendary_guardian": {
+                "from": [
+                    19000000,
+                    21000000
+                ],
+                "to": [
+                    5500000,
+                    6000000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     104000000,
@@ -9074,7 +9084,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "482763025065967626": {
         "modification_history": {},
