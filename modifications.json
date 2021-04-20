@@ -8721,6 +8721,16 @@
                     22000000
                 ]
             },
+            "lvl_1_legendary_guardian": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    4500000,
+                    5500000
+                ]
+            },
             "lvl_1_legendary_phoenix": {
                 "from": [
                     30000000,
@@ -9084,7 +9094,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "482763025065967626": {
         "modification_history": {},
