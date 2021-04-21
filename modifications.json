@@ -12237,8 +12237,16 @@
         "total_mods": 1
     },
     "540685105513889793": {
-        "modification_history": {},
-        "total_mods": 10099
+        "modification_history": {
+            "test": {
+                "from": null,
+                "to": [
+                    1,
+                    2
+                ]
+            }
+        },
+        "total_mods": 10100
     },
     "542138722582265887": {
         "modification_history": {
