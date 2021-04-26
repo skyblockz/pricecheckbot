@@ -9833,6 +9833,13 @@
                     450000000
                 ]
             },
+            "projectile_protection_vii": {
+                "from": null,
+                "to": [
+                    2500000,
+                    4000000
+                ]
+            },
             "prosecute_v": {
                 "from": null,
                 "to": [
@@ -10131,7 +10138,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "482763025065967626": {
         "modification_history": {},
