@@ -7589,6 +7589,16 @@
                     150000
                 ]
             },
+            "maxors_chestplate": {
+                "from": [
+                    30000000,
+                    30750000
+                ],
+                "to": [
+                    28000000,
+                    29000000
+                ]
+            },
             "mender_fedora": {
                 "from": [
                     600000,
@@ -8447,7 +8457,7 @@
                 ]
             }
         },
-        "total_mods": 222
+        "total_mods": 223
     },
     "466769036122783744": {
         "modification_history": {
