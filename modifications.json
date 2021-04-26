@@ -9754,6 +9754,16 @@
                     7500000
                 ]
             },
+            "reaper_orb": {
+                "from": [
+                    36000000,
+                    37000000
+                ],
+                "to": [
+                    24000000,
+                    26000000
+                ]
+            },
             "red_elf_jerry_skin": {
                 "from": null,
                 "to": [
@@ -9991,7 +10001,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "482763025065967626": {
         "modification_history": {},
