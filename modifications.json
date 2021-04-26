@@ -4135,6 +4135,13 @@
                     51000000
                 ]
             },
+            "blast_protection_vii": {
+                "from": null,
+                "to": [
+                    20000000,
+                    28000000
+                ]
+            },
             "catalyst": {
                 "from": [
                     150000,
@@ -4605,7 +4612,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "360187083576442880": {
         "modification_history": {},
