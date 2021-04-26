@@ -4325,6 +4325,16 @@
                     29000000
                 ]
             },
+            "rejuvenate_i": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     2500000,
@@ -4615,7 +4625,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "360187083576442880": {
         "modification_history": {},
