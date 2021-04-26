@@ -9396,6 +9396,16 @@
                     95000000
                 ]
             },
+            "gold_essence": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    3500,
+                    5000
+                ]
+            },
             "goldor_the_fish": {
                 "from": [
                     200000,
@@ -10111,7 +10121,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "482763025065967626": {
         "modification_history": {},
