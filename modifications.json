@@ -4236,6 +4236,16 @@
                     1300000
                 ]
             },
+            "dwarf_turtle_shelmet": {
+                "from": [
+                    5000000,
+                    6000000
+                ],
+                "to": [
+                    5750000,
+                    6500000
+                ]
+            },
             "embarrassed_rock_skin": {
                 "from": null,
                 "to": [
@@ -4645,7 +4655,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "360187083576442880": {
         "modification_history": {},
