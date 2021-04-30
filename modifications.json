@@ -4199,6 +4199,16 @@
                     100000
                 ]
             },
+            "daedalus_stick": {
+                "from": [
+                    8500000,
+                    9500000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
             "derpy_rock_skin": {
                 "from": null,
                 "to": [
@@ -4675,7 +4685,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "360187083576442880": {
         "modification_history": {},
