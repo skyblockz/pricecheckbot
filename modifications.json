@@ -10193,6 +10193,16 @@
                     90000
                 ]
             },
+            "storms_chestplate": {
+                "from": [
+                    30000000,
+                    31000000
+                ],
+                "to": [
+                    28000000,
+                    31000000
+                ]
+            },
             "thick_tactician_sword": {
                 "from": [
                     2750000,
@@ -10255,7 +10265,7 @@
                 ]
             }
         },
-        "total_mods": 124
+        "total_mods": 125
     },
     "482763025065967626": {
         "modification_history": {},
