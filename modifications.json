@@ -9536,6 +9536,16 @@
                     250000
                 ]
             },
+            "golem_armor_boots": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    65000,
+                    75000
+                ]
+            },
             "green_elf_jerry_skin": {
                 "from": null,
                 "to": [
@@ -10298,7 +10308,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "482763025065967626": {
         "modification_history": {},
