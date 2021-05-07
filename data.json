@@ -6805,12 +6805,6 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 60000,
-        "name": "epic_silent_death"
-    },
-    {
-        "ac": true,
         "hi": 1,
         "low": 1,
         "name": "battle_disc"
@@ -11182,5 +11176,11 @@
         "hi": 12500000,
         "low": 11000000,
         "name": "lvl_100_epic_griffin"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 60000,
+        "name": "silent_death"
     }
 ]
