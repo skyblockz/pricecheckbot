@@ -8168,6 +8168,16 @@
                     7000000
                 ]
             },
+            "lvl_1_legendary_pig": {
+                "from": [
+                    750000,
+                    800000
+                ],
+                "to": [
+                    750000,
+                    1250000
+                ]
+            },
             "lvl_1_legendary_spirit": {
                 "from": [
                     2100000,
@@ -9409,7 +9419,7 @@
                 ]
             }
         },
-        "total_mods": 301
+        "total_mods": 302
     },
     "466769036122783744": {
         "modification_history": {
