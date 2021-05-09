@@ -8108,6 +8108,16 @@
                     7000000
                 ]
             },
+            "lvl_1_legendary_spirit": {
+                "from": [
+                    2100000,
+                    2500000
+                ],
+                "to": [
+                    5000000,
+                    5500000
+                ]
+            },
             "lvl_1_legendary_turtle": {
                 "from": [
                     8000000,
@@ -9339,7 +9349,7 @@
                 ]
             }
         },
-        "total_mods": 291
+        "total_mods": 292
     },
     "466769036122783744": {
         "modification_history": {
