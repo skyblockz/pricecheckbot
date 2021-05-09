@@ -7982,6 +7982,16 @@
                     5000
                 ]
             },
+            "implosion": {
+                "from": [
+                    18500000,
+                    22000000
+                ],
+                "to": [
+                    19000000,
+                    20500000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     2200000,
@@ -9545,7 +9555,7 @@
                 ]
             }
         },
-        "total_mods": 325
+        "total_mods": 326
     },
     "466769036122783744": {
         "modification_history": {
