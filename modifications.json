@@ -8104,6 +8104,16 @@
                     30000000
                 ]
             },
+            "lvl_100_legendary_pigman": {
+                "from": [
+                    40000000,
+                    50000000
+                ],
+                "to": [
+                    28000000,
+                    35000000
+                ]
+            },
             "lvl_100_legendary_spirit": {
                 "from": [
                     42500000,
@@ -9449,7 +9459,7 @@
                 ]
             }
         },
-        "total_mods": 305
+        "total_mods": 306
     },
     "466769036122783744": {
         "modification_history": {
