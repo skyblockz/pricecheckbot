@@ -8368,10 +8368,13 @@
                 ]
             },
             "mauve_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     4800000,
                     5250000
+                ],
+                "to": [
+                    4500000,
+                    4750000
                 ]
             },
             "maxor_the_fish": {
@@ -9509,7 +9512,7 @@
                 ]
             }
         },
-        "total_mods": 313
+        "total_mods": 314
     },
     "466769036122783744": {
         "modification_history": {
