@@ -9260,10 +9260,13 @@
                 ]
             },
             "staff_of_the_rising_sun": {
-                "from": null,
-                "to": [
+                "from": [
                     360000,
                     500000
+                ],
+                "to": [
+                    80000,
+                    100000
                 ]
             },
             "stone_chestplate": {
@@ -9672,7 +9675,7 @@
                 ]
             }
         },
-        "total_mods": 338
+        "total_mods": 339
     },
     "466769036122783744": {
         "modification_history": {
