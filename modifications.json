@@ -7245,10 +7245,13 @@
                 ]
             },
             "crimson_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     3500000,
                     4500000
+                ],
+                "to": [
+                    4600000,
+                    5000000
                 ]
             },
             "critical_damage_enrichment": {
@@ -9512,7 +9515,7 @@
                 ]
             }
         },
-        "total_mods": 314
+        "total_mods": 315
     },
     "466769036122783744": {
         "modification_history": {
