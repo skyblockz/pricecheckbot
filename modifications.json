@@ -7131,10 +7131,13 @@
                 ]
             },
             "blood_god_crest": {
-                "from": null,
-                "to": [
+                "from": [
                     800000,
                     1250000
+                ],
+                "to": [
+                    1500000,
+                    1750000
                 ]
             },
             "blue_egged_skin": {
@@ -9379,7 +9382,7 @@
                 ]
             }
         },
-        "total_mods": 296
+        "total_mods": 297
     },
     "466769036122783744": {
         "modification_history": {
