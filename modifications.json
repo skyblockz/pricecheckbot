@@ -7087,6 +7087,16 @@
                     200000
                 ]
             },
+            "bat_person_ring": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    4200000,
+                    4500000
+                ]
+            },
             "bat_person_talisman": {
                 "from": [
                     360000,
@@ -9924,7 +9934,7 @@
                 ]
             }
         },
-        "total_mods": 368
+        "total_mods": 369
     },
     "466769036122783744": {
         "modification_history": {
