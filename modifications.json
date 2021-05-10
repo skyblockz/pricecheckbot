@@ -9948,12 +9948,12 @@
             },
             "zombie_artifact": {
                 "from": [
-                    2150000,
-                    2200000
-                ],
-                "to": [
                     3400000,
                     3400000
+                ],
+                "to": [
+                    3100000,
+                    3500000
                 ]
             },
             "zombie_skeleton_horse_skin": {
@@ -9974,7 +9974,7 @@
                 ]
             }
         },
-        "total_mods": 379
+        "total_mods": 380
     },
     "466769036122783744": {
         "modification_history": {
