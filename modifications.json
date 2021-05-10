@@ -8419,6 +8419,16 @@
                     800000
                 ]
             },
+            "lvl_1_legendary_bat": {
+                "from": [
+                    750000,
+                    750000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "lvl_1_legendary_lion": {
                 "from": [
                     13500000,
@@ -9797,7 +9807,7 @@
                 ]
             }
         },
-        "total_mods": 354
+        "total_mods": 355
     },
     "466769036122783744": {
         "modification_history": {
