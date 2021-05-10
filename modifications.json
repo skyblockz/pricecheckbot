@@ -10244,6 +10244,16 @@
                     500000
                 ]
             },
+            "beacon_iii": {
+                "from": [
+                    6800000,
+                    7500000
+                ],
+                "to": [
+                    6400000,
+                    7000000
+                ]
+            },
             "black_sheep_skin": {
                 "from": null,
                 "to": [
@@ -11488,7 +11498,7 @@
                 ]
             }
         },
-        "total_mods": 167
+        "total_mods": 168
     },
     "482763025065967626": {
         "modification_history": {},
