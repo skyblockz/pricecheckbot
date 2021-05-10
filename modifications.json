@@ -10962,6 +10962,16 @@
                     2000000
                 ]
             },
+            "lvl_1_rat": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    640000,
+                    800000
+                ]
+            },
             "lvl_1_uncommon_griffin": {
                 "from": null,
                 "to": [
@@ -11565,7 +11575,7 @@
                 ]
             }
         },
-        "total_mods": 176
+        "total_mods": 177
     },
     "482763025065967626": {
         "modification_history": {},
