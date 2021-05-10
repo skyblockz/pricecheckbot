@@ -11500,6 +11500,16 @@
                     4250000
                 ]
             },
+            "wither_shield": {
+                "from": [
+                    16500000,
+                    16500000
+                ],
+                "to": [
+                    18900000,
+                    20000000
+                ]
+            },
             "zombie_commander_leggings": {
                 "from": null,
                 "to": [
@@ -11508,7 +11518,7 @@
                 ]
             }
         },
-        "total_mods": 169
+        "total_mods": 170
     },
     "482763025065967626": {
         "modification_history": {},
