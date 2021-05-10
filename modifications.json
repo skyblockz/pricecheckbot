@@ -7043,6 +7043,13 @@
                     5000000
                 ]
             },
+            "bag_of_cash": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
             "bait_ring": {
                 "from": [
                     11300000,
@@ -9770,7 +9777,7 @@
                 ]
             }
         },
-        "total_mods": 351
+        "total_mods": 352
     },
     "466769036122783744": {
         "modification_history": {
