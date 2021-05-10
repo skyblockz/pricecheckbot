@@ -9165,6 +9165,16 @@
                     675000
                 ]
             },
+            "protection_vi": {
+                "from": [
+                    3000000,
+                    5000000
+                ],
+                "to": [
+                    2450000,
+                    2500000
+                ]
+            },
             "purple_crab_hat_of_celebration": {
                 "from": [
                     9000000,
@@ -10161,7 +10171,7 @@
                 ]
             }
         },
-        "total_mods": 400
+        "total_mods": 401
     },
     "466769036122783744": {
         "modification_history": {
