@@ -9222,10 +9222,13 @@
                 ]
             },
             "neon_red_ender_dragon_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     7000000,
                     7750000
+                ],
+                "to": [
+                    11000000,
+                    12500000
                 ]
             },
             "nope_the_fish": {
@@ -10468,7 +10471,7 @@
                 ]
             }
         },
-        "total_mods": 433
+        "total_mods": 434
     },
     "466769036122783744": {
         "modification_history": {
