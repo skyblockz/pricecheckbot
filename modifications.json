@@ -4394,6 +4394,16 @@
                     130000000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    150000,
+                    170000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "puffer_fish_skin": {
                 "from": null,
                 "to": [
@@ -4744,7 +4754,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "360187083576442880": {
         "modification_history": {},
