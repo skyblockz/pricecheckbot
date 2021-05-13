@@ -9513,10 +9513,13 @@
                 ]
             },
             "red_elephant_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     14000000,
                     16000000
+                ],
+                "to": [
+                    11490000,
+                    12500000
                 ]
             },
             "revived_heart": {
@@ -10340,7 +10343,7 @@
                 ]
             }
         },
-        "total_mods": 416
+        "total_mods": 417
     },
     "466769036122783744": {
         "modification_history": {
