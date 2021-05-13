@@ -7022,10 +7022,13 @@
                 ]
             },
             "admiral_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     4000000,
                     4500000
+                ],
+                "to": [
+                    4300000,
+                    4750000
                 ]
             },
             "ancient_rose": {
@@ -10471,7 +10474,7 @@
                 ]
             }
         },
-        "total_mods": 436
+        "total_mods": 437
     },
     "466769036122783744": {
         "modification_history": {
