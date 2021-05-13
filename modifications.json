@@ -9043,10 +9043,13 @@
                 ]
             },
             "monochrome_elephant_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     4750000,
                     5250000
+                ],
+                "to": [
+                    5700000,
+                    6500000
                 ]
             },
             "mosquito_bow": {
@@ -10314,7 +10317,7 @@
                 ]
             }
         },
-        "total_mods": 408
+        "total_mods": 409
     },
     "466769036122783744": {
         "modification_history": {
