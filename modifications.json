@@ -7059,10 +7059,13 @@
                 ]
             },
             "aquamarine_rabbit_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     4500000,
                     5000000
+                ],
+                "to": [
+                    5700000,
+                    6000000
                 ]
             },
             "art_of_war": {
@@ -10446,7 +10449,7 @@
                 ]
             }
         },
-        "total_mods": 428
+        "total_mods": 429
     },
     "466769036122783744": {
         "modification_history": {
