@@ -4598,10 +4598,13 @@
                 ]
             },
             "watcher_guardian_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     85000000,
                     95000000
+                ],
+                "to": [
+                    87000000,
+                    96000000
                 ]
             },
             "wisdom_i": {
@@ -4735,7 +4738,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "360187083576442880": {
         "modification_history": {},
