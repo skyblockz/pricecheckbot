@@ -9629,10 +9629,13 @@
                 ]
             },
             "rose_rabbit_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     4500000,
                     5000000
+                ],
+                "to": [
+                    5800000,
+                    6100000
                 ]
             },
             "salmon_boots": {
@@ -10449,7 +10452,7 @@
                 ]
             }
         },
-        "total_mods": 429
+        "total_mods": 430
     },
     "466769036122783744": {
         "modification_history": {
