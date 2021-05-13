@@ -11134,6 +11134,16 @@
                     6000000
                 ]
             },
+            "lvl_100_legendary_ocelot": {
+                "from": [
+                    6700000,
+                    7400000
+                ],
+                "to": [
+                    21000000,
+                    23000000
+                ]
+            },
             "lvl_100_rare_griffin": {
                 "from": null,
                 "to": [
@@ -11938,7 +11948,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "482763025065967626": {
         "modification_history": {},
