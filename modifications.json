@@ -11288,6 +11288,16 @@
                     5500000
                 ]
             },
+            "lvl_1_legendary_ocelot": {
+                "from": [
+                    1200000,
+                    1500000
+                ],
+                "to": [
+                    2400000,
+                    3000000
+                ]
+            },
             "lvl_1_legendary_phoenix": {
                 "from": [
                     30000000,
@@ -11928,7 +11938,7 @@
                 ]
             }
         },
-        "total_mods": 181
+        "total_mods": 182
     },
     "482763025065967626": {
         "modification_history": {},
