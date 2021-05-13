@@ -4387,6 +4387,16 @@
                     15000
                 ]
             },
+            "old_dragon_boots": {
+                "from": [
+                    120000,
+                    145000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "pretty_rabbit_skin": {
                 "from": null,
                 "to": [
@@ -4784,7 +4794,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "360187083576442880": {
         "modification_history": {},
