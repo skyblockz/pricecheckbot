@@ -9202,10 +9202,13 @@
                 ]
             },
             "neon_blue_ender_dragon_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     8000000,
                     8750000
+                ],
+                "to": [
+                    11000000,
+                    12500000
                 ]
             },
             "neon_purple_ender_dragon_skin": {
@@ -10462,7 +10465,7 @@
                 ]
             }
         },
-        "total_mods": 431
+        "total_mods": 432
     },
     "466769036122783744": {
         "modification_history": {
