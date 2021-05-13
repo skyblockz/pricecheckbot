@@ -4574,10 +4574,13 @@
                 ]
             },
             "thinking_rock_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     99000000,
                     140000000
+                ],
+                "to": [
+                    100000000,
+                    120000000
                 ]
             },
             "twilight_tiger_skin": {
@@ -4741,7 +4744,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "360187083576442880": {
         "modification_history": {},
