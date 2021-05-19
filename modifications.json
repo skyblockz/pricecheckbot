@@ -9550,6 +9550,16 @@
                     35000000
                 ]
             },
+            "rare_farming_exp_boost": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    600000,
+                    600000
+                ]
+            },
             "rat_pet_lvl_1": {
                 "from": null,
                 "to": [
@@ -10538,7 +10548,7 @@
                 ]
             }
         },
-        "total_mods": 443
+        "total_mods": 444
     },
     "466769036122783744": {
         "modification_history": {
