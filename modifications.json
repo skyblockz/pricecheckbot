@@ -17120,6 +17120,16 @@
                     4050000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     200000,
@@ -17141,7 +17151,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "584353901973733386": {
         "modification_history": {
