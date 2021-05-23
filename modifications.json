@@ -16303,6 +16303,16 @@
                     4000000
                 ]
             },
+            "redstone_minion_xi": {
+                "from": [
+                    2600000,
+                    2900000
+                ],
+                "to": [
+                    1600000,
+                    1800000
+                ]
+            },
             "redstone_minion_xii": {
                 "from": null,
                 "to": [
@@ -16822,7 +16832,7 @@
                 ]
             }
         },
-        "total_mods": 184
+        "total_mods": 185
     },
     "567728548476092416": {
         "modification_history": {
