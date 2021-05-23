@@ -15595,6 +15595,16 @@
                     5890000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1380000,
+                    1400000
+                ],
+                "to": [
+                    2480000,
+                    2750000
+                ]
+            },
             "diamond_thorn_head": {
                 "from": null,
                 "to": [
@@ -17182,7 +17192,7 @@
                 ]
             }
         },
-        "total_mods": 240
+        "total_mods": 241
     },
     "567728548476092416": {
         "modification_history": {
