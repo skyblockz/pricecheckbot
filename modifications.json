@@ -15744,6 +15744,16 @@
                     20000
                 ]
             },
+            "farmers_boots": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     86000,
@@ -17082,7 +17092,7 @@
                 ]
             }
         },
-        "total_mods": 230
+        "total_mods": 231
     },
     "567728548476092416": {
         "modification_history": {
