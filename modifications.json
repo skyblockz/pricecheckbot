@@ -16413,6 +16413,16 @@
                     4800000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    240000,
+                    250000
+                ],
+                "to": [
+                    185000,
+                    190000
+                ]
+            },
             "precursor_eye": {
                 "from": [
                     24000000,
@@ -17112,7 +17122,7 @@
                 ]
             }
         },
-        "total_mods": 233
+        "total_mods": 234
     },
     "567728548476092416": {
         "modification_history": {
