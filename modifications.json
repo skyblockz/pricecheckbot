@@ -16302,6 +16302,16 @@
                     7000
                 ]
             },
+            "mineral_talisman": {
+                "from": [
+                    900000,
+                    1500000
+                ],
+                "to": [
+                    650000,
+                    680000
+                ]
+            },
             "mithril_infused_fuel_tank": {
                 "from": null,
                 "to": [
@@ -17172,7 +17182,7 @@
                 ]
             }
         },
-        "total_mods": 239
+        "total_mods": 240
     },
     "567728548476092416": {
         "modification_history": {
