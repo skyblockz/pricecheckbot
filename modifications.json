@@ -16296,6 +16296,16 @@
                     1500000
                 ]
             },
+            "lvl_1_legendary_spirit": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    4815000,
+                    5000000
+                ]
+            },
             "machine_gun_bow": {
                 "from": [
                     5500,
@@ -17336,7 +17346,7 @@
                 ]
             }
         },
-        "total_mods": 259
+        "total_mods": 260
     },
     "567728548476092416": {
         "modification_history": {
