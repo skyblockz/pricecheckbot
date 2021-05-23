@@ -15717,6 +15717,16 @@
                     1000000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    480000,
+                    550000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     425000,
@@ -17002,7 +17012,7 @@
                 ]
             }
         },
-        "total_mods": 219
+        "total_mods": 220
     },
     "567728548476092416": {
         "modification_history": {
