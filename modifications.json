@@ -17076,6 +17076,16 @@
                     9300000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "syphon_v": {
                 "from": null,
                 "to": [
@@ -17466,7 +17476,7 @@
                 ]
             }
         },
-        "total_mods": 273
+        "total_mods": 274
     },
     "567728548476092416": {
         "modification_history": {
