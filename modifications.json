@@ -11433,6 +11433,16 @@
                     200000
                 ]
             },
+            "lvl_1_epic_skeleton": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    105000,
+                    150000
+                ]
+            },
             "lvl_1_legendary_bat": {
                 "from": [
                     800000,
@@ -12305,7 +12315,7 @@
                 ]
             }
         },
-        "total_mods": 226
+        "total_mods": 227
     },
     "482763025065967626": {
         "modification_history": {},
