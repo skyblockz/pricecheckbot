@@ -11450,6 +11450,16 @@
                     150000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    800000,
+                    1100000
+                ]
+            },
             "lvl_1_legendary_bat": {
                 "from": [
                     800000,
@@ -12342,7 +12352,7 @@
                 ]
             }
         },
-        "total_mods": 230
+        "total_mods": 231
     },
     "482763025065967626": {
         "modification_history": {},
