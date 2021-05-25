@@ -11499,6 +11499,16 @@
                     2500000
                 ]
             },
+            "lvl_1_mythic_bat": {
+                "from": [
+                    6000000,
+                    6500000
+                ],
+                "to": [
+                    7750000,
+                    8500000
+                ]
+            },
             "lvl_1_rare_griffin": {
                 "from": null,
                 "to": [
@@ -12159,7 +12169,7 @@
                 ]
             }
         },
-        "total_mods": 205
+        "total_mods": 206
     },
     "482763025065967626": {
         "modification_history": {},
