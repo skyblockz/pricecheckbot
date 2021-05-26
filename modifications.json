@@ -17585,6 +17585,16 @@
                     150000
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    5000,
+                    25000
+                ],
+                "to": [
+                    1800,
+                    5000
+                ]
+            },
             "unstable_dragon_helmet": {
                 "from": [
                     200000,
@@ -17823,7 +17833,7 @@
                 ]
             }
         },
-        "total_mods": 297
+        "total_mods": 298
     },
     "567728548476092416": {
         "modification_history": {
