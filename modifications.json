@@ -17142,6 +17142,16 @@
                     2900000
                 ]
             },
+            "scythe_blade": {
+                "from": [
+                    2200000,
+                    2300000
+                ],
+                "to": [
+                    2100000,
+                    2200000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     600000,
@@ -17863,7 +17873,7 @@
                 ]
             }
         },
-        "total_mods": 304
+        "total_mods": 305
     },
     "567728548476092416": {
         "modification_history": {
