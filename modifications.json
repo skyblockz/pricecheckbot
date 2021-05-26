@@ -15893,6 +15893,16 @@
                     12000000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    40000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "drill_engine": {
                 "from": null,
                 "to": [
@@ -17843,7 +17853,7 @@
                 ]
             }
         },
-        "total_mods": 300
+        "total_mods": 301
     },
     "567728548476092416": {
         "modification_history": {
