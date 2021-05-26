@@ -16245,6 +16245,16 @@
                     210000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    85000,
+                    100000
+                ],
+                "to": [
+                    30000,
+                    60000
+                ]
+            },
             "hyperion": {
                 "from": [
                     420000000,
@@ -17736,7 +17746,7 @@
                 ]
             }
         },
-        "total_mods": 282
+        "total_mods": 283
     },
     "567728548476092416": {
         "modification_history": {
