@@ -16676,6 +16676,16 @@
                     680000
                 ]
             },
+            "minion_storage_xpender": {
+                "from": [
+                    475000,
+                    500000
+                ],
+                "to": [
+                    430000,
+                    450000
+                ]
+            },
             "mithril_infused_fuel_tank": {
                 "from": null,
                 "to": [
@@ -17706,7 +17716,7 @@
                 ]
             }
         },
-        "total_mods": 278
+        "total_mods": 279
     },
     "567728548476092416": {
         "modification_history": {
