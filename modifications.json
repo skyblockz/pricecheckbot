@@ -17293,6 +17293,16 @@
                     4400000
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    10000,
+                    30000
+                ],
+                "to": [
+                    60000,
+                    65000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     2790000,
@@ -17913,7 +17923,7 @@
                 ]
             }
         },
-        "total_mods": 311
+        "total_mods": 312
     },
     "567728548476092416": {
         "modification_history": {
