@@ -16481,10 +16481,13 @@
                 ]
             },
             "knarfie": {
-                "from": null,
-                "to": [
+                "from": [
                     1,
                     2
+                ],
+                "to": [
+                    1,
+                    1
                 ]
             },
             "last_breath": {
@@ -17968,7 +17971,7 @@
                 ]
             }
         },
-        "total_mods": 319
+        "total_mods": 320
     },
     "557220161346600971": {
         "modification_history": {
