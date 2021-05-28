@@ -16962,6 +16962,16 @@
                     145000
                 ]
             },
+            "optical_lens": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "personal_compactor_7000": {
                 "from": [
                     7000000,
@@ -17981,7 +17991,7 @@
                 ]
             }
         },
-        "total_mods": 321
+        "total_mods": 322
     },
     "557220161346600971": {
         "modification_history": {
