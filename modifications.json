@@ -17451,6 +17451,16 @@
                     4400000
                 ]
             },
+            "snow_minion_i": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "snow_suit_chestplate": {
                 "from": [
                     10000,
@@ -18101,7 +18111,7 @@
                 ]
             }
         },
-        "total_mods": 339
+        "total_mods": 340
     },
     "557220161346600971": {
         "modification_history": {
