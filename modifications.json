@@ -16135,6 +16135,16 @@
                     2732
                 ]
             },
+            "end_stone_sword": {
+                "from": [
+                    90000,
+                    110000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "endstone_geode": {
                 "from": null,
                 "to": [
@@ -18228,7 +18238,7 @@
                 ]
             }
         },
-        "total_mods": 350
+        "total_mods": 351
     },
     "557220161346600971": {
         "modification_history": {
