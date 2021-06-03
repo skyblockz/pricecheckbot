@@ -17416,6 +17416,16 @@
                     3500000
                 ]
             },
+            "reforge_anvil": {
+                "from": [
+                    835000,
+                    910000
+                ],
+                "to": [
+                    814000,
+                    814000
+                ]
+            },
             "rotten_chestplate": {
                 "from": null,
                 "to": [
@@ -18301,7 +18311,7 @@
                 ]
             }
         },
-        "total_mods": 360
+        "total_mods": 361
     },
     "557220161346600971": {
         "modification_history": {
