@@ -9039,10 +9039,13 @@
                 ]
             },
             "master_skull_tier_7": {
-                "from": null,
-                "to": [
+                "from": [
                     700000000,
                     900000000
+                ],
+                "to": [
+                    1200000000,
+                    1200000000
                 ]
             },
             "mastiff_boots": {
@@ -10632,7 +10635,7 @@
                 ]
             }
         },
-        "total_mods": 461
+        "total_mods": 462
     },
     "466769036122783744": {
         "modification_history": {
