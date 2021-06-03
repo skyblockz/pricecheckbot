@@ -8701,6 +8701,13 @@
                     125000
                 ]
             },
+            "looting_v": {
+                "from": null,
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "lvl_100_epic_bat": {
                 "from": [
                     7000000,
@@ -10625,7 +10632,7 @@
                 ]
             }
         },
-        "total_mods": 460
+        "total_mods": 461
     },
     "466769036122783744": {
         "modification_history": {
