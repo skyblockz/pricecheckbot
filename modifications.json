@@ -269,6 +269,16 @@
                     1900000
                 ]
             },
+            "final_destination_chestplate": {
+                "from": [
+                    3750000,
+                    4000000
+                ],
+                "to": [
+                    3200000,
+                    3400000
+                ]
+            },
             "final_destination_leggings": {
                 "from": [
                     2750000,
@@ -280,7 +290,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "576878043067449354": {
         "modification_history": {
