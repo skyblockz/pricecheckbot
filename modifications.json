@@ -110,10 +110,13 @@
                 ]
             },
             "terminator_bow": {
-                "from": null,
-                "to": [
+                "from": [
                     650000000,
                     700000000
+                ],
+                "to": [
+                    1000000,
+                    1250000000
                 ]
             },
             "void_conqueror_enderman_skin": {
@@ -138,7 +141,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
