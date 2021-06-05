@@ -130,6 +130,13 @@
                     80000000
                 ]
             },
+            "soulflow_pile": {
+                "from": null,
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "terminator_bow": {
                 "from": [
                     1000000,
@@ -162,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {},
