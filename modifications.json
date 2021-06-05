@@ -329,6 +329,16 @@
                     38000000
                 ]
             },
+            "necrons_helmet": {
+                "from": [
+                    16000000,
+                    19900000
+                ],
+                "to": [
+                    13000000,
+                    14000000
+                ]
+            },
             "necrons_leggings": {
                 "from": [
                     17900000,
@@ -340,7 +350,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "576878043067449354": {
         "modification_history": {
