@@ -166,8 +166,16 @@
         "total_mods": 0
     },
     "576878043067449354": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "enderman_cortex_rewriter": {
+                "from": null,
+                "to": [
+                    25000,
+                    300000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "608358478712537110": {
         "modification_history": {},
