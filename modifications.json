@@ -84,6 +84,16 @@
                     250000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    135000,
+                    150000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     580000,
@@ -205,7 +215,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "365916768805453834": {
         "modification_history": {},
