@@ -130,6 +130,13 @@
                     9250000
                 ]
             },
+            "soulflow_battery": {
+                "from": null,
+                "to": [
+                    8000000,
+                    8500000
+                ]
+            },
             "soulflow_engine": {
                 "from": null,
                 "to": [
@@ -176,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "466769036122783744": {
         "modification_history": {},
