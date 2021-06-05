@@ -685,6 +685,16 @@
                     60000000
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    3400000,
+                    4000000
+                ],
+                "to": [
+                    2800000,
+                    3200000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": null,
                 "to": [
@@ -693,7 +703,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "608358478712537110": {
         "modification_history": {},
