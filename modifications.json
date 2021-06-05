@@ -54,6 +54,16 @@
                     1250000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     125000,
@@ -335,7 +345,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "365916768805453834": {
         "modification_history": {},
