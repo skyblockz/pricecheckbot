@@ -13,12 +13,12 @@
             },
             "shadow_assassin_boots": {
                 "from": [
-                    980000,
-                    1000000
-                ],
-                "to": [
                     1000000,
                     1250000
+                ],
+                "to": [
+                    940000,
+                    1000000
                 ]
             },
             "shadow_fury": {
@@ -32,7 +32,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "275329625478004737": {
         "modification_history": {},
