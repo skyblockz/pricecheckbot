@@ -434,6 +434,16 @@
                     1800000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "end_portal_frame": {
                 "from": [
                     500,
@@ -2052,7 +2062,7 @@
                 ]
             }
         },
-        "total_mods": 214
+        "total_mods": 215
     },
     "356596957835427865": {
         "modification_history": {},
