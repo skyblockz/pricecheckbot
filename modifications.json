@@ -210,6 +210,16 @@
                     50000
                 ]
             },
+            "frosty_the_snow_cannon": {
+                "from": [
+                    1000,
+                    1000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     700000,
@@ -642,7 +652,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "356596957835427865": {
         "modification_history": {},
