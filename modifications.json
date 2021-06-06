@@ -91,6 +91,16 @@
                     4100000
                 ]
             },
+            "protection_vii": {
+                "from": [
+                    18000000,
+                    19000000
+                ],
+                "to": [
+                    18500000,
+                    20000000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1000000,
@@ -152,7 +162,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "275329625478004737": {
         "modification_history": {},
