@@ -928,6 +928,13 @@
                     18000000
                 ]
             },
+            "shiny_rod": {
+                "from": null,
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "slime_bow": {
                 "from": [
                     1000000,
@@ -1223,7 +1230,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "356596957835427865": {
         "modification_history": {},
