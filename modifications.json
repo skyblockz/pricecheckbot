@@ -1189,6 +1189,16 @@
                     18000000
                 ]
             },
+            "shiny_orb": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "shiny_rod": {
                 "from": null,
                 "to": [
@@ -1541,7 +1551,7 @@
                 ]
             }
         },
-        "total_mods": 160
+        "total_mods": 161
     },
     "356596957835427865": {
         "modification_history": {},
