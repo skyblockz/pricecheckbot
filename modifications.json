@@ -805,6 +805,16 @@
                     50000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    135000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    240000
+                ]
+            },
             "summoning_ring": {
                 "from": [
                     17500000,
@@ -906,7 +916,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "356596957835427865": {
         "modification_history": {},
