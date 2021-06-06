@@ -267,6 +267,16 @@
                     27000000
                 ]
             },
+            "common_foraging_exp_boost": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "conjuring": {
                 "from": [
                     40000,
@@ -1611,7 +1621,7 @@
                 ]
             }
         },
-        "total_mods": 168
+        "total_mods": 169
     },
     "356596957835427865": {
         "modification_history": {},
