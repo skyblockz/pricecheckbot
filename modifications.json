@@ -1276,6 +1276,16 @@
                     700000000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    525000,
+                    640000
+                ],
+                "to": [
+                    475000,
+                    480000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1100000,
@@ -1748,7 +1758,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "356596957835427865": {
         "modification_history": {},
