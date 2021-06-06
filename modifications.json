@@ -1233,6 +1233,16 @@
                     40000
                 ]
             },
+            "raider_axe": {
+                "from": [
+                    130000,
+                    130000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "rare_soulstealer_bow": {
                 "from": [
                     8000,
@@ -1935,7 +1945,7 @@
                 ]
             }
         },
-        "total_mods": 202
+        "total_mods": 203
     },
     "356596957835427865": {
         "modification_history": {},
