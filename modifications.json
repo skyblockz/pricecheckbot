@@ -424,6 +424,16 @@
                     1800000
                 ]
             },
+            "end_portal_frame": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     13000000,
@@ -1952,7 +1962,7 @@
                 ]
             }
         },
-        "total_mods": 204
+        "total_mods": 205
     },
     "356596957835427865": {
         "modification_history": {},
