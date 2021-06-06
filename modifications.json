@@ -474,6 +474,16 @@
                     46000
                 ]
             },
+            "ender_leggings": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -1905,7 +1915,7 @@
                 ]
             }
         },
-        "total_mods": 199
+        "total_mods": 200
     },
     "356596957835427865": {
         "modification_history": {},
