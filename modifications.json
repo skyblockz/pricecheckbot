@@ -434,6 +434,16 @@
                     400000
                 ]
             },
+            "end_stone_bow": {
+                "from": [
+                    6500,
+                    8000
+                ],
+                "to": [
+                    5000,
+                    1000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     13000000,
@@ -2002,7 +2012,7 @@
                 ]
             }
         },
-        "total_mods": 209
+        "total_mods": 210
     },
     "356596957835427865": {
         "modification_history": {},
