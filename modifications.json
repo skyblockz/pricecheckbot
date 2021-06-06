@@ -294,6 +294,16 @@
                     480000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "great_carrot_candy": {
                 "from": [
                     160000,
@@ -746,7 +756,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "356596957835427865": {
         "modification_history": {},
