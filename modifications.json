@@ -2120,6 +2120,16 @@
                     100000
                 ]
             },
+            "end_stone_bow": {
+                "from": [
+                    5000,
+                    1000
+                ],
+                "to": [
+                    5000,
+                    8000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     125000,
@@ -2401,7 +2411,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "365916768805453834": {
         "modification_history": {},
