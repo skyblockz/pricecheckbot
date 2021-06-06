@@ -1330,6 +1330,16 @@
                     2500000
                 ]
             },
+            "treasure_talisman": {
+                "from": [
+                    200000,
+                    315000
+                ],
+                "to": [
+                    320000,
+                    390000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     1690000,
@@ -1461,7 +1471,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "356596957835427865": {
         "modification_history": {},
