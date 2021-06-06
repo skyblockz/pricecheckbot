@@ -785,6 +785,16 @@
                     14000
                 ]
             },
+            "speed_ring": {
+                "from": [
+                    55000,
+                    57000
+                ],
+                "to": [
+                    49000,
+                    50000
+                ]
+            },
             "summoning_ring": {
                 "from": [
                     17500000,
@@ -886,7 +896,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "356596957835427865": {
         "modification_history": {},
