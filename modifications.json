@@ -929,6 +929,16 @@
                     11300000
                 ]
             },
+            "plasmaflux_power_orb": {
+                "from": [
+                    112000000,
+                    125000000
+                ],
+                "to": [
+                    182000000,
+                    186000000
+                ]
+            },
             "potato_talisman": {
                 "from": [
                     4000000,
@@ -1601,7 +1611,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "356596957835427865": {
         "modification_history": {},
