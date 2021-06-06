@@ -477,6 +477,16 @@
                     25000
                 ]
             },
+            "snow_suit_helmet": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    20000,
+                    29000
+                ]
+            },
             "soul_esoward": {
                 "from": [
                     6800000,
@@ -588,7 +598,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "356596957835427865": {
         "modification_history": {},
