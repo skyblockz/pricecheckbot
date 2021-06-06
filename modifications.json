@@ -397,6 +397,16 @@
                     2400000
                 ]
             },
+            "ultimate_carrot_candy_upgrade": {
+                "from": [
+                    1350000,
+                    1500000
+                ],
+                "to": [
+                    2500000,
+                    2700000
+                ]
+            },
             "warden_helmet": {
                 "from": [
                     199000000,
@@ -438,7 +448,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "356596957835427865": {
         "modification_history": {},
