@@ -300,6 +300,16 @@
                     11000000
                 ]
             },
+            "soul_string": {
+                "from": [
+                    1500,
+                    4000
+                ],
+                "to": [
+                    10000,
+                    14000
+                ]
+            },
             "summoning_ring": {
                 "from": [
                     17500000,
@@ -371,7 +381,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "356596957835427865": {
         "modification_history": {},
