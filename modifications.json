@@ -344,6 +344,16 @@
                     30000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    50000,
+                    69000
+                ],
+                "to": [
+                    50000,
+                    65000
+                ]
+            },
             "flycatcher": {
                 "from": [
                     12000000,
@@ -1431,7 +1441,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "356596957835427865": {
         "modification_history": {},
