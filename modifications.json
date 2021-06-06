@@ -203,6 +203,13 @@
                     7000000
                 ]
             },
+            "parkour_times": {
+                "from": null,
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "pig_mask": {
                 "from": [
                     150000,
@@ -274,7 +281,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "356596957835427865": {
         "modification_history": {},
