@@ -2300,6 +2300,16 @@
                     250000
                 ]
             },
+            "sharpness_vii": {
+                "from": [
+                    28000000,
+                    30000000
+                ],
+                "to": [
+                    32000000,
+                    34000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     580000,
@@ -2501,7 +2511,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "365916768805453834": {
         "modification_history": {},
