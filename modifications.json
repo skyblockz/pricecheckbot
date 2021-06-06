@@ -939,6 +939,16 @@
                     7000000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    40000
+                ]
+            },
             "rare_soulstealer_bow": {
                 "from": [
                     8000,
@@ -1551,7 +1561,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "356596957835427865": {
         "modification_history": {},
