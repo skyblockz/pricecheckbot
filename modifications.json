@@ -93,6 +93,16 @@
                     450000000
                 ]
             },
+            "dark_queens_soul_drop": {
+                "from": [
+                    300000,
+                    330000
+                ],
+                "to": [
+                    240000,
+                    250000
+                ]
+            },
             "ember_rod": {
                 "from": [
                     1800000,
@@ -381,7 +391,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "356596957835427865": {
         "modification_history": {},
