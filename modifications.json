@@ -467,6 +467,16 @@
                     19000000
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    60000,
+                    65000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "soul_esoward": {
                 "from": [
                     6800000,
@@ -578,7 +588,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "356596957835427865": {
         "modification_history": {},
