@@ -83,6 +83,16 @@
                     6400000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    300000,
+                    360000
+                ],
+                "to": [
+                    490000,
+                    500000
+                ]
+            },
             "candy_bowl": {
                 "from": null,
                 "to": [
@@ -478,7 +488,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "356596957835427865": {
         "modification_history": {},
