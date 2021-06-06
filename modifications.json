@@ -454,6 +454,16 @@
                     1000
                 ]
             },
+            "end_stone_sword": {
+                "from": [
+                    180000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    210000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     13000000,
@@ -2022,7 +2032,7 @@
                 ]
             }
         },
-        "total_mods": 211
+        "total_mods": 212
     },
     "356596957835427865": {
         "modification_history": {},
