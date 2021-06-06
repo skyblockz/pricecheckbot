@@ -46,6 +46,16 @@
                     75000
                 ]
             },
+            "bat_artifact": {
+                "from": [
+                    840000,
+                    890000
+                ],
+                "to": [
+                    790000,
+                    835000
+                ]
+            },
             "bat_person_talisman": {
                 "from": [
                     115000,
@@ -1778,7 +1788,7 @@
                 ]
             }
         },
-        "total_mods": 185
+        "total_mods": 186
     },
     "356596957835427865": {
         "modification_history": {},
