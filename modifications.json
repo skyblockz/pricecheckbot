@@ -501,6 +501,16 @@
                     45000
                 ]
             },
+            "epic_dreadlord_sword": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -1992,7 +2002,7 @@
                 ]
             }
         },
-        "total_mods": 208
+        "total_mods": 209
     },
     "356596957835427865": {
         "modification_history": {},
