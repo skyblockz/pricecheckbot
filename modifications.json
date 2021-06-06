@@ -56,6 +56,16 @@
                     450000000
                 ]
             },
+            "happy_mask": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "jerry_3d_glasses": {
                 "from": [
                     800000,
@@ -107,7 +117,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "356596957835427865": {
         "modification_history": {},
