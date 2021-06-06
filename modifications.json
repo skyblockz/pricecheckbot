@@ -83,6 +83,13 @@
                     6400000
                 ]
             },
+            "candy_bowl": {
+                "from": null,
+                "to": [
+                    150000,
+                    180000
+                ]
+            },
             "candy_corn": {
                 "from": [
                     150000,
@@ -421,7 +428,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "356596957835427865": {
         "modification_history": {},
