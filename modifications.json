@@ -307,6 +307,16 @@
                     250000
                 ]
             },
+            "deep_sea_orb": {
+                "from": [
+                    4200000,
+                    5000000
+                ],
+                "to": [
+                    3800000,
+                    4000000
+                ]
+            },
             "derpy_snowman": {
                 "from": null,
                 "to": [
@@ -1581,7 +1591,7 @@
                 ]
             }
         },
-        "total_mods": 164
+        "total_mods": 165
     },
     "356596957835427865": {
         "modification_history": {},
