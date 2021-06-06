@@ -66,6 +66,16 @@
                     400000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    90000,
+                    110000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "beacon_iii": {
                 "from": null,
                 "to": [
@@ -1451,7 +1461,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "356596957835427865": {
         "modification_history": {},
