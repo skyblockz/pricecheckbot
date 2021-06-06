@@ -1039,6 +1039,16 @@
                     52000
                 ]
             },
+            "menders_crown": {
+                "from": [
+                    5500000,
+                    7000000
+                ],
+                "to": [
+                    4200000,
+                    500000
+                ]
+            },
             "mineral_talisman": {
                 "from": [
                     560000,
@@ -1915,7 +1925,7 @@
                 ]
             }
         },
-        "total_mods": 200
+        "total_mods": 201
     },
     "356596957835427865": {
         "modification_history": {},
