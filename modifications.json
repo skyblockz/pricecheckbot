@@ -576,6 +576,16 @@
                     300000
                 ]
             },
+            "adaptive_chestplate": {
+                "from": [
+                    3500000,
+                    5000000
+                ],
+                "to": [
+                    3025000,
+                    3500000
+                ]
+            },
             "combo_i": {
                 "from": [
                     30000,
@@ -694,7 +704,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "574324424677916674": {
         "modification_history": {
