@@ -855,6 +855,16 @@
                     450000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    36000000,
+                    37500000
+                ],
+                "to": [
+                    64500000,
+                    68500000
+                ]
+            },
             "parkour_times": {
                 "from": null,
                 "to": [
@@ -1591,7 +1601,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "356596957835427865": {
         "modification_history": {},
