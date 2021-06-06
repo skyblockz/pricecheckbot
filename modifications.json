@@ -822,6 +822,16 @@
                     12000000
                 ]
             },
+            "machine_gun_bow": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "mana_flux_power_orb": {
                 "from": [
                     2300000,
@@ -1698,7 +1708,7 @@
                 ]
             }
         },
-        "total_mods": 177
+        "total_mods": 178
     },
     "356596957835427865": {
         "modification_history": {},
