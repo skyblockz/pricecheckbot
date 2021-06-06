@@ -1741,6 +1741,16 @@
                     1200000
                 ]
             },
+            "tactician_sword": {
+                "from": [
+                    35000,
+                    35000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1050000,
@@ -1982,7 +1992,7 @@
                 ]
             }
         },
-        "total_mods": 207
+        "total_mods": 208
     },
     "356596957835427865": {
         "modification_history": {},
