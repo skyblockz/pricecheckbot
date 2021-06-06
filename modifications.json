@@ -36,6 +36,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "beacon_v": {
+                "from": [
+                    30000000,
+                    32500000
+                ],
+                "to": [
+                    35500000,
+                    36000000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     35000,
@@ -207,7 +217,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "356596957835427865": {
         "modification_history": {},
