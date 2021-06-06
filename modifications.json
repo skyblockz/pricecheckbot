@@ -100,6 +100,16 @@
                     170000
                 ]
             },
+            "candy_ring": {
+                "from": [
+                    85000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "candy_talisman": {
                 "from": [
                     20000,
@@ -468,7 +478,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "356596957835427865": {
         "modification_history": {},
