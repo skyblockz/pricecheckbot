@@ -352,12 +352,12 @@
             },
             "mastiff_crown": {
                 "from": [
-                    630000,
-                    705000
-                ],
-                "to": [
                     580000,
                     700000
+                ],
+                "to": [
+                    700000,
+                    800000
                 ]
             },
             "monochrome_elephant_skin": {
@@ -558,7 +558,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "356596957835427865": {
         "modification_history": {},
