@@ -444,6 +444,16 @@
                     50000
                 ]
             },
+            "ender_chestplate": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    22000,
+                    40000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -1865,7 +1875,7 @@
                 ]
             }
         },
-        "total_mods": 195
+        "total_mods": 196
     },
     "356596957835427865": {
         "modification_history": {},
