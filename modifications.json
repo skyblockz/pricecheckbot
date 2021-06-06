@@ -223,6 +223,16 @@
                     800000
                 ]
             },
+            "pumpkin_launcher": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "soul_esoward": {
                 "from": [
                     6800000,
@@ -264,7 +274,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "356596957835427865": {
         "modification_history": {},
