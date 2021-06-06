@@ -1009,6 +1009,16 @@
                     830000
                 ]
             },
+            "mender_helmet": {
+                "from": [
+                    80000,
+                    80000
+                ],
+                "to": [
+                    49000,
+                    52000
+                ]
+            },
             "mineral_talisman": {
                 "from": [
                     560000,
@@ -1885,7 +1895,7 @@
                 ]
             }
         },
-        "total_mods": 197
+        "total_mods": 198
     },
     "356596957835427865": {
         "modification_history": {},
