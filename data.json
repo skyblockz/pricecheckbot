@@ -11512,5 +11512,11 @@
         "hi": 7000000,
         "low": 6400000,
         "name": "beacon_iii"
+    },
+    {
+        "ac": true,
+        "hi": 110000,
+        "low": 100000,
+        "name": "parkour_times"
     }
 ]
