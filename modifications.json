@@ -387,6 +387,16 @@
                     4000000
                 ]
             },
+            "rare_soulstealer_bow": {
+                "from": [
+                    8000,
+                    8000
+                ],
+                "to": [
+                    5000,
+                    5500
+                ]
+            },
             "rock_candy": {
                 "from": [
                     4000,
@@ -528,7 +538,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "356596957835427865": {
         "modification_history": {},
