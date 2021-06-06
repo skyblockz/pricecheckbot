@@ -1059,6 +1059,16 @@
                     14000
                 ]
             },
+            "slayer_energy_drink": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    15000,
+                    30000
+                ]
+            },
             "slime_bow": {
                 "from": [
                     1000000,
@@ -1354,7 +1364,7 @@
                 ]
             }
         },
-        "total_mods": 141
+        "total_mods": 142
     },
     "356596957835427865": {
         "modification_history": {},
