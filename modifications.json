@@ -467,6 +467,16 @@
                     19000000
                 ]
             },
+            "snow_suit_boots": {
+                "from": [
+                    10000,
+                    30000
+                ],
+                "to": [
+                    28000,
+                    32000
+                ]
+            },
             "snow_suit_chestplate": {
                 "from": [
                     60000,
@@ -608,7 +618,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "356596957835427865": {
         "modification_history": {},
