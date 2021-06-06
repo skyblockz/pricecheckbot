@@ -123,6 +123,16 @@
                     30000
                 ]
             },
+            "hyper_furnace": {
+                "from": [
+                    100000,
+                    140000
+                ],
+                "to": [
+                    145000,
+                    245000
+                ]
+            },
             "jerry_3d_glasses": {
                 "from": [
                     800000,
@@ -224,7 +234,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "356596957835427865": {
         "modification_history": {},
