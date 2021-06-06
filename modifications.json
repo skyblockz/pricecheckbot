@@ -344,6 +344,16 @@
                     200000
                 ]
             },
+            "golden_scarf_head": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    480000,
+                    500000
+                ]
+            },
             "great_carrot_candy": {
                 "from": [
                     160000,
@@ -856,7 +866,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "356596957835427865": {
         "modification_history": {},
