@@ -113,6 +113,16 @@
                     13000000
                 ]
             },
+            "frozen_chicken": {
+                "from": [
+                    700000,
+                    1000000
+                ],
+                "to": [
+                    790000,
+                    850000
+                ]
+            },
             "glacite_boots": {
                 "from": [
                     15000,
@@ -341,7 +351,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "356596957835427865": {
         "modification_history": {},
