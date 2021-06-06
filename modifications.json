@@ -66,6 +66,16 @@
                     30000
                 ]
             },
+            "goblin_boots": {
+                "from": [
+                    1750,
+                    4000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "happy_mask": {
                 "from": [
                     10000,
@@ -157,7 +167,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "356596957835427865": {
         "modification_history": {},
