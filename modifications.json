@@ -41,6 +41,16 @@
                     8000000
                 ]
             },
+            "power_vii": {
+                "from": [
+                    24500000,
+                    26000000
+                ],
+                "to": [
+                    38000000,
+                    40000000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1000000,
@@ -102,7 +112,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "275329625478004737": {
         "modification_history": {},
