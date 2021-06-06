@@ -81,6 +81,16 @@
                     17500000
                 ]
             },
+            "sharpness_vi": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "ultimate_wise_i": {
                 "from": [
                     225000,
@@ -92,7 +102,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "275329625478004737": {
         "modification_history": {},
