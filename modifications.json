@@ -1132,6 +1132,16 @@
                     2600000
                 ]
             },
+            "wand_of_healing": {
+                "from": [
+                    500,
+                    1500
+                ],
+                "to": [
+                    10000,
+                    16000
+                ]
+            },
             "warden_helmet": {
                 "from": [
                     199000000,
@@ -1203,7 +1213,7 @@
                 ]
             }
         },
-        "total_mods": 125
+        "total_mods": 126
     },
     "356596957835427865": {
         "modification_history": {},
