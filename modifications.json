@@ -454,6 +454,16 @@
                     40000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    85000,
+                    90000
+                ],
+                "to": [
+                    45000,
+                    46000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -1875,7 +1885,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "356596957835427865": {
         "modification_history": {},
