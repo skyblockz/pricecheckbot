@@ -36,6 +36,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "bat_ring": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    375000,
+                    400000
+                ]
+            },
             "beacon_iii": {
                 "from": null,
                 "to": [
@@ -916,7 +926,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "356596957835427865": {
         "modification_history": {},
