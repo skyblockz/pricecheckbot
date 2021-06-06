@@ -1770,6 +1770,16 @@
                     380000000
                 ]
             },
+            "dwarf_turtle_shelmet": {
+                "from": [
+                    3480000,
+                    3750000
+                ],
+                "to": [
+                    3600000,
+                    3750000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": [
                     25000,
@@ -1943,7 +1953,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "466769036122783744": {
         "modification_history": {},
