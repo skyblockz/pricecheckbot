@@ -781,6 +781,16 @@
                     10000
                 ]
             },
+            "epic_zombie_soldier_cutlass": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    6000,
+                    7000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -2479,7 +2489,7 @@
                 ]
             }
         },
-        "total_mods": 246
+        "total_mods": 247
     },
     "356596957835427865": {
         "modification_history": {},
