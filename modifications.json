@@ -3763,6 +3763,16 @@
                     27000000
                 ]
             },
+            "storms_leggings": {
+                "from": [
+                    7500000,
+                    8000000
+                ],
+                "to": [
+                    6850000,
+                    7200000
+                ]
+            },
             "voidedge_katana": {
                 "from": null,
                 "to": [
@@ -3791,7 +3801,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "508886846873272322": {
         "modification_history": {},
