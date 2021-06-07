@@ -2575,6 +2575,16 @@
                     10000
                 ]
             },
+            "zombie_skeleton_horse_skin": {
+                "from": [
+                    11000000,
+                    12000000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
             "zombie_soldier_boots": {
                 "from": [
                     18000,
@@ -2616,7 +2626,7 @@
                 ]
             }
         },
-        "total_mods": 262
+        "total_mods": 263
     },
     "356596957835427865": {
         "modification_history": {},
