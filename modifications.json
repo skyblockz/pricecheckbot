@@ -898,11 +898,11 @@
             "fish_affinity_talisman": {
                 "from": [
                     50000,
-                    69000
+                    65000
                 ],
                 "to": [
-                    50000,
-                    65000
+                    80000,
+                    120000
                 ]
             },
             "flake_the_fish": {
@@ -2707,7 +2707,7 @@
                 ]
             }
         },
-        "total_mods": 273
+        "total_mods": 274
     },
     "356596957835427865": {
         "modification_history": {},
