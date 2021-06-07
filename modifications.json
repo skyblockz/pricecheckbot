@@ -487,6 +487,16 @@
                     85000
                 ]
             },
+            "cluck_the_fish": {
+                "from": [
+                    10000000,
+                    17000000
+                ],
+                "to": [
+                    16000000,
+                    18000000
+                ]
+            },
             "common_farming_exp_boost": {
                 "from": [
                     60000,
@@ -2697,7 +2707,7 @@
                 ]
             }
         },
-        "total_mods": 272
+        "total_mods": 273
     },
     "356596957835427865": {
         "modification_history": {},
