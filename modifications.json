@@ -1266,6 +1266,16 @@
                     8100000
                 ]
             },
+            "lvl_1_epic_phoenix": {
+                "from": [
+                    6000000,
+                    6500000
+                ],
+                "to": [
+                    4200000,
+                    4500000
+                ]
+            },
             "lvl_1_legendary_snowman": {
                 "from": [
                     5500000,
@@ -2299,7 +2309,7 @@
                 ]
             }
         },
-        "total_mods": 225
+        "total_mods": 226
     },
     "356596957835427865": {
         "modification_history": {},
