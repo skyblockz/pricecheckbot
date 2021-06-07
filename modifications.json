@@ -2649,6 +2649,16 @@
                     135000
                 ]
             },
+            "young_dragon_helmet": {
+                "from": [
+                    150000,
+                    250000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "zombie_artifact": {
                 "from": [
                     3100000,
@@ -2727,7 +2737,7 @@
                 ]
             }
         },
-        "total_mods": 276
+        "total_mods": 277
     },
     "356596957835427865": {
         "modification_history": {},
