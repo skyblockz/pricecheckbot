@@ -1457,6 +1457,16 @@
                     160000
                 ]
             },
+            "lapis_armor_helmet": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "legendary_zombie_knight_boots": {
                 "from": [
                     200000,
@@ -3006,7 +3016,7 @@
                 ]
             }
         },
-        "total_mods": 309
+        "total_mods": 310
     },
     "356596957835427865": {
         "modification_history": {},
