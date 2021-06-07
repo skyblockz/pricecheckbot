@@ -3618,6 +3618,16 @@
                     17000000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1250000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    1250000
+                ]
+            },
             "soul_esoward": {
                 "from": null,
                 "to": [
@@ -3695,7 +3705,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "466769036122783744": {
         "modification_history": {},
