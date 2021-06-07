@@ -3683,6 +3683,16 @@
                     1000000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    2200000,
+                    2200000
+                ],
+                "to": [
+                    1500000,
+                    1600000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     1850000,
@@ -3821,7 +3831,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "508886846873272322": {
         "modification_history": {},
