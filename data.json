@@ -11632,5 +11632,11 @@
         "hi": 20000,
         "low": 8000,
         "name": "uncommon_fishing_exp_boost"
+    },
+    {
+        "ac": true,
+        "hi": 300000,
+        "low": 270000,
+        "name": "rare_fishing_exp_boost"
     }
 ]
