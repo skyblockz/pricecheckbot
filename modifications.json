@@ -4467,6 +4467,16 @@
                     3600000
                 ]
             },
+            "enchanted_quartz": {
+                "from": [
+                    1200,
+                    1400
+                ],
+                "to": [
+                    9000,
+                    9200
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     2100000,
@@ -4658,7 +4668,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "576878043067449354": {
         "modification_history": {
