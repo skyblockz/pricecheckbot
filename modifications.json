@@ -2581,12 +2581,12 @@
             },
             "undead_bow": {
                 "from": [
-                    125000,
-                    150000
-                ],
-                "to": [
                     420000,
                     480000
+                ],
+                "to": [
+                    125000,
+                    150000
                 ]
             },
             "unstable_dragon_boots": {
@@ -2857,7 +2857,7 @@
                 ]
             }
         },
-        "total_mods": 289
+        "total_mods": 290
     },
     "356596957835427865": {
         "modification_history": {},
