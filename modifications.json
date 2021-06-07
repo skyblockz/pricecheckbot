@@ -447,6 +447,16 @@
                     27000000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    100000,
+                    125000
+                ],
+                "to": [
+                    80000,
+                    85000
+                ]
+            },
             "common_farming_exp_boost": {
                 "from": [
                     60000,
@@ -2356,7 +2366,7 @@
                 ]
             }
         },
-        "total_mods": 232
+        "total_mods": 233
     },
     "356596957835427865": {
         "modification_history": {},
