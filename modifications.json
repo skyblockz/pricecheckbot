@@ -868,6 +868,16 @@
                     65000
                 ]
             },
+            "florid_zombie_sword": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    300000,
+                    3200000
+                ]
+            },
             "flycatcher": {
                 "from": [
                     12000000,
@@ -2509,7 +2519,7 @@
                 ]
             }
         },
-        "total_mods": 249
+        "total_mods": 250
     },
     "356596957835427865": {
         "modification_history": {},
