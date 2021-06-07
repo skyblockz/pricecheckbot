@@ -771,6 +771,16 @@
                     38000
                 ]
             },
+            "epic_zombie_knight_sword": {
+                "from": [
+                    30000,
+                    75000
+                ],
+                "to": [
+                    6000,
+                    10000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -2469,7 +2479,7 @@
                 ]
             }
         },
-        "total_mods": 245
+        "total_mods": 246
     },
     "356596957835427865": {
         "modification_history": {},
