@@ -2438,6 +2438,13 @@
                     2700000
                 ]
             },
+            "uncommon_fishing_exp_boost": {
+                "from": null,
+                "to": [
+                    8000,
+                    20000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     4000000,
@@ -2626,7 +2633,7 @@
                 ]
             }
         },
-        "total_mods": 263
+        "total_mods": 264
     },
     "356596957835427865": {
         "modification_history": {},
