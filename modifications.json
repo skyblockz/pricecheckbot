@@ -1537,6 +1537,16 @@
                     4500000
                 ]
             },
+            "lvl_1_legendary_ender_dragon": {
+                "from": [
+                    158000000,
+                    158000000
+                ],
+                "to": [
+                    145000000,
+                    145000000
+                ]
+            },
             "lvl_1_legendary_snowman": {
                 "from": [
                     5500000,
@@ -2958,7 +2968,7 @@
                 ]
             }
         },
-        "total_mods": 301
+        "total_mods": 302
     },
     "356596957835427865": {
         "modification_history": {},
