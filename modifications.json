@@ -1326,6 +1326,16 @@
                     160000
                 ]
             },
+            "legendary_zombie_knight_chestplate": {
+                "from": [
+                    1500000,
+                    1900000
+                ],
+                "to": [
+                    960000,
+                    1000000
+                ]
+            },
             "legendary_zombie_knight_sword": {
                 "from": [
                     250000,
@@ -2569,7 +2579,7 @@
                 ]
             }
         },
-        "total_mods": 256
+        "total_mods": 257
     },
     "356596957835427865": {
         "modification_history": {},
