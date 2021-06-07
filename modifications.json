@@ -771,6 +771,13 @@
                     1700000
                 ]
             },
+            "epic_fishing_exp_boost": {
+                "from": null,
+                "to": [
+                    2200000,
+                    3000000
+                ]
+            },
             "epic_zombie_commander_whip": {
                 "from": [
                     35000,
@@ -2670,7 +2677,7 @@
                 ]
             }
         },
-        "total_mods": 269
+        "total_mods": 270
     },
     "356596957835427865": {
         "modification_history": {},
