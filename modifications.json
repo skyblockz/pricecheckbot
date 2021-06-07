@@ -3909,6 +3909,16 @@
                     26000000
                 ]
             },
+            "dark_queens_soul_drop": {
+                "from": [
+                    240000,
+                    250000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     700000,
@@ -4000,7 +4010,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "518285389795164200": {
         "modification_history": {},
