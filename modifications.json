@@ -1603,6 +1603,16 @@
                     160000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    125000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     1650000,
@@ -2807,7 +2817,7 @@
                 ]
             }
         },
-        "total_mods": 284
+        "total_mods": 285
     },
     "356596957835427865": {
         "modification_history": {},
