@@ -2517,9 +2517,19 @@
                     9000,
                     10000
                 ]
+            },
+            "zombie_soldier_helmet": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
             }
         },
-        "total_mods": 251
+        "total_mods": 252
     },
     "356596957835427865": {
         "modification_history": {},
