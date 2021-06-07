@@ -2558,6 +2558,13 @@
                     6000000
                 ]
             },
+            "zombie_brain_mixin": {
+                "from": null,
+                "to": [
+                    150000,
+                    170000
+                ]
+            },
             "zombie_ring": {
                 "from": [
                     7000,
@@ -2609,7 +2616,7 @@
                 ]
             }
         },
-        "total_mods": 261
+        "total_mods": 262
     },
     "356596957835427865": {
         "modification_history": {},
