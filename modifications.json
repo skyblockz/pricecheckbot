@@ -4577,6 +4577,16 @@
                     4000000
                 ]
             },
+            "personal_compactor_7000": {
+                "from": [
+                    7000000,
+                    7600000
+                ],
+                "to": [
+                    6400000,
+                    6600000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     350000,
@@ -4608,7 +4618,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "576878043067449354": {
         "modification_history": {
