@@ -4477,6 +4477,16 @@
                     9200
                 ]
             },
+            "end_stone_sword": {
+                "from": [
+                    200000,
+                    210000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     2100000,
@@ -4668,7 +4678,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "576878043067449354": {
         "modification_history": {
