@@ -3733,6 +3733,16 @@
                     15500000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    33600000,
+                    33900000
+                ],
+                "to": [
+                    33600000,
+                    35000000
+                ]
+            },
             "voidedge_katana": {
                 "from": null,
                 "to": [
@@ -3761,7 +3771,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "508886846873272322": {
         "modification_history": {},
