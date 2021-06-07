@@ -711,6 +711,16 @@
                     10000
                 ]
             },
+            "epic_farming_exp_boost": {
+                "from": [
+                    1500000,
+                    1500000
+                ],
+                "to": [
+                    1600000,
+                    1700000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -2279,7 +2289,7 @@
                 ]
             }
         },
-        "total_mods": 223
+        "total_mods": 224
     },
     "356596957835427865": {
         "modification_history": {},
