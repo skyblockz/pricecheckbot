@@ -1740,6 +1740,13 @@
                     600000
                 ]
             },
+            "rare_fishing_exp_boost": {
+                "from": null,
+                "to": [
+                    270000,
+                    300000
+                ]
+            },
             "rare_soulstealer_bow": {
                 "from": [
                     8000,
@@ -2653,7 +2660,7 @@
                 ]
             }
         },
-        "total_mods": 267
+        "total_mods": 268
     },
     "356596957835427865": {
         "modification_history": {},
