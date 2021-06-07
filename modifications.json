@@ -3321,6 +3321,16 @@
                     8000000
                 ]
             },
+            "survivor_cube": {
+                "from": [
+                    1400000,
+                    1400000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     135000,
@@ -3442,7 +3452,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "365916768805453834": {
         "modification_history": {},
