@@ -3743,6 +3743,16 @@
                     35000000
                 ]
             },
+            "storms_chestplate": {
+                "from": [
+                    31200000,
+                    32500000
+                ],
+                "to": [
+                    25500000,
+                    27000000
+                ]
+            },
             "voidedge_katana": {
                 "from": null,
                 "to": [
@@ -3771,7 +3781,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "508886846873272322": {
         "modification_history": {},
