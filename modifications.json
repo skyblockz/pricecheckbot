@@ -761,6 +761,16 @@
                     1700000
                 ]
             },
+            "epic_zombie_commander_whip": {
+                "from": [
+                    35000,
+                    40000
+                ],
+                "to": [
+                    25000,
+                    38000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": null,
                 "to": [
@@ -2449,7 +2459,7 @@
                 ]
             }
         },
-        "total_mods": 242
+        "total_mods": 243
     },
     "356596957835427865": {
         "modification_history": {},
