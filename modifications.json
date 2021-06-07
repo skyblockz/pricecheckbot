@@ -4367,6 +4367,16 @@
                     200000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    618000,
+                    812000
+                ],
+                "to": [
+                    618000,
+                    900000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     2100000,
@@ -4498,7 +4508,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "576878043067449354": {
         "modification_history": {
