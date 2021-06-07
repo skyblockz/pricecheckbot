@@ -3472,6 +3472,16 @@
                     380000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    45000,
+                    65000
+                ],
+                "to": [
+                    70000,
+                    80000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     3480000,
@@ -3665,7 +3675,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "466769036122783744": {
         "modification_history": {},
