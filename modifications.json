@@ -1306,6 +1306,16 @@
                     160000
                 ]
             },
+            "legendary_zombie_knight_sword": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "less_soulflow_engine": {
                 "from": [
                     8500000,
@@ -2489,7 +2499,7 @@
                 ]
             }
         },
-        "total_mods": 247
+        "total_mods": 248
     },
     "356596957835427865": {
         "modification_history": {},
