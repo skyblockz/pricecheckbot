@@ -256,6 +256,16 @@
                     150000
                 ]
             },
+            "bat_the_fish": {
+                "from": [
+                    60000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "beacon_iii": {
                 "from": null,
                 "to": [
@@ -2633,7 +2643,7 @@
                 ]
             }
         },
-        "total_mods": 265
+        "total_mods": 266
     },
     "356596957835427865": {
         "modification_history": {},
