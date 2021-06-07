@@ -1520,6 +1520,16 @@
                     300000
                 ]
             },
+            "rare_farming_exp_boost": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "rare_soulstealer_bow": {
                 "from": [
                     8000,
@@ -2259,7 +2269,7 @@
                 ]
             }
         },
-        "total_mods": 221
+        "total_mods": 222
     },
     "356596957835427865": {
         "modification_history": {},
