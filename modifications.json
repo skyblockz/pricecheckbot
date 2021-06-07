@@ -3530,6 +3530,16 @@
                     3000000
                 ]
             },
+            "florid_zombie_sword": {
+                "from": [
+                    3000000,
+                    3200000
+                ],
+                "to": [
+                    3100000,
+                    3250000
+                ]
+            },
             "gloomlock_grimorie": {
                 "from": null,
                 "to": [
@@ -3675,7 +3685,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "466769036122783744": {
         "modification_history": {},
