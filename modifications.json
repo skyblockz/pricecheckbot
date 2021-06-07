@@ -634,6 +634,16 @@
                     945000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "dragon_tracer_iv": {
                 "from": null,
                 "to": [
@@ -2888,7 +2898,7 @@
                 ]
             }
         },
-        "total_mods": 294
+        "total_mods": 295
     },
     "356596957835427865": {
         "modification_history": {},
