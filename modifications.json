@@ -2673,6 +2673,16 @@
                     40000
                 ]
             },
+            "turbo-cane_1": {
+                "from": [
+                    40000,
+                    60000
+                ],
+                "to": [
+                    50000,
+                    65000
+                ]
+            },
             "ultimate_carrot_candy_upgrade": {
                 "from": [
                     1350000,
@@ -2968,7 +2978,7 @@
                 ]
             }
         },
-        "total_mods": 304
+        "total_mods": 305
     },
     "356596957835427865": {
         "modification_history": {},
