@@ -3002,6 +3002,16 @@
                     1600000
                 ]
             },
+            "golden_necrons_head": {
+                "from": [
+                    28000000,
+                    3000000
+                ],
+                "to": [
+                    3800000,
+                    4400000
+                ]
+            },
             "harvesting_vi": {
                 "from": [
                     75000,
@@ -3230,7 +3240,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "574324424677916674": {
         "modification_history": {
