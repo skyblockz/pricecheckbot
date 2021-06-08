@@ -4338,6 +4338,13 @@
                     650000
                 ]
             },
+            "mana_steal_i": {
+                "from": null,
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
             "one_for_all": {
                 "from": [
                     15000000,
@@ -4406,7 +4413,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "540685105513889793": {
         "modification_history": {},
