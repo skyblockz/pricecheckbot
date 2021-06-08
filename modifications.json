@@ -4448,6 +4448,16 @@
                     650000
                 ]
             },
+            "final_destination_boots": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    1850000,
+                    2500000
+                ]
+            },
             "first_strike_v": {
                 "from": null,
                 "to": [
@@ -4726,7 +4736,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "518285389795164200": {
         "modification_history": {
