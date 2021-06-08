@@ -11716,5 +11716,11 @@
         "hi": 600000,
         "low": 350000,
         "name": "transmission_tuner"
+    },
+    {
+        "ac": true,
+        "hi": 120000,
+        "low": 90000,
+        "name": "mana_steal_i"
     }
 ]
