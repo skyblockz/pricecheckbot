@@ -3929,6 +3929,16 @@
                     300000
                 ]
             },
+            "epic_fishing_exp_boost": {
+                "from": [
+                    2200000,
+                    3000000
+                ],
+                "to": [
+                    1450000,
+                    1800000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     700000,
@@ -4140,7 +4150,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "518285389795164200": {
         "modification_history": {},
