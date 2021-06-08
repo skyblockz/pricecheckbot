@@ -5294,6 +5294,16 @@
                     50000
                 ]
             },
+            "epic_zombie_knight_helmet": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    18000,
+                    30000
+                ]
+            },
             "giants_sword": {
                 "from": [
                     122500000,
@@ -5315,7 +5325,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "608358478712537110": {
         "modification_history": {},
