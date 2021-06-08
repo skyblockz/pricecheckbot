@@ -3492,6 +3492,16 @@
                     80000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    500000,
+                    750000
+                ],
+                "to": [
+                    500000,
+                    575000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     3480000,
@@ -3725,7 +3735,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "466769036122783744": {
         "modification_history": {},
