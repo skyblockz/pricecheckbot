@@ -4099,6 +4099,16 @@
                     17000000
                 ]
             },
+            "voidedge_katana": {
+                "from": [
+                    1399999,
+                    1499999
+                ],
+                "to": [
+                    160000,
+                    1950000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     27000000,
@@ -4130,7 +4140,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "518285389795164200": {
         "modification_history": {},
