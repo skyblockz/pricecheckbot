@@ -3605,6 +3605,16 @@
                     300000
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    400000,
+                    420000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "final_destination_boots": {
                 "from": null,
                 "to": [
@@ -4067,7 +4077,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "466769036122783744": {
         "modification_history": {},
