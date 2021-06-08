@@ -5324,6 +5324,13 @@
                     115000000
                 ]
             },
+            "judgement_core": {
+                "from": null,
+                "to": [
+                    900000000,
+                    1000000000
+                ]
+            },
             "tarantula_helmet": {
                 "from": [
                     990000,
@@ -5335,7 +5342,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608358478712537110": {
         "modification_history": {},
