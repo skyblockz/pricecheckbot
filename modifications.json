@@ -5283,9 +5283,19 @@
                     25000,
                     300000
                 ]
+            },
+            "tarantula_helmet": {
+                "from": [
+                    990000,
+                    1000000
+                ],
+                "to": [
+                    590000,
+                    610000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "608358478712537110": {
         "modification_history": {},
