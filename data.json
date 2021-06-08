@@ -11710,5 +11710,11 @@
         "hi": 1000000000,
         "low": 900000000,
         "name": "judgement_core"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 350000,
+        "name": "transmission_tuner"
     }
 ]
