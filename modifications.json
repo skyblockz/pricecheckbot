@@ -5341,6 +5341,16 @@
                     420000
                 ]
             },
+            "lv1_legendary_mithril_golem": {
+                "from": [
+                    1850000,
+                    2000000
+                ],
+                "to": [
+                    16000000,
+                    1800000
+                ]
+            },
             "tarantula_helmet": {
                 "from": [
                     990000,
@@ -5352,7 +5362,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "608358478712537110": {
         "modification_history": {},
