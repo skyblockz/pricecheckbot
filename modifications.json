@@ -3949,6 +3949,16 @@
                     26000000
                 ]
             },
+            "dark_goggles": {
+                "from": [
+                    80000,
+                    80000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "dark_queens_soul_drop": {
                 "from": [
                     240000,
@@ -4217,7 +4227,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "518285389795164200": {
         "modification_history": {},
