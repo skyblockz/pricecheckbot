@@ -3575,6 +3575,16 @@
                     3750000
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    1100000,
+                    1500000
+                ],
+                "to": [
+                    2250000,
+                    2500000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": [
                     25000,
@@ -4037,7 +4047,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "466769036122783744": {
         "modification_history": {},
