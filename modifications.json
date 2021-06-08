@@ -3934,10 +3934,13 @@
                 ]
             },
             "voidwalker_katana": {
-                "from": null,
-                "to": [
-                    145000,
+                "from": [
+                    100000,
                     175000
+                ],
+                "to": [
+                    110000,
+                    150000
                 ]
             },
             "vorpal_katana": {
@@ -3998,7 +4001,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "466769036122783744": {
         "modification_history": {},
