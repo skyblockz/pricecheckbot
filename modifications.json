@@ -5331,6 +5331,16 @@
                     1000000000
                 ]
             },
+            "kismet_feather": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    350000,
+                    420000
+                ]
+            },
             "tarantula_helmet": {
                 "from": [
                     990000,
@@ -5342,7 +5352,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "608358478712537110": {
         "modification_history": {},
