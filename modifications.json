@@ -3502,6 +3502,16 @@
                     8000000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    2900000,
+                    3000000
+                ],
+                "to": [
+                    2500000,
+                    3000000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     45000,
@@ -3875,7 +3885,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "466769036122783744": {
         "modification_history": {},
