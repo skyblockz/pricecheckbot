@@ -4278,6 +4278,16 @@
     },
     "518285389795164200": {
         "modification_history": {
+            "atomsplit_katana": {
+                "from": [
+                    370000000,
+                    380000000
+                ],
+                "to": [
+                    390000000,
+                    400000000
+                ]
+            },
             "vorpal_katana": {
                 "from": [
                     13500000,
@@ -4289,7 +4299,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "540685105513889793": {
         "modification_history": {},
