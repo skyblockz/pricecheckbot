@@ -3969,6 +3969,13 @@
                     650000
                 ]
             },
+            "first_strike_v": {
+                "from": null,
+                "to": [
+                    90000000,
+                    100000000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     73900000,
@@ -4180,7 +4187,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "518285389795164200": {
         "modification_history": {},
