@@ -4525,6 +4525,16 @@
                     1600000
                 ]
             },
+            "lvl_1_epic_endermite": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    500000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_snowman": {
                 "from": [
                     11700000,
@@ -4766,7 +4776,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "518285389795164200": {
         "modification_history": {
