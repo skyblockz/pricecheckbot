@@ -5284,6 +5284,16 @@
                     300000
                 ]
             },
+            "epic_zombie_knight_chestplate": {
+                "from": [
+                    300000,
+                    470000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "giants_sword": {
                 "from": [
                     122500000,
@@ -5305,7 +5315,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "608358478712537110": {
         "modification_history": {},
