@@ -4368,6 +4368,13 @@
                     17000000
                 ]
             },
+            "transmission_tuner": {
+                "from": null,
+                "to": [
+                    350000,
+                    600000
+                ]
+            },
             "vorpal_katana": {
                 "from": [
                     13500000,
@@ -4399,7 +4406,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "540685105513889793": {
         "modification_history": {},
