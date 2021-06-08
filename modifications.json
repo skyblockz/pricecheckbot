@@ -4288,6 +4288,16 @@
                     400000000
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    1500000,
+                    1750000
+                ],
+                "to": [
+                    2000000,
+                    2400000
+                ]
+            },
             "bat_talisman": {
                 "from": [
                     140000,
@@ -4389,7 +4399,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "540685105513889793": {
         "modification_history": {},
