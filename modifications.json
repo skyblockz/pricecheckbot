@@ -3651,10 +3651,13 @@
                 ]
             },
             "handy_blood_chalice": {
-                "from": null,
+                "from": [
+                    19000000,
+                    20000000
+                ],
                 "to": [
-                    17600000,
-                    18000000
+                    12400000,
+                    14000000
                 ]
             },
             "jerry_stone": {
@@ -4024,7 +4027,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "466769036122783744": {
         "modification_history": {},
