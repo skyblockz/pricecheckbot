@@ -161,6 +161,16 @@
                     40000000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    650000,
+                    800000
+                ],
+                "to": [
+                    635000,
+                    700000
+                ]
+            },
             "protection_vi": {
                 "from": [
                     2450000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "275329625478004737": {
         "modification_history": {},
