@@ -3804,6 +3804,13 @@
                     28750000
                 ]
             },
+            "gyrokinetic_wand": {
+                "from": null,
+                "to": [
+                    78000000,
+                    80000000
+                ]
+            },
             "handy_blood_chalice": {
                 "from": [
                     19000000,
@@ -4231,7 +4238,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "466769036122783744": {
         "modification_history": {},
