@@ -81,6 +81,16 @@
                     4300000
                 ]
             },
+            "endstone_geode": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    120000,
+                    140000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     4000000,
@@ -312,7 +322,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "275329625478004737": {
         "modification_history": {},
