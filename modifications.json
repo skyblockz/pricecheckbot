@@ -4144,6 +4144,16 @@
                     2500000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    385000,
+                    400000
+                ]
+            },
             "ender_relic": {
                 "from": null,
                 "to": [
@@ -5114,7 +5124,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "466769036122783744": {
         "modification_history": {},
