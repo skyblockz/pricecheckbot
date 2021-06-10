@@ -3920,6 +3920,16 @@
                     1000000
                 ]
             },
+            "bat_person_artifact": {
+                "from": [
+                    11500000,
+                    12500000
+                ],
+                "to": [
+                    10000000,
+                    10500000
+                ]
+            },
             "bigfoots_lasso": {
                 "from": [
                     25000,
@@ -4666,7 +4676,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "466769036122783744": {
         "modification_history": {},
