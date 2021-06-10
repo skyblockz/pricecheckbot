@@ -346,6 +346,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "all_skills_exp_boost": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "aspect_of_the_dragons": {
                 "from": [
                     950000,
@@ -3253,7 +3263,7 @@
                 ]
             }
         },
-        "total_mods": 320
+        "total_mods": 321
     },
     "353564555164778499": {
         "modification_history": {},
