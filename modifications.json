@@ -2999,9 +2999,12 @@
                 ]
             },
             "uncommon_fishing_exp_boost": {
-                "from": null,
-                "to": [
+                "from": [
                     8000,
+                    20000
+                ],
+                "to": [
+                    10000,
                     20000
                 ]
             },
@@ -3283,7 +3286,7 @@
                 ]
             }
         },
-        "total_mods": 327
+        "total_mods": 328
     },
     "353564555164778499": {
         "modification_history": {},
