@@ -3890,6 +3890,16 @@
                     1250000
                 ]
             },
+            "adaptive_chestplate": {
+                "from": [
+                    3025000,
+                    3500000
+                ],
+                "to": [
+                    3500000,
+                    3750000
+                ]
+            },
             "ancient_rose": {
                 "from": [
                     400000,
@@ -4786,7 +4796,7 @@
                 ]
             }
         },
-        "total_mods": 111
+        "total_mods": 112
     },
     "466769036122783744": {
         "modification_history": {},
