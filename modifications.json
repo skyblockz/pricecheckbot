@@ -649,12 +649,12 @@
             },
             "catacombs_expert_ring": {
                 "from": [
-                    26000000,
-                    28300000
-                ],
-                "to": [
                     25000000,
                     27000000
+                ],
+                "to": [
+                    27900000,
+                    28400000
                 ]
             },
             "challenging_rod": {
@@ -3283,7 +3283,7 @@
                 ]
             }
         },
-        "total_mods": 326
+        "total_mods": 327
     },
     "353564555164778499": {
         "modification_history": {},
