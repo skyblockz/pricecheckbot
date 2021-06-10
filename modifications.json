@@ -201,6 +201,16 @@
                     20000000
                 ]
             },
+            "rock_candy": {
+                "from": [
+                    10000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1000000,
@@ -282,7 +292,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "275329625478004737": {
         "modification_history": {},
