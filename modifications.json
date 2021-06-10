@@ -677,6 +677,16 @@
                     18000000
                 ]
             },
+            "colossal_experience_bottle_upgrade": {
+                "from": [
+                    300000,
+                    500000
+                ],
+                "to": [
+                    385000,
+                    440000
+                ]
+            },
             "common_farming_exp_boost": {
                 "from": [
                     118000,
@@ -3263,7 +3273,7 @@
                 ]
             }
         },
-        "total_mods": 322
+        "total_mods": 323
     },
     "353564555164778499": {
         "modification_history": {},
