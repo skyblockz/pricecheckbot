@@ -4369,6 +4369,16 @@
                     1250000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    64500000,
+                    68500000
+                ],
+                "to": [
+                    67500000,
+                    70000000
+                ]
+            },
             "potato_talisman": {
                 "from": [
                     4500000,
@@ -4736,7 +4746,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "466769036122783744": {
         "modification_history": {},
