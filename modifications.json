@@ -3889,6 +3889,16 @@
                     100000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    250,
+                    1000
+                ]
+            },
             "silk_edge_sword": {
                 "from": [
                     2100000,
@@ -3900,7 +3910,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "466522885536612353": {
         "modification_history": {
