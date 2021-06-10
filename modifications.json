@@ -4158,6 +4158,16 @@
                     600000
                 ]
             },
+            "giants_sword": {
+                "from": [
+                    120000000,
+                    145000000
+                ],
+                "to": [
+                    126000000,
+                    128000000
+                ]
+            },
             "gloomlock_grimorie": {
                 "from": null,
                 "to": [
@@ -4806,7 +4816,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "466769036122783744": {
         "modification_history": {},
