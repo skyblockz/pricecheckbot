@@ -1433,6 +1433,16 @@
                     58000
                 ]
             },
+            "health_enrichment": {
+                "from": [
+                    1550000,
+                    1650000
+                ],
+                "to": [
+                    1650000,
+                    1890000
+                ]
+            },
             "hilt_of_true_ice": {
                 "from": [
                     50000,
@@ -3313,7 +3323,7 @@
                 ]
             }
         },
-        "total_mods": 335
+        "total_mods": 336
     },
     "353564555164778499": {
         "modification_history": {},
