@@ -4095,6 +4095,16 @@
                     28750000
                 ]
             },
+            "golem_armor_chestplate": {
+                "from": [
+                    83000,
+                    92000
+                ],
+                "to": [
+                    120000,
+                    140000
+                ]
+            },
             "gyrokinetic_wand": {
                 "from": null,
                 "to": [
@@ -4529,7 +4539,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "466769036122783744": {
         "modification_history": {},
