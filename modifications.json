@@ -4105,6 +4105,16 @@
                     140000
                 ]
             },
+            "golem_armor_leggings": {
+                "from": [
+                    72000,
+                    76000
+                ],
+                "to": [
+                    80000,
+                    94000
+                ]
+            },
             "gyrokinetic_wand": {
                 "from": null,
                 "to": [
@@ -4539,7 +4549,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "466769036122783744": {
         "modification_history": {},
