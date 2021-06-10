@@ -4145,6 +4145,16 @@
                     28750000
                 ]
             },
+            "golden_plate": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1500000,
+                    1750000
+                ]
+            },
             "golem_armor_chestplate": {
                 "from": [
                     83000,
@@ -4766,7 +4776,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "466769036122783744": {
         "modification_history": {},
