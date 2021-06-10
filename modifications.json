@@ -4090,6 +4090,13 @@
                     2500000
                 ]
             },
+            "ender_relic": {
+                "from": null,
+                "to": [
+                    104000000,
+                    105750000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": [
                     25000,
@@ -4883,7 +4890,7 @@
                 ]
             }
         },
-        "total_mods": 126
+        "total_mods": 127
     },
     "466769036122783744": {
         "modification_history": {},
