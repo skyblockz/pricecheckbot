@@ -4656,6 +4656,16 @@
                     2500000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    16800000,
+                    17500000
+                ],
+                "to": [
+                    16800000,
+                    18000000
+                ]
+            },
             "first_strike_v": {
                 "from": null,
                 "to": [
@@ -4984,7 +4994,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "518285389795164200": {
         "modification_history": {
