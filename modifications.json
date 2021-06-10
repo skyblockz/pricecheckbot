@@ -1649,12 +1649,12 @@
             },
             "legendary_zombie_knight_sword": {
                 "from": [
-                    80000,
-                    100000
-                ],
-                "to": [
                     100000,
                     200000
+                ],
+                "to": [
+                    80000,
+                    150000
                 ]
             },
             "legendary_zombie_soldier_leggings": {
@@ -3243,7 +3243,7 @@
                 ]
             }
         },
-        "total_mods": 318
+        "total_mods": 319
     },
     "353564555164778499": {
         "modification_history": {},
