@@ -4369,6 +4369,16 @@
                     5000000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    25000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "red_claw_artifact": {
                 "from": [
                     6500000,
@@ -4716,7 +4726,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "466769036122783744": {
         "modification_history": {},
