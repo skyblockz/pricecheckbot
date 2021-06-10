@@ -4615,6 +4615,16 @@
                     5500000
                 ]
             },
+            "wand_of_healing": {
+                "from": [
+                    10000,
+                    16000
+                ],
+                "to": [
+                    7000,
+                    10000
+                ]
+            },
             "wand_of_restoration": {
                 "from": [
                     1200000,
@@ -4706,7 +4716,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "466769036122783744": {
         "modification_history": {},
