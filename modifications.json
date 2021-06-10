@@ -4507,6 +4507,16 @@
                     1250000000
                 ]
             },
+            "titanium_relic": {
+                "from": [
+                    15000000,
+                    17000000
+                ],
+                "to": [
+                    19000000,
+                    19500000
+                ]
+            },
             "void_conqueror_enderman_skin": {
                 "from": null,
                 "to": [
@@ -4609,7 +4619,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "466769036122783744": {
         "modification_history": {},
