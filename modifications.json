@@ -4842,6 +4842,16 @@
                     1250000
                 ]
             },
+            "superior_dragon_helmet": {
+                "from": [
+                    5200000,
+                    5400000
+                ],
+                "to": [
+                    5250000,
+                    5750000
+                ]
+            },
             "suspicious_vial": {
                 "from": [
                     30000,
@@ -5074,7 +5084,7 @@
                 ]
             }
         },
-        "total_mods": 146
+        "total_mods": 147
     },
     "466769036122783744": {
         "modification_history": {},
