@@ -31,6 +31,16 @@
                     550000
                 ]
             },
+            "beating_heart": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    55000,
+                    60000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     15000,
@@ -292,7 +302,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "275329625478004737": {
         "modification_history": {},
