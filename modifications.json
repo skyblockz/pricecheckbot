@@ -4604,6 +4604,16 @@
                     5000000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    125000,
+                    140000
+                ]
+            },
             "radiant_power_orb": {
                 "from": [
                     25000,
@@ -5124,7 +5134,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "466769036122783744": {
         "modification_history": {},
