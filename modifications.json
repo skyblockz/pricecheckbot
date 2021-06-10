@@ -4369,6 +4369,16 @@
                     1250000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    30500000,
+                    32500000
+                ],
+                "to": [
+                    58700000,
+                    60000000
+                ]
+            },
             "overflux_power_orb": {
                 "from": [
                     64500000,
@@ -4746,7 +4756,7 @@
                 ]
             }
         },
-        "total_mods": 106
+        "total_mods": 107
     },
     "466769036122783744": {
         "modification_history": {},
