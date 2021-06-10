@@ -1400,6 +1400,16 @@
                     500000
                 ]
             },
+            "golem_armor_boots": {
+                "from": [
+                    65000,
+                    75000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "golem_armor_helmet": {
                 "from": [
                     50000,
@@ -3484,7 +3494,7 @@
                 ]
             }
         },
-        "total_mods": 361
+        "total_mods": 362
     },
     "353564555164778499": {
         "modification_history": {},
