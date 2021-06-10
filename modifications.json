@@ -811,6 +811,16 @@
                     250000000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    9000,
+                    20000
+                ],
+                "to": [
+                    45000,
+                    75000
+                ]
+            },
             "divers_mask": {
                 "from": [
                     89000,
@@ -3370,7 +3380,7 @@
                 ]
             }
         },
-        "total_mods": 343
+        "total_mods": 344
     },
     "353564555164778499": {
         "modification_history": {},
