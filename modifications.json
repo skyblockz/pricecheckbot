@@ -2165,6 +2165,16 @@
                     800000
                 ]
             },
+            "premium_flesh": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "protector_dragon_chestplate": {
                 "from": [
                     100000,
@@ -3350,7 +3360,7 @@
                 ]
             }
         },
-        "total_mods": 341
+        "total_mods": 342
     },
     "353564555164778499": {
         "modification_history": {},
