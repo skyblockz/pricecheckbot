@@ -1423,6 +1423,16 @@
                     400000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    170000,
+                    200000
+                ],
+                "to": [
+                    49000,
+                    58000
+                ]
+            },
             "hilt_of_true_ice": {
                 "from": [
                     50000,
@@ -3303,7 +3313,7 @@
                 ]
             }
         },
-        "total_mods": 334
+        "total_mods": 335
     },
     "353564555164778499": {
         "modification_history": {},
