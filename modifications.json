@@ -679,12 +679,12 @@
             },
             "common_farming_exp_boost": {
                 "from": [
-                    60000,
-                    60000
-                ],
-                "to": [
                     118000,
                     120000
+                ],
+                "to": [
+                    138000,
+                    142000
                 ]
             },
             "common_foraging_exp_boost": {
@@ -3263,7 +3263,7 @@
                 ]
             }
         },
-        "total_mods": 321
+        "total_mods": 322
     },
     "353564555164778499": {
         "modification_history": {},
