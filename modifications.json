@@ -1694,6 +1694,16 @@
                     5000
                 ]
             },
+            "lasrs_eye": {
+                "from": [
+                    275000,
+                    300000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
             "legendary_zombie_knight_boots": {
                 "from": [
                     200000,
@@ -3323,7 +3333,7 @@
                 ]
             }
         },
-        "total_mods": 338
+        "total_mods": 339
     },
     "353564555164778499": {
         "modification_history": {},
