@@ -3306,6 +3306,16 @@
                     200000000
                 ]
             },
+            "water_hydra_head": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    45000,
+                    99000
+                ]
+            },
             "water_trough": {
                 "from": null,
                 "to": [
@@ -3501,7 +3511,7 @@
                 ]
             }
         },
-        "total_mods": 363
+        "total_mods": 364
     },
     "353564555164778499": {
         "modification_history": {},
