@@ -3123,6 +3123,16 @@
                     350000
                 ]
             },
+            "spooky_leggings": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    600000,
+                    65000
+                ]
+            },
             "spooky_pie": {
                 "from": null,
                 "to": [
@@ -3680,7 +3690,7 @@
                 ]
             }
         },
-        "total_mods": 384
+        "total_mods": 385
     },
     "353564555164778499": {
         "modification_history": {},
