@@ -1982,6 +1982,13 @@
                     1800000
                 ]
             },
+            "magical_milk_bucket": {
+                "from": null,
+                "to": [
+                    100000,
+                    300000
+                ]
+            },
             "magical_rune_i": {
                 "from": null,
                 "to": [
@@ -3599,7 +3606,7 @@
                 ]
             }
         },
-        "total_mods": 375
+        "total_mods": 376
     },
     "353564555164778499": {
         "modification_history": {},
