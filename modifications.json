@@ -92,6 +92,16 @@
                     1050000
                 ]
             },
+            "unstable_dragon_boots": {
+                "from": [
+                    110000,
+                    130000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "unstable_dragon_chestplate": {
                 "from": [
                     200000,
@@ -163,7 +173,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "365916768805453834": {
         "modification_history": {},
