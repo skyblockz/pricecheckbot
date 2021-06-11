@@ -3306,6 +3306,13 @@
                     200000000
                 ]
             },
+            "water_trough": {
+                "from": null,
+                "to": [
+                    170000,
+                    196000
+                ]
+            },
             "weak_wolf_catalyst": {
                 "from": [
                     100000,
@@ -3494,7 +3501,7 @@
                 ]
             }
         },
-        "total_mods": 362
+        "total_mods": 363
     },
     "353564555164778499": {
         "modification_history": {},
