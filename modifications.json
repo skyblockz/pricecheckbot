@@ -7219,6 +7219,16 @@
                     120000000
                 ]
             },
+            "diamond_necron_head": {
+                "from": [
+                    94000000,
+                    98000000
+                ],
+                "to": [
+                    112000000,
+                    170000000
+                ]
+            },
             "diamond_sadan_head": {
                 "from": [
                     1420000,
@@ -7394,7 +7404,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "608358478712537110": {
         "modification_history": {},
