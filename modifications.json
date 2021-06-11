@@ -1982,6 +1982,16 @@
                     1800000
                 ]
             },
+            "magic_find_i_potion": {
+                "from": [
+                    5000,
+                    25000
+                ],
+                "to": [
+                    24000,
+                    24000
+                ]
+            },
             "magical_milk_bucket": {
                 "from": null,
                 "to": [
@@ -3606,7 +3616,7 @@
                 ]
             }
         },
-        "total_mods": 376
+        "total_mods": 377
     },
     "353564555164778499": {
         "modification_history": {},
