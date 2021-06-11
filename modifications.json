@@ -7229,6 +7229,16 @@
                     3200000
                 ]
             },
+            "dragon_horn": {
+                "from": [
+                    5200000,
+                    6000000
+                ],
+                "to": [
+                    3900000,
+                    4000000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": null,
                 "to": [
@@ -7354,7 +7364,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "608358478712537110": {
         "modification_history": {},
