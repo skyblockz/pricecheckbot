@@ -100,8 +100,19 @@
         "total_mods": 0
     },
     "511724576674414600": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "exp_share_core": {
+                "from": [
+                    590000,
+                    640000
+                ],
+                "to": [
+                    400000,
+                    550000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "518285389795164200": {
         "modification_history": {},
