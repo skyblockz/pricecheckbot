@@ -3103,6 +3103,16 @@
                     48000000
                 ]
             },
+            "spooky_helmet": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    240000,
+                    350000
+                ]
+            },
             "spooky_pie": {
                 "from": null,
                 "to": [
@@ -3660,7 +3670,7 @@
                 ]
             }
         },
-        "total_mods": 382
+        "total_mods": 383
     },
     "353564555164778499": {
         "modification_history": {},
