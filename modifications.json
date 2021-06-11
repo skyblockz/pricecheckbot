@@ -7239,6 +7239,16 @@
                     5000000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    385000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": null,
                 "to": [
@@ -7364,7 +7374,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "608358478712537110": {
         "modification_history": {},
