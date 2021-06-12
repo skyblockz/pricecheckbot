@@ -322,6 +322,16 @@
                     125000
                 ]
             },
+            "mithril-plated_drill_engine": {
+                "from": [
+                    30000000,
+                    35500000
+                ],
+                "to": [
+                    24400000,
+                    24700000
+                ]
+            },
             "mithril_coat": {
                 "from": null,
                 "to": [
@@ -601,7 +611,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "353564555164778499": {
         "modification_history": {},
