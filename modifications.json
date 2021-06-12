@@ -157,6 +157,16 @@
                     2500000
                 ]
             },
+            "gold_claws": {
+                "from": [
+                    5750000,
+                    6500000
+                ],
+                "to": [
+                    9000000,
+                    10000000
+                ]
+            },
             "gold_horse_armour": {
                 "from": null,
                 "to": [
@@ -404,7 +414,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "353564555164778499": {
         "modification_history": {},
