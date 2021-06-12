@@ -47,6 +47,16 @@
                     50000
                 ]
             },
+            "common_mining_exp_boost": {
+                "from": [
+                    120000,
+                    120000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "ghoul_buster": {
                 "from": [
                     1500000,
@@ -78,7 +88,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "353564555164778499": {
         "modification_history": {},
