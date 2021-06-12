@@ -84,6 +84,16 @@
                     125000
                 ]
             },
+            "pumpkin_launcher": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    3000000,
+                    35000000
+                ]
+            },
             "pumpkin_minion_skin": {
                 "from": null,
                 "to": [
@@ -119,7 +129,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "353564555164778499": {
         "modification_history": {},
