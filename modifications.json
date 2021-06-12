@@ -265,6 +265,16 @@
                     300000
                 ]
             },
+            "hyper_cleaver": {
+                "from": [
+                    700000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     450000,
@@ -454,7 +464,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "353564555164778499": {
         "modification_history": {},
