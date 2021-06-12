@@ -70,6 +70,16 @@
                     1800000
                 ]
             },
+            "battle_disc": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "biofuel": {
                 "from": null,
                 "to": [
@@ -286,7 +296,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "353564555164778499": {
         "modification_history": {},
