@@ -137,6 +137,16 @@
                     2500000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    70000,
+                    75000
+                ]
+            },
             "golden_rune_i": {
                 "from": null,
                 "to": [
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "353564555164778499": {
         "modification_history": {},
