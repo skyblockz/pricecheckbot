@@ -77,6 +77,16 @@
                     860000
                 ]
             },
+            "rare_mining_exp_boost": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    540000,
+                    545000
+                ]
+            },
             "silky_lichen": {
                 "from": [
                     9000,
@@ -88,7 +98,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "353564555164778499": {
         "modification_history": {},
