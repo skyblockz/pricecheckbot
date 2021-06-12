@@ -50,6 +50,16 @@
                     26000
                 ]
             },
+            "aspect_of_the_void": {
+                "from": [
+                    30500000,
+                    32500000
+                ],
+                "to": [
+                    30000000,
+                    35000000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     2000000,
@@ -246,7 +256,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "353564555164778499": {
         "modification_history": {},
