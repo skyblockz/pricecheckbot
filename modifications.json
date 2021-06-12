@@ -40,6 +40,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "ancestral_spade": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    26000,
+                    26000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     2000000,
@@ -219,7 +229,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "353564555164778499": {
         "modification_history": {},
