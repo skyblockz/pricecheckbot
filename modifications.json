@@ -40,6 +40,16 @@
     },
     "340061760704872448": {
         "modification_history": {
+            "attack_speed_enrichment": {
+                "from": [
+                    2000000,
+                    2400000
+                ],
+                "to": [
+                    1650000,
+                    1800000
+                ]
+            },
             "biofuel": {
                 "from": null,
                 "to": [
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "353564555164778499": {
         "modification_history": {},
