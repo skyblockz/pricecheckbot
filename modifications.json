@@ -285,6 +285,16 @@
                     900000
                 ]
             },
+            "leaping_sword": {
+                "from": [
+                    1400000,
+                    1600000
+                ],
+                "to": [
+                    1600000,
+                    1800000
+                ]
+            },
             "lucky_clover_core": {
                 "from": [
                     450000,
@@ -484,7 +494,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "353564555164778499": {
         "modification_history": {},
