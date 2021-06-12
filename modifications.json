@@ -282,6 +282,16 @@
                     125000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1000000,
+                    1250000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "portal_to_the_gold_mine": {
                 "from": null,
                 "to": [
@@ -444,7 +454,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "353564555164778499": {
         "modification_history": {},
