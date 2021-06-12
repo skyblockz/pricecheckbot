@@ -87,6 +87,16 @@
                     50000
                 ]
             },
+            "cactus_knife": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    1400000,
+                    1500000
+                ]
+            },
             "common_mining_exp_boost": {
                 "from": [
                     120000,
@@ -367,7 +377,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "353564555164778499": {
         "modification_history": {},
