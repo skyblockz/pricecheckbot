@@ -77,6 +77,13 @@
                     860000
                 ]
             },
+            "mining_pumpkin": {
+                "from": null,
+                "to": [
+                    120000,
+                    125000
+                ]
+            },
             "rare_mining_exp_boost": {
                 "from": [
                     500000,
@@ -98,7 +105,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "353564555164778499": {
         "modification_history": {},
