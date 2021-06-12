@@ -154,6 +154,16 @@
                     20000
                 ]
             },
+            "goldor_the_fish": {
+                "from": [
+                    150000,
+                    250000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "hardened_wood": {
                 "from": null,
                 "to": [
@@ -320,7 +330,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "353564555164778499": {
         "modification_history": {},
