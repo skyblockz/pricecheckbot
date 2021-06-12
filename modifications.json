@@ -503,6 +503,16 @@
                     140000
                 ]
             },
+            "sorrow": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    194000,
+                    224000
+                ]
+            },
             "sorrow_boots": {
                 "from": null,
                 "to": [
@@ -658,7 +668,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "353564555164778499": {
         "modification_history": {},
