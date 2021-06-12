@@ -141,6 +141,16 @@
                     300000
                 ]
             },
+            "speedster_leggings": {
+                "from": [
+                    375000,
+                    420000
+                ],
+                "to": [
+                    300000,
+                    450000
+                ]
+            },
             "stacked_pumpkins": {
                 "from": null,
                 "to": [
@@ -149,7 +159,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "353564555164778499": {
         "modification_history": {},
