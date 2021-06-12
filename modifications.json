@@ -503,6 +503,16 @@
                     550000
                 ]
             },
+            "treecapitator": {
+                "from": [
+                    2000000,
+                    2400000
+                ],
+                "to": [
+                    3900000,
+                    4000000
+                ]
+            },
             "wood_singularity": {
                 "from": [
                     3800000,
@@ -514,7 +524,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "353564555164778499": {
         "modification_history": {},
