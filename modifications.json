@@ -403,6 +403,16 @@
                     450000
                 ]
             },
+            "pure_mithril": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1250000,
+                    1300000
+                ]
+            },
             "rare_mining_exp_boost": {
                 "from": [
                     500000,
@@ -571,7 +581,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "353564555164778499": {
         "modification_history": {},
