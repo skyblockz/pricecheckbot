@@ -984,6 +984,16 @@
                     30000
                 ]
             },
+            "diamond_necron_head": {
+                "from": [
+                    112000000,
+                    170000000
+                ],
+                "to": [
+                    149000000,
+                    150000000
+                ]
+            },
             "dungeon_orb": {
                 "from": [
                     1,
@@ -1275,7 +1285,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "574324424677916674": {
         "modification_history": {
