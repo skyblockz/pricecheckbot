@@ -984,6 +984,16 @@
                     30000
                 ]
             },
+            "dungeon_orb": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "enchanted_mithril": {
                 "from": [
                     2300,
@@ -1215,7 +1225,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "574324424677916674": {
         "modification_history": {
