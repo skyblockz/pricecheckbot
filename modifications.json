@@ -935,6 +935,16 @@
     },
     "725542601926901770": {
         "modification_history": {
+            "dragon_scale": {
+                "from": [
+                    38000,
+                    50000
+                ],
+                "to": [
+                    75000,
+                    90000
+                ]
+            },
             "large_enchanted_mining_sack": {
                 "from": null,
                 "to": [
@@ -960,7 +970,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "748574639776727134": {
         "modification_history": {},
