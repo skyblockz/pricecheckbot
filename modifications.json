@@ -964,6 +964,16 @@
                     169000
                 ]
             },
+            "bank_i": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "enchanted_mithril": {
                 "from": [
                     2300,
@@ -1125,7 +1135,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "574324424677916674": {
         "modification_history": {
