@@ -917,6 +917,16 @@
                     1200000
                 ]
             },
+            "frozen_blaze_boots": {
+                "from": [
+                    8500000,
+                    9000000
+                ],
+                "to": [
+                    7950000,
+                    7300000
+                ]
+            },
             "lvl_1_epic_pigman": {
                 "from": [
                     900000,
@@ -938,7 +948,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "576878043067449354": {
         "modification_history": {},
