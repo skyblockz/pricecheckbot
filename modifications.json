@@ -1064,6 +1064,16 @@
                     14850000
                 ]
             },
+            "rejuvenate_i": {
+                "from": [
+                    20000,
+                    35000
+                ],
+                "to": [
+                    15000,
+                    24000
+                ]
+            },
             "rogue_sword": {
                 "from": [
                     20,
@@ -1105,7 +1115,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "574324424677916674": {
         "modification_history": {
