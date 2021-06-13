@@ -984,6 +984,16 @@
                     800000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    32000000,
+                    35000000
+                ],
+                "to": [
+                    32500000,
+                    34200000
+                ]
+            },
             "rogue_sword": {
                 "from": [
                     20,
@@ -1015,7 +1025,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "574324424677916674": {
         "modification_history": {
