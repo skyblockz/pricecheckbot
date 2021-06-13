@@ -974,6 +974,16 @@
                     4047000
                 ]
             },
+            "gift_compass": {
+                "from": [
+                    15000,
+                    30000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "mender_fedora": {
                 "from": [
                     570000,
@@ -1045,7 +1055,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "574324424677916674": {
         "modification_history": {
