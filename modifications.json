@@ -1120,6 +1120,16 @@
                     550000
                 ]
             },
+            "green_jerry_talisman": {
+                "from": [
+                    400000,
+                    600000
+                ],
+                "to": [
+                    490000,
+                    600000
+                ]
+            },
             "warden_heart": {
                 "from": [
                     137500000,
@@ -1141,7 +1151,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "540685105513889793": {
         "modification_history": {},
