@@ -1439,6 +1439,16 @@
                     1350000000
                 ]
             },
+            "third_master_star": {
+                "from": [
+                    54000000,
+                    56000000
+                ],
+                "to": [
+                    48000000,
+                    50000000
+                ]
+            },
             "wither_cloak_sword": {
                 "from": [
                     3000000,
@@ -1450,7 +1460,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
