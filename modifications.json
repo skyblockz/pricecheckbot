@@ -872,6 +872,16 @@
                     450000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    500,
+                    5000
+                ],
+                "to": [
+                    14000,
+                    15000
+                ]
+            },
             "stacked_pumpkins": {
                 "from": null,
                 "to": [
@@ -1014,7 +1024,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "353564555164778499": {
         "modification_history": {},
