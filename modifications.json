@@ -132,6 +132,16 @@
                     80000
                 ]
             },
+            "pocket_espresso_machine": {
+                "from": [
+                    2750000,
+                    2900000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     1100000,
@@ -257,7 +267,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "275329625478004737": {
         "modification_history": {},
