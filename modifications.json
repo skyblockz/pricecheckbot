@@ -147,6 +147,16 @@
                     200000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    45000,
+                    75000
+                ],
+                "to": [
+                    9000,
+                    12000
+                ]
+            },
             "end_stone_sword": {
                 "from": [
                     140000,
@@ -870,7 +880,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "353564555164778499": {
         "modification_history": {},
