@@ -157,6 +157,13 @@
                     2750000
                 ]
             },
+            "flower_bed": {
+                "from": null,
+                "to": [
+                    90000,
+                    140000
+                ]
+            },
             "fly_swatter": {
                 "from": [
                     670000,
@@ -792,7 +799,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "353564555164778499": {
         "modification_history": {},
