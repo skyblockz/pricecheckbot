@@ -883,6 +883,16 @@
                     1500000
                 ]
             },
+            "lvl_100_legendary_lion": {
+                "from": [
+                    37000000,
+                    37500000
+                ],
+                "to": [
+                    39000000,
+                    4100000
+                ]
+            },
             "wither_cloak_sword": {
                 "from": [
                     3000000,
@@ -894,7 +904,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "466769036122783744": {
         "modification_history": {},
