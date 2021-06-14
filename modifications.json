@@ -162,6 +162,13 @@
                     4000000
                 ]
             },
+            "sinful_dice": {
+                "from": null,
+                "to": [
+                    70000,
+                    80000
+                ]
+            },
             "syphon_iv": {
                 "from": [
                     850000,
@@ -233,7 +240,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "275329625478004737": {
         "modification_history": {},
