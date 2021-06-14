@@ -547,6 +547,16 @@
                     1300000
                 ]
             },
+            "rare_diamond": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "rare_mining_exp_boost": {
                 "from": [
                     500000,
@@ -860,7 +870,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "353564555164778499": {
         "modification_history": {},
