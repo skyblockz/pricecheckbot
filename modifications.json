@@ -90,6 +90,16 @@
                     5000
                 ]
             },
+            "beacon_block": {
+                "from": [
+                    175000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "biofuel": {
                 "from": null,
                 "to": [
@@ -772,7 +782,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "353564555164778499": {
         "modification_history": {},
