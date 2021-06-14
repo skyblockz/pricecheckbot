@@ -637,6 +637,13 @@
                     300000
                 ]
             },
+            "stockings": {
+                "from": null,
+                "to": [
+                    200000,
+                    500000
+                ]
+            },
             "storm_the_fish": {
                 "from": [
                     170000,
@@ -758,7 +765,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "353564555164778499": {
         "modification_history": {},
