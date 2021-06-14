@@ -564,6 +564,13 @@
                     500000
                 ]
             },
+            "redstone_key": {
+                "from": null,
+                "to": [
+                    100000000,
+                    100000000
+                ]
+            },
             "royal_pigeon": {
                 "from": [
                     2400000,
@@ -853,7 +860,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "353564555164778499": {
         "modification_history": {},
