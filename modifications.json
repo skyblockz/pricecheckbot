@@ -147,6 +147,16 @@
                     200000
                 ]
             },
+            "diamond_atom": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     45000,
@@ -880,7 +890,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "353564555164778499": {
         "modification_history": {},
