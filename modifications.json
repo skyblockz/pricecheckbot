@@ -147,6 +147,16 @@
                     400000
                 ]
             },
+            "exp_share": {
+                "from": [
+                    1150000,
+                    1250000
+                ],
+                "to": [
+                    790000,
+                    815000
+                ]
+            },
             "florid_zombie_sword": {
                 "from": [
                     3100000,
@@ -816,7 +826,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "353564555164778499": {
         "modification_history": {},
