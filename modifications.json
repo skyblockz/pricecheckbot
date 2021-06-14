@@ -1160,6 +1160,16 @@
                     200000000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    390000000,
+                    400000000
+                ],
+                "to": [
+                    430000000,
+                    450000000
+                ]
+            },
             "purple_jerry_talisman": {
                 "from": [
                     14890000,
@@ -1201,7 +1211,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "540685105513889793": {
         "modification_history": {},
