@@ -730,6 +730,16 @@
                     100000
                 ]
             },
+            "sorrow_helmet": {
+                "from": [
+                    3600000,
+                    3800000
+                ],
+                "to": [
+                    3300000,
+                    3400000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     700000,
@@ -851,7 +861,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "365916768805453834": {
         "modification_history": {},
