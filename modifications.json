@@ -557,6 +557,13 @@
                     545000
                 ]
             },
+            "redstone_chest+": {
+                "from": null,
+                "to": [
+                    250000,
+                    500000
+                ]
+            },
             "royal_pigeon": {
                 "from": [
                     2400000,
@@ -846,7 +853,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "353564555164778499": {
         "modification_history": {},
