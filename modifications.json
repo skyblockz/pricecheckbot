@@ -1339,6 +1339,16 @@
                     4100000
                 ]
             },
+            "petrified_starfall": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    275000,
+                    300000
+                ]
+            },
             "wither_cloak_sword": {
                 "from": [
                     3000000,
@@ -1350,7 +1360,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "466769036122783744": {
         "modification_history": {},
