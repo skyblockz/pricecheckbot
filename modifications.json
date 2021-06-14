@@ -1140,6 +1140,16 @@
                     550000
                 ]
             },
+            "glacite_boots": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "glacite_helmet": {
                 "from": [
                     15000,
@@ -1251,7 +1261,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "540685105513889793": {
         "modification_history": {},
