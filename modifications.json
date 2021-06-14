@@ -265,9 +265,19 @@
                     4700000,
                     5000000
                 ]
+            },
+            "zombie_brain_mixin": {
+                "from": [
+                    150000,
+                    170000
+                ],
+                "to": [
+                    140000,
+                    160000
+                ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "275329625478004737": {
         "modification_history": {},
