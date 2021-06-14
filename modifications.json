@@ -1006,6 +1006,16 @@
                     50000
                 ]
             },
+            "weak_wolf_catalyst": {
+                "from": [
+                    55000,
+                    85000
+                ],
+                "to": [
+                    15000,
+                    15000
+                ]
+            },
             "weather_node": {
                 "from": null,
                 "to": [
@@ -1024,7 +1034,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "353564555164778499": {
         "modification_history": {},
