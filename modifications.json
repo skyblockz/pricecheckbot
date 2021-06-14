@@ -707,6 +707,16 @@
                     5300000
                 ]
             },
+            "thinking_rock_skin": {
+                "from": [
+                    100000000,
+                    120000000
+                ],
+                "to": [
+                    120000000,
+                    150000000
+                ]
+            },
             "travel_scroll_to_gold_mine": {
                 "from": [
                     100000,
@@ -748,7 +758,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "353564555164778499": {
         "modification_history": {},
