@@ -2365,6 +2365,16 @@
                     90000
                 ]
             },
+            "hegemony_artifact": {
+                "from": [
+                    180000000,
+                    200000000
+                ],
+                "to": [
+                    210000000,
+                    230000000
+                ]
+            },
             "large_enchanted_mining_sack": {
                 "from": null,
                 "to": [
@@ -2400,7 +2410,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "748574639776727134": {
         "modification_history": {},
