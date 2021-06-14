@@ -157,6 +157,13 @@
                     900000
                 ]
             },
+            "diamond_chest+": {
+                "from": null,
+                "to": [
+                    600000,
+                    600000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     45000,
@@ -890,7 +897,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "353564555164778499": {
         "modification_history": {},
