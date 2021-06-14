@@ -463,6 +463,16 @@
                     2000
                 ]
             },
+            "miner_chestplate": {
+                "from": [
+                    1420,
+                    1420
+                ],
+                "to": [
+                    4000,
+                    4000
+                ]
+            },
             "miner_leggings": {
                 "from": [
                     1200,
@@ -954,7 +964,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "353564555164778499": {
         "modification_history": {},
