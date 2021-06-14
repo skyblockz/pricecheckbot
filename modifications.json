@@ -1200,6 +1200,16 @@
                     13900000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    500000,
+                    700000
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     390000000,
@@ -1351,7 +1361,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "540685105513889793": {
         "modification_history": {},
