@@ -147,6 +147,16 @@
                     200000
                 ]
             },
+            "diamantes_handle": {
+                "from": [
+                    1250000,
+                    1500000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "diamond_atom": {
                 "from": [
                     200000,
@@ -897,7 +907,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "353564555164778499": {
         "modification_history": {},
