@@ -2867,6 +2867,16 @@
                     205000000
                 ]
             },
+            "enderpack_skin": {
+                "from": [
+                    5500000,
+                    12500000
+                ],
+                "to": [
+                    5500000,
+                    6500000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     180000000,
@@ -3040,7 +3050,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 42
     },
     "748574639776727134": {
         "modification_history": {},

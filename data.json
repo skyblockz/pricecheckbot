@@ -10741,8 +10741,8 @@
     },
     {
         "ac": true,
-        "hi": 4800000,
-        "low": 4500000,
+        "hi": 4000000,
+        "low": 3000000,
         "name": "ivory_black_cat_skin"
     },
     {
@@ -10765,8 +10765,8 @@
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 4300000,
+        "hi": 3500000,
+        "low": 3000000,
         "name": "blue_egged_skin"
     },
     {
@@ -10777,14 +10777,14 @@
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 4300000,
+        "hi": 4000000,
+        "low": 3500000,
         "name": "purple_egged_skin"
     },
     {
         "ac": true,
-        "hi": 4300000,
-        "low": 4300000,
+        "hi": 6000000,
+        "low": 5000000,
         "name": "green_egged_skin"
     },
     {
@@ -10807,8 +10807,8 @@
     },
     {
         "ac": true,
-        "hi": 7000000,
-        "low": 6000000,
+        "hi": 5500000,
+        "low": 5000000,
         "name": "monochrome_elephant_skin"
     },
     {
@@ -10825,8 +10825,8 @@
     },
     {
         "ac": true,
-        "hi": 12500000,
-        "low": 11490000,
+        "hi": 19000000,
+        "low": 17000000,
         "name": "red_elephant_skin"
     },
     {
@@ -10861,14 +10861,14 @@
     },
     {
         "ac": true,
-        "hi": 8200000,
-        "low": 8000000,
+        "hi": 8000000,
+        "low": 7000000,
         "name": "neon_purple_ender_dragon_skin"
     },
     {
         "ac": true,
-        "hi": 10000000,
-        "low": 9000000,
+        "hi": 19000000,
+        "low": 17000000,
         "name": "neon_red_ender_dragon_skin"
     },
     {
@@ -10957,8 +10957,8 @@
     },
     {
         "ac": true,
-        "hi": 25000000,
-        "low": 25000000,
+        "hi": 30000000,
+        "low": 27000000,
         "name": "shimmer_skin"
     },
     {
@@ -10969,14 +10969,14 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 28000000,
+        "hi": 11000000,
+        "low": 9000000,
         "name": "fortified_silverfish_skin"
     },
     {
         "ac": true,
-        "hi": 100000000,
-        "low": 95000000,
+        "hi": 90000000,
+        "low": 85000000,
         "name": "pink_elephant_skin"
     },
     {
@@ -10987,14 +10987,14 @@
     },
     {
         "ac": true,
-        "hi": 150000000,
-        "low": 100000000,
+        "hi": 85000000,
+        "low": 75000000,
         "name": "blue_elephant_skin"
     },
     {
         "ac": true,
-        "hi": 85000000,
-        "low": 80000000,
+        "hi": 145000000,
+        "low": 135000000,
         "name": "orange_elephant_skin"
     },
     {
@@ -11011,14 +11011,14 @@
     },
     {
         "ac": true,
-        "hi": 65000000,
-        "low": 45000000,
+        "hi": 42000000,
+        "low": 39000000,
         "name": "green_elf_jerry_skin"
     },
     {
         "ac": true,
-        "hi": 20000000,
-        "low": 19800000,
+        "hi": 31000000,
+        "low": 29000000,
         "name": "snowglobe_skin"
     },
     {
@@ -11029,14 +11029,14 @@
     },
     {
         "ac": true,
-        "hi": 22500000,
-        "low": 19000000,
+        "hi": 17000000,
+        "low": 15000000,
         "name": "puffer_fish_skin"
     },
     {
         "ac": true,
-        "hi": 60000000,
-        "low": 50000000,
+        "hi": 50000000,
+        "low": 40000000,
         "name": "spirit_skin"
     },
     {
@@ -11077,26 +11077,26 @@
     },
     {
         "ac": true,
-        "hi": 40000000,
-        "low": 35000000,
+        "hi": 27000000,
+        "low": 24000000,
         "name": "puppy_skin"
     },
     {
         "ac": true,
-        "hi": 96000000,
-        "low": 87000000,
+        "hi": 70000000,
+        "low": 67000000,
         "name": "watcher_guardian_skin"
     },
     {
         "ac": true,
-        "hi": 20000000,
-        "low": 18000000,
+        "hi": 17000000,
+        "low": 14000000,
         "name": "reinforced_skin"
     },
     {
         "ac": true,
-        "hi": 250000000,
-        "low": 239000000,
+        "hi": 180000000,
+        "low": 175000000,
         "name": "twilight_tiger_skin"
     },
     {
@@ -11425,8 +11425,8 @@
     },
     {
         "ac": true,
-        "hi": 55000000,
-        "low": 52000000,
+        "hi": 3000000,
+        "low": 2500000,
         "name": "void_conqueror_enderman_skin"
     },
     {
@@ -12064,5 +12064,17 @@
         "hi": 30000000,
         "low": 27000000,
         "name": "neon_yellow_sheep_skin"
+    },
+    {
+        "ac": true,
+        "hi": 21000000,
+        "low": 19000000,
+        "name": "icicle_skin"
+    },
+    {
+        "ac": true,
+        "hi": 7300000,
+        "low": 7000000,
+        "name": "radiant_endermite_skin"
     }
 ]
