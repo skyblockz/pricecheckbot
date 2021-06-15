@@ -2734,6 +2734,16 @@
                     7300000
                 ]
             },
+            "one_for_all": {
+                "from": [
+                    11000000,
+                    14000000
+                ],
+                "to": [
+                    9000000,
+                    11000000
+                ]
+            },
             "pocket_espresso_machine": {
                 "from": null,
                 "to": [
@@ -2762,7 +2772,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "748574639776727134": {
         "modification_history": {},
