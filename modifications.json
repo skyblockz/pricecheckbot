@@ -2707,6 +2707,16 @@
                     4200000
                 ]
             },
+            "baby_chicken_skin": {
+                "from": [
+                    4500000,
+                    5000000
+                ],
+                "to": [
+                    8400000,
+                    8600000
+                ]
+            },
             "booster_cookie": {
                 "from": [
                     1700000,
@@ -2832,7 +2842,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "748574639776727134": {
         "modification_history": {},
