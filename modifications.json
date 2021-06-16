@@ -158,6 +158,16 @@
                     28000000
                 ]
             },
+            "lvl_1_legendary_horse": {
+                "from": [
+                    500000,
+                    800000
+                ],
+                "to": [
+                    1300000,
+                    1400000
+                ]
+            },
             "lvl_1_legendary_pigman": {
                 "from": [
                     2500000,
@@ -209,7 +219,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "236625470387519488": {
         "modification_history": {
