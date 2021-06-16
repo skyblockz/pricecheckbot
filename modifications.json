@@ -1739,6 +1739,16 @@
                     850000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    1400000,
+                    1600000
+                ]
+            },
             "sorrow_helmet": {
                 "from": [
                     3600000,
@@ -1870,7 +1880,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "365916768805453834": {
         "modification_history": {},
