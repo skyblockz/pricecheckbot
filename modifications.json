@@ -51,6 +51,16 @@
                     6800000
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    8500000,
+                    10000000
+                ],
+                "to": [
+                    9500000,
+                    9800000
+                ]
+            },
             "lvl_100_legendary_zombie": {
                 "from": null,
                 "to": [
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "236625470387519488": {
         "modification_history": {
