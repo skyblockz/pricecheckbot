@@ -21,6 +21,16 @@
                     7500000
                 ]
             },
+            "lvl_1_epic_sheep": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    830000,
+                    900000
+                ]
+            },
             "lvl_1_legendary_blaze": {
                 "from": [
                     29000000,
@@ -32,7 +42,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "236625470387519488": {
         "modification_history": {
