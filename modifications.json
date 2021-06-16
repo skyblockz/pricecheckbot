@@ -88,6 +88,16 @@
                     7500000
                 ]
             },
+            "lvl_1_epic_horse": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    140000,
+                    150000
+                ]
+            },
             "lvl_1_epic_pigman": {
                 "from": [
                     750000,
@@ -199,7 +209,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "236625470387519488": {
         "modification_history": {
