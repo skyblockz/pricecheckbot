@@ -1637,6 +1637,13 @@
                     48000000
                 ]
             },
+            "goblin_egg": {
+                "from": null,
+                "to": [
+                    500,
+                    750
+                ]
+            },
             "ice_spray_wand": {
                 "from": [
                     23000000,
@@ -1848,7 +1855,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "466769036122783744": {
         "modification_history": {},
