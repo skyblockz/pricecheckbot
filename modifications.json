@@ -3385,6 +3385,16 @@
                     55000000
                 ]
             },
+            "kat_flower": {
+                "from": [
+                    150000,
+                    165000
+                ],
+                "to": [
+                    139000,
+                    150000
+                ]
+            },
             "large_enchanted_farming_sack": {
                 "from": null,
                 "to": [
@@ -3533,7 +3543,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "608358478712537110": {
         "modification_history": {},
