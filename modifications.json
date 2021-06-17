@@ -2355,6 +2355,16 @@
                     3000000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "enchanted_quartz_block": {
                 "from": [
                     1500000,
@@ -2636,7 +2646,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "508886846873272322": {
         "modification_history": {},
