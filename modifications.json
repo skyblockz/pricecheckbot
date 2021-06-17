@@ -3315,6 +3315,16 @@
     },
     "576878043067449354": {
         "modification_history": {
+            "builders_wand": {
+                "from": [
+                    3700000,
+                    3800000
+                ],
+                "to": [
+                    3000000,
+                    3700000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     50000,
@@ -3353,7 +3363,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "608358478712537110": {
         "modification_history": {},
