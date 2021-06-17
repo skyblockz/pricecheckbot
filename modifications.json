@@ -2348,6 +2348,16 @@
                     900000
                 ]
             },
+            "florid_zombie_sword": {
+                "from": [
+                    2600000,
+                    2750000
+                ],
+                "to": [
+                    2500000,
+                    2750000
+                ]
+            },
             "giant_tooth": {
                 "from": [
                     525000,
@@ -2569,7 +2579,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "508886846873272322": {
         "modification_history": {},
