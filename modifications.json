@@ -3315,6 +3315,16 @@
     },
     "576878043067449354": {
         "modification_history": {
+            "atomsplit_katana": {
+                "from": [
+                    302000000,
+                    325000000
+                ],
+                "to": [
+                    235000000,
+                    236000000
+                ]
+            },
             "builders_wand": {
                 "from": [
                     3700000,
@@ -3483,7 +3493,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "608358478712537110": {
         "modification_history": {},
