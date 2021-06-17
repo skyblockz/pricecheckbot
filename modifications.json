@@ -2428,6 +2428,16 @@
                     850000
                 ]
             },
+            "shadow_assassin_boots": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    850000,
+                    1100000
+                ]
+            },
             "smite_vii": {
                 "from": [
                     4000000,
@@ -2499,7 +2509,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "508886846873272322": {
         "modification_history": {},
