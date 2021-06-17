@@ -3352,6 +3352,16 @@
                     1300000
                 ]
             },
+            "strong_dragon_chestplate": {
+                "from": [
+                    550000,
+                    700000
+                ],
+                "to": [
+                    400000,
+                    475000
+                ]
+            },
             "strong_dragon_helmet": {
                 "from": [
                     625000,
@@ -3383,7 +3393,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608358478712537110": {
         "modification_history": {},
