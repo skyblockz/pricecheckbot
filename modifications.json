@@ -2395,6 +2395,13 @@
                     2750000
                 ]
             },
+            "four_in_a_row": {
+                "from": null,
+                "to": [
+                    2500,
+                    2500
+                ]
+            },
             "giant_tooth": {
                 "from": [
                     525000,
@@ -2703,7 +2710,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "508886846873272322": {
         "modification_history": {},
