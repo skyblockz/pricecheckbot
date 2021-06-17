@@ -3527,6 +3527,16 @@
                     1100000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1400000,
+                    1600000
+                ],
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "venoms_touch": {
                 "from": [
                     600000,
@@ -3538,7 +3548,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "576878043067449354": {
         "modification_history": {
