@@ -3345,6 +3345,16 @@
                     30000
                 ]
             },
+            "juju_shortbow": {
+                "from": [
+                    67000000,
+                    70000000
+                ],
+                "to": [
+                    57000000,
+                    60000000
+                ]
+            },
             "large_enchanted_farming_sack": {
                 "from": null,
                 "to": [
@@ -3463,7 +3473,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "608358478712537110": {
         "modification_history": {},
