@@ -60,8 +60,19 @@
         "total_mods": 0
     },
     "471030925015121930": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "clay_minion_xi": {
+                "from": [
+                    470000,
+                    490000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "508886846873272322": {
         "modification_history": {},
