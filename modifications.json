@@ -481,6 +481,16 @@
                     65000000
                 ]
             },
+            "phantom_rod": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     125000,
@@ -1196,7 +1206,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "365916768805453834": {
         "modification_history": {},
