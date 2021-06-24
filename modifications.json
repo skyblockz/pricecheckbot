@@ -301,6 +301,16 @@
                     15000000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    8000,
+                    20000
+                ],
+                "to": [
+                    8000,
+                    8000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     2000000,
@@ -602,7 +612,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "365916768805453834": {
         "modification_history": {},
