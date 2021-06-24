@@ -41,6 +41,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "boots_of_growth": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    175000,
+                    225000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     650000,
@@ -906,7 +916,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "365916768805453834": {
         "modification_history": {},
