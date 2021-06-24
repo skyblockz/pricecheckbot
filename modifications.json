@@ -241,6 +241,16 @@
                     200000
                 ]
             },
+            "reaper_boots": {
+                "from": [
+                    6200000,
+                    6300000
+                ],
+                "to": [
+                    6500000,
+                    7000000
+                ]
+            },
             "reaper_chestplate": {
                 "from": [
                     7000000,
@@ -512,7 +522,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "365916768805453834": {
         "modification_history": {},
