@@ -441,6 +441,16 @@
                     2500000
                 ]
             },
+            "rotten_helmet": {
+                "from": [
+                    5000,
+                    5100
+                ],
+                "to": [
+                    5000,
+                    5250
+                ]
+            },
             "scorpion_bow": {
                 "from": [
                     4000000,
@@ -822,7 +832,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "365916768805453834": {
         "modification_history": {},
