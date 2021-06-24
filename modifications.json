@@ -61,6 +61,16 @@
                     700000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     2250000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "365916768805453834": {
         "modification_history": {},
