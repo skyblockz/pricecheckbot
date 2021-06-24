@@ -201,6 +201,16 @@
                     200000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2400,
+                    2500
+                ],
+                "to": [
+                    3000,
+                    3250
+                ]
+            },
             "protector_dragon_helmet": {
                 "from": [
                     100000,
@@ -442,7 +452,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "365916768805453834": {
         "modification_history": {},
