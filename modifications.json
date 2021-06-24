@@ -121,6 +121,16 @@
                     1250000
                 ]
             },
+            "epic_zombie_knight_boots": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
             "epic_zombie_knight_chestplate": {
                 "from": [
                     25000,
@@ -936,7 +946,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "365916768805453834": {
         "modification_history": {},
