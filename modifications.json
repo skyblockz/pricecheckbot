@@ -545,6 +545,16 @@
                     3250000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1300000,
+                    1500000
+                ],
+                "to": [
+                    1600000,
+                    1750000
+                ]
+            },
             "spider_boots": {
                 "from": [
                     400000,
@@ -946,7 +956,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "365916768805453834": {
         "modification_history": {},
