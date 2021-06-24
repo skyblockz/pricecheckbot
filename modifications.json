@@ -91,6 +91,16 @@
                     225000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    80000,
+                    85000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     650000,
@@ -1136,7 +1146,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "365916768805453834": {
         "modification_history": {},
