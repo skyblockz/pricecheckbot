@@ -151,6 +151,16 @@
                     200000
                 ]
             },
+            "old_dragon_fragment": {
+                "from": [
+                    2400,
+                    2700
+                ],
+                "to": [
+                    3000,
+                    3250
+                ]
+            },
             "old_dragon_helmet": {
                 "from": [
                     200000,
@@ -432,7 +442,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "365916768805453834": {
         "modification_history": {},
