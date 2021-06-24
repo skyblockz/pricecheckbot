@@ -331,6 +331,16 @@
                     3250000
                 ]
             },
+            "spider_boots": {
+                "from": [
+                    400000,
+                    470000
+                ],
+                "to": [
+                    420000,
+                    500000
+                ]
+            },
             "spider_catalyst": {
                 "from": [
                     14000,
@@ -672,7 +682,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "365916768805453834": {
         "modification_history": {},
