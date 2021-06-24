@@ -735,6 +735,16 @@
                     30000
                 ]
             },
+            "spiked_atrocity": {
+                "from": [
+                    19000000,
+                    20500000
+                ],
+                "to": [
+                    23400000,
+                    25000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     575000,
@@ -1156,7 +1166,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "365916768805453834": {
         "modification_history": {},
