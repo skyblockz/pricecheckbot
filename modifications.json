@@ -975,6 +975,16 @@
                     1150000
                 ]
             },
+            "wither_helmet": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    2400000,
+                    2500000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     125000,
@@ -1066,7 +1076,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "365916768805453834": {
         "modification_history": {},
