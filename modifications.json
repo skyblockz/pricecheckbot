@@ -441,6 +441,16 @@
                     8600000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    650000,
+                    700000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     1800,
@@ -632,7 +642,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "365916768805453834": {
         "modification_history": {},
