@@ -51,6 +51,16 @@
                     1300000
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    2250000,
+                    2500000
+                ],
+                "to": [
+                    3000000,
+                    3250000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     120000,
@@ -372,7 +382,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "365916768805453834": {
         "modification_history": {},
