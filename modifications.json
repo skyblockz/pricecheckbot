@@ -101,6 +101,16 @@
                     1250000
                 ]
             },
+            "grizzly_bait": {
+                "from": [
+                    3000000,
+                    3400000
+                ],
+                "to": [
+                    5500000,
+                    5750000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     120000,
@@ -752,7 +762,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "365916768805453834": {
         "modification_history": {},
