@@ -40,8 +40,19 @@
         "total_mods": 0
     },
     "360017282572877824": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "coco_chopper": {
+                "from": [
+                    1300000,
+                    1500000
+                ],
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "365916768805453834": {
         "modification_history": {},
