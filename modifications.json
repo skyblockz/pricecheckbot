@@ -243,12 +243,12 @@
             },
             "reaper_chestplate": {
                 "from": [
-                    6800000,
-                    7000000
-                ],
-                "to": [
                     7000000,
                     7500090
+                ],
+                "to": [
+                    7250000,
+                    7750000
                 ]
             },
             "strong_dragon_boots": {
@@ -502,7 +502,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "365916768805453834": {
         "modification_history": {},
