@@ -775,6 +775,16 @@
                     25000000
                 ]
             },
+            "sponge_boots": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    650000,
+                    700000
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     1600000,
@@ -1276,7 +1286,7 @@
                 ]
             }
         },
-        "total_mods": 126
+        "total_mods": 127
     },
     "365916768805453834": {
         "modification_history": {},
