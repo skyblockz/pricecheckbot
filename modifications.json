@@ -431,6 +431,16 @@
                     8600000
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    1800,
+                    5000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     100000,
@@ -612,7 +622,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "365916768805453834": {
         "modification_history": {},
