@@ -441,6 +441,16 @@
                     2500000
                 ]
             },
+            "rotten_chestplate": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    5000,
+                    5250
+                ]
+            },
             "rotten_helmet": {
                 "from": [
                     5000,
@@ -832,7 +842,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "365916768805453834": {
         "modification_history": {},
