@@ -121,6 +121,16 @@
                     1250000
                 ]
             },
+            "epic_zombie_knight_helmet": {
+                "from": [
+                    18000,
+                    30000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "grizzly_bait": {
                 "from": [
                     3000000,
@@ -916,7 +926,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "365916768805453834": {
         "modification_history": {},
