@@ -161,6 +161,16 @@
                     18000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    2750000,
+                    3250000
+                ]
+            },
             "mosquito_bow": {
                 "from": [
                     22000000,
@@ -742,7 +752,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "365916768805453834": {
         "modification_history": {},
