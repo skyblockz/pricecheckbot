@@ -94,12 +94,12 @@
             },
             "ancient_rose": {
                 "from": [
-                    350000,
-                    400000
-                ],
-                "to": [
                     375000,
                     425099
+                ],
+                "to": [
+                    350000,
+                    425000
                 ]
             },
             "aspect_of_the_dragons": {
@@ -1557,7 +1557,7 @@
                 ]
             }
         },
-        "total_mods": 193
+        "total_mods": 194
     },
     "365916768805453834": {
         "modification_history": {},
