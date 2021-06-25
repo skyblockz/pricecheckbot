@@ -1346,6 +1346,16 @@
                     2000000
                 ]
             },
+            "wither_catalyst": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1050000,
+                    1125000
+                ]
+            },
             "wither_chestplate": {
                 "from": [
                     21600000,
@@ -1507,7 +1517,7 @@
                 ]
             }
         },
-        "total_mods": 188
+        "total_mods": 189
     },
     "365916768805453834": {
         "modification_history": {},
