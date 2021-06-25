@@ -1461,6 +1461,16 @@
     },
     "542138722582265887": {
         "modification_history": {
+            "adaptive_chestplate": {
+                "from": [
+                    4000000,
+                    4250000
+                ],
+                "to": [
+                    1800000,
+                    1850000
+                ]
+            },
             "edible_mace": {
                 "from": [
                     450000,
@@ -1492,7 +1502,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "565775808124289025": {
         "modification_history": {
