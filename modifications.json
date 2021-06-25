@@ -203,12 +203,12 @@
             },
             "dragon_scale": {
                 "from": [
-                    25000,
-                    30000
-                ],
-                "to": [
                     100000,
                     1250000
+                ],
+                "to": [
+                    175000,
+                    200000
                 ]
             },
             "epic_zombie_knight_boots": {
@@ -1356,7 +1356,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "365916768805453834": {
         "modification_history": {},
