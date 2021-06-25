@@ -111,6 +111,16 @@
                     24000000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    44000,
+                    100000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     12500,
@@ -1376,7 +1386,7 @@
                 ]
             }
         },
-        "total_mods": 171
+        "total_mods": 172
     },
     "365916768805453834": {
         "modification_history": {},
