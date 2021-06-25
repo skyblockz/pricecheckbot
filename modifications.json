@@ -692,6 +692,16 @@
                     1500000
                 ]
             },
+            "revenant_leggings": {
+                "from": [
+                    50000,
+                    79000
+                ],
+                "to": [
+                    170000,
+                    185000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     2000000,
@@ -1437,7 +1447,7 @@
                 ]
             }
         },
-        "total_mods": 181
+        "total_mods": 182
     },
     "365916768805453834": {
         "modification_history": {},
