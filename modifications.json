@@ -937,12 +937,12 @@
             },
             "superior_dragon_boots": {
                 "from": [
-                    4500000,
-                    5000000
-                ],
-                "to": [
                     5000000,
                     5250000
+                ],
+                "to": [
+                    4750000,
+                    5000000
                 ]
             },
             "superior_dragon_chestplate": {
@@ -1356,7 +1356,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "365916768805453834": {
         "modification_history": {},
