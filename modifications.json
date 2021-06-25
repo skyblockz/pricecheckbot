@@ -1426,6 +1426,16 @@
                     1025000
                 ]
             },
+            "zombie_leggings": {
+                "from": [
+                    185000,
+                    300000
+                ],
+                "to": [
+                    175000,
+                    190000
+                ]
+            },
             "zombie_soldier_boots": {
                 "from": [
                     5000,
@@ -1467,7 +1477,7 @@
                 ]
             }
         },
-        "total_mods": 184
+        "total_mods": 185
     },
     "365916768805453834": {
         "modification_history": {},
