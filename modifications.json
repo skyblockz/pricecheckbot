@@ -81,6 +81,16 @@
                     900000
                 ]
             },
+            "aspect_of_the_dragons": {
+                "from": [
+                    1100000,
+                    1600000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "auger_rod": {
                 "from": [
                     8600000,
@@ -1406,7 +1416,7 @@
                 ]
             }
         },
-        "total_mods": 179
+        "total_mods": 180
     },
     "365916768805453834": {
         "modification_history": {},
