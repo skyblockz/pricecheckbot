@@ -101,6 +101,16 @@
                     24000000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    12500,
+                    15000
+                ],
+                "to": [
+                    10000,
+                    10500
+                ]
+            },
             "boots_of_growth": {
                 "from": [
                     400000,
@@ -1336,7 +1346,7 @@
                 ]
             }
         },
-        "total_mods": 132
+        "total_mods": 133
     },
     "365916768805453834": {
         "modification_history": {},
