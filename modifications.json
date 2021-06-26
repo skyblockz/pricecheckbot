@@ -374,12 +374,12 @@
             },
             "holy_dragon_boots": {
                 "from": [
-                    100000,
-                    125000
-                ],
-                "to": [
                     120000,
                     145000
+                ],
+                "to": [
+                    110000,
+                    130000
                 ]
             },
             "holy_dragon_chestplate": {
@@ -1657,7 +1657,7 @@
                 ]
             }
         },
-        "total_mods": 219
+        "total_mods": 220
     },
     "365916768805453834": {
         "modification_history": {},
