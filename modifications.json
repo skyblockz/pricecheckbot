@@ -32,6 +32,16 @@
                     330
                 ]
             },
+            "gold_horse_armour": {
+                "from": [
+                    3700000,
+                    3900000
+                ],
+                "to": [
+                    2200000,
+                    2500000
+                ]
+            },
             "lesser_orb_of_healing": {
                 "from": [
                     325000,
@@ -73,7 +83,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "275329625478004737": {
         "modification_history": {},
