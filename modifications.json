@@ -32,6 +32,16 @@
                     120000
                 ]
             },
+            "lvl_1_epic_horse": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    180000,
+                    190000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     6000,
@@ -53,7 +63,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "275329625478004737": {
         "modification_history": {},
