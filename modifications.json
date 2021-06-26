@@ -384,12 +384,12 @@
             },
             "holy_dragon_chestplate": {
                 "from": [
-                    175000,
-                    225000
-                ],
-                "to": [
                     200000,
                     220000
+                ],
+                "to": [
+                    220000,
+                    230000
                 ]
             },
             "holy_dragon_fragment": {
@@ -1657,7 +1657,7 @@
                 ]
             }
         },
-        "total_mods": 217
+        "total_mods": 218
     },
     "365916768805453834": {
         "modification_history": {},
