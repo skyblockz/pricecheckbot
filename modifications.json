@@ -212,6 +212,16 @@
                     1300000
                 ]
             },
+            "conjuring": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    30000,
+                    32500
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     650000,
@@ -1667,7 +1677,7 @@
                 ]
             }
         },
-        "total_mods": 251
+        "total_mods": 252
     },
     "365916768805453834": {
         "modification_history": {},
