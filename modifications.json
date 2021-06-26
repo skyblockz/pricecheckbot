@@ -602,6 +602,16 @@
                     4250000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    1050000,
+                    1100000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     140000,
@@ -1737,7 +1747,7 @@
                 ]
             }
         },
-        "total_mods": 258
+        "total_mods": 259
     },
     "365916768805453834": {
         "modification_history": {},
