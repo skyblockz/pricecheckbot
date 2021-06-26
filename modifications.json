@@ -62,6 +62,16 @@
                     330
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    22000000,
+                    24000000
+                ],
+                "to": [
+                    16500000,
+                    18000000
+                ]
+            },
             "giant_killer_vii": {
                 "from": [
                     18000000,
@@ -213,7 +223,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "275329625478004737": {
         "modification_history": {},
