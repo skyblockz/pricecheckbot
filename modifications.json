@@ -1801,12 +1801,12 @@
             },
             "old_dragon_leggings": {
                 "from": [
-                    240000,
-                    255000
-                ],
-                "to": [
                     230000,
                     275000
+                ],
+                "to": [
+                    185000,
+                    225000
                 ]
             },
             "pooch_sword": {
@@ -1930,7 +1930,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "466769036122783744": {
         "modification_history": {},
