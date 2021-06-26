@@ -15,6 +15,16 @@
                     8000
                 ]
             },
+            "diamond_horse_armour": {
+                "from": [
+                    8900000,
+                    9900000
+                ],
+                "to": [
+                    7400000,
+                    7600000
+                ]
+            },
             "enchanted_wool": {
                 "from": null,
                 "to": [
@@ -63,7 +73,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "275329625478004737": {
         "modification_history": {},
