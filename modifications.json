@@ -1699,6 +1699,16 @@
                     210000000
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "god_potion": {
                 "from": [
                     400000,
@@ -1760,7 +1770,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {},
