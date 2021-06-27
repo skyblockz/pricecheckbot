@@ -31,6 +31,16 @@
                     110000
                 ]
             },
+            "lvl_1_epic_spider": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "lvl_1_legendary_bat": {
                 "from": [
                     1050000,
@@ -42,7 +52,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "236625470387519488": {
         "modification_history": {
