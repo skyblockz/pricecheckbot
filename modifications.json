@@ -3212,6 +3212,16 @@
                     4500000
                 ]
             },
+            "final_destination_boots": {
+                "from": [
+                    1850000,
+                    2500000
+                ],
+                "to": [
+                    1700000,
+                    1900000
+                ]
+            },
             "first_master_star": {
                 "from": [
                     18400000,
@@ -3443,7 +3453,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "608358478712537110": {
         "modification_history": {},
