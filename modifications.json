@@ -1863,12 +1863,12 @@
             },
             "superior_dragon_helmet": {
                 "from": [
-                    5800000,
-                    6500000
-                ],
-                "to": [
                     5600000,
                     5750000
+                ],
+                "to": [
+                    5400000,
+                    5600000
                 ]
             },
             "superior_dragon_leggings": {
@@ -2332,7 +2332,7 @@
                 ]
             }
         },
-        "total_mods": 287
+        "total_mods": 288
     },
     "365916768805453834": {
         "modification_history": {},
