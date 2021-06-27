@@ -11,6 +11,16 @@
                     5000000
                 ]
             },
+            "lvl_100_epic_mithril_golem": {
+                "from": [
+                    2000000,
+                    2300000
+                ],
+                "to": [
+                    1800000,
+                    1900000
+                ]
+            },
             "lvl_100_legendary_bat": {
                 "from": [
                     8400000,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "236625470387519488": {
         "modification_history": {
