@@ -3182,6 +3182,16 @@
                     290000
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    2400000,
+                    2500000
+                ],
+                "to": [
+                    1900000,
+                    2300000
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     3600000,
@@ -3413,7 +3423,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608358478712537110": {
         "modification_history": {},
