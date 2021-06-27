@@ -2878,6 +2878,16 @@
                     1100000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    610000,
+                    630000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": [
                     575000,
@@ -3059,7 +3069,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "565775808124289025": {
         "modification_history": {
