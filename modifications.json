@@ -51,6 +51,16 @@
                     5000000
                 ]
             },
+            "lvl_100_legendary_silverfish": {
+                "from": [
+                    6400000,
+                    7000000
+                ],
+                "to": [
+                    3400000,
+                    3500000
+                ]
+            },
             "lvl_100_legendary_spider": {
                 "from": [
                     25000000,
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "236625470387519488": {
         "modification_history": {
