@@ -158,6 +158,16 @@
                     1500000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    400000,
+                    600000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "lvl_1_legendary_silverfish": {
                 "from": [
                     700000,
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "236625470387519488": {
         "modification_history": {
