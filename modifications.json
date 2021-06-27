@@ -3222,6 +3222,16 @@
                     5200000
                 ]
             },
+            "plasma_nucleus": {
+                "from": [
+                    77000000,
+                    80000000
+                ],
+                "to": [
+                    75000000,
+                    78000000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     160000000,
@@ -3283,7 +3293,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "608358478712537110": {
         "modification_history": {},
