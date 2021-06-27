@@ -2743,6 +2743,16 @@
                     1600000
                 ]
             },
+            "void_conqueror_enderman_skin": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "wither_blood": {
                 "from": [
                     1700000,
@@ -2754,7 +2764,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "508886846873272322": {
         "modification_history": {},
