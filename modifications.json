@@ -2653,6 +2653,16 @@
                     400000
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "final_destination_leggings": {
                 "from": [
                     3200000,
@@ -2804,7 +2814,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "508886846873272322": {
         "modification_history": {},
