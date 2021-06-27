@@ -71,6 +71,16 @@
                     220000
                 ]
             },
+            "lvl_1_epic_silverfish": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    170000,
+                    180000
+                ]
+            },
             "lvl_1_epic_skeleton": {
                 "from": [
                     105000,
@@ -129,7 +139,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "236625470387519488": {
         "modification_history": {
