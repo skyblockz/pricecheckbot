@@ -2653,6 +2653,16 @@
                     400000
                 ]
             },
+            "enchanted_fermented_spider_eye": {
+                "from": [
+                    58400,
+                    69000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": [
                     250000,
@@ -2834,7 +2844,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "508886846873272322": {
         "modification_history": {},
