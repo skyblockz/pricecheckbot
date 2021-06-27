@@ -21,6 +21,16 @@
                     1900000
                 ]
             },
+            "lvl_100_epic_rabbit": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    6000000,
+                    6200000
+                ]
+            },
             "lvl_100_epic_silverfish": {
                 "from": [
                     3500000,
@@ -179,7 +189,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "236625470387519488": {
         "modification_history": {
