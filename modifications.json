@@ -21,6 +21,16 @@
                     1900000
                 ]
             },
+            "lvl_100_epic_silverfish": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    5500000,
+                    5600000
+                ]
+            },
             "lvl_100_legendary_bat": {
                 "from": [
                     8400000,
@@ -139,7 +149,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "236625470387519488": {
         "modification_history": {
