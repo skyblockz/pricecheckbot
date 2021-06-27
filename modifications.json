@@ -3342,6 +3342,16 @@
                     850000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    540000,
+                    590000
+                ]
+            },
             "third_master_star": {
                 "from": [
                     63200000,
@@ -3373,7 +3383,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "608358478712537110": {
         "modification_history": {},
