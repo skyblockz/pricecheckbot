@@ -2803,6 +2803,16 @@
                     1600000
                 ]
             },
+            "storms_chestplate": {
+                "from": [
+                    24700000,
+                    24900000
+                ],
+                "to": [
+                    24000000,
+                    24900000
+                ]
+            },
             "void_conqueror_enderman_skin": {
                 "from": [
                     2500000,
@@ -2824,7 +2834,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "508886846873272322": {
         "modification_history": {},
