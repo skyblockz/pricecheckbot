@@ -235,6 +235,16 @@
                     9250000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1400000,
+                    1450000
+                ],
+                "to": [
+                    1700000,
+                    1850000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     560000,
@@ -476,7 +486,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "365916768805453834": {
         "modification_history": {},
