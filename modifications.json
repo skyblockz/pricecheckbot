@@ -85,6 +85,16 @@
                     80000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    750000,
+                    900000
+                ],
+                "to": [
+                    900000,
+                    925000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     125000,
@@ -636,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "365916768805453834": {
         "modification_history": {},
