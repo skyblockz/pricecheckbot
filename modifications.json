@@ -547,12 +547,12 @@
             },
             "unstable_dragon_helmet": {
                 "from": [
-                    135000,
-                    150000
-                ],
-                "to": [
                     140000,
                     155000
+                ],
+                "to": [
+                    120000,
+                    135000
                 ]
             },
             "unstable_dragon_leggings": {
@@ -646,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "365916768805453834": {
         "modification_history": {},
