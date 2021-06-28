@@ -305,6 +305,16 @@
                     6500000
                 ]
             },
+            "scythe_blade": {
+                "from": [
+                    3000000,
+                    3250000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     875000,
@@ -626,7 +636,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "365916768805453834": {
         "modification_history": {},
