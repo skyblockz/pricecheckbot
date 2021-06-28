@@ -265,6 +265,16 @@
                     100000
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    750000,
+                    775000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     560000,
@@ -506,7 +516,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "365916768805453834": {
         "modification_history": {},
