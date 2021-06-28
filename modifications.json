@@ -275,6 +275,16 @@
                     100000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    210000,
+                    225000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     875000,
@@ -556,7 +566,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "365916768805453834": {
         "modification_history": {},
