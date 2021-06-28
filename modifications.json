@@ -195,6 +195,16 @@
                     150000
                 ]
             },
+            "reaper_mask": {
+                "from": [
+                    8900000,
+                    9000000
+                ],
+                "to": [
+                    9100000,
+                    9250000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     560000,
@@ -436,7 +446,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "365916768805453834": {
         "modification_history": {},
