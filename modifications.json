@@ -517,12 +517,12 @@
             },
             "tarantula_leggings": {
                 "from": [
-                    240000,
-                    255000
-                ],
-                "to": [
                     190000,
                     225000
+                ],
+                "to": [
+                    80000,
+                    100000
                 ]
             },
             "unstable_dragon_boots": {
@@ -646,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "365916768805453834": {
         "modification_history": {},
