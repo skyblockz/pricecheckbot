@@ -517,12 +517,12 @@
             },
             "spongy_shoes": {
                 "from": [
-                    640000,
-                    700000
-                ],
-                "to": [
                     500000,
                     550000
+                ],
+                "to": [
+                    800000,
+                    1000000
                 ]
             },
             "strong_dragon_boots": {
@@ -766,7 +766,7 @@
                 ]
             }
         },
-        "total_mods": 133
+        "total_mods": 134
     },
     "365916768805453834": {
         "modification_history": {},
