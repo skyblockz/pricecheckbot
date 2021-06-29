@@ -95,6 +95,16 @@
                     925000
                 ]
             },
+            "glacite_chestplate": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "glacite_helmet": {
                 "from": [
                     6000,
@@ -736,7 +746,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "365916768805453834": {
         "modification_history": {},
