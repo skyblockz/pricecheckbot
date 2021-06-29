@@ -95,6 +95,16 @@
                     925000
                 ]
             },
+            "goblin_boots": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    3000,
+                    3500
+                ]
+            },
             "goblin_chestplate": {
                 "from": [
                     2500,
@@ -716,7 +726,7 @@
                 ]
             }
         },
-        "total_mods": 125
+        "total_mods": 126
     },
     "365916768805453834": {
         "modification_history": {},
