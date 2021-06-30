@@ -430,6 +430,16 @@
                     77000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1700000,
+                    1850000
+                ],
+                "to": [
+                    1250000,
+                    1400000
+                ]
+            },
             "rod_of_the_sea": {
                 "from": [
                     6300000,
@@ -491,7 +501,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "565775808124289025": {
         "modification_history": {},
