@@ -35,6 +35,16 @@
                     7000
                 ]
             },
+            "sharpness_vi": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "sharpness_vii": {
                 "from": [
                     17000000,
@@ -46,7 +56,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "275329625478004737": {
         "modification_history": {},
