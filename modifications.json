@@ -260,6 +260,16 @@
                     10000
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    70000,
+                    80000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "kat_flower": {
                 "from": [
                     139000,
@@ -331,7 +341,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "565775808124289025": {
         "modification_history": {},
