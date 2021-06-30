@@ -340,6 +340,16 @@
                     3500000
                 ]
             },
+            "lvl_100_legendary_monkey": {
+                "from": [
+                    48000000,
+                    52000000
+                ],
+                "to": [
+                    21000000,
+                    21000000
+                ]
+            },
             "lvl_1_epic_baby_yeti": {
                 "from": [
                     17000000,
@@ -441,7 +451,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "565775808124289025": {
         "modification_history": {},
