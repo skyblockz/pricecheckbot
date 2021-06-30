@@ -420,6 +420,16 @@
                     8500000
                 ]
             },
+            "salmon_opal": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "scarfs_studies": {
                 "from": [
                     440000,
@@ -461,7 +471,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "565775808124289025": {
         "modification_history": {},
