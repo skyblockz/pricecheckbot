@@ -107,12 +107,12 @@
             },
             "old_dragon_helmet": {
                 "from": [
-                    130000,
-                    145000
-                ],
-                "to": [
                     170000,
                     185000
+                ],
+                "to": [
+                    100000,
+                    125000
                 ]
             },
             "old_dragon_leggings": {
@@ -196,7 +196,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "365916768805453834": {
         "modification_history": {},
