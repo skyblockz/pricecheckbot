@@ -11,6 +11,16 @@
                     300000
                 ]
             },
+            "lvl_1_legendary_chicken": {
+                "from": [
+                    650000,
+                    800000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "snipe_iv": {
                 "from": null,
                 "to": [
@@ -19,7 +29,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "236625470387519488": {
         "modification_history": {
