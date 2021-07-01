@@ -687,9 +687,19 @@
                     10,
                     2
                 ]
+            },
+            "wither_catalyst": {
+                "from": [
+                    1050000,
+                    1125000
+                ],
+                "to": [
+                    999999,
+                    1125000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "508886846873272322": {
         "modification_history": {},
