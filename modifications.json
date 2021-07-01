@@ -691,6 +691,16 @@
                     26000000
                 ]
             },
+            "lvl_1_legendary_squid": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    8950000,
+                    9250000
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     425000000,
@@ -712,7 +722,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
