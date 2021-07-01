@@ -782,6 +782,16 @@
                     525000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    630000,
+                    635000
+                ],
+                "to": [
+                    569000,
+                    585000
+                ]
+            },
             "treasurite": {
                 "from": [
                     55000,
@@ -813,7 +823,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "508886846873272322": {
         "modification_history": {},
