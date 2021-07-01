@@ -81,6 +81,16 @@
                     250000
                 ]
             },
+            "lvl_1_epic_turtle": {
+                "from": [
+                    590000,
+                    600000
+                ],
+                "to": [
+                    850000,
+                    900000
+                ]
+            },
             "lvl_1_legendary_bat": {
                 "from": [
                     1300000,
@@ -119,7 +129,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "236625470387519488": {
         "modification_history": {
