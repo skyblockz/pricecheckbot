@@ -219,6 +219,16 @@
                     72000000
                 ]
             },
+            "spooky_enderman_skin": {
+                "from": [
+                    45000000,
+                    48000000
+                ],
+                "to": [
+                    40000000,
+                    43000000
+                ]
+            },
             "warden_heart": {
                 "from": [
                     170000000,
@@ -230,7 +240,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "356596957835427865": {
         "modification_history": {},
