@@ -198,6 +198,16 @@
                     1200000
                 ]
             },
+            "lvl_1_legendary_bee": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    3800000,
+                    4000000
+                ]
+            },
             "lvl_1_legendary_chicken": {
                 "from": [
                     650000,
@@ -246,7 +256,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "236625470387519488": {
         "modification_history": {
