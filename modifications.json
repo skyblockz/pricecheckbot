@@ -688,6 +688,16 @@
                     2
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    1650000,
+                    1800000
+                ],
+                "to": [
+                    1450000,
+                    1650000
+                ]
+            },
             "axe_of_the_shredded": {
                 "from": [
                     57400000,
@@ -756,7 +766,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "508886846873272322": {
         "modification_history": {},
