@@ -1116,6 +1116,16 @@
                     189000000
                 ]
             },
+            "final_destination_helmet": {
+                "from": [
+                    2300000,
+                    2400000
+                ],
+                "to": [
+                    2500000,
+                    2600000
+                ]
+            },
             "lvl_100_legendary_dolphin": {
                 "from": [
                     35000000,
@@ -1187,7 +1197,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "466769036122783744": {
         "modification_history": {},
