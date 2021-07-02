@@ -1236,6 +1236,16 @@
                     600000
                 ]
             },
+            "wise_dragon_chestplate": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    500000,
+                    750000
+                ]
+            },
             "wise_dragon_leggings": {
                 "from": [
                     800000,
@@ -1247,7 +1257,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "466769036122783744": {
         "modification_history": {},
