@@ -1003,6 +1003,16 @@
                     225000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     140000,
@@ -1604,7 +1614,7 @@
                 ]
             }
         },
-        "total_mods": 356
+        "total_mods": 357
     },
     "365916768805453834": {
         "modification_history": {},
