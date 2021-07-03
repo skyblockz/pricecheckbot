@@ -745,12 +745,12 @@
             },
             "old_dragon_chestplate": {
                 "from": [
-                    150000,
-                    165000
-                ],
-                "to": [
                     200000,
                     225000
+                ],
+                "to": [
+                    175000,
+                    200000
                 ]
             },
             "old_dragon_helmet": {
@@ -1094,7 +1094,7 @@
                 ]
             }
         },
-        "total_mods": 266
+        "total_mods": 267
     },
     "365916768805453834": {
         "modification_history": {},
