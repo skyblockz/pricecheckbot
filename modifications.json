@@ -923,6 +923,16 @@
                     100000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    3000000,
+                    3100000
+                ],
+                "to": [
+                    2400000,
+                    2600000
+                ]
+            },
             "shard_of_the_shredded": {
                 "from": [
                     11500000,
@@ -1174,7 +1184,7 @@
                 ]
             }
         },
-        "total_mods": 312
+        "total_mods": 313
     },
     "365916768805453834": {
         "modification_history": {},
