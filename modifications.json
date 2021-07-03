@@ -773,6 +773,16 @@
                     2250000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    13000000,
+                    14000000
+                ],
+                "to": [
+                    15500000,
+                    17500000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     100000,
@@ -1324,7 +1334,7 @@
                 ]
             }
         },
-        "total_mods": 328
+        "total_mods": 329
     },
     "365916768805453834": {
         "modification_history": {},
