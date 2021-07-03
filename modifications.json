@@ -1999,6 +1999,16 @@
                     525000
                 ]
             },
+            "small_agronomy_sack": {
+                "from": [
+                    300000,
+                    325000
+                ],
+                "to": [
+                    50000,
+                    325000
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     630000,
@@ -2040,7 +2050,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "508886846873272322": {
         "modification_history": {},
