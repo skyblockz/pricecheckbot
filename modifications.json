@@ -955,12 +955,12 @@
             },
             "tarantula_helmet": {
                 "from": [
-                    400000,
-                    420000
-                ],
-                "to": [
                     250000,
                     275000
+                ],
+                "to": [
+                    500000,
+                    525000
                 ]
             },
             "tarantula_leggings": {
@@ -1094,7 +1094,7 @@
                 ]
             }
         },
-        "total_mods": 296
+        "total_mods": 297
     },
     "365916768805453834": {
         "modification_history": {},
