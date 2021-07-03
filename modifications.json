@@ -653,6 +653,16 @@
                     250000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    825000,
+                    900000
+                ],
+                "to": [
+                    500000,
+                    60000
+                ]
+            },
             "axe_of_the_shredded": {
                 "from": [
                     53500000,
@@ -1224,7 +1234,7 @@
                 ]
             }
         },
-        "total_mods": 317
+        "total_mods": 318
     },
     "365916768805453834": {
         "modification_history": {},
