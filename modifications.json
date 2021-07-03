@@ -863,6 +863,16 @@
                     1250000
                 ]
             },
+            "revenant_leggings": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -1104,7 +1114,7 @@
                 ]
             }
         },
-        "total_mods": 305
+        "total_mods": 306
     },
     "365916768805453834": {
         "modification_history": {},
