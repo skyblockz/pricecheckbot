@@ -1073,6 +1073,16 @@
                     2000000
                 ]
             },
+            "second_master_star": {
+                "from": [
+                    43000000,
+                    44000000
+                ],
+                "to": [
+                    37000000,
+                    40000000
+                ]
+            },
             "shard_of_the_shredded": {
                 "from": [
                     11500000,
@@ -1334,7 +1344,7 @@
                 ]
             }
         },
-        "total_mods": 329
+        "total_mods": 330
     },
     "365916768805453834": {
         "modification_history": {},
