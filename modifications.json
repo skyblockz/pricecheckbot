@@ -643,6 +643,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    750000,
+                    825000
+                ]
+            },
             "adaptive_boots": {
                 "from": [
                     173000,
@@ -1254,7 +1264,7 @@
                 ]
             }
         },
-        "total_mods": 321
+        "total_mods": 322
     },
     "365916768805453834": {
         "modification_history": {},
