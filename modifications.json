@@ -765,12 +765,12 @@
             },
             "old_dragon_leggings": {
                 "from": [
-                    200000,
-                    225000
-                ],
-                "to": [
                     195000,
                     220000
+                ],
+                "to": [
+                    200000,
+                    2250000
                 ]
             },
             "protector_dragon_boots": {
@@ -1094,7 +1094,7 @@
                 ]
             }
         },
-        "total_mods": 263
+        "total_mods": 264
     },
     "365916768805453834": {
         "modification_history": {},
