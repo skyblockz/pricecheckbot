@@ -953,6 +953,16 @@
                     130000000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    11500000,
+                    12000000
+                ],
+                "to": [
+                    10000000,
+                    12000000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": [
                     1650000,
@@ -1754,7 +1764,7 @@
                 ]
             }
         },
-        "total_mods": 449
+        "total_mods": 450
     },
     "365916768805453834": {
         "modification_history": {},
