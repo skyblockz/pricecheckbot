@@ -686,11 +686,11 @@
             "adaptive_leggings": {
                 "from": [
                     500000,
-                    60000
+                    600000
                 ],
                 "to": [
-                    500000,
-                    600000
+                    800000,
+                    1000000
                 ]
             },
             "ancient_rose": {
@@ -1764,7 +1764,7 @@
                 ]
             }
         },
-        "total_mods": 461
+        "total_mods": 462
     },
     "365916768805453834": {
         "modification_history": {},
