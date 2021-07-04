@@ -1545,12 +1545,12 @@
             },
             "unstable_dragon_leggings": {
                 "from": [
-                    190000,
-                    225000
-                ],
-                "to": [
                     195000,
                     220000
+                ],
+                "to": [
+                    300000,
+                    325000
                 ]
             },
             "wise_dragon_boots": {
@@ -1694,7 +1694,7 @@
                 ]
             }
         },
-        "total_mods": 379
+        "total_mods": 380
     },
     "365916768805453834": {
         "modification_history": {},
