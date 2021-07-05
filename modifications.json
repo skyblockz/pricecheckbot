@@ -1145,12 +1145,12 @@
             },
             "reaper_chestplate": {
                 "from": [
-                    7400000,
-                    7600000
-                ],
-                "to": [
                     6000000,
                     6250000
+                ],
+                "to": [
+                    7400000,
+                    7600000
                 ]
             },
             "reaper_falchion": {
@@ -1794,7 +1794,7 @@
                 ]
             }
         },
-        "total_mods": 507
+        "total_mods": 508
     },
     "365916768805453834": {
         "modification_history": {},
