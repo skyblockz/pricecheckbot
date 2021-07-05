@@ -1505,12 +1505,12 @@
             },
             "superior_dragon_chestplate": {
                 "from": [
-                    7400000,
-                    7650000
-                ],
-                "to": [
                     7800000,
                     8000000
+                ],
+                "to": [
+                    7400000,
+                    7500000
                 ]
             },
             "superior_dragon_helmet": {
@@ -1794,7 +1794,7 @@
                 ]
             }
         },
-        "total_mods": 500
+        "total_mods": 501
     },
     "365916768805453834": {
         "modification_history": {},
