@@ -1287,6 +1287,13 @@
                     250000
                 ]
             },
+            "life_steal_v": {
+                "from": null,
+                "to": [
+                    22500000,
+                    25000000
+                ]
+            },
             "livid_dagger": {
                 "from": [
                     6900000,
@@ -2575,7 +2582,7 @@
                 ]
             }
         },
-        "total_mods": 911
+        "total_mods": 912
     },
     "365916768805453834": {
         "modification_history": {},
