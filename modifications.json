@@ -1483,6 +1483,16 @@
                     2800000
                 ]
             },
+            "sponge_helmet": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1700000,
+                    1800000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     500000,
@@ -1834,7 +1844,7 @@
                 ]
             }
         },
-        "total_mods": 582
+        "total_mods": 583
     },
     "365916768805453834": {
         "modification_history": {},
