@@ -846,11 +846,11 @@
             "dragon_scale": {
                 "from": [
                     50000,
-                    100000
+                    125000
                 ],
                 "to": [
-                    50000,
-                    125000
+                    20000,
+                    50000
                 ]
             },
             "final_destination_boots": {
@@ -2274,7 +2274,7 @@
                 ]
             }
         },
-        "total_mods": 861
+        "total_mods": 862
     },
     "365916768805453834": {
         "modification_history": {},
