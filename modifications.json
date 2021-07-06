@@ -634,6 +634,16 @@
                     160000000
                 ]
             },
+            "warden_helmet": {
+                "from": [
+                    192000000,
+                    195000000
+                ],
+                "to": [
+                    185696969,
+                    187000000
+                ]
+            },
             "watcher_guardian_skin": {
                 "from": [
                     67000000,
@@ -645,7 +655,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "356596957835427865": {
         "modification_history": {},
