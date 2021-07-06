@@ -1503,6 +1503,16 @@
                     1800000
                 ]
             },
+            "sponge_leggings": {
+                "from": [
+                    1700000,
+                    1800000
+                ],
+                "to": [
+                    2350000,
+                    2500000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     500000,
@@ -1854,7 +1864,7 @@
                 ]
             }
         },
-        "total_mods": 584
+        "total_mods": 585
     },
     "365916768805453834": {
         "modification_history": {},
