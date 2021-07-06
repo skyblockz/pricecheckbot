@@ -1354,6 +1354,16 @@
                     130000000
                 ]
             },
+            "mana_steal_i": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    35000,
+                    50000
+                ]
+            },
             "mastiff_chestplate": {
                 "from": [
                     700000,
@@ -2622,7 +2632,7 @@
                 ]
             }
         },
-        "total_mods": 916
+        "total_mods": 917
     },
     "365916768805453834": {
         "modification_history": {},
