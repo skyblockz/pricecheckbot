@@ -753,6 +753,13 @@
                     10000
                 ]
             },
+            "blast_protection_vi": {
+                "from": null,
+                "to": [
+                    45000,
+                    75000
+                ]
+            },
             "bonemerang": {
                 "from": [
                     3800000,
@@ -2364,7 +2371,7 @@
                 ]
             }
         },
-        "total_mods": 889
+        "total_mods": 890
     },
     "365916768805453834": {
         "modification_history": {},
