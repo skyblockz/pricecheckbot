@@ -1304,6 +1304,16 @@
                     7550000
                 ]
             },
+            "looting_iv": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    40000,
+                    75000
+                ]
+            },
             "lvl_1_epic_ender_dragon": {
                 "from": [
                     87000000,
@@ -2582,7 +2592,7 @@
                 ]
             }
         },
-        "total_mods": 912
+        "total_mods": 913
     },
     "365916768805453834": {
         "modification_history": {},
