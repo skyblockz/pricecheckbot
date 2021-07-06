@@ -753,6 +753,16 @@
                     10000
                 ]
             },
+            "bane_of_arthropods_vii": {
+                "from": [
+                    7000000,
+                    7500000
+                ],
+                "to": [
+                    3800000,
+                    4000000
+                ]
+            },
             "bigfoots_lasso": {
                 "from": [
                     8500,
@@ -2488,7 +2498,7 @@
                 ]
             }
         },
-        "total_mods": 902
+        "total_mods": 903
     },
     "365916768805453834": {
         "modification_history": {},
