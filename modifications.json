@@ -830,6 +830,16 @@
                     13250000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    160000,
+                    180000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     625000,
@@ -2508,7 +2518,7 @@
                 ]
             }
         },
-        "total_mods": 904
+        "total_mods": 905
     },
     "365916768805453834": {
         "modification_history": {},
