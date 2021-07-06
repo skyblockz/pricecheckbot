@@ -893,6 +893,16 @@
                     2250000
                 ]
             },
+            "fire_protection_vi": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "first_master_star": {
                 "from": [
                     13000000,
@@ -2344,7 +2354,7 @@
                 ]
             }
         },
-        "total_mods": 887
+        "total_mods": 888
     },
     "365916768805453834": {
         "modification_history": {},
