@@ -2458,6 +2458,16 @@
                     6000000
                 ]
             },
+            "triple_strike_iv": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "ultimate_wise_i": {
                 "from": [
                     122000,
@@ -2699,7 +2709,7 @@
                 ]
             }
         },
-        "total_mods": 924
+        "total_mods": 925
     },
     "365916768805453834": {
         "modification_history": {},
