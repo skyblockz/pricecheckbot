@@ -12154,5 +12154,11 @@
         "hi": 75000,
         "low": 45000,
         "name": "blast_protection_vi"
+    },
+    {
+        "ac": true,
+        "hi": 15000,
+        "low": 10000,
+        "name": "projectile_protection_vi"
     }
 ]
