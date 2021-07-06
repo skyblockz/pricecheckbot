@@ -2428,6 +2428,16 @@
                     9000000
                 ]
             },
+            "thunderlord_vi": {
+                "from": [
+                    9000,
+                    9000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "titan_killer_vi": {
                 "from": [
                     10000,
@@ -2689,7 +2699,7 @@
                 ]
             }
         },
-        "total_mods": 923
+        "total_mods": 924
     },
     "365916768805453834": {
         "modification_history": {},
