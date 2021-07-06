@@ -1393,6 +1393,16 @@
                     3150000
                 ]
             },
+            "protection_vii": {
+                "from": [
+                    20000000,
+                    21000000
+                ],
+                "to": [
+                    18400000,
+                    20000000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     105000,
@@ -2334,7 +2344,7 @@
                 ]
             }
         },
-        "total_mods": 886
+        "total_mods": 887
     },
     "365916768805453834": {
         "modification_history": {},
