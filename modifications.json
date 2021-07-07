@@ -564,6 +564,16 @@
                     72000000
                 ]
             },
+            "plasmaflux_power_orb": {
+                "from": [
+                    145000000,
+                    155000000
+                ],
+                "to": [
+                    147000000,
+                    15000000
+                ]
+            },
             "pretty_rabbit_skin": {
                 "from": [
                     69000000,
@@ -665,7 +675,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "356596957835427865": {
         "modification_history": {},
