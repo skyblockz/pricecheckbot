@@ -2943,6 +2943,16 @@
                     1000000
                 ]
             },
+            "werewolf_boots": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "werewolf_chestplate": {
                 "from": [
                     800000,
@@ -3134,7 +3144,7 @@
                 ]
             }
         },
-        "total_mods": 999
+        "total_mods": 1000
     },
     "365916768805453834": {
         "modification_history": {},
