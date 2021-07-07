@@ -840,6 +840,16 @@
                     3000000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    95000,
+                    110000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "chance_iv": {
                 "from": null,
                 "to": [
@@ -2914,7 +2924,7 @@
                 ]
             }
         },
-        "total_mods": 977
+        "total_mods": 978
     },
     "365916768805453834": {
         "modification_history": {},
