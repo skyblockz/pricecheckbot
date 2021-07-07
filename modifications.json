@@ -820,6 +820,13 @@
                     3000000
                 ]
             },
+            "chance_iv": {
+                "from": null,
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "cleave_vi": {
                 "from": [
                     10000000,
@@ -2746,7 +2753,7 @@
                 ]
             }
         },
-        "total_mods": 958
+        "total_mods": 959
     },
     "365916768805453834": {
         "modification_history": {},
