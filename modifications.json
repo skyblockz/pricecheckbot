@@ -330,6 +330,16 @@
                     96000000
                 ]
             },
+            "enchanted_wool": {
+                "from": [
+                    320,
+                    330
+                ],
+                "to": [
+                    1500,
+                    1800
+                ]
+            },
             "flower_minion_xi": {
                 "from": [
                     20000000,
@@ -498,7 +508,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "275329625478004737": {
         "modification_history": {},
