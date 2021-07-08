@@ -584,6 +584,16 @@
                     72000000
                 ]
             },
+            "phantom_rod": {
+                "from": [
+                    1350000,
+                    1730000
+                ],
+                "to": [
+                    999999,
+                    1000000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     147000000,
@@ -705,7 +715,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "356596957835427865": {
         "modification_history": {},
