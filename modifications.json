@@ -430,6 +430,16 @@
                     7000000
                 ]
             },
+            "shadow_goggles": {
+                "from": [
+                    600000,
+                    800000
+                ],
+                "to": [
+                    400000,
+                    475000
+                ]
+            },
             "sharpness_vi": {
                 "from": [
                     1100000,
@@ -461,7 +471,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "275329625478004737": {
         "modification_history": {},
