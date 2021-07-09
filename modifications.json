@@ -1166,12 +1166,12 @@
             },
             "dragon_scale": {
                 "from": [
-                    50000,
-                    125000
-                ],
-                "to": [
                     20000,
                     50000
+                ],
+                "to": [
+                    60000,
+                    80000
                 ]
             },
             "dwarf_turtle_shelmet": {
@@ -3321,7 +3321,7 @@
                 ]
             }
         },
-        "total_mods": 1030
+        "total_mods": 1031
     },
     "365916768805453834": {
         "modification_history": {},
