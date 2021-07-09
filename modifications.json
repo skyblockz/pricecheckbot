@@ -3796,6 +3796,16 @@
                     170000
                 ]
             },
+            "venoms_touch": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    445000,
+                    500000
+                ]
+            },
             "wither_catalyst": {
                 "from": [
                     1050000,
@@ -3807,7 +3817,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "508886846873272322": {
         "modification_history": {},
