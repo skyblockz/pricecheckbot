@@ -3656,6 +3656,16 @@
                     500000
                 ]
             },
+            "golden_jerry_artifact": {
+                "from": [
+                    74000000,
+                    76000000
+                ],
+                "to": [
+                    78000000,
+                    80000000
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     765000,
@@ -3767,7 +3777,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "508886846873272322": {
         "modification_history": {},
