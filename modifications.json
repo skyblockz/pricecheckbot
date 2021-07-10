@@ -547,6 +547,16 @@
     },
     "637369304911970334": {
         "modification_history": {
+            "crystal_fragment": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    55000,
+                    70000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     500000,
@@ -578,7 +588,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "647100327048511519": {
         "modification_history": {},
