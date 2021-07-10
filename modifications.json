@@ -85,6 +85,16 @@
                     12000000
                 ]
             },
+            "reaper_scythe": {
+                "from": [
+                    15000000,
+                    15250000
+                ],
+                "to": [
+                    17400000,
+                    18500000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -136,7 +146,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "364186225382391809": {
         "modification_history": {},
