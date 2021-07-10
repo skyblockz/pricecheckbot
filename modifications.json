@@ -55,6 +55,16 @@
                     500000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    2600000,
+                    3000000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     800000,
@@ -336,7 +346,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "364186225382391809": {
         "modification_history": {},
