@@ -55,6 +55,16 @@
                     900000
                 ]
             },
+            "adaptive_boots": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "adaptive_helmet": {
                 "from": [
                     1800000,
@@ -426,7 +436,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "364186225382391809": {
         "modification_history": {},
