@@ -235,6 +235,16 @@
                     3500000
                 ]
             },
+            "scarfs_grimoire": {
+                "from": [
+                    8050000,
+                    8200000
+                ],
+                "to": [
+                    8350000,
+                    8500000
+                ]
+            },
             "scarfs_studies": {
                 "from": [
                     420000,
@@ -376,7 +386,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "364186225382391809": {
         "modification_history": {},
