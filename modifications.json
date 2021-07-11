@@ -648,6 +648,16 @@
                     600000
                 ]
             },
+            "flycatcher": {
+                "from": [
+                    12000000,
+                    12400000
+                ],
+                "to": [
+                    11400000,
+                    12000000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     160000000,
@@ -699,7 +709,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "647100327048511519": {
         "modification_history": {},
