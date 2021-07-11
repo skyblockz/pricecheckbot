@@ -522,8 +522,19 @@
         "total_mods": 0
     },
     "574324424677916674": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "tier_boost_core": {
+                "from": [
+                    71000000,
+                    75000000
+                ],
+                "to": [
+                    73000000,
+                    74000000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "576878043067449354": {
         "modification_history": {},
