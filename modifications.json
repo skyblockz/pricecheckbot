@@ -729,6 +729,16 @@
     },
     "750025574558335017": {
         "modification_history": {
+            "epic_fishing_exp_boost": {
+                "from": [
+                    1450000,
+                    1800000
+                ],
+                "to": [
+                    2000000,
+                    2200000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     3300000,
@@ -740,7 +750,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "766482279387627530": {
         "modification_history": {},
