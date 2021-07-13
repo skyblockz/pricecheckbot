@@ -610,6 +610,16 @@
                     638000
                 ]
             },
+            "cheap_tuxedo_pants": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    475000,
+                    250000
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     420,
@@ -641,7 +651,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "508886846873272322": {
         "modification_history": {},
