@@ -580,6 +580,16 @@
                     11550
                 ]
             },
+            "adaptive_blade": {
+                "from": [
+                    825000,
+                    900000
+                ],
+                "to": [
+                    855000,
+                    940500
+                ]
+            },
             "blobfish_hat": {
                 "from": null,
                 "to": [
@@ -628,7 +638,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "508886846873272322": {
         "modification_history": {},
