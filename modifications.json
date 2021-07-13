@@ -591,9 +591,12 @@
                 ]
             },
             "blobfish_hat": {
-                "from": null,
-                "to": [
+                "from": [
                     45,
+                    50
+                ],
+                "to": [
+                    40,
                     50
                 ]
             },
@@ -638,7 +641,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "508886846873272322": {
         "modification_history": {},
