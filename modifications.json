@@ -570,6 +570,16 @@
                     335500
                 ]
             },
+            "accessory_enrichment_swapper": {
+                "from": [
+                    90000,
+                    96000
+                ],
+                "to": [
+                    10500,
+                    11550
+                ]
+            },
             "blobfish_hat": {
                 "from": null,
                 "to": [
@@ -618,7 +628,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "508886846873272322": {
         "modification_history": {},
