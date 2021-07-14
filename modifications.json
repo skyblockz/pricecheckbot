@@ -555,6 +555,16 @@
                     300000
                 ]
             },
+            "unstable_dragon_chestplate": {
+                "from": [
+                    210000,
+                    235000
+                ],
+                "to": [
+                    250000,
+                    270000
+                ]
+            },
             "unstable_dragon_helmet": {
                 "from": [
                     150000,
@@ -586,7 +596,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "364186225382391809": {
         "modification_history": {},
