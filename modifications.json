@@ -265,6 +265,16 @@
                     8250000
                 ]
             },
+            "necromancer_lord_helmet": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     130000,
@@ -946,7 +956,7 @@
                 ]
             }
         },
-        "total_mods": 132
+        "total_mods": 133
     },
     "364186225382391809": {
         "modification_history": {},
