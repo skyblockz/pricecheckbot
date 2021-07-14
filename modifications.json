@@ -135,6 +135,16 @@
                     750000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    40000,
+                    60000
+                ]
+            },
             "giant_tooth": {
                 "from": [
                     500000,
@@ -716,7 +726,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "364186225382391809": {
         "modification_history": {},
