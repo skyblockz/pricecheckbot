@@ -1212,6 +1212,16 @@
                     17500000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    450000,
+                    750000
+                ]
+            },
             "terminator": {
                 "from": null,
                 "to": [
@@ -1250,7 +1260,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
