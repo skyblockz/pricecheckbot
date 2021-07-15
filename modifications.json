@@ -1222,6 +1222,16 @@
                     750000
                 ]
             },
+            "shard_of_the_shredded": {
+                "from": [
+                    14900000,
+                    15500000
+                ],
+                "to": [
+                    9300000,
+                    10000000
+                ]
+            },
             "terminator": {
                 "from": null,
                 "to": [
@@ -1260,7 +1270,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "466769036122783744": {
         "modification_history": {},
