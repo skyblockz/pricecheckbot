@@ -1202,6 +1202,16 @@
                     7000000
                 ]
             },
+            "reaper_scythe": {
+                "from": [
+                    18200000,
+                    20000000
+                ],
+                "to": [
+                    16500000,
+                    17500000
+                ]
+            },
             "terminator": {
                 "from": null,
                 "to": [
@@ -1240,7 +1250,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "466769036122783744": {
         "modification_history": {},
