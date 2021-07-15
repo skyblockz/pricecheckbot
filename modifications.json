@@ -1102,6 +1102,16 @@
                     145000000
                 ]
             },
+            "juju_shortbow": {
+                "from": [
+                    32500000,
+                    34000000
+                ],
+                "to": [
+                    31800000,
+                    32500000
+                ]
+            },
             "terminator": {
                 "from": null,
                 "to": [
@@ -1140,7 +1150,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "466769036122783744": {
         "modification_history": {},
