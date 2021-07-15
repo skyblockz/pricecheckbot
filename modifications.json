@@ -1242,6 +1242,16 @@
                     750000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    1300000,
+                    1800000
+                ],
+                "to": [
+                    1250000,
+                    1750000
+                ]
+            },
             "shard_of_the_shredded": {
                 "from": [
                     14900000,
@@ -1290,7 +1300,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "466769036122783744": {
         "modification_history": {},
