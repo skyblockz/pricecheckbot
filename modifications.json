@@ -1252,6 +1252,16 @@
                     1750000
                 ]
             },
+            "shaman_sword": {
+                "from": [
+                    300000,
+                    500000
+                ],
+                "to": [
+                    198000,
+                    250000
+                ]
+            },
             "shard_of_the_shredded": {
                 "from": [
                     14900000,
@@ -1300,7 +1310,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "466769036122783744": {
         "modification_history": {},
