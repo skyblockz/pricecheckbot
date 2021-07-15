@@ -1162,6 +1162,16 @@
                     8000000
                 ]
             },
+            "reaper_leggings": {
+                "from": [
+                    9000000,
+                    9250000
+                ],
+                "to": [
+                    6600000,
+                    7000000
+                ]
+            },
             "terminator": {
                 "from": null,
                 "to": [
@@ -1200,7 +1210,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
