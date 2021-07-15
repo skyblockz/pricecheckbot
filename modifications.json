@@ -1102,6 +1102,13 @@
                     145000000
                 ]
             },
+            "terminator": {
+                "from": null,
+                "to": [
+                    895000000,
+                    900000000
+                ]
+            },
             "terminator_bow": {
                 "from": [
                     920000000,
@@ -1123,7 +1130,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
