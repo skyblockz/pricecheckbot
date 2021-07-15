@@ -1182,6 +1182,16 @@
                     8000000
                 ]
             },
+            "reaper_falchion": {
+                "from": [
+                    3900000,
+                    4250000
+                ],
+                "to": [
+                    3000000,
+                    3750000
+                ]
+            },
             "reaper_leggings": {
                 "from": [
                     9000000,
@@ -1230,7 +1240,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "466769036122783744": {
         "modification_history": {},
