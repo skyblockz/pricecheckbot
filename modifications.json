@@ -92,6 +92,16 @@
                     45000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    500000,
+                    700000
+                ],
+                "to": [
+                    240000,
+                    255000
+                ]
+            },
             "midas_jewel": {
                 "from": [
                     75000,
@@ -173,7 +183,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "275329625478004737": {
         "modification_history": {},
