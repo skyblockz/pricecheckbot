@@ -1132,6 +1132,16 @@
                     1500000
                 ]
             },
+            "dwarf_turtle_shelmet": {
+                "from": [
+                    5200000,
+                    5500000
+                ],
+                "to": [
+                    6800000,
+                    7500000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     1550000,
@@ -1340,7 +1350,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "466769036122783744": {
         "modification_history": {},
