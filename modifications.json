@@ -1607,6 +1607,16 @@
                     70000
                 ]
             },
+            "drill_engine": {
+                "from": [
+                    5200000,
+                    5500000
+                ],
+                "to": [
+                    8400000,
+                    8800000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     500000,
@@ -1688,7 +1698,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "647100327048511519": {
         "modification_history": {},
