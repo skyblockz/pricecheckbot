@@ -122,6 +122,16 @@
                     5000000
                 ]
             },
+            "rock_candy": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     120000,
@@ -163,7 +173,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "275329625478004737": {
         "modification_history": {},
