@@ -212,6 +212,16 @@
                     53000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    640000,
+                    750000
+                ],
+                "to": [
+                    675000,
+                    725000
+                ]
+            },
             "premium_flesh": {
                 "from": [
                     450,
@@ -293,7 +303,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "275329625478004737": {
         "modification_history": {},
