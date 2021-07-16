@@ -32,6 +32,16 @@
                     50
                 ]
             },
+            "jerry_candy": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
             "livid_dagger": {
                 "from": [
                     7000000,
@@ -123,7 +133,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "275329625478004737": {
         "modification_history": {},
