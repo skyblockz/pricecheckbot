@@ -12,6 +12,16 @@
                     35000
                 ]
             },
+            "fuel_tank": {
+                "from": [
+                    540000,
+                    560000
+                ],
+                "to": [
+                    650000,
+                    750000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     47000,
@@ -53,7 +63,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "275329625478004737": {
         "modification_history": {},
