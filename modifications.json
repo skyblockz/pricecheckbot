@@ -1915,6 +1915,16 @@
     },
     "637369304911970334": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    190000,
+                    225000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
             "adaptive_chestplate": {
                 "from": [
                     3750000,
@@ -2116,7 +2126,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "647100327048511519": {
         "modification_history": {},
