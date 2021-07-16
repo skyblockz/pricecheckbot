@@ -112,6 +112,16 @@
                     750000
                 ]
             },
+            "golden_ball": {
+                "from": [
+                    19900000,
+                    2000000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "inflatable_jerry": {
                 "from": [
                     500,
@@ -313,7 +323,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "275329625478004737": {
         "modification_history": {},
