@@ -1935,6 +1935,16 @@
                     2400000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    550000,
+                    575000
+                ],
+                "to": [
+                    600000,
+                    1000000
+                ]
+            },
             "auto_recombobulator": {
                 "from": [
                     11000000,
@@ -2106,7 +2116,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "647100327048511519": {
         "modification_history": {},
