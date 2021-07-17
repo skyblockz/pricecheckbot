@@ -115,6 +115,16 @@
                     230000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    6750000,
+                    7500000
+                ],
+                "to": [
+                    6500000,
+                    8000000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     130000,
@@ -556,7 +566,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "364186225382391809": {
         "modification_history": {},
