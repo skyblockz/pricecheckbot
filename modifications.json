@@ -684,6 +684,16 @@
                     480000000
                 ]
             },
+            "juju_shortbow": {
+                "from": [
+                    31800000,
+                    32500000
+                ],
+                "to": [
+                    31600000,
+                    32000000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     1600000,
@@ -1205,7 +1215,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "647100327048511519": {
         "modification_history": {},
