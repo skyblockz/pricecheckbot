@@ -274,6 +274,16 @@
                     220000
                 ]
             },
+            "century_cake_of_the_next_dungeon_floor": {
+                "from": [
+                    3750000,
+                    5000000
+                ],
+                "to": [
+                    1800000,
+                    2300000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     375000,
@@ -865,7 +875,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "647100327048511519": {
         "modification_history": {},
