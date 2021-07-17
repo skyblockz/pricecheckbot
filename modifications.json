@@ -414,6 +414,16 @@
                     3000000
                 ]
             },
+            "fancy_tuxedo_jacket": {
+                "from": [
+                    5000000,
+                    7000000
+                ],
+                "to": [
+                    4400000,
+                    4500000
+                ]
+            },
             "fancy_tuxedo_oxfords": {
                 "from": [
                     3500000,
@@ -1055,7 +1065,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "647100327048511519": {
         "modification_history": {},
