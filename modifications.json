@@ -334,6 +334,16 @@
                     8000000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2750000,
+                    3250000
+                ],
+                "to": [
+                    2500000,
+                    3000000
+                ]
+            },
             "mastiff_boots": {
                 "from": [
                     500000,
@@ -755,7 +765,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "647100327048511519": {
         "modification_history": {},
