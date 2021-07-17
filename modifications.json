@@ -65,6 +65,16 @@
                     500000
                 ]
             },
+            "bonzos_staff": {
+                "from": [
+                    2500000,
+                    2800000
+                ],
+                "to": [
+                    2300000,
+                    2800000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     380000,
@@ -606,7 +616,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "364186225382391809": {
         "modification_history": {},
