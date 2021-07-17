@@ -415,6 +415,16 @@
                     1100000
                 ]
             },
+            "spirit_wing": {
+                "from": [
+                    2600000,
+                    3000000
+                ],
+                "to": [
+                    2375000,
+                    2550000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     475000,
@@ -666,7 +676,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "364186225382391809": {
         "modification_history": {},
