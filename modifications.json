@@ -325,6 +325,16 @@
                     500000
                 ]
             },
+            "scorpion_bow": {
+                "from": [
+                    2100000,
+                    2500000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "shard_of_the_shredded": {
                 "from": [
                     9300000,
@@ -576,7 +586,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "364186225382391809": {
         "modification_history": {},
