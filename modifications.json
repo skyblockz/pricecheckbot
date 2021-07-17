@@ -273,6 +273,16 @@
                     2300000
                 ]
             },
+            "maxors_chestplate": {
+                "from": [
+                    30000000,
+                    32000000
+                ],
+                "to": [
+                    23700000,
+                    24700000
+                ]
+            },
             "maxors_leggings": {
                 "from": [
                     6800000,
@@ -364,7 +374,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "647100327048511519": {
         "modification_history": {},
