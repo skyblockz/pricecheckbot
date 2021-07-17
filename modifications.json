@@ -414,6 +414,16 @@
                     3000000
                 ]
             },
+            "divers_boots": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    380000,
+                    450000
+                ]
+            },
             "elegant_tuxedo_jacket": {
                 "from": [
                     18500000,
@@ -1095,7 +1105,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "647100327048511519": {
         "modification_history": {},
