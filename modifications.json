@@ -454,6 +454,16 @@
                     225000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "storms_boots": {
                 "from": [
                     2050000,
@@ -705,7 +715,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "647100327048511519": {
         "modification_history": {},
