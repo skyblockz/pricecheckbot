@@ -1895,6 +1895,16 @@
     },
     "576878043067449354": {
         "modification_history": {
+            "experience_iv": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    450000,
+                    470000
+                ]
+            },
             "lethality_vi": {
                 "from": [
                     125000,
@@ -1906,7 +1916,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "608358478712537110": {
         "modification_history": {},
