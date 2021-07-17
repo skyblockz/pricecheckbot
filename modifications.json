@@ -414,6 +414,16 @@
                     3000000
                 ]
             },
+            "fancy_tuxedo_pants": {
+                "from": [
+                    3500000,
+                    5000000
+                ],
+                "to": [
+                    1500000,
+                    1600000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     6500000,
@@ -1035,7 +1045,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "647100327048511519": {
         "modification_history": {},
