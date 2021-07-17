@@ -434,6 +434,16 @@
                     550000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    825000,
+                    900000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "elegant_tuxedo_jacket": {
                 "from": [
                     18500000,
@@ -1115,7 +1125,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "647100327048511519": {
         "modification_history": {},
