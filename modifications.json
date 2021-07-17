@@ -95,6 +95,16 @@
                     2800000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    360000,
+                    390000
+                ],
+                "to": [
+                    400000,
+                    45000
+                ]
+            },
             "digested_mosquito": {
                 "from": [
                     380000,
@@ -766,7 +776,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "364186225382391809": {
         "modification_history": {},
