@@ -334,6 +334,16 @@
                     2750000
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    325000,
+                    400000
+                ]
+            },
             "bejeweled_handle": {
                 "from": [
                     200000,
@@ -1175,7 +1185,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "647100327048511519": {
         "modification_history": {},
