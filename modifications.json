@@ -384,6 +384,16 @@
                     7750000
                 ]
             },
+            "frozen_blaze_chestplate": {
+                "from": [
+                    7500000,
+                    7750000
+                ],
+                "to": [
+                    7300000,
+                    7500000
+                ]
+            },
             "frozen_blaze_leggings": {
                 "from": [
                     7850000,
@@ -975,7 +985,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "647100327048511519": {
         "modification_history": {},
