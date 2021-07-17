@@ -374,6 +374,16 @@
                     300000
                 ]
             },
+            "cheap_tuxedo_jacket": {
+                "from": [
+                    580000,
+                    638000
+                ],
+                "to": [
+                    390000,
+                    450000
+                ]
+            },
             "cheap_tuxedo_pants": {
                 "from": [
                     475000,
@@ -1025,7 +1035,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "647100327048511519": {
         "modification_history": {},
