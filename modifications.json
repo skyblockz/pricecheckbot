@@ -465,6 +465,16 @@
                     7300000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    100000,
+                    125000
+                ],
+                "to": [
+                    110000,
+                    125000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1000000,
@@ -646,7 +656,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "364186225382391809": {
         "modification_history": {},
