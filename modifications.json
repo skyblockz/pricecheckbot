@@ -314,6 +314,16 @@
                     1250000
                 ]
             },
+            "blaze_chestplate": {
+                "from": [
+                    2650000,
+                    3750000
+                ],
+                "to": [
+                    2600000,
+                    2750000
+                ]
+            },
             "blaze_leggings": {
                 "from": [
                     2300000,
@@ -965,7 +975,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "647100327048511519": {
         "modification_history": {},
