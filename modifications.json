@@ -364,6 +364,16 @@
                     2300000
                 ]
             },
+            "cheap_tuxedo": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "chestplate_of_growth": {
                 "from": [
                     375000,
@@ -1005,7 +1015,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "647100327048511519": {
         "modification_history": {},
