@@ -424,6 +424,16 @@
                     450000
                 ]
             },
+            "divers_mask": {
+                "from": [
+                    620000,
+                    650000
+                ],
+                "to": [
+                    480000,
+                    550000
+                ]
+            },
             "elegant_tuxedo_jacket": {
                 "from": [
                     18500000,
@@ -1105,7 +1115,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "647100327048511519": {
         "modification_history": {},
