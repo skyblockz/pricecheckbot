@@ -234,6 +234,16 @@
                     235000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    600000,
+                    1000000
+                ],
+                "to": [
+                    700000,
+                    750000
+                ]
+            },
             "apunch_century_cake": {
                 "from": [
                     1700000,
@@ -895,7 +905,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "647100327048511519": {
         "modification_history": {},
