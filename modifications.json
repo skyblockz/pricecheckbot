@@ -416,12 +416,12 @@
             },
             "elegant_tuxedo_pants": {
                 "from": [
-                    15000000,
-                    17500000
-                ],
-                "to": [
                     5000000,
                     5500000
+                ],
+                "to": [
+                    500000,
+                    700000
                 ]
             },
             "fancy_tuxedo_jacket": {
@@ -1075,7 +1075,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "647100327048511519": {
         "modification_history": {},
