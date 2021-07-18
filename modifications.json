@@ -736,6 +736,16 @@
                     7500000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    180000,
+                    200000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "goldors_boots": {
                 "from": [
                     1950000,
@@ -1497,7 +1507,7 @@
                 ]
             }
         },
-        "total_mods": 212
+        "total_mods": 213
     },
     "647100327048511519": {
         "modification_history": {},
