@@ -628,12 +628,12 @@
             },
             "frozen_blaze_boots": {
                 "from": [
-                    6500000,
-                    7000000
-                ],
-                "to": [
                     7500000,
                     7750000
+                ],
+                "to": [
+                    6000000,
+                    6500000
                 ]
             },
             "frozen_blaze_chestplate": {
@@ -1387,7 +1387,7 @@
                 ]
             }
         },
-        "total_mods": 164
+        "total_mods": 165
     },
     "647100327048511519": {
         "modification_history": {},
