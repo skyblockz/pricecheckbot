@@ -446,6 +446,16 @@
                     220000
                 ]
             },
+            "boots_of_the_pack": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    250000,
+                    350000
+                ]
+            },
             "century_cake_of_the_next_dungeon_floor": {
                 "from": [
                     3750000,
@@ -1357,7 +1367,7 @@
                 ]
             }
         },
-        "total_mods": 147
+        "total_mods": 148
     },
     "647100327048511519": {
         "modification_history": {},
