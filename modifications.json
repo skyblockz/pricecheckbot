@@ -746,6 +746,16 @@
                     200000
                 ]
             },
+            "golden_scarf_head": {
+                "from": [
+                    480000,
+                    500000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "goldors_boots": {
                 "from": [
                     1950000,
@@ -1507,7 +1517,7 @@
                 ]
             }
         },
-        "total_mods": 213
+        "total_mods": 214
     },
     "647100327048511519": {
         "modification_history": {},
