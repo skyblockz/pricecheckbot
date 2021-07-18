@@ -706,6 +706,16 @@
                     5500000
                 ]
             },
+            "emerald_armor_helmet": {
+                "from": [
+                    769000,
+                    840000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "fancy_tuxedo_jacket": {
                 "from": [
                     5000000,
@@ -1897,7 +1907,7 @@
                 ]
             }
         },
-        "total_mods": 290
+        "total_mods": 291
     },
     "647100327048511519": {
         "modification_history": {},
