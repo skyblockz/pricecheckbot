@@ -706,6 +706,16 @@
                     800000
                 ]
             },
+            "final_destination_leggings": {
+                "from": [
+                    1900000,
+                    2500000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1697,7 +1707,7 @@
                 ]
             }
         },
-        "total_mods": 232
+        "total_mods": 233
     },
     "647100327048511519": {
         "modification_history": {},
