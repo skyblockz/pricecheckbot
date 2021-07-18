@@ -526,6 +526,16 @@
                     3000000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    140000,
+                    190000
+                ]
+            },
             "diamond_bonzo_head": {
                 "from": [
                     2000000,
@@ -1727,7 +1737,7 @@
                 ]
             }
         },
-        "total_mods": 235
+        "total_mods": 236
     },
     "647100327048511519": {
         "modification_history": {},
