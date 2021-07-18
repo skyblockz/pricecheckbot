@@ -536,6 +536,16 @@
                     115000000
                 ]
             },
+            "diamond_professor_head": {
+                "from": [
+                    6750000,
+                    7000000
+                ],
+                "to": [
+                    250000000,
+                    255000000
+                ]
+            },
             "diamond_scarf_head": {
                 "from": [
                     200000000,
@@ -1447,7 +1457,7 @@
                 ]
             }
         },
-        "total_mods": 207
+        "total_mods": 208
     },
     "647100327048511519": {
         "modification_history": {},
