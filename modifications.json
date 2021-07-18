@@ -1436,6 +1436,16 @@
                     250000
                 ]
             },
+            "speedster_helmet": {
+                "from": [
+                    280000,
+                    300000
+                ],
+                "to": [
+                    375000,
+                    425000
+                ]
+            },
             "storms_boots": {
                 "from": [
                     2100000,
@@ -1787,7 +1797,7 @@
                 ]
             }
         },
-        "total_mods": 244
+        "total_mods": 245
     },
     "647100327048511519": {
         "modification_history": {},
