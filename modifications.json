@@ -756,6 +756,16 @@
                     425000
                 ]
             },
+            "golden_necrons_head": {
+                "from": [
+                    3800000,
+                    4400000
+                ],
+                "to": [
+                    10000000,
+                    11000000
+                ]
+            },
             "golden_professor_head": {
                 "from": [
                     960000,
@@ -1557,7 +1567,7 @@
                 ]
             }
         },
-        "total_mods": 218
+        "total_mods": 219
     },
     "647100327048511519": {
         "modification_history": {},
