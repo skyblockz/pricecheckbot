@@ -746,6 +746,16 @@
                     200000
                 ]
             },
+            "golden_livid_head": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    375000,
+                    425000
+                ]
+            },
             "golden_professor_head": {
                 "from": [
                     960000,
@@ -1537,7 +1547,7 @@
                 ]
             }
         },
-        "total_mods": 216
+        "total_mods": 217
     },
     "647100327048511519": {
         "modification_history": {},
