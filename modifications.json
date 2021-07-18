@@ -706,6 +706,16 @@
                     450000
                 ]
             },
+            "helmet_of_the_pack": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     120000,
@@ -1367,7 +1377,7 @@
                 ]
             }
         },
-        "total_mods": 148
+        "total_mods": 149
     },
     "647100327048511519": {
         "modification_history": {},
