@@ -268,12 +268,12 @@
             },
             "adaptive_leggings": {
                 "from": [
-                    600000,
-                    1000000
-                ],
-                "to": [
                     700000,
                     750000
+                ],
+                "to": [
+                    750000,
+                    850000
                 ]
             },
             "apunch_century_cake": {
@@ -1387,7 +1387,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "647100327048511519": {
         "modification_history": {},
