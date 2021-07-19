@@ -938,12 +938,12 @@
             },
             "golden_thorn_head": {
                 "from": [
-                    225000,
-                    500000
-                ],
-                "to": [
                     275000,
                     325000
+                ],
+                "to": [
+                    500000,
+                    600000
                 ]
             },
             "goldors_boots": {
@@ -2067,7 +2067,7 @@
                 ]
             }
         },
-        "total_mods": 389
+        "total_mods": 390
     },
     "647100327048511519": {
         "modification_history": {},
