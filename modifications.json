@@ -393,6 +393,16 @@
                     1100000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    70000,
+                    120000
+                ]
+            },
             "bejeweled_handle": {
                 "from": [
                     200000,
@@ -2074,7 +2084,7 @@
                 ]
             }
         },
-        "total_mods": 419
+        "total_mods": 420
     },
     "647100327048511519": {
         "modification_history": {},
