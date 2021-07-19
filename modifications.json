@@ -1278,12 +1278,12 @@
             },
             "old_dragon_boots": {
                 "from": [
-                    180000,
-                    230000
-                ],
-                "to": [
                     120000,
                     170000
+                ],
+                "to": [
+                    190000,
+                    290000
                 ]
             },
             "old_dragon_chestplate": {
@@ -2047,7 +2047,7 @@
                 ]
             }
         },
-        "total_mods": 371
+        "total_mods": 372
     },
     "647100327048511519": {
         "modification_history": {},
