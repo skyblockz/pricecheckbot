@@ -755,12 +755,12 @@
             },
             "emerald_armor_leggings": {
                 "from": [
-                    800000,
-                    900000
-                ],
-                "to": [
                     830000,
                     880000
+                ],
+                "to": [
+                    835000,
+                    935000
                 ]
             },
             "fancy_tuxedo_jacket": {
@@ -2074,7 +2074,7 @@
                 ]
             }
         },
-        "total_mods": 410
+        "total_mods": 411
     },
     "647100327048511519": {
         "modification_history": {},
