@@ -1418,12 +1418,12 @@
             },
             "revenant_chestplate": {
                 "from": [
-                    1700000,
-                    2000000
-                ],
-                "to": [
                     1400000,
                     1500000
+                ],
+                "to": [
+                    990000,
+                    1090000
                 ]
             },
             "revenant_leggings": {
@@ -2037,7 +2037,7 @@
                 ]
             }
         },
-        "total_mods": 358
+        "total_mods": 359
     },
     "647100327048511519": {
         "modification_history": {},
