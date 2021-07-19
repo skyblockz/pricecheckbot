@@ -1908,12 +1908,12 @@
             },
             "wise_dragon_boots": {
                 "from": [
-                    590000,
-                    640000
-                ],
-                "to": [
                     650000,
                     750000
+                ],
+                "to": [
+                    480000,
+                    530000
                 ]
             },
             "wise_dragon_chestplate": {
@@ -2047,7 +2047,7 @@
                 ]
             }
         },
-        "total_mods": 367
+        "total_mods": 368
     },
     "647100327048511519": {
         "modification_history": {},
