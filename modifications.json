@@ -888,12 +888,12 @@
             },
             "golden_livid_head": {
                 "from": [
-                    150000,
-                    200000
-                ],
-                "to": [
                     375000,
                     425000
+                ],
+                "to": [
+                    300000,
+                    350000
                 ]
             },
             "golden_necrons_head": {
@@ -2067,7 +2067,7 @@
                 ]
             }
         },
-        "total_mods": 386
+        "total_mods": 387
     },
     "647100327048511519": {
         "modification_history": {},
