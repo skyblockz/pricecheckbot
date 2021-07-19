@@ -608,12 +608,12 @@
             },
             "diamond_professor_head": {
                 "from": [
-                    6750000,
-                    7000000
-                ],
-                "to": [
                     250000000,
                     255000000
+                ],
+                "to": [
+                    240000000,
+                    250000000
                 ]
             },
             "diamond_sadan_head": {
@@ -2067,7 +2067,7 @@
                 ]
             }
         },
-        "total_mods": 393
+        "total_mods": 394
     },
     "647100327048511519": {
         "modification_history": {},
