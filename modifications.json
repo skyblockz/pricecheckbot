@@ -1393,6 +1393,16 @@
                     6000000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    100000,
+                    130000
+                ],
+                "to": [
+                    140000,
+                    240000
+                ]
+            },
             "reaper_boots": {
                 "from": [
                     6900000,
@@ -2094,7 +2104,7 @@
                 ]
             }
         },
-        "total_mods": 458
+        "total_mods": 459
     },
     "647100327048511519": {
         "modification_history": {},
