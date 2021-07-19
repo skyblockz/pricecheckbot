@@ -1496,12 +1496,12 @@
             },
             "reaper_chestplate": {
                 "from": [
-                    6800000,
-                    7100000
-                ],
-                "to": [
                     7200000,
                     7700000
+                ],
+                "to": [
+                    6000000,
+                    7000000
                 ]
             },
             "reaper_leggings": {
@@ -2225,7 +2225,7 @@
                 ]
             }
         },
-        "total_mods": 521
+        "total_mods": 522
     },
     "647100327048511519": {
         "modification_history": {},
