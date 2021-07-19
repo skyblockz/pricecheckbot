@@ -735,12 +735,12 @@
             },
             "emerald_armor_chestplate": {
                 "from": [
-                    1700000,
-                    1800000
-                ],
-                "to": [
                     900000,
                     950000
+                ],
+                "to": [
+                    1100000,
+                    1200000
                 ]
             },
             "emerald_armor_helmet": {
@@ -2074,7 +2074,7 @@
                 ]
             }
         },
-        "total_mods": 409
+        "total_mods": 410
     },
     "647100327048511519": {
         "modification_history": {},
