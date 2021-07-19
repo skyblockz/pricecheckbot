@@ -745,12 +745,12 @@
             },
             "emerald_armor_helmet": {
                 "from": [
-                    800000,
-                    900000
-                ],
-                "to": [
                     650000,
                     700000
+                ],
+                "to": [
+                    1000000,
+                    1100000
                 ]
             },
             "emerald_armor_leggings": {
@@ -2074,7 +2074,7 @@
                 ]
             }
         },
-        "total_mods": 408
+        "total_mods": 409
     },
     "647100327048511519": {
         "modification_history": {},
