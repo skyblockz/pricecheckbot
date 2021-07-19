@@ -1806,6 +1806,16 @@
                     7500000
                 ]
             },
+            "unstable_dragon_boots": {
+                "from": [
+                    100000,
+                    130000
+                ],
+                "to": [
+                    110000,
+                    160000
+                ]
+            },
             "valkyrie": {
                 "from": [
                     455000000,
@@ -1987,7 +1997,7 @@
                 ]
             }
         },
-        "total_mods": 324
+        "total_mods": 325
     },
     "647100327048511519": {
         "modification_history": {},
