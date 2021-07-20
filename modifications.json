@@ -2084,6 +2084,16 @@
                     215000000
                 ]
             },
+            "werewolf_helmet": {
+                "from": [
+                    540000,
+                    575000
+                ],
+                "to": [
+                    430000,
+                    480000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     400000,
@@ -2225,7 +2235,7 @@
                 ]
             }
         },
-        "total_mods": 544
+        "total_mods": 545
     },
     "647100327048511519": {
         "modification_history": {},
