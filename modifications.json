@@ -1506,12 +1506,12 @@
             },
             "protector_dragon_helmet": {
                 "from": [
-                    140000,
-                    240000
-                ],
-                "to": [
                     100000,
                     150000
+                ],
+                "to": [
+                    130000,
+                    180000
                 ]
             },
             "protector_dragon_leggings": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 567
+        "total_mods": 568
     },
     "647100327048511519": {
         "modification_history": {},
