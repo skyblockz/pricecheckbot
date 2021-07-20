@@ -1426,12 +1426,12 @@
             },
             "old_dragon_leggings": {
                 "from": [
-                    300000,
-                    350000
-                ],
-                "to": [
                     250000,
                     300000
+                ],
+                "to": [
+                    150000,
+                    200000
                 ]
             },
             "ornate_zombie_sword": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 662
+        "total_mods": 663
     },
     "647100327048511519": {
         "modification_history": {},
