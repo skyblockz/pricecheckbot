@@ -336,12 +336,12 @@
             },
             "armor_of_magma_leggings": {
                 "from": [
-                    150000,
-                    150000
-                ],
-                "to": [
                     175000,
                     200000
+                ],
+                "to": [
+                    200000,
+                    300000
                 ]
             },
             "astraea": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 594
+        "total_mods": 595
     },
     "647100327048511519": {
         "modification_history": {},
