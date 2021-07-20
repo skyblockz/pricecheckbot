@@ -1306,12 +1306,12 @@
             },
             "mineral_leggings": {
                 "from": [
-                    700000,
-                    750000
-                ],
-                "to": [
                     1000000,
                     1100000
+                ],
+                "to": [
+                    500000,
+                    550000
                 ]
             },
             "necromancer_lord_boots": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 703
+        "total_mods": 704
     },
     "647100327048511519": {
         "modification_history": {},
