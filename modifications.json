@@ -1646,12 +1646,12 @@
             },
             "shark_scale_helmet": {
                 "from": [
-                    850000,
-                    900000
-                ],
-                "to": [
                     500000,
                     600000
+                ],
+                "to": [
+                    1300000,
+                    1400000
                 ]
             },
             "shark_scale_leggings": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 650
+        "total_mods": 651
     },
     "647100327048511519": {
         "modification_history": {},
