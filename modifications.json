@@ -744,6 +744,16 @@
                     5500000
                 ]
             },
+            "ember_helmet": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "emerald_armor_boots": {
                 "from": [
                     370000,
@@ -2265,7 +2275,7 @@
                 ]
             }
         },
-        "total_mods": 548
+        "total_mods": 549
     },
     "647100327048511519": {
         "modification_history": {},
