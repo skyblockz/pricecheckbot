@@ -2266,12 +2266,12 @@
             },
             "young_dragon_boots": {
                 "from": [
-                    100000,
-                    200000
-                ],
-                "to": [
                     120000,
                     170000
+                ],
+                "to": [
+                    100000,
+                    300000
                 ]
             },
             "young_dragon_chestplate": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 737
+        "total_mods": 738
     },
     "647100327048511519": {
         "modification_history": {},
