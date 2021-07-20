@@ -1636,12 +1636,12 @@
             },
             "shark_scale_chestplate": {
                 "from": [
-                    900000,
-                    1000000
-                ],
-                "to": [
                     1350000,
                     1450000
+                ],
+                "to": [
+                    1150000,
+                    1200000
                 ]
             },
             "shark_scale_helmet": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 723
+        "total_mods": 724
     },
     "647100327048511519": {
         "modification_history": {},
