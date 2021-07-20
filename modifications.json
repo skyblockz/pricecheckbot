@@ -2286,12 +2286,12 @@
             },
             "young_dragon_helmet": {
                 "from": [
-                    160000,
-                    260000
-                ],
-                "to": [
                     140000,
                     190000
+                ],
+                "to": [
+                    120000,
+                    170000
                 ]
             },
             "young_dragon_leggings": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 585
+        "total_mods": 586
     },
     "647100327048511519": {
         "modification_history": {},
