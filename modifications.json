@@ -2186,12 +2186,12 @@
             },
             "wise_dragon_helmet": {
                 "from": [
-                    450000,
-                    500000
-                ],
-                "to": [
                     400000,
                     450000
+                ],
+                "to": [
+                    500000,
+                    700000
                 ]
             },
             "wise_dragon_leggings": {
@@ -2305,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 742
+        "total_mods": 743
     },
     "647100327048511519": {
         "modification_history": {},
