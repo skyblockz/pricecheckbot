@@ -1303,12 +1303,12 @@
             },
             "mineral_helmet": {
                 "from": [
-                    350000,
-                    375000
-                ],
-                "to": [
                     450000,
                     500000
+                ],
+                "to": [
+                    380000,
+                    430000
                 ]
             },
             "mineral_leggings": {
@@ -2352,7 +2352,7 @@
                 ]
             }
         },
-        "total_mods": 913
+        "total_mods": 914
     },
     "647100327048511519": {
         "modification_history": {},
