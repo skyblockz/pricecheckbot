@@ -911,6 +911,16 @@
                     1590000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    230000,
+                    280000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     790000,
@@ -2442,7 +2452,7 @@
                 ]
             }
         },
-        "total_mods": 957
+        "total_mods": 958
     },
     "647100327048511519": {
         "modification_history": {},
