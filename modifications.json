@@ -611,6 +611,16 @@
                     400000
                 ]
             },
+            "crystallized_heart": {
+                "from": [
+                    700000,
+                    900000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "diamond_bonzo_head": {
                 "from": [
                     112000000,
@@ -2432,7 +2442,7 @@
                 ]
             }
         },
-        "total_mods": 937
+        "total_mods": 938
     },
     "647100327048511519": {
         "modification_history": {},
