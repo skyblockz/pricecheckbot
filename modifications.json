@@ -763,12 +763,12 @@
             },
             "ember_boots": {
                 "from": [
-                    60000,
-                    110000
-                ],
-                "to": [
                     95000,
                     195000
+                ],
+                "to": [
+                    50000,
+                    150000
                 ]
             },
             "ember_chestplate": {
@@ -2442,7 +2442,7 @@
                 ]
             }
         },
-        "total_mods": 948
+        "total_mods": 949
     },
     "647100327048511519": {
         "modification_history": {},
