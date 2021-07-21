@@ -1201,6 +1201,16 @@
                     550000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    15000,
+                    65000
+                ]
+            },
             "happy_mask": {
                 "from": [
                     25000,
@@ -2532,7 +2542,7 @@
                 ]
             }
         },
-        "total_mods": 974
+        "total_mods": 975
     },
     "647100327048511519": {
         "modification_history": {},
