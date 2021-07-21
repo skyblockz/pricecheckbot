@@ -883,12 +883,12 @@
             },
             "fancy_tuxedo_jacket": {
                 "from": [
-                    5000000,
-                    7000000
-                ],
-                "to": [
                     4400000,
                     4500000
+                ],
+                "to": [
+                    2500000,
+                    2600000
                 ]
             },
             "fancy_tuxedo_oxfords": {
@@ -2442,7 +2442,7 @@
                 ]
             }
         },
-        "total_mods": 954
+        "total_mods": 955
     },
     "647100327048511519": {
         "modification_history": {},
