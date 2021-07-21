@@ -1011,6 +1011,16 @@
                     8900000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    6000,
+                    16000
+                ]
+            },
             "golden_bonzo_head": {
                 "from": [
                     100000,
@@ -2452,7 +2462,7 @@
                 ]
             }
         },
-        "total_mods": 966
+        "total_mods": 967
     },
     "647100327048511519": {
         "modification_history": {},
