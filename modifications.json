@@ -2093,12 +2093,12 @@
             },
             "strong_dragon_boots": {
                 "from": [
-                    690000,
-                    740000
-                ],
-                "to": [
                     600000,
                     700000
+                ],
+                "to": [
+                    500000,
+                    550000
                 ]
             },
             "strong_dragon_chestplate": {
@@ -2542,7 +2542,7 @@
                 ]
             }
         },
-        "total_mods": 990
+        "total_mods": 991
     },
     "647100327048511519": {
         "modification_history": {},
