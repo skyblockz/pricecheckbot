@@ -1671,6 +1671,16 @@
                     1240000
                 ]
             },
+            "snow_suit_helmet": {
+                "from": [
+                    20000,
+                    29000
+                ],
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "sorrow_boots": {
                 "from": [
                     3200000,
@@ -2312,7 +2322,7 @@
                 ]
             }
         },
-        "total_mods": 909
+        "total_mods": 910
     },
     "647100327048511519": {
         "modification_history": {},
