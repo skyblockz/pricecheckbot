@@ -2373,12 +2373,12 @@
             },
             "wise_dragon_chestplate": {
                 "from": [
-                    450000,
-                    500000
-                ],
-                "to": [
                     480000,
                     580000
+                ],
+                "to": [
+                    500000,
+                    550000
                 ]
             },
             "wise_dragon_helmet": {
@@ -2542,7 +2542,7 @@
                 ]
             }
         },
-        "total_mods": 996
+        "total_mods": 997
     },
     "647100327048511519": {
         "modification_history": {},
