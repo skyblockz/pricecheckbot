@@ -923,12 +923,12 @@
             },
             "final_destination_boots": {
                 "from": [
-                    790000,
-                    840000
-                ],
-                "to": [
                     800000,
                     900000
+                ],
+                "to": [
+                    730000,
+                    830000
                 ]
             },
             "final_destination_chestplate": {
@@ -2452,7 +2452,7 @@
                 ]
             }
         },
-        "total_mods": 961
+        "total_mods": 962
     },
     "647100327048511519": {
         "modification_history": {},
