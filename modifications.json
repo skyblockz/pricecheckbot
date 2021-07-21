@@ -1161,6 +1161,16 @@
                     7700000
                 ]
             },
+            "golem_armor_helmet": {
+                "from": [
+                    50000,
+                    90000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "happy_mask": {
                 "from": [
                     25000,
@@ -2492,7 +2502,7 @@
                 ]
             }
         },
-        "total_mods": 970
+        "total_mods": 971
     },
     "647100327048511519": {
         "modification_history": {},
