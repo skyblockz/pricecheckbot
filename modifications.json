@@ -1181,6 +1181,16 @@
                     250000
                 ]
             },
+            "golem_armor_leggings": {
+                "from": [
+                    80000,
+                    94000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "happy_mask": {
                 "from": [
                     25000,
@@ -2512,7 +2522,7 @@
                 ]
             }
         },
-        "total_mods": 972
+        "total_mods": 973
     },
     "647100327048511519": {
         "modification_history": {},
