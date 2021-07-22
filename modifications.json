@@ -55,6 +55,16 @@
                     35000
                 ]
             },
+            "green_jerry_talisman": {
+                "from": [
+                    490000,
+                    600000
+                ],
+                "to": [
+                    475000,
+                    500000
+                ]
+            },
             "healing_ring": {
                 "from": [
                     375000,
@@ -146,7 +156,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "275329625478004737": {
         "modification_history": {},
