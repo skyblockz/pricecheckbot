@@ -225,6 +225,16 @@
                     35000
                 ]
             },
+            "scarfs_thesis": {
+                "from": [
+                    2000000,
+                    2200000
+                ],
+                "to": [
+                    2000000,
+                    2400000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     475000,
@@ -286,7 +296,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "275329625478004737": {
         "modification_history": {},
