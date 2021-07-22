@@ -25,6 +25,16 @@
                     6000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    550000,
+                    600000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "fire_talisman": {
                 "from": [
                     25000,
@@ -76,7 +86,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "275329625478004737": {
         "modification_history": {},
