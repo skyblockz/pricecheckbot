@@ -421,6 +421,13 @@
                     30000000
                 ]
             },
+            "lvl_100_legendary_bal": {
+                "from": null,
+                "to": [
+                    75000000,
+                    80000000
+                ]
+            },
             "lvl_1_epic_bal": {
                 "from": null,
                 "to": [
@@ -504,7 +511,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "466769036122783744": {
         "modification_history": {},
