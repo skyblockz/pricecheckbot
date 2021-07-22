@@ -135,6 +135,16 @@
                     4500000
                 ]
             },
+            "purple_jerry_talisman": {
+                "from": [
+                    14500000,
+                    18000000
+                ],
+                "to": [
+                    15500000,
+                    18000000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     475000,
@@ -156,7 +166,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "275329625478004737": {
         "modification_history": {},
