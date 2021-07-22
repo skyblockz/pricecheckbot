@@ -34,9 +34,19 @@
                     5000,
                     7000
                 ]
+            },
+            "sea_creature_artifact": {
+                "from": [
+                    475000,
+                    480000
+                ],
+                "to": [
+                    250000,
+                    270000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "275329625478004737": {
         "modification_history": {},
