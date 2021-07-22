@@ -25,6 +25,16 @@
                     6000
                 ]
             },
+            "fire_talisman": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            },
             "healing_ring": {
                 "from": [
                     375000,
@@ -66,7 +76,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "275329625478004737": {
         "modification_history": {},
