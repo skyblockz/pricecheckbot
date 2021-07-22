@@ -215,6 +215,16 @@
                     3100000
                 ]
             },
+            "spider_ring": {
+                "from": [
+                    200000,
+                    240000
+                ],
+                "to": [
+                    150000,
+                    240000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     2000000,
@@ -236,7 +246,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "275329625478004737": {
         "modification_history": {},
