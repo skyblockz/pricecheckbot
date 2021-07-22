@@ -35,6 +35,16 @@
                     6000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    2250000,
+                    2500000
+                ],
+                "to": [
+                    2100000,
+                    2500000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     550000,
@@ -206,7 +216,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "275329625478004737": {
         "modification_history": {},
