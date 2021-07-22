@@ -75,6 +75,16 @@
                     7000
                 ]
             },
+            "piggy_bank": {
+                "from": [
+                    77000,
+                    77000
+                ],
+                "to": [
+                    77000,
+                    80000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     475000,
@@ -86,7 +96,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "275329625478004737": {
         "modification_history": {},
