@@ -85,6 +85,16 @@
                     80000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    6700000,
+                    7200000
+                ],
+                "to": [
+                    6700000,
+                    7500000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     475000,
@@ -96,7 +106,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "275329625478004737": {
         "modification_history": {},
