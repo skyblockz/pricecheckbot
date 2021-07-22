@@ -496,6 +496,16 @@
                     750000
                 ]
             },
+            "pooch_sword": {
+                "from": [
+                    1500000,
+                    1750000
+                ],
+                "to": [
+                    750000,
+                    1000000
+                ]
+            },
             "prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -568,7 +578,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "466769036122783744": {
         "modification_history": {},
