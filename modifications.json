@@ -195,6 +195,16 @@
                     28000000
                 ]
             },
+            "red_claw_talisman": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     475000,
@@ -256,7 +266,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "275329625478004737": {
         "modification_history": {},
