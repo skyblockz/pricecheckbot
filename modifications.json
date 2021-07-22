@@ -15,6 +15,16 @@
                     15000000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    145000,
+                    165000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     9000,
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "275329625478004737": {
         "modification_history": {},
