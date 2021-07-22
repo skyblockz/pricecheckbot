@@ -85,6 +85,16 @@
                     7000
                 ]
             },
+            "mineral_talisman": {
+                "from": [
+                    680000,
+                    710000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "piggy_bank": {
                 "from": [
                     77000,
@@ -136,7 +146,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "275329625478004737": {
         "modification_history": {},
