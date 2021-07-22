@@ -105,6 +105,16 @@
                     75000
                 ]
             },
+            "lucky_hoof": {
+                "from": [
+                    69000,
+                    90000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     2500,
@@ -196,7 +206,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "275329625478004737": {
         "modification_history": {},
