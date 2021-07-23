@@ -485,6 +485,16 @@
                     1000000
                 ]
             },
+            "diamonite": {
+                "from": [
+                    1700000,
+                    1900000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "electron_transmitter": {
                 "from": null,
                 "to": [
@@ -764,7 +774,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "395028811399299082": {
         "modification_history": {},
