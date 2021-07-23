@@ -12430,5 +12430,11 @@
         "hi": 500000,
         "low": 100000,
         "name": "control_switch"
+    },
+    {
+        "ac": true,
+        "hi": 500000,
+        "low": 80000,
+        "name": "ftx_3070"
     }
 ]
