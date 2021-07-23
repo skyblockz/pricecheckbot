@@ -440,6 +440,13 @@
                     500000
                 ]
             },
+            "corleonite": {
+                "from": null,
+                "to": [
+                    330000,
+                    1000000
+                ]
+            },
             "electron_transmitter": {
                 "from": null,
                 "to": [
@@ -698,7 +705,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "395028811399299082": {
         "modification_history": {},
