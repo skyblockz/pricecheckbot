@@ -587,6 +587,13 @@
                     165000
                 ]
             },
+            "oil_barrel": {
+                "from": null,
+                "to": [
+                    7000,
+                    10000
+                ]
+            },
             "pristine_i": {
                 "from": null,
                 "to": [
@@ -712,7 +719,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "395028811399299082": {
         "modification_history": {},
