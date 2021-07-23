@@ -514,10 +514,13 @@
                 ]
             },
             "ruby_power_scroll": {
-                "from": null,
-                "to": [
+                "from": [
                     2350000,
                     2350000
+                ],
+                "to": [
+                    3300000,
+                    4300000
                 ]
             },
             "sapphire_power_scroll": {
@@ -570,7 +573,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395028811399299082": {
         "modification_history": {},
