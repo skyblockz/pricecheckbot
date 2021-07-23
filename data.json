@@ -12580,5 +12580,11 @@
         "hi": 400000,
         "low": 200000,
         "name": "electron_transmitter"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 230000,
+        "name": "robotron_reflector"
     }
 ]
