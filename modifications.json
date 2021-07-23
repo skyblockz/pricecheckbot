@@ -398,6 +398,13 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "control_switch": {
+                "from": null,
+                "to": [
+                    100000,
+                    500000
+                ]
+            },
             "flamebreaker_boots": {
                 "from": null,
                 "to": [
@@ -483,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395028811399299082": {
         "modification_history": {},
