@@ -652,6 +652,13 @@
                     11000
                 ]
             },
+            "superlite_motor": {
+                "from": null,
+                "to": [
+                    100000,
+                    700000
+                ]
+            },
             "synthetic_heart": {
                 "from": [
                     115000,
@@ -691,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "395028811399299082": {
         "modification_history": {},
