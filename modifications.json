@@ -440,6 +440,13 @@
                     500000
                 ]
             },
+            "electron_transmitter": {
+                "from": null,
+                "to": [
+                    200000,
+                    400000
+                ]
+            },
             "flamebreaker_boots": {
                 "from": null,
                 "to": [
@@ -667,7 +674,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "395028811399299082": {
         "modification_history": {},
