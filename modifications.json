@@ -405,6 +405,13 @@
                     62000000
                 ]
             },
+            "gemstone_fuel_tank": {
+                "from": null,
+                "to": [
+                    70000000,
+                    84400000
+                ]
+            },
             "ruby_polished_drill_engine": {
                 "from": null,
                 "to": [
@@ -420,7 +427,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "395028811399299082": {
         "modification_history": {},
