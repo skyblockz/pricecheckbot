@@ -461,6 +461,13 @@
                     26000000
                 ]
             },
+            "sludge_juice": {
+                "from": null,
+                "to": [
+                    2500,
+                    10000
+                ]
+            },
             "topaz_drill_kgr-12": {
                 "from": null,
                 "to": [
@@ -469,7 +476,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "395028811399299082": {
         "modification_history": {},
