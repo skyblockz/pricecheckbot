@@ -12592,5 +12592,11 @@
         "hi": 700000,
         "low": 100000,
         "name": "superlite_motor"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 330000,
+        "name": "corleonite"
     }
 ]
