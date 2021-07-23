@@ -652,6 +652,16 @@
                     11000
                 ]
             },
+            "synthetic_heart": {
+                "from": [
+                    115000,
+                    150000
+                ],
+                "to": [
+                    150000,
+                    400000
+                ]
+            },
             "talisman_of_power": {
                 "from": null,
                 "to": [
@@ -681,7 +691,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "395028811399299082": {
         "modification_history": {},
