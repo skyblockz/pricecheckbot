@@ -524,10 +524,13 @@
                 ]
             },
             "sapphire_power_scroll": {
-                "from": null,
-                "to": [
+                "from": [
                     2400000,
                     2400000
+                ],
+                "to": [
+                    3400000,
+                    3650000
                 ]
             },
             "silex": {
@@ -573,7 +576,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "395028811399299082": {
         "modification_history": {},
