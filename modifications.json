@@ -4597,6 +4597,16 @@
                     1200000
                 ]
             },
+            "metal_chestplate": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    150000,
+                    300000
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     12,
@@ -5260,7 +5270,7 @@
                 ]
             }
         },
-        "total_mods": 545
+        "total_mods": 546
     },
     "395028811399299082": {
         "modification_history": {},
