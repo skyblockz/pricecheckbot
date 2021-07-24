@@ -898,6 +898,16 @@
                     750000000
                 ]
             },
+            "jumbo_backpack_upgrade": {
+                "from": [
+                    1120000,
+                    1500000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "jungle_amulet": {
                 "from": null,
                 "to": [
@@ -1359,7 +1369,7 @@
                 ]
             }
         },
-        "total_mods": 124
+        "total_mods": 125
     },
     "395028811399299082": {
         "modification_history": {},
