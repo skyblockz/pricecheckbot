@@ -3831,6 +3831,16 @@
                     75000
                 ]
             },
+            "large_husbandry_sack": {
+                "from": [
+                    185000,
+                    255000
+                ],
+                "to": [
+                    295000,
+                    300000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     2000000,
@@ -4683,7 +4693,7 @@
                 ]
             }
         },
-        "total_mods": 483
+        "total_mods": 484
     },
     "395028811399299082": {
         "modification_history": {},
