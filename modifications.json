@@ -659,6 +659,16 @@
                     150000000
                 ]
             },
+            "bat_firework": {
+                "from": [
+                    180000,
+                    200000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1386,7 +1396,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "395028811399299082": {
         "modification_history": {},
