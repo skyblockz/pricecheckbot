@@ -4814,6 +4814,16 @@
                     5000
                 ]
             },
+            "mosquito_bow": {
+                "from": [
+                    6500000,
+                    8000000
+                ],
+                "to": [
+                    6500000,
+                    8500000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5524,7 +5534,7 @@
                 ]
             }
         },
-        "total_mods": 572
+        "total_mods": 573
     },
     "395028811399299082": {
         "modification_history": {},
