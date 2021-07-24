@@ -5051,6 +5051,16 @@
                     69000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    67250000,
+                    67750000
+                ],
+                "to": [
+                    66000000,
+                    80000000
+                ]
+            },
             "perfect_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -5767,7 +5777,7 @@
                 ]
             }
         },
-        "total_mods": 597
+        "total_mods": 598
     },
     "395028811399299082": {
         "modification_history": {},
