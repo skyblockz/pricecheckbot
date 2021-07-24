@@ -4804,6 +4804,16 @@
                     4000000
                 ]
             },
+            "molten_cube": {
+                "from": [
+                    2500,
+                    4000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5514,7 +5524,7 @@
                 ]
             }
         },
-        "total_mods": 571
+        "total_mods": 572
     },
     "395028811399299082": {
         "modification_history": {},
