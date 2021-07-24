@@ -5011,6 +5011,16 @@
                     2500
                 ]
             },
+            "onyx": {
+                "from": [
+                    100,
+                    100
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "perfect_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -5727,7 +5737,7 @@
                 ]
             }
         },
-        "total_mods": 593
+        "total_mods": 594
     },
     "395028811399299082": {
         "modification_history": {},
