@@ -4123,6 +4123,16 @@
                     300000
                 ]
             },
+            "lasrs_eye": {
+                "from": [
+                    40000,
+                    80000
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     2000000,
@@ -4982,7 +4992,7 @@
                 ]
             }
         },
-        "total_mods": 516
+        "total_mods": 517
     },
     "395028811399299082": {
         "modification_history": {},
