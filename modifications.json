@@ -930,6 +930,16 @@
                     6800000
                 ]
             },
+            "candy_ring": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    110000,
+                    150000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1660,7 +1670,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "395028811399299082": {
         "modification_history": {},
