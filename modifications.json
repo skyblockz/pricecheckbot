@@ -2078,6 +2078,13 @@
                     3700000
                 ]
             },
+            "hard_stone": {
+                "from": null,
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "helmet_of_divan": {
                 "from": null,
                 "to": [
@@ -2791,7 +2798,7 @@
                 ]
             }
         },
-        "total_mods": 277
+        "total_mods": 278
     },
     "395028811399299082": {
         "modification_history": {},
