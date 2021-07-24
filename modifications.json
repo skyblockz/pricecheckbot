@@ -2920,6 +2920,13 @@
                     1200000000
                 ]
             },
+            "magma_core": {
+                "from": null,
+                "to": [
+                    3200000,
+                    3500000
+                ]
+            },
             "master_skull_tier_1": {
                 "from": [
                     2200000,
@@ -3422,7 +3429,7 @@
                 ]
             }
         },
-        "total_mods": 341
+        "total_mods": 342
     },
     "395028811399299082": {
         "modification_history": {},
