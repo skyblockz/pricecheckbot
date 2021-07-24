@@ -920,6 +920,16 @@
                     5000
                 ]
             },
+            "candy_relic": {
+                "from": [
+                    7800000,
+                    8250000
+                ],
+                "to": [
+                    6500000,
+                    6800000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1650,7 +1660,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "395028811399299082": {
         "modification_history": {},
