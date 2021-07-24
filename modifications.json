@@ -1746,6 +1746,16 @@
                     11000
                 ]
             },
+            "small_combat_sack": {
+                "from": [
+                    26000,
+                    30000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "small_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -1890,7 +1900,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "395028811399299082": {
         "modification_history": {},
