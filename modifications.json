@@ -4884,6 +4884,16 @@
                     440000000
                 ]
             },
+            "nether_quartz": {
+                "from": [
+                    15,
+                    21
+                ],
+                "to": [
+                    25,
+                    27
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5624,7 +5634,7 @@
                 ]
             }
         },
-        "total_mods": 582
+        "total_mods": 583
     },
     "395028811399299082": {
         "modification_history": {},
