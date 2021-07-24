@@ -4764,6 +4764,16 @@
                     15000000
                 ]
             },
+            "mithril_infusion": {
+                "from": [
+                    2400000,
+                    2700000
+                ],
+                "to": [
+                    2500000,
+                    2700000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5474,7 +5484,7 @@
                 ]
             }
         },
-        "total_mods": 567
+        "total_mods": 568
     },
     "395028811399299082": {
         "modification_history": {},
