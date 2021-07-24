@@ -4049,6 +4049,16 @@
                     500
                 ]
             },
+            "lapis_lazuli": {
+                "from": [
+                    2,
+                    5
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     60000,
@@ -5019,7 +5029,7 @@
                 ]
             }
         },
-        "total_mods": 520
+        "total_mods": 521
     },
     "395028811399299082": {
         "modification_history": {},
