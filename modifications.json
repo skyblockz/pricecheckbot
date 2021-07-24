@@ -3742,6 +3742,16 @@
                     100000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": [
+                    20000000,
+                    25000000
+                ],
+                "to": [
+                    18500000,
+                    30000000
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4760,7 +4770,7 @@
                 ]
             }
         },
-        "total_mods": 491
+        "total_mods": 492
     },
     "395028811399299082": {
         "modification_history": {},
