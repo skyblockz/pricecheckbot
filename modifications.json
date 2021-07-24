@@ -4342,6 +4342,16 @@
                     1200000000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    622000,
+                    700000
+                ],
+                "to": [
+                    700000,
+                    700000
+                ]
+            },
             "magma_core": {
                 "from": null,
                 "to": [
@@ -5109,7 +5119,7 @@
                 ]
             }
         },
-        "total_mods": 529
+        "total_mods": 530
     },
     "395028811399299082": {
         "modification_history": {},
