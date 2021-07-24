@@ -3464,6 +3464,16 @@
                     200000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    12,
+                    16
+                ],
+                "to": [
+                    12,
+                    17
+                ]
+            },
             "hard_stone": {
                 "from": null,
                 "to": [
@@ -4490,7 +4500,7 @@
                 ]
             }
         },
-        "total_mods": 463
+        "total_mods": 464
     },
     "395028811399299082": {
         "modification_history": {},
