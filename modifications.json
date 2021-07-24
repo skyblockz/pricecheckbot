@@ -1404,6 +1404,16 @@
                     250000
                 ]
             },
+            "large_combat_sack": {
+                "from": [
+                    157000,
+                    163000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "large_enchanted_agronomy_sack": {
                 "from": [
                     100000,
@@ -1910,7 +1920,7 @@
                 ]
             }
         },
-        "total_mods": 184
+        "total_mods": 185
     },
     "395028811399299082": {
         "modification_history": {},
