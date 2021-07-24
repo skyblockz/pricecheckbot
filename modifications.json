@@ -4200,6 +4200,16 @@
                     1800000
                 ]
             },
+            "leather": {
+                "from": [
+                    22,
+                    30
+                ],
+                "to": [
+                    17,
+                    26
+                ]
+            },
             "legendary_beastmaster_crest": {
                 "from": [
                     17500000,
@@ -5049,7 +5059,7 @@
                 ]
             }
         },
-        "total_mods": 523
+        "total_mods": 524
     },
     "395028811399299082": {
         "modification_history": {},
