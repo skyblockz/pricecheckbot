@@ -4874,6 +4874,16 @@
                     30000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    400000000,
+                    420000000
+                ],
+                "to": [
+                    440000000,
+                    440000000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5614,7 +5624,7 @@
                 ]
             }
         },
-        "total_mods": 581
+        "total_mods": 582
     },
     "395028811399299082": {
         "modification_history": {},
