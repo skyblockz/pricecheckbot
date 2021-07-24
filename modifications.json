@@ -983,6 +983,16 @@
                     10000
                 ]
             },
+            "small_agronomy_sack": {
+                "from": [
+                    300000,
+                    325000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "small_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -1117,7 +1127,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "395028811399299082": {
         "modification_history": {},
