@@ -719,6 +719,16 @@
                     3000
                 ]
             },
+            "biofuel": {
+                "from": [
+                    30000,
+                    50000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1496,7 +1506,7 @@
                 ]
             }
         },
-        "total_mods": 138
+        "total_mods": 139
     },
     "395028811399299082": {
         "modification_history": {},
