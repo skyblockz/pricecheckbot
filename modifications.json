@@ -5021,6 +5021,16 @@
                     10000
                 ]
             },
+            "optical_lens": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    35000,
+                    45000
+                ]
+            },
             "perfect_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -5737,7 +5747,7 @@
                 ]
             }
         },
-        "total_mods": 594
+        "total_mods": 595
     },
     "395028811399299082": {
         "modification_history": {},
