@@ -3190,6 +3190,16 @@
                     6500000
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    12,
+                    17
+                ],
+                "to": [
+                    17,
+                    20
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4000,
@@ -4243,7 +4253,7 @@
                 ]
             }
         },
-        "total_mods": 437
+        "total_mods": 438
     },
     "395028811399299082": {
         "modification_history": {},
