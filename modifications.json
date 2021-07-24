@@ -970,6 +970,16 @@
                     8
                 ]
             },
+            "catalyst": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    120000,
+                    125000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1700,7 +1710,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "395028811399299082": {
         "modification_history": {},
