@@ -4500,6 +4500,16 @@
                     1200000
                 ]
             },
+            "maxor_the_fish": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    50000,
+                    350000
+                ]
+            },
             "medium_agronomy_sack": {
                 "from": [
                     35000,
@@ -5230,7 +5240,7 @@
                 ]
             }
         },
-        "total_mods": 542
+        "total_mods": 543
     },
     "395028811399299082": {
         "modification_history": {},
