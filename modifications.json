@@ -3792,6 +3792,13 @@
                     10
                 ]
             },
+            "island_npc": {
+                "from": null,
+                "to": [
+                    180000,
+                    190000
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4810,7 +4817,7 @@
                 ]
             }
         },
-        "total_mods": 496
+        "total_mods": 497
     },
     "395028811399299082": {
         "modification_history": {},
