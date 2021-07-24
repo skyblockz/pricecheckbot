@@ -2616,6 +2616,16 @@
                     550000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3456,7 +3466,7 @@
                 ]
             }
         },
-        "total_mods": 345
+        "total_mods": 346
     },
     "395028811399299082": {
         "modification_history": {},
