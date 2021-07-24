@@ -1064,6 +1064,16 @@
                     18000000
                 ]
             },
+            "coal": {
+                "from": [
+                    7,
+                    9
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     460000,
@@ -1837,7 +1847,7 @@
                 ]
             }
         },
-        "total_mods": 173
+        "total_mods": 174
     },
     "395028811399299082": {
         "modification_history": {},
