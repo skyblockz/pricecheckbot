@@ -1131,6 +1131,13 @@
                     800000
                 ]
             },
+            "concentrated_stone": {
+                "from": null,
+                "to": [
+                    2000000,
+                    2400000
+                ]
+            },
             "control_switch": {
                 "from": null,
                 "to": [
@@ -1927,7 +1934,7 @@
                 ]
             }
         },
-        "total_mods": 186
+        "total_mods": 187
     },
     "395028811399299082": {
         "modification_history": {},
