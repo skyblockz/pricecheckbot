@@ -2646,6 +2646,16 @@
                     10000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    500000,
+                    650000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3506,7 +3516,7 @@
                 ]
             }
         },
-        "total_mods": 350
+        "total_mods": 351
     },
     "395028811399299082": {
         "modification_history": {},
