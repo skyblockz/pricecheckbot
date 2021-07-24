@@ -447,6 +447,16 @@
                     106500000
                 ]
             },
+            "blast_protection_vii": {
+                "from": [
+                    4200000,
+                    4400000
+                ],
+                "to": [
+                    18900000,
+                    20400000
+                ]
+            },
             "blood_god_crest": {
                 "from": [
                     950000,
@@ -946,7 +956,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "395028811399299082": {
         "modification_history": {},
