@@ -3752,6 +3752,16 @@
                     30000000
                 ]
             },
+            "inflatable_jerry": {
+                "from": [
+                    15,
+                    50
+                ],
+                "to": [
+                    100,
+                    150
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4770,7 +4780,7 @@
                 ]
             }
         },
-        "total_mods": 492
+        "total_mods": 493
     },
     "395028811399299082": {
         "modification_history": {},
