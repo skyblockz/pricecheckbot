@@ -3819,6 +3819,13 @@
                     15800000
                 ]
             },
+            "jasper_drill_model_x": {
+                "from": null,
+                "to": [
+                    50000000,
+                    65000000
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4844,7 +4851,7 @@
                 ]
             }
         },
-        "total_mods": 500
+        "total_mods": 501
     },
     "395028811399299082": {
         "modification_history": {},
