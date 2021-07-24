@@ -2693,6 +2693,16 @@
                     650
                 ]
             },
+            "farming_talisman": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    150,
+                    200
+                ]
+            },
             "flamebreaker_boots": {
                 "from": null,
                 "to": [
@@ -3543,7 +3553,7 @@
                 ]
             }
         },
-        "total_mods": 355
+        "total_mods": 356
     },
     "395028811399299082": {
         "modification_history": {},
