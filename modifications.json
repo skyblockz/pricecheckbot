@@ -612,6 +612,16 @@
                     13500000
                 ]
             },
+            "aspiring_leap": {
+                "from": [
+                    70000,
+                    75000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1299,7 +1309,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "395028811399299082": {
         "modification_history": {},
