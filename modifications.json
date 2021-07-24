@@ -2322,6 +2322,16 @@
                     32000
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    440,
+                    480
+                ],
+                "to": [
+                    310,
+                    350
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -3175,7 +3185,7 @@
                 ]
             }
         },
-        "total_mods": 316
+        "total_mods": 317
     },
     "395028811399299082": {
         "modification_history": {},
