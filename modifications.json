@@ -2612,6 +2612,16 @@
                     9000000
                 ]
             },
+            "epic_griffin_upgrade_stone": {
+                "from": [
+                    6250000,
+                    6500000
+                ],
+                "to": [
+                    6000000,
+                    6200000
+                ]
+            },
             "epic_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -4460,7 +4470,7 @@
                 ]
             }
         },
-        "total_mods": 459
+        "total_mods": 460
     },
     "395028811399299082": {
         "modification_history": {},
