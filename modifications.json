@@ -1188,6 +1188,16 @@
                     800000
                 ]
             },
+            "compactor": {
+                "from": [
+                    6500,
+                    7500
+                ],
+                "to": [
+                    7500,
+                    9000
+                ]
+            },
             "concentrated_stone": {
                 "from": null,
                 "to": [
@@ -5777,7 +5787,7 @@
                 ]
             }
         },
-        "total_mods": 594
+        "total_mods": 595
     },
     "395028811399299082": {
         "modification_history": {},
