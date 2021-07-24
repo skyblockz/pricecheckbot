@@ -3494,6 +3494,16 @@
                     25000
                 ]
             },
+            "happy_mask": {
+                "from": [
+                    10000,
+                    110000
+                ],
+                "to": [
+                    24000,
+                    24000
+                ]
+            },
             "hard_stone": {
                 "from": null,
                 "to": [
@@ -4520,7 +4530,7 @@
                 ]
             }
         },
-        "total_mods": 466
+        "total_mods": 467
     },
     "395028811399299082": {
         "modification_history": {},
