@@ -2626,6 +2626,16 @@
                     550000
                 ]
             },
+            "experience_bottle": {
+                "from": [
+                    30,
+                    40
+                ],
+                "to": [
+                    32,
+                    43
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3466,7 +3476,7 @@
                 ]
             }
         },
-        "total_mods": 346
+        "total_mods": 347
     },
     "395028811399299082": {
         "modification_history": {},
