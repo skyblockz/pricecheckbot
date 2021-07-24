@@ -4030,6 +4030,16 @@
                     165000
                 ]
             },
+            "medium_husbandry_sack": {
+                "from": [
+                    85000,
+                    110000
+                ],
+                "to": [
+                    130000,
+                    135000
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     12,
@@ -4673,7 +4683,7 @@
                 ]
             }
         },
-        "total_mods": 482
+        "total_mods": 483
     },
     "395028811399299082": {
         "modification_history": {},
