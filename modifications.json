@@ -2372,6 +2372,16 @@
                     1000
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    80,
+                    85
+                ],
+                "to": [
+                    75,
+                    80
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -3225,7 +3235,7 @@
                 ]
             }
         },
-        "total_mods": 321
+        "total_mods": 322
     },
     "395028811399299082": {
         "modification_history": {},
