@@ -3804,6 +3804,16 @@
                     110000
                 ]
             },
+            "large_enchanted_husbandry_sack": {
+                "from": [
+                    340000,
+                    380000
+                ],
+                "to": [
+                    350000,
+                    365000
+                ]
+            },
             "large_enchated_combat_sack": {
                 "from": null,
                 "to": [
@@ -4693,7 +4703,7 @@
                 ]
             }
         },
-        "total_mods": 484
+        "total_mods": 485
     },
     "395028811399299082": {
         "modification_history": {},
