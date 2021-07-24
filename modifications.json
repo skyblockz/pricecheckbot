@@ -900,6 +900,16 @@
                     9000000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    425000,
+                    500000
+                ],
+                "to": [
+                    320000,
+                    350000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1630,7 +1640,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "395028811399299082": {
         "modification_history": {},
