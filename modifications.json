@@ -2636,6 +2636,16 @@
                     43
                 ]
             },
+            "experimentation_table": {
+                "from": [
+                    9000,
+                    15000
+                ],
+                "to": [
+                    9000,
+                    10000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3496,7 +3506,7 @@
                 ]
             }
         },
-        "total_mods": 349
+        "total_mods": 350
     },
     "395028811399299082": {
         "modification_history": {},
