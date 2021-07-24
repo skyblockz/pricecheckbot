@@ -1725,12 +1725,12 @@
             },
             "small_agronomy_sack": {
                 "from": [
-                    300000,
-                    325000
-                ],
-                "to": [
                     20000,
                     20000
+                ],
+                "to": [
+                    80000,
+                    90000
                 ]
             },
             "small_backpack": {
@@ -1887,7 +1887,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "395028811399299082": {
         "modification_history": {},
