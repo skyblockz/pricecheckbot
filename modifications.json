@@ -3046,6 +3046,16 @@
                     105000
                 ]
             },
+            "large_fishing_sack": {
+                "from": [
+                    260000,
+                    300000
+                ],
+                "to": [
+                    300000,
+                    320000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     2000000,
@@ -3720,7 +3730,7 @@
                 ]
             }
         },
-        "total_mods": 373
+        "total_mods": 374
     },
     "395028811399299082": {
         "modification_history": {},
