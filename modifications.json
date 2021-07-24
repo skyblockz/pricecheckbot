@@ -1252,6 +1252,13 @@
                     500
                 ]
             },
+            "decoy": {
+                "from": null,
+                "to": [
+                    11000,
+                    50000
+                ]
+            },
             "diamonite": {
                 "from": [
                     1700000,
@@ -2031,7 +2038,7 @@
                 ]
             }
         },
-        "total_mods": 197
+        "total_mods": 198
     },
     "395028811399299082": {
         "modification_history": {},
