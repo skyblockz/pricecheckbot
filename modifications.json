@@ -811,6 +811,16 @@
                     200000000
                 ]
             },
+            "projectile_protection_vii": {
+                "from": [
+                    5200000,
+                    5500000
+                ],
+                "to": [
+                    6000000,
+                    6500000
+                ]
+            },
             "rare_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -976,7 +986,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "395028811399299082": {
         "modification_history": {},
