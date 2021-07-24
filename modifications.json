@@ -856,6 +856,13 @@
                     11350000
                 ]
             },
+            "bridge_egg": {
+                "from": null,
+                "to": [
+                    50,
+                    100
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1586,7 +1593,7 @@
                 ]
             }
         },
-        "total_mods": 147
+        "total_mods": 148
     },
     "395028811399299082": {
         "modification_history": {},
