@@ -4311,6 +4311,16 @@
                     2500000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    240000,
+                    255000
+                ],
+                "to": [
+                    350000,
+                    350000
+                ]
+            },
             "lvl_100_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -5099,7 +5109,7 @@
                 ]
             }
         },
-        "total_mods": 528
+        "total_mods": 529
     },
     "395028811399299082": {
         "modification_history": {},
