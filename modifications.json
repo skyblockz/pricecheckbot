@@ -2492,6 +2492,16 @@
                     132000
                 ]
             },
+            "end_portal_frame": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -3345,7 +3355,7 @@
                 ]
             }
         },
-        "total_mods": 333
+        "total_mods": 334
     },
     "395028811399299082": {
         "modification_history": {},
