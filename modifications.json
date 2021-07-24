@@ -632,6 +632,16 @@
                     650000000
                 ]
             },
+            "autopet_rules_2-pack": {
+                "from": [
+                    6400000,
+                    6750000
+                ],
+                "to": [
+                    6300000,
+                    6400000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1319,7 +1329,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "395028811399299082": {
         "modification_history": {},
