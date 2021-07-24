@@ -1898,6 +1898,16 @@
                     1350
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    146000,
+                    155000
+                ],
+                "to": [
+                    205000,
+                    220000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2744,7 +2754,7 @@
                 ]
             }
         },
-        "total_mods": 272
+        "total_mods": 273
     },
     "395028811399299082": {
         "modification_history": {},
