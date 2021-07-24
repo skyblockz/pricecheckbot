@@ -4029,6 +4029,16 @@
                     50000
                 ]
             },
+            "lantern_helmet": {
+                "from": [
+                    75000,
+                    85000
+                ],
+                "to": [
+                    110000,
+                    120000
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     60000,
@@ -4999,7 +5009,7 @@
                 ]
             }
         },
-        "total_mods": 518
+        "total_mods": 519
     },
     "395028811399299082": {
         "modification_history": {},
