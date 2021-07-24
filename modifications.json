@@ -1386,12 +1386,12 @@
             },
             "large_agronomy_sack": {
                 "from": [
-                    765000,
-                    820000
-                ],
-                "to": [
                     60000,
                     60000
+                ],
+                "to": [
+                    555000,
+                    565000
                 ]
             },
             "large_backpack": {
@@ -1887,7 +1887,7 @@
                 ]
             }
         },
-        "total_mods": 180
+        "total_mods": 181
     },
     "395028811399299082": {
         "modification_history": {},
