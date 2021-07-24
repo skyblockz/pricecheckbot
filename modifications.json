@@ -1374,6 +1374,16 @@
                     4000000
                 ]
             },
+            "uncommon_beastmaster_crest": {
+                "from": [
+                    1250000,
+                    1290000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "uncommon_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -1416,7 +1426,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "395028811399299082": {
         "modification_history": {},
