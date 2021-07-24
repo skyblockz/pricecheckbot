@@ -679,6 +679,16 @@
                     8000
                 ]
             },
+            "beating_heart": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1456,7 +1466,7 @@
                 ]
             }
         },
-        "total_mods": 134
+        "total_mods": 135
     },
     "395028811399299082": {
         "modification_history": {},
