@@ -3073,6 +3073,13 @@
                     400000
                 ]
             },
+            "large_enchanted_foraging_sack": {
+                "from": null,
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "large_enchated_combat_sack": {
                 "from": null,
                 "to": [
@@ -3794,7 +3801,7 @@
                 ]
             }
         },
-        "total_mods": 381
+        "total_mods": 382
     },
     "395028811399299082": {
         "modification_history": {},
