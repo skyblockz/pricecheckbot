@@ -1405,10 +1405,13 @@
                 ]
             },
             "large_enchanted_agronomy_sack": {
-                "from": null,
-                "to": [
+                "from": [
                     100000,
                     105000
+                ],
+                "to": [
+                    610000,
+                    610000
                 ]
             },
             "latest_update_century_cake": {
@@ -1887,7 +1890,7 @@
                 ]
             }
         },
-        "total_mods": 181
+        "total_mods": 182
     },
     "395028811399299082": {
         "modification_history": {},
