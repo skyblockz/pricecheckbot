@@ -1559,6 +1559,16 @@
                     50000
                 ]
             },
+            "medium_combat_sack": {
+                "from": [
+                    70000,
+                    75000
+                ],
+                "to": [
+                    35000,
+                    35000
+                ]
+            },
             "medium_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -1900,7 +1910,7 @@
                 ]
             }
         },
-        "total_mods": 183
+        "total_mods": 184
     },
     "395028811399299082": {
         "modification_history": {},
