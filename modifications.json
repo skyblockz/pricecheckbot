@@ -3954,6 +3954,16 @@
                     8200000
                 ]
             },
+            "jungle_axe": {
+                "from": [
+                    2400,
+                    2500
+                ],
+                "to": [
+                    3000,
+                    4000
+                ]
+            },
             "jungle_heart": {
                 "from": null,
                 "to": [
@@ -4935,7 +4945,7 @@
                 ]
             }
         },
-        "total_mods": 511
+        "total_mods": 512
     },
     "395028811399299082": {
         "modification_history": {},
