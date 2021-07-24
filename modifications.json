@@ -1094,6 +1094,16 @@
                     1200000
                 ]
             },
+            "cocoa_beans": {
+                "from": [
+                    2,
+                    4
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     460000,
@@ -1867,7 +1877,7 @@
                 ]
             }
         },
-        "total_mods": 176
+        "total_mods": 177
     },
     "395028811399299082": {
         "modification_history": {},
