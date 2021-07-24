@@ -4774,6 +4774,16 @@
                     2700000
                 ]
             },
+            "mithril_plate": {
+                "from": [
+                    4500000,
+                    4700000
+                ],
+                "to": [
+                    4000000,
+                    4000000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5484,7 +5494,7 @@
                 ]
             }
         },
-        "total_mods": 568
+        "total_mods": 569
     },
     "395028811399299082": {
         "modification_history": {},
