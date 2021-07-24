@@ -2606,6 +2606,16 @@
                     50000000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    700000,
+                    750000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3446,7 +3456,7 @@
                 ]
             }
         },
-        "total_mods": 344
+        "total_mods": 345
     },
     "395028811399299082": {
         "modification_history": {},
