@@ -1618,6 +1618,16 @@
                     400
                 ]
             },
+            "enchanted_cake": {
+                "from": [
+                    1500,
+                    3100
+                ],
+                "to": [
+                    3000,
+                    5500
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2464,7 +2474,7 @@
                 ]
             }
         },
-        "total_mods": 244
+        "total_mods": 245
     },
     "395028811399299082": {
         "modification_history": {},
