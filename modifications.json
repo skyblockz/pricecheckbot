@@ -1232,6 +1232,16 @@
                     380000
                 ]
             },
+            "dark_queens_soul_drop": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    180000,
+                    250000
+                ]
+            },
             "diamonite": {
                 "from": [
                     1700000,
@@ -2004,7 +2014,7 @@
                 ]
             }
         },
-        "total_mods": 194
+        "total_mods": 195
     },
     "395028811399299082": {
         "modification_history": {},
