@@ -786,6 +786,16 @@
                     1200000000
                 ]
             },
+            "master_skull_tier_1": {
+                "from": [
+                    2200000,
+                    2500000
+                ],
+                "to": [
+                    1500000,
+                    1700000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     10000,
@@ -1047,7 +1057,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "395028811399299082": {
         "modification_history": {},
