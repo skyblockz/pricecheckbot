@@ -575,6 +575,16 @@
                     84400000
                 ]
             },
+            "growth_vi": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    3400000,
+                    3700000
+                ]
+            },
             "helmet_of_divan": {
                 "from": null,
                 "to": [
@@ -849,7 +859,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "395028811399299082": {
         "modification_history": {},
