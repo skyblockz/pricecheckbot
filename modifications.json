@@ -749,6 +749,16 @@
                     20400000
                 ]
             },
+            "blaze_rod": {
+                "from": [
+                    25,
+                    35
+                ],
+                "to": [
+                    23,
+                    25
+                ]
+            },
             "blood_god_crest": {
                 "from": [
                     950000,
@@ -1516,7 +1526,7 @@
                 ]
             }
         },
-        "total_mods": 140
+        "total_mods": 141
     },
     "395028811399299082": {
         "modification_history": {},
