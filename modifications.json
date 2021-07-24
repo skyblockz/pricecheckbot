@@ -5041,6 +5041,16 @@
                     1000000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    53000000,
+                    57500000
+                ],
+                "to": [
+                    60000000,
+                    69000000
+                ]
+            },
             "perfect_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -5757,7 +5767,7 @@
                 ]
             }
         },
-        "total_mods": 596
+        "total_mods": 597
     },
     "395028811399299082": {
         "modification_history": {},
