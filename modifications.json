@@ -4400,6 +4400,16 @@
                     70
                 ]
             },
+            "magnetic_talisman": {
+                "from": [
+                    1000,
+                    7500
+                ],
+                "to": [
+                    900,
+                    1000
+                ]
+            },
             "master_skull_tier_1": {
                 "from": [
                     2200000,
@@ -5160,7 +5170,7 @@
                 ]
             }
         },
-        "total_mods": 535
+        "total_mods": 536
     },
     "395028811399299082": {
         "modification_history": {},
