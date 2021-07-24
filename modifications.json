@@ -1162,6 +1162,16 @@
                     2200000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    150000,
+                    250000
+                ],
+                "to": [
+                    100000,
+                    175000
+                ]
+            },
             "crystal_chestplate": {
                 "from": [
                     350000,
@@ -1964,7 +1974,7 @@
                 ]
             }
         },
-        "total_mods": 190
+        "total_mods": 191
     },
     "395028811399299082": {
         "modification_history": {},
