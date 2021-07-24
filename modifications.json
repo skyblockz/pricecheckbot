@@ -3454,6 +3454,16 @@
                     3700000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    15000,
+                    65000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "hard_stone": {
                 "from": null,
                 "to": [
@@ -4480,7 +4490,7 @@
                 ]
             }
         },
-        "total_mods": 462
+        "total_mods": 463
     },
     "395028811399299082": {
         "modification_history": {},
