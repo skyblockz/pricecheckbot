@@ -4284,6 +4284,16 @@
                     12000000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    65000,
+                    75000
+                ],
+                "to": [
+                    75000,
+                    75000
+                ]
+            },
             "lucky_dice": {
                 "from": null,
                 "to": [
@@ -5079,7 +5089,7 @@
                 ]
             }
         },
-        "total_mods": 526
+        "total_mods": 527
     },
     "395028811399299082": {
         "modification_history": {},
