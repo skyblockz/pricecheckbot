@@ -507,6 +507,16 @@
                     15000
                 ]
             },
+            "bonemerang": {
+                "from": [
+                    3600000,
+                    4200000
+                ],
+                "to": [
+                    3200000,
+                    3350000
+                ]
+            },
             "boots_of_divan": {
                 "from": null,
                 "to": [
@@ -1154,7 +1164,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "395028811399299082": {
         "modification_history": {},
