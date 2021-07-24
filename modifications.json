@@ -910,6 +910,16 @@
                     350000
                 ]
             },
+            "candy_corn": {
+                "from": [
+                    8000,
+                    10000
+                ],
+                "to": [
+                    770,
+                    5000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1640,7 +1650,7 @@
                 ]
             }
         },
-        "total_mods": 153
+        "total_mods": 154
     },
     "395028811399299082": {
         "modification_history": {},
