@@ -2596,6 +2596,16 @@
                     350000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    75500000,
+                    76000000
+                ],
+                "to": [
+                    45000000,
+                    50000000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3436,7 +3446,7 @@
                 ]
             }
         },
-        "total_mods": 343
+        "total_mods": 344
     },
     "395028811399299082": {
         "modification_history": {},
