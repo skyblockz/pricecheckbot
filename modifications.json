@@ -5137,6 +5137,16 @@
                     230000000
                 ]
             },
+            "personal_bank_item": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    26000,
+                    27000
+                ]
+            },
             "pet_rock_century_cake": {
                 "from": [
                     1950000,
@@ -5814,7 +5824,7 @@
                 ]
             }
         },
-        "total_mods": 598
+        "total_mods": 599
     },
     "395028811399299082": {
         "modification_history": {},
