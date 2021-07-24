@@ -968,6 +968,13 @@
                     1000000
                 ]
             },
+            "volta": {
+                "from": null,
+                "to": [
+                    60000,
+                    65000
+                ]
+            },
             "vorpal_katana": {
                 "from": [
                     7500000,
@@ -986,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "395028811399299082": {
         "modification_history": {},
