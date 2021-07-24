@@ -3511,6 +3511,16 @@
                     7
                 ]
             },
+            "hardened_wood": {
+                "from": [
+                    299000,
+                    300000
+                ],
+                "to": [
+                    148000,
+                    150000
+                ]
+            },
             "helix": {
                 "from": null,
                 "to": [
@@ -4530,7 +4540,7 @@
                 ]
             }
         },
-        "total_mods": 467
+        "total_mods": 468
     },
     "395028811399299082": {
         "modification_history": {},
