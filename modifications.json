@@ -829,6 +829,16 @@
                     10000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    1950000,
+                    2050000
+                ],
+                "to": [
+                    2000000,
+                    2100000
+                ]
+            },
             "boots_of_divan": {
                 "from": null,
                 "to": [
@@ -1566,7 +1576,7 @@
                 ]
             }
         },
-        "total_mods": 145
+        "total_mods": 146
     },
     "395028811399299082": {
         "modification_history": {},
