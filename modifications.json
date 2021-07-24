@@ -3408,6 +3408,16 @@
                     2000000
                 ]
             },
+            "shark_bait": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    6,
+                    8
+                ]
+            },
             "silex": {
                 "from": null,
                 "to": [
@@ -3690,7 +3700,7 @@
                 ]
             }
         },
-        "total_mods": 370
+        "total_mods": 371
     },
     "395028811399299082": {
         "modification_history": {},
