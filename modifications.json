@@ -3230,6 +3230,16 @@
                     9
                 ]
             },
+            "golden_ball": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    4500000,
+                    7000000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4000,
@@ -4283,7 +4293,7 @@
                 ]
             }
         },
-        "total_mods": 441
+        "total_mods": 442
     },
     "395028811399299082": {
         "modification_history": {},
