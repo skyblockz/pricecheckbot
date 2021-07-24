@@ -3327,6 +3327,16 @@
                     4000
                 ]
             },
+            "grappling_hook": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     400000,
@@ -4370,7 +4380,7 @@
                 ]
             }
         },
-        "total_mods": 450
+        "total_mods": 451
     },
     "395028811399299082": {
         "modification_history": {},
