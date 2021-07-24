@@ -926,6 +926,16 @@
                     60000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    155000,
+                    160000
+                ],
+                "to": [
+                    245000,
+                    250000
+                ]
+            },
             "large_enchanted_agronomy_sack": {
                 "from": null,
                 "to": [
@@ -1339,7 +1349,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "395028811399299082": {
         "modification_history": {},
