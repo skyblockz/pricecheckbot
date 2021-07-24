@@ -4834,6 +4834,16 @@
                     8500000
                 ]
             },
+            "mutton": {
+                "from": [
+                    20,
+                    30
+                ],
+                "to": [
+                    14,
+                    22
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5554,7 +5564,7 @@
                 ]
             }
         },
-        "total_mods": 575
+        "total_mods": 576
     },
     "395028811399299082": {
         "modification_history": {},
