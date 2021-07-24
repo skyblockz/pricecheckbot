@@ -415,6 +415,13 @@
                     85000
                 ]
             },
+            "amber_material": {
+                "from": null,
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "amber_power_scroll": {
                 "from": null,
                 "to": [
@@ -1171,7 +1178,7 @@
                 ]
             }
         },
-        "total_mods": 103
+        "total_mods": 104
     },
     "395028811399299082": {
         "modification_history": {},
