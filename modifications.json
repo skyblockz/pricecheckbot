@@ -3675,6 +3675,16 @@
                     100000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "ice_bait": {
                 "from": [
                     40,
@@ -4703,7 +4713,7 @@
                 ]
             }
         },
-        "total_mods": 485
+        "total_mods": 486
     },
     "395028811399299082": {
         "modification_history": {},
