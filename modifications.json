@@ -756,6 +756,16 @@
                     11000
                 ]
             },
+            "sorrow": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "superlite_motor": {
                 "from": null,
                 "to": [
@@ -809,7 +819,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "395028811399299082": {
         "modification_history": {},
