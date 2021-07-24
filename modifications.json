@@ -4490,6 +4490,16 @@
                     170000000
                 ]
             },
+            "mathematical_hoe_blueprint": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "medium_agronomy_sack": {
                 "from": [
                     35000,
@@ -5220,7 +5230,7 @@
                 ]
             }
         },
-        "total_mods": 541
+        "total_mods": 542
     },
     "395028811399299082": {
         "modification_history": {},
