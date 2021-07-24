@@ -708,6 +708,16 @@
                     3000000
                 ]
             },
+            "rod_of_the_sea": {
+                "from": [
+                    6100000,
+                    6500000
+                ],
+                "to": [
+                    4600000,
+                    5500000
+                ]
+            },
             "ruby_polished_drill_engine": {
                 "from": null,
                 "to": [
@@ -819,7 +829,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "395028811399299082": {
         "modification_history": {},
