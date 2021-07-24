@@ -3531,6 +3531,16 @@
                     3750000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    49000,
+                    58000
+                ],
+                "to": [
+                    40000,
+                    76000
+                ]
+            },
             "helix": {
                 "from": null,
                 "to": [
@@ -4550,7 +4560,7 @@
                 ]
             }
         },
-        "total_mods": 469
+        "total_mods": 470
     },
     "395028811399299082": {
         "modification_history": {},
