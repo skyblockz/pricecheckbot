@@ -4971,6 +4971,16 @@
                     320000
                 ]
             },
+            "null_sphere": {
+                "from": [
+                    1400,
+                    2000
+                ],
+                "to": [
+                    1600,
+                    1650
+                ]
+            },
             "oil_barrel": {
                 "from": null,
                 "to": [
@@ -5704,7 +5714,7 @@
                 ]
             }
         },
-        "total_mods": 590
+        "total_mods": 591
     },
     "395028811399299082": {
         "modification_history": {},
