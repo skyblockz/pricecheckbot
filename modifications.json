@@ -3985,6 +3985,16 @@
                     1500000
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    7,
+                    7
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     60000,
@@ -4945,7 +4955,7 @@
                 ]
             }
         },
-        "total_mods": 512
+        "total_mods": 513
     },
     "395028811399299082": {
         "modification_history": {},
