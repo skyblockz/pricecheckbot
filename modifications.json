@@ -2683,6 +2683,16 @@
                     1800000
                 ]
             },
+            "farming_island": {
+                "from": [
+                    250,
+                    1000
+                ],
+                "to": [
+                    550,
+                    650
+                ]
+            },
             "flamebreaker_boots": {
                 "from": null,
                 "to": [
@@ -3533,7 +3543,7 @@
                 ]
             }
         },
-        "total_mods": 354
+        "total_mods": 355
     },
     "395028811399299082": {
         "modification_history": {},
