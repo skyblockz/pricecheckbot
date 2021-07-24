@@ -3484,6 +3484,16 @@
                     47000000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    27000,
+                    29000
+                ],
+                "to": [
+                    23000,
+                    25000
+                ]
+            },
             "hard_stone": {
                 "from": null,
                 "to": [
@@ -4510,7 +4520,7 @@
                 ]
             }
         },
-        "total_mods": 465
+        "total_mods": 466
     },
     "395028811399299082": {
         "modification_history": {},
