@@ -1828,6 +1828,16 @@
                     69000
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    125000,
+                    145000
+                ],
+                "to": [
+                    95000,
+                    115000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2674,7 +2684,7 @@
                 ]
             }
         },
-        "total_mods": 265
+        "total_mods": 266
     },
     "395028811399299082": {
         "modification_history": {},
