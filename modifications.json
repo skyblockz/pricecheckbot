@@ -940,6 +940,16 @@
                     150000
                 ]
             },
+            "candy_talisman": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1670,7 +1680,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "395028811399299082": {
         "modification_history": {},
