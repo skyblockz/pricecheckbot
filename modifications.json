@@ -1464,6 +1464,16 @@
                     400000
                 ]
             },
+            "ember_fragment": {
+                "from": [
+                    3000,
+                    4500
+                ],
+                "to": [
+                    65000,
+                    70000
+                ]
+            },
             "enchant_rune_iii": {
                 "from": null,
                 "to": [
@@ -2317,7 +2327,7 @@
                 ]
             }
         },
-        "total_mods": 229
+        "total_mods": 230
     },
     "395028811399299082": {
         "modification_history": {},
