@@ -3615,6 +3615,16 @@
                     200000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    32000,
+                    36000
+                ],
+                "to": [
+                    29000,
+                    30500
+                ]
+            },
             "hot_stuff": {
                 "from": null,
                 "to": [
@@ -4610,7 +4620,7 @@
                 ]
             }
         },
-        "total_mods": 475
+        "total_mods": 476
     },
     "395028811399299082": {
         "modification_history": {},
