@@ -997,6 +997,16 @@
                     8
                 ]
             },
+            "carrot_bait": {
+                "from": [
+                    20,
+                    40
+                ],
+                "to": [
+                    25,
+                    40
+                ]
+            },
             "catalyst": {
                 "from": [
                     80000,
@@ -3590,7 +3600,7 @@
                 ]
             }
         },
-        "total_mods": 360
+        "total_mods": 361
     },
     "395028811399299082": {
         "modification_history": {},
