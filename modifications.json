@@ -890,6 +890,16 @@
                     1200000
                 ]
             },
+            "cake_soul": {
+                "from": [
+                    5600000,
+                    6400000
+                ],
+                "to": [
+                    5600000,
+                    9000000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1620,7 +1630,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "395028811399299082": {
         "modification_history": {},
