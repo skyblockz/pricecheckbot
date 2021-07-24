@@ -880,6 +880,16 @@
                     1500000
                 ]
             },
+            "cactus_knife": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1610,7 +1620,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "395028811399299082": {
         "modification_history": {},
