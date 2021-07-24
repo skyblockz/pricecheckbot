@@ -826,6 +826,16 @@
                     500000
                 ]
             },
+            "blue_jerry_box": {
+                "from": [
+                    145000,
+                    155000
+                ],
+                "to": [
+                    78000,
+                    118000
+                ]
+            },
             "blue_shark_tooth": {
                 "from": [
                     25000,
@@ -4858,7 +4868,7 @@
                 ]
             }
         },
-        "total_mods": 502
+        "total_mods": 503
     },
     "395028811399299082": {
         "modification_history": {},
