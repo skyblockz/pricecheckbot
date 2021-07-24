@@ -5079,6 +5079,16 @@
                     30000
                 ]
             },
+            "small_storage": {
+                "from": [
+                    450,
+                    500
+                ],
+                "to": [
+                    500,
+                    600
+                ]
+            },
             "smarty_pants_i": {
                 "from": [
                     640000,
@@ -5340,7 +5350,7 @@
                 ]
             }
         },
-        "total_mods": 553
+        "total_mods": 554
     },
     "395028811399299082": {
         "modification_history": {},
