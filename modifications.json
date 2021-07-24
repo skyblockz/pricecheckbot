@@ -3782,6 +3782,16 @@
                     2500000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    7,
+                    10
+                ],
+                "to": [
+                    9,
+                    10
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4800,7 +4810,7 @@
                 ]
             }
         },
-        "total_mods": 495
+        "total_mods": 496
     },
     "395028811399299082": {
         "modification_history": {},
