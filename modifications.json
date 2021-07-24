@@ -2942,6 +2942,16 @@
                     1100000
                 ]
             },
+            "fungi_cutter": {
+                "from": [
+                    2200000,
+                    2700000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "gemstone_drill_model_lt-522": {
                 "from": null,
                 "to": [
@@ -3891,7 +3901,7 @@
                 ]
             }
         },
-        "total_mods": 391
+        "total_mods": 392
     },
     "395028811399299082": {
         "modification_history": {},
