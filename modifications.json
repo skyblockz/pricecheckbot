@@ -741,6 +741,16 @@
                     1500000
                 ]
             },
+            "large_agronomy_sack": {
+                "from": [
+                    765000,
+                    820000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     44500000,
@@ -1137,7 +1147,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "395028811399299082": {
         "modification_history": {},
