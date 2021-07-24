@@ -463,6 +463,16 @@
                     200
                 ]
             },
+            "angler_helmet": {
+                "from": [
+                    300,
+                    1000
+                ],
+                "to": [
+                    100,
+                    110
+                ]
+            },
             "armour_of_yog_boots": {
                 "from": null,
                 "to": [
@@ -1205,7 +1215,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "395028811399299082": {
         "modification_history": {},
