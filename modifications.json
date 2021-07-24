@@ -1084,6 +1084,16 @@
                     7
                 ]
             },
+            "coco_chopper": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     460000,
@@ -1857,7 +1867,7 @@
                 ]
             }
         },
-        "total_mods": 175
+        "total_mods": 176
     },
     "395028811399299082": {
         "modification_history": {},
