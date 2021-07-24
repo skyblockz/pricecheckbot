@@ -3526,6 +3526,16 @@
                     45000
                 ]
             },
+            "small_foraging_sack": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "small_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -3764,7 +3774,7 @@
                 ]
             }
         },
-        "total_mods": 378
+        "total_mods": 379
     },
     "395028811399299082": {
         "modification_history": {},
