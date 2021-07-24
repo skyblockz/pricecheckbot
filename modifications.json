@@ -5039,6 +5039,16 @@
                     50000
                 ]
             },
+            "small_mining_sack": {
+                "from": [
+                    28000,
+                    33000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "smarty_pants_i": {
                 "from": [
                     640000,
@@ -5300,7 +5310,7 @@
                 ]
             }
         },
-        "total_mods": 549
+        "total_mods": 550
     },
     "395028811399299082": {
         "modification_history": {},
