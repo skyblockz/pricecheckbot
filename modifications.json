@@ -2663,6 +2663,16 @@
                     80
                 ]
             },
+            "farm_crystal": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    75000,
+                    75000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     600000,
@@ -3523,7 +3533,7 @@
                 ]
             }
         },
-        "total_mods": 352
+        "total_mods": 353
     },
     "395028811399299082": {
         "modification_history": {},
