@@ -846,6 +846,16 @@
                     170000000
                 ]
             },
+            "medium_agronomy_sack": {
+                "from": [
+                    880000,
+                    900000
+                ],
+                "to": [
+                    35000,
+                    35000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     10000,
@@ -1127,7 +1137,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "395028811399299082": {
         "modification_history": {},
