@@ -5563,6 +5563,16 @@
                     13200
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    700000,
+                    702000
+                ],
+                "to": [
+                    665000,
+                    710000
+                ]
+            },
             "superlite_motor": {
                 "from": null,
                 "to": [
@@ -5787,7 +5797,7 @@
                 ]
             }
         },
-        "total_mods": 595
+        "total_mods": 596
     },
     "395028811399299082": {
         "modification_history": {},
