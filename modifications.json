@@ -1484,6 +1484,16 @@
                     2100000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "enchant_rune_iii": {
                 "from": null,
                 "to": [
@@ -2337,7 +2347,7 @@
                 ]
             }
         },
-        "total_mods": 231
+        "total_mods": 232
     },
     "395028811399299082": {
         "modification_history": {},
