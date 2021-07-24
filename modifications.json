@@ -873,6 +873,13 @@
                     3500000
                 ]
             },
+            "bulky_stone": {
+                "from": null,
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": null,
                 "to": [
@@ -1603,7 +1610,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "395028811399299082": {
         "modification_history": {},
