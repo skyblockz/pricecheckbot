@@ -3466,6 +3466,16 @@
                     350000
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    60,
+                    90
+                ],
+                "to": [
+                    45,
+                    64
+                ]
+            },
             "spooky_bait": {
                 "from": [
                     31,
@@ -3650,7 +3660,7 @@
                 ]
             }
         },
-        "total_mods": 366
+        "total_mods": 367
     },
     "395028811399299082": {
         "modification_history": {},
