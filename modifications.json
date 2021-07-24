@@ -3585,6 +3585,16 @@
                     150000
                 ]
             },
+            "hoe_of_greater_tilling": {
+                "from": [
+                    500000,
+                    750000
+                ],
+                "to": [
+                    300000,
+                    300000
+                ]
+            },
             "holy_dragon_fragment": {
                 "from": [
                     2500,
@@ -4590,7 +4600,7 @@
                 ]
             }
         },
-        "total_mods": 473
+        "total_mods": 474
     },
     "395028811399299082": {
         "modification_history": {},
