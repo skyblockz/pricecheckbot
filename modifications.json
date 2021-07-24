@@ -471,6 +471,13 @@
                     120000000
                 ]
             },
+            "common_prehistoric_egg": {
+                "from": null,
+                "to": [
+                    400000,
+                    800000
+                ]
+            },
             "control_switch": {
                 "from": null,
                 "to": [
@@ -774,7 +781,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "395028811399299082": {
         "modification_history": {},
