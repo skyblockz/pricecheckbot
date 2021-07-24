@@ -3287,6 +3287,16 @@
                     63000
                 ]
             },
+            "golden_treat": {
+                "from": [
+                    950000,
+                    1100000
+                ],
+                "to": [
+                    500000,
+                    900000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4000,
@@ -4340,7 +4350,7 @@
                 ]
             }
         },
-        "total_mods": 447
+        "total_mods": 448
     },
     "395028811399299082": {
         "modification_history": {},
