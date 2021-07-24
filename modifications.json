@@ -543,6 +543,16 @@
                     1850000
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    600000,
+                    700000
+                ],
+                "to": [
+                    1150000,
+                    1300000
+                ]
+            },
             "flamebreaker_boots": {
                 "from": null,
                 "to": [
@@ -956,7 +966,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "395028811399299082": {
         "modification_history": {},
