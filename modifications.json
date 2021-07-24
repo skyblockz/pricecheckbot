@@ -1269,6 +1269,16 @@
                     4000000
                 ]
             },
+            "defuse_kit": {
+                "from": [
+                    1,
+                    5
+                ],
+                "to": [
+                    10,
+                    50
+                ]
+            },
             "diamonite": {
                 "from": [
                     1700000,
@@ -2048,7 +2058,7 @@
                 ]
             }
         },
-        "total_mods": 199
+        "total_mods": 200
     },
     "395028811399299082": {
         "modification_history": {},
