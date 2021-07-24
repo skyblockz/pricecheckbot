@@ -709,6 +709,16 @@
                     200000
                 ]
             },
+            "bigfoots_lasso": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    3000,
+                    3000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1486,7 +1496,7 @@
                 ]
             }
         },
-        "total_mods": 137
+        "total_mods": 138
     },
     "395028811399299082": {
         "modification_history": {},
