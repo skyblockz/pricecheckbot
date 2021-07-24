@@ -1598,6 +1598,16 @@
                     850
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    11000,
+                    19500
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2444,7 +2454,7 @@
                 ]
             }
         },
-        "total_mods": 242
+        "total_mods": 243
     },
     "395028811399299082": {
         "modification_history": {},
