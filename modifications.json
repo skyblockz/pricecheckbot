@@ -4412,6 +4412,16 @@
                     11000
                 ]
             },
+            "small_husbandry_sack": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "smarty_pants_i": {
                 "from": [
                     640000,
@@ -4663,7 +4673,7 @@
                 ]
             }
         },
-        "total_mods": 481
+        "total_mods": 482
     },
     "395028811399299082": {
         "modification_history": {},
