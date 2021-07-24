@@ -463,6 +463,16 @@
                     200
                 ]
             },
+            "angler_boots": {
+                "from": [
+                    250,
+                    900
+                ],
+                "to": [
+                    80,
+                    100
+                ]
+            },
             "angler_chestplate": {
                 "from": [
                     10,
@@ -1235,7 +1245,7 @@
                 ]
             }
         },
-        "total_mods": 110
+        "total_mods": 111
     },
     "395028811399299082": {
         "modification_history": {},
