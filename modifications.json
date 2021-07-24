@@ -4366,6 +4366,16 @@
                     110000
                 ]
             },
+            "magical_water_bucket": {
+                "from": [
+                    40,
+                    500
+                ],
+                "to": [
+                    350,
+                    500
+                ]
+            },
             "magma_core": {
                 "from": null,
                 "to": [
@@ -5133,7 +5143,7 @@
                 ]
             }
         },
-        "total_mods": 532
+        "total_mods": 533
     },
     "395028811399299082": {
         "modification_history": {},
