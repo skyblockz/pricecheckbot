@@ -1182,6 +1182,16 @@
                     600000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    55000,
+                    70000
+                ],
+                "to": [
+                    75000,
+                    115000
+                ]
+            },
             "crystal_helmet": {
                 "from": [
                     300000,
@@ -1974,7 +1984,7 @@
                 ]
             }
         },
-        "total_mods": 191
+        "total_mods": 192
     },
     "395028811399299082": {
         "modification_history": {},
