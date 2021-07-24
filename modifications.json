@@ -1918,6 +1918,16 @@
                     32600
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    128000,
+                    142000
+                ],
+                "to": [
+                    140000,
+                    170000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2764,7 +2774,7 @@
                 ]
             }
         },
-        "total_mods": 274
+        "total_mods": 275
     },
     "395028811399299082": {
         "modification_history": {},
