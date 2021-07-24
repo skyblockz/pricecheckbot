@@ -4376,6 +4376,16 @@
                     500
                 ]
             },
+            "magma_bow": {
+                "from": [
+                    135000,
+                    150000
+                ],
+                "to": [
+                    180000,
+                    180000
+                ]
+            },
             "magma_core": {
                 "from": null,
                 "to": [
@@ -5143,7 +5153,7 @@
                 ]
             }
         },
-        "total_mods": 533
+        "total_mods": 534
     },
     "395028811399299082": {
         "modification_history": {},
