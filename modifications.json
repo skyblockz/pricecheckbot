@@ -3735,6 +3735,13 @@
                     12500
                 ]
             },
+            "infinitorch": {
+                "from": null,
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4753,7 +4760,7 @@
                 ]
             }
         },
-        "total_mods": 490
+        "total_mods": 491
     },
     "395028811399299082": {
         "modification_history": {},
