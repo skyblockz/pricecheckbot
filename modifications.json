@@ -1494,6 +1494,16 @@
                     500000
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "enchant_rune_iii": {
                 "from": null,
                 "to": [
@@ -2347,7 +2357,7 @@
                 ]
             }
         },
-        "total_mods": 232
+        "total_mods": 233
     },
     "395028811399299082": {
         "modification_history": {},
