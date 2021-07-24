@@ -1738,6 +1738,16 @@
                     260000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    130000,
+                    160000
+                ],
+                "to": [
+                    62000,
+                    68000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     13700000,
@@ -2584,7 +2594,7 @@
                 ]
             }
         },
-        "total_mods": 256
+        "total_mods": 257
     },
     "395028811399299082": {
         "modification_history": {},
