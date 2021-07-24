@@ -3605,6 +3605,16 @@
                     2500
                 ]
             },
+            "horsemans_candle": {
+                "from": [
+                    225000,
+                    250000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "hot_stuff": {
                 "from": null,
                 "to": [
@@ -4600,7 +4610,7 @@
                 ]
             }
         },
-        "total_mods": 474
+        "total_mods": 475
     },
     "395028811399299082": {
         "modification_history": {},
