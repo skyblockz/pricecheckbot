@@ -669,6 +669,16 @@
                     100000
                 ]
             },
+            "battle_disc": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    8000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1396,7 +1406,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "395028811399299082": {
         "modification_history": {},
