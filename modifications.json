@@ -3218,6 +3218,16 @@
                     35000
                 ]
             },
+            "medium_fishing_sack": {
+                "from": [
+                    765000,
+                    840000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "medium_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -3710,7 +3720,7 @@
                 ]
             }
         },
-        "total_mods": 372
+        "total_mods": 373
     },
     "395028811399299082": {
         "modification_history": {},
