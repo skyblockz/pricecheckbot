@@ -3150,6 +3150,16 @@
                     450000
                 ]
             },
+            "gift_compass": {
+                "from": [
+                    45000,
+                    50000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4000,
@@ -4203,7 +4213,7 @@
                 ]
             }
         },
-        "total_mods": 433
+        "total_mods": 434
     },
     "395028811399299082": {
         "modification_history": {},
