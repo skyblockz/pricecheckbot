@@ -3170,6 +3170,16 @@
                     550000
                 ]
             },
+            "green_gift": {
+                "from": [
+                    10000,
+                    13000
+                ],
+                "to": [
+                    7150,
+                    7800
+                ]
+            },
             "green_goblin_egg": {
                 "from": null,
                 "to": [
@@ -4183,7 +4193,7 @@
                 ]
             }
         },
-        "total_mods": 431
+        "total_mods": 432
     },
     "395028811399299082": {
         "modification_history": {},
