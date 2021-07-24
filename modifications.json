@@ -716,6 +716,16 @@
                     1200000000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    10000,
+                    12000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "medium_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -916,7 +926,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "395028811399299082": {
         "modification_history": {},
