@@ -4914,6 +4914,16 @@
                     250
                 ]
             },
+            "netherwart_pouch": {
+                "from": [
+                    500000,
+                    800000
+                ],
+                "to": [
+                    700000,
+                    700000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5654,7 +5664,7 @@
                 ]
             }
         },
-        "total_mods": 585
+        "total_mods": 586
     },
     "395028811399299082": {
         "modification_history": {},
