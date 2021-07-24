@@ -4049,6 +4049,13 @@
                     12000000
                 ]
             },
+            "lucky_dice": {
+                "from": null,
+                "to": [
+                    1750000,
+                    2500000
+                ]
+            },
             "lvl_100_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -4837,7 +4844,7 @@
                 ]
             }
         },
-        "total_mods": 499
+        "total_mods": 500
     },
     "395028811399299082": {
         "modification_history": {},
