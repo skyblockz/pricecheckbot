@@ -1690,6 +1690,13 @@
                     165000
                 ]
             },
+            "night_saver": {
+                "from": null,
+                "to": [
+                    450,
+                    500
+                ]
+            },
             "oil_barrel": {
                 "from": null,
                 "to": [
@@ -2024,7 +2031,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "395028811399299082": {
         "modification_history": {},
