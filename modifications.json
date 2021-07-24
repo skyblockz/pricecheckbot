@@ -4904,6 +4904,16 @@
                     5
                 ]
             },
+            "nether_wart_island": {
+                "from": [
+                    10000,
+                    28000
+                ],
+                "to": [
+                    200,
+                    250
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -5644,7 +5654,7 @@
                 ]
             }
         },
-        "total_mods": 584
+        "total_mods": 585
     },
     "395028811399299082": {
         "modification_history": {},
