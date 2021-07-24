@@ -4143,6 +4143,16 @@
                     365000
                 ]
             },
+            "large_enchanted_mining_sack": {
+                "from": [
+                    180000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    180000
+                ]
+            },
             "large_enchated_combat_sack": {
                 "from": null,
                 "to": [
@@ -5330,7 +5340,7 @@
                 ]
             }
         },
-        "total_mods": 552
+        "total_mods": 553
     },
     "395028811399299082": {
         "modification_history": {},
