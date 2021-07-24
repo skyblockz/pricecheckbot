@@ -819,6 +819,16 @@
                     3350000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "boots_of_divan": {
                 "from": null,
                 "to": [
@@ -1556,7 +1566,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "395028811399299082": {
         "modification_history": {},
