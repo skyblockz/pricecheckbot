@@ -3462,6 +3462,16 @@
                     20000
                 ]
             },
+            "small_fishing_sack": {
+                "from": [
+                    260000,
+                    285000
+                ],
+                "to": [
+                    40000,
+                    45000
+                ]
+            },
             "small_gemstone_sack": {
                 "from": null,
                 "to": [
@@ -3700,7 +3710,7 @@
                 ]
             }
         },
-        "total_mods": 371
+        "total_mods": 372
     },
     "395028811399299082": {
         "modification_history": {},
