@@ -510,6 +510,16 @@
                     500000
                 ]
             },
+            "arachne_fragment": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "armour_of_yog_boots": {
                 "from": null,
                 "to": [
@@ -1252,7 +1262,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "395028811399299082": {
         "modification_history": {},
