@@ -613,6 +613,16 @@
                     4900000
                 ]
             },
+            "jerry_3d_glasses": {
+                "from": [
+                    125000,
+                    150000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "judgement_core": {
                 "from": [
                     530000000,
@@ -896,7 +906,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "395028811399299082": {
         "modification_history": {},
