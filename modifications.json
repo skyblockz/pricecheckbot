@@ -4627,6 +4627,16 @@
                     5000
                 ]
             },
+            "mining_pumpkin": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     12,
@@ -5290,7 +5300,7 @@
                 ]
             }
         },
-        "total_mods": 548
+        "total_mods": 549
     },
     "395028811399299082": {
         "modification_history": {},
