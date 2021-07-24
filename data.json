@@ -9313,12 +9313,6 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 700000,
-        "name": "netherwart_pouch"
-    },
-    {
-        "ac": true,
         "hi": 2300000,
         "low": 2150000,
         "name": "ranchers_boots"
@@ -13192,5 +13186,11 @@
         "hi": 4800000,
         "low": 4500000,
         "name": "extra_large_gemstone_sack"
+    },
+    {
+        "ac": true,
+        "hi": 700000,
+        "low": 700000,
+        "name": "nether_wart_pouch"
     }
 ]
