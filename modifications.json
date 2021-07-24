@@ -3090,6 +3090,16 @@
                     320000
                 ]
             },
+            "large_foraging_sack": {
+                "from": [
+                    135000,
+                    145000
+                ],
+                "to": [
+                    70000,
+                    75000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     2000000,
@@ -3784,7 +3794,7 @@
                 ]
             }
         },
-        "total_mods": 380
+        "total_mods": 381
     },
     "395028811399299082": {
         "modification_history": {},
