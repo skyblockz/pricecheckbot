@@ -689,6 +689,16 @@
                     50000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    70000,
+                    120000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -1466,7 +1476,7 @@
                 ]
             }
         },
-        "total_mods": 135
+        "total_mods": 136
     },
     "395028811399299082": {
         "modification_history": {},
