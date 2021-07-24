@@ -3772,6 +3772,16 @@
                     547
                 ]
             },
+            "ink_wand": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    2200000,
+                    2500000
+                ]
+            },
             "jasper_power_scroll": {
                 "from": null,
                 "to": [
@@ -4790,7 +4800,7 @@
                 ]
             }
         },
-        "total_mods": 494
+        "total_mods": 495
     },
     "395028811399299082": {
         "modification_history": {},
