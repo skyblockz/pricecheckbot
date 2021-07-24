@@ -3565,6 +3565,16 @@
                     85000000
                 ]
             },
+            "hilt_of_true_ice": {
+                "from": [
+                    85000,
+                    95000
+                ],
+                "to": [
+                    100000,
+                    170000
+                ]
+            },
             "holy_dragon_fragment": {
                 "from": [
                     2500,
@@ -4570,7 +4580,7 @@
                 ]
             }
         },
-        "total_mods": 471
+        "total_mods": 472
     },
     "395028811399299082": {
         "modification_history": {},
