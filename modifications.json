@@ -1197,6 +1197,16 @@
                     6500000
                 ]
             },
+            "rare_beastmaster_crest": {
+                "from": [
+                    4000000,
+                    5499000
+                ],
+                "to": [
+                    3000000,
+                    3000000
+                ]
+            },
             "rare_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -1436,7 +1446,7 @@
                 ]
             }
         },
-        "total_mods": 132
+        "total_mods": 133
     },
     "395028811399299082": {
         "modification_history": {},
