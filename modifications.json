@@ -3626,10 +3626,13 @@
                 ]
             },
             "hot_stuff": {
-                "from": null,
-                "to": [
+                "from": [
                     250000,
                     350000
+                ],
+                "to": [
+                    220000,
+                    230000
                 ]
             },
             "ice_bait": {
@@ -4620,7 +4623,7 @@
                 ]
             }
         },
-        "total_mods": 476
+        "total_mods": 477
     },
     "395028811399299082": {
         "modification_history": {},
