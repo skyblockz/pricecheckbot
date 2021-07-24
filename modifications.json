@@ -1846,6 +1846,16 @@
                     6500000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    3000,
+                    3250
+                ],
+                "to": [
+                    850,
+                    2500
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -2122,7 +2132,7 @@
                 ]
             }
         },
-        "total_mods": 208
+        "total_mods": 209
     },
     "395028811399299082": {
         "modification_history": {},
