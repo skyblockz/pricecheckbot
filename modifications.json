@@ -5396,6 +5396,16 @@
                     50000000
                 ]
             },
+            "x-large_storage": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": null,
                 "to": [
@@ -5414,7 +5424,7 @@
                 ]
             }
         },
-        "total_mods": 561
+        "total_mods": 562
     },
     "395028811399299082": {
         "modification_history": {},
