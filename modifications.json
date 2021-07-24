@@ -3995,6 +3995,13 @@
                     7
                 ]
             },
+            "kalhuiki_mask": {
+                "from": null,
+                "to": [
+                    100000,
+                    190000
+                ]
+            },
             "large_agronomy_sack": {
                 "from": [
                     60000,
@@ -4955,7 +4962,7 @@
                 ]
             }
         },
-        "total_mods": 513
+        "total_mods": 514
     },
     "395028811399299082": {
         "modification_history": {},
