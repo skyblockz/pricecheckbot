@@ -1423,6 +1423,16 @@
                     50000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    53000,
+                    63000
+                ],
+                "to": [
+                    45000,
+                    55000
+                ]
+            },
             "electron_transmitter": {
                 "from": null,
                 "to": [
@@ -2269,7 +2279,7 @@
                 ]
             }
         },
-        "total_mods": 223
+        "total_mods": 224
     },
     "395028811399299082": {
         "modification_history": {},
