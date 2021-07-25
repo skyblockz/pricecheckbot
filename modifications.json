@@ -7607,6 +7607,16 @@
                     60000
                 ]
             },
+            "weak_wolf_catalyst": {
+                "from": [
+                    15000,
+                    15000
+                ],
+                "to": [
+                    37000,
+                    50000
+                ]
+            },
             "whale_bait": {
                 "from": [
                     1130,
@@ -7702,7 +7712,7 @@
                 ]
             }
         },
-        "total_mods": 804
+        "total_mods": 805
     },
     "395028811399299082": {
         "modification_history": {},
