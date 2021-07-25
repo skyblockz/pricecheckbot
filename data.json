@@ -10207,12 +10207,6 @@
     },
     {
         "ac": true,
-        "hi": 48000,
-        "low": 45000,
-        "name": "conjuring"
-    },
-    {
-        "ac": true,
         "hi": 150000,
         "low": 90000,
         "name": "zombie_commander_leggings"
@@ -13516,5 +13510,11 @@
         "hi": 250000,
         "low": 100000,
         "name": "epic_silent_death"
+    },
+    {
+        "ac": true,
+        "hi": 48000,
+        "low": 45000,
+        "name": "rare_conjuring"
     }
 ]
