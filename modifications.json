@@ -7480,6 +7480,16 @@
                     1050000
                 ]
             },
+            "ultimate_carrot_candy_upgrade": {
+                "from": [
+                    2500000,
+                    2700000
+                ],
+                "to": [
+                    2400000,
+                    2500000
+                ]
+            },
             "uncommon_beastmaster_crest": {
                 "from": [
                     1250000,
@@ -7629,7 +7639,7 @@
                 ]
             }
         },
-        "total_mods": 796
+        "total_mods": 797
     },
     "395028811399299082": {
         "modification_history": {},
