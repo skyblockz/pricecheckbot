@@ -2692,6 +2692,16 @@
                     9000000
                 ]
             },
+            "epic_combat_exp_boost": {
+                "from": [
+                    2500000,
+                    3500000
+                ],
+                "to": [
+                    1480000,
+                    1600000
+                ]
+            },
             "epic_farming_exp_boost": {
                 "from": [
                     1600000,
@@ -7936,7 +7946,7 @@
                 ]
             }
         },
-        "total_mods": 829
+        "total_mods": 830
     },
     "395028811399299082": {
         "modification_history": {},
