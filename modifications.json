@@ -5606,6 +5606,16 @@
                     24000000
                 ]
             },
+            "rabbit_hide": {
+                "from": [
+                    21,
+                    28
+                ],
+                "to": [
+                    27,
+                    41
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -6208,7 +6218,7 @@
                 ]
             }
         },
-        "total_mods": 644
+        "total_mods": 645
     },
     "395028811399299082": {
         "modification_history": {},
