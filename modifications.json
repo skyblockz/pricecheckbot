@@ -2910,6 +2910,16 @@
                     250000
                 ]
             },
+            "epic_zombie_commander_whip": {
+                "from": [
+                    25000,
+                    38000
+                ],
+                "to": [
+                    15000,
+                    17500
+                ]
+            },
             "epic_zombie_soldier_cutlass": {
                 "from": [
                     6000,
@@ -9935,7 +9945,7 @@
                 ]
             }
         },
-        "total_mods": 1062
+        "total_mods": 1063
     },
     "395028811399299082": {
         "modification_history": {},
