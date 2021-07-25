@@ -5336,6 +5336,13 @@
                     100000
                 ]
             },
+            "portal_to_the_end": {
+                "from": null,
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "portal_to_the_gold_mine": {
                 "from": [
                     80000,
@@ -6006,7 +6013,7 @@
                 ]
             }
         },
-        "total_mods": 620
+        "total_mods": 621
     },
     "395028811399299082": {
         "modification_history": {},
