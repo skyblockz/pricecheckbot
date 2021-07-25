@@ -5301,6 +5301,13 @@
                     800000
                 ]
             },
+            "portal_to_mushroom_island": {
+                "from": null,
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "portal_to_the_barn": {
                 "from": null,
                 "to": [
@@ -5968,7 +5975,7 @@
                 ]
             }
         },
-        "total_mods": 615
+        "total_mods": 616
     },
     "395028811399299082": {
         "modification_history": {},
