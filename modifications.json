@@ -5746,6 +5746,16 @@
                     2300000
                 ]
             },
+            "rare_mining_exp_boost": {
+                "from": [
+                    540000,
+                    545000
+                ],
+                "to": [
+                    575000,
+                    645000
+                ]
+            },
             "rare_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -7899,7 +7909,7 @@
                 ]
             }
         },
-        "total_mods": 825
+        "total_mods": 826
     },
     "395028811399299082": {
         "modification_history": {},
