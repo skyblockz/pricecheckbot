@@ -7285,6 +7285,16 @@
                     450000
                 ]
             },
+            "travel_scroll_to_mushroom_island": {
+                "from": [
+                    125000,
+                    160000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7451,7 +7461,7 @@
                 ]
             }
         },
-        "total_mods": 776
+        "total_mods": 777
     },
     "395028811399299082": {
         "modification_history": {},
