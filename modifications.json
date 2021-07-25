@@ -5726,6 +5726,16 @@
                     3000000
                 ]
             },
+            "rare_combat_exp_boost": {
+                "from": [
+                    750000,
+                    800000
+                ],
+                "to": [
+                    145000,
+                    170000
+                ]
+            },
             "rare_diamond": {
                 "from": [
                     3000,
@@ -7926,7 +7936,7 @@
                 ]
             }
         },
-        "total_mods": 828
+        "total_mods": 829
     },
     "395028811399299082": {
         "modification_history": {},
