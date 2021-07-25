@@ -5395,6 +5395,16 @@
                     100
                 ]
             },
+            "potato": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "potato-style_century_cake": {
                 "from": [
                     5000000,
@@ -6048,7 +6058,7 @@
                 ]
             }
         },
-        "total_mods": 626
+        "total_mods": 627
     },
     "395028811399299082": {
         "modification_history": {},
