@@ -4805,6 +4805,16 @@
                     60000000
                 ]
             },
+            "lvl_100_legendary_lion": {
+                "from": [
+                    39000000,
+                    4100000
+                ],
+                "to": [
+                    34000000,
+                    39000000
+                ]
+            },
             "lvl_100_legendary_magma_cube": {
                 "from": null,
                 "to": [
@@ -9554,7 +9564,7 @@
                 ]
             }
         },
-        "total_mods": 999
+        "total_mods": 1000
     },
     "395028811399299082": {
         "modification_history": {},
