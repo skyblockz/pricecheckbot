@@ -7754,6 +7754,13 @@
                     4000000
                 ]
             },
+            "worm_membrane": {
+                "from": null,
+                "to": [
+                    150000,
+                    240000
+                ]
+            },
             "x-large_storage": {
                 "from": [
                     700000,
@@ -7792,7 +7799,7 @@
                 ]
             }
         },
-        "total_mods": 814
+        "total_mods": 815
     },
     "395028811399299082": {
         "modification_history": {},
