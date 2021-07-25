@@ -5215,10 +5215,13 @@
                 ]
             },
             "plasma": {
-                "from": null,
-                "to": [
+                "from": [
                     21000,
                     30000
+                ],
+                "to": [
+                    58000,
+                    59000
                 ]
             },
             "plasma_bucket": {
@@ -5884,7 +5887,7 @@
                 ]
             }
         },
-        "total_mods": 605
+        "total_mods": 606
     },
     "395028811399299082": {
         "modification_history": {},
