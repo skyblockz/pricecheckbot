@@ -6431,6 +6431,16 @@
                     2100
                 ]
             },
+            "sleeping_eye": {
+                "from": [
+                    159000,
+                    162000
+                ],
+                "to": [
+                    450000,
+                    450000
+                ]
+            },
             "sludge_juice": {
                 "from": null,
                 "to": [
@@ -6836,7 +6846,7 @@
                 ]
             }
         },
-        "total_mods": 709
+        "total_mods": 710
     },
     "395028811399299082": {
         "modification_history": {},
