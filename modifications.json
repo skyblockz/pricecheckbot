@@ -5626,6 +5626,16 @@
                     41
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -6228,7 +6238,7 @@
                 ]
             }
         },
-        "total_mods": 646
+        "total_mods": 647
     },
     "395028811399299082": {
         "modification_history": {},
