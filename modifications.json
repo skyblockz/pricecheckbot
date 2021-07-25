@@ -5416,10 +5416,13 @@
                 ]
             },
             "power_crystal": {
-                "from": null,
-                "to": [
+                "from": [
                     140000,
                     160000
+                ],
+                "to": [
+                    140000,
+                    175000
                 ]
             },
             "pristine_i": {
@@ -6058,7 +6061,7 @@
                 ]
             }
         },
-        "total_mods": 627
+        "total_mods": 628
     },
     "395028811399299082": {
         "modification_history": {},
