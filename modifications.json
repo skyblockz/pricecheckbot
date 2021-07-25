@@ -5187,6 +5187,16 @@
                     900000
                 ]
             },
+            "pig_mask": {
+                "from": [
+                    190000,
+                    230000
+                ],
+                "to": [
+                    195000,
+                    200000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": null,
                 "to": [
@@ -5864,7 +5874,7 @@
                 ]
             }
         },
-        "total_mods": 603
+        "total_mods": 604
     },
     "395028811399299082": {
         "modification_history": {},
