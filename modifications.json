@@ -6692,6 +6692,16 @@
                     42000000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    35000,
+                    40000
+                ]
+            },
             "spiked_bait": {
                 "from": [
                     60,
@@ -6966,7 +6976,7 @@
                 ]
             }
         },
-        "total_mods": 724
+        "total_mods": 725
     },
     "395028811399299082": {
         "modification_history": {},
