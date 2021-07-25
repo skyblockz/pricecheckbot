@@ -7305,6 +7305,16 @@
                     580000
                 ]
             },
+            "travel_scroll_to_the_barn": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7471,7 +7481,7 @@
                 ]
             }
         },
-        "total_mods": 778
+        "total_mods": 779
     },
     "395028811399299082": {
         "modification_history": {},
