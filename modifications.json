@@ -3111,6 +3111,16 @@
                     4000
                 ]
             },
+            "fel_sword": {
+                "from": [
+                    60000,
+                    75000
+                ],
+                "to": [
+                    80000,
+                    120000
+                ]
+            },
             "fermented_spider_eye": {
                 "from": null,
                 "to": [
@@ -10025,7 +10035,7 @@
                 ]
             }
         },
-        "total_mods": 1072
+        "total_mods": 1073
     },
     "395028811399299082": {
         "modification_history": {},
