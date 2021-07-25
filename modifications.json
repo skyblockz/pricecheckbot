@@ -4729,6 +4729,16 @@
                     1100000
                 ]
             },
+            "lvl_1_epic_ghoul": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    45000,
+                    100000
+                ]
+            },
             "lvl_1_epic_mithril_golem": {
                 "from": [
                     200000,
@@ -8385,7 +8395,7 @@
                 ]
             }
         },
-        "total_mods": 878
+        "total_mods": 879
     },
     "395028811399299082": {
         "modification_history": {},
