@@ -8260,11 +8260,11 @@
             "salmon_opal": {
                 "from": [
                     2000,
-                    2000
+                    5000
                 ],
                 "to": [
-                    2000,
-                    5000
+                    10000,
+                    20000
                 ]
             },
             "sapphire_power_scroll": {
@@ -10248,7 +10248,7 @@
                 ]
             }
         },
-        "total_mods": 1114
+        "total_mods": 1115
     },
     "395028811399299082": {
         "modification_history": {},
