@@ -11119,12 +11119,6 @@
     },
     {
         "ac": true,
-        "hi": 35000,
-        "low": 26000,
-        "name": "silent_death"
-    },
-    {
-        "ac": true,
         "hi": 1200000000,
         "low": 1200000000,
         "name": "master_skull_tier_7"
@@ -13510,5 +13504,11 @@
         "hi": 6084,
         "low": 6084,
         "name": "rare_zombie_soldier_cutlass"
+    },
+    {
+        "ac": true,
+        "hi": 35000,
+        "low": 26000,
+        "name": "rare_silent_death"
     }
 ]
