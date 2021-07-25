@@ -6846,6 +6846,16 @@
                     50000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    150000,
+                    160000
+                ],
+                "to": [
+                    163000,
+                    173000
+                ]
+            },
             "streamers_century_cake": {
                 "from": [
                     1200000,
@@ -7100,7 +7110,7 @@
                 ]
             }
         },
-        "total_mods": 738
+        "total_mods": 739
     },
     "395028811399299082": {
         "modification_history": {},
