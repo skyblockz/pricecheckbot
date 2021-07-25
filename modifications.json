@@ -1582,6 +1582,16 @@
                     400000
                 ]
             },
+            "dirt_bottle": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "divan_fragment": {
                 "from": null,
                 "to": [
@@ -10222,7 +10232,7 @@
                 ]
             }
         },
-        "total_mods": 1103
+        "total_mods": 1104
     },
     "395028811399299082": {
         "modification_history": {},
