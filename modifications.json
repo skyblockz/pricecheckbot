@@ -7499,6 +7499,16 @@
                     1200000
                 ]
             },
+            "rare_silent_death": {
+                "from": [
+                    26000,
+                    35000
+                ],
+                "to": [
+                    40000,
+                    70000
+                ]
+            },
             "rare_zombie_soldier_cutlass": {
                 "from": null,
                 "to": [
@@ -9891,7 +9901,7 @@
                 ]
             }
         },
-        "total_mods": 1057
+        "total_mods": 1058
     },
     "395028811399299082": {
         "modification_history": {},
