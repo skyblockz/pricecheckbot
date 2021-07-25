@@ -1221,6 +1221,16 @@
                     85000
                 ]
             },
+            "common_foraging_exp_boost": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    250000,
+                    250000
+                ]
+            },
             "common_mining_exp_boost": {
                 "from": [
                     100000,
@@ -7946,7 +7956,7 @@
                 ]
             }
         },
-        "total_mods": 830
+        "total_mods": 831
     },
     "395028811399299082": {
         "modification_history": {},
