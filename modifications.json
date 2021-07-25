@@ -6054,6 +6054,16 @@
                     5500000
                 ]
             },
+            "rogue_sword": {
+                "from": [
+                    1000,
+                    20000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "rough_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -6582,7 +6592,7 @@
                 ]
             }
         },
-        "total_mods": 682
+        "total_mods": 683
     },
     "395028811399299082": {
         "modification_history": {},
