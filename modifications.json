@@ -7439,6 +7439,13 @@
                     4000000
                 ]
             },
+            "trick_or_treat_bag": {
+                "from": null,
+                "to": [
+                    25000,
+                    50000
+                ]
+            },
             "uncommon_beastmaster_crest": {
                 "from": [
                     1250000,
@@ -7588,7 +7595,7 @@
                 ]
             }
         },
-        "total_mods": 791
+        "total_mods": 792
     },
     "395028811399299082": {
         "modification_history": {},
