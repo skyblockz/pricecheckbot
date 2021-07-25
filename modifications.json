@@ -1221,6 +1221,16 @@
                     85000
                 ]
             },
+            "common_fishing_exp_boost": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
             "common_foraging_exp_boost": {
                 "from": [
                     90000,
@@ -7966,7 +7976,7 @@
                 ]
             }
         },
-        "total_mods": 832
+        "total_mods": 833
     },
     "395028811399299082": {
         "modification_history": {},
