@@ -5301,6 +5301,13 @@
                     800000
                 ]
             },
+            "portal_to_blazing_fortress": {
+                "from": null,
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "portal_to_mushroom_island": {
                 "from": null,
                 "to": [
@@ -5999,7 +6006,7 @@
                 ]
             }
         },
-        "total_mods": 619
+        "total_mods": 620
     },
     "395028811399299082": {
         "modification_history": {},
