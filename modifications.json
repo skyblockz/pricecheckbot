@@ -4709,6 +4709,16 @@
                     1100000
                 ]
             },
+            "lvl_1_epic_mithril_golem": {
+                "from": [
+                    200000,
+                    220000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "lvl_1_epic_pig": {
                 "from": [
                     150000,
@@ -8355,7 +8365,7 @@
                 ]
             }
         },
-        "total_mods": 875
+        "total_mods": 876
     },
     "395028811399299082": {
         "modification_history": {},
