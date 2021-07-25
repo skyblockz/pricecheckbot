@@ -1783,12 +1783,6 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 190000,
-        "name": "tactician_sword"
-    },
-    {
-        "ac": true,
         "hi": 4600,
         "low": 3400,
         "name": "enchanted_eye_of_ender"
@@ -13504,5 +13498,11 @@
         "hi": 27000000,
         "low": 23000000,
         "name": "lvl_100_legendary_skeleton_horse"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 190000,
+        "name": "tacticians_sword"
     }
 ]

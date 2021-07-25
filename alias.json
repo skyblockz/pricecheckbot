@@ -816,10 +816,6 @@
         "src": "sharp_vi"
     },
     {
-        "dest": "tactician_sword",
-        "src": "tact"
-    },
-    {
         "dest": "reaper_falchion",
         "src": "reaper_falc"
     },
@@ -2650,5 +2646,9 @@
     {
         "dest": "aspect_of_the_void",
         "src": "aotv"
+    },
+    {
+        "dest": "tacticians_sword",
+        "src": "tact"
     }
 ]
