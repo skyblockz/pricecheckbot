@@ -4786,6 +4786,16 @@
                     150000
                 ]
             },
+            "lvl_1_epic_magma_cube": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "lvl_1_epic_mithril_golem": {
                 "from": [
                     200000,
@@ -8442,7 +8452,7 @@
                 ]
             }
         },
-        "total_mods": 884
+        "total_mods": 885
     },
     "395028811399299082": {
         "modification_history": {},
