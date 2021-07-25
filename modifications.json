@@ -5646,6 +5646,16 @@
                     3000000
                 ]
             },
+            "rare_diamond": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    15000,
+                    50000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2340000,
@@ -6238,7 +6248,7 @@
                 ]
             }
         },
-        "total_mods": 647
+        "total_mods": 648
     },
     "395028811399299082": {
         "modification_history": {},
