@@ -6160,6 +6160,13 @@
                     400000
                 ]
             },
+            "rune_sack": {
+                "from": null,
+                "to": [
+                    3000000,
+                    3200000
+                ]
+            },
             "sapphire_power_scroll": {
                 "from": [
                     2400000,
@@ -6622,7 +6629,7 @@
                 ]
             }
         },
-        "total_mods": 686
+        "total_mods": 687
     },
     "395028811399299082": {
         "modification_history": {},
