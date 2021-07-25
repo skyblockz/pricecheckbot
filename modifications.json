@@ -415,6 +415,16 @@
                     85000
                 ]
             },
+            "all_skills_exp_boost": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "amber-polished_drill_engine": {
                 "from": null,
                 "to": [
@@ -7839,7 +7849,7 @@
                 ]
             }
         },
-        "total_mods": 819
+        "total_mods": 820
     },
     "395028811399299082": {
         "modification_history": {},
