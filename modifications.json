@@ -5423,6 +5423,16 @@
                     2000000
                 ]
             },
+            "lvl_1_legendary_zombie": {
+                "from": [
+                    4000000,
+                    4300000
+                ],
+                "to": [
+                    3900000,
+                    3400000
+                ]
+            },
             "maddox_batphone": {
                 "from": [
                     622000,
@@ -9012,7 +9022,7 @@
                 ]
             }
         },
-        "total_mods": 942
+        "total_mods": 943
     },
     "395028811399299082": {
         "modification_history": {},
