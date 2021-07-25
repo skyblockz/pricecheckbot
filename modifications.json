@@ -9303,6 +9303,16 @@
                     6000
                 ]
             },
+            "terminator": {
+                "from": [
+                    925000000,
+                    1000000000
+                ],
+                "to": [
+                    990000000,
+                    1200000000
+                ]
+            },
             "tesselated_ender_pearl": {
                 "from": null,
                 "to": [
@@ -10212,7 +10222,7 @@
                 ]
             }
         },
-        "total_mods": 1102
+        "total_mods": 1103
     },
     "395028811399299082": {
         "modification_history": {},
