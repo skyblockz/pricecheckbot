@@ -5329,6 +5329,13 @@
                     80000
                 ]
             },
+            "portal_to_spruce_woods": {
+                "from": null,
+                "to": [
+                    800,
+                    1000
+                ]
+            },
             "portal_to_the_barn": {
                 "from": null,
                 "to": [
@@ -6020,7 +6027,7 @@
                 ]
             }
         },
-        "total_mods": 622
+        "total_mods": 623
     },
     "395028811399299082": {
         "modification_history": {},
