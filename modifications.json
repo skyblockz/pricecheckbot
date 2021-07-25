@@ -5323,6 +5323,16 @@
                     930000
                 ]
             },
+            "lvl_1_legendary_skeleton": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    900000,
+                    920000
+                ]
+            },
             "lvl_1_legendary_skeleton_horse": {
                 "from": [
                     500000,
@@ -8932,7 +8942,7 @@
                 ]
             }
         },
-        "total_mods": 934
+        "total_mods": 935
     },
     "395028811399299082": {
         "modification_history": {},
