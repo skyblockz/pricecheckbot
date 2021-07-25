@@ -4752,6 +4752,16 @@
                     4500000
                 ]
             },
+            "lvl_100_legendary_wither_skeleton": {
+                "from": [
+                    9500000,
+                    9800000
+                ],
+                "to": [
+                    7900000,
+                    8500000
+                ]
+            },
             "lvl_100_mythic_bat": {
                 "from": [
                     10900000,
@@ -9296,7 +9306,7 @@
                 ]
             }
         },
-        "total_mods": 971
+        "total_mods": 972
     },
     "395028811399299082": {
         "modification_history": {},
