@@ -6886,6 +6886,16 @@
                     3000000
                 ]
             },
+            "string": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     18000,
@@ -7130,7 +7140,7 @@
                 ]
             }
         },
-        "total_mods": 741
+        "total_mods": 742
     },
     "395028811399299082": {
         "modification_history": {},
