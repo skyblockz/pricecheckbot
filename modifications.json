@@ -6227,6 +6227,16 @@
                     4500000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    1250000,
+                    1750000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "sea_emperor_century_cake": {
                 "from": [
                     1800000,
@@ -6679,7 +6689,7 @@
                 ]
             }
         },
-        "total_mods": 692
+        "total_mods": 693
     },
     "395028811399299082": {
         "modification_history": {},
