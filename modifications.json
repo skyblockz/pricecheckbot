@@ -5263,6 +5263,16 @@
                     1400000
                 ]
             },
+            "lvl_1_legendary_phoenix": {
+                "from": [
+                    60000000,
+                    62000000
+                ],
+                "to": [
+                    54000000,
+                    54000000
+                ]
+            },
             "lvl_1_legendary_pig": {
                 "from": [
                     850000,
@@ -8902,7 +8912,7 @@
                 ]
             }
         },
-        "total_mods": 931
+        "total_mods": 932
     },
     "395028811399299082": {
         "modification_history": {},
