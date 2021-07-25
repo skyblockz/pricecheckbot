@@ -7206,10 +7206,13 @@
                 ]
             },
             "topaz_drill_kgr-12": {
-                "from": null,
-                "to": [
+                "from": [
                     65000000,
                     151000000
+                ],
+                "to": [
+                    41500000,
+                    45000000
                 ]
             },
             "treecapitator": {
@@ -7378,7 +7381,7 @@
                 ]
             }
         },
-        "total_mods": 768
+        "total_mods": 769
     },
     "395028811399299082": {
         "modification_history": {},
