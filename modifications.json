@@ -5566,6 +5566,16 @@
                     1200000
                 ]
             },
+            "pumpkin_guts": {
+                "from": [
+                    39000,
+                    49000
+                ],
+                "to": [
+                    36000,
+                    53000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -6168,7 +6178,7 @@
                 ]
             }
         },
-        "total_mods": 640
+        "total_mods": 641
     },
     "395028811399299082": {
         "modification_history": {},
