@@ -1335,6 +1335,16 @@
                     2400000
                 ]
             },
+            "conjuring": {
+                "from": [
+                    30000,
+                    32500
+                ],
+                "to": [
+                    45000,
+                    48000
+                ]
+            },
             "control_switch": {
                 "from": null,
                 "to": [
@@ -9908,7 +9918,7 @@
                 ]
             }
         },
-        "total_mods": 1059
+        "total_mods": 1060
     },
     "395028811399299082": {
         "modification_history": {},
