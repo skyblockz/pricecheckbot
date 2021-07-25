@@ -7325,6 +7325,16 @@
                     550000
                 ]
             },
+            "travel_scroll_to_jungle_island": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "travel_scroll_to_magma_fields": {
                 "from": [
                     9000,
@@ -7558,7 +7568,7 @@
                 ]
             }
         },
-        "total_mods": 787
+        "total_mods": 788
     },
     "395028811399299082": {
         "modification_history": {},
