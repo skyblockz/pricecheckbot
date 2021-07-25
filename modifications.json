@@ -4668,6 +4668,16 @@
                     5000000
                 ]
             },
+            "legendary_zombie_knight_sword": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "leggings_of_divan": {
                 "from": null,
                 "to": [
@@ -9975,7 +9985,7 @@
                 ]
             }
         },
-        "total_mods": 1066
+        "total_mods": 1067
     },
     "395028811399299082": {
         "modification_history": {},
