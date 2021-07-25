@@ -4685,6 +4685,16 @@
                     17500000
                 ]
             },
+            "lvl_100_legendary_rabbit": {
+                "from": [
+                    6900000,
+                    7000000
+                ],
+                "to": [
+                    9900000,
+                    11000000
+                ]
+            },
             "lvl_100_legendary_scatha": {
                 "from": null,
                 "to": [
@@ -9226,7 +9236,7 @@
                 ]
             }
         },
-        "total_mods": 964
+        "total_mods": 965
     },
     "395028811399299082": {
         "modification_history": {},
