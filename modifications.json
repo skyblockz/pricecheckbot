@@ -4946,6 +4946,16 @@
                     27000000
                 ]
             },
+            "lvl_100_legendary_turtle": {
+                "from": [
+                    26800000,
+                    28800000
+                ],
+                "to": [
+                    15000000,
+                    16000000
+                ]
+            },
             "lvl_100_legendary_wither_skeleton": {
                 "from": [
                     9500000,
@@ -9514,7 +9524,7 @@
                 ]
             }
         },
-        "total_mods": 995
+        "total_mods": 996
     },
     "395028811399299082": {
         "modification_history": {},
