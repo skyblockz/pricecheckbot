@@ -7365,6 +7365,13 @@
                     120000
                 ]
             },
+            "travel_scroll_to_top_of_the_nest": {
+                "from": null,
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7531,7 +7538,7 @@
                 ]
             }
         },
-        "total_mods": 784
+        "total_mods": 785
     },
     "395028811399299082": {
         "modification_history": {},
