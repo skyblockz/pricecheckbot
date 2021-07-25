@@ -5177,6 +5177,16 @@
                     2000000
                 ]
             },
+            "pickonimbus_2000": {
+                "from": [
+                    630000,
+                    750000
+                ],
+                "to": [
+                    890000,
+                    900000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": null,
                 "to": [
@@ -5854,7 +5864,7 @@
                 ]
             }
         },
-        "total_mods": 602
+        "total_mods": 603
     },
     "395028811399299082": {
         "modification_history": {},
