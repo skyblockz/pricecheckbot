@@ -1201,6 +1201,16 @@
                     235000
                 ]
             },
+            "common_combat_exp_boost": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "common_farming_exp_boost": {
                 "from": [
                     138000,
@@ -7909,7 +7919,7 @@
                 ]
             }
         },
-        "total_mods": 826
+        "total_mods": 827
     },
     "395028811399299082": {
         "modification_history": {},
