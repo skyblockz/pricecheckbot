@@ -6836,6 +6836,16 @@
                     400
                 ]
             },
+            "stereo_pants": {
+                "from": [
+                    90000,
+                    110000
+                ],
+                "to": [
+                    49000,
+                    50000
+                ]
+            },
             "streamers_century_cake": {
                 "from": [
                     1200000,
@@ -7090,7 +7100,7 @@
                 ]
             }
         },
-        "total_mods": 737
+        "total_mods": 738
     },
     "395028811399299082": {
         "modification_history": {},
