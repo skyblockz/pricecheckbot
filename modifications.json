@@ -5197,6 +5197,16 @@
                     200000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    6700000,
+                    7500000
+                ],
+                "to": [
+                    6900000,
+                    7000000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": null,
                 "to": [
@@ -5874,7 +5884,7 @@
                 ]
             }
         },
-        "total_mods": 604
+        "total_mods": 605
     },
     "395028811399299082": {
         "modification_history": {},
