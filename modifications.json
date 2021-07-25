@@ -5264,6 +5264,16 @@
                     8500
                 ]
             },
+            "polished_pebble": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    5000,
+                    50000
+                ]
+            },
             "potato-style_century_cake": {
                 "from": [
                     5000000,
@@ -5917,7 +5927,7 @@
                 ]
             }
         },
-        "total_mods": 609
+        "total_mods": 610
     },
     "395028811399299082": {
         "modification_history": {},
