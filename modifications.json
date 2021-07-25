@@ -4946,6 +4946,16 @@
                     200000
                 ]
             },
+            "lvl_1_epic_zombie": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8542,7 +8552,7 @@
                 ]
             }
         },
-        "total_mods": 894
+        "total_mods": 895
     },
     "395028811399299082": {
         "modification_history": {},
