@@ -7924,6 +7924,16 @@
                     1200000
                 ]
             },
+            "washed_up_souvenir": {
+                "from": [
+                    850000,
+                    1000000
+                ],
+                "to": [
+                    360000,
+                    400000
+                ]
+            },
             "water_hydra_head": {
                 "from": [
                     45000,
@@ -8166,7 +8176,7 @@
                 ]
             }
         },
-        "total_mods": 854
+        "total_mods": 855
     },
     "395028811399299082": {
         "modification_history": {},
