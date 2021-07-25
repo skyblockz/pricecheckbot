@@ -2876,6 +2876,13 @@
                     1850000
                 ]
             },
+            "epic_silent_death": {
+                "from": null,
+                "to": [
+                    100000,
+                    250000
+                ]
+            },
             "epic_zombie_soldier_cutlass": {
                 "from": [
                     6000,
@@ -9901,7 +9908,7 @@
                 ]
             }
         },
-        "total_mods": 1058
+        "total_mods": 1059
     },
     "395028811399299082": {
         "modification_history": {},
