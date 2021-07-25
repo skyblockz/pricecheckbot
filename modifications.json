@@ -9392,6 +9392,16 @@
                     3700000
                 ]
             },
+            "voidedge_katana": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    650000,
+                    750000
+                ]
+            },
             "voidwalker_katana": {
                 "from": [
                     140000,
@@ -9714,7 +9724,7 @@
                 ]
             }
         },
-        "total_mods": 1022
+        "total_mods": 1023
     },
     "395028811399299082": {
         "modification_history": {},
