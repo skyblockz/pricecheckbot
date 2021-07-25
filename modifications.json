@@ -6275,6 +6275,16 @@
                     850000
                 ]
             },
+            "machine_gun_bow": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    5038,
+                    5038
+                ]
+            },
             "maddox_batphone": {
                 "from": [
                     622000,
@@ -10091,7 +10101,7 @@
                 ]
             }
         },
-        "total_mods": 1081
+        "total_mods": 1082
     },
     "395028811399299082": {
         "modification_history": {},
