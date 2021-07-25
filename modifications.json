@@ -5413,6 +5413,16 @@
                     3000000
                 ]
             },
+            "lvl_1_legendary_wolf": {
+                "from": [
+                    2000000,
+                    2100000
+                ],
+                "to": [
+                    1850000,
+                    2000000
+                ]
+            },
             "maddox_batphone": {
                 "from": [
                     622000,
@@ -9002,7 +9012,7 @@
                 ]
             }
         },
-        "total_mods": 941
+        "total_mods": 942
     },
     "395028811399299082": {
         "modification_history": {},
