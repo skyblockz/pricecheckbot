@@ -415,6 +415,16 @@
                     85000
                 ]
             },
+            "adaptive_blade": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    670000,
+                    700000
+                ]
+            },
             "all_skills_exp_boost": {
                 "from": [
                     100000,
@@ -9925,7 +9935,7 @@
                 ]
             }
         },
-        "total_mods": 1061
+        "total_mods": 1062
     },
     "395028811399299082": {
         "modification_history": {},
