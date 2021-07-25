@@ -8858,6 +8858,16 @@
                     6
                 ]
             },
+            "spider_queens_stinger": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    200000,
+                    380000
+                ]
+            },
             "spider_talisman": {
                 "from": [
                     65000,
@@ -10162,7 +10172,7 @@
                 ]
             }
         },
-        "total_mods": 1094
+        "total_mods": 1095
     },
     "395028811399299082": {
         "modification_history": {},
