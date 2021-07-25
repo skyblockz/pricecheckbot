@@ -1211,6 +1211,16 @@
                     85000
                 ]
             },
+            "common_mining_exp_boost": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "common_prehistoric_egg": {
                 "from": null,
                 "to": [
@@ -7889,7 +7899,7 @@
                 ]
             }
         },
-        "total_mods": 824
+        "total_mods": 825
     },
     "395028811399299082": {
         "modification_history": {},
