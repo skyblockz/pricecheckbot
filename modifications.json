@@ -8800,12 +8800,12 @@
             },
             "tactician_sword": {
                 "from": [
-                    130000,
-                    175000
-                ],
-                "to": [
                     75000,
                     90000
+                ],
+                "to": [
+                    190000,
+                    200000
                 ]
             },
             "talisman_of_coins": {
@@ -9724,7 +9724,7 @@
                 ]
             }
         },
-        "total_mods": 1023
+        "total_mods": 1024
     },
     "395028811399299082": {
         "modification_history": {},
