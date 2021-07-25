@@ -5796,6 +5796,16 @@
                     600000
                 ]
             },
+            "rare_fishing_exp_boost": {
+                "from": [
+                    270000,
+                    300000
+                ],
+                "to": [
+                    400000,
+                    850000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2340000,
@@ -7986,7 +7996,7 @@
                 ]
             }
         },
-        "total_mods": 834
+        "total_mods": 835
     },
     "395028811399299082": {
         "modification_history": {},
