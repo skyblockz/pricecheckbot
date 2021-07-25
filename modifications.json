@@ -7580,6 +7580,13 @@
                     800000
                 ]
             },
+            "uncommon_combat_exp_boost": {
+                "from": null,
+                "to": [
+                    70000,
+                    70000
+                ]
+            },
             "uncommon_griffin_upgrade_stone": {
                 "from": [
                     1400000,
@@ -7919,7 +7926,7 @@
                 ]
             }
         },
-        "total_mods": 827
+        "total_mods": 828
     },
     "395028811399299082": {
         "modification_history": {},
