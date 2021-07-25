@@ -6472,10 +6472,13 @@
                 ]
             },
             "sludge_juice": {
-                "from": null,
-                "to": [
+                "from": [
                     2500,
                     10000
+                ],
+                "to": [
+                    3000,
+                    5000
                 ]
             },
             "small_agronomy_sack": {
@@ -6876,7 +6879,7 @@
                 ]
             }
         },
-        "total_mods": 713
+        "total_mods": 714
     },
     "395028811399299082": {
         "modification_history": {},
