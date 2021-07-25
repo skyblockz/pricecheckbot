@@ -7255,6 +7255,16 @@
                     1000
                 ]
             },
+            "travel_scroll_to_blazing_fortress": {
+                "from": [
+                    110000,
+                    130000
+                ],
+                "to": [
+                    185000,
+                    190000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7421,7 +7431,7 @@
                 ]
             }
         },
-        "total_mods": 773
+        "total_mods": 774
     },
     "395028811399299082": {
         "modification_history": {},
