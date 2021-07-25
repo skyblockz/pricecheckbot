@@ -5301,6 +5301,13 @@
                     800000
                 ]
             },
+            "portal_to_birch_park": {
+                "from": null,
+                "to": [
+                    500,
+                    600
+                ]
+            },
             "portal_to_blazing_fortress": {
                 "from": null,
                 "to": [
@@ -6013,7 +6020,7 @@
                 ]
             }
         },
-        "total_mods": 621
+        "total_mods": 622
     },
     "395028811399299082": {
         "modification_history": {},
