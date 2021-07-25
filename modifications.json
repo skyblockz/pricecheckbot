@@ -5433,6 +5433,16 @@
                     10800000
                 ]
             },
+            "lvl_1_legendary_sheep": {
+                "from": [
+                    3800000,
+                    3900000
+                ],
+                "to": [
+                    3300000,
+                    3500000
+                ]
+            },
             "lvl_1_legendary_silverfish": {
                 "from": [
                     1000000,
@@ -9152,7 +9162,7 @@
                 ]
             }
         },
-        "total_mods": 956
+        "total_mods": 957
     },
     "395028811399299082": {
         "modification_history": {},
