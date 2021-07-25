@@ -6712,6 +6712,16 @@
                     6
                 ]
             },
+            "spider_talisman": {
+                "from": [
+                    65000,
+                    100000
+                ],
+                "to": [
+                    190000,
+                    200000
+                ]
+            },
             "spiked_bait": {
                 "from": [
                     60,
@@ -6986,7 +6996,7 @@
                 ]
             }
         },
-        "total_mods": 726
+        "total_mods": 727
     },
     "395028811399299082": {
         "modification_history": {},
