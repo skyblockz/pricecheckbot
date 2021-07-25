@@ -5546,6 +5546,16 @@
                     130
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -6148,7 +6158,7 @@
                 ]
             }
         },
-        "total_mods": 638
+        "total_mods": 639
     },
     "395028811399299082": {
         "modification_history": {},
