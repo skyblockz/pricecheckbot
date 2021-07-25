@@ -6641,6 +6641,16 @@
                     100
                 ]
             },
+            "shimmer_skin_unstable": {
+                "from": [
+                    11800000,
+                    12800000
+                ],
+                "to": [
+                    10500000,
+                    11900000
+                ]
+            },
             "shiny_orb": {
                 "from": [
                     4000,
@@ -8203,7 +8213,7 @@
                 ]
             }
         },
-        "total_mods": 858
+        "total_mods": 859
     },
     "395028811399299082": {
         "modification_history": {},
