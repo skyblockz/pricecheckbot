@@ -4742,6 +4742,16 @@
                     600000000
                 ]
             },
+            "lvl_100_legendary_silverfish": {
+                "from": [
+                    3400000,
+                    3500000
+                ],
+                "to": [
+                    3500000,
+                    4500000
+                ]
+            },
             "lvl_100_mythic_bat": {
                 "from": [
                     10900000,
@@ -9286,7 +9296,7 @@
                 ]
             }
         },
-        "total_mods": 970
+        "total_mods": 971
     },
     "395028811399299082": {
         "modification_history": {},
