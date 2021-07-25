@@ -5435,6 +5435,16 @@
                     600000
                 ]
             },
+            "premium_flesh": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    420,
+                    500
+                ]
+            },
             "pristine_i": {
                 "from": null,
                 "to": [
@@ -6071,7 +6081,7 @@
                 ]
             }
         },
-        "total_mods": 629
+        "total_mods": 630
     },
     "395028811399299082": {
         "modification_history": {},
