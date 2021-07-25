@@ -4679,6 +4679,16 @@
                     2400000
                 ]
             },
+            "lvl_1_epic_pig": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8275,7 +8285,7 @@
                 ]
             }
         },
-        "total_mods": 867
+        "total_mods": 868
     },
     "395028811399299082": {
         "modification_history": {},
