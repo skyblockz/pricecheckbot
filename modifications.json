@@ -6451,6 +6451,16 @@
                     4000000
                 ]
             },
+            "slime_hat": {
+                "from": [
+                    112,
+                    112
+                ],
+                "to": [
+                    60,
+                    70
+                ]
+            },
             "sludge_juice": {
                 "from": null,
                 "to": [
@@ -6856,7 +6866,7 @@
                 ]
             }
         },
-        "total_mods": 711
+        "total_mods": 712
     },
     "395028811399299082": {
         "modification_history": {},
