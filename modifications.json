@@ -6495,6 +6495,16 @@
                     30000
                 ]
             },
+            "small_slayer_sack": {
+                "from": [
+                    196000,
+                    229000
+                ],
+                "to": [
+                    370000,
+                    375000
+                ]
+            },
             "small_storage": {
                 "from": [
                     450,
@@ -6806,7 +6816,7 @@
                 ]
             }
         },
-        "total_mods": 706
+        "total_mods": 707
     },
     "395028811399299082": {
         "modification_history": {},
