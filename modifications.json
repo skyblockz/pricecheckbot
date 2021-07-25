@@ -5373,6 +5373,16 @@
                     5200000
                 ]
             },
+            "lvl_1_legendary_tarantula": {
+                "from": [
+                    900000,
+                    1500000
+                ],
+                "to": [
+                    820000,
+                    900000
+                ]
+            },
             "lvl_1_legendary_wither_skeleton": {
                 "from": [
                     3000000,
@@ -8972,7 +8982,7 @@
                 ]
             }
         },
-        "total_mods": 938
+        "total_mods": 939
     },
     "395028811399299082": {
         "modification_history": {},
