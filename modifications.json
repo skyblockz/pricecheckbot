@@ -4778,6 +4778,16 @@
                     20000000
                 ]
             },
+            "lvl_100_legendary_hound": {
+                "from": [
+                    25500000,
+                    26200000
+                ],
+                "to": [
+                    24000000,
+                    30000000
+                ]
+            },
             "lvl_100_legendary_mithril_golem": {
                 "from": [
                     4000000,
@@ -9396,7 +9406,7 @@
                 ]
             }
         },
-        "total_mods": 982
+        "total_mods": 983
     },
     "395028811399299082": {
         "modification_history": {},
