@@ -7215,6 +7215,16 @@
                     45000000
                 ]
             },
+            "toxic_arrow_poison": {
+                "from": [
+                    800,
+                    1000
+                ],
+                "to": [
+                    2000,
+                    3000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7381,7 +7391,7 @@
                 ]
             }
         },
-        "total_mods": 769
+        "total_mods": 770
     },
     "395028811399299082": {
         "modification_history": {},
