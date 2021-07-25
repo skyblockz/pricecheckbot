@@ -5322,6 +5322,13 @@
                     500
                 ]
             },
+            "portal_to_jungle_island": {
+                "from": null,
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "portal_to_mushroom_island": {
                 "from": null,
                 "to": [
@@ -6041,7 +6048,7 @@
                 ]
             }
         },
-        "total_mods": 625
+        "total_mods": 626
     },
     "395028811399299082": {
         "modification_history": {},
