@@ -5096,6 +5096,16 @@
                     900000
                 ]
             },
+            "lvl_1_legendary_bee": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    2100000,
+                    2200000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8692,7 +8702,7 @@
                 ]
             }
         },
-        "total_mods": 909
+        "total_mods": 910
     },
     "395028811399299082": {
         "modification_history": {},
