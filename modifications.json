@@ -7315,6 +7315,16 @@
                     60000
                 ]
             },
+            "travel_scroll_to_the_end": {
+                "from": [
+                    230000,
+                    260000
+                ],
+                "to": [
+                    645000,
+                    645000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7481,7 +7491,7 @@
                 ]
             }
         },
-        "total_mods": 779
+        "total_mods": 780
     },
     "395028811399299082": {
         "modification_history": {},
