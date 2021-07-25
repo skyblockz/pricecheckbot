@@ -4659,6 +4659,16 @@
                     500000
                 ]
             },
+            "lvl_1_epic_chicken": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    120000,
+                    250000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8255,7 +8265,7 @@
                 ]
             }
         },
-        "total_mods": 865
+        "total_mods": 866
     },
     "395028811399299082": {
         "modification_history": {},
