@@ -7312,6 +7312,16 @@
                     35000
                 ]
             },
+            "raider_axe": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    170000,
+                    190000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -9704,7 +9714,7 @@
                 ]
             }
         },
-        "total_mods": 1016
+        "total_mods": 1017
     },
     "395028811399299082": {
         "modification_history": {},
