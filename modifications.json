@@ -4739,6 +4739,16 @@
                     3000000
                 ]
             },
+            "lvl_1_epic_silverfish": {
+                "from": [
+                    170000,
+                    180000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8335,7 +8345,7 @@
                 ]
             }
         },
-        "total_mods": 873
+        "total_mods": 874
     },
     "395028811399299082": {
         "modification_history": {},
