@@ -5133,6 +5133,16 @@
                     1200000000
                 ]
             },
+            "lvl_1_legendary_pig": {
+                "from": [
+                    850000,
+                    900000
+                ],
+                "to": [
+                    650000,
+                    850000
+                ]
+            },
             "maddox_batphone": {
                 "from": [
                     622000,
@@ -8722,7 +8732,7 @@
                 ]
             }
         },
-        "total_mods": 912
+        "total_mods": 913
     },
     "395028811399299082": {
         "modification_history": {},
