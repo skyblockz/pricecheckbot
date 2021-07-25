@@ -7275,6 +7275,16 @@
                     120000
                 ]
             },
+            "travel_scroll_to_gold_mine": {
+                "from": [
+                    540000,
+                    550000
+                ],
+                "to": [
+                    430000,
+                    450000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7441,7 +7451,7 @@
                 ]
             }
         },
-        "total_mods": 775
+        "total_mods": 776
     },
     "395028811399299082": {
         "modification_history": {},
