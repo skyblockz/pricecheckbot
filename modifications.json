@@ -6381,6 +6381,16 @@
                     24000000
                 ]
             },
+            "silk_edge_sword": {
+                "from": [
+                    2500000,
+                    2700000
+                ],
+                "to": [
+                    2000000,
+                    4000000
+                ]
+            },
             "sludge_juice": {
                 "from": null,
                 "to": [
@@ -6776,7 +6786,7 @@
                 ]
             }
         },
-        "total_mods": 703
+        "total_mods": 704
     },
     "395028811399299082": {
         "modification_history": {},
