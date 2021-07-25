@@ -4759,6 +4759,16 @@
                     1100000
                 ]
             },
+            "lvl_1_epic_flying_fish": {
+                "from": [
+                    250000,
+                    250000
+                ],
+                "to": [
+                    190000,
+                    200000
+                ]
+            },
             "lvl_1_epic_ghoul": {
                 "from": [
                     100000,
@@ -8622,7 +8632,7 @@
                 ]
             }
         },
-        "total_mods": 902
+        "total_mods": 903
     },
     "395028811399299082": {
         "modification_history": {},
