@@ -4758,6 +4758,16 @@
                     16000000
                 ]
             },
+            "lvl_100_legendary_flying_fish": {
+                "from": [
+                    15000000,
+                    20000000
+                ],
+                "to": [
+                    21000000,
+                    24000000
+                ]
+            },
             "lvl_100_legendary_ghoul": {
                 "from": [
                     39000000,
@@ -9614,7 +9624,7 @@
                 ]
             }
         },
-        "total_mods": 1005
+        "total_mods": 1006
     },
     "395028811399299082": {
         "modification_history": {},
