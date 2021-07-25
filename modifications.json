@@ -5425,6 +5425,16 @@
                     175000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    675000,
+                    725000
+                ],
+                "to": [
+                    570000,
+                    600000
+                ]
+            },
             "pristine_i": {
                 "from": null,
                 "to": [
@@ -6061,7 +6071,7 @@
                 ]
             }
         },
-        "total_mods": 628
+        "total_mods": 629
     },
     "395028811399299082": {
         "modification_history": {},
