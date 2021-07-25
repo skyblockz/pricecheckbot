@@ -4759,6 +4759,16 @@
                     5500000
                 ]
             },
+            "lvl_1_epic_horse": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "lvl_1_epic_mithril_golem": {
                 "from": [
                     200000,
@@ -8415,7 +8425,7 @@
                 ]
             }
         },
-        "total_mods": 881
+        "total_mods": 882
     },
     "395028811399299082": {
         "modification_history": {},
