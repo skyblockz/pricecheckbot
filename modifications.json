@@ -6672,6 +6672,16 @@
                     3000000
                 ]
             },
+            "speed_talisman": {
+                "from": [
+                    230,
+                    350
+                ],
+                "to": [
+                    290,
+                    300
+                ]
+            },
             "spiked_bait": {
                 "from": [
                     60,
@@ -6946,7 +6956,7 @@
                 ]
             }
         },
-        "total_mods": 722
+        "total_mods": 723
     },
     "395028811399299082": {
         "modification_history": {},
