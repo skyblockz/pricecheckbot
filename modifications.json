@@ -2732,6 +2732,16 @@
                     1900000
                 ]
             },
+            "epic_fishing_exp_boost": {
+                "from": [
+                    2000000,
+                    2200000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "epic_foraging_exp_boost": {
                 "from": [
                     6000000,
@@ -7996,7 +8006,7 @@
                 ]
             }
         },
-        "total_mods": 835
+        "total_mods": 836
     },
     "395028811399299082": {
         "modification_history": {},
