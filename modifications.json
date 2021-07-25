@@ -4738,6 +4738,16 @@
                     25000000
                 ]
             },
+            "lvl_100_legendary_giraffe": {
+                "from": [
+                    45000000,
+                    53000000
+                ],
+                "to": [
+                    25000000,
+                    28800000
+                ]
+            },
             "lvl_100_legendary_golden_dragon": {
                 "from": [
                     1350000000,
@@ -9544,7 +9554,7 @@
                 ]
             }
         },
-        "total_mods": 998
+        "total_mods": 999
     },
     "395028811399299082": {
         "modification_history": {},
