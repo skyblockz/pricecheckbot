@@ -3603,12 +3603,12 @@
             },
             "golem_sword": {
                 "from": [
-                    420000,
-                    430000
-                ],
-                "to": [
                     200000,
                     350000
+                ],
+                "to": [
+                    500000,
+                    550000
                 ]
             },
             "grand_experience_bottle": {
@@ -9704,7 +9704,7 @@
                 ]
             }
         },
-        "total_mods": 1015
+        "total_mods": 1016
     },
     "395028811399299082": {
         "modification_history": {},
