@@ -5283,6 +5283,16 @@
                     850000
                 ]
             },
+            "lvl_1_legendary_pigman": {
+                "from": [
+                    3600000,
+                    4000000
+                ],
+                "to": [
+                    2200000,
+                    2200000
+                ]
+            },
             "lvl_1_legendary_rabbit": {
                 "from": [
                     750000,
@@ -8912,7 +8922,7 @@
                 ]
             }
         },
-        "total_mods": 932
+        "total_mods": 933
     },
     "395028811399299082": {
         "modification_history": {},
