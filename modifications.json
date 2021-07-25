@@ -4729,6 +4729,16 @@
                     150000
                 ]
             },
+            "lvl_1_epic_rock": {
+                "from": [
+                    4900000,
+                    5200000
+                ],
+                "to": [
+                    2500000,
+                    3000000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8325,7 +8335,7 @@
                 ]
             }
         },
-        "total_mods": 872
+        "total_mods": 873
     },
     "395028811399299082": {
         "modification_history": {},
