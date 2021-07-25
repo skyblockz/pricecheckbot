@@ -6064,6 +6064,16 @@
                     10000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "rough_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -6592,7 +6602,7 @@
                 ]
             }
         },
-        "total_mods": 683
+        "total_mods": 684
     },
     "395028811399299082": {
         "modification_history": {},
