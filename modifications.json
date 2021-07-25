@@ -6996,12 +6996,12 @@
             },
             "optical_lens": {
                 "from": [
-                    4000,
-                    5000
-                ],
-                "to": [
                     35000,
                     45000
+                ],
+                "to": [
+                    8000,
+                    20000
                 ]
             },
             "ornate_zombie_sword": {
@@ -10248,7 +10248,7 @@
                 ]
             }
         },
-        "total_mods": 1112
+        "total_mods": 1113
     },
     "395028811399299082": {
         "modification_history": {},
