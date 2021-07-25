@@ -4896,6 +4896,16 @@
                     600000
                 ]
             },
+            "lvl_1_epic_tarantula": {
+                "from": [
+                    120000,
+                    133000
+                ],
+                "to": [
+                    85000,
+                    90000
+                ]
+            },
             "lvl_1_epic_wither_skeleton": {
                 "from": [
                     610000,
@@ -8502,7 +8512,7 @@
                 ]
             }
         },
-        "total_mods": 890
+        "total_mods": 891
     },
     "395028811399299082": {
         "modification_history": {},
