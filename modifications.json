@@ -4674,6 +4674,16 @@
                     65000
                 ]
             },
+            "medium_slayer_sack": {
+                "from": [
+                    830000,
+                    899000
+                ],
+                "to": [
+                    1250000,
+                    1300000
+                ]
+            },
             "medium_storage": {
                 "from": [
                     9000,
@@ -6816,7 +6826,7 @@
                 ]
             }
         },
-        "total_mods": 707
+        "total_mods": 708
     },
     "395028811399299082": {
         "modification_history": {},
