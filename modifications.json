@@ -4886,6 +4886,16 @@
                     750000
                 ]
             },
+            "lvl_1_epic_spirit": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "lvl_1_epic_wither_skeleton": {
                 "from": [
                     610000,
@@ -8492,7 +8502,7 @@
                 ]
             }
         },
-        "total_mods": 889
+        "total_mods": 890
     },
     "395028811399299082": {
         "modification_history": {},
