@@ -4638,6 +4638,16 @@
                     350000
                 ]
             },
+            "lvl_100_legendary_armadillo": {
+                "from": [
+                    12500000,
+                    16000000
+                ],
+                "to": [
+                    15000000,
+                    17500000
+                ]
+            },
             "lvl_100_legendary_bee": {
                 "from": [
                     37000000,
@@ -9236,7 +9246,7 @@
                 ]
             }
         },
-        "total_mods": 965
+        "total_mods": 966
     },
     "395028811399299082": {
         "modification_history": {},
