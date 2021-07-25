@@ -5163,6 +5163,16 @@
                     1200000000
                 ]
             },
+            "lvl_1_legendary_mithril_golem": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "lvl_1_legendary_pig": {
                 "from": [
                     850000,
@@ -8802,7 +8812,7 @@
                 ]
             }
         },
-        "total_mods": 920
+        "total_mods": 921
     },
     "395028811399299082": {
         "modification_history": {},
