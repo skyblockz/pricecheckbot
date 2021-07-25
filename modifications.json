@@ -5146,6 +5146,16 @@
                     18000000
                 ]
             },
+            "lvl_1_legendary_endermite": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    2000000,
+                    2200000
+                ]
+            },
             "lvl_1_legendary_golden_dragon": {
                 "from": null,
                 "to": [
@@ -8762,7 +8772,7 @@
                 ]
             }
         },
-        "total_mods": 916
+        "total_mods": 917
     },
     "395028811399299082": {
         "modification_history": {},
