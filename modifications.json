@@ -5244,6 +5244,16 @@
                     120000000
                 ]
             },
+            "plasmaflux_power_orb": {
+                "from": [
+                    160000000,
+                    165000000
+                ],
+                "to": [
+                    165000000,
+                    180000000
+                ]
+            },
             "potato-style_century_cake": {
                 "from": [
                     5000000,
@@ -5897,7 +5907,7 @@
                 ]
             }
         },
-        "total_mods": 607
+        "total_mods": 608
     },
     "395028811399299082": {
         "modification_history": {},
