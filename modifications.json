@@ -4729,9 +4729,12 @@
                 ]
             },
             "lvl_100_legendary_golden_dragon": {
-                "from": null,
-                "to": [
+                "from": [
                     1350000000,
+                    1350000000
+                ],
+                "to": [
+                    1100000000,
                     1350000000
                 ]
             },
@@ -9346,7 +9349,7 @@
                 ]
             }
         },
-        "total_mods": 976
+        "total_mods": 977
     },
     "395028811399299082": {
         "modification_history": {},
