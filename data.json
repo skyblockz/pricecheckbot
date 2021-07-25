@@ -1969,12 +1969,6 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 600000,
-        "name": "thick_tactician_sword"
-    },
-    {
-        "ac": true,
         "hi": 100000,
         "low": 100000,
         "name": "golden_powder"
@@ -13504,5 +13498,11 @@
         "hi": 200000,
         "low": 190000,
         "name": "tacticians_sword"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 600000,
+        "name": "thick_tacticians_sword"
     }
 ]

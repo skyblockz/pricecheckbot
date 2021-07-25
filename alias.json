@@ -212,10 +212,6 @@
         "src": "emagma_cream"
     },
     {
-        "dest": "thick_tactician_sword",
-        "src": "thick_tact"
-    },
-    {
         "dest": "enchanted_redstone_block",
         "src": "eredstone_block"
     },
@@ -1126,10 +1122,6 @@
     {
         "dest": "lvl_1_epic_bat",
         "src": "epic_bat"
-    },
-    {
-        "dest": "thick_tactician_sword",
-        "src": "thick_tac"
     },
     {
         "dest": "lvl_1_legendary_jellyfish",
@@ -2650,5 +2642,13 @@
     {
         "dest": "tacticians_sword",
         "src": "tact"
+    },
+    {
+        "dest": "thick_tacticians_sword",
+        "src": "thick_tact"
+    },
+    {
+        "dest": "thick_tacticians_sword",
+        "src": "thick_tac"
     }
 ]
