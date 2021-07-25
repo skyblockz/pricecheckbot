@@ -7265,6 +7265,16 @@
                     190000
                 ]
             },
+            "travel_scroll_to_deep_caverns": {
+                "from": [
+                    10000,
+                    50000
+                ],
+                "to": [
+                    120000,
+                    120000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7431,7 +7441,7 @@
                 ]
             }
         },
-        "total_mods": 774
+        "total_mods": 775
     },
     "395028811399299082": {
         "modification_history": {},
