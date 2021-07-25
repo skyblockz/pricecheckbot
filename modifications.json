@@ -5177,10 +5177,13 @@
                 ]
             },
             "lvl_1_legendary_golden_dragon": {
-                "from": null,
-                "to": [
+                "from": [
                     1200000000,
                     1200000000
+                ],
+                "to": [
+                    820000000,
+                    940000000
                 ]
             },
             "lvl_1_legendary_mithril_golem": {
@@ -8832,7 +8835,7 @@
                 ]
             }
         },
-        "total_mods": 923
+        "total_mods": 924
     },
     "395028811399299082": {
         "modification_history": {},
