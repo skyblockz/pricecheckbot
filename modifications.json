@@ -7456,6 +7456,13 @@
                     30000
                 ]
             },
+            "tuning_fork": {
+                "from": null,
+                "to": [
+                    390000,
+                    400000
+                ]
+            },
             "uncommon_beastmaster_crest": {
                 "from": [
                     1250000,
@@ -7605,7 +7612,7 @@
                 ]
             }
         },
-        "total_mods": 793
+        "total_mods": 794
     },
     "395028811399299082": {
         "modification_history": {},
