@@ -7267,12 +7267,6 @@
     },
     {
         "ac": true,
-        "hi": 15000,
-        "low": 8000,
-        "name": "sniper_bow"
-    },
-    {
-        "ac": true,
         "hi": 19000,
         "low": 10000,
         "name": "epic_zombie_knight_sword"
@@ -13528,5 +13522,11 @@
         "hi": 200000,
         "low": 80000,
         "name": "epic_machine_gun_bow"
+    },
+    {
+        "ac": true,
+        "hi": 15000,
+        "low": 8000,
+        "name": "rare_sniper_bow"
     }
 ]
