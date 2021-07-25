@@ -10075,12 +10075,6 @@
     },
     {
         "ac": true,
-        "hi": 100000,
-        "low": 80000,
-        "name": "endstone_geode"
-    },
-    {
-        "ac": true,
         "hi": 20000,
         "low": 15000,
         "name": "fairy_chestplate"
@@ -13540,5 +13534,11 @@
         "hi": 65000,
         "low": 17500,
         "name": "epic_soulstealer_bow"
+    },
+    {
+        "ac": true,
+        "hi": 100000,
+        "low": 80000,
+        "name": "end_stone_geode"
     }
 ]
