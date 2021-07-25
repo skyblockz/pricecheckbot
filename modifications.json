@@ -7637,6 +7637,16 @@
                     70000
                 ]
             },
+            "uncommon_fishing_exp_boost": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "uncommon_griffin_upgrade_stone": {
                 "from": [
                     1400000,
@@ -7976,7 +7986,7 @@
                 ]
             }
         },
-        "total_mods": 833
+        "total_mods": 834
     },
     "395028811399299082": {
         "modification_history": {},
