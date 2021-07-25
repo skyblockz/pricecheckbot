@@ -4916,6 +4916,16 @@
                     20000000
                 ]
             },
+            "lvl_100_legendary_spirit": {
+                "from": [
+                    28500000,
+                    28700000
+                ],
+                "to": [
+                    18000000,
+                    21000000
+                ]
+            },
             "lvl_100_legendary_wither_skeleton": {
                 "from": [
                     9500000,
@@ -9484,7 +9494,7 @@
                 ]
             }
         },
-        "total_mods": 992
+        "total_mods": 993
     },
     "395028811399299082": {
         "modification_history": {},
