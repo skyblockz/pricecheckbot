@@ -7744,6 +7744,16 @@
                     125
                 ]
             },
+            "wood_singularity": {
+                "from": [
+                    3900000,
+                    4750000
+                ],
+                "to": [
+                    3850000,
+                    4000000
+                ]
+            },
             "x-large_storage": {
                 "from": [
                     700000,
@@ -7782,7 +7792,7 @@
                 ]
             }
         },
-        "total_mods": 813
+        "total_mods": 814
     },
     "395028811399299082": {
         "modification_history": {},
