@@ -5706,6 +5706,16 @@
                     50000
                 ]
             },
+            "rare_farming_exp_boost": {
+                "from": [
+                    550000,
+                    600000
+                ],
+                "to": [
+                    590000,
+                    600000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2340000,
@@ -7869,7 +7879,7 @@
                 ]
             }
         },
-        "total_mods": 822
+        "total_mods": 823
     },
     "395028811399299082": {
         "modification_history": {},
