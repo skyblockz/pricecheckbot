@@ -5016,6 +5016,16 @@
                     21000000
                 ]
             },
+            "lvl_100_legendary_squid": {
+                "from": [
+                    32000000,
+                    40000000
+                ],
+                "to": [
+                    19000000,
+                    20000000
+                ]
+            },
             "lvl_100_legendary_tarantula": {
                 "from": [
                     32000000,
@@ -9634,7 +9644,7 @@
                 ]
             }
         },
-        "total_mods": 1007
+        "total_mods": 1008
     },
     "395028811399299082": {
         "modification_history": {},
