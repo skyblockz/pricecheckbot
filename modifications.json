@@ -6177,6 +6177,16 @@
                     1000000
                 ]
             },
+            "salmon_opal": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "sapphire_power_scroll": {
                 "from": [
                     2400000,
@@ -6639,7 +6649,7 @@
                 ]
             }
         },
-        "total_mods": 688
+        "total_mods": 689
     },
     "395028811399299082": {
         "modification_history": {},
