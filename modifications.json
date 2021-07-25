@@ -5301,6 +5301,13 @@
                     800000
                 ]
             },
+            "portal_to_the_barn": {
+                "from": null,
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "portal_to_the_hub": {
                 "from": null,
                 "to": [
@@ -5961,7 +5968,7 @@
                 ]
             }
         },
-        "total_mods": 614
+        "total_mods": 615
     },
     "395028811399299082": {
         "modification_history": {},
