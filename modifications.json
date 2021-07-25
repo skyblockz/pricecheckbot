@@ -5226,6 +5226,16 @@
                     29000000
                 ]
             },
+            "lvl_1_legendary_horse": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_mithril_golem": {
                 "from": [
                     1400000,
@@ -8875,7 +8885,7 @@
                 ]
             }
         },
-        "total_mods": 928
+        "total_mods": 929
     },
     "395028811399299082": {
         "modification_history": {},
