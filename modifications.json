@@ -5315,6 +5315,13 @@
                     200000
                 ]
             },
+            "portal_to_dark_thicket": {
+                "from": null,
+                "to": [
+                    450,
+                    500
+                ]
+            },
             "portal_to_mushroom_island": {
                 "from": null,
                 "to": [
@@ -6027,7 +6034,7 @@
                 ]
             }
         },
-        "total_mods": 623
+        "total_mods": 624
     },
     "395028811399299082": {
         "modification_history": {},
