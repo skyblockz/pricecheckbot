@@ -2672,6 +2672,16 @@
                     9000000
                 ]
             },
+            "epic_farming_exp_boost": {
+                "from": [
+                    1600000,
+                    1700000
+                ],
+                "to": [
+                    1800000,
+                    1900000
+                ]
+            },
             "epic_griffin_upgrade_stone": {
                 "from": [
                     6250000,
@@ -7879,7 +7889,7 @@
                 ]
             }
         },
-        "total_mods": 823
+        "total_mods": 824
     },
     "395028811399299082": {
         "modification_history": {},
