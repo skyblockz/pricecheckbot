@@ -7678,10 +7678,13 @@
                 ]
             },
             "wishing_compass": {
-                "from": null,
-                "to": [
+                "from": [
                     500,
                     700000
+                ],
+                "to": [
+                    5000,
+                    9000
                 ]
             },
             "wither_relic": {
@@ -7742,7 +7745,7 @@
                 ]
             }
         },
-        "total_mods": 808
+        "total_mods": 809
     },
     "395028811399299082": {
         "modification_history": {},
