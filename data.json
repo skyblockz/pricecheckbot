@@ -6895,12 +6895,6 @@
     },
     {
         "ac": true,
-        "hi": 5038,
-        "low": 5038,
-        "name": "machine_gun_bow"
-    },
-    {
-        "ac": true,
         "hi": 1300000,
         "low": 1200000,
         "name": "rend_i"
@@ -13522,5 +13516,11 @@
         "hi": 17500,
         "low": 15000,
         "name": "zombie_commander_whip"
+    },
+    {
+        "ac": true,
+        "hi": 5038,
+        "low": 5038,
+        "name": "rare_machine_gun_bow"
     }
 ]
