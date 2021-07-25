@@ -5353,6 +5353,16 @@
                     15750000
                 ]
             },
+            "lvl_1_legendary_spider": {
+                "from": [
+                    1800000,
+                    1900000
+                ],
+                "to": [
+                    3000000,
+                    3200000
+                ]
+            },
             "lvl_1_legendary_wither_skeleton": {
                 "from": [
                     3000000,
@@ -8952,7 +8962,7 @@
                 ]
             }
         },
-        "total_mods": 936
+        "total_mods": 937
     },
     "395028811399299082": {
         "modification_history": {},
