@@ -6990,6 +6990,16 @@
                     400000
                 ]
             },
+            "tactician_sword": {
+                "from": [
+                    130000,
+                    175000
+                ],
+                "to": [
+                    75000,
+                    90000
+                ]
+            },
             "talisman_of_power": {
                 "from": null,
                 "to": [
@@ -7197,7 +7207,7 @@
                 ]
             }
         },
-        "total_mods": 748
+        "total_mods": 749
     },
     "395028811399299082": {
         "modification_history": {},
