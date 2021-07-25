@@ -7305,6 +7305,16 @@
                     185000
                 ]
             },
+            "travel_scroll_to_hub_crypts": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    530000,
+                    550000
+                ]
+            },
             "travel_scroll_to_mushroom_island": {
                 "from": [
                     125000,
@@ -7521,7 +7531,7 @@
                 ]
             }
         },
-        "total_mods": 783
+        "total_mods": 784
     },
     "395028811399299082": {
         "modification_history": {},
