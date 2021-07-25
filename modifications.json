@@ -5193,6 +5193,16 @@
                     10800000
                 ]
             },
+            "lvl_1_legendary_silverfish": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    900000,
+                    930000
+                ]
+            },
             "maddox_batphone": {
                 "from": [
                     622000,
@@ -8782,7 +8792,7 @@
                 ]
             }
         },
-        "total_mods": 918
+        "total_mods": 919
     },
     "395028811399299082": {
         "modification_history": {},
