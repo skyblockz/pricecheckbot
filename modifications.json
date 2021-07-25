@@ -7285,6 +7285,16 @@
                     120000
                 ]
             },
+            "travel_scroll_to_dragons_nest": {
+                "from": [
+                    740000,
+                    780000
+                ],
+                "to": [
+                    890000,
+                    900000
+                ]
+            },
             "travel_scroll_to_gold_mine": {
                 "from": [
                     540000,
@@ -7548,7 +7558,7 @@
                 ]
             }
         },
-        "total_mods": 786
+        "total_mods": 787
     },
     "395028811399299082": {
         "modification_history": {},
