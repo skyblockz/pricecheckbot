@@ -5850,6 +5850,16 @@
                     145000
                 ]
             },
+            "redstone": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "ring_of_power": {
                 "from": [
                     3500000,
@@ -6405,7 +6415,7 @@
                 ]
             }
         },
-        "total_mods": 664
+        "total_mods": 665
     },
     "395028811399299082": {
         "modification_history": {},
