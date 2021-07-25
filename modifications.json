@@ -7101,6 +7101,16 @@
                     19000
                 ]
             },
+            "tightly_tied_hay_bale": {
+                "from": [
+                    300000,
+                    500000
+                ],
+                "to": [
+                    443000,
+                    483000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     292000,
@@ -7291,7 +7301,7 @@
                 ]
             }
         },
-        "total_mods": 759
+        "total_mods": 760
     },
     "395028811399299082": {
         "modification_history": {},
