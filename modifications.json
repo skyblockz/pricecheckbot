@@ -7325,6 +7325,16 @@
                     645000
                 ]
             },
+            "travel_scroll_to_the_park": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    120000,
+                    120000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2350000,
@@ -7491,7 +7501,7 @@
                 ]
             }
         },
-        "total_mods": 780
+        "total_mods": 781
     },
     "395028811399299082": {
         "modification_history": {},
