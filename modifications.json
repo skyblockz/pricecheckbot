@@ -5556,6 +5556,16 @@
                     5
                 ]
             },
+            "pumpkin_dicer": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "rare_beastmaster_crest": {
                 "from": [
                     4000000,
@@ -6158,7 +6168,7 @@
                 ]
             }
         },
-        "total_mods": 639
+        "total_mods": 640
     },
     "395028811399299082": {
         "modification_history": {},
