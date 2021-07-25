@@ -6000,6 +6000,16 @@
                     3
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    45000,
+                    50000
+                ],
+                "to": [
+                    38500,
+                    43500
+                ]
+            },
             "ring_of_power": {
                 "from": [
                     3500000,
@@ -6555,7 +6565,7 @@
                 ]
             }
         },
-        "total_mods": 679
+        "total_mods": 680
     },
     "395028811399299082": {
         "modification_history": {},
