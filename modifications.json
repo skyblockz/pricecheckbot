@@ -5970,6 +5970,16 @@
                     13000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    8000,
+                    8000
+                ],
+                "to": [
+                    8000,
+                    35000
+                ]
+            },
             "ring_of_power": {
                 "from": [
                     3500000,
@@ -6525,7 +6535,7 @@
                 ]
             }
         },
-        "total_mods": 676
+        "total_mods": 677
     },
     "395028811399299082": {
         "modification_history": {},
