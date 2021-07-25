@@ -4876,6 +4876,16 @@
                     60000
                 ]
             },
+            "lvl_1_epic_spider": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    600000,
+                    750000
+                ]
+            },
             "lvl_1_epic_wither_skeleton": {
                 "from": [
                     610000,
@@ -8482,7 +8492,7 @@
                 ]
             }
         },
-        "total_mods": 888
+        "total_mods": 889
     },
     "395028811399299082": {
         "modification_history": {},
