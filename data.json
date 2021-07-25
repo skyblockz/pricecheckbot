@@ -8773,12 +8773,6 @@
     },
     {
         "ac": true,
-        "hi": 17500,
-        "low": 15000,
-        "name": "epic_zombie_commander_whip"
-    },
-    {
-        "ac": true,
         "hi": 500000,
         "low": 400000,
         "name": "legendary_zombie_commander_whip"
@@ -13522,5 +13516,11 @@
         "hi": 400000,
         "low": 100000,
         "name": "epic_conjuring"
+    },
+    {
+        "ac": true,
+        "hi": 17500,
+        "low": 15000,
+        "name": "zombie_commander_whip"
     }
 ]
