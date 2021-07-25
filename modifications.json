@@ -6913,6 +6913,16 @@
                     3
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    630000,
+                    635000
+                ],
+                "to": [
+                    680000,
+                    690000
+                ]
+            },
             "super_compactor_3000": {
                 "from": [
                     700000,
@@ -7147,7 +7157,7 @@
                 ]
             }
         },
-        "total_mods": 743
+        "total_mods": 744
     },
     "395028811399299082": {
         "modification_history": {},
