@@ -6809,6 +6809,16 @@
                     2000000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    8000,
+                    10000
+                ],
+                "to": [
+                    590,
+                    900
+                ]
+            },
             "streamers_century_cake": {
                 "from": [
                     1200000,
@@ -7063,7 +7073,7 @@
                 ]
             }
         },
-        "total_mods": 734
+        "total_mods": 735
     },
     "395028811399299082": {
         "modification_history": {},
