@@ -5455,6 +5455,16 @@
                     50000
                 ]
             },
+            "prismarine_blade": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    400,
+                    500
+                ]
+            },
             "pristine_i": {
                 "from": null,
                 "to": [
@@ -6091,7 +6101,7 @@
                 ]
             }
         },
-        "total_mods": 631
+        "total_mods": 632
     },
     "395028811399299082": {
         "modification_history": {},
