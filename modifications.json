@@ -8910,6 +8910,16 @@
                     3600000
                 ]
             },
+            "perfect_helmet_tier_ix": {
+                "from": [
+                    7400000,
+                    7400000
+                ],
+                "to": [
+                    7800000,
+                    7900000
+                ]
+            },
             "perfect_helmet_tier_v": {
                 "from": [
                     4200000,
@@ -13216,7 +13226,7 @@
                 ]
             }
         },
-        "total_mods": 1457
+        "total_mods": 1458
     },
     "395028811399299082": {
         "modification_history": {},
