@@ -3875,6 +3875,16 @@
                     100000
                 ]
             },
+            "golem_armor_leggings": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    130000,
+                    200000
+                ]
+            },
             "golem_sword": {
                 "from": [
                     200000,
@@ -10398,7 +10408,7 @@
                 ]
             }
         },
-        "total_mods": 1146
+        "total_mods": 1147
     },
     "395028811399299082": {
         "modification_history": {},
