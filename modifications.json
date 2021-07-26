@@ -8920,6 +8920,16 @@
                     4500000
                 ]
             },
+            "perfect_helmet_tier_vi": {
+                "from": [
+                    5000000,
+                    5000000
+                ],
+                "to": [
+                    5300000,
+                    5400000
+                ]
+            },
             "perfect_jade_gemstone": {
                 "from": null,
                 "to": [
@@ -13186,7 +13196,7 @@
                 ]
             }
         },
-        "total_mods": 1454
+        "total_mods": 1455
     },
     "395028811399299082": {
         "modification_history": {},
