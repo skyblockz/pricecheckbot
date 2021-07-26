@@ -3748,6 +3748,16 @@
                     20
                 ]
             },
+            "goblin_chestplate": {
+                "from": [
+                    3000,
+                    3500
+                ],
+                "to": [
+                    2000,
+                    5000
+                ]
+            },
             "goblin_egg": {
                 "from": [
                     500,
@@ -10468,7 +10478,7 @@
                 ]
             }
         },
-        "total_mods": 1153
+        "total_mods": 1154
     },
     "395028811399299082": {
         "modification_history": {},
