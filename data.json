@@ -8629,12 +8629,6 @@
     },
     {
         "ac": true,
-        "hi": 3500000,
-        "low": 3000000,
-        "name": "turbo-mushroom_5"
-    },
-    {
-        "ac": true,
         "hi": 12500,
         "low": 11500,
         "name": "infinidirt_wand"
@@ -13984,5 +13978,11 @@
         "hi": 120000,
         "low": 100000,
         "name": "turbo-mushroom_i"
+    },
+    {
+        "ac": true,
+        "hi": 3500000,
+        "low": 3000000,
+        "name": "turbo-mushroom_v"
     }
 ]
