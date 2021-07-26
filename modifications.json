@@ -526,6 +526,16 @@
                     1500
                 ]
             },
+            "potato_minion_i": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    160,
+                    170
+                ]
+            },
             "pumpkin_minion_i": {
                 "from": null,
                 "to": [
@@ -571,7 +581,7 @@
                 ]
             }
         },
-        "total_mods": 1806
+        "total_mods": 1807
     },
     "395028811399299082": {
         "modification_history": {},
