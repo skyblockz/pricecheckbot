@@ -5371,6 +5371,16 @@
                     5000000
                 ]
             },
+            "legendary_zombie_knight_helmet": {
+                "from": [
+                    850000,
+                    1000000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "legendary_zombie_knight_sword": {
                 "from": [
                     80000,
@@ -11373,7 +11383,7 @@
                 ]
             }
         },
-        "total_mods": 1256
+        "total_mods": 1257
     },
     "395028811399299082": {
         "modification_history": {},
