@@ -3908,6 +3908,16 @@
                     25
                 ]
             },
+            "final_destination_helmet": {
+                "from": [
+                    940000,
+                    1040000
+                ],
+                "to": [
+                    1400000,
+                    1650000
+                ]
+            },
             "fine_amber_gemstone": {
                 "from": null,
                 "to": [
@@ -12663,7 +12673,7 @@
                 ]
             }
         },
-        "total_mods": 1392
+        "total_mods": 1393
     },
     "395028811399299082": {
         "modification_history": {},
