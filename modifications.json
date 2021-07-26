@@ -7753,6 +7753,16 @@
                     4200000
                 ]
             },
+            "maxors_leggings": {
+                "from": [
+                    6800000,
+                    7800000
+                ],
+                "to": [
+                    6600000,
+                    7100000
+                ]
+            },
             "medium_agronomy_sack": {
                 "from": [
                     35000,
@@ -12113,7 +12123,7 @@
                 ]
             }
         },
-        "total_mods": 1337
+        "total_mods": 1338
     },
     "395028811399299082": {
         "modification_history": {},
