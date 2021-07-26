@@ -14483,6 +14483,13 @@
                     10000
                 ]
             },
+            "tier_1_cobblestone_minion": {
+                "from": null,
+                "to": [
+                    600,
+                    650
+                ]
+            },
             "tier_boost": {
                 "from": [
                     78300000,
@@ -16069,7 +16076,7 @@
                 ]
             }
         },
-        "total_mods": 1786
+        "total_mods": 1787
     },
     "395028811399299082": {
         "modification_history": {},
