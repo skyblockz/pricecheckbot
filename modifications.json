@@ -3314,6 +3314,16 @@
                     65000
                 ]
             },
+            "epic_super_heavy_helmet": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "epic_zombie_commander_boots": {
                 "from": null,
                 "to": [
@@ -11621,7 +11631,7 @@
                 ]
             }
         },
-        "total_mods": 1285
+        "total_mods": 1286
     },
     "395028811399299082": {
         "modification_history": {},
