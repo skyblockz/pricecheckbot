@@ -4926,12 +4926,12 @@
             },
             "guardian_chestplate": {
                 "from": [
-                    15000,
-                    65000
-                ],
-                "to": [
                     100000,
                     200000
+                ],
+                "to": [
+                    40000,
+                    50000
                 ]
             },
             "gunpowder": {
@@ -12949,7 +12949,7 @@
                 ]
             }
         },
-        "total_mods": 1427
+        "total_mods": 1428
     },
     "395028811399299082": {
         "modification_history": {},
