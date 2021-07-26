@@ -14172,6 +14172,16 @@
                     650000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    2100000,
+                    2500000
+                ],
+                "to": [
+                    1900000,
+                    2200000
+                ]
+            },
             "pocket_espresso_machine": {
                 "from": [
                     1800000,
@@ -14213,7 +14223,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "748574639776727134": {
         "modification_history": {},
