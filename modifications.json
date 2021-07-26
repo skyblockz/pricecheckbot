@@ -3084,6 +3084,16 @@
                     15000
                 ]
             },
+            "fairys_polo": {
+                "from": [
+                    10000,
+                    100000
+                ],
+                "to": [
+                    9000,
+                    10000
+                ]
+            },
             "fancy_sword": {
                 "from": null,
                 "to": [
@@ -10308,7 +10318,7 @@
                 ]
             }
         },
-        "total_mods": 1137
+        "total_mods": 1138
     },
     "395028811399299082": {
         "modification_history": {},
