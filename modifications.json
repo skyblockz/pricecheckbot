@@ -475,6 +475,16 @@
                     590
                 ]
             },
+            "fish_minion_i": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    1200,
+                    1300
+                ]
+            },
             "glowstone_minion_i": {
                 "from": null,
                 "to": [
@@ -619,7 +629,7 @@
                 ]
             }
         },
-        "total_mods": 1812
+        "total_mods": 1813
     },
     "395028811399299082": {
         "modification_history": {},
