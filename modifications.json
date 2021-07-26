@@ -394,6 +394,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "carrot_minion_i": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    400,
+                    410
+                ]
+            },
             "clay_minion_i": {
                 "from": [
                     500,
@@ -561,7 +571,7 @@
                 ]
             }
         },
-        "total_mods": 1805
+        "total_mods": 1806
     },
     "395028811399299082": {
         "modification_history": {},
