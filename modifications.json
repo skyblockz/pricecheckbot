@@ -9761,6 +9761,16 @@
                     4000000
                 ]
             },
+            "potion_affinity_ring": {
+                "from": [
+                    13000,
+                    18000
+                ],
+                "to": [
+                    4000,
+                    4600
+                ]
+            },
             "potion_affinity_talisman": {
                 "from": [
                     500,
@@ -13727,7 +13737,7 @@
                 ]
             }
         },
-        "total_mods": 1511
+        "total_mods": 1512
     },
     "395028811399299082": {
         "modification_history": {},
