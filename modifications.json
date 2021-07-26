@@ -13015,6 +13015,16 @@
                     200000
                 ]
             },
+            "vaccine_talisman": {
+                "from": [
+                    10,
+                    300
+                ],
+                "to": [
+                    150,
+                    200
+                ]
+            },
             "valkyrie": {
                 "from": [
                     488000000,
@@ -13617,7 +13627,7 @@
                 ]
             }
         },
-        "total_mods": 1498
+        "total_mods": 1499
     },
     "395028811399299082": {
         "modification_history": {},
