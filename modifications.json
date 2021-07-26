@@ -4588,6 +4588,16 @@
                     70000
                 ]
             },
+            "feather_falling_vi": {
+                "from": [
+                    4000,
+                    4000
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "feather_ring": {
                 "from": [
                     3500,
@@ -14815,7 +14825,7 @@
                 ]
             }
         },
-        "total_mods": 1642
+        "total_mods": 1643
     },
     "395028811399299082": {
         "modification_history": {},
