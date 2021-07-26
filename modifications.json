@@ -1843,6 +1843,16 @@
                     2100000
                 ]
             },
+            "emerald_armor_helmet": {
+                "from": [
+                    1250000,
+                    1750000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     350000,
@@ -10667,7 +10677,7 @@
                 ]
             }
         },
-        "total_mods": 1175
+        "total_mods": 1176
     },
     "395028811399299082": {
         "modification_history": {},
