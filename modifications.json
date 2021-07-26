@@ -394,6 +394,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "blaze_minion_i": {
+                "from": [
+                    1000,
+                    5000
+                ],
+                "to": [
+                    2600,
+                    2700
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -664,7 +674,7 @@
                 ]
             }
         },
-        "total_mods": 1818
+        "total_mods": 1819
     },
     "395028811399299082": {
         "modification_history": {},
