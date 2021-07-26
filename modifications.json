@@ -3900,6 +3900,13 @@
                     6000000
                 ]
             },
+            "etherwarp_conduit": {
+                "from": null,
+                "to": [
+                    15600000,
+                    16400000
+                ]
+            },
             "etherwarp_merger": {
                 "from": [
                     5000000,
@@ -14324,7 +14331,7 @@
                 ]
             }
         },
-        "total_mods": 1586
+        "total_mods": 1587
     },
     "395028811399299082": {
         "modification_history": {},
