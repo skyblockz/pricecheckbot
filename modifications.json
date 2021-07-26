@@ -4808,6 +4808,16 @@
                     80000
                 ]
             },
+            "first_strike_v": {
+                "from": [
+                    60000000,
+                    65000000
+                ],
+                "to": [
+                    38500000,
+                    40000000
+                ]
+            },
             "fish_affinity_talisman": {
                 "from": [
                     80000,
@@ -14879,7 +14889,7 @@
                 ]
             }
         },
-        "total_mods": 1649
+        "total_mods": 1650
     },
     "395028811399299082": {
         "modification_history": {},
