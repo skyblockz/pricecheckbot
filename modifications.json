@@ -5830,6 +5830,16 @@
                     420000
                 ]
             },
+            "krampus_helmet": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    3400000,
+                    3500000
+                ]
+            },
             "lantern": {
                 "from": null,
                 "to": [
@@ -13607,7 +13617,7 @@
                 ]
             }
         },
-        "total_mods": 1497
+        "total_mods": 1498
     },
     "395028811399299082": {
         "modification_history": {},
