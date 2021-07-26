@@ -9144,6 +9144,16 @@
                     2400000
                 ]
             },
+            "perfect_leggings_tier_iii": {
+                "from": [
+                    1300000,
+                    1500000
+                ],
+                "to": [
+                    3200000,
+                    3300000
+                ]
+            },
             "perfect_ruby_gemstone": {
                 "from": null,
                 "to": [
@@ -13396,7 +13406,7 @@
                 ]
             }
         },
-        "total_mods": 1475
+        "total_mods": 1476
     },
     "395028811399299082": {
         "modification_history": {},
