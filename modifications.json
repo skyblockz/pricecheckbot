@@ -3074,6 +3074,16 @@
                     4800000
                 ]
             },
+            "fairys_fedora": {
+                "from": [
+                    20000,
+                    150000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "fancy_sword": {
                 "from": null,
                 "to": [
@@ -10298,7 +10308,7 @@
                 ]
             }
         },
-        "total_mods": 1136
+        "total_mods": 1137
     },
     "395028811399299082": {
         "modification_history": {},
