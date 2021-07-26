@@ -6433,6 +6433,16 @@
                     12500
                 ]
             },
+            "infinite_quiver_vi": {
+                "from": [
+                    4000,
+                    4000
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
             "infinitorch": {
                 "from": null,
                 "to": [
@@ -14993,7 +15003,7 @@
                 ]
             }
         },
-        "total_mods": 1665
+        "total_mods": 1666
     },
     "395028811399299082": {
         "modification_history": {},
