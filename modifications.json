@@ -10893,6 +10893,16 @@
                     1000000
                 ]
             },
+            "storms_helmet": {
+                "from": [
+                    3200000,
+                    4200000
+                ],
+                "to": [
+                    3250000,
+                    3700000
+                ]
+            },
             "streamers_century_cake": {
                 "from": [
                     1200000,
@@ -12173,7 +12183,7 @@
                 ]
             }
         },
-        "total_mods": 1343
+        "total_mods": 1344
     },
     "395028811399299082": {
         "modification_history": {},
