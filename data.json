@@ -8677,12 +8677,6 @@
     },
     {
         "ac": true,
-        "hi": 700000,
-        "low": 650000,
-        "name": "turbo-cane_5"
-    },
-    {
-        "ac": true,
         "hi": 3500000,
         "low": 3000000,
         "name": "turbo-mushroom_5"
@@ -13984,5 +13978,11 @@
         "hi": 40000,
         "low": 36000,
         "name": "turbo-cane_i"
+    },
+    {
+        "ac": true,
+        "hi": 700000,
+        "low": 650000,
+        "name": "turbo-cane_v"
     }
 ]
