@@ -8887,12 +8887,6 @@
     },
     {
         "ac": true,
-        "hi": 1500000,
-        "low": 1300000,
-        "name": "no_pain_no_gain_5"
-    },
-    {
-        "ac": true,
         "hi": 700000,
         "low": 680000,
         "name": "mineral_chestplate"
@@ -13984,5 +13978,11 @@
         "hi": 3500000,
         "low": 3000000,
         "name": "turbo-mushroom_v"
+    },
+    {
+        "ac": true,
+        "hi": 1500000,
+        "low": 1300000,
+        "name": "no_pain_no_gain_v"
     }
 ]
