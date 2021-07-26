@@ -9412,10 +9412,13 @@
                 ]
             },
             "skeleton_soldier_helmet": {
-                "from": null,
-                "to": [
+                "from": [
                     10000,
                     10000
+                ],
+                "to": [
+                    30000,
+                    40000
                 ]
             },
             "skeleton_solider_leggings": {
@@ -11300,7 +11303,7 @@
                 ]
             }
         },
-        "total_mods": 1248
+        "total_mods": 1249
     },
     "395028811399299082": {
         "modification_history": {},
