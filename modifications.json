@@ -5577,6 +5577,16 @@
                     100000
                 ]
             },
+            "legendary_super_heavy_helmet": {
+                "from": [
+                    180000,
+                    250000
+                ],
+                "to": [
+                    98000,
+                    450000
+                ]
+            },
             "legendary_zombie_commander_boots": {
                 "from": null,
                 "to": [
@@ -11661,7 +11671,7 @@
                 ]
             }
         },
-        "total_mods": 1289
+        "total_mods": 1290
     },
     "395028811399299082": {
         "modification_history": {},
