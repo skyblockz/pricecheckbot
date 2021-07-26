@@ -989,6 +989,16 @@
                     280000
                 ]
             },
+            "bouncy_boots": {
+                "from": [
+                    220000,
+                    280000
+                ],
+                "to": [
+                    85000,
+                    88000
+                ]
+            },
             "bouncy_chestplate": {
                 "from": [
                     170000,
@@ -10549,7 +10559,7 @@
                 ]
             }
         },
-        "total_mods": 1162
+        "total_mods": 1163
     },
     "395028811399299082": {
         "modification_history": {},
