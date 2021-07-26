@@ -4270,6 +4270,13 @@
                     15000
                 ]
             },
+            "heat_leggings": {
+                "from": null,
+                "to": [
+                    12000,
+                    25000
+                ]
+            },
             "heavy_boots": {
                 "from": null,
                 "to": [
@@ -10613,7 +10620,7 @@
                 ]
             }
         },
-        "total_mods": 1169
+        "total_mods": 1170
     },
     "395028811399299082": {
         "modification_history": {},
