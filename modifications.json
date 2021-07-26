@@ -14270,6 +14270,13 @@
                     100000
                 ]
             },
+            "thunderbolt_v": {
+                "from": null,
+                "to": [
+                    9000,
+                    10000
+                ]
+            },
             "tier_boost": {
                 "from": [
                     78300000,
@@ -15542,7 +15549,7 @@
                 ]
             }
         },
-        "total_mods": 1728
+        "total_mods": 1729
     },
     "395028811399299082": {
         "modification_history": {},
