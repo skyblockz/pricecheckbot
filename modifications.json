@@ -8039,6 +8039,16 @@
                     1200000
                 ]
             },
+            "mender_helmet": {
+                "from": [
+                    49000,
+                    52000
+                ],
+                "to": [
+                    70000,
+                    250000
+                ]
+            },
             "metal_chestplate": {
                 "from": [
                     350000,
@@ -12789,7 +12799,7 @@
                 ]
             }
         },
-        "total_mods": 1410
+        "total_mods": 1411
     },
     "395028811399299082": {
         "modification_history": {},
