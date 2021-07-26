@@ -3966,6 +3966,16 @@
                     7
                 ]
             },
+            "hardened_diamond_boots": {
+                "from": [
+                    2500,
+                    5000
+                ],
+                "to": [
+                    15000,
+                    16000
+                ]
+            },
             "hardened_wood": {
                 "from": [
                     148000,
@@ -10258,7 +10268,7 @@
                 ]
             }
         },
-        "total_mods": 1132
+        "total_mods": 1133
     },
     "395028811399299082": {
         "modification_history": {},
