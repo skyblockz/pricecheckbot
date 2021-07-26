@@ -576,6 +576,16 @@
                     35000
                 ]
             },
+            "armor_of_magma_helmet": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    168000,
+                    175000
+                ]
+            },
             "armour_of_yog_boots": {
                 "from": null,
                 "to": [
@@ -10627,7 +10637,7 @@
                 ]
             }
         },
-        "total_mods": 1171
+        "total_mods": 1172
     },
     "395028811399299082": {
         "modification_history": {},
