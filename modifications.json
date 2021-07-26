@@ -12196,6 +12196,13 @@
                     3900000
                 ]
             },
+            "soulflow_supercell": {
+                "from": null,
+                "to": [
+                    80000000,
+                    95000000
+                ]
+            },
             "souls_rebound": {
                 "from": [
                     2900000,
@@ -14317,7 +14324,7 @@
                 ]
             }
         },
-        "total_mods": 1585
+        "total_mods": 1586
     },
     "395028811399299082": {
         "modification_history": {},
