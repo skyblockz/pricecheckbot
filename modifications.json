@@ -2232,6 +2232,16 @@
                     3500000
                 ]
             },
+            "dungeon_orb": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "dungeon_sack": {
                 "from": null,
                 "to": [
@@ -14418,7 +14428,7 @@
                 ]
             }
         },
-        "total_mods": 1598
+        "total_mods": 1599
     },
     "395028811399299082": {
         "modification_history": {},
