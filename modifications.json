@@ -782,6 +782,16 @@
                     142000000
                 ]
             },
+            "auto_recombobulator": {
+                "from": [
+                    10500000,
+                    11000000
+                ],
+                "to": [
+                    10900000,
+                    11000000
+                ]
+            },
             "autopet_rules_2-pack": {
                 "from": [
                     6400000,
@@ -14398,7 +14408,7 @@
                 ]
             }
         },
-        "total_mods": 1596
+        "total_mods": 1597
     },
     "395028811399299082": {
         "modification_history": {},
