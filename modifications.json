@@ -3976,6 +3976,16 @@
                     16000
                 ]
             },
+            "hardened_diamond_chestplate": {
+                "from": [
+                    15000,
+                    16000
+                ],
+                "to": [
+                    19000,
+                    20000
+                ]
+            },
             "hardened_wood": {
                 "from": [
                     148000,
@@ -10268,7 +10278,7 @@
                 ]
             }
         },
-        "total_mods": 1133
+        "total_mods": 1134
     },
     "395028811399299082": {
         "modification_history": {},
