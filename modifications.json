@@ -4771,6 +4771,16 @@
                     100000
                 ]
             },
+            "fire_protection_vii": {
+                "from": [
+                    4000000,
+                    4500000
+                ],
+                "to": [
+                    2000000,
+                    3800000
+                ]
+            },
             "fire_talisman": {
                 "from": [
                     25000,
@@ -14862,7 +14872,7 @@
                 ]
             }
         },
-        "total_mods": 1647
+        "total_mods": 1648
     },
     "395028811399299082": {
         "modification_history": {},
