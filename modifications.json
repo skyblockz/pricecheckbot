@@ -1662,12 +1662,12 @@
             },
             "common_beastmaster_crest": {
                 "from": [
-                    460000,
-                    475000
-                ],
-                "to": [
                     210000,
                     235000
+                ],
+                "to": [
+                    250000,
+                    300000
                 ]
             },
             "common_combat_exp_boost": {
@@ -14177,7 +14177,7 @@
                 ]
             }
         },
-        "total_mods": 1563
+        "total_mods": 1564
     },
     "395028811399299082": {
         "modification_history": {},
