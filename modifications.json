@@ -14769,6 +14769,16 @@
                     50000
                 ]
             },
+            "triple_strike_iv": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    2500,
+                    5000
+                ]
+            },
             "true_essence": {
                 "from": [
                     40000,
@@ -15606,7 +15616,7 @@
                 ]
             }
         },
-        "total_mods": 1735
+        "total_mods": 1736
     },
     "395028811399299082": {
         "modification_history": {},
