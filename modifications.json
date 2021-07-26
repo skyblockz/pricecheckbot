@@ -14799,6 +14799,16 @@
                     30000
                 ]
             },
+            "true_protection_i": {
+                "from": [
+                    900000,
+                    900000
+                ],
+                "to": [
+                    980000,
+                    1000000
+                ]
+            },
             "tuning_fork": {
                 "from": null,
                 "to": [
@@ -15626,7 +15636,7 @@
                 ]
             }
         },
-        "total_mods": 1737
+        "total_mods": 1738
     },
     "395028811399299082": {
         "modification_history": {},
