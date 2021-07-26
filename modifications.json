@@ -8566,6 +8566,16 @@
                     420
                 ]
             },
+            "obsidian_chestplate": {
+                "from": [
+                    10000,
+                    20000
+                ],
+                "to": [
+                    7000,
+                    9000
+                ]
+            },
             "oil_barrel": {
                 "from": [
                     7000,
@@ -12949,7 +12959,7 @@
                 ]
             }
         },
-        "total_mods": 1428
+        "total_mods": 1429
     },
     "395028811399299082": {
         "modification_history": {},
