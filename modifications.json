@@ -8445,6 +8445,16 @@
                     10000
                 ]
             },
+            "rotten_boots": {
+                "from": [
+                    5000,
+                    5250
+                ],
+                "to": [
+                    5057,
+                    5057
+                ]
+            },
             "rotten_chestplate": {
                 "from": [
                     5000,
@@ -10589,7 +10599,7 @@
                 ]
             }
         },
-        "total_mods": 1166
+        "total_mods": 1167
     },
     "395028811399299082": {
         "modification_history": {},
