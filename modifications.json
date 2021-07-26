@@ -1411,10 +1411,13 @@
                 ]
             },
             "chestplate_of_divan": {
-                "from": null,
-                "to": [
+                "from": [
                     48700000,
                     120000000
+                ],
+                "to": [
+                    43000000,
+                    60000000
                 ]
             },
             "chestplate_of_growth": {
@@ -12706,7 +12709,7 @@
                 ]
             }
         },
-        "total_mods": 1397
+        "total_mods": 1398
     },
     "395028811399299082": {
         "modification_history": {},
