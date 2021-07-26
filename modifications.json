@@ -1253,6 +1253,16 @@
                     100
                 ]
             },
+            "broken_piggy_bank": {
+                "from": [
+                    50000,
+                    80000
+                ],
+                "to": [
+                    50000,
+                    55000
+                ]
+            },
             "brown_mushroom": {
                 "from": [
                     7,
@@ -13707,7 +13717,7 @@
                 ]
             }
         },
-        "total_mods": 1509
+        "total_mods": 1510
     },
     "395028811399299082": {
         "modification_history": {},
