@@ -8965,6 +8965,16 @@
                     2500
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    115000,
+                    125000
+                ]
+            },
             "pufferfish": {
                 "from": [
                     16,
@@ -12393,7 +12403,7 @@
                 ]
             }
         },
-        "total_mods": 1365
+        "total_mods": 1366
     },
     "395028811399299082": {
         "modification_history": {},
