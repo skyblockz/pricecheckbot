@@ -8880,6 +8880,16 @@
                     900000
                 ]
             },
+            "perfect_boots_tier_ii": {
+                "from": [
+                    750000,
+                    750000
+                ],
+                "to": [
+                    1700000,
+                    1800000
+                ]
+            },
             "perfect_chestplate_tier_i": {
                 "from": [
                     819000,
@@ -13506,7 +13516,7 @@
                 ]
             }
         },
-        "total_mods": 1486
+        "total_mods": 1487
     },
     "395028811399299082": {
         "modification_history": {},
