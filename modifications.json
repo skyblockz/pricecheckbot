@@ -9753,6 +9753,16 @@
                     55
                 ]
             },
+            "spooky_chestplate": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    240000
+                ]
+            },
             "spooky_cupcake": {
                 "from": [
                     140000,
@@ -11067,7 +11077,7 @@
                 ]
             }
         },
-        "total_mods": 1223
+        "total_mods": 1224
     },
     "395028811399299082": {
         "modification_history": {},
