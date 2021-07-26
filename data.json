@@ -9373,12 +9373,6 @@
     },
     {
         "ac": true,
-        "hi": 2300000,
-        "low": 2000000,
-        "name": "turbo-carrot_5"
-    },
-    {
-        "ac": true,
         "hi": 1300000,
         "low": 1000000,
         "name": "x-large_storage"
@@ -13984,5 +13978,11 @@
         "hi": 65000,
         "low": 50000,
         "name": "turbo-carrot_i"
+    },
+    {
+        "ac": true,
+        "hi": 2300000,
+        "low": 2000000,
+        "name": "turbo-carrot_v"
     }
 ]
