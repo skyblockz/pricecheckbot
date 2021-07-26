@@ -7250,6 +7250,13 @@
                     100000
                 ]
             },
+            "life_steal_iii": {
+                "from": null,
+                "to": [
+                    25000,
+                    45000
+                ]
+            },
             "light_bait": {
                 "from": [
                     78,
@@ -15040,7 +15047,7 @@
                 ]
             }
         },
-        "total_mods": 1670
+        "total_mods": 1671
     },
     "395028811399299082": {
         "modification_history": {},
