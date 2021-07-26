@@ -3986,6 +3986,16 @@
                     20000
                 ]
             },
+            "hardened_diamond_helmet": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "hardened_diamond_leggings": {
                 "from": [
                     5000,
@@ -10288,7 +10298,7 @@
                 ]
             }
         },
-        "total_mods": 1135
+        "total_mods": 1136
     },
     "395028811399299082": {
         "modification_history": {},
