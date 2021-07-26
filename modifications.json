@@ -9761,6 +9761,16 @@
                     4000000
                 ]
             },
+            "potion_affinity_talisman": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    550,
+                    600
+                ]
+            },
             "power_crystal": {
                 "from": [
                     140000,
@@ -13717,7 +13727,7 @@
                 ]
             }
         },
-        "total_mods": 1510
+        "total_mods": 1511
     },
     "395028811399299082": {
         "modification_history": {},
