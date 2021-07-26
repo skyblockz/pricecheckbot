@@ -8739,6 +8739,16 @@
                     100000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    1050000,
+                    1100000
+                ],
+                "to": [
+                    640000,
+                    650000
+                ]
+            },
             "night_saver": {
                 "from": null,
                 "to": [
@@ -13767,7 +13777,7 @@
                 ]
             }
         },
-        "total_mods": 1517
+        "total_mods": 1518
     },
     "395028811399299082": {
         "modification_history": {},
