@@ -11292,6 +11292,16 @@
                     8000
                 ]
             },
+            "zombie_soldier_boots": {
+                "from": [
+                    40000,
+                    45000
+                ],
+                "to": [
+                    87000,
+                    95000
+                ]
+            },
             "zombie_soldier_chestplate": {
                 "from": [
                     28000,
@@ -11323,7 +11333,7 @@
                 ]
             }
         },
-        "total_mods": 1251
+        "total_mods": 1252
     },
     "395028811399299082": {
         "modification_history": {},
