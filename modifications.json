@@ -14062,6 +14062,16 @@
                     13500000
                 ]
             },
+            "potato_talisman": {
+                "from": [
+                    4000000,
+                    4500000
+                ],
+                "to": [
+                    8700000,
+                    10000000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     250000,
@@ -14083,7 +14093,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "748574639776727134": {
         "modification_history": {},
