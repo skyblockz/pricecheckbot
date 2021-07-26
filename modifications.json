@@ -4246,6 +4246,13 @@
                     76000
                 ]
             },
+            "heat_boots": {
+                "from": null,
+                "to": [
+                    12000,
+                    19000
+                ]
+            },
             "heat_chestplate": {
                 "from": null,
                 "to": [
@@ -10620,7 +10627,7 @@
                 ]
             }
         },
-        "total_mods": 1170
+        "total_mods": 1171
     },
     "395028811399299082": {
         "modification_history": {},
