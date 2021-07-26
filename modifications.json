@@ -9292,6 +9292,16 @@
                     2100
                 ]
             },
+            "skeleton_grunt_helmet": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    6000,
+                    8000
+                ]
+            },
             "skeleton_lord_boots": {
                 "from": [
                     400000,
@@ -11197,7 +11207,7 @@
                 ]
             }
         },
-        "total_mods": 1236
+        "total_mods": 1237
     },
     "395028811399299082": {
         "modification_history": {},
