@@ -5271,6 +5271,16 @@
                     350000
                 ]
             },
+            "healing_talisman": {
+                "from": [
+                    70000,
+                    85000
+                ],
+                "to": [
+                    7900,
+                    8000
+                ]
+            },
             "healing_tissue": {
                 "from": [
                     49000,
@@ -13807,7 +13817,7 @@
                 ]
             }
         },
-        "total_mods": 1522
+        "total_mods": 1523
     },
     "395028811399299082": {
         "modification_history": {},
