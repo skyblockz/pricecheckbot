@@ -8659,12 +8659,6 @@
     },
     {
         "ac": true,
-        "hi": 150000,
-        "low": 150000,
-        "name": "turbo-pumpkin_1"
-    },
-    {
-        "ac": true,
         "hi": 3000000,
         "low": 1350000,
         "name": "turbo-wheat_5"
@@ -13978,5 +13972,11 @@
         "hi": 30000000,
         "low": 27000000,
         "name": "vicious_v"
+    },
+    {
+        "ac": true,
+        "hi": 150000,
+        "low": 150000,
+        "name": "turbo-pumpkin_i"
     }
 ]
