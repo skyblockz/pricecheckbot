@@ -11017,6 +11017,16 @@
                     4300000
                 ]
             },
+            "sea_creature_ring": {
+                "from": [
+                    44000,
+                    44000
+                ],
+                "to": [
+                    7000,
+                    8000
+                ]
+            },
             "sea_creature_talisman": {
                 "from": [
                     7500,
@@ -13847,7 +13857,7 @@
                 ]
             }
         },
-        "total_mods": 1526
+        "total_mods": 1527
     },
     "395028811399299082": {
         "modification_history": {},
