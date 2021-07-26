@@ -9987,6 +9987,16 @@
                     100
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    930000,
+                    980000
+                ],
+                "to": [
+                    950000,
+                    1150000
+                ]
+            },
             "shimmer_skin_holy": {
                 "from": null,
                 "to": [
@@ -12253,7 +12263,7 @@
                 ]
             }
         },
-        "total_mods": 1351
+        "total_mods": 1352
     },
     "395028811399299082": {
         "modification_history": {},
