@@ -14354,6 +14354,16 @@
                     10000
                 ]
             },
+            "titan_killer_vi": {
+                "from": [
+                    2200000,
+                    2500000
+                ],
+                "to": [
+                    14000,
+                    20000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     292000,
@@ -15586,7 +15596,7 @@
                 ]
             }
         },
-        "total_mods": 1733
+        "total_mods": 1734
     },
     "395028811399299082": {
         "modification_history": {},
