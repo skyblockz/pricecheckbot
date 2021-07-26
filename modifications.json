@@ -5065,10 +5065,13 @@
                 ]
             },
             "helmet_of_divan": {
-                "from": null,
-                "to": [
+                "from": [
                     56500000,
                     85000000
+                ],
+                "to": [
+                    90000000,
+                    200000000
                 ]
             },
             "helmet_of_growth": {
@@ -12703,7 +12706,7 @@
                 ]
             }
         },
-        "total_mods": 1396
+        "total_mods": 1397
     },
     "395028811399299082": {
         "modification_history": {},
