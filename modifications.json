@@ -9486,6 +9486,16 @@
                     25000
                 ]
             },
+            "snow_suit_leggings": {
+                "from": [
+                    20000,
+                    45000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "snowball": {
                 "from": [
                     1,
@@ -11147,7 +11157,7 @@
                 ]
             }
         },
-        "total_mods": 1231
+        "total_mods": 1232
     },
     "395028811399299082": {
         "modification_history": {},
