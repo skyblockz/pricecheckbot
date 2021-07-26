@@ -5067,6 +5067,13 @@
                     3000
                 ]
             },
+            "frail_v": {
+                "from": null,
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "french_bread": {
                 "from": [
                     2600000,
@@ -14903,7 +14910,7 @@
                 ]
             }
         },
-        "total_mods": 1652
+        "total_mods": 1653
     },
     "395028811399299082": {
         "modification_history": {},
