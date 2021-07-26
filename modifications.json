@@ -5271,6 +5271,16 @@
                     350000
                 ]
             },
+            "healing_ring": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    39000,
+                    41000
+                ]
+            },
             "healing_talisman": {
                 "from": [
                     70000,
@@ -13817,7 +13827,7 @@
                 ]
             }
         },
-        "total_mods": 1523
+        "total_mods": 1524
     },
     "395028811399299082": {
         "modification_history": {},
