@@ -8549,6 +8549,16 @@
                     13000
                 ]
             },
+            "revenant_boots": {
+                "from": [
+                    100000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     8000,
@@ -10857,7 +10867,7 @@
                 ]
             }
         },
-        "total_mods": 1202
+        "total_mods": 1203
     },
     "395028811399299082": {
         "modification_history": {},
