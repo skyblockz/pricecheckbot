@@ -11108,12 +11108,12 @@
             },
             "projectile_protection_vii": {
                 "from": [
-                    5200000,
-                    5500000
-                ],
-                "to": [
                     6000000,
                     6500000
+                ],
+                "to": [
+                    4000000,
+                    5000000
                 ]
             },
             "prosecute_v": {
@@ -15282,7 +15282,7 @@
                 ]
             }
         },
-        "total_mods": 1696
+        "total_mods": 1697
     },
     "395028811399299082": {
         "modification_history": {},
