@@ -1137,10 +1137,13 @@
                 ]
             },
             "boots_of_divan": {
-                "from": null,
-                "to": [
+                "from": [
                     58000000,
                     90000000
+                ],
+                "to": [
+                    52000000,
+                    70000000
                 ]
             },
             "boots_of_growth": {
@@ -12712,7 +12715,7 @@
                 ]
             }
         },
-        "total_mods": 1399
+        "total_mods": 1400
     },
     "395028811399299082": {
         "modification_history": {},
