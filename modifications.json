@@ -8445,6 +8445,16 @@
                     10000
                 ]
             },
+            "rotten_chestplate": {
+                "from": [
+                    5000,
+                    5250
+                ],
+                "to": [
+                    5037,
+                    5037
+                ]
+            },
             "rotten_flesh": {
                 "from": [
                     3,
@@ -10569,7 +10579,7 @@
                 ]
             }
         },
-        "total_mods": 1164
+        "total_mods": 1165
     },
     "395028811399299082": {
         "modification_history": {},
