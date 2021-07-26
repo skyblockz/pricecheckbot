@@ -5371,6 +5371,16 @@
                     5000000
                 ]
             },
+            "legendary_zombie_knight_boots": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "legendary_zombie_knight_chestplate": {
                 "from": [
                     960000,
@@ -11403,7 +11413,7 @@
                 ]
             }
         },
-        "total_mods": 1259
+        "total_mods": 1260
     },
     "395028811399299082": {
         "modification_history": {},
