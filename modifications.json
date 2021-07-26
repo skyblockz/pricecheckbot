@@ -3141,6 +3141,16 @@
                     25000
                 ]
             },
+            "farm_armor_leggings": {
+                "from": [
+                    70000,
+                    85000
+                ],
+                "to": [
+                    34000,
+                    35000
+                ]
+            },
             "farm_crystal": {
                 "from": [
                     50000,
@@ -10358,7 +10368,7 @@
                 ]
             }
         },
-        "total_mods": 1142
+        "total_mods": 1143
     },
     "395028811399299082": {
         "modification_history": {},
