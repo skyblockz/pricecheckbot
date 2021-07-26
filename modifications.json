@@ -7733,6 +7733,16 @@
                     350000
                 ]
             },
+            "maxors_helmet": {
+                "from": [
+                    2800000,
+                    3800000
+                ],
+                "to": [
+                    3500000,
+                    4200000
+                ]
+            },
             "medium_agronomy_sack": {
                 "from": [
                     35000,
@@ -12093,7 +12103,7 @@
                 ]
             }
         },
-        "total_mods": 1335
+        "total_mods": 1336
     },
     "395028811399299082": {
         "modification_history": {},
