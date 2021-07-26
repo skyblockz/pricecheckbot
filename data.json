@@ -8311,12 +8311,6 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 26500000,
-        "name": "vicious_5"
-    },
-    {
-        "ac": true,
         "hi": 575000,
         "low": 490000,
         "name": "swarm_i"
@@ -13978,5 +13972,11 @@
         "hi": 13000000,
         "low": 12000000,
         "name": "vicious_iii"
+    },
+    {
+        "ac": true,
+        "hi": 30000000,
+        "low": 26500000,
+        "name": "vicious_v"
     }
 ]
