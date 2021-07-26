@@ -425,6 +425,16 @@
                     700000
                 ]
             },
+            "adaptive_helmet": {
+                "from": [
+                    1750000,
+                    1850000
+                ],
+                "to": [
+                    1800000,
+                    1950000
+                ]
+            },
             "all_skills_exp_boost": {
                 "from": [
                     100000,
@@ -11581,7 +11591,7 @@
                 ]
             }
         },
-        "total_mods": 1281
+        "total_mods": 1282
     },
     "395028811399299082": {
         "modification_history": {},
