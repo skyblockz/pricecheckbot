@@ -3895,12 +3895,6 @@
     },
     {
         "ac": true,
-        "hi": 690000,
-        "low": 590000,
-        "name": "cheap_tuxedo"
-    },
-    {
-        "ac": true,
         "hi": 16000000,
         "low": 16000000,
         "name": "dragon_hunter_v"
@@ -13576,5 +13570,11 @@
         "hi": 19000,
         "low": 12000,
         "name": "heat_boots"
+    },
+    {
+        "ac": true,
+        "hi": 690000,
+        "low": 590000,
+        "name": "cheap_tuxedo_oxfords"
     }
 ]
