@@ -7003,12 +7003,6 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 850000,
-        "name": "legendary_zombie_kinght_helmet"
-    },
-    {
-        "ac": true,
         "hi": 5,
         "low": 1,
         "name": "training_weights"
@@ -13618,5 +13612,11 @@
         "hi": 80000,
         "low": 30000,
         "name": "skeleton_master_boots"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 850000,
+        "name": "legendary_zombie_knight_helmet"
     }
 ]
