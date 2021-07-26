@@ -566,6 +566,16 @@
                     1300
                 ]
             },
+            "flower_minion_i": {
+                "from": [
+                    6500000,
+                    8000000
+                ],
+                "to": [
+                    9000000,
+                    11000000
+                ]
+            },
             "ghast_minion_i": {
                 "from": null,
                 "to": [
@@ -820,7 +830,7 @@
                 ]
             }
         },
-        "total_mods": 1836
+        "total_mods": 1837
     },
     "395028811399299082": {
         "modification_history": {},
