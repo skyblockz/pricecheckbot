@@ -8489,6 +8489,16 @@
                     620000
                 ]
             },
+            "mineral_talisman": {
+                "from": [
+                    1000000,
+                    1300000
+                ],
+                "to": [
+                    900000,
+                    920000
+                ]
+            },
             "mining_pumpkin": {
                 "from": [
                     120000,
@@ -14007,7 +14017,7 @@
                 ]
             }
         },
-        "total_mods": 1543
+        "total_mods": 1544
     },
     "395028811399299082": {
         "modification_history": {},
