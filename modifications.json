@@ -8955,6 +8955,16 @@
                     6500000
                 ]
             },
+            "protector_dragon_chestplate": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    135000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     3000,
@@ -12403,7 +12413,7 @@
                 ]
             }
         },
-        "total_mods": 1366
+        "total_mods": 1367
     },
     "395028811399299082": {
         "modification_history": {},
