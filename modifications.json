@@ -3121,6 +3121,16 @@
                     80
                 ]
             },
+            "farm_armor_helmet": {
+                "from": [
+                    50000,
+                    65000
+                ],
+                "to": [
+                    24000,
+                    25000
+                ]
+            },
             "farm_crystal": {
                 "from": [
                     50000,
@@ -10338,7 +10348,7 @@
                 ]
             }
         },
-        "total_mods": 1140
+        "total_mods": 1141
     },
     "395028811399299082": {
         "modification_history": {},
