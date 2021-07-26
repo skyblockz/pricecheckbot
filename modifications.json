@@ -5794,6 +5794,16 @@
                     2000000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    950000,
+                    1500000
+                ],
+                "to": [
+                    870000,
+                    880000
+                ]
+            },
             "iron_claws": {
                 "from": [
                     800000,
@@ -14087,7 +14097,7 @@
                 ]
             }
         },
-        "total_mods": 1554
+        "total_mods": 1555
     },
     "395028811399299082": {
         "modification_history": {},
