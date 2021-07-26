@@ -2585,6 +2585,16 @@
                     400000
                 ]
             },
+            "efficiency_v": {
+                "from": [
+                    250,
+                    250
+                ],
+                "to": [
+                    30000,
+                    32000
+                ]
+            },
             "egg_the_fish": {
                 "from": null,
                 "to": [
@@ -14731,7 +14741,7 @@
                 ]
             }
         },
-        "total_mods": 1633
+        "total_mods": 1634
     },
     "395028811399299082": {
         "modification_history": {},
