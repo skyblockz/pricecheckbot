@@ -4256,6 +4256,13 @@
                     930000
                 ]
             },
+            "heat_helmet": {
+                "from": null,
+                "to": [
+                    12000,
+                    15000
+                ]
+            },
             "heavy_boots": {
                 "from": null,
                 "to": [
@@ -10599,7 +10606,7 @@
                 ]
             }
         },
-        "total_mods": 1167
+        "total_mods": 1168
     },
     "395028811399299082": {
         "modification_history": {},
