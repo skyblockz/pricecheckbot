@@ -3838,10 +3838,13 @@
                 ]
             },
             "flamebreaker_boots": {
-                "from": null,
-                "to": [
+                "from": [
                     390000,
                     1300000
+                ],
+                "to": [
+                    450000,
+                    460000
                 ]
             },
             "flamebreaker_chestplate": {
@@ -11870,7 +11873,7 @@
                 ]
             }
         },
-        "total_mods": 1312
+        "total_mods": 1313
     },
     "395028811399299082": {
         "modification_history": {},
