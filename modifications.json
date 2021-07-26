@@ -3865,10 +3865,13 @@
                 ]
             },
             "flamebreaker_leggings": {
-                "from": null,
-                "to": [
+                "from": [
                     750000,
                     880000
+                ],
+                "to": [
+                    700000,
+                    720000
                 ]
             },
             "flawed_amber_gemstone": {
@@ -11867,7 +11870,7 @@
                 ]
             }
         },
-        "total_mods": 1311
+        "total_mods": 1312
     },
     "395028811399299082": {
         "modification_history": {},
