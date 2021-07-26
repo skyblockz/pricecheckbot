@@ -863,6 +863,16 @@
                     2000
                 ]
             },
+            "bane_of_arthropods_vi": {
+                "from": [
+                    3000,
+                    10000
+                ],
+                "to": [
+                    6000,
+                    9000
+                ]
+            },
             "barry_century_cake": {
                 "from": [
                     2350000,
@@ -14496,7 +14506,7 @@
                 ]
             }
         },
-        "total_mods": 1607
+        "total_mods": 1608
     },
     "395028811399299082": {
         "modification_history": {},
