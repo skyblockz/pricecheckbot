@@ -9366,6 +9366,13 @@
                     50000
                 ]
             },
+            "skeleton_master_boots": {
+                "from": null,
+                "to": [
+                    30000,
+                    80000
+                ]
+            },
             "skeleton_master_chestplate": {
                 "from": [
                     34000,
@@ -11293,7 +11300,7 @@
                 ]
             }
         },
-        "total_mods": 1247
+        "total_mods": 1248
     },
     "395028811399299082": {
         "modification_history": {},
