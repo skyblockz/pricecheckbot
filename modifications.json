@@ -4246,6 +4246,13 @@
                     76000
                 ]
             },
+            "heat_chestplate": {
+                "from": null,
+                "to": [
+                    11000,
+                    12000
+                ]
+            },
             "heat_core": {
                 "from": [
                     900000,
@@ -10606,7 +10613,7 @@
                 ]
             }
         },
-        "total_mods": 1168
+        "total_mods": 1169
     },
     "395028811399299082": {
         "modification_history": {},
