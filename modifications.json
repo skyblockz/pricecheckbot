@@ -11882,6 +11882,13 @@
                     1140000
                 ]
             },
+            "respiration_iii": {
+                "from": null,
+                "to": [
+                    340000,
+                    400000
+                ]
+            },
             "revenant_boots": {
                 "from": [
                     100000,
@@ -15353,7 +15360,7 @@
                 ]
             }
         },
-        "total_mods": 1705
+        "total_mods": 1706
     },
     "395028811399299082": {
         "modification_history": {},
