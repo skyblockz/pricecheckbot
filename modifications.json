@@ -9292,6 +9292,16 @@
                     2100
                 ]
             },
+            "skeleton_grunt_boots": {
+                "from": [
+                    19000,
+                    22000
+                ],
+                "to": [
+                    6000,
+                    10000
+                ]
+            },
             "skeleton_grunt_chestplate": {
                 "from": [
                     20000,
@@ -11227,7 +11237,7 @@
                 ]
             }
         },
-        "total_mods": 1239
+        "total_mods": 1240
     },
     "395028811399299082": {
         "modification_history": {},
