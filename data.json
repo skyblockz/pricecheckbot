@@ -13888,5 +13888,11 @@
         "hi": 1000,
         "low": 1000,
         "name": "magnet_v"
+    },
+    {
+        "ac": true,
+        "hi": 20000,
+        "low": 15000,
+        "name": "projectile_protection_v"
     }
 ]
