@@ -8641,12 +8641,6 @@
     },
     {
         "ac": true,
-        "hi": 45000,
-        "low": 40000,
-        "name": "turbo-coco_1"
-    },
-    {
-        "ac": true,
         "hi": 2100000,
         "low": 2000000,
         "name": "turbo-coco_5"
@@ -13984,5 +13978,11 @@
         "hi": 900000,
         "low": 700000,
         "name": "turbo-cacti_v"
+    },
+    {
+        "ac": true,
+        "hi": 45000,
+        "low": 40000,
+        "name": "turbo-coco_i"
     }
 ]
