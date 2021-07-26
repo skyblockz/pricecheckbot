@@ -9493,6 +9493,16 @@
                     300
                 ]
             },
+            "speedster_helmet": {
+                "from": [
+                    260000,
+                    310000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "spicy_goblin_omelette": {
                 "from": [
                     50000000,
@@ -10907,7 +10917,7 @@
                 ]
             }
         },
-        "total_mods": 1207
+        "total_mods": 1208
     },
     "395028811399299082": {
         "modification_history": {},
