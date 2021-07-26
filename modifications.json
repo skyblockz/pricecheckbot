@@ -1130,6 +1130,13 @@
                     2000
                 ]
             },
+            "blast_protection_v": {
+                "from": null,
+                "to": [
+                    3000,
+                    3000
+                ]
+            },
             "blast_protection_vii": {
                 "from": [
                     4200000,
@@ -14526,7 +14533,7 @@
                 ]
             }
         },
-        "total_mods": 1610
+        "total_mods": 1611
     },
     "395028811399299082": {
         "modification_history": {},
