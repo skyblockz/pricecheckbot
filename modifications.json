@@ -445,6 +445,16 @@
                     1950000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    500000,
+                    650000
+                ]
+            },
             "all_skills_exp_boost": {
                 "from": [
                     100000,
@@ -11601,7 +11611,7 @@
                 ]
             }
         },
-        "total_mods": 1283
+        "total_mods": 1284
     },
     "395028811399299082": {
         "modification_history": {},
