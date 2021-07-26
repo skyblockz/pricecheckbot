@@ -3792,12 +3792,12 @@
             },
             "experience_artifact": {
                 "from": [
-                    450000,
-                    500000
-                ],
-                "to": [
                     500000,
                     550000
+                ],
+                "to": [
+                    490000,
+                    500000
                 ]
             },
             "experience_bottle": {
@@ -13747,7 +13747,7 @@
                 ]
             }
         },
-        "total_mods": 1514
+        "total_mods": 1515
     },
     "395028811399299082": {
         "modification_history": {},
