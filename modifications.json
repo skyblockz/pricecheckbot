@@ -10821,10 +10821,13 @@
                 ]
             },
             "pristine_v": {
-                "from": null,
-                "to": [
+                "from": [
                     150000000,
                     200000000
+                ],
+                "to": [
+                    84000000,
+                    85000000
                 ]
             },
             "projectile_protection_vii": {
@@ -14983,7 +14986,7 @@
                 ]
             }
         },
-        "total_mods": 1663
+        "total_mods": 1664
     },
     "395028811399299082": {
         "modification_history": {},
