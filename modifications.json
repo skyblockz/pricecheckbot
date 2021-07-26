@@ -4190,6 +4190,16 @@
                     111000
                 ]
             },
+            "fire_talisman": {
+                "from": [
+                    25000,
+                    35000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "first_master_star": {
                 "from": [
                     16000000,
@@ -13787,7 +13797,7 @@
                 ]
             }
         },
-        "total_mods": 1519
+        "total_mods": 1520
     },
     "395028811399299082": {
         "modification_history": {},
