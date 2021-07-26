@@ -3847,6 +3847,16 @@
                     89000000
                 ]
             },
+            "ender_slayer_v": {
+                "from": [
+                    20000,
+                    45000
+                ],
+                "to": [
+                    60000,
+                    75000
+                ]
+            },
             "enderman_cortex_rewriter": {
                 "from": [
                     100000,
@@ -14741,7 +14751,7 @@
                 ]
             }
         },
-        "total_mods": 1634
+        "total_mods": 1635
     },
     "395028811399299082": {
         "modification_history": {},
