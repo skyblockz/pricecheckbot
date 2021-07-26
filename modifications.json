@@ -6058,10 +6058,13 @@
                 ]
             },
             "leggings_of_divan": {
-                "from": null,
-                "to": [
+                "from": [
                     55000000,
                     150000000
+                ],
+                "to": [
+                    45000000,
+                    84000000
                 ]
             },
             "leggings_of_growth": {
@@ -12709,7 +12712,7 @@
                 ]
             }
         },
-        "total_mods": 1398
+        "total_mods": 1399
     },
     "395028811399299082": {
         "modification_history": {},
