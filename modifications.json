@@ -1823,6 +1823,16 @@
                     400000
                 ]
             },
+            "ember_chestplate": {
+                "from": [
+                    115000,
+                    215000
+                ],
+                "to": [
+                    70000,
+                    200000
+                ]
+            },
             "ember_fragment": {
                 "from": [
                     3000,
@@ -10697,7 +10707,7 @@
                 ]
             }
         },
-        "total_mods": 1178
+        "total_mods": 1179
     },
     "395028811399299082": {
         "modification_history": {},
