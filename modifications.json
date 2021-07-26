@@ -3314,6 +3314,16 @@
                     65000
                 ]
             },
+            "epic_super_heavy_chestplate": {
+                "from": [
+                    25000,
+                    35000
+                ],
+                "to": [
+                    20000,
+                    28000
+                ]
+            },
             "epic_super_heavy_helmet": {
                 "from": [
                     30000,
@@ -11631,7 +11641,7 @@
                 ]
             }
         },
-        "total_mods": 1286
+        "total_mods": 1287
     },
     "395028811399299082": {
         "modification_history": {},
