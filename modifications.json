@@ -11889,6 +11889,13 @@
                     400000
                 ]
             },
+            "respite_i": {
+                "from": null,
+                "to": [
+                    12000,
+                    19000
+                ]
+            },
             "revenant_boots": {
                 "from": [
                     100000,
@@ -15360,7 +15367,7 @@
                 ]
             }
         },
-        "total_mods": 1706
+        "total_mods": 1707
     },
     "395028811399299082": {
         "modification_history": {},
