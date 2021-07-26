@@ -14510,6 +14510,13 @@
                     90000000
                 ]
             },
+            "tier_i_glowstone_minion": {
+                "from": null,
+                "to": [
+                    2000,
+                    2050
+                ]
+            },
             "tier_i_obsidian_minion": {
                 "from": null,
                 "to": [
@@ -16090,7 +16097,7 @@
                 ]
             }
         },
-        "total_mods": 1789
+        "total_mods": 1790
     },
     "395028811399299082": {
         "modification_history": {},
