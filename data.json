@@ -4621,12 +4621,6 @@
     },
     {
         "ac": true,
-        "hi": 500,
-        "low": 450,
-        "name": "enderman_minon_i"
-    },
-    {
-        "ac": true,
         "hi": 1600000,
         "low": 1400000,
         "name": "enderman_minion_xi"
@@ -14122,5 +14116,11 @@
         "hi": 500,
         "low": 500,
         "name": "cave_spider_minion_i"
+    },
+    {
+        "ac": true,
+        "hi": 500,
+        "low": 450,
+        "name": "enderman_minion_i"
     }
 ]
