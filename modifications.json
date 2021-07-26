@@ -5467,6 +5467,16 @@
                     5000000
                 ]
             },
+            "legendary_skeletor_helmet": {
+                "from": [
+                    1650000,
+                    1700000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "legendary_zombie_commander_boots": {
                 "from": null,
                 "to": [
@@ -11551,7 +11561,7 @@
                 ]
             }
         },
-        "total_mods": 1278
+        "total_mods": 1279
     },
     "395028811399299082": {
         "modification_history": {},
