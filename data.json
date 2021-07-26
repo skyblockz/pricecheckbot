@@ -8647,12 +8647,6 @@
     },
     {
         "ac": true,
-        "hi": 800000,
-        "low": 750000,
-        "name": "turbo-wart_5"
-    },
-    {
-        "ac": true,
         "hi": 3500000,
         "low": 3000000,
         "name": "turbo-mushroom_5"
@@ -13984,5 +13978,11 @@
         "hi": 50000,
         "low": 45000,
         "name": "turbo-wart_i"
+    },
+    {
+        "ac": true,
+        "hi": 800000,
+        "low": 750000,
+        "name": "turbo-wart_v"
     }
 ]
