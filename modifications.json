@@ -11089,6 +11089,13 @@
                     85000000
                 ]
             },
+            "projectile_protection_v": {
+                "from": null,
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "projectile_protection_vi": {
                 "from": [
                     10000,
@@ -15275,7 +15282,7 @@
                 ]
             }
         },
-        "total_mods": 1695
+        "total_mods": 1696
     },
     "395028811399299082": {
         "modification_history": {},
