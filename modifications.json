@@ -7668,6 +7668,16 @@
                     5000
                 ]
             },
+            "mineral_helmet": {
+                "from": [
+                    380000,
+                    430000
+                ],
+                "to": [
+                    300000,
+                    320000
+                ]
+            },
             "mining_pumpkin": {
                 "from": [
                     120000,
@@ -11741,7 +11751,7 @@
                 ]
             }
         },
-        "total_mods": 1297
+        "total_mods": 1298
     },
     "395028811399299082": {
         "modification_history": {},
