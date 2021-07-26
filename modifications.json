@@ -502,6 +502,16 @@
                     1500
                 ]
             },
+            "quartz_minion_i": {
+                "from": [
+                    2000,
+                    2500
+                ],
+                "to": [
+                    2380,
+                    2390
+                ]
+            },
             "redstone_minion_i": {
                 "from": [
                     300,
@@ -523,7 +533,7 @@
                 ]
             }
         },
-        "total_mods": 1800
+        "total_mods": 1801
     },
     "395028811399299082": {
         "modification_history": {},
