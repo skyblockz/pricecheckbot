@@ -14122,6 +14122,16 @@
                     13500000
                 ]
             },
+            "dante_talisman": {
+                "from": [
+                    350000,
+                    430000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "pocket_espresso_machine": {
                 "from": [
                     1800000,
@@ -14163,7 +14173,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "748574639776727134": {
         "modification_history": {},
