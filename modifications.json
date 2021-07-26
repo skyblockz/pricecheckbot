@@ -424,6 +424,16 @@
                     650
                 ]
             },
+            "diamond_minion_i": {
+                "from": [
+                    600,
+                    700
+                ],
+                "to": [
+                    690,
+                    700
+                ]
+            },
             "glowstone_minion_i": {
                 "from": null,
                 "to": [
@@ -483,7 +493,7 @@
                 ]
             }
         },
-        "total_mods": 1796
+        "total_mods": 1797
     },
     "395028811399299082": {
         "modification_history": {},
