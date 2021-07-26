@@ -6736,6 +6736,13 @@
                     420000
                 ]
             },
+            "knockback_ii": {
+                "from": null,
+                "to": [
+                    70000,
+                    74000
+                ]
+            },
             "krampus_helmet": {
                 "from": [
                     80000,
@@ -15013,7 +15020,7 @@
                 ]
             }
         },
-        "total_mods": 1667
+        "total_mods": 1668
     },
     "395028811399299082": {
         "modification_history": {},
