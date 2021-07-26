@@ -8900,6 +8900,16 @@
                     3500000
                 ]
             },
+            "perfect_chestplate_tier_iv": {
+                "from": [
+                    1600000,
+                    2000000
+                ],
+                "to": [
+                    4300000,
+                    4400000
+                ]
+            },
             "perfect_helmet_tier_i": {
                 "from": [
                     460000,
@@ -13286,7 +13296,7 @@
                 ]
             }
         },
-        "total_mods": 1464
+        "total_mods": 1465
     },
     "395028811399299082": {
         "modification_history": {},
