@@ -2042,6 +2042,16 @@
                     1150000
                 ]
             },
+            "strength_enrichment": {
+                "from": [
+                    1500000,
+                    2000000
+                ],
+                "to": [
+                    1800000,
+                    1800000
+                ]
+            },
             "sugar_cane_minion_i": {
                 "from": null,
                 "to": [
@@ -2294,7 +2304,7 @@
                 ]
             }
         },
-        "total_mods": 1985
+        "total_mods": 1986
     },
     "395028811399299082": {
         "modification_history": {},
