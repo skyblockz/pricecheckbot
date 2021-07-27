@@ -2627,6 +2627,16 @@
                     430
                 ]
             },
+            "enchanted_pork": {
+                "from": [
+                    850,
+                    1350
+                ],
+                "to": [
+                    1350,
+                    1850
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4545,7 +4555,7 @@
                 ]
             }
         },
-        "total_mods": 2221
+        "total_mods": 2222
     },
     "395028811399299082": {
         "modification_history": {},
