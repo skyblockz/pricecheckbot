@@ -3796,6 +3796,16 @@
                     14000000
                 ]
             },
+            "glowstone": {
+                "from": [
+                    9,
+                    12
+                ],
+                "to": [
+                    14,
+                    17
+                ]
+            },
             "glowstone_minion_i": {
                 "from": [
                     2000,
@@ -5779,7 +5789,7 @@
                 ]
             }
         },
-        "total_mods": 2349
+        "total_mods": 2350
     },
     "395028811399299082": {
         "modification_history": {},
