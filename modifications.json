@@ -4905,6 +4905,16 @@
                     300000000
                 ]
             },
+            "lava_talisman": {
+                "from": [
+                    12000,
+                    13000
+                ],
+                "to": [
+                    12000,
+                    12100
+                ]
+            },
             "legendary_beastmaster_crest": {
                 "from": [
                     21750000,
@@ -6536,7 +6546,7 @@
                 ]
             }
         },
-        "total_mods": 2430
+        "total_mods": 2431
     },
     "395028811399299082": {
         "modification_history": {},
