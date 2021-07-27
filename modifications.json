@@ -2767,6 +2767,16 @@
                     3400
                 ]
             },
+            "enchanted_red_mushroom_block": {
+                "from": [
+                    24500,
+                    32000
+                ],
+                "to": [
+                    25000,
+                    80000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4685,7 +4695,7 @@
                 ]
             }
         },
-        "total_mods": 2236
+        "total_mods": 2237
     },
     "395028811399299082": {
         "modification_history": {},
