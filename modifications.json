@@ -1305,6 +1305,16 @@
                     1150000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    250,
+                    300
+                ]
+            },
             "lapis_minion_i": {
                 "from": [
                     500,
@@ -2371,7 +2381,7 @@
                 ]
             }
         },
-        "total_mods": 1993
+        "total_mods": 1994
     },
     "395028811399299082": {
         "modification_history": {},
