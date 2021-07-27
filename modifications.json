@@ -564,6 +564,16 @@
                     5200000
                 ]
             },
+            "blue_egged_skin": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    4000000,
+                    6000000
+                ]
+            },
             "blue_elephant_skin": {
                 "from": [
                     75000000,
@@ -1927,7 +1937,7 @@
                 ]
             }
         },
-        "total_mods": 1948
+        "total_mods": 1949
     },
     "395028811399299082": {
         "modification_history": {},
