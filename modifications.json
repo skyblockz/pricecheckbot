@@ -4207,6 +4207,16 @@
                     30000
                 ]
             },
+            "hard_stone": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    5,
+                    6
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6076,7 +6086,7 @@
                 ]
             }
         },
-        "total_mods": 2381
+        "total_mods": 2382
     },
     "395028811399299082": {
         "modification_history": {},
