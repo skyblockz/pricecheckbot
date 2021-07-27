@@ -544,6 +544,16 @@
                     700000
                 ]
             },
+            "battle_disc": {
+                "from": [
+                    5000,
+                    8000
+                ],
+                "to": [
+                    4000,
+                    6000
+                ]
+            },
             "birch_minion_i": {
                 "from": [
                     450,
@@ -2395,7 +2405,7 @@
                 ]
             }
         },
-        "total_mods": 1996
+        "total_mods": 1997
     },
     "395028811399299082": {
         "modification_history": {},
