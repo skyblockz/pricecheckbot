@@ -1325,6 +1325,16 @@
                     350000000
                 ]
             },
+            "magic_find_enrichment": {
+                "from": [
+                    1770000,
+                    1800000
+                ],
+                "to": [
+                    1650000,
+                    1750000
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -2324,7 +2334,7 @@
                 ]
             }
         },
-        "total_mods": 1988
+        "total_mods": 1989
     },
     "395028811399299082": {
         "modification_history": {},
