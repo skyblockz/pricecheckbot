@@ -1791,6 +1791,16 @@
                     50000000
                 ]
             },
+            "shimmer_skin_unstable": {
+                "from": [
+                    10500000,
+                    11900000
+                ],
+                "to": [
+                    12000000,
+                    12000000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -2004,7 +2014,7 @@
                 ]
             }
         },
-        "total_mods": 1956
+        "total_mods": 1957
     },
     "395028811399299082": {
         "modification_history": {},
