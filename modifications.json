@@ -1551,6 +1551,16 @@
                     140000000
                 ]
             },
+            "snowglobe_skin": {
+                "from": [
+                    29000000,
+                    31000000
+                ],
+                "to": [
+                    19000000,
+                    20000000
+                ]
+            },
             "spider_minion_i": {
                 "from": null,
                 "to": [
@@ -1700,7 +1710,7 @@
                 ]
             }
         },
-        "total_mods": 1925
+        "total_mods": 1926
     },
     "395028811399299082": {
         "modification_history": {},
