@@ -444,6 +444,16 @@
                     8500000
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    1650000,
+                    1800000
+                ],
+                "to": [
+                    1700000,
+                    1750000
+                ]
+            },
             "baby_chicken_skin": {
                 "from": [
                     8400000,
@@ -2351,7 +2361,7 @@
                 ]
             }
         },
-        "total_mods": 1991
+        "total_mods": 1992
     },
     "395028811399299082": {
         "modification_history": {},
