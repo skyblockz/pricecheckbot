@@ -1526,6 +1526,16 @@
                     3700000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    440000000,
+                    440000000
+                ],
+                "to": [
+                    450000000,
+                    465000000
+                ]
+            },
             "neon_blue_ender_dragon_skin": {
                 "from": [
                     11000000,
@@ -2475,7 +2485,7 @@
                 ]
             }
         },
-        "total_mods": 2004
+        "total_mods": 2005
     },
     "395028811399299082": {
         "modification_history": {},
