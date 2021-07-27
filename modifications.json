@@ -6094,6 +6094,16 @@
                     310000
                 ]
             },
+            "refined_titanium": {
+                "from": [
+                    350000,
+                    360000
+                ],
+                "to": [
+                    310000,
+                    340000
+                ]
+            },
             "reinforced_skin": {
                 "from": [
                     14000000,
@@ -6956,7 +6966,7 @@
                 ]
             }
         },
-        "total_mods": 2472
+        "total_mods": 2473
     },
     "395028811399299082": {
         "modification_history": {},
