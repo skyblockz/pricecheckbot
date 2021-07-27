@@ -1399,6 +1399,16 @@
                     695000
                 ]
             },
+            "colossal_experience_bottle_upgrade": {
+                "from": [
+                    570000,
+                    580000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     250000,
@@ -3542,7 +3552,7 @@
                 ]
             }
         },
-        "total_mods": 2117
+        "total_mods": 2118
     },
     "395028811399299082": {
         "modification_history": {},
