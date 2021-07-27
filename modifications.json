@@ -3121,6 +3121,16 @@
                     350000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    45000000,
+                    50000000
+                ],
+                "to": [
+                    54000000,
+                    55000000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -4975,7 +4985,7 @@
                 ]
             }
         },
-        "total_mods": 2265
+        "total_mods": 2266
     },
     "395028811399299082": {
         "modification_history": {},
