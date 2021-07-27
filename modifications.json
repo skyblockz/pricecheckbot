@@ -5379,6 +5379,16 @@
                     4400000
                 ]
             },
+            "moil_log": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    60000,
+                    90000
+                ]
+            },
             "monochrome_elephant_skin": {
                 "from": [
                     5500000,
@@ -6876,7 +6886,7 @@
                 ]
             }
         },
-        "total_mods": 2464
+        "total_mods": 2465
     },
     "395028811399299082": {
         "modification_history": {},
