@@ -1712,20 +1712,12 @@
         "src": "hyper_catalyst"
     },
     {
-        "dest": "minion_storage_xpender",
-        "src": "xpender"
-    },
-    {
         "dest": "colossal_experience_bottle",
         "src": "colossal"
     },
     {
         "dest": "ultimate_carrot_candy",
         "src": "ultimate_candy"
-    },
-    {
-        "dest": "minion_storage_xpender",
-        "src": "minion_xpender"
     },
     {
         "dest": "all_skills_exp_super_boost",
@@ -2544,10 +2536,6 @@
         "src": "ultimate_wise_1"
     },
     {
-        "dest": "minion_storage_xpender",
-        "src": "minion_storage_x-pender"
-    },
-    {
         "dest": "lvl_1_legendary_black_cat",
         "src": "lvl_1_black_cat"
     },
@@ -2650,5 +2638,17 @@
     {
         "dest": "crab-colored_centruy_cake",
         "src": "pink_century_cake"
+    },
+    {
+        "dest": "minion_storage_x-pender",
+        "src": "xpender"
+    },
+    {
+        "dest": "minion_storage_x-pender",
+        "src": "minion_xpender"
+    },
+    {
+        "dest": "minion_storage_x-pender",
+        "src": "minion_storage_x-pender"
     }
 ]
