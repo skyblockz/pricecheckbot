@@ -554,6 +554,16 @@
                     8500000
                 ]
             },
+            "arachne_crystal": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    350000,
+                    450000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     1650000,
@@ -2772,7 +2782,7 @@
                 ]
             }
         },
-        "total_mods": 2035
+        "total_mods": 2036
     },
     "395028811399299082": {
         "modification_history": {},
