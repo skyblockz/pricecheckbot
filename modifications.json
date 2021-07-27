@@ -2827,6 +2827,16 @@
                     1150
                 ]
             },
+            "enchanted_seeds": {
+                "from": [
+                    75,
+                    80
+                ],
+                "to": [
+                    73,
+                    88
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4745,7 +4755,7 @@
                 ]
             }
         },
-        "total_mods": 2242
+        "total_mods": 2243
     },
     "395028811399299082": {
         "modification_history": {},
