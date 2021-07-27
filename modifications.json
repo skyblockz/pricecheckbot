@@ -2097,6 +2097,16 @@
                     490
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    50000,
+                    55000
+                ],
+                "to": [
+                    63000,
+                    172000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4015,7 +4025,7 @@
                 ]
             }
         },
-        "total_mods": 2168
+        "total_mods": 2169
     },
     "395028811399299082": {
         "modification_history": {},
