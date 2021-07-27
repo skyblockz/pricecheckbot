@@ -8839,12 +8839,6 @@
     },
     {
         "ac": true,
-        "hi": 2200000,
-        "low": 2100000,
-        "name": "tier_2_uncommon_newton_nether_warts_hoe"
-    },
-    {
-        "ac": true,
         "hi": 26200000,
         "low": 26000000,
         "name": "tier_3_rare_newton_nether_warts_hoe"
@@ -14188,5 +14182,11 @@
         "hi": 1200000,
         "low": 1100000,
         "name": "tier_1_common_newtons_nether_wart_hoe"
+    },
+    {
+        "ac": true,
+        "hi": 2200000,
+        "low": 2100000,
+        "name": "tier_2_uncommon_newtons_nether_wart_hoe"
     }
 ]
