@@ -786,12 +786,12 @@
             },
             "battle_disc": {
                 "from": [
-                    5000,
-                    8000
-                ],
-                "to": [
                     4000,
                     6000
+                ],
+                "to": [
+                    666,
+                    999
                 ]
             },
             "birch_minion_i": {
@@ -3012,7 +3012,7 @@
                 ]
             }
         },
-        "total_mods": 2059
+        "total_mods": 2060
     },
     "395028811399299082": {
         "modification_history": {},
