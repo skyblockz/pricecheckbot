@@ -424,6 +424,16 @@
                     600000
                 ]
             },
+            "acacia_wood": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    3,
+                    3
+                ]
+            },
             "accessory_enrichment_swapper": {
                 "from": [
                     83000,
@@ -2682,7 +2692,7 @@
                 ]
             }
         },
-        "total_mods": 2025
+        "total_mods": 2026
     },
     "395028811399299082": {
         "modification_history": {},
