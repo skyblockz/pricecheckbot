@@ -9427,12 +9427,6 @@
     },
     {
         "ac": true,
-        "hi": 200000,
-        "low": 185000,
-        "name": "jerry_chine_gun"
-    },
-    {
-        "ac": true,
         "hi": 98000,
         "low": 83000,
         "name": "blue_jerry_box"
@@ -14290,5 +14284,11 @@
         "hi": 430000,
         "low": 390000,
         "name": "goblin_omelette"
+    },
+    {
+        "ac": true,
+        "hi": 200000,
+        "low": 185000,
+        "name": "jerry-chine_gun"
     }
 ]
