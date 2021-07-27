@@ -2954,6 +2954,16 @@
                     575
                 ]
             },
+            "end_portal_frame": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            },
             "enderman_minion_xi": {
                 "from": [
                     1400000,
@@ -4865,7 +4875,7 @@
                 ]
             }
         },
-        "total_mods": 2254
+        "total_mods": 2255
     },
     "395028811399299082": {
         "modification_history": {},
