@@ -2447,6 +2447,16 @@
                     3500
                 ]
             },
+            "enchanted_hay_bale": {
+                "from": [
+                    4100,
+                    4750
+                ],
+                "to": [
+                    4200,
+                    4400
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4365,7 +4375,7 @@
                 ]
             }
         },
-        "total_mods": 2203
+        "total_mods": 2204
     },
     "395028811399299082": {
         "modification_history": {},
