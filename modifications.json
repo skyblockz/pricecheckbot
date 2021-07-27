@@ -2069,6 +2069,16 @@
                     1200000
                 ]
             },
+            "tier_2_uncommon_pythagorean_potato_hoe": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    2000000,
+                    2050000
+                ]
+            },
             "tier_2_uncommon_turing_sugar_cane_hoe": {
                 "from": [
                     2300000,
@@ -2154,7 +2164,7 @@
                 ]
             }
         },
-        "total_mods": 1971
+        "total_mods": 1972
     },
     "395028811399299082": {
         "modification_history": {},
