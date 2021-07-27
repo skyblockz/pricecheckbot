@@ -2057,6 +2057,16 @@
                     500
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    1800,
+                    2250
+                ],
+                "to": [
+                    1900,
+                    2900
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -3975,7 +3985,7 @@
                 ]
             }
         },
-        "total_mods": 2164
+        "total_mods": 2165
     },
     "395028811399299082": {
         "modification_history": {},
