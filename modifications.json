@@ -804,6 +804,16 @@
                     30000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    50000,
+                    150000
+                ]
+            },
             "birch_minion_i": {
                 "from": [
                     450,
@@ -3072,7 +3082,7 @@
                 ]
             }
         },
-        "total_mods": 2066
+        "total_mods": 2067
     },
     "395028811399299082": {
         "modification_history": {},
