@@ -4466,6 +4466,16 @@
                     3500000
                 ]
             },
+            "perfect_amber_gemstone": {
+                "from": [
+                    35000000,
+                    105000000
+                ],
+                "to": [
+                    45000000,
+                    70000000
+                ]
+            },
             "perfect_jade_gemstone": {
                 "from": [
                     34000000,
@@ -5589,7 +5599,7 @@
                 ]
             }
         },
-        "total_mods": 2330
+        "total_mods": 2331
     },
     "395028811399299082": {
         "modification_history": {},
