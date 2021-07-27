@@ -1749,6 +1749,16 @@
                     10000000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    45000,
+                    50000
+                ],
+                "to": [
+                    48000,
+                    48000
+                ]
+            },
             "melon_minion_i": {
                 "from": null,
                 "to": [
@@ -2912,7 +2922,7 @@
                 ]
             }
         },
-        "total_mods": 2049
+        "total_mods": 2050
     },
     "395028811399299082": {
         "modification_history": {},
