@@ -1035,6 +1035,16 @@
                     2100000
                 ]
             },
+            "common_beastmaster_crest": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "concentrated_stone": {
                 "from": [
                     2000000,
@@ -3012,7 +3022,7 @@
                 ]
             }
         },
-        "total_mods": 2060
+        "total_mods": 2061
     },
     "395028811399299082": {
         "modification_history": {},
