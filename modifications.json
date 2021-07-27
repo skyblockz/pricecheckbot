@@ -544,6 +544,16 @@
                     5200000
                 ]
             },
+            "blue_elephant_skin": {
+                "from": [
+                    75000000,
+                    85000000
+                ],
+                "to": [
+                    100000000,
+                    200000000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -1650,7 +1660,7 @@
                 ]
             }
         },
-        "total_mods": 1920
+        "total_mods": 1921
     },
     "395028811399299082": {
         "modification_history": {},
