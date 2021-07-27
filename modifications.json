@@ -744,6 +744,16 @@
                     3000000
                 ]
             },
+            "base_griffin_upgrade_stone": {
+                "from": [
+                    430000,
+                    440000
+                ],
+                "to": [
+                    500000,
+                    550000
+                ]
+            },
             "basket_of_hope": {
                 "from": [
                     150000000,
@@ -5966,7 +5976,7 @@
                 ]
             }
         },
-        "total_mods": 2370
+        "total_mods": 2371
     },
     "395028811399299082": {
         "modification_history": {},
