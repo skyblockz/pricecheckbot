@@ -4187,6 +4187,16 @@
                     47800000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    23000,
+                    25000
+                ],
+                "to": [
+                    28000,
+                    33000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6056,7 +6066,7 @@
                 ]
             }
         },
-        "total_mods": 2379
+        "total_mods": 2380
     },
     "395028811399299082": {
         "modification_history": {},
