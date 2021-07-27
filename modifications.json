@@ -3131,6 +3131,16 @@
                     55000000
                 ]
             },
+            "exp_share_core": {
+                "from": [
+                    450000,
+                    550000
+                ],
+                "to": [
+                    750000,
+                    870000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -4985,7 +4995,7 @@
                 ]
             }
         },
-        "total_mods": 2266
+        "total_mods": 2267
     },
     "395028811399299082": {
         "modification_history": {},
