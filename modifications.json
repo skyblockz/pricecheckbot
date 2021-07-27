@@ -1669,6 +1669,16 @@
                     3000000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    245000,
+                    250000
+                ],
+                "to": [
+                    190000,
+                    200000
+                ]
+            },
             "laughing_rock_skin": {
                 "from": [
                     445000000,
@@ -2922,7 +2932,7 @@
                 ]
             }
         },
-        "total_mods": 2050
+        "total_mods": 2051
     },
     "395028811399299082": {
         "modification_history": {},
