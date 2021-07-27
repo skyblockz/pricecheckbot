@@ -414,6 +414,16 @@
                     600000
                 ]
             },
+            "accessory_enrichment_swapper": {
+                "from": [
+                    83000,
+                    85000
+                ],
+                "to": [
+                    65000,
+                    70000
+                ]
+            },
             "admiral_skin": {
                 "from": [
                     6000000,
@@ -2244,7 +2254,7 @@
                 ]
             }
         },
-        "total_mods": 1980
+        "total_mods": 1981
     },
     "395028811399299082": {
         "modification_history": {},
