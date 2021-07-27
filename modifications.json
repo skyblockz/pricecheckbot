@@ -869,6 +869,16 @@
                     500
                 ]
             },
+            "enderpack_skin": {
+                "from": [
+                    5500000,
+                    6500000
+                ],
+                "to": [
+                    6500000,
+                    7000000
+                ]
+            },
             "endstone_minion_i": {
                 "from": null,
                 "to": [
@@ -1837,7 +1847,7 @@
                 ]
             }
         },
-        "total_mods": 1939
+        "total_mods": 1940
     },
     "395028811399299082": {
         "modification_history": {},
