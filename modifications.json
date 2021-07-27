@@ -1464,6 +1464,13 @@
                     11000000
                 ]
             },
+            "forest_biome_stick": {
+                "from": null,
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "fortified_silverfish_skin": {
                 "from": [
                     9000000,
@@ -3140,7 +3147,7 @@
                 ]
             }
         },
-        "total_mods": 2074
+        "total_mods": 2075
     },
     "395028811399299082": {
         "modification_history": {},
