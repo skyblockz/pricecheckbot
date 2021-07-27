@@ -4157,6 +4157,16 @@
                     40000000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    150000,
+                    150000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6026,7 +6036,7 @@
                 ]
             }
         },
-        "total_mods": 2376
+        "total_mods": 2377
     },
     "395028811399299082": {
         "modification_history": {},
