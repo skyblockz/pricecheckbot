@@ -844,6 +844,13 @@
                     50000
                 ]
             },
+            "birch_forest_biome_stick": {
+                "from": null,
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "birch_minion_i": {
                 "from": [
                     450,
@@ -3112,7 +3119,7 @@
                 ]
             }
         },
-        "total_mods": 2070
+        "total_mods": 2071
     },
     "395028811399299082": {
         "modification_history": {},
