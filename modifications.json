@@ -3141,6 +3141,16 @@
                     870000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    490000,
+                    500000
+                ],
+                "to": [
+                    400000,
+                    490000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -4995,7 +5005,7 @@
                 ]
             }
         },
-        "total_mods": 2267
+        "total_mods": 2268
     },
     "395028811399299082": {
         "modification_history": {},
