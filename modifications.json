@@ -3722,6 +3722,16 @@
                     3000000
                 ]
             },
+            "ghast_head": {
+                "from": [
+                    300,
+                    350
+                ],
+                "to": [
+                    800,
+                    900
+                ]
+            },
             "ghast_minion_i": {
                 "from": null,
                 "to": [
@@ -5709,7 +5719,7 @@
                 ]
             }
         },
-        "total_mods": 2342
+        "total_mods": 2343
     },
     "395028811399299082": {
         "modification_history": {},
