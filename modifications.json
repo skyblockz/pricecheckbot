@@ -1110,6 +1110,16 @@
                     2250000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    430000,
+                    470000
+                ],
+                "to": [
+                    450000,
+                    450000
+                ]
+            },
             "gold_minion_i": {
                 "from": null,
                 "to": [
@@ -2425,7 +2435,7 @@
                 ]
             }
         },
-        "total_mods": 1999
+        "total_mods": 2000
     },
     "395028811399299082": {
         "modification_history": {},
