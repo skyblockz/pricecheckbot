@@ -3682,6 +3682,16 @@
                     14850000
                 ]
             },
+            "gemstone_fuel_tank": {
+                "from": [
+                    70000000,
+                    84400000
+                ],
+                "to": [
+                    49000000,
+                    50000000
+                ]
+            },
             "ghast_minion_i": {
                 "from": null,
                 "to": [
@@ -5659,7 +5669,7 @@
                 ]
             }
         },
-        "total_mods": 2337
+        "total_mods": 2338
     },
     "395028811399299082": {
         "modification_history": {},
