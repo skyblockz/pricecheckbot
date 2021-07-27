@@ -1051,6 +1051,16 @@
                     600
                 ]
             },
+            "spider_minion_xi": {
+                "from": [
+                    700000,
+                    700000
+                ],
+                "to": [
+                    1300000,
+                    1300000
+                ]
+            },
             "spruce_minion_i": {
                 "from": [
                     500,
@@ -1113,7 +1123,7 @@
                 ]
             }
         },
-        "total_mods": 1866
+        "total_mods": 1867
     },
     "395028811399299082": {
         "modification_history": {},
