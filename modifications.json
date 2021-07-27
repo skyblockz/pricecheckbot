@@ -5332,6 +5332,16 @@
                     12500000
                 ]
             },
+            "mithril_infused_fuel_tank": {
+                "from": [
+                    14000000,
+                    15500000
+                ],
+                "to": [
+                    10000000,
+                    18000000
+                ]
+            },
             "mithril_infusion": {
                 "from": [
                     2500000,
@@ -6856,7 +6866,7 @@
                 ]
             }
         },
-        "total_mods": 2462
+        "total_mods": 2463
     },
     "395028811399299082": {
         "modification_history": {},
