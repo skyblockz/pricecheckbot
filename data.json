@@ -8839,12 +8839,6 @@
     },
     {
         "ac": true,
-        "hi": 1200000,
-        "low": 1100000,
-        "name": "tier_1_common_newton_nether_warts_hoe"
-    },
-    {
-        "ac": true,
         "hi": 2600000,
         "low": 2400000,
         "name": "tier_2_uncommon_newton_nether_warts_hoe"
@@ -14188,5 +14182,11 @@
         "hi": 3500000,
         "low": 3000000,
         "name": "pastel_ender_dragon_skin"
+    },
+    {
+        "ac": true,
+        "hi": 1200000,
+        "low": 1100000,
+        "name": "tier_1_common_newtons_nether_wart_hoe"
     }
 ]
