@@ -11227,12 +11227,6 @@
     },
     {
         "ac": true,
-        "hi": 145000,
-        "low": 140000,
-        "name": "voidling_minon_i"
-    },
-    {
-        "ac": true,
         "hi": 45000,
         "low": 39000,
         "name": "turbo_wheat_i"
@@ -14206,5 +14200,11 @@
         "hi": 1000,
         "low": 400,
         "name": "winter_disc"
+    },
+    {
+        "ac": true,
+        "hi": 145000,
+        "low": 140000,
+        "name": "voidling_minion_i"
     }
 ]
