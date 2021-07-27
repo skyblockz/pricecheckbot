@@ -3131,6 +3131,16 @@
                     11700000
                 ]
             },
+            "epic_griffin_upgrade_stone": {
+                "from": [
+                    6000000,
+                    6200000
+                ],
+                "to": [
+                    6100000,
+                    6600000
+                ]
+            },
             "eternal_flame_ring": {
                 "from": [
                     250000,
@@ -5996,7 +6006,7 @@
                 ]
             }
         },
-        "total_mods": 2373
+        "total_mods": 2374
     },
     "395028811399299082": {
         "modification_history": {},
