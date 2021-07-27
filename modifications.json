@@ -1078,6 +1078,16 @@
                     130000000
                 ]
             },
+            "light_green_sheep_skin": {
+                "from": [
+                    450000000,
+                    600000000
+                ],
+                "to": [
+                    230000000,
+                    350000000
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -1590,7 +1600,7 @@
                 ]
             }
         },
-        "total_mods": 1914
+        "total_mods": 1915
     },
     "395028811399299082": {
         "modification_history": {},
