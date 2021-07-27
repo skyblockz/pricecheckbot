@@ -829,6 +829,16 @@
                     7000000
                 ]
             },
+            "critical_chance_enrichment": {
+                "from": [
+                    920000,
+                    1250000
+                ],
+                "to": [
+                    1700000,
+                    1800000
+                ]
+            },
             "critical_damage_enrichment": {
                 "from": [
                     1550000,
@@ -2284,7 +2294,7 @@
                 ]
             }
         },
-        "total_mods": 1984
+        "total_mods": 1985
     },
     "395028811399299082": {
         "modification_history": {},
