@@ -5085,6 +5085,16 @@
                     200
                 ]
             },
+            "magical_mushroom_soup": {
+                "from": [
+                    100,
+                    120
+                ],
+                "to": [
+                    40,
+                    50
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -6646,7 +6656,7 @@
                 ]
             }
         },
-        "total_mods": 2441
+        "total_mods": 2442
     },
     "395028811399299082": {
         "modification_history": {},
