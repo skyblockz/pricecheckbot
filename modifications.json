@@ -998,6 +998,16 @@
                     10000
                 ]
             },
+            "bone": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3242,7 +3252,7 @@
                 ]
             }
         },
-        "total_mods": 2087
+        "total_mods": 2088
     },
     "395028811399299082": {
         "modification_history": {},
