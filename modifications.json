@@ -3338,6 +3338,16 @@
                     11000000
                 ]
             },
+            "fly_swatter": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    500000,
+                    570000
+                ]
+            },
             "forest_biome_stick": {
                 "from": null,
                 "to": [
@@ -5222,7 +5232,7 @@
                 ]
             }
         },
-        "total_mods": 2290
+        "total_mods": 2291
     },
     "395028811399299082": {
         "modification_history": {},
