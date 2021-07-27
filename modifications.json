@@ -2964,6 +2964,16 @@
                     200000
                 ]
             },
+            "end_stone_bow": {
+                "from": [
+                    9000,
+                    10000
+                ],
+                "to": [
+                    7000,
+                    9000
+                ]
+            },
             "enderman_minion_xi": {
                 "from": [
                     1400000,
@@ -4875,7 +4885,7 @@
                 ]
             }
         },
-        "total_mods": 2255
+        "total_mods": 2256
     },
     "395028811399299082": {
         "modification_history": {},
