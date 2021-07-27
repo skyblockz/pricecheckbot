@@ -3825,6 +3825,16 @@
                     750000
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    11,
+                    20
+                ],
+                "to": [
+                    12,
+                    12
+                ]
+            },
             "mithril_minion_i": {
                 "from": null,
                 "to": [
@@ -5102,7 +5112,7 @@
                 ]
             }
         },
-        "total_mods": 2278
+        "total_mods": 2279
     },
     "395028811399299082": {
         "modification_history": {},
