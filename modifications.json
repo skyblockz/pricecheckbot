@@ -2217,6 +2217,16 @@
                     1150
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    490000,
+                    525000
+                ],
+                "to": [
+                    540000,
+                    600000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4135,7 +4145,7 @@
                 ]
             }
         },
-        "total_mods": 2180
+        "total_mods": 2181
     },
     "395028811399299082": {
         "modification_history": {},
