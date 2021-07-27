@@ -5282,6 +5282,16 @@
                     120000
                 ]
             },
+            "minion_storage_xpender": {
+                "from": [
+                    430000,
+                    450000
+                ],
+                "to": [
+                    490000,
+                    545000
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     11,
@@ -6806,7 +6816,7 @@
                 ]
             }
         },
-        "total_mods": 2457
+        "total_mods": 2458
     },
     "395028811399299082": {
         "modification_history": {},
