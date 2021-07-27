@@ -3188,6 +3188,16 @@
                     25
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    1200000,
+                    1800000
+                ],
+                "to": [
+                    1700000,
+                    1700000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -5042,7 +5052,7 @@
                 ]
             }
         },
-        "total_mods": 2272
+        "total_mods": 2273
     },
     "395028811399299082": {
         "modification_history": {},
