@@ -1360,6 +1360,13 @@
                     2300000
                 ]
             },
+            "end_biome_stick": {
+                "from": null,
+                "to": [
+                    550,
+                    575
+                ]
+            },
             "enderman_minion_xi": {
                 "from": [
                     1400000,
@@ -3133,7 +3140,7 @@
                 ]
             }
         },
-        "total_mods": 2073
+        "total_mods": 2074
     },
     "395028811399299082": {
         "modification_history": {},
