@@ -1827,6 +1827,16 @@
                     700000
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    980000,
+                    1000000
+                ],
+                "to": [
+                    1180000,
+                    1200000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -3742,7 +3752,7 @@
                 ]
             }
         },
-        "total_mods": 2139
+        "total_mods": 2140
     },
     "395028811399299082": {
         "modification_history": {},
