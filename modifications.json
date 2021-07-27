@@ -3208,6 +3208,16 @@
                     3
                 ]
             },
+            "fel_pearl": {
+                "from": [
+                    2000,
+                    4000
+                ],
+                "to": [
+                    500,
+                    2000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -5062,7 +5072,7 @@
                 ]
             }
         },
-        "total_mods": 2274
+        "total_mods": 2275
     },
     "395028811399299082": {
         "modification_history": {},
