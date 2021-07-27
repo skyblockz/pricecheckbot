@@ -2417,6 +2417,16 @@
                     209000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    140000,
+                    170000
+                ],
+                "to": [
+                    130000,
+                    140000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4335,7 +4345,7 @@
                 ]
             }
         },
-        "total_mods": 2200
+        "total_mods": 2201
     },
     "395028811399299082": {
         "modification_history": {},
