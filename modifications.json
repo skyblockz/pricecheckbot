@@ -2507,6 +2507,16 @@
                     1000
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    47000,
+                    48000
+                ],
+                "to": [
+                    47000,
+                    50000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4425,7 +4435,7 @@
                 ]
             }
         },
-        "total_mods": 2209
+        "total_mods": 2210
     },
     "395028811399299082": {
         "modification_history": {},
