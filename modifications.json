@@ -1100,6 +1100,16 @@
                     960
                 ]
             },
+            "sheep_minion_xi": {
+                "from": [
+                    3250000,
+                    3400000
+                ],
+                "to": [
+                    4300000,
+                    4300000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -1213,7 +1223,7 @@
                 ]
             }
         },
-        "total_mods": 1876
+        "total_mods": 1877
     },
     "395028811399299082": {
         "modification_history": {},
