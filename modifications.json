@@ -5075,6 +5075,16 @@
                     1750000
                 ]
             },
+            "magical_lava_bucket": {
+                "from": [
+                    130,
+                    380
+                ],
+                "to": [
+                    180,
+                    200
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -6636,7 +6646,7 @@
                 ]
             }
         },
-        "total_mods": 2440
+        "total_mods": 2441
     },
     "395028811399299082": {
         "modification_history": {},
