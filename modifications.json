@@ -928,6 +928,16 @@
                     20
                 ]
             },
+            "blaze_rod": {
+                "from": [
+                    23,
+                    25
+                ],
+                "to": [
+                    20,
+                    35
+                ]
+            },
             "block_zapper": {
                 "from": [
                     1800000,
@@ -3202,7 +3212,7 @@
                 ]
             }
         },
-        "total_mods": 2082
+        "total_mods": 2083
     },
     "395028811399299082": {
         "modification_history": {},
