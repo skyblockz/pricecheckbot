@@ -3738,6 +3738,16 @@
                     21000000
                 ]
             },
+            "light_bait": {
+                "from": [
+                    47,
+                    60
+                ],
+                "to": [
+                    50,
+                    75
+                ]
+            },
             "light_blue_sheep_skin": {
                 "from": [
                     325000000,
@@ -5122,7 +5132,7 @@
                 ]
             }
         },
-        "total_mods": 2280
+        "total_mods": 2281
     },
     "395028811399299082": {
         "modification_history": {},
