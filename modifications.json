@@ -545,6 +545,16 @@
                     300
                 ]
             },
+            "cocoa_beans_minion_xi": {
+                "from": [
+                    1000000,
+                    1800000
+                ],
+                "to": [
+                    2100000,
+                    2100000
+                ]
+            },
             "cow_minion_i": {
                 "from": null,
                 "to": [
@@ -1043,7 +1053,7 @@
                 ]
             }
         },
-        "total_mods": 1859
+        "total_mods": 1860
     },
     "395028811399299082": {
         "modification_history": {},
