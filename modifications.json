@@ -891,6 +891,16 @@
                     35000000
                 ]
             },
+            "blast_o_lantern": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "blaze_minion_i": {
                 "from": [
                     1000,
@@ -3185,7 +3195,7 @@
                 ]
             }
         },
-        "total_mods": 2080
+        "total_mods": 2081
     },
     "395028811399299082": {
         "modification_history": {},
