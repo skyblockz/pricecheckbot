@@ -1018,6 +1018,16 @@
                     25000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    2000000,
+                    2100000
+                ],
+                "to": [
+                    2000000,
+                    2200000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3262,7 +3272,7 @@
                 ]
             }
         },
-        "total_mods": 2089
+        "total_mods": 2090
     },
     "395028811399299082": {
         "modification_history": {},
