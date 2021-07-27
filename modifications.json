@@ -3014,6 +3014,16 @@
                     7
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
             "enderman_minion_xi": {
                 "from": [
                     1400000,
@@ -4925,7 +4935,7 @@
                 ]
             }
         },
-        "total_mods": 2260
+        "total_mods": 2261
     },
     "395028811399299082": {
         "modification_history": {},
