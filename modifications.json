@@ -4775,6 +4775,16 @@
                     1150000
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    7,
+                    7
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "kismet_feather": {
                 "from": [
                     380000,
@@ -6476,7 +6486,7 @@
                 ]
             }
         },
-        "total_mods": 2422
+        "total_mods": 2423
     },
     "395028811399299082": {
         "modification_history": {},
