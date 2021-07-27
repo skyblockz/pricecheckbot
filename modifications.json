@@ -3171,6 +3171,16 @@
                     70000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    380000,
+                    400000
+                ],
+                "to": [
+                    460000,
+                    460000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -5025,7 +5035,7 @@
                 ]
             }
         },
-        "total_mods": 2270
+        "total_mods": 2271
     },
     "395028811399299082": {
         "modification_history": {},
