@@ -829,6 +829,16 @@
                     7000000
                 ]
             },
+            "critical_damage_enrichment": {
+                "from": [
+                    1550000,
+                    1600000
+                ],
+                "to": [
+                    1800000,
+                    1850000
+                ]
+            },
             "dark_oak_minion_i": {
                 "from": [
                     140,
@@ -2274,7 +2284,7 @@
                 ]
             }
         },
-        "total_mods": 1983
+        "total_mods": 1984
     },
     "395028811399299082": {
         "modification_history": {},
