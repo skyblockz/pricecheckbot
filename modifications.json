@@ -614,6 +614,16 @@
                     200000
                 ]
             },
+            "aspiring_leap": {
+                "from": [
+                    100000,
+                    110000
+                ],
+                "to": [
+                    75000,
+                    90000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     1650000,
@@ -2832,7 +2842,7 @@
                 ]
             }
         },
-        "total_mods": 2041
+        "total_mods": 2042
     },
     "395028811399299082": {
         "modification_history": {},
