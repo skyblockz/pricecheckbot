@@ -681,6 +681,16 @@
                     730
                 ]
             },
+            "iron_minion_xi": {
+                "from": [
+                    1024000,
+                    1024000
+                ],
+                "to": [
+                    3400000,
+                    3400000
+                ]
+            },
             "jungle_minion_i": {
                 "from": [
                     450,
@@ -903,7 +913,7 @@
                 ]
             }
         },
-        "total_mods": 1845
+        "total_mods": 1846
     },
     "395028811399299082": {
         "modification_history": {},
