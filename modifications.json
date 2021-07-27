@@ -2567,6 +2567,13 @@
                     1250000
                 ]
             },
+            "savanna_biome_stick": {
+                "from": null,
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -3171,7 +3178,7 @@
                 ]
             }
         },
-        "total_mods": 2078
+        "total_mods": 2079
     },
     "395028811399299082": {
         "modification_history": {},
