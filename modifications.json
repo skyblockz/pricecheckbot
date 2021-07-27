@@ -4117,6 +4117,16 @@
                     8300
                 ]
             },
+            "green_jerry_box": {
+                "from": [
+                    63000,
+                    77000
+                ],
+                "to": [
+                    75000,
+                    83000
+                ]
+            },
             "green_jerry_talisman": {
                 "from": [
                     780000,
@@ -6346,7 +6356,7 @@
                 ]
             }
         },
-        "total_mods": 2408
+        "total_mods": 2409
     },
     "395028811399299082": {
         "modification_history": {},
