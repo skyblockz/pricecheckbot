@@ -1048,6 +1048,16 @@
                     3800000
                 ]
             },
+            "bulky_stone": {
+                "from": [
+                    2700000,
+                    2900000
+                ],
+                "to": [
+                    1600000,
+                    2200000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3292,7 +3302,7 @@
                 ]
             }
         },
-        "total_mods": 2092
+        "total_mods": 2093
     },
     "395028811399299082": {
         "modification_history": {},
