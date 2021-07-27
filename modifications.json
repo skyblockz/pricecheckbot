@@ -2227,6 +2227,16 @@
                     600000
                 ]
             },
+            "enchanted_cooked_mutton": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    123000,
+                    144000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4145,7 +4155,7 @@
                 ]
             }
         },
-        "total_mods": 2181
+        "total_mods": 2182
     },
     "395028811399299082": {
         "modification_history": {},
