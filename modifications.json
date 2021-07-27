@@ -1794,6 +1794,13 @@
                     2100000
                 ]
             },
+            "jungle_biome_stick": {
+                "from": null,
+                "to": [
+                    50,
+                    60
+                ]
+            },
             "jungle_minion_i": {
                 "from": [
                     450,
@@ -3147,7 +3154,7 @@
                 ]
             }
         },
-        "total_mods": 2075
+        "total_mods": 2076
     },
     "395028811399299082": {
         "modification_history": {},
