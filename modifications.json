@@ -2047,6 +2047,16 @@
                     28000
                 ]
             },
+            "enchanted_birch_wood": {
+                "from": [
+                    1000,
+                    1200
+                ],
+                "to": [
+                    400,
+                    500
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -3965,7 +3975,7 @@
                 ]
             }
         },
-        "total_mods": 2163
+        "total_mods": 2164
     },
     "395028811399299082": {
         "modification_history": {},
