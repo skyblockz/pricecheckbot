@@ -582,6 +582,16 @@
                     360
                 ]
             },
+            "cow_minion_xi": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    3100000,
+                    3100000
+                ]
+            },
             "creeper_minion_i": {
                 "from": null,
                 "to": [
@@ -1183,7 +1193,7 @@
                 ]
             }
         },
-        "total_mods": 1873
+        "total_mods": 1874
     },
     "395028811399299082": {
         "modification_history": {},
