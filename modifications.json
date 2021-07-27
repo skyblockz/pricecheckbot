@@ -1727,6 +1727,16 @@
                     940000
                 ]
             },
+            "diamond": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "diamond_minion_i": {
                 "from": [
                     600,
@@ -3672,7 +3682,7 @@
                 ]
             }
         },
-        "total_mods": 2132
+        "total_mods": 2133
     },
     "395028811399299082": {
         "modification_history": {},
