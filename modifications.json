@@ -4395,6 +4395,16 @@
                     21000000
                 ]
             },
+            "legendary_griffin_upgrade_stone": {
+                "from": [
+                    42000000,
+                    50000000
+                ],
+                "to": [
+                    37500000,
+                    40000000
+                ]
+            },
             "light_bait": {
                 "from": [
                     47,
@@ -6006,7 +6016,7 @@
                 ]
             }
         },
-        "total_mods": 2374
+        "total_mods": 2375
     },
     "395028811399299082": {
         "modification_history": {},
