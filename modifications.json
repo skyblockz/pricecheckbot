@@ -1945,6 +1945,16 @@
                     20000000
                 ]
             },
+            "speed_enrichment": {
+                "from": [
+                    1500000,
+                    1500000
+                ],
+                "to": [
+                    1650000,
+                    1750000
+                ]
+            },
             "spider_minion_i": {
                 "from": null,
                 "to": [
@@ -2254,7 +2264,7 @@
                 ]
             }
         },
-        "total_mods": 1981
+        "total_mods": 1982
     },
     "395028811399299082": {
         "modification_history": {},
