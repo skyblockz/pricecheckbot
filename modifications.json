@@ -4461,6 +4461,16 @@
                     19000000
                 ]
             },
+            "infinidirt_wand": {
+                "from": [
+                    11500,
+                    12500
+                ],
+                "to": [
+                    11800,
+                    12300
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1600000,
@@ -6256,7 +6266,7 @@
                 ]
             }
         },
-        "total_mods": 2399
+        "total_mods": 2400
     },
     "395028811399299082": {
         "modification_history": {},
