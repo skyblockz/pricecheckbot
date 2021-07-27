@@ -3920,6 +3920,16 @@
                     1350000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    85000,
+                    110000
+                ]
+            },
             "gorilla_monkey_skin": {
                 "from": [
                     5000000,
@@ -5856,7 +5866,7 @@
                 ]
             }
         },
-        "total_mods": 2358
+        "total_mods": 2359
     },
     "395028811399299082": {
         "modification_history": {},
