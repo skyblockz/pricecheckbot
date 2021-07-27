@@ -654,6 +654,16 @@
                     440
                 ]
             },
+            "ice_minion_xi": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "iron_minion_i": {
                 "from": null,
                 "to": [
@@ -883,7 +893,7 @@
                 ]
             }
         },
-        "total_mods": 1843
+        "total_mods": 1844
     },
     "395028811399299082": {
         "modification_history": {},
