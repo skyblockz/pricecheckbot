@@ -1085,6 +1085,16 @@
                     7100000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    350000,
+                    480000
+                ],
+                "to": [
+                    330000,
+                    350000
+                ]
+            },
             "carrot_minion_i": {
                 "from": [
                     1000,
@@ -3312,7 +3322,7 @@
                 ]
             }
         },
-        "total_mods": 2094
+        "total_mods": 2095
     },
     "395028811399299082": {
         "modification_history": {},
