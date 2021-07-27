@@ -5084,6 +5084,16 @@
                     3100000
                 ]
             },
+            "rare_griffin_upgrade_stone": {
+                "from": [
+                    2200000,
+                    2300000
+                ],
+                "to": [
+                    2300000,
+                    2600000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5100000,
@@ -5986,7 +5996,7 @@
                 ]
             }
         },
-        "total_mods": 2372
+        "total_mods": 2373
     },
     "395028811399299082": {
         "modification_history": {},
