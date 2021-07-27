@@ -921,6 +921,13 @@
                     5200000
                 ]
             },
+            "blaze_powder": {
+                "from": null,
+                "to": [
+                    10,
+                    20
+                ]
+            },
             "block_zapper": {
                 "from": [
                     1800000,
@@ -3195,7 +3202,7 @@
                 ]
             }
         },
-        "total_mods": 2081
+        "total_mods": 2082
     },
     "395028811399299082": {
         "modification_history": {},
