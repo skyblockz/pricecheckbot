@@ -2577,6 +2577,16 @@
                     480
                 ]
             },
+            "enchanted_netherrack": {
+                "from": [
+                    120,
+                    320
+                ],
+                "to": [
+                    150,
+                    230
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4495,7 +4505,7 @@
                 ]
             }
         },
-        "total_mods": 2216
+        "total_mods": 2217
     },
     "395028811399299082": {
         "modification_history": {},
