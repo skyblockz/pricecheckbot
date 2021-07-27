@@ -3843,6 +3843,16 @@
                     455000
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    7,
+                    9
+                ]
+            },
             "gold_minion_i": {
                 "from": null,
                 "to": [
@@ -5806,7 +5816,7 @@
                 ]
             }
         },
-        "total_mods": 2353
+        "total_mods": 2354
     },
     "395028811399299082": {
         "modification_history": {},
