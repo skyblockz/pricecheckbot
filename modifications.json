@@ -803,6 +803,16 @@
                     500
                 ]
             },
+            "sand_minion_xi": {
+                "from": [
+                    1200000,
+                    1400000
+                ],
+                "to": [
+                    1250000,
+                    1250000
+                ]
+            },
             "sheep_minion_i": {
                 "from": null,
                 "to": [
@@ -863,7 +873,7 @@
                 ]
             }
         },
-        "total_mods": 1841
+        "total_mods": 1842
     },
     "395028811399299082": {
         "modification_history": {},
