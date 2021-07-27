@@ -2974,6 +2974,16 @@
                     9000
                 ]
             },
+            "end_stone_geode": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    200000,
+                    400000
+                ]
+            },
             "enderman_minion_xi": {
                 "from": [
                     1400000,
@@ -4885,7 +4895,7 @@
                 ]
             }
         },
-        "total_mods": 2256
+        "total_mods": 2257
     },
     "395028811399299082": {
         "modification_history": {},
