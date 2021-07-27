@@ -498,6 +498,16 @@
                     400
                 ]
             },
+            "chicken_minion_xi": {
+                "from": [
+                    600000,
+                    900000
+                ],
+                "to": [
+                    680000,
+                    680000
+                ]
+            },
             "clay_minion_i": {
                 "from": [
                     500,
@@ -1203,7 +1213,7 @@
                 ]
             }
         },
-        "total_mods": 1875
+        "total_mods": 1876
     },
     "395028811399299082": {
         "modification_history": {},
