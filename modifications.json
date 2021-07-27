@@ -1907,6 +1907,16 @@
                     110000
                 ]
             },
+            "echolocator": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    34000,
+                    100000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -3875,7 +3885,7 @@
                 ]
             }
         },
-        "total_mods": 2153
+        "total_mods": 2154
     },
     "395028811399299082": {
         "modification_history": {},
