@@ -2039,6 +2039,16 @@
                     1200000
                 ]
             },
+            "tier_1_common_newton_nether_warts_hoe": {
+                "from": [
+                    1350000,
+                    1600000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "tier_1_common_pythagorean_potato_hoe": {
                 "from": [
                     1350000,
@@ -2134,7 +2144,7 @@
                 ]
             }
         },
-        "total_mods": 1969
+        "total_mods": 1970
     },
     "395028811399299082": {
         "modification_history": {},
