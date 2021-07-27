@@ -3692,6 +3692,16 @@
                     50000000
                 ]
             },
+            "gemstone_gauntlet": {
+                "from": [
+                    100000000,
+                    235000000
+                ],
+                "to": [
+                    70000000,
+                    78000000
+                ]
+            },
             "ghast_minion_i": {
                 "from": null,
                 "to": [
@@ -5669,7 +5679,7 @@
                 ]
             }
         },
-        "total_mods": 2338
+        "total_mods": 2339
     },
     "395028811399299082": {
         "modification_history": {},
