@@ -1864,6 +1864,13 @@
                     1250000
                 ]
             },
+            "sea_creature_chance_enrichment": {
+                "from": null,
+                "to": [
+                    1700000,
+                    1800000
+                ]
+            },
             "sheep_minion_i": {
                 "from": null,
                 "to": [
@@ -2344,7 +2351,7 @@
                 ]
             }
         },
-        "total_mods": 1990
+        "total_mods": 1991
     },
     "395028811399299082": {
         "modification_history": {},
