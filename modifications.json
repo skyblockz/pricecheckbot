@@ -504,6 +504,16 @@
                     340000
                 ]
             },
+            "angler_chestplate": {
+                "from": [
+                    160,
+                    180
+                ],
+                "to": [
+                    190,
+                    190
+                ]
+            },
             "angler_helmet": {
                 "from": [
                     100,
@@ -2742,7 +2752,7 @@
                 ]
             }
         },
-        "total_mods": 2032
+        "total_mods": 2033
     },
     "395028811399299082": {
         "modification_history": {},
