@@ -2497,6 +2497,16 @@
                     230000
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    900,
+                    1275
+                ],
+                "to": [
+                    960,
+                    1000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4415,7 +4425,7 @@
                 ]
             }
         },
-        "total_mods": 2208
+        "total_mods": 2209
     },
     "395028811399299082": {
         "modification_history": {},
