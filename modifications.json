@@ -2667,6 +2667,16 @@
                     400
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    2400,
+                    2700
+                ],
+                "to": [
+                    14,
+                    16
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4585,7 +4595,7 @@
                 ]
             }
         },
-        "total_mods": 2225
+        "total_mods": 2226
     },
     "395028811399299082": {
         "modification_history": {},
