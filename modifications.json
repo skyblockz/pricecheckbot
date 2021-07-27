@@ -1801,6 +1801,16 @@
                     12000000
                 ]
             },
+            "shimmer_skin_young": {
+                "from": [
+                    31000000,
+                    33000000
+                ],
+                "to": [
+                    26000000,
+                    26000000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -2014,7 +2024,7 @@
                 ]
             }
         },
-        "total_mods": 1957
+        "total_mods": 1958
     },
     "395028811399299082": {
         "modification_history": {},
