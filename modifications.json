@@ -5055,6 +5055,16 @@
                     17000000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    700000,
+                    700000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "magic_find_enrichment": {
                 "from": [
                     1770000,
@@ -6626,7 +6636,7 @@
                 ]
             }
         },
-        "total_mods": 2439
+        "total_mods": 2440
     },
     "395028811399299082": {
         "modification_history": {},
