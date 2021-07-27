@@ -2017,6 +2017,16 @@
                     2300000
                 ]
             },
+            "emperors_skull": {
+                "from": [
+                    60000,
+                    100000
+                ],
+                "to": [
+                    79000,
+                    79000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -3935,7 +3945,7 @@
                 ]
             }
         },
-        "total_mods": 2160
+        "total_mods": 2161
     },
     "395028811399299082": {
         "modification_history": {},
