@@ -5726,6 +5726,16 @@
                     3000000
                 ]
             },
+            "oil_barrel": {
+                "from": [
+                    7000,
+                    13000
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2300,
@@ -7066,7 +7076,7 @@
                 ]
             }
         },
-        "total_mods": 2484
+        "total_mods": 2485
     },
     "395028811399299082": {
         "modification_history": {},
