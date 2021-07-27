@@ -2407,6 +2407,16 @@
                     1300
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    205000,
+                    220000
+                ],
+                "to": [
+                    204000,
+                    209000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4325,7 +4335,7 @@
                 ]
             }
         },
-        "total_mods": 2199
+        "total_mods": 2200
     },
     "395028811399299082": {
         "modification_history": {},
