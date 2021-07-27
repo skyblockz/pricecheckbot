@@ -1178,6 +1178,16 @@
                     19000000
                 ]
             },
+            "intelligence_enrichment": {
+                "from": [
+                    1600000,
+                    1600000
+                ],
+                "to": [
+                    1500000,
+                    1500000
+                ]
+            },
             "iron_minion_i": {
                 "from": null,
                 "to": [
@@ -2264,7 +2274,7 @@
                 ]
             }
         },
-        "total_mods": 1982
+        "total_mods": 1983
     },
     "395028811399299082": {
         "modification_history": {},
