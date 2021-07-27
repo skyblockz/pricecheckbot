@@ -2457,6 +2457,16 @@
                     1000
                 ]
             },
+            "yeti_sword": {
+                "from": [
+                    47000000,
+                    49000000
+                ],
+                "to": [
+                    40000000,
+                    43000000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -2485,7 +2495,7 @@
                 ]
             }
         },
-        "total_mods": 2005
+        "total_mods": 2006
     },
     "395028811399299082": {
         "modification_history": {},
