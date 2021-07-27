@@ -1271,6 +1271,16 @@
                     3000000
                 ]
             },
+            "smiling_rock_skin": {
+                "from": [
+                    145000000,
+                    155000000
+                ],
+                "to": [
+                    140000000,
+                    140000000
+                ]
+            },
             "spider_minion_i": {
                 "from": null,
                 "to": [
@@ -1390,7 +1400,7 @@
                 ]
             }
         },
-        "total_mods": 1894
+        "total_mods": 1895
     },
     "395028811399299082": {
         "modification_history": {},
