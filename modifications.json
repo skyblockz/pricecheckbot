@@ -4955,6 +4955,16 @@
                     40000000
                 ]
             },
+            "lesser_orb_of_healing": {
+                "from": [
+                    40000,
+                    45000
+                ],
+                "to": [
+                    63000,
+                    70000
+                ]
+            },
             "light_bait": {
                 "from": [
                     47,
@@ -6566,7 +6576,7 @@
                 ]
             }
         },
-        "total_mods": 2433
+        "total_mods": 2434
     },
     "395028811399299082": {
         "modification_history": {},
