@@ -594,10 +594,13 @@
                 ]
             },
             "glowstone_minion_i": {
-                "from": null,
-                "to": [
+                "from": [
                     2000,
                     2050
+                ],
+                "to": [
+                    2250000,
+                    2250000
                 ]
             },
             "gold_minion_i": {
@@ -850,7 +853,7 @@
                 ]
             }
         },
-        "total_mods": 1839
+        "total_mods": 1840
     },
     "395028811399299082": {
         "modification_history": {},
