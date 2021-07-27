@@ -1008,6 +1008,16 @@
                     3
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    8000,
+                    10000
+                ],
+                "to": [
+                    7500,
+                    25000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3252,7 +3262,7 @@
                 ]
             }
         },
-        "total_mods": 2088
+        "total_mods": 2089
     },
     "395028811399299082": {
         "modification_history": {},
