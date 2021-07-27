@@ -3940,6 +3940,16 @@
                     61000
                 ]
             },
+            "golden_treat": {
+                "from": [
+                    500000,
+                    900000
+                ],
+                "to": [
+                    600000,
+                    725000
+                ]
+            },
             "gorilla_monkey_skin": {
                 "from": [
                     5000000,
@@ -5876,7 +5886,7 @@
                 ]
             }
         },
-        "total_mods": 2360
+        "total_mods": 2361
     },
     "395028811399299082": {
         "modification_history": {},
