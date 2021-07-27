@@ -2135,6 +2135,16 @@
                     50000000
                 ]
             },
+            "nether_biome_stick": {
+                "from": [
+                    500,
+                    500
+                ],
+                "to": [
+                    70,
+                    80
+                ]
+            },
             "nether_wart_minion_i": {
                 "from": null,
                 "to": [
@@ -3154,7 +3164,7 @@
                 ]
             }
         },
-        "total_mods": 2076
+        "total_mods": 2077
     },
     "395028811399299082": {
         "modification_history": {},
