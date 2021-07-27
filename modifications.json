@@ -2466,6 +2466,16 @@
                     3000000
                 ]
             },
+            "small_backpack": {
+                "from": [
+                    10000,
+                    11000
+                ],
+                "to": [
+                    7000,
+                    20000
+                ]
+            },
             "smiling_rock_skin": {
                 "from": [
                     145000000,
@@ -2902,7 +2912,7 @@
                 ]
             }
         },
-        "total_mods": 2048
+        "total_mods": 2049
     },
     "395028811399299082": {
         "modification_history": {},
