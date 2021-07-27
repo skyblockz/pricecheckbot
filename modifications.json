@@ -617,6 +617,16 @@
                     210
                 ]
             },
+            "gravel_minion_xi": {
+                "from": [
+                    2000000,
+                    2200000
+                ],
+                "to": [
+                    3250000,
+                    3250000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -853,7 +863,7 @@
                 ]
             }
         },
-        "total_mods": 1840
+        "total_mods": 1841
     },
     "395028811399299082": {
         "modification_history": {},
