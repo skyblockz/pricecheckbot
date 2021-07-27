@@ -2847,6 +2847,16 @@
                     13500
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    125000,
+                    130000
+                ],
+                "to": [
+                    215000,
+                    7000000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4765,7 +4775,7 @@
                 ]
             }
         },
-        "total_mods": 2244
+        "total_mods": 2245
     },
     "395028811399299082": {
         "modification_history": {},
