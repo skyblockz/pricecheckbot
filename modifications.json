@@ -2457,6 +2457,16 @@
                     4400
                 ]
             },
+            "enchanted_hopper": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1300000,
+                    1350000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4375,7 +4385,7 @@
                 ]
             }
         },
-        "total_mods": 2204
+        "total_mods": 2205
     },
     "395028811399299082": {
         "modification_history": {},
