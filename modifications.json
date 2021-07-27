@@ -1106,6 +1106,16 @@
                     80000000
                 ]
             },
+            "puffer_fish_skin": {
+                "from": [
+                    15000000,
+                    17000000
+                ],
+                "to": [
+                    10000000,
+                    15000000
+                ]
+            },
             "pumpkin_minion_i": {
                 "from": null,
                 "to": [
@@ -1350,7 +1360,7 @@
                 ]
             }
         },
-        "total_mods": 1890
+        "total_mods": 1891
     },
     "395028811399299082": {
         "modification_history": {},
