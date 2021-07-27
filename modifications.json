@@ -996,6 +996,16 @@
                     1600000
                 ]
             },
+            "ferocity_enrichment": {
+                "from": [
+                    1500000,
+                    1750000
+                ],
+                "to": [
+                    1600000,
+                    1800000
+                ]
+            },
             "fish_minion_i": {
                 "from": [
                     2000,
@@ -2334,7 +2344,7 @@
                 ]
             }
         },
-        "total_mods": 1989
+        "total_mods": 1990
     },
     "395028811399299082": {
         "modification_history": {},
