@@ -988,6 +988,16 @@
                     1600
                 ]
             },
+            "bob-omb": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3232,7 +3242,7 @@
                 ]
             }
         },
-        "total_mods": 2086
+        "total_mods": 2087
     },
     "395028811399299082": {
         "modification_history": {},
