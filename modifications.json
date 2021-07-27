@@ -5599,6 +5599,16 @@
                     80
                 ]
             },
+            "nether_quartz": {
+                "from": [
+                    25,
+                    27
+                ],
+                "to": [
+                    16,
+                    25
+                ]
+            },
             "nether_wart_minion_i": {
                 "from": null,
                 "to": [
@@ -7006,7 +7016,7 @@
                 ]
             }
         },
-        "total_mods": 2478
+        "total_mods": 2479
     },
     "395028811399299082": {
         "modification_history": {},
