@@ -2077,6 +2077,16 @@
                     332000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    161000,
+                    167000
+                ],
+                "to": [
+                    146000,
+                    156000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -3995,7 +4005,7 @@
                 ]
             }
         },
-        "total_mods": 2166
+        "total_mods": 2167
     },
     "395028811399299082": {
         "modification_history": {},
