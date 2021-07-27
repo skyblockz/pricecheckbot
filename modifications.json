@@ -5125,6 +5125,16 @@
                     3400000
                 ]
             },
+            "magma_cube_head": {
+                "from": [
+                    55,
+                    70
+                ],
+                "to": [
+                    70,
+                    80
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -6686,7 +6696,7 @@
                 ]
             }
         },
-        "total_mods": 2445
+        "total_mods": 2446
     },
     "395028811399299082": {
         "modification_history": {},
