@@ -3982,12 +3982,12 @@
             },
             "grappling_hook": {
                 "from": [
-                    5000,
+                    4500,
                     5000
                 ],
                 "to": [
-                    4500,
-                    5000
+                    5000,
+                    6000
                 ]
             },
             "gravel_minion_i": {
@@ -5906,7 +5906,7 @@
                 ]
             }
         },
-        "total_mods": 2363
+        "total_mods": 2364
     },
     "395028811399299082": {
         "modification_history": {},
