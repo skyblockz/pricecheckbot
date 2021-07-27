@@ -2360,6 +2360,13 @@
                     300000000
                 ]
             },
+            "winter_disc": {
+                "from": null,
+                "to": [
+                    400,
+                    1000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -2388,7 +2395,7 @@
                 ]
             }
         },
-        "total_mods": 1995
+        "total_mods": 1996
     },
     "395028811399299082": {
         "modification_history": {},
