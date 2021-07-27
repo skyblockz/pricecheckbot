@@ -5262,6 +5262,16 @@
                     190000
                 ]
             },
+            "mimic_fragment": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    8000
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     11,
@@ -6786,7 +6796,7 @@
                 ]
             }
         },
-        "total_mods": 2455
+        "total_mods": 2456
     },
     "395028811399299082": {
         "modification_history": {},
