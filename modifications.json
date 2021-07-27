@@ -5025,6 +5025,16 @@
                     1400000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    230000,
+                    240000
+                ]
+            },
             "lvl_1_epic_baby_yeti": {
                 "from": [
                     15000000,
@@ -6606,7 +6616,7 @@
                 ]
             }
         },
-        "total_mods": 2437
+        "total_mods": 2438
     },
     "395028811399299082": {
         "modification_history": {},
