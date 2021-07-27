@@ -1202,6 +1202,16 @@
                     2200000
                 ]
             },
+            "century_cake_of_the_next_dungeon_floor": {
+                "from": [
+                    2000000,
+                    3000000
+                ],
+                "to": [
+                    2500000,
+                    2700000
+                ]
+            },
             "chicken_minion_i": {
                 "from": [
                     100,
@@ -3432,7 +3442,7 @@
                 ]
             }
         },
-        "total_mods": 2106
+        "total_mods": 2107
     },
     "395028811399299082": {
         "modification_history": {},
