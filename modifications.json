@@ -975,6 +975,16 @@
                     240
                 ]
             },
+            "wheat_minion_xi": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    300000,
+                    300000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -983,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 1853
+        "total_mods": 1854
     },
     "395028811399299082": {
         "modification_history": {},
