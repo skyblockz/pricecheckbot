@@ -2069,6 +2069,16 @@
                     1200000
                 ]
             },
+            "tier_2_uncommon_gauss_carrot_hoe": {
+                "from": [
+                    2350000,
+                    2600000
+                ],
+                "to": [
+                    2000000,
+                    2060000
+                ]
+            },
             "tier_2_uncommon_pythagorean_potato_hoe": {
                 "from": [
                     2300000,
@@ -2164,7 +2174,7 @@
                 ]
             }
         },
-        "total_mods": 1972
+        "total_mods": 1973
     },
     "395028811399299082": {
         "modification_history": {},
