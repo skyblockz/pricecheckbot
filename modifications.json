@@ -1543,6 +1543,16 @@
                     270000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    220000,
+                    250000
+                ],
+                "to": [
+                    100000,
+                    400000
+                ]
+            },
             "dark_oak_minion_i": {
                 "from": [
                     140,
@@ -3562,7 +3572,7 @@
                 ]
             }
         },
-        "total_mods": 2120
+        "total_mods": 2121
     },
     "395028811399299082": {
         "modification_history": {},
