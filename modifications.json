@@ -2237,6 +2237,16 @@
                     144000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    250000,
+                    260000
+                ],
+                "to": [
+                    250000,
+                    267000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4155,7 +4165,7 @@
                 ]
             }
         },
-        "total_mods": 2182
+        "total_mods": 2183
     },
     "395028811399299082": {
         "modification_history": {},
