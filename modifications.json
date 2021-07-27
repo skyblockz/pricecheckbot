@@ -2797,6 +2797,16 @@
                     51500
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    53000,
+                    92000
+                ],
+                "to": [
+                    65000,
+                    68000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4715,7 +4725,7 @@
                 ]
             }
         },
-        "total_mods": 2239
+        "total_mods": 2240
     },
     "395028811399299082": {
         "modification_history": {},
