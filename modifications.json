@@ -1633,6 +1633,16 @@
                     600000
                 ]
             },
+            "dark_queens_soul_drop": {
+                "from": [
+                    180000,
+                    250000
+                ],
+                "to": [
+                    190000,
+                    200000
+                ]
+            },
             "dark_wither_skeleton_skin": {
                 "from": [
                     55000000,
@@ -3632,7 +3642,7 @@
                 ]
             }
         },
-        "total_mods": 2127
+        "total_mods": 2128
     },
     "395028811399299082": {
         "modification_history": {},
