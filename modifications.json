@@ -1332,6 +1332,16 @@
                     1800000
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    6,
+                    7
+                ],
+                "to": [
+                    7,
+                    8
+                ]
+            },
             "cobblestone_minion_i": {
                 "from": [
                     420,
@@ -3512,7 +3522,7 @@
                 ]
             }
         },
-        "total_mods": 2114
+        "total_mods": 2115
     },
     "395028811399299082": {
         "modification_history": {},
