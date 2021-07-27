@@ -5095,6 +5095,16 @@
                     50
                 ]
             },
+            "magical_water_bucket": {
+                "from": [
+                    350,
+                    500
+                ],
+                "to": [
+                    430,
+                    480
+                ]
+            },
             "magma_cube_minion_i": {
                 "from": [
                     1000,
@@ -6656,7 +6666,7 @@
                 ]
             }
         },
-        "total_mods": 2442
+        "total_mods": 2443
     },
     "395028811399299082": {
         "modification_history": {},
