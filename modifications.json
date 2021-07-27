@@ -414,6 +414,16 @@
                     600000
                 ]
             },
+            "baby_dragon_skin_strong": {
+                "from": [
+                    42000000,
+                    44000000
+                ],
+                "to": [
+                    35000000,
+                    40000000
+                ]
+            },
             "baby_dragon_skin_superior": {
                 "from": [
                     88000000,
@@ -1490,7 +1500,7 @@
                 ]
             }
         },
-        "total_mods": 1904
+        "total_mods": 1905
     },
     "395028811399299082": {
         "modification_history": {},
