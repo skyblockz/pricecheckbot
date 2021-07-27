@@ -1737,6 +1737,16 @@
                     9
                 ]
             },
+            "diamond_atom": {
+                "from": [
+                    70000,
+                    98000
+                ],
+                "to": [
+                    40000,
+                    60000
+                ]
+            },
             "diamond_minion_i": {
                 "from": [
                     600,
@@ -3682,7 +3692,7 @@
                 ]
             }
         },
-        "total_mods": 2133
+        "total_mods": 2134
     },
     "395028811399299082": {
         "modification_history": {},
