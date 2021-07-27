@@ -2487,6 +2487,16 @@
                     1450
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    240000,
+                    245000
+                ],
+                "to": [
+                    220000,
+                    230000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4405,7 +4415,7 @@
                 ]
             }
         },
-        "total_mods": 2207
+        "total_mods": 2208
     },
     "395028811399299082": {
         "modification_history": {},
