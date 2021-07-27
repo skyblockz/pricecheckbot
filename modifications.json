@@ -2777,6 +2777,16 @@
                     80000
                 ]
             },
+            "enchanted_redstone": {
+                "from": [
+                    310,
+                    350
+                ],
+                "to": [
+                    300,
+                    340
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4695,7 +4705,7 @@
                 ]
             }
         },
-        "total_mods": 2237
+        "total_mods": 2238
     },
     "395028811399299082": {
         "modification_history": {},
