@@ -2337,6 +2337,16 @@
                     970
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    95000,
+                    115000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4255,7 +4265,7 @@
                 ]
             }
         },
-        "total_mods": 2192
+        "total_mods": 2193
     },
     "395028811399299082": {
         "modification_history": {},
