@@ -2937,6 +2937,16 @@
                     18000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    116000,
+                    132000
+                ],
+                "to": [
+                    115000,
+                    123000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4855,7 +4865,7 @@
                 ]
             }
         },
-        "total_mods": 2253
+        "total_mods": 2254
     },
     "395028811399299082": {
         "modification_history": {},
