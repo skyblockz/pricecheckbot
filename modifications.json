@@ -1767,6 +1767,16 @@
                     3000000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    9000,
+                    12000
+                ],
+                "to": [
+                    6000,
+                    7000
+                ]
+            },
             "divers_shirt": {
                 "from": [
                     800000,
@@ -3692,7 +3702,7 @@
                 ]
             }
         },
-        "total_mods": 2134
+        "total_mods": 2135
     },
     "395028811399299082": {
         "modification_history": {},
