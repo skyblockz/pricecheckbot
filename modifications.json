@@ -2887,6 +2887,16 @@
                     2800
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    920,
+                    980
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4805,7 +4815,7 @@
                 ]
             }
         },
-        "total_mods": 2248
+        "total_mods": 2249
     },
     "395028811399299082": {
         "modification_history": {},
