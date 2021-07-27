@@ -1169,6 +1169,16 @@
                     700000
                 ]
             },
+            "electron_transmitter": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "embarrassed_rock_skin": {
                 "from": [
                     195000000,
@@ -2862,7 +2872,7 @@
                 ]
             }
         },
-        "total_mods": 2044
+        "total_mods": 2045
     },
     "395028811399299082": {
         "modification_history": {},
