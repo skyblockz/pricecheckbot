@@ -2037,6 +2037,16 @@
                     3000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    28000,
+                    28500
+                ],
+                "to": [
+                    26000,
+                    28000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -3955,7 +3965,7 @@
                 ]
             }
         },
-        "total_mods": 2162
+        "total_mods": 2163
     },
     "395028811399299082": {
         "modification_history": {},
