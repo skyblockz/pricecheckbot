@@ -1248,6 +1248,16 @@
                     1300000
                 ]
             },
+            "spooky_enderman_skin": {
+                "from": [
+                    45000000,
+                    48000000
+                ],
+                "to": [
+                    73000000,
+                    77000000
+                ]
+            },
             "spruce_minion_i": {
                 "from": [
                     500,
@@ -1320,7 +1330,7 @@
                 ]
             }
         },
-        "total_mods": 1887
+        "total_mods": 1888
     },
     "395028811399299082": {
         "modification_history": {},
