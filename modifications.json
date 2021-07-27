@@ -987,6 +987,16 @@
                     3250000
                 ]
             },
+            "grownup_baby_yeti_skin": {
+                "from": [
+                    28500000,
+                    32000000
+                ],
+                "to": [
+                    35000000,
+                    40000000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -1670,7 +1680,7 @@
                 ]
             }
         },
-        "total_mods": 1922
+        "total_mods": 1923
     },
     "395028811399299082": {
         "modification_history": {},
