@@ -2277,6 +2277,16 @@
                     1280
                 ]
             },
+            "enchanted_diamond_block": {
+                "from": [
+                    205000,
+                    212000
+                ],
+                "to": [
+                    204000,
+                    205000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4195,7 +4205,7 @@
                 ]
             }
         },
-        "total_mods": 2186
+        "total_mods": 2187
     },
     "395028811399299082": {
         "modification_history": {},
