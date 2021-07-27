@@ -5195,6 +5195,16 @@
                     10000000
                 ]
             },
+            "maxor_the_fish": {
+                "from": [
+                    50000,
+                    350000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     45000,
@@ -6746,7 +6756,7 @@
                 ]
             }
         },
-        "total_mods": 2451
+        "total_mods": 2452
     },
     "395028811399299082": {
         "modification_history": {},
