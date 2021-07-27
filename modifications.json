@@ -2167,6 +2167,16 @@
                     220
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    11700,
+                    15000
+                ],
+                "to": [
+                    11000,
+                    24000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4085,7 +4095,7 @@
                 ]
             }
         },
-        "total_mods": 2175
+        "total_mods": 2176
     },
     "395028811399299082": {
         "modification_history": {},
