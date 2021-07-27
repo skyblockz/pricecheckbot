@@ -468,6 +468,16 @@
                     280
                 ]
             },
+            "clay_minion_xi": {
+                "from": [
+                    350000,
+                    450000
+                ],
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "coal_minion_i": {
                 "from": [
                     750,
@@ -873,7 +883,7 @@
                 ]
             }
         },
-        "total_mods": 1842
+        "total_mods": 1843
     },
     "395028811399299082": {
         "modification_history": {},
