@@ -3348,6 +3348,16 @@
                     570000
                 ]
             },
+            "flycatcher": {
+                "from": [
+                    11100000,
+                    12000000
+                ],
+                "to": [
+                    12000000,
+                    12400000
+                ]
+            },
             "forest_biome_stick": {
                 "from": null,
                 "to": [
@@ -5232,7 +5242,7 @@
                 ]
             }
         },
-        "total_mods": 2291
+        "total_mods": 2292
     },
     "395028811399299082": {
         "modification_history": {},
