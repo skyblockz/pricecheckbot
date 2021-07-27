@@ -5923,6 +5923,16 @@
                     32000
                 ]
             },
+            "personal_harp": {
+                "from": [
+                    1000000,
+                    1000000
+                ],
+                "to": [
+                    550000,
+                    900000
+                ]
+            },
             "pet_rock_century_cake": {
                 "from": [
                     1400000,
@@ -7146,7 +7156,7 @@
                 ]
             }
         },
-        "total_mods": 2493
+        "total_mods": 2494
     },
     "395028811399299082": {
         "modification_history": {},
