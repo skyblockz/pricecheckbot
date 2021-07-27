@@ -564,6 +564,16 @@
                     450000
                 ]
             },
+            "arachne_fragment": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     1650000,
@@ -2782,7 +2792,7 @@
                 ]
             }
         },
-        "total_mods": 2036
+        "total_mods": 2037
     },
     "395028811399299082": {
         "modification_history": {},
