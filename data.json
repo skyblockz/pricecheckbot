@@ -7069,12 +7069,6 @@
     },
     {
         "ac": true,
-        "hi": 75000,
-        "low": 50000,
-        "name": "dungeons_chest_key"
-    },
-    {
-        "ac": true,
         "hi": 750000,
         "low": 700000,
         "name": "bonzos_mask_5_star"
@@ -14272,5 +14266,11 @@
         "hi": 2900000,
         "low": 1900000,
         "name": "crab-colored_centruy_cake"
+    },
+    {
+        "ac": true,
+        "hi": 75000,
+        "low": 50000,
+        "name": "dungeon_chest_key"
     }
 ]
