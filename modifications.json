@@ -630,6 +630,16 @@
                     670
                 ]
             },
+            "gold_minion_xi": {
+                "from": [
+                    3500000,
+                    3700000
+                ],
+                "to": [
+                    3000000,
+                    3000000
+                ]
+            },
             "gravel_minion_i": {
                 "from": null,
                 "to": [
@@ -913,7 +923,7 @@
                 ]
             }
         },
-        "total_mods": 1846
+        "total_mods": 1847
     },
     "395028811399299082": {
         "modification_history": {},
