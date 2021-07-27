@@ -2437,6 +2437,16 @@
                     1530
                 ]
             },
+            "enchanted_hard_stone": {
+                "from": [
+                    3750,
+                    4200
+                ],
+                "to": [
+                    3200,
+                    3500
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4355,7 +4365,7 @@
                 ]
             }
         },
-        "total_mods": 2202
+        "total_mods": 2203
     },
     "395028811399299082": {
         "modification_history": {},
