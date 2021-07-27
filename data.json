@@ -14194,5 +14194,11 @@
         "hi": 1800000,
         "low": 1700000,
         "name": "sea_creature_chance_enrichment"
+    },
+    {
+        "ac": true,
+        "hi": 1500,
+        "low": 1000,
+        "name": "journal_entry"
     }
 ]
