@@ -6384,6 +6384,16 @@
                     200000000
                 ]
             },
+            "third_master_star": {
+                "from": [
+                    31000000,
+                    35000000
+                ],
+                "to": [
+                    32000000,
+                    34000000
+                ]
+            },
             "tier_1_common_euclids_wheat_hoe": {
                 "from": [
                     1350000,
@@ -6726,7 +6736,7 @@
                 ]
             }
         },
-        "total_mods": 2449
+        "total_mods": 2450
     },
     "395028811399299082": {
         "modification_history": {},
