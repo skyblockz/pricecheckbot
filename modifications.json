@@ -2019,6 +2019,16 @@
                     200000000
                 ]
             },
+            "tier_1_common_euclids_wheat_hoe": {
+                "from": [
+                    1350000,
+                    1600000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "tier_1_common_gauss_carrot_hoe": {
                 "from": [
                     1350000,
@@ -2124,7 +2134,7 @@
                 ]
             }
         },
-        "total_mods": 1968
+        "total_mods": 1969
     },
     "395028811399299082": {
         "modification_history": {},
