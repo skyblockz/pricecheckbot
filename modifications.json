@@ -468,6 +468,16 @@
                     500
                 ]
             },
+            "cavespider_minion_xi": {
+                "from": [
+                    1900000,
+                    2100000
+                ],
+                "to": [
+                    2200000,
+                    2200000
+                ]
+            },
             "chicken_minion_i": {
                 "from": [
                     100,
@@ -1123,7 +1133,7 @@
                 ]
             }
         },
-        "total_mods": 1867
+        "total_mods": 1868
     },
     "395028811399299082": {
         "modification_history": {},
