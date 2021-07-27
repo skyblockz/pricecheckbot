@@ -4197,6 +4197,16 @@
                     33000
                 ]
             },
+            "happy_mask": {
+                "from": [
+                    24000,
+                    24000
+                ],
+                "to": [
+                    29000,
+                    30000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6066,7 +6076,7 @@
                 ]
             }
         },
-        "total_mods": 2380
+        "total_mods": 2381
     },
     "395028811399299082": {
         "modification_history": {},
