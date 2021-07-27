@@ -2335,10 +2335,13 @@
                 ]
             },
             "journal_entry": {
-                "from": null,
-                "to": [
+                "from": [
                     1000,
                     1500
+                ],
+                "to": [
+                    500,
+                    5000
                 ]
             },
             "juju_shortbow": {
@@ -3842,7 +3845,7 @@
                 ]
             }
         },
-        "total_mods": 2149
+        "total_mods": 2150
     },
     "395028811399299082": {
         "modification_history": {},
