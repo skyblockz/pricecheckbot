@@ -5814,6 +5814,16 @@
                     890000
                 ]
             },
+            "uncommon_griffin_upgrade_stone": {
+                "from": [
+                    870000,
+                    940000
+                ],
+                "to": [
+                    1000000,
+                    1800000
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2300,
@@ -5976,7 +5986,7 @@
                 ]
             }
         },
-        "total_mods": 2371
+        "total_mods": 2372
     },
     "395028811399299082": {
         "modification_history": {},
