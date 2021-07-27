@@ -3101,6 +3101,16 @@
                     245000
                 ]
             },
+            "etherwarp_conduit": {
+                "from": [
+                    15600000,
+                    16400000
+                ],
+                "to": [
+                    14000000,
+                    14750000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1500000,
@@ -4955,7 +4965,7 @@
                 ]
             }
         },
-        "total_mods": 2263
+        "total_mods": 2264
     },
     "395028811399299082": {
         "modification_history": {},
