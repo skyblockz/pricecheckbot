@@ -1135,6 +1135,16 @@
                     300000
                 ]
             },
+            "carrot": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    2,
+                    3
+                ]
+            },
             "carrot_minion_i": {
                 "from": [
                     1000,
@@ -3362,7 +3372,7 @@
                 ]
             }
         },
-        "total_mods": 2099
+        "total_mods": 2100
     },
     "395028811399299082": {
         "modification_history": {},
