@@ -4538,6 +4538,16 @@
                     19000000
                 ]
             },
+            "shark_bait": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    7,
+                    20
+                ]
+            },
             "sheep_minion_i": {
                 "from": null,
                 "to": [
@@ -5192,7 +5202,7 @@
                 ]
             }
         },
-        "total_mods": 2287
+        "total_mods": 2288
     },
     "395028811399299082": {
         "modification_history": {},
