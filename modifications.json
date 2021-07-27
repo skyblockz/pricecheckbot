@@ -2377,6 +2377,16 @@
                     4500
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    61500,
+                    63500
+                ],
+                "to": [
+                    65000,
+                    68000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4295,7 +4305,7 @@
                 ]
             }
         },
-        "total_mods": 2196
+        "total_mods": 2197
     },
     "395028811399299082": {
         "modification_history": {},
