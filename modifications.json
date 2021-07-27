@@ -5806,6 +5806,16 @@
                     900000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    60000000,
+                    69000000
+                ],
+                "to": [
+                    57900000,
+                    60000000
+                ]
+            },
             "pastel_ender_dragon_skin": {
                 "from": null,
                 "to": [
@@ -7106,7 +7116,7 @@
                 ]
             }
         },
-        "total_mods": 2489
+        "total_mods": 2490
     },
     "395028811399299082": {
         "modification_history": {},
