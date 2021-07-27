@@ -1017,6 +1017,16 @@
                     200
                 ]
             },
+            "skeleton_minion_xi": {
+                "from": [
+                    1650000,
+                    1650000
+                ],
+                "to": [
+                    570000,
+                    570000
+                ]
+            },
             "slime_minion_i": {
                 "from": null,
                 "to": [
@@ -1093,7 +1103,7 @@
                 ]
             }
         },
-        "total_mods": 1864
+        "total_mods": 1865
     },
     "395028811399299082": {
         "modification_history": {},
