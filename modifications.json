@@ -2677,6 +2677,16 @@
                     16
                 ]
             },
+            "enchanted_pumpkin": {
+                "from": [
+                    700,
+                    720
+                ],
+                "to": [
+                    695,
+                    700
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4595,7 +4605,7 @@
                 ]
             }
         },
-        "total_mods": 2226
+        "total_mods": 2227
     },
     "395028811399299082": {
         "modification_history": {},
