@@ -4491,6 +4491,16 @@
                     25000000
                 ]
             },
+            "inflatable_jerry": {
+                "from": [
+                    100,
+                    150
+                ],
+                "to": [
+                    50,
+                    1000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1600000,
@@ -6286,7 +6296,7 @@
                 ]
             }
         },
-        "total_mods": 2402
+        "total_mods": 2403
     },
     "395028811399299082": {
         "modification_history": {},
