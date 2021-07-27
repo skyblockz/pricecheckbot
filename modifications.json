@@ -879,6 +879,16 @@
                     70000000
                 ]
             },
+            "defense_enrichment": {
+                "from": [
+                    0,
+                    0
+                ],
+                "to": [
+                    1700000,
+                    1750000
+                ]
+            },
             "derpy_rock_skin": {
                 "from": [
                     175000000,
@@ -2304,7 +2314,7 @@
                 ]
             }
         },
-        "total_mods": 1986
+        "total_mods": 1987
     },
     "395028811399299082": {
         "modification_history": {},
