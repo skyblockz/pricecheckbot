@@ -1038,6 +1038,16 @@
                     13000000
                 ]
             },
+            "builders_wand": {
+                "from": [
+                    3400000,
+                    3500000
+                ],
+                "to": [
+                    3650000,
+                    3800000
+                ]
+            },
             "cactus_minion_i": {
                 "from": null,
                 "to": [
@@ -3282,7 +3292,7 @@
                 ]
             }
         },
-        "total_mods": 2091
+        "total_mods": 2092
     },
     "395028811399299082": {
         "modification_history": {},
