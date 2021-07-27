@@ -4471,6 +4471,16 @@
                     12300
                 ]
             },
+            "infinitorch": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    350000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1600000,
@@ -6266,7 +6276,7 @@
                 ]
             }
         },
-        "total_mods": 2400
+        "total_mods": 2401
     },
     "395028811399299082": {
         "modification_history": {},
