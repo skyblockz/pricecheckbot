@@ -6022,6 +6022,16 @@
                     2300000
                 ]
             },
+            "second_master_star": {
+                "from": [
+                    28000000,
+                    31000000
+                ],
+                "to": [
+                    29700000,
+                    29950000
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     20800000,
@@ -6716,7 +6726,7 @@
                 ]
             }
         },
-        "total_mods": 2448
+        "total_mods": 2449
     },
     "395028811399299082": {
         "modification_history": {},
