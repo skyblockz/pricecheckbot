@@ -2917,6 +2917,16 @@
                     350
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    52500,
+                    52500
+                ],
+                "to": [
+                    53000,
+                    55000
+                ]
+            },
             "end_biome_stick": {
                 "from": null,
                 "to": [
@@ -4835,7 +4845,7 @@
                 ]
             }
         },
-        "total_mods": 2251
+        "total_mods": 2252
     },
     "395028811399299082": {
         "modification_history": {},
