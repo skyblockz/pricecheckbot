@@ -1232,6 +1232,16 @@
                     50000000
                 ]
             },
+            "neon_yellow_sheep_skin": {
+                "from": [
+                    27000000,
+                    30000000
+                ],
+                "to": [
+                    35000000,
+                    50000000
+                ]
+            },
             "nether_wart_minion_i": {
                 "from": null,
                 "to": [
@@ -1730,7 +1740,7 @@
                 ]
             }
         },
-        "total_mods": 1928
+        "total_mods": 1929
     },
     "395028811399299082": {
         "modification_history": {},
