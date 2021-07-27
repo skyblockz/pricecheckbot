@@ -769,6 +769,16 @@
                     400000
                 ]
             },
+            "dark_wither_skeleton_skin": {
+                "from": [
+                    55000000,
+                    60000000
+                ],
+                "to": [
+                    65000000,
+                    70000000
+                ]
+            },
             "derpy_rock_skin": {
                 "from": [
                     175000000,
@@ -1610,7 +1620,7 @@
                 ]
             }
         },
-        "total_mods": 1916
+        "total_mods": 1917
     },
     "395028811399299082": {
         "modification_history": {},
