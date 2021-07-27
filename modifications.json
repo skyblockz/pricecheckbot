@@ -605,6 +605,16 @@
                     2100000
                 ]
             },
+            "concentrated_stone": {
+                "from": [
+                    2000000,
+                    2400000
+                ],
+                "to": [
+                    1850000,
+                    2000000
+                ]
+            },
             "cow_minion_i": {
                 "from": null,
                 "to": [
@@ -1310,7 +1320,7 @@
                 ]
             }
         },
-        "total_mods": 1886
+        "total_mods": 1887
     },
     "395028811399299082": {
         "modification_history": {},
