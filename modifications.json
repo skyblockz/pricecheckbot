@@ -794,6 +794,16 @@
                     999
                 ]
             },
+            "beating_heart": {
+                "from": [
+                    15000,
+                    25000
+                ],
+                "to": [
+                    18000,
+                    30000
+                ]
+            },
             "birch_minion_i": {
                 "from": [
                     450,
@@ -3062,7 +3072,7 @@
                 ]
             }
         },
-        "total_mods": 2065
+        "total_mods": 2066
     },
     "395028811399299082": {
         "modification_history": {},
