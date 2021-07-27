@@ -4716,6 +4716,16 @@
                     135000000
                 ]
             },
+            "spooky_bait": {
+                "from": [
+                    32,
+                    55
+                ],
+                "to": [
+                    30,
+                    50
+                ]
+            },
             "spooky_enderman_skin": {
                 "from": [
                     45000000,
@@ -5142,7 +5152,7 @@
                 ]
             }
         },
-        "total_mods": 2282
+        "total_mods": 2283
     },
     "395028811399299082": {
         "modification_history": {},
