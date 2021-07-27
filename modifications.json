@@ -2069,6 +2069,16 @@
                     1200000
                 ]
             },
+            "tier_2_uncommon_euclids_wheat_hoe": {
+                "from": [
+                    4350000,
+                    4600000
+                ],
+                "to": [
+                    3100000,
+                    3200000
+                ]
+            },
             "tier_2_uncommon_gauss_carrot_hoe": {
                 "from": [
                     2350000,
@@ -2174,7 +2184,7 @@
                 ]
             }
         },
-        "total_mods": 1973
+        "total_mods": 1974
     },
     "395028811399299082": {
         "modification_history": {},
