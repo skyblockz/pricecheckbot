@@ -4785,6 +4785,16 @@
                     8
                 ]
             },
+            "kalhuiki_mask": {
+                "from": [
+                    100000,
+                    190000
+                ],
+                "to": [
+                    100000,
+                    450000
+                ]
+            },
             "kismet_feather": {
                 "from": [
                     380000,
@@ -6486,7 +6496,7 @@
                 ]
             }
         },
-        "total_mods": 2423
+        "total_mods": 2424
     },
     "395028811399299082": {
         "modification_history": {},
