@@ -2119,6 +2119,16 @@
                     2100000
                 ]
             },
+            "tier_3_rare_euclids_wheat_hoe": {
+                "from": [
+                    145000000,
+                    155000000
+                ],
+                "to": [
+                    205000000,
+                    206000000
+                ]
+            },
             "tier_3_rare_gauss_carrot_hoe": {
                 "from": [
                     17450000,
@@ -2224,7 +2234,7 @@
                 ]
             }
         },
-        "total_mods": 1978
+        "total_mods": 1979
     },
     "395028811399299082": {
         "modification_history": {},
