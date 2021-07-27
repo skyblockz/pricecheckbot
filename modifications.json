@@ -4481,6 +4481,16 @@
                     350000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": [
+                    18500000,
+                    30000000
+                ],
+                "to": [
+                    20000000,
+                    25000000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1600000,
@@ -6276,7 +6286,7 @@
                 ]
             }
         },
-        "total_mods": 2401
+        "total_mods": 2402
     },
     "395028811399299082": {
         "modification_history": {},
