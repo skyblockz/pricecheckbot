@@ -3702,6 +3702,16 @@
                     78000000
                 ]
             },
+            "gemstone_mixture": {
+                "from": [
+                    3950000,
+                    4500000
+                ],
+                "to": [
+                    3000000,
+                    3000000
+                ]
+            },
             "ghast_minion_i": {
                 "from": null,
                 "to": [
@@ -5679,7 +5689,7 @@
                 ]
             }
         },
-        "total_mods": 2339
+        "total_mods": 2340
     },
     "395028811399299082": {
         "modification_history": {},
