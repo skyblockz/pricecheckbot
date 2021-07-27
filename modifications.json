@@ -4167,6 +4167,16 @@
                     150000
                 ]
             },
+            "gunpowder": {
+                "from": [
+                    12,
+                    17
+                ],
+                "to": [
+                    10,
+                    14
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6036,7 +6046,7 @@
                 ]
             }
         },
-        "total_mods": 2377
+        "total_mods": 2378
     },
     "395028811399299082": {
         "modification_history": {},
