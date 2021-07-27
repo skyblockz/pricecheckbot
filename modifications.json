@@ -431,6 +431,16 @@
                     100
                 ]
             },
+            "cactus_minion_xi": {
+                "from": [
+                    3000000,
+                    4000000
+                ],
+                "to": [
+                    1400000,
+                    1500000
+                ]
+            },
             "carrot_minion_i": {
                 "from": [
                     1000,
@@ -1033,7 +1043,7 @@
                 ]
             }
         },
-        "total_mods": 1858
+        "total_mods": 1859
     },
     "395028811399299082": {
         "modification_history": {},
