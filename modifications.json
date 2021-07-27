@@ -1623,6 +1623,16 @@
                     400000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    400000,
+                    570000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "dark_wither_skeleton_skin": {
                 "from": [
                     55000000,
@@ -3622,7 +3632,7 @@
                 ]
             }
         },
-        "total_mods": 2126
+        "total_mods": 2127
     },
     "395028811399299082": {
         "modification_history": {},
