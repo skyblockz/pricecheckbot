@@ -1285,6 +1285,13 @@
                     4800000
                 ]
             },
+            "journal_entry": {
+                "from": null,
+                "to": [
+                    1000,
+                    1500
+                ]
+            },
             "jungle_minion_i": {
                 "from": [
                     450,
@@ -2381,7 +2388,7 @@
                 ]
             }
         },
-        "total_mods": 1994
+        "total_mods": 1995
     },
     "395028811399299082": {
         "modification_history": {},
