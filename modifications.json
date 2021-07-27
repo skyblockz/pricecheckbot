@@ -2278,6 +2278,16 @@
                     20000000
                 ]
             },
+            "robotron_reflector": {
+                "from": [
+                    230000,
+                    3000000
+                ],
+                "to": [
+                    230000,
+                    290000
+                ]
+            },
             "rose_rabbit_skin": {
                 "from": [
                     6800000,
@@ -2872,7 +2882,7 @@
                 ]
             }
         },
-        "total_mods": 2045
+        "total_mods": 2046
     },
     "395028811399299082": {
         "modification_history": {},
