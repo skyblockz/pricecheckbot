@@ -504,6 +504,16 @@
                     340000
                 ]
             },
+            "angler_boots": {
+                "from": [
+                    80,
+                    100
+                ],
+                "to": [
+                    95,
+                    95
+                ]
+            },
             "angler_chestplate": {
                 "from": [
                     160,
@@ -2762,7 +2772,7 @@
                 ]
             }
         },
-        "total_mods": 2034
+        "total_mods": 2035
     },
     "395028811399299082": {
         "modification_history": {},
