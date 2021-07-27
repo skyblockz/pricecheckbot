@@ -1811,6 +1811,16 @@
                     18000000
                 ]
             },
+            "shimmer_skin_strong": {
+                "from": [
+                    10000000,
+                    11000000
+                ],
+                "to": [
+                    11000000,
+                    12000000
+                ]
+            },
             "shimmer_skin_superior": {
                 "from": [
                     50000000,
@@ -2054,7 +2064,7 @@
                 ]
             }
         },
-        "total_mods": 1961
+        "total_mods": 1962
     },
     "395028811399299082": {
         "modification_history": {},
