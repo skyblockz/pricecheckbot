@@ -1246,6 +1246,13 @@
                     30000
                 ]
             },
+            "deep_ocean_biome_stick": {
+                "from": null,
+                "to": [
+                    42000,
+                    45000
+                ]
+            },
             "defense_enrichment": {
                 "from": [
                     0,
@@ -3119,7 +3126,7 @@
                 ]
             }
         },
-        "total_mods": 2071
+        "total_mods": 2072
     },
     "395028811399299082": {
         "modification_history": {},
