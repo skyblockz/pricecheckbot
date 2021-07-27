@@ -3786,6 +3786,16 @@
                     50000
                 ]
             },
+            "gloomlock_grimorie": {
+                "from": [
+                    6100000,
+                    6500000
+                ],
+                "to": [
+                    7000000,
+                    14000000
+                ]
+            },
             "glowstone_minion_i": {
                 "from": [
                     2000,
@@ -5769,7 +5779,7 @@
                 ]
             }
         },
-        "total_mods": 2348
+        "total_mods": 2349
     },
     "395028811399299082": {
         "modification_history": {},
