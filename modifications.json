@@ -4521,6 +4521,16 @@
                     1500000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    9,
+                    10
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "iron_minion_i": {
                 "from": null,
                 "to": [
@@ -6306,7 +6316,7 @@
                 ]
             }
         },
-        "total_mods": 2404
+        "total_mods": 2405
     },
     "395028811399299082": {
         "modification_history": {},
