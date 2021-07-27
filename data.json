@@ -11197,12 +11197,6 @@
     },
     {
         "ac": true,
-        "hi": 14000000,
-        "low": 7000000,
-        "name": "gloomlock_grimorie"
-    },
-    {
-        "ac": true,
         "hi": 3900000,
         "low": 3800000,
         "name": "soulflow_battery"
@@ -14284,5 +14278,11 @@
         "hi": 9,
         "low": 7,
         "name": "rough_amethyst_gemstone"
+    },
+    {
+        "ac": true,
+        "hi": 14000000,
+        "low": 7000000,
+        "name": "gloomlock_grimoire"
     }
 ]
