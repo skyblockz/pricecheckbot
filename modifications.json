@@ -4217,6 +4217,16 @@
                     6
                 ]
             },
+            "hardened_wood": {
+                "from": [
+                    196000,
+                    197000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "hardstone_minion_i": {
                 "from": null,
                 "to": [
@@ -6086,7 +6096,7 @@
                 ]
             }
         },
-        "total_mods": 2382
+        "total_mods": 2383
     },
     "395028811399299082": {
         "modification_history": {},
