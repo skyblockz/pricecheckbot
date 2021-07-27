@@ -9757,12 +9757,6 @@
     },
     {
         "ac": true,
-        "hi": 18000000,
-        "low": 10000000,
-        "name": "mithril_infused_fuel_tank"
-    },
-    {
-        "ac": true,
         "hi": 5037,
         "low": 5037,
         "name": "rotten_chestplate"
@@ -14290,5 +14284,11 @@
         "hi": 545000,
         "low": 490000,
         "name": "minion_storage_x-pender"
+    },
+    {
+        "ac": true,
+        "hi": 18000000,
+        "low": 10000000,
+        "name": "mithril-infused_fuel_tank"
     }
 ]
