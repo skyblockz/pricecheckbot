@@ -8970,6 +8970,16 @@
                     2550
                 ]
             },
+            "zog_anvil": {
+                "from": [
+                    600000,
+                    800000
+                ],
+                "to": [
+                    400000,
+                    700000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -8998,7 +9008,7 @@
                 ]
             }
         },
-        "total_mods": 2690
+        "total_mods": 2691
     },
     "395028811399299082": {
         "modification_history": {},
