@@ -10147,12 +10147,6 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 30000,
-        "name": "epic_zombie_knight_chestplate"
-    },
-    {
-        "ac": true,
         "hi": 600000,
         "low": 550000,
         "name": "personal_deletor_4000"
@@ -14332,5 +14326,11 @@
         "hi": 42000,
         "low": 10000,
         "name": "zombie_knight_helmet"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 30000,
+        "name": "zombie_knight_chestplate"
     }
 ]
