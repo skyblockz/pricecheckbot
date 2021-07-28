@@ -7190,6 +7190,16 @@
                     29950000
                 ]
             },
+            "seeds": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "shadow_assassin_chestplate": {
                 "from": [
                     20800000,
@@ -7924,7 +7934,7 @@
                 ]
             }
         },
-        "total_mods": 2580
+        "total_mods": 2581
     },
     "395028811399299082": {
         "modification_history": {},
