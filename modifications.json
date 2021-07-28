@@ -1466,6 +1466,16 @@
                     290000
                 ]
             },
+            "chestplate_of_the_pack": {
+                "from": [
+                    550000,
+                    800000
+                ],
+                "to": [
+                    200000,
+                    500000
+                ]
+            },
             "chicken_minion_i": {
                 "from": [
                     100,
@@ -10042,7 +10052,7 @@
                 ]
             }
         },
-        "total_mods": 2832
+        "total_mods": 2833
     },
     "395028811399299082": {
         "modification_history": {},
