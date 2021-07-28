@@ -6818,6 +6818,16 @@
                     90000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    8000,
+                    35000
+                ],
+                "to": [
+                    8000,
+                    8000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -7720,7 +7730,7 @@
                 ]
             }
         },
-        "total_mods": 2558
+        "total_mods": 2559
     },
     "395028811399299082": {
         "modification_history": {},
