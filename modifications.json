@@ -488,6 +488,16 @@
                     3700000
                 ]
             },
+            "amber_power_scroll": {
+                "from": [
+                    1400000,
+                    4690000
+                ],
+                "to": [
+                    2970000,
+                    3000000
+                ]
+            },
             "ancient_claw": {
                 "from": [
                     180,
@@ -7280,7 +7290,7 @@
                 ]
             }
         },
-        "total_mods": 2507
+        "total_mods": 2508
     },
     "395028811399299082": {
         "modification_history": {},
