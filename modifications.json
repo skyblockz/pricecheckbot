@@ -4209,6 +4209,16 @@
                     390000
                 ]
             },
+            "flamebreaker_helmet": {
+                "from": [
+                    390000,
+                    450000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "flawed_amber_gemstone": {
                 "from": [
                     910,
@@ -10872,7 +10882,7 @@
                 ]
             }
         },
-        "total_mods": 2916
+        "total_mods": 2917
     },
     "395028811399299082": {
         "modification_history": {},
