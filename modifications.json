@@ -8525,6 +8525,16 @@
                     1750000
                 ]
             },
+            "speedster_helmet": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    300000,
+                    450000
+                ]
+            },
             "spider_catalyst": {
                 "from": [
                     35000,
@@ -10062,7 +10072,7 @@
                 ]
             }
         },
-        "total_mods": 2834
+        "total_mods": 2835
     },
     "395028811399299082": {
         "modification_history": {},
