@@ -9411,6 +9411,16 @@
                     5050
                 ]
             },
+            "skeletons_helmet": {
+                "from": [
+                    195000,
+                    200000
+                ],
+                "to": [
+                    195000,
+                    195000
+                ]
+            },
             "sleeping_eye": {
                 "from": [
                     450000,
@@ -11682,7 +11692,7 @@
                 ]
             }
         },
-        "total_mods": 2999
+        "total_mods": 3000
     },
     "395028811399299082": {
         "modification_history": {},
