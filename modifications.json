@@ -5603,6 +5603,16 @@
                     8000
                 ]
             },
+            "miner_boots": {
+                "from": [
+                    2000,
+                    2000
+                ],
+                "to": [
+                    4000,
+                    10000
+                ]
+            },
             "mining_pumpkin": {
                 "from": [
                     150000,
@@ -9522,7 +9532,7 @@
                 ]
             }
         },
-        "total_mods": 2773
+        "total_mods": 2774
     },
     "395028811399299082": {
         "modification_history": {},
