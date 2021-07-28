@@ -9852,6 +9852,16 @@
                     1000000
                 ]
             },
+            "storms_helmet": {
+                "from": [
+                    3250000,
+                    3700000
+                ],
+                "to": [
+                    3400000,
+                    3500000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -11192,7 +11202,7 @@
                 ]
             }
         },
-        "total_mods": 2950
+        "total_mods": 2951
     },
     "395028811399299082": {
         "modification_history": {},
