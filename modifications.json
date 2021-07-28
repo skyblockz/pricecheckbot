@@ -1775,12 +1775,12 @@
             },
             "brown_mushroom": {
                 "from": [
-                    9,
-                    12
-                ],
-                "to": [
                     8,
                     14
+                ],
+                "to": [
+                    12,
+                    19
                 ]
             },
             "builders_wand": {
@@ -13133,7 +13133,7 @@
                 ]
             }
         },
-        "total_mods": 3585
+        "total_mods": 3586
     },
     "395028811399299082": {
         "modification_history": {},
