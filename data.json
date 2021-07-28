@@ -10231,12 +10231,6 @@
     },
     {
         "ac": true,
-        "hi": 5000000,
-        "low": 4500000,
-        "name": "menders_crown"
-    },
-    {
-        "ac": true,
         "hi": 1000000,
         "low": 1000000,
         "name": "giant_cleaver"
@@ -14332,5 +14326,11 @@
         "hi": 30000,
         "low": 10000,
         "name": "zombie_knight_boots"
+    },
+    {
+        "ac": true,
+        "hi": 5000000,
+        "low": 4500000,
+        "name": "mender_crown"
     }
 ]
