@@ -8673,6 +8673,16 @@
                     7000000
                 ]
             },
+            "wand_of_healing": {
+                "from": [
+                    7000,
+                    10000
+                ],
+                "to": [
+                    3500,
+                    4500
+                ]
+            },
             "watcher_guardian_skin": {
                 "from": [
                     67000000,
@@ -8825,7 +8835,7 @@
                 ]
             }
         },
-        "total_mods": 2671
+        "total_mods": 2672
     },
     "395028811399299082": {
         "modification_history": {},
