@@ -7805,6 +7805,16 @@
                     50
                 ]
             },
+            "spooky_disc": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    30000,
+                    30000
+                ]
+            },
             "spooky_enderman_skin": {
                 "from": [
                     45000000,
@@ -8291,7 +8301,7 @@
                 ]
             }
         },
-        "total_mods": 2617
+        "total_mods": 2618
     },
     "395028811399299082": {
         "modification_history": {},
