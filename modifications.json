@@ -710,12 +710,12 @@
             },
             "ascension_rope": {
                 "from": [
-                    500,
-                    1500
-                ],
-                "to": [
                     2000,
                     5000
+                ],
+                "to": [
+                    1900,
+                    4000
                 ]
             },
             "aspect_of_the_dragons": {
@@ -12559,7 +12559,7 @@
                 ]
             }
         },
-        "total_mods": 3117
+        "total_mods": 3118
     },
     "395028811399299082": {
         "modification_history": {},
