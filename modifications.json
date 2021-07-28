@@ -7608,6 +7608,16 @@
                     725000
                 ]
             },
+            "soul_string": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    11000,
+                    13000
+                ]
+            },
             "speed_enrichment": {
                 "from": [
                     1500000,
@@ -8151,7 +8161,7 @@
                 ]
             }
         },
-        "total_mods": 2603
+        "total_mods": 2604
     },
     "395028811399299082": {
         "modification_history": {},
