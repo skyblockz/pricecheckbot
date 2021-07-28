@@ -6151,12 +6151,12 @@
             },
             "green_jerry_box": {
                 "from": [
-                    63000,
-                    77000
-                ],
-                "to": [
                     75000,
                     83000
+                ],
+                "to": [
+                    62000,
+                    71000
                 ]
             },
             "green_jerry_talisman": {
@@ -13073,7 +13073,7 @@
                 ]
             }
         },
-        "total_mods": 3528
+        "total_mods": 3529
     },
     "395028811399299082": {
         "modification_history": {},
