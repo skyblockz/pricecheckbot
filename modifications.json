@@ -7347,6 +7347,16 @@
                     26000000
                 ]
             },
+            "shiny_orb": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    17000,
+                    20000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -7954,7 +7964,7 @@
                 ]
             }
         },
-        "total_mods": 2583
+        "total_mods": 2584
     },
     "395028811399299082": {
         "modification_history": {},
