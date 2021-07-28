@@ -8613,6 +8613,16 @@
                     350000
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    5000,
+                    12000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2300,
@@ -8785,7 +8795,7 @@
                 ]
             }
         },
-        "total_mods": 2667
+        "total_mods": 2668
     },
     "395028811399299082": {
         "modification_history": {},
