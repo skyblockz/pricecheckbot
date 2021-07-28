@@ -7905,6 +7905,16 @@
                     35000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    163000,
+                    173000
+                ],
+                "to": [
+                    156000,
+                    171000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -8361,7 +8371,7 @@
                 ]
             }
         },
-        "total_mods": 2624
+        "total_mods": 2625
     },
     "395028811399299082": {
         "modification_history": {},
