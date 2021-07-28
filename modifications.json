@@ -13312,6 +13312,16 @@
                     12800000
                 ]
             },
+            "speedster_helmet": {
+                "from": [
+                    300000,
+                    450000
+                ],
+                "to": [
+                    330000,
+                    380000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     725000,
@@ -13363,7 +13373,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "647100327048511519": {
         "modification_history": {},
