@@ -3496,12 +3496,12 @@
             },
             "enchanted_pork": {
                 "from": [
-                    850,
-                    1350
-                ],
-                "to": [
                     1350,
                     1850
+                ],
+                "to": [
+                    1250,
+                    1480
                 ]
             },
             "enchanted_potato": {
@@ -12672,7 +12672,7 @@
                 ]
             }
         },
-        "total_mods": 3255
+        "total_mods": 3256
     },
     "395028811399299082": {
         "modification_history": {},
