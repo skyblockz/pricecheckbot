@@ -6196,12 +6196,12 @@
             },
             "prismapump": {
                 "from": [
-                    100000,
-                    100000
-                ],
-                "to": [
                     2500,
                     2500
+                ],
+                "to": [
+                    25000,
+                    25000
                 ]
             },
             "protector_dragon_fragment": {
@@ -7360,7 +7360,7 @@
                 ]
             }
         },
-        "total_mods": 2517
+        "total_mods": 2518
     },
     "395028811399299082": {
         "modification_history": {},
