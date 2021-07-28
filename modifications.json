@@ -162,6 +162,16 @@
                     1250
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1300000,
+                    1800000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     2600000,
@@ -183,7 +193,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "275329625478004737": {
         "modification_history": {},
