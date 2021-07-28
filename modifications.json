@@ -24,9 +24,19 @@
                     49000,
                     60000
                 ]
+            },
+            "mimic_fragment": {
+                "from": [
+                    5000,
+                    8000
+                ],
+                "to": [
+                    4300,
+                    4800
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "275329625478004737": {
         "modification_history": {},
