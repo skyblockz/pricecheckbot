@@ -9116,6 +9116,16 @@
                     60
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    590000,
+                    600000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     100000,
@@ -10172,7 +10182,7 @@
                 ]
             }
         },
-        "total_mods": 2845
+        "total_mods": 2846
     },
     "395028811399299082": {
         "modification_history": {},
