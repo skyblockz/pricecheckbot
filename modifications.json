@@ -1367,12 +1367,12 @@
             },
             "bone": {
                 "from": [
-                    1,
-                    2
-                ],
-                "to": [
                     2,
                     3
+                ],
+                "to": [
+                    1,
+                    2
                 ]
             },
             "bonzo_fragment": {
@@ -12582,7 +12582,7 @@
                 ]
             }
         },
-        "total_mods": 3145
+        "total_mods": 3146
     },
     "395028811399299082": {
         "modification_history": {},
