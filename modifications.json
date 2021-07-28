@@ -5051,6 +5051,16 @@
                     2700000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    50000,
+                    160000
+                ],
+                "to": [
+                    130000,
+                    200000
+                ]
+            },
             "golden_carrot": {
                 "from": [
                     7,
@@ -11872,7 +11882,7 @@
                 ]
             }
         },
-        "total_mods": 3025
+        "total_mods": 3026
     },
     "395028811399299082": {
         "modification_history": {},
