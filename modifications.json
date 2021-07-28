@@ -5068,12 +5068,12 @@
             },
             "frozen_blaze_helmet": {
                 "from": [
-                    6250000,
-                    6750000
-                ],
-                "to": [
                     6800000,
                     6900000
+                ],
+                "to": [
+                    6000000,
+                    6400000
                 ]
             },
             "frozen_blaze_leggings": {
@@ -12692,7 +12692,7 @@
                 ]
             }
         },
-        "total_mods": 3319
+        "total_mods": 3320
     },
     "395028811399299082": {
         "modification_history": {},
