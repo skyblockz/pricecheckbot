@@ -1162,6 +1162,16 @@
                     270000
                 ]
             },
+            "bouncy_helmet": {
+                "from": [
+                    30000,
+                    32000
+                ],
+                "to": [
+                    98000,
+                    100000
+                ]
+            },
             "braided_griffin_feather": {
                 "from": [
                     11000000,
@@ -9772,7 +9782,7 @@
                 ]
             }
         },
-        "total_mods": 2798
+        "total_mods": 2799
     },
     "395028811399299082": {
         "modification_history": {},
