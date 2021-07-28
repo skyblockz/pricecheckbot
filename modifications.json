@@ -7337,6 +7337,16 @@
                     1450000
                 ]
             },
+            "obsidian_chestplate": {
+                "from": [
+                    7000,
+                    9000
+                ],
+                "to": [
+                    3000,
+                    7000
+                ]
+            },
             "obsidian_minion_i": {
                 "from": [
                     1500,
@@ -11792,7 +11802,7 @@
                 ]
             }
         },
-        "total_mods": 3014
+        "total_mods": 3015
     },
     "395028811399299082": {
         "modification_history": {},
