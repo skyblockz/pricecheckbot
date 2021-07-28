@@ -8525,6 +8525,16 @@
                     1750000
                 ]
             },
+            "speedster_chestplate": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    630000,
+                    645000
+                ]
+            },
             "speedster_helmet": {
                 "from": [
                     300000,
@@ -10072,7 +10082,7 @@
                 ]
             }
         },
-        "total_mods": 2835
+        "total_mods": 2836
     },
     "395028811399299082": {
         "modification_history": {},
