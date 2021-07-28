@@ -7427,6 +7427,16 @@
                     35000
                 ]
             },
+            "silver_fang": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -8034,7 +8044,7 @@
                 ]
             }
         },
-        "total_mods": 2591
+        "total_mods": 2592
     },
     "395028811399299082": {
         "modification_history": {},
