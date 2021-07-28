@@ -7474,6 +7474,16 @@
                     3600000
                 ]
             },
+            "slime_hat": {
+                "from": [
+                    60,
+                    70
+                ],
+                "to": [
+                    70,
+                    75
+                ]
+            },
             "slime_minion_i": {
                 "from": null,
                 "to": [
@@ -8064,7 +8074,7 @@
                 ]
             }
         },
-        "total_mods": 2594
+        "total_mods": 2595
     },
     "395028811399299082": {
         "modification_history": {},
