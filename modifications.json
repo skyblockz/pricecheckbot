@@ -8374,6 +8374,16 @@
                     10000
                 ]
             },
+            "skeleton_grunt_chestplate": {
+                "from": [
+                    6000,
+                    12000
+                ],
+                "to": [
+                    5050,
+                    5050
+                ]
+            },
             "skeleton_grunt_helmet": {
                 "from": [
                     6000,
@@ -10362,7 +10372,7 @@
                 ]
             }
         },
-        "total_mods": 2864
+        "total_mods": 2865
     },
     "395028811399299082": {
         "modification_history": {},
