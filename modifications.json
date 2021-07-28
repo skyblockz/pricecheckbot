@@ -7133,6 +7133,16 @@
                     9750000
                 ]
             },
+            "scorpion_foil": {
+                "from": [
+                    500000,
+                    830000
+                ],
+                "to": [
+                    820000,
+                    900000
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -7894,7 +7904,7 @@
                 ]
             }
         },
-        "total_mods": 2577
+        "total_mods": 2578
     },
     "395028811399299082": {
         "modification_history": {},
