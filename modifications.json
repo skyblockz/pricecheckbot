@@ -4469,6 +4469,16 @@
                     15750000
                 ]
             },
+            "fish_affinity_talisman": {
+                "from": [
+                    85000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "fish_bait": {
                 "from": [
                     51,
@@ -12152,7 +12162,7 @@
                 ]
             }
         },
-        "total_mods": 3056
+        "total_mods": 3057
     },
     "395028811399299082": {
         "modification_history": {},
