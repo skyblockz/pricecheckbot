@@ -13238,6 +13238,16 @@
                     15900000
                 ]
             },
+            "shadow_warp": {
+                "from": [
+                    5400000,
+                    5400000
+                ],
+                "to": [
+                    6800000,
+                    7300000
+                ]
+            },
             "shimmer_skin_strong": {
                 "from": null,
                 "to": [
@@ -13253,7 +13263,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "647100327048511519": {
         "modification_history": {},
