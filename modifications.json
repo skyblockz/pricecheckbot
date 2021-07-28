@@ -7895,6 +7895,16 @@
                     465
                 ]
             },
+            "stereo_pants": {
+                "from": [
+                    100000,
+                    300000
+                ],
+                "to": [
+                    35000,
+                    35000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -8351,7 +8361,7 @@
                 ]
             }
         },
-        "total_mods": 2623
+        "total_mods": 2624
     },
     "395028811399299082": {
         "modification_history": {},
