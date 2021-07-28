@@ -6482,6 +6482,16 @@
                     13
                 ]
             },
+            "ruby_power_scroll": {
+                "from": [
+                    3300000,
+                    4300000
+                ],
+                "to": [
+                    2200000,
+                    2200000
+                ]
+            },
             "sand_minion_i": {
                 "from": [
                     1300,
@@ -7260,7 +7270,7 @@
                 ]
             }
         },
-        "total_mods": 2505
+        "total_mods": 2506
     },
     "395028811399299082": {
         "modification_history": {},
