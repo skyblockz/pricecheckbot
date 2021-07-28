@@ -7935,6 +7935,16 @@
                     548000
                 ]
             },
+            "storm_the_fish": {
+                "from": [
+                    200000,
+                    1000000
+                ],
+                "to": [
+                    50000,
+                    1000000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -8391,7 +8401,7 @@
                 ]
             }
         },
-        "total_mods": 2627
+        "total_mods": 2628
     },
     "395028811399299082": {
         "modification_history": {},
