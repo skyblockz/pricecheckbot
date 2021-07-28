@@ -6748,6 +6748,16 @@
                     12000000
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    80000,
+                    92000
+                ],
+                "to": [
+                    83000,
+                    93000
+                ]
+            },
             "refined_mithril": {
                 "from": [
                     317000,
@@ -7680,7 +7690,7 @@
                 ]
             }
         },
-        "total_mods": 2552
+        "total_mods": 2553
     },
     "395028811399299082": {
         "modification_history": {},
