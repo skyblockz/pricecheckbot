@@ -8621,12 +8621,12 @@
             },
             "personal_bank_item": {
                 "from": [
-                    26000,
-                    27000
-                ],
-                "to": [
                     32000,
                     32000
+                ],
+                "to": [
+                    25000,
+                    40000
                 ]
             },
             "personal_compactor_4000": {
@@ -13170,7 +13170,7 @@
                 ]
             }
         },
-        "total_mods": 3606
+        "total_mods": 3607
     },
     "395028811399299082": {
         "modification_history": {},
