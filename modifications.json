@@ -7138,6 +7138,16 @@
                     1800000
                 ]
             },
+            "uncommon_prehistoric_egg": {
+                "from": [
+                    1000000,
+                    1000000
+                ],
+                "to": [
+                    340000,
+                    350000
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2300,
@@ -7310,7 +7320,7 @@
                 ]
             }
         },
-        "total_mods": 2511
+        "total_mods": 2512
     },
     "395028811399299082": {
         "modification_history": {},
