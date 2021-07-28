@@ -9187,6 +9187,16 @@
                     700000
                 ]
             },
+            "zombie_commander_whip": {
+                "from": [
+                    15000,
+                    17500
+                ],
+                "to": [
+                    10000,
+                    100000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -9235,7 +9245,7 @@
                 ]
             }
         },
-        "total_mods": 2731
+        "total_mods": 2732
     },
     "395028811399299082": {
         "modification_history": {},
