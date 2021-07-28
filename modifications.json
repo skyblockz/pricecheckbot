@@ -25,6 +25,16 @@
                     3130000
                 ]
             },
+            "jerry_candy": {
+                "from": [
+                    24000,
+                    30000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     75000,
@@ -53,7 +63,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "275329625478004737": {
         "modification_history": {},
