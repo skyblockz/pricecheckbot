@@ -8471,6 +8471,16 @@
                     570000
                 ]
             },
+            "skeleton_soldier_helmet": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    5050,
+                    5050
+                ]
+            },
             "sleeping_eye": {
                 "from": [
                     450000,
@@ -10392,7 +10402,7 @@
                 ]
             }
         },
-        "total_mods": 2867
+        "total_mods": 2868
     },
     "395028811399299082": {
         "modification_history": {},
