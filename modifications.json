@@ -7419,12 +7419,12 @@
             },
             "magical_lava_bucket": {
                 "from": [
-                    130,
-                    380
-                ],
-                "to": [
                     180,
                     200
+                ],
+                "to": [
+                    320,
+                    730
                 ]
             },
             "magical_mushroom_soup": {
@@ -13083,7 +13083,7 @@
                 ]
             }
         },
-        "total_mods": 3558
+        "total_mods": 3559
     },
     "395028811399299082": {
         "modification_history": {},
