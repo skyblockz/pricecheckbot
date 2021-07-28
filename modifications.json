@@ -75,6 +75,16 @@
                     4800
                 ]
             },
+            "necrons_boots": {
+                "from": [
+                    9900000,
+                    10000000
+                ],
+                "to": [
+                    9900000,
+                    10500000
+                ]
+            },
             "null": {
                 "from": null,
                 "to": [
@@ -93,7 +103,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "275329625478004737": {
         "modification_history": {},
