@@ -7551,6 +7551,16 @@
                     25000
                 ]
             },
+            "snowball": {
+                "from": [
+                    0,
+                    1
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "snowglobe_skin": {
                 "from": [
                     29000000,
@@ -8104,7 +8114,7 @@
                 ]
             }
         },
-        "total_mods": 2598
+        "total_mods": 2599
     },
     "395028811399299082": {
         "modification_history": {},
