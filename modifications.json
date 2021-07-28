@@ -8464,6 +8464,16 @@
                     1000000
                 ]
             },
+            "skeleton_master_chestplate": {
+                "from": [
+                    30000,
+                    100000
+                ],
+                "to": [
+                    5050,
+                    5050
+                ]
+            },
             "skeleton_master_helmet": {
                 "from": [
                     30000,
@@ -10442,7 +10452,7 @@
                 ]
             }
         },
-        "total_mods": 2872
+        "total_mods": 2873
     },
     "395028811399299082": {
         "modification_history": {},
