@@ -3285,6 +3285,16 @@
                     300000
                 ]
             },
+            "epic_zombie_knight_sword": {
+                "from": [
+                    10000,
+                    19000
+                ],
+                "to": [
+                    6000,
+                    10000
+                ]
+            },
             "epic_zombie_soldier_cutlass": {
                 "from": [
                     500000,
@@ -9265,7 +9275,7 @@
                 ]
             }
         },
-        "total_mods": 2734
+        "total_mods": 2735
     },
     "395028811399299082": {
         "modification_history": {},
