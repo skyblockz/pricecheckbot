@@ -7357,6 +7357,16 @@
                     20000
                 ]
             },
+            "shiny_rod": {
+                "from": [
+                    690000,
+                    800000
+                ],
+                "to": [
+                    700000,
+                    1000000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -7964,7 +7974,7 @@
                 ]
             }
         },
-        "total_mods": 2584
+        "total_mods": 2585
     },
     "395028811399299082": {
         "modification_history": {},
