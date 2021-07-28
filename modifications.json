@@ -6381,6 +6381,16 @@
                     9600000
                 ]
             },
+            "rabbit_hide": {
+                "from": [
+                    27,
+                    41
+                ],
+                "to": [
+                    28,
+                    48
+                ]
+            },
             "rabbit_minion_i": {
                 "from": null,
                 "to": [
@@ -7440,7 +7450,7 @@
                 ]
             }
         },
-        "total_mods": 2526
+        "total_mods": 2527
     },
     "395028811399299082": {
         "modification_history": {},
