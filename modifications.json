@@ -3265,6 +3265,16 @@
                     1700000
                 ]
             },
+            "epic_zombie_soldier_cutlass": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    6000,
+                    150000
+                ]
+            },
             "eternal_flame_ring": {
                 "from": [
                     250000,
@@ -9185,7 +9195,7 @@
                 ]
             }
         },
-        "total_mods": 2725
+        "total_mods": 2726
     },
     "395028811399299082": {
         "modification_history": {},
