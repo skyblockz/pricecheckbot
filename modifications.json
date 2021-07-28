@@ -8585,6 +8585,16 @@
                     42900
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    2300000,
+                    3000000
+                ],
+                "to": [
+                    2600000,
+                    2600000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -11722,7 +11732,7 @@
                 ]
             }
         },
-        "total_mods": 3003
+        "total_mods": 3004
     },
     "395028811399299082": {
         "modification_history": {},
