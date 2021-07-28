@@ -6568,6 +6568,16 @@
                     3100000
                 ]
             },
+            "rare_conjuring": {
+                "from": [
+                    45000,
+                    48000
+                ],
+                "to": [
+                    25000,
+                    25000
+                ]
+            },
             "rare_diamond": {
                 "from": [
                     500,
@@ -9215,7 +9225,7 @@
                 ]
             }
         },
-        "total_mods": 2728
+        "total_mods": 2729
     },
     "395028811399299082": {
         "modification_history": {},
