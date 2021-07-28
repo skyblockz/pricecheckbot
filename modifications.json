@@ -65,6 +65,16 @@
                     200000
                 ]
             },
+            "frozen_chicken": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    1000000,
+                    1400000
+                ]
+            },
             "giants_sword": {
                 "from": [
                     116000000,
@@ -283,7 +293,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "275329625478004737": {
         "modification_history": {},
