@@ -8483,6 +8483,16 @@
                     60000
                 ]
             },
+            "transmission_tuner": {
+                "from": [
+                    120000,
+                    130000
+                ],
+                "to": [
+                    100000,
+                    170000
+                ]
+            },
             "twilight_tiger_skin": {
                 "from": [
                     175000000,
@@ -8695,7 +8705,7 @@
                 ]
             }
         },
-        "total_mods": 2658
+        "total_mods": 2659
     },
     "395028811399299082": {
         "modification_history": {},
