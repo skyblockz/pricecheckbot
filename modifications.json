@@ -6383,6 +6383,16 @@
                     10000
                 ]
             },
+            "mineral_chestplate": {
+                "from": [
+                    680000,
+                    700000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "mineral_helmet": {
                 "from": [
                     300000,
@@ -10762,7 +10772,7 @@
                 ]
             }
         },
-        "total_mods": 2905
+        "total_mods": 2906
     },
     "395028811399299082": {
         "modification_history": {},
