@@ -6598,6 +6598,16 @@
                     5000000
                 ]
             },
+            "red_claw_artifact": {
+                "from": [
+                    6000000,
+                    6250000
+                ],
+                "to": [
+                    6200000,
+                    6500000
+                ]
+            },
             "red_elephant_skin": {
                 "from": [
                     17000000,
@@ -7590,7 +7600,7 @@
                 ]
             }
         },
-        "total_mods": 2543
+        "total_mods": 2544
     },
     "395028811399299082": {
         "modification_history": {},
