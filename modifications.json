@@ -4209,6 +4209,16 @@
                     1800000
                 ]
             },
+            "final_destination_boots": {
+                "from": [
+                    1790000,
+                    1800000
+                ],
+                "to": [
+                    900000,
+                    950000
+                ]
+            },
             "final_destination_helmet": {
                 "from": [
                     1400000,
@@ -11672,7 +11682,7 @@
                 ]
             }
         },
-        "total_mods": 2998
+        "total_mods": 2999
     },
     "395028811399299082": {
         "modification_history": {},
