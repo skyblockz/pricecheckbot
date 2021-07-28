@@ -1632,6 +1632,16 @@
                     28700000
                 ]
             },
+            "catalyst": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    118000,
+                    131000
+                ]
+            },
             "cave_spider_minion_i": {
                 "from": null,
                 "to": [
@@ -12582,7 +12592,7 @@
                 ]
             }
         },
-        "total_mods": 3153
+        "total_mods": 3154
     },
     "395028811399299082": {
         "modification_history": {},
