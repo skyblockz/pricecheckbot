@@ -9220,6 +9220,16 @@
                     3700000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    190000,
+                    200000
+                ],
+                "to": [
+                    270000,
+                    290000
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -12112,7 +12122,7 @@
                 ]
             }
         },
-        "total_mods": 3051
+        "total_mods": 3052
     },
     "395028811399299082": {
         "modification_history": {},
