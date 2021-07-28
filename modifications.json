@@ -9155,12 +9155,12 @@
             },
             "rare_griffin_upgrade_stone": {
                 "from": [
-                    2200000,
-                    2300000
-                ],
-                "to": [
                     2300000,
                     2600000
+                ],
+                "to": [
+                    2490000,
+                    2500000
                 ]
             },
             "rare_prehistoric_egg": {
@@ -13053,7 +13053,7 @@
                 ]
             }
         },
-        "total_mods": 3492
+        "total_mods": 3493
     },
     "395028811399299082": {
         "modification_history": {},
