@@ -7658,6 +7658,16 @@
                     1750000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    35000,
+                    40000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "spider_minion_i": {
                 "from": null,
                 "to": [
@@ -8191,7 +8201,7 @@
                 ]
             }
         },
-        "total_mods": 2607
+        "total_mods": 2608
     },
     "395028811399299082": {
         "modification_history": {},
