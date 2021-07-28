@@ -4852,12 +4852,12 @@
             },
             "flawed_amethyst_gemstone": {
                 "from": [
-                    530,
-                    650
-                ],
-                "to": [
                     650,
                     770
+                ],
+                "to": [
+                    880,
+                    1160
                 ]
             },
             "flawed_jade_gemstone": {
@@ -12753,7 +12753,7 @@
                 ]
             }
         },
-        "total_mods": 3335
+        "total_mods": 3336
     },
     "395028811399299082": {
         "modification_history": {},
