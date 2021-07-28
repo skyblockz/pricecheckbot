@@ -8463,6 +8463,16 @@
                     64000000
                 ]
             },
+            "toxic_arrow_poison": {
+                "from": [
+                    2000,
+                    3000
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
             "twilight_tiger_skin": {
                 "from": [
                     175000000,
@@ -8675,7 +8685,7 @@
                 ]
             }
         },
-        "total_mods": 2656
+        "total_mods": 2657
     },
     "395028811399299082": {
         "modification_history": {},
