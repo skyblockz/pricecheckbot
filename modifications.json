@@ -2037,6 +2037,16 @@
                     950
                 ]
             },
+            "dark_goggles": {
+                "from": [
+                    43000,
+                    60000
+                ],
+                "to": [
+                    90000,
+                    200000
+                ]
+            },
             "dark_oak_minion_i": {
                 "from": [
                     140,
@@ -11752,7 +11762,7 @@
                 ]
             }
         },
-        "total_mods": 3008
+        "total_mods": 3009
     },
     "395028811399299082": {
         "modification_history": {},
