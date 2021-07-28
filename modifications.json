@@ -3426,12 +3426,12 @@
             },
             "enchanted_mutton": {
                 "from": [
-                    2200,
-                    2500
-                ],
-                "to": [
                     2300,
                     2600
+                ],
+                "to": [
+                    2000,
+                    2260
                 ]
             },
             "enchanted_nether_wart": {
@@ -12672,7 +12672,7 @@
                 ]
             }
         },
-        "total_mods": 3250
+        "total_mods": 3251
     },
     "395028811399299082": {
         "modification_history": {},
