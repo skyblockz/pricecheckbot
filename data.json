@@ -7981,12 +7981,6 @@
     },
     {
         "ac": true,
-        "hi": 3000000,
-        "low": 2700000,
-        "name": "silk_edge_sword"
-    },
-    {
-        "ac": true,
         "hi": 10000,
         "low": 10000,
         "name": "thunderlord_vi"
@@ -14302,5 +14296,11 @@
         "hi": 70900000,
         "low": 69500000,
         "name": "sapphire-polished_drill_engine"
+    },
+    {
+        "ac": true,
+        "hi": 3000000,
+        "low": 2700000,
+        "name": "silk-edge_sword"
     }
 ]
