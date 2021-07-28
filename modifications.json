@@ -6488,6 +6488,16 @@
                     1000000
                 ]
             },
+            "raw_beef": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5100000,
@@ -7490,7 +7500,7 @@
                 ]
             }
         },
-        "total_mods": 2532
+        "total_mods": 2533
     },
     "395028811399299082": {
         "modification_history": {},
