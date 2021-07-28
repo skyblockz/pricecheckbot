@@ -8841,10 +8841,13 @@
                 ]
             },
             "winter_disc": {
-                "from": null,
-                "to": [
+                "from": [
                     400,
                     1000
+                ],
+                "to": [
+                    2000,
+                    9000
                 ]
             },
             "winter_rod": {
@@ -8935,7 +8938,7 @@
                 ]
             }
         },
-        "total_mods": 2682
+        "total_mods": 2683
     },
     "395028811399299082": {
         "modification_history": {},
