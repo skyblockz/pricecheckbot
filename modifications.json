@@ -8609,6 +8609,16 @@
                     40000000
                 ]
             },
+            "perfectly-cut_fuel_tank": {
+                "from": [
+                    190000000,
+                    230000000
+                ],
+                "to": [
+                    180000000,
+                    180000000
+                ]
+            },
             "personal_bank_item": {
                 "from": [
                     26000,
@@ -13160,7 +13170,7 @@
                 ]
             }
         },
-        "total_mods": 3605
+        "total_mods": 3606
     },
     "395028811399299082": {
         "modification_history": {},
