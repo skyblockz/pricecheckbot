@@ -8543,6 +8543,16 @@
                     400000
                 ]
             },
+            "twilight_arrow_poison": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "twilight_tiger_skin": {
                 "from": [
                     175000000,
@@ -8755,7 +8765,7 @@
                 ]
             }
         },
-        "total_mods": 2664
+        "total_mods": 2665
     },
     "395028811399299082": {
         "modification_history": {},
