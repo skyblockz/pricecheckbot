@@ -7571,6 +7571,13 @@
                     20000000
                 ]
             },
+            "social_display": {
+                "from": null,
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "speed_enrichment": {
                 "from": [
                     1500000,
@@ -8114,7 +8121,7 @@
                 ]
             }
         },
-        "total_mods": 2599
+        "total_mods": 2600
     },
     "395028811399299082": {
         "modification_history": {},
