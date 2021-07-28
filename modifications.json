@@ -6172,6 +6172,16 @@
                     1500000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    870000,
+                    880000
+                ],
+                "to": [
+                    950000,
+                    970000
+                ]
+            },
             "iron_ingot": {
                 "from": [
                     9,
@@ -12232,7 +12242,7 @@
                 ]
             }
         },
-        "total_mods": 3066
+        "total_mods": 3067
     },
     "395028811399299082": {
         "modification_history": {},
