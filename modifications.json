@@ -1256,10 +1256,13 @@
                 ]
             },
             "blaze_powder": {
-                "from": null,
-                "to": [
+                "from": [
                     10,
                     20
+                ],
+                "to": [
+                    13,
+                    18
                 ]
             },
             "blaze_rod": {
@@ -12579,7 +12582,7 @@
                 ]
             }
         },
-        "total_mods": 3139
+        "total_mods": 3140
     },
     "395028811399299082": {
         "modification_history": {},
