@@ -5291,6 +5291,16 @@
                     288000
                 ]
             },
+            "golden_jerry_artifact": {
+                "from": [
+                    84000000,
+                    85000000
+                ],
+                "to": [
+                    94000000,
+                    100000000
+                ]
+            },
             "golden_jerry_box": {
                 "from": [
                     1000000,
@@ -12479,7 +12489,7 @@
                 ]
             }
         },
-        "total_mods": 3099
+        "total_mods": 3100
     },
     "395028811399299082": {
         "modification_history": {},
