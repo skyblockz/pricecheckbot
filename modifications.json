@@ -3696,12 +3696,12 @@
             },
             "enchanted_sand": {
                 "from": [
-                    825,
-                    1000
-                ],
-                "to": [
                     1000,
                     1150
+                ],
+                "to": [
+                    790,
+                    840
                 ]
             },
             "enchanted_seeds": {
@@ -12682,7 +12682,7 @@
                 ]
             }
         },
-        "total_mods": 3272
+        "total_mods": 3273
     },
     "395028811399299082": {
         "modification_history": {},
