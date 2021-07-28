@@ -6512,6 +6512,16 @@
                     1250000
                 ]
             },
+            "sapphire_power_scroll": {
+                "from": [
+                    3400000,
+                    3650000
+                ],
+                "to": [
+                    2750000,
+                    3000000
+                ]
+            },
             "savanna_biome_stick": {
                 "from": null,
                 "to": [
@@ -7270,7 +7280,7 @@
                 ]
             }
         },
-        "total_mods": 2506
+        "total_mods": 2507
     },
     "395028811399299082": {
         "modification_history": {},
