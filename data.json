@@ -9997,12 +9997,6 @@
     },
     {
         "ac": true,
-        "hi": 30000,
-        "low": 10000,
-        "name": "epic_zombie_knight_boots"
-    },
-    {
-        "ac": true,
         "hi": 100000,
         "low": 90000,
         "name": "legendary_zombie_knight_boots"
@@ -14332,5 +14326,11 @@
         "hi": 15000,
         "low": 9000,
         "name": "zombie_knight_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 30000,
+        "low": 10000,
+        "name": "zombie_knight_boots"
     }
 ]
