@@ -8021,6 +8021,16 @@
                     170
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    130000,
+                    135000
+                ],
+                "to": [
+                    165000,
+                    180000
+                ]
+            },
             "precursor_gear": {
                 "from": [
                     540000,
@@ -12072,7 +12082,7 @@
                 ]
             }
         },
-        "total_mods": 3045
+        "total_mods": 3046
     },
     "395028811399299082": {
         "modification_history": {},
