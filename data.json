@@ -10015,12 +10015,6 @@
     },
     {
         "ac": true,
-        "hi": 42000,
-        "low": 10000,
-        "name": "epic_zombie_knight_helmet"
-    },
-    {
-        "ac": true,
         "hi": 650000,
         "low": 640000,
         "name": "venoms_touch"
@@ -14332,5 +14326,11 @@
         "hi": 5050,
         "low": 5050,
         "name": "skeleton_soldier_leggings"
+    },
+    {
+        "ac": true,
+        "hi": 42000,
+        "low": 10000,
+        "name": "zombie_knight_helmet"
     }
 ]
