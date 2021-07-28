@@ -3312,6 +3312,16 @@
                     300000
                 ]
             },
+            "epic_sniper_bow": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    70000,
+                    70000
+                ]
+            },
             "epic_zombie_knight_sword": {
                 "from": [
                     10000,
@@ -9442,7 +9452,7 @@
                 ]
             }
         },
-        "total_mods": 2754
+        "total_mods": 2755
     },
     "395028811399299082": {
         "modification_history": {},
