@@ -6403,6 +6403,16 @@
                     800000
                 ]
             },
+            "mineral_leggings": {
+                "from": [
+                    600000,
+                    620000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "mining_pumpkin": {
                 "from": [
                     150000,
@@ -10772,7 +10782,7 @@
                 ]
             }
         },
-        "total_mods": 2906
+        "total_mods": 2907
     },
     "395028811399299082": {
         "modification_history": {},
