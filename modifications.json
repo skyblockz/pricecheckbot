@@ -6605,12 +6605,12 @@
             },
             "hyper_catalyst_upgrade": {
                 "from": [
-                    50000,
-                    60000
-                ],
-                "to": [
                     99000,
                     99000
+                ],
+                "to": [
+                    87800,
+                    90000
                 ]
             },
             "hyper_cleaver": {
@@ -13053,7 +13053,7 @@
                 ]
             }
         },
-        "total_mods": 3515
+        "total_mods": 3516
     },
     "395028811399299082": {
         "modification_history": {},
