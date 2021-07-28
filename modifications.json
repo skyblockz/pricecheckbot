@@ -8374,6 +8374,16 @@
                     10000
                 ]
             },
+            "skeleton_lord_boots": {
+                "from": [
+                    150000,
+                    150000
+                ],
+                "to": [
+                    1400000,
+                    2000000
+                ]
+            },
             "skeleton_lord_chestplate": {
                 "from": [
                     70000,
@@ -10342,7 +10352,7 @@
                 ]
             }
         },
-        "total_mods": 2862
+        "total_mods": 2863
     },
     "395028811399299082": {
         "modification_history": {},
