@@ -2299,12 +2299,12 @@
             },
             "defuse_kit": {
                 "from": [
-                    10,
-                    50
-                ],
-                "to": [
                     500,
                     1000
+                ],
+                "to": [
+                    1,
+                    1
                 ]
             },
             "derpy_rock_skin": {
@@ -12602,7 +12602,7 @@
                 ]
             }
         },
-        "total_mods": 3172
+        "total_mods": 3173
     },
     "395028811399299082": {
         "modification_history": {},
