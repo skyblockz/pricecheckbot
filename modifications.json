@@ -65,6 +65,16 @@
                     60000
                 ]
             },
+            "mastiff_boots": {
+                "from": [
+                    610000,
+                    700000
+                ],
+                "to": [
+                    530000,
+                    700000
+                ]
+            },
             "mastiff_chestplate": {
                 "from": [
                     620000,
@@ -163,7 +173,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "275329625478004737": {
         "modification_history": {},
