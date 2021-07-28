@@ -7668,6 +7668,16 @@
                     100000
                 ]
             },
+            "spider_eye": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    5,
+                    11
+                ]
+            },
             "spider_minion_i": {
                 "from": null,
                 "to": [
@@ -8201,7 +8211,7 @@
                 ]
             }
         },
-        "total_mods": 2608
+        "total_mods": 2609
     },
     "395028811399299082": {
         "modification_history": {},
