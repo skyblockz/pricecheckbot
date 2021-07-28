@@ -8822,6 +8822,16 @@
                     50
                 ]
             },
+            "spooky_chestplate": {
+                "from": [
+                    200000,
+                    240000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "spooky_disc": {
                 "from": [
                     100000,
@@ -10212,7 +10222,7 @@
                 ]
             }
         },
-        "total_mods": 2849
+        "total_mods": 2850
     },
     "395028811399299082": {
         "modification_history": {},
