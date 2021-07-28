@@ -6860,12 +6860,12 @@
             },
             "revenant_falchion": {
                 "from": [
-                    700000,
-                    800000
-                ],
-                "to": [
                     200000,
                     650000
+                ],
+                "to": [
+                    500000,
+                    580000
                 ]
             },
             "revenant_flesh": {
@@ -9018,7 +9018,7 @@
                 ]
             }
         },
-        "total_mods": 2694
+        "total_mods": 2695
     },
     "395028811399299082": {
         "modification_history": {},
