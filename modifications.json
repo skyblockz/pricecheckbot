@@ -4207,6 +4207,16 @@
                     4200
                 ]
             },
+            "goblin_leggings": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    1500,
+                    5000
+                ]
+            },
             "goblin_omelette": {
                 "from": null,
                 "to": [
@@ -9712,7 +9722,7 @@
                 ]
             }
         },
-        "total_mods": 2792
+        "total_mods": 2793
     },
     "395028811399299082": {
         "modification_history": {},
