@@ -3509,6 +3509,16 @@
                     50000
                 ]
             },
+            "farm_armor_leggings": {
+                "from": [
+                    34000,
+                    35000
+                ],
+                "to": [
+                    180000,
+                    180000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     1200000,
@@ -9612,7 +9622,7 @@
                 ]
             }
         },
-        "total_mods": 2782
+        "total_mods": 2783
     },
     "395028811399299082": {
         "modification_history": {},
