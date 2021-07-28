@@ -7511,6 +7511,16 @@
                     10
                 ]
             },
+            "sludge_juice": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    3050,
+                    3150
+                ]
+            },
             "small_backpack": {
                 "from": [
                     10000,
@@ -8084,7 +8094,7 @@
                 ]
             }
         },
-        "total_mods": 2596
+        "total_mods": 2597
     },
     "395028811399299082": {
         "modification_history": {},
