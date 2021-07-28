@@ -11327,6 +11327,16 @@
                     6000
                 ]
             },
+            "treasure_talisman": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    310000,
+                    320000
+                ]
+            },
             "treasurite": {
                 "from": [
                     27000,
@@ -12162,7 +12172,7 @@
                 ]
             }
         },
-        "total_mods": 3057
+        "total_mods": 3058
     },
     "395028811399299082": {
         "modification_history": {},
