@@ -650,12 +650,12 @@
             },
             "arachnes_keeper_fragment": {
                 "from": [
-                    28000,
-                    35000
-                ],
-                "to": [
                     40000,
                     45000
+                ],
+                "to": [
+                    10000,
+                    24000
                 ]
             },
             "armor_of_magma_boots": {
@@ -12559,7 +12559,7 @@
                 ]
             }
         },
-        "total_mods": 3116
+        "total_mods": 3117
     },
     "395028811399299082": {
         "modification_history": {},
