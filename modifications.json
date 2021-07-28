@@ -7915,6 +7915,16 @@
                     171000
                 ]
             },
+            "stone_chestplate": {
+                "from": [
+                    78000,
+                    78000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -8371,7 +8381,7 @@
                 ]
             }
         },
-        "total_mods": 2625
+        "total_mods": 2626
     },
     "395028811399299082": {
         "modification_history": {},
