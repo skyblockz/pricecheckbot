@@ -7387,6 +7387,16 @@
                     10000000
                 ]
             },
+            "silent_pearl": {
+                "from": [
+                    2000,
+                    5000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -7994,7 +8004,7 @@
                 ]
             }
         },
-        "total_mods": 2587
+        "total_mods": 2588
     },
     "395028811399299082": {
         "modification_history": {},
