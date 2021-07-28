@@ -3434,12 +3434,12 @@
             },
             "explosive_bow": {
                 "from": [
-                    380000,
-                    400000
-                ],
-                "to": [
                     460000,
                     460000
+                ],
+                "to": [
+                    380000,
+                    500000
                 ]
             },
             "extra_large_gemstone_sack": {
@@ -9462,7 +9462,7 @@
                 ]
             }
         },
-        "total_mods": 2756
+        "total_mods": 2757
     },
     "395028811399299082": {
         "modification_history": {},
