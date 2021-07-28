@@ -6808,6 +6808,16 @@
                     30000
                 ]
             },
+            "repelling_candle": {
+                "from": [
+                    11000,
+                    13000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -7710,7 +7720,7 @@
                 ]
             }
         },
-        "total_mods": 2557
+        "total_mods": 2558
     },
     "395028811399299082": {
         "modification_history": {},
