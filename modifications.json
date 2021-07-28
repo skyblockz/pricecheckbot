@@ -1080,12 +1080,12 @@
             },
             "beating_heart": {
                 "from": [
-                    15000,
-                    25000
-                ],
-                "to": [
                     18000,
                     30000
+                ],
+                "to": [
+                    9000,
+                    10000
                 ]
             },
             "beheaded_horror": {
@@ -12579,7 +12579,7 @@
                 ]
             }
         },
-        "total_mods": 3134
+        "total_mods": 3135
     },
     "395028811399299082": {
         "modification_history": {},
