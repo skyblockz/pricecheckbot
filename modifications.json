@@ -8860,6 +8860,16 @@
                     130000
                 ]
             },
+            "wishing_compass": {
+                "from": [
+                    5000,
+                    9000
+                ],
+                "to": [
+                    6000,
+                    6000
+                ]
+            },
             "wither_blood": {
                 "from": [
                     2200000,
@@ -8938,7 +8948,7 @@
                 ]
             }
         },
-        "total_mods": 2683
+        "total_mods": 2684
     },
     "395028811399299082": {
         "modification_history": {},
