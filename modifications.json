@@ -6982,12 +6982,12 @@
             },
             "jumbo_backpack_upgrade": {
                 "from": [
-                    1500000,
-                    1950000
-                ],
-                "to": [
                     1250000,
                     1275000
+                ],
+                "to": [
+                    1300000,
+                    1400000
                 ]
             },
             "jungle_biome_stick": {
@@ -13083,7 +13083,7 @@
                 ]
             }
         },
-        "total_mods": 3540
+        "total_mods": 3541
     },
     "395028811399299082": {
         "modification_history": {},
