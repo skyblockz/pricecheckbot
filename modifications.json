@@ -9424,10 +9424,13 @@
                 ]
             },
             "rough_amethyst_gemstone": {
-                "from": null,
-                "to": [
+                "from": [
                     7,
                     9
+                ],
+                "to": [
+                    8,
+                    13
                 ]
             },
             "rough_jade_gemstone": {
@@ -12733,7 +12736,7 @@
                 ]
             }
         },
-        "total_mods": 3328
+        "total_mods": 3329
     },
     "395028811399299082": {
         "modification_history": {},
