@@ -6494,12 +6494,12 @@
             },
             "journal_entry": {
                 "from": [
-                    500,
+                    1000,
                     5000
                 ],
                 "to": [
-                    1000,
-                    5000
+                    10000,
+                    50000
                 ]
             },
             "judgement_core": {
@@ -12622,7 +12622,7 @@
                 ]
             }
         },
-        "total_mods": 3190
+        "total_mods": 3191
     },
     "395028811399299082": {
         "modification_history": {},
