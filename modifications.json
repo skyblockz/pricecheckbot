@@ -3702,6 +3702,16 @@
                     10000
                 ]
             },
+            "epic_zombie_lord_boots": {
+                "from": [
+                    95000,
+                    95000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "epic_zombie_lord_chestplate": {
                 "from": [
                     48000,
@@ -10622,7 +10632,7 @@
                 ]
             }
         },
-        "total_mods": 2890
+        "total_mods": 2891
     },
     "395028811399299082": {
         "modification_history": {},
