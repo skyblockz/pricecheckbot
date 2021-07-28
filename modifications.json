@@ -7407,6 +7407,16 @@
                     24000000
                 ]
             },
+            "silk_edge_sword": {
+                "from": [
+                    2200000,
+                    2750000
+                ],
+                "to": [
+                    2700000,
+                    3000000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -8014,7 +8024,7 @@
                 ]
             }
         },
-        "total_mods": 2589
+        "total_mods": 2590
     },
     "395028811399299082": {
         "modification_history": {},
