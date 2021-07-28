@@ -6848,6 +6848,16 @@
                     5
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    38500,
+                    43500
+                ],
+                "to": [
+                    42000,
+                    42900
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -7750,7 +7760,7 @@
                 ]
             }
         },
-        "total_mods": 2561
+        "total_mods": 2562
     },
     "395028811399299082": {
         "modification_history": {},
