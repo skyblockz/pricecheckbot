@@ -8473,6 +8473,16 @@
                     4000
                 ]
             },
+            "training_dummy": {
+                "from": [
+                    97000,
+                    98000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "twilight_tiger_skin": {
                 "from": [
                     175000000,
@@ -8685,7 +8695,7 @@
                 ]
             }
         },
-        "total_mods": 2657
+        "total_mods": 2658
     },
     "395028811399299082": {
         "modification_history": {},
