@@ -12114,6 +12114,16 @@
                     700000
                 ]
             },
+            "zombie_artifact": {
+                "from": [
+                    2500000,
+                    2900000
+                ],
+                "to": [
+                    2900000,
+                    3000000
+                ]
+            },
             "zombie_chestplate": {
                 "from": [
                     900000,
@@ -12242,7 +12252,7 @@
                 ]
             }
         },
-        "total_mods": 3067
+        "total_mods": 3068
     },
     "395028811399299082": {
         "modification_history": {},
