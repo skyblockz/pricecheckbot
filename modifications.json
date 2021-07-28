@@ -7113,6 +7113,16 @@
                     60
                 ]
             },
+            "scarf_fragment": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    5000,
+                    20000
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -7874,7 +7884,7 @@
                 ]
             }
         },
-        "total_mods": 2575
+        "total_mods": 2576
     },
     "395028811399299082": {
         "modification_history": {},
