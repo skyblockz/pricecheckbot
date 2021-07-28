@@ -608,6 +608,16 @@
                     45000
                 ]
             },
+            "armor_of_magma_boots": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "armor_of_magma_chestplate": {
                 "from": [
                     300000,
@@ -9832,7 +9842,7 @@
                 ]
             }
         },
-        "total_mods": 2804
+        "total_mods": 2805
     },
     "395028811399299082": {
         "modification_history": {},
