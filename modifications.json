@@ -9854,6 +9854,16 @@
                     700000
                 ]
             },
+            "zombie_chestplate": {
+                "from": [
+                    900000,
+                    3000000
+                ],
+                "to": [
+                    1300000,
+                    2050000
+                ]
+            },
             "zombie_commander_whip": {
                 "from": [
                     15000,
@@ -9912,7 +9922,7 @@
                 ]
             }
         },
-        "total_mods": 2816
+        "total_mods": 2817
     },
     "395028811399299082": {
         "modification_history": {},
