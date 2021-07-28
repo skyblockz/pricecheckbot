@@ -8042,6 +8042,16 @@
                     125000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    45000,
+                    50000
+                ]
+            },
             "synthetic_heart": {
                 "from": [
                     150000,
@@ -8451,7 +8461,7 @@
                 ]
             }
         },
-        "total_mods": 2633
+        "total_mods": 2634
     },
     "395028811399299082": {
         "modification_history": {},
