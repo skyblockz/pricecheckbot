@@ -4179,6 +4179,16 @@
                     180000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    220000,
+                    230000
+                ],
+                "to": [
+                    200000,
+                    210000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     1200000,
@@ -11832,7 +11842,7 @@
                 ]
             }
         },
-        "total_mods": 3021
+        "total_mods": 3022
     },
     "395028811399299082": {
         "modification_history": {},
