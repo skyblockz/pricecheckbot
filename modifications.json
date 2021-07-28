@@ -5720,6 +5720,16 @@
                     3500000
                 ]
             },
+            "necromancer_sword": {
+                "from": [
+                    7500000,
+                    9000000
+                ],
+                "to": [
+                    7400000,
+                    7600000
+                ]
+            },
             "necromancers_brooch": {
                 "from": [
                     40000,
@@ -9352,7 +9362,7 @@
                 ]
             }
         },
-        "total_mods": 2744
+        "total_mods": 2745
     },
     "395028811399299082": {
         "modification_history": {},
