@@ -7598,6 +7598,16 @@
                     4400000
                 ]
             },
+            "soul_fragment": {
+                "from": [
+                    470000,
+                    560000
+                ],
+                "to": [
+                    625000,
+                    725000
+                ]
+            },
             "speed_enrichment": {
                 "from": [
                     1500000,
@@ -8141,7 +8151,7 @@
                 ]
             }
         },
-        "total_mods": 2602
+        "total_mods": 2603
     },
     "395028811399299082": {
         "modification_history": {},
