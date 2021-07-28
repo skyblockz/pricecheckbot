@@ -8837,6 +8837,16 @@
                     89
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    950000,
+                    1150000
+                ],
+                "to": [
+                    845000,
+                    900000
+                ]
+            },
             "sheep_minion_i": {
                 "from": null,
                 "to": [
@@ -11222,7 +11232,7 @@
                 ]
             }
         },
-        "total_mods": 2953
+        "total_mods": 2954
     },
     "395028811399299082": {
         "modification_history": {},
