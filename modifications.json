@@ -538,6 +538,16 @@
                     3000000
                 ]
             },
+            "ancestral_spade": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "ancient_claw": {
                 "from": [
                     180,
@@ -12549,7 +12559,7 @@
                 ]
             }
         },
-        "total_mods": 3112
+        "total_mods": 3113
     },
     "395028811399299082": {
         "modification_history": {},
