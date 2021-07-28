@@ -2446,12 +2446,12 @@
             },
             "diamond_spreading": {
                 "from": [
-                    9000,
-                    12000
-                ],
-                "to": [
                     6000,
                     7000
+                ],
+                "to": [
+                    600,
+                    9500
                 ]
             },
             "diamond_thorn_head": {
@@ -12602,7 +12602,7 @@
                 ]
             }
         },
-        "total_mods": 3176
+        "total_mods": 3177
     },
     "395028811399299082": {
         "modification_history": {},
