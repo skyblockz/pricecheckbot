@@ -12073,12 +12073,6 @@
     },
     {
         "ac": true,
-        "hi": 30000000,
-        "low": 26000000,
-        "name": "ruby_polished_drill_engine"
-    },
-    {
-        "ac": true,
         "hi": 50000000,
         "low": 49000000,
         "name": "gemstone_fuel_tank"
@@ -14290,5 +14284,11 @@
         "hi": 18000000,
         "low": 10000000,
         "name": "mithril-infused_fuel_tank"
+    },
+    {
+        "ac": true,
+        "hi": 30000000,
+        "low": 26000000,
+        "name": "ruby-polished_drill_engine"
     }
 ]
