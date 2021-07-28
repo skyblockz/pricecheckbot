@@ -1579,6 +1579,16 @@
                     1050000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    27300000,
+                    29000000
+                ],
+                "to": [
+                    28000000,
+                    28700000
+                ]
+            },
             "cave_spider_minion_i": {
                 "from": null,
                 "to": [
@@ -12352,7 +12362,7 @@
                 ]
             }
         },
-        "total_mods": 3082
+        "total_mods": 3083
     },
     "395028811399299082": {
         "modification_history": {},
