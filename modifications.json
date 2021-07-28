@@ -6878,6 +6878,16 @@
                     8000
                 ]
             },
+            "rock_gemstone": {
+                "from": [
+                    2400000,
+                    2450000
+                ],
+                "to": [
+                    2000000,
+                    2000000
+                ]
+            },
             "roofed_forest_biome_stick": {
                 "from": null,
                 "to": [
@@ -7770,7 +7780,7 @@
                 ]
             }
         },
-        "total_mods": 2563
+        "total_mods": 2564
     },
     "395028811399299082": {
         "modification_history": {},
