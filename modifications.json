@@ -2976,12 +2976,12 @@
             },
             "enchanted_cake": {
                 "from": [
-                    3000,
-                    5500
-                ],
-                "to": [
                     4000,
                     20000
+                ],
+                "to": [
+                    3200,
+                    5000
                 ]
             },
             "enchanted_carrot": {
@@ -12632,7 +12632,7 @@
                 ]
             }
         },
-        "total_mods": 3214
+        "total_mods": 3215
     },
     "395028811399299082": {
         "modification_history": {},
