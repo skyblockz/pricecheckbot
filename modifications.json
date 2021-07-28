@@ -13312,6 +13312,16 @@
                     12800000
                 ]
             },
+            "speedster_boots": {
+                "from": [
+                    225000,
+                    275000
+                ],
+                "to": [
+                    200000,
+                    450000
+                ]
+            },
             "speedster_chestplate": {
                 "from": [
                     630000,
@@ -13383,7 +13393,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "647100327048511519": {
         "modification_history": {},
