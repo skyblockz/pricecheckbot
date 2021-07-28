@@ -7427,6 +7427,16 @@
                     730
                 ]
             },
+            "magical_milk_bucket": {
+                "from": [
+                    100000,
+                    300000
+                ],
+                "to": [
+                    100000,
+                    500000
+                ]
+            },
             "magical_mushroom_soup": {
                 "from": [
                     100,
@@ -13083,7 +13093,7 @@
                 ]
             }
         },
-        "total_mods": 3559
+        "total_mods": 3560
     },
     "395028811399299082": {
         "modification_history": {},
