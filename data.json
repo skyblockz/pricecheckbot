@@ -79,12 +79,6 @@
     },
     {
         "ac": true,
-        "hi": 385000,
-        "low": 350000,
-        "name": "spider_boots"
-    },
-    {
-        "ac": true,
         "hi": 4000,
         "low": 3820,
         "name": "grand_experience_bottle"
@@ -14332,5 +14326,11 @@
         "hi": 5000000,
         "low": 4500000,
         "name": "mender_crown"
+    },
+    {
+        "ac": true,
+        "hi": 385000,
+        "low": 350000,
+        "name": "spiders_boots"
     }
 ]
