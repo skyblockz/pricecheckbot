@@ -4328,12 +4328,12 @@
             },
             "epic_griffin_upgrade_stone": {
                 "from": [
-                    6000000,
-                    6200000
-                ],
-                "to": [
                     6100000,
                     6600000
+                ],
+                "to": [
+                    7200000,
+                    7350000
                 ]
             },
             "epic_ice_spray_wand": {
@@ -13053,7 +13053,7 @@
                 ]
             }
         },
-        "total_mods": 3493
+        "total_mods": 3494
     },
     "395028811399299082": {
         "modification_history": {},
