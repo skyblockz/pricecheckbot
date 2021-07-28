@@ -8471,6 +8471,16 @@
                     570000
                 ]
             },
+            "skeleton_soldier_chestplate": {
+                "from": [
+                    7000,
+                    10000
+                ],
+                "to": [
+                    5050,
+                    5050
+                ]
+            },
             "skeleton_soldier_helmet": {
                 "from": [
                     30000,
@@ -10402,7 +10412,7 @@
                 ]
             }
         },
-        "total_mods": 2868
+        "total_mods": 2869
     },
     "395028811399299082": {
         "modification_history": {},
