@@ -4187,6 +4187,16 @@
                     13500
                 ]
             },
+            "goblin_helmet": {
+                "from": [
+                    5000,
+                    9500
+                ],
+                "to": [
+                    1500,
+                    4200
+                ]
+            },
             "goblin_omelette": {
                 "from": null,
                 "to": [
@@ -9692,7 +9702,7 @@
                 ]
             }
         },
-        "total_mods": 2790
+        "total_mods": 2791
     },
     "395028811399299082": {
         "modification_history": {},
