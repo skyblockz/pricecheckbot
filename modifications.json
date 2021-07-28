@@ -7417,6 +7417,16 @@
                     3000000
                 ]
             },
+            "silky_lichen": {
+                "from": [
+                    15000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    35000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -8024,7 +8034,7 @@
                 ]
             }
         },
-        "total_mods": 2590
+        "total_mods": 2591
     },
     "395028811399299082": {
         "modification_history": {},
