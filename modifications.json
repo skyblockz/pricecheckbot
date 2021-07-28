@@ -6828,6 +6828,16 @@
                     8000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    200000,
+                    650000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -7730,7 +7740,7 @@
                 ]
             }
         },
-        "total_mods": 2559
+        "total_mods": 2560
     },
     "395028811399299082": {
         "modification_history": {},
