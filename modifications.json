@@ -8464,6 +8464,16 @@
                     1000000
                 ]
             },
+            "skeleton_master_helmet": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    5050,
+                    5050
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -10432,7 +10442,7 @@
                 ]
             }
         },
-        "total_mods": 2871
+        "total_mods": 2872
     },
     "395028811399299082": {
         "modification_history": {},
