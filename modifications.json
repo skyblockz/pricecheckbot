@@ -65,6 +65,16 @@
                     60000
                 ]
             },
+            "mastiff_crown": {
+                "from": [
+                    640000,
+                    690000
+                ],
+                "to": [
+                    550000,
+                    690000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     5000,
@@ -133,7 +143,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "275329625478004737": {
         "modification_history": {},
