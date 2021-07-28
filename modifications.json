@@ -5706,10 +5706,13 @@
                 ]
             },
             "goblin_omelette": {
-                "from": null,
-                "to": [
+                "from": [
                     390000,
                     430000
+                ],
+                "to": [
+                    200000,
+                    340000
                 ]
             },
             "god_potion": {
@@ -13040,7 +13043,7 @@
                 ]
             }
         },
-        "total_mods": 3474
+        "total_mods": 3475
     },
     "395028811399299082": {
         "modification_history": {},
