@@ -6274,6 +6274,16 @@
                     6
                 ]
             },
+            "pumpkin_guts": {
+                "from": [
+                    36000,
+                    53000
+                ],
+                "to": [
+                    34000,
+                    50000
+                ]
+            },
             "pumpkin_minion_i": {
                 "from": null,
                 "to": [
@@ -7410,7 +7420,7 @@
                 ]
             }
         },
-        "total_mods": 2523
+        "total_mods": 2524
     },
     "395028811399299082": {
         "modification_history": {},
