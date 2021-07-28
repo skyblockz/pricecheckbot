@@ -3702,6 +3702,16 @@
                     10000
                 ]
             },
+            "epic_zombie_lord_helmet": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "epic_zombie_soldier_cutlass": {
                 "from": [
                     500000,
@@ -10592,7 +10602,7 @@
                 ]
             }
         },
-        "total_mods": 2887
+        "total_mods": 2888
     },
     "395028811399299082": {
         "modification_history": {},
