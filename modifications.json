@@ -13272,6 +13272,16 @@
                     12800000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    680000,
+                    730000
+                ]
+            },
             "wither_shield": {
                 "from": [
                     6100000,
@@ -13283,7 +13293,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "647100327048511519": {
         "modification_history": {},
