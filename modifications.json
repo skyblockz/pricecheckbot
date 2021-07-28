@@ -6381,6 +6381,16 @@
                     9600000
                 ]
             },
+            "rabbit_foot": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    9,
+                    10
+                ]
+            },
             "rabbit_hide": {
                 "from": [
                     27,
@@ -7450,7 +7460,7 @@
                 ]
             }
         },
-        "total_mods": 2527
+        "total_mods": 2528
     },
     "395028811399299082": {
         "modification_history": {},
