@@ -7367,6 +7367,16 @@
                     1000000
                 ]
             },
+            "shiny_shard": {
+                "from": [
+                    150000,
+                    340000
+                ],
+                "to": [
+                    100000,
+                    850000
+                ]
+            },
             "skeleton_minion_i": {
                 "from": null,
                 "to": [
@@ -7974,7 +7984,7 @@
                 ]
             }
         },
-        "total_mods": 2585
+        "total_mods": 2586
     },
     "395028811399299082": {
         "modification_history": {},
