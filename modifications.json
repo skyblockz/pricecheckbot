@@ -2346,12 +2346,12 @@
             },
             "diamond": {
                 "from": [
-                    7,
-                    8
-                ],
-                "to": [
                     8,
                     9
+                ],
+                "to": [
+                    7,
+                    8
                 ]
             },
             "diamond_atom": {
@@ -12602,7 +12602,7 @@
                 ]
             }
         },
-        "total_mods": 3174
+        "total_mods": 3175
     },
     "395028811399299082": {
         "modification_history": {},
