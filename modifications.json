@@ -1336,6 +1336,16 @@
                     2700000
                 ]
             },
+            "chestplate_of_growth": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    280000,
+                    290000
+                ]
+            },
             "chicken_minion_i": {
                 "from": [
                     100,
@@ -9662,7 +9672,7 @@
                 ]
             }
         },
-        "total_mods": 2787
+        "total_mods": 2788
     },
     "395028811399299082": {
         "modification_history": {},
