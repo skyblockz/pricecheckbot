@@ -6823,12 +6823,6 @@
     },
     {
         "ac": true,
-        "hi": 24000000,
-        "low": 23200000,
-        "name": "ice_spray_wand"
-    },
-    {
-        "ac": true,
         "hi": 800000,
         "low": 650000,
         "name": "spirit_bone"
@@ -14326,5 +14320,11 @@
         "hi": 3900000,
         "low": 3000000,
         "name": "thick_sword_of_revelations"
+    },
+    {
+        "ac": true,
+        "hi": 24000000,
+        "low": 23200000,
+        "name": "rare_ice_spray_wand"
     }
 ]
