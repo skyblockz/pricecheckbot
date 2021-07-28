@@ -8032,6 +8032,16 @@
                     1300000
                 ]
             },
+            "spider_queens_stinger": {
+                "from": [
+                    200000,
+                    380000
+                ],
+                "to": [
+                    75000,
+                    300000
+                ]
+            },
             "spider_ring": {
                 "from": [
                     180000,
@@ -9482,7 +9492,7 @@
                 ]
             }
         },
-        "total_mods": 2764
+        "total_mods": 2765
     },
     "395028811399299082": {
         "modification_history": {},
