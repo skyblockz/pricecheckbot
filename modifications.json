@@ -7143,6 +7143,16 @@
                     900000
                 ]
             },
+            "scythe_blade": {
+                "from": [
+                    4200000,
+                    4300000
+                ],
+                "to": [
+                    3500000,
+                    3700000
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -7904,7 +7914,7 @@
                 ]
             }
         },
-        "total_mods": 2578
+        "total_mods": 2579
     },
     "395028811399299082": {
         "modification_history": {},
