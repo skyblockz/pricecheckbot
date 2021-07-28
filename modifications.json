@@ -7813,12 +7813,12 @@
             },
             "mining_pumpkin": {
                 "from": [
-                    150000,
-                    160000
-                ],
-                "to": [
                     120000,
                     120000
+                ],
+                "to": [
+                    100000,
+                    100000
                 ]
             },
             "minion_storage_xpender": {
@@ -13103,7 +13103,7 @@
                 ]
             }
         },
-        "total_mods": 3574
+        "total_mods": 3575
     },
     "395028811399299082": {
         "modification_history": {},
