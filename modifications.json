@@ -1182,6 +1182,16 @@
                     100000
                 ]
             },
+            "bouncy_leggings": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    125000,
+                    125000
+                ]
+            },
             "braided_griffin_feather": {
                 "from": [
                     11000000,
@@ -9792,7 +9802,7 @@
                 ]
             }
         },
-        "total_mods": 2800
+        "total_mods": 2801
     },
     "395028811399299082": {
         "modification_history": {},
