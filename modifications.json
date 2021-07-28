@@ -2876,12 +2876,12 @@
             },
             "enchanted_birch_wood": {
                 "from": [
-                    1000,
-                    1200
-                ],
-                "to": [
                     400,
                     500
+                ],
+                "to": [
+                    410,
+                    470
                 ]
             },
             "enchanted_blaze_powder": {
@@ -12632,7 +12632,7 @@
                 ]
             }
         },
-        "total_mods": 3203
+        "total_mods": 3204
     },
     "395028811399299082": {
         "modification_history": {},
