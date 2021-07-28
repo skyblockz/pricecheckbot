@@ -4982,12 +4982,12 @@
             },
             "first_master_star": {
                 "from": [
-                    14500000,
-                    15000000
-                ],
-                "to": [
                     15000000,
                     15750000
+                ],
+                "to": [
+                    13500000,
+                    14500000
                 ]
             },
             "fish_affinity_talisman": {
@@ -13103,7 +13103,7 @@
                 ]
             }
         },
-        "total_mods": 3565
+        "total_mods": 3566
     },
     "395028811399299082": {
         "modification_history": {},
