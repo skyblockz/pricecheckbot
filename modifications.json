@@ -6838,6 +6838,16 @@
                     650000
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    2,
+                    5
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -7740,7 +7750,7 @@
                 ]
             }
         },
-        "total_mods": 2560
+        "total_mods": 2561
     },
     "395028811399299082": {
         "modification_history": {},
