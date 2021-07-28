@@ -1546,6 +1546,16 @@
                     500000
                 ]
             },
+            "chestplate_of_the_rising_sun": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    20000,
+                    100000
+                ]
+            },
             "chicken_minion_i": {
                 "from": [
                     100,
@@ -10842,7 +10852,7 @@
                 ]
             }
         },
-        "total_mods": 2913
+        "total_mods": 2914
     },
     "395028811399299082": {
         "modification_history": {},
