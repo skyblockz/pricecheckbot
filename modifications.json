@@ -7123,6 +7123,16 @@
                     20000
                 ]
             },
+            "scorpion_bow": {
+                "from": [
+                    3000000,
+                    4400000
+                ],
+                "to": [
+                    4900000,
+                    9750000
+                ]
+            },
             "sea_creature_chance_enrichment": {
                 "from": null,
                 "to": [
@@ -7884,7 +7894,7 @@
                 ]
             }
         },
-        "total_mods": 2576
+        "total_mods": 2577
     },
     "395028811399299082": {
         "modification_history": {},
