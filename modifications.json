@@ -7666,12 +7666,12 @@
             },
             "melon": {
                 "from": [
-                    3,
-                    5
-                ],
-                "to": [
                     2,
                     3
+                ],
+                "to": [
+                    1,
+                    2
                 ]
             },
             "melon_minion_i": {
@@ -13103,7 +13103,7 @@
                 ]
             }
         },
-        "total_mods": 3570
+        "total_mods": 3571
     },
     "395028811399299082": {
         "modification_history": {},
