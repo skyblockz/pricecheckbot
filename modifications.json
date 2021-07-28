@@ -6678,6 +6678,16 @@
                     20
                 ]
             },
+            "red_nose": {
+                "from": [
+                    5000,
+                    45000
+                ],
+                "to": [
+                    4000,
+                    5000
+                ]
+            },
             "redstone_minion_i": {
                 "from": [
                     300,
@@ -7630,7 +7640,7 @@
                 ]
             }
         },
-        "total_mods": 2547
+        "total_mods": 2548
     },
     "395028811399299082": {
         "modification_history": {},
