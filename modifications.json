@@ -6318,6 +6318,16 @@
                     2600000
                 ]
             },
+            "rare_prehistoric_egg": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5100000,
@@ -7320,7 +7330,7 @@
                 ]
             }
         },
-        "total_mods": 2512
+        "total_mods": 2513
     },
     "395028811399299082": {
         "modification_history": {},
