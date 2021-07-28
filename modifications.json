@@ -9874,6 +9874,16 @@
                     100000
                 ]
             },
+            "zombie_leggings": {
+                "from": [
+                    185000,
+                    250000
+                ],
+                "to": [
+                    185000,
+                    185000
+                ]
+            },
             "zombie_minion_i": {
                 "from": null,
                 "to": [
@@ -9922,7 +9932,7 @@
                 ]
             }
         },
-        "total_mods": 2817
+        "total_mods": 2818
     },
     "395028811399299082": {
         "modification_history": {},
