@@ -5854,12 +5854,12 @@
             },
             "golden_powder": {
                 "from": [
-                    100000,
-                    100000
-                ],
-                "to": [
                     85000,
                     110000
+                ],
+                "to": [
+                    200000,
+                    295000
                 ]
             },
             "golden_professor_head": {
@@ -13043,7 +13043,7 @@
                 ]
             }
         },
-        "total_mods": 3479
+        "total_mods": 3480
     },
     "395028811399299082": {
         "modification_history": {},
