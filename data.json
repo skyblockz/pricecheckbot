@@ -12715,12 +12715,6 @@
     },
     {
         "ac": true,
-        "hi": 34000000,
-        "low": 17200000,
-        "name": "perfect_amethys_gemstone"
-    },
-    {
-        "ac": true,
         "hi": 50000000,
         "low": 7000000,
         "name": "perfect_jasper_gemstone"
@@ -14344,5 +14338,11 @@
         "hi": 1250,
         "low": 1000,
         "name": "null"
+    },
+    {
+        "ac": true,
+        "hi": 34000000,
+        "low": 17200000,
+        "name": "perfect_amethyst_gemstone"
     }
 ]
