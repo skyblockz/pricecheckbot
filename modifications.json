@@ -4508,6 +4508,16 @@
                     6
                 ]
             },
+            "hardened_diamond_chestplate": {
+                "from": [
+                    19000,
+                    20000
+                ],
+                "to": [
+                    6000,
+                    20000
+                ]
+            },
             "hardened_diamond_helmet": {
                 "from": [
                     20000,
@@ -9542,7 +9552,7 @@
                 ]
             }
         },
-        "total_mods": 2775
+        "total_mods": 2776
     },
     "395028811399299082": {
         "modification_history": {},
