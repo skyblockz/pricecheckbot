@@ -2523,12 +2523,12 @@
             },
             "enchanted_hard_stone": {
                 "from": [
-                    3750,
-                    4200
-                ],
-                "to": [
                     3200,
                     3500
+                ],
+                "to": [
+                    3000,
+                    3600
                 ]
             },
             "enchanted_hay_bale": {
@@ -7470,7 +7470,7 @@
                 ]
             }
         },
-        "total_mods": 2529
+        "total_mods": 2530
     },
     "395028811399299082": {
         "modification_history": {},
