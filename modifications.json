@@ -3282,6 +3282,16 @@
                     320000
                 ]
             },
+            "epic_machine_gun_bow": {
+                "from": [
+                    80000,
+                    200000
+                ],
+                "to": [
+                    50000,
+                    300000
+                ]
+            },
             "epic_prehistoric_egg": {
                 "from": [
                     1850000,
@@ -9422,7 +9432,7 @@
                 ]
             }
         },
-        "total_mods": 2752
+        "total_mods": 2753
     },
     "395028811399299082": {
         "modification_history": {},
