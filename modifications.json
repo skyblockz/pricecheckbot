@@ -12476,12 +12476,12 @@
             },
             "twilight_arrow_poison": {
                 "from": [
-                    500,
-                    1000
-                ],
-                "to": [
                     1000,
                     2000
+                ],
+                "to": [
+                    1500,
+                    3000
                 ]
             },
             "twilight_tiger_skin": {
@@ -13319,7 +13319,7 @@
                 ]
             }
         },
-        "total_mods": 3769
+        "total_mods": 3770
     },
     "395028811399299082": {
         "modification_history": {},
