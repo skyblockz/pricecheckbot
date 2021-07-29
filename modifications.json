@@ -9292,12 +9292,12 @@
             },
             "rare_diamond": {
                 "from": [
-                    500,
-                    3000
-                ],
-                "to": [
                     100,
                     750
+                ],
+                "to": [
+                    2000,
+                    2500
                 ]
             },
             "rare_dreadlord_sword": {
@@ -13210,7 +13210,7 @@
                 ]
             }
         },
-        "total_mods": 3644
+        "total_mods": 3645
     },
     "395028811399299082": {
         "modification_history": {},
