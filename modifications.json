@@ -12136,6 +12136,16 @@
                     3400000
                 ]
             },
+            "storms_leggings": {
+                "from": [
+                    6700000,
+                    6900000
+                ],
+                "to": [
+                    6500000,
+                    8000000
+                ]
+            },
             "strength_enrichment": {
                 "from": [
                     1500000,
@@ -13952,7 +13962,7 @@
                 ]
             }
         },
-        "total_mods": 4942
+        "total_mods": 4943
     },
     "395028811399299082": {
         "modification_history": {},
