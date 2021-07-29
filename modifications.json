@@ -10586,12 +10586,12 @@
             },
             "scarf_fragment": {
                 "from": [
-                    5000,
-                    20000
-                ],
-                "to": [
                     20000,
                     40000
+                ],
+                "to": [
+                    2000,
+                    7000
                 ]
             },
             "scarfs_studies": {
@@ -13922,7 +13922,7 @@
                 ]
             }
         },
-        "total_mods": 4667
+        "total_mods": 4668
     },
     "395028811399299082": {
         "modification_history": {},
