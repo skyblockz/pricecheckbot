@@ -6247,12 +6247,12 @@
             },
             "gravel": {
                 "from": [
-                    3,
-                    5
-                ],
-                "to": [
                     1,
                     3
+                ],
+                "to": [
+                    2,
+                    2
                 ]
             },
             "gravel_minion_i": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4465
+        "total_mods": 4466
     },
     "395028811399299082": {
         "modification_history": {},
