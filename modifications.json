@@ -1735,12 +1735,12 @@
             },
             "boots_of_growth": {
                 "from": [
-                    100000,
-                    280000
-                ],
-                "to": [
                     270000,
                     270000
+                ],
+                "to": [
+                    150000,
+                    180000
                 ]
             },
             "boots_of_the_rising_sun": {
@@ -13392,7 +13392,7 @@
                 ]
             }
         },
-        "total_mods": 3886
+        "total_mods": 3887
     },
     "395028811399299082": {
         "modification_history": {},
