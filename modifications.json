@@ -948,12 +948,12 @@
             },
             "arachne_fragment": {
                 "from": [
-                    300000,
-                    350000
-                ],
-                "to": [
                     90000,
                     90000
+                ],
+                "to": [
+                    64000,
+                    70000
                 ]
             },
             "arachnes_keeper_fragment": {
@@ -13849,7 +13849,7 @@
                 ]
             }
         },
-        "total_mods": 4198
+        "total_mods": 4199
     },
     "395028811399299082": {
         "modification_history": {},
