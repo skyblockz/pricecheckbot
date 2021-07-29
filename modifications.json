@@ -10078,10 +10078,13 @@
                 ]
             },
             "sapphire-polished_drill_engine": {
-                "from": null,
-                "to": [
+                "from": [
                     69500000,
                     70900000
+                ],
+                "to": [
+                    54500000,
+                    60000000
                 ]
             },
             "sapphire_power_scroll": {
@@ -13233,7 +13236,7 @@
                 ]
             }
         },
-        "total_mods": 3685
+        "total_mods": 3686
     },
     "395028811399299082": {
         "modification_history": {},
