@@ -9388,12 +9388,12 @@
             },
             "prismapump": {
                 "from": [
-                    25000,
-                    25000
-                ],
-                "to": [
                     2500,
                     2500
+                ],
+                "to": [
+                    25000,
+                    25000
                 ]
             },
             "prismarine_crystals": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4612
+        "total_mods": 4613
     },
     "395028811399299082": {
         "modification_history": {},
