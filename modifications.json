@@ -3014,12 +3014,12 @@
             },
             "dungeon_chest_key": {
                 "from": [
-                    50000,
-                    75000
-                ],
-                "to": [
                     49000,
                     60000
+                ],
+                "to": [
+                    130000,
+                    350000
                 ]
             },
             "dungeons_chest_key": {
@@ -13859,7 +13859,7 @@
                 ]
             }
         },
-        "total_mods": 4275
+        "total_mods": 4276
     },
     "395028811399299082": {
         "modification_history": {},
