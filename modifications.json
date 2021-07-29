@@ -838,12 +838,12 @@
             },
             "amethyst_power_scroll": {
                 "from": [
-                    1000000,
-                    1950000
-                ],
-                "to": [
                     2300000,
                     2500000
+                ],
+                "to": [
+                    2000000,
+                    2000000
                 ]
             },
             "ancestral_spade": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4603
+        "total_mods": 4604
     },
     "395028811399299082": {
         "modification_history": {},
