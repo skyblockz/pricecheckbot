@@ -5789,10 +5789,13 @@
                 ]
             },
             "glistering_melon": {
-                "from": null,
-                "to": [
+                "from": [
                     10,
                     13
+                ],
+                "to": [
+                    10,
+                    14
                 ]
             },
             "gloomlock_grimoire": {
@@ -13889,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4447
+        "total_mods": 4448
     },
     "395028811399299082": {
         "modification_history": {},
