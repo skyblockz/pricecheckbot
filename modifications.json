@@ -8838,12 +8838,12 @@
             },
             "polished_pebble": {
                 "from": [
-                    5000,
-                    50000
-                ],
-                "to": [
                     90000,
                     140000
+                ],
+                "to": [
+                    13000,
+                    20000
                 ]
             },
             "polished_pumpkin": {
@@ -13180,7 +13180,7 @@
                 ]
             }
         },
-        "total_mods": 3617
+        "total_mods": 3618
     },
     "395028811399299082": {
         "modification_history": {},
