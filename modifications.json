@@ -4555,12 +4555,12 @@
             },
             "epic_zombie_knight_sword": {
                 "from": [
-                    10000,
-                    19000
-                ],
-                "to": [
                     6000,
                     10000
+                ],
+                "to": [
+                    50000,
+                    150000
                 ]
             },
             "epic_zombie_lord_boots": {
@@ -13352,7 +13352,7 @@
                 ]
             }
         },
-        "total_mods": 3838
+        "total_mods": 3839
     },
     "395028811399299082": {
         "modification_history": {},
