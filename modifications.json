@@ -12539,12 +12539,12 @@
             },
             "thick_scorpion_foil": {
                 "from": [
-                    820000,
-                    900000
-                ],
-                "to": [
                     900000,
                     1850000
+                ],
+                "to": [
+                    1600000,
+                    1800000
                 ]
             },
             "thick_sword_of_revelations": {
@@ -13952,7 +13952,7 @@
                 ]
             }
         },
-        "total_mods": 4803
+        "total_mods": 4804
     },
     "395028811399299082": {
         "modification_history": {},
