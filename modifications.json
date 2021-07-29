@@ -13349,12 +13349,12 @@
             },
             "water_hydra_head": {
                 "from": [
-                    20000,
-                    25000
-                ],
-                "to": [
                     29000,
                     50000
+                ],
+                "to": [
+                    40000,
+                    300000
                 ]
             },
             "weak_wolf_catalyst": {
@@ -13962,7 +13962,7 @@
                 ]
             }
         },
-        "total_mods": 4998
+        "total_mods": 4999
     },
     "395028811399299082": {
         "modification_history": {},
