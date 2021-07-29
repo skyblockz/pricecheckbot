@@ -7230,6 +7230,16 @@
                     1400000
                 ]
             },
+            "jungle_amulet": {
+                "from": [
+                    6850000,
+                    8200000
+                ],
+                "to": [
+                    6150000,
+                    6800000
+                ]
+            },
             "jungle_biome_stick": {
                 "from": null,
                 "to": [
@@ -13802,7 +13812,7 @@
                 ]
             }
         },
-        "total_mods": 4128
+        "total_mods": 4129
     },
     "395028811399299082": {
         "modification_history": {},
