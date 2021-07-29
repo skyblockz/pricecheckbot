@@ -5707,12 +5707,12 @@
             },
             "goblin_helmet": {
                 "from": [
-                    5000,
-                    9500
-                ],
-                "to": [
                     1500,
                     4200
+                ],
+                "to": [
+                    3000,
+                    50000
                 ]
             },
             "goblin_leggings": {
@@ -13392,7 +13392,7 @@
                 ]
             }
         },
-        "total_mods": 3887
+        "total_mods": 3888
     },
     "395028811399299082": {
         "modification_history": {},
