@@ -8874,12 +8874,12 @@
             },
             "optical_lens": {
                 "from": [
-                    7000,
-                    10000
-                ],
-                "to": [
                     3000,
                     5000
+                ],
+                "to": [
+                    5000,
+                    7000
                 ]
             },
             "orange_elephant_skin": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4583
+        "total_mods": 4584
     },
     "395028811399299082": {
         "modification_history": {},
