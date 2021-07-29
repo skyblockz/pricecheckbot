@@ -12382,12 +12382,12 @@
             },
             "suspicious_vial": {
                 "from": [
-                    45000,
-                    50000
-                ],
-                "to": [
                     75000,
                     98000
+                ],
+                "to": [
+                    70000,
+                    100000
                 ]
             },
             "sword_of_revelations": {
@@ -13932,7 +13932,7 @@
                 ]
             }
         },
-        "total_mods": 4722
+        "total_mods": 4723
     },
     "395028811399299082": {
         "modification_history": {},
