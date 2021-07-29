@@ -3524,12 +3524,12 @@
             },
             "enchanted_dark_oak_wood": {
                 "from": [
-                    320,
-                    375
-                ],
-                "to": [
                     340,
                     370
+                ],
+                "to": [
+                    320,
+                    380
                 ]
             },
             "enchanted_diamond": {
@@ -13859,7 +13859,7 @@
                 ]
             }
         },
-        "total_mods": 4299
+        "total_mods": 4300
     },
     "395028811399299082": {
         "modification_history": {},
