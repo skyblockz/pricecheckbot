@@ -988,12 +988,12 @@
             },
             "armor_of_magma_helmet": {
                 "from": [
-                    168000,
-                    175000
-                ],
-                "to": [
                     200000,
                     300000
+                ],
+                "to": [
+                    185000,
+                    190000
                 ]
             },
             "armor_of_magma_leggings": {
@@ -13442,7 +13442,7 @@
                 ]
             }
         },
-        "total_mods": 3900
+        "total_mods": 3901
     },
     "395028811399299082": {
         "modification_history": {},
