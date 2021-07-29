@@ -6364,12 +6364,12 @@
             },
             "green_jerry_talisman": {
                 "from": [
-                    690000,
-                    700000
-                ],
-                "to": [
                     720000,
                     800000
+                ],
+                "to": [
+                    800000,
+                    850000
                 ]
             },
             "griffin_feather": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4470
+        "total_mods": 4471
     },
     "395028811399299082": {
         "modification_history": {},
