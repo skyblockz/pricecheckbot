@@ -4852,12 +4852,12 @@
             },
             "fancy_tuxedo_pants": {
                 "from": [
-                    2100000,
-                    3800000
-                ],
-                "to": [
                     2000000,
                     2300000
+                ],
+                "to": [
+                    3000000,
+                    4000000
                 ]
             },
             "farm_armor_leggings": {
@@ -13492,7 +13492,7 @@
                 ]
             }
         },
-        "total_mods": 3991
+        "total_mods": 3992
     },
     "395028811399299082": {
         "modification_history": {},
