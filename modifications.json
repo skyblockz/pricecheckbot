@@ -9742,12 +9742,12 @@
             },
             "rare_griffin_upgrade_stone": {
                 "from": [
-                    2300000,
-                    2600000
-                ],
-                "to": [
                     2490000,
                     2500000
+                ],
+                "to": [
+                    2150000,
+                    2490000
                 ]
             },
             "rare_ice_spray_wand": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4474
+        "total_mods": 4475
     },
     "395028811399299082": {
         "modification_history": {},
