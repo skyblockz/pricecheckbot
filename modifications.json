@@ -852,6 +852,16 @@
                     3500000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "warden_heart": {
                 "from": [
                     181000000,
@@ -873,7 +883,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "466769036122783744": {
         "modification_history": {},
