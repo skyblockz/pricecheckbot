@@ -12716,12 +12716,12 @@
             },
             "wand_of_mending": {
                 "from": [
-                    94000,
-                    100000
-                ],
-                "to": [
                     90000,
                     95000
+                ],
+                "to": [
+                    200000,
+                    300000
                 ]
             },
             "wand_of_restoration": {
@@ -13319,7 +13319,7 @@
                 ]
             }
         },
-        "total_mods": 3776
+        "total_mods": 3777
     },
     "395028811399299082": {
         "modification_history": {},
