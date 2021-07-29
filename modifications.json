@@ -9176,6 +9176,16 @@
                     170
                 ]
             },
+            "potato_talisman": {
+                "from": [
+                    8700000,
+                    10000000
+                ],
+                "to": [
+                    4800000,
+                    5100000
+                ]
+            },
             "potion_affinity_artifact": {
                 "from": [
                     130000,
@@ -13702,7 +13712,7 @@
                 ]
             }
         },
-        "total_mods": 4111
+        "total_mods": 4112
     },
     "395028811399299082": {
         "modification_history": {},
