@@ -6635,12 +6635,12 @@
             },
             "holy_dragon_leggings": {
                 "from": [
-                    250000,
-                    270000
-                ],
-                "to": [
                     230000,
                     300000
+                ],
+                "to": [
+                    250000,
+                    25000
                 ]
             },
             "honed_shark_tooth_necklace": {
@@ -13552,7 +13552,7 @@
                 ]
             }
         },
-        "total_mods": 4049
+        "total_mods": 4050
     },
     "395028811399299082": {
         "modification_history": {},
