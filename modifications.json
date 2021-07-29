@@ -2774,12 +2774,12 @@
             },
             "diamond_atom": {
                 "from": [
-                    40000,
-                    60000
-                ],
-                "to": [
                     10000,
                     20000
+                ],
+                "to": [
+                    60000,
+                    73000
                 ]
             },
             "diamond_bonzo_head": {
@@ -13849,7 +13849,7 @@
                 ]
             }
         },
-        "total_mods": 4259
+        "total_mods": 4260
     },
     "395028811399299082": {
         "modification_history": {},
