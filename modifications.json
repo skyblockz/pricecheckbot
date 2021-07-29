@@ -4385,12 +4385,12 @@
             },
             "epic_silent_death": {
                 "from": [
-                    100000,
-                    250000
-                ],
-                "to": [
                     240000,
                     300000
+                ],
+                "to": [
+                    89000,
+                    250000
                 ]
             },
             "epic_skeleton_soldier_leggings": {
@@ -13352,7 +13352,7 @@
                 ]
             }
         },
-        "total_mods": 3832
+        "total_mods": 3833
     },
     "395028811399299082": {
         "modification_history": {},
