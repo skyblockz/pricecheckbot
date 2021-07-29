@@ -11621,12 +11621,12 @@
             },
             "speedster_helmet": {
                 "from": [
-                    330000,
-                    380000
-                ],
-                "to": [
                     280000,
                     400000
+                ],
+                "to": [
+                    410000,
+                    700000
                 ]
             },
             "speedster_leggings": {
@@ -13952,7 +13952,7 @@
                 ]
             }
         },
-        "total_mods": 4874
+        "total_mods": 4875
     },
     "395028811399299082": {
         "modification_history": {},
