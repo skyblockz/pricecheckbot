@@ -3894,12 +3894,12 @@
             },
             "enchanted_netherrack": {
                 "from": [
-                    150,
-                    230
-                ],
-                "to": [
                     180,
                     200
+                ],
+                "to": [
+                    340,
+                    710
                 ]
             },
             "enchanted_oak_wood": {
@@ -13869,7 +13869,7 @@
                 ]
             }
         },
-        "total_mods": 4326
+        "total_mods": 4327
     },
     "395028811399299082": {
         "modification_history": {},
