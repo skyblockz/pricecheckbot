@@ -3284,12 +3284,12 @@
             },
             "emperors_skull": {
                 "from": [
-                    79000,
-                    79000
-                ],
-                "to": [
                     55000,
                     80000
+                ],
+                "to": [
+                    100000,
+                    250000
                 ]
             },
             "enchanted_ancient_claw": {
@@ -13859,7 +13859,7 @@
                 ]
             }
         },
-        "total_mods": 4283
+        "total_mods": 4284
     },
     "395028811399299082": {
         "modification_history": {},
