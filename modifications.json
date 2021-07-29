@@ -12417,12 +12417,12 @@
             },
             "uncommon_prehistoric_egg": {
                 "from": [
-                    1000000,
-                    1000000
-                ],
-                "to": [
                     340000,
                     350000
+                ],
+                "to": [
+                    450000,
+                    600000
                 ]
             },
             "undead_bow": {
@@ -13200,7 +13200,7 @@
                 ]
             }
         },
-        "total_mods": 3628
+        "total_mods": 3629
     },
     "395028811399299082": {
         "modification_history": {},
