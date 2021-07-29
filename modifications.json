@@ -9342,12 +9342,12 @@
             },
             "rare_silent_death": {
                 "from": [
-                    40000,
-                    70000
-                ],
-                "to": [
                     48000,
                     60000
+                ],
+                "to": [
+                    40000,
+                    50000
                 ]
             },
             "rare_sniper_bow": {
@@ -13352,7 +13352,7 @@
                 ]
             }
         },
-        "total_mods": 3831
+        "total_mods": 3832
     },
     "395028811399299082": {
         "modification_history": {},
