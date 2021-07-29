@@ -5830,12 +5830,12 @@
             },
             "glowstone_dust": {
                 "from": [
-                    17,
-                    20
-                ],
-                "to": [
                     13,
                     18
+                ],
+                "to": [
+                    32,
+                    32
                 ]
             },
             "glowstone_minion_i": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4450
+        "total_mods": 4451
     },
     "395028811399299082": {
         "modification_history": {},
