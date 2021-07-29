@@ -9565,12 +9565,12 @@
             },
             "purple_jerry_box": {
                 "from": [
-                    240000,
-                    260000
-                ],
-                "to": [
                     180000,
                     216000
+                ],
+                "to": [
+                    230000,
+                    230000
                 ]
             },
             "purple_jerry_talisman": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4511
+        "total_mods": 4512
     },
     "395028811399299082": {
         "modification_history": {},
