@@ -8828,12 +8828,12 @@
             },
             "plumbers_sponge": {
                 "from": [
-                    7000,
-                    8500
-                ],
-                "to": [
                     800,
                     800
+                ],
+                "to": [
+                    50000,
+                    75000
                 ]
             },
             "polished_pebble": {
@@ -13180,7 +13180,7 @@
                 ]
             }
         },
-        "total_mods": 3616
+        "total_mods": 3617
     },
     "395028811399299082": {
         "modification_history": {},
