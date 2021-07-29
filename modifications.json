@@ -5395,12 +5395,12 @@
             },
             "flawless_sapphire_gemstone": {
                 "from": [
-                    5000000,
-                    8500000
-                ],
-                "to": [
                     5600000,
                     7499000
+                ],
+                "to": [
+                    7500000,
+                    7500000
                 ]
             },
             "flawless_topaz_gemstone": {
@@ -13872,7 +13872,7 @@
                 ]
             }
         },
-        "total_mods": 4423
+        "total_mods": 4424
     },
     "395028811399299082": {
         "modification_history": {},
