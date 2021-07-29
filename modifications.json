@@ -9258,12 +9258,12 @@
             },
             "plumbers_sponge": {
                 "from": [
-                    800,
-                    800
-                ],
-                "to": [
                     50000,
                     75000
+                ],
+                "to": [
+                    100,
+                    200
                 ]
             },
             "pocket_espresso_machine": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4597
+        "total_mods": 4598
     },
     "395028811399299082": {
         "modification_history": {},
