@@ -7722,12 +7722,12 @@
             },
             "magical_lava_bucket": {
                 "from": [
-                    180,
-                    200
-                ],
-                "to": [
                     320,
                     730
+                ],
+                "to": [
+                    350,
+                    380
                 ]
             },
             "magical_milk_bucket": {
@@ -13902,7 +13902,7 @@
                 ]
             }
         },
-        "total_mods": 4539
+        "total_mods": 4540
     },
     "395028811399299082": {
         "modification_history": {},
