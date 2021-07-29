@@ -11792,12 +11792,12 @@
             },
             "super_undead_bow": {
                 "from": [
-                    450000,
-                    500000
-                ],
-                "to": [
                     300000,
                     400000
+                ],
+                "to": [
+                    150000,
+                    300000
                 ]
             },
             "superb_carrot_candy": {
@@ -13372,7 +13372,7 @@
                 ]
             }
         },
-        "total_mods": 3857
+        "total_mods": 3858
     },
     "395028811399299082": {
         "modification_history": {},
