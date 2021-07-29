@@ -752,6 +752,16 @@
                     47500000
                 ]
             },
+            "jungle_key": {
+                "from": [
+                    48000,
+                    49000
+                ],
+                "to": [
+                    35750,
+                    40000
+                ]
+            },
             "jungle_pickaxe": {
                 "from": [
                     850000,
@@ -823,7 +833,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "466769036122783744": {
         "modification_history": {},
