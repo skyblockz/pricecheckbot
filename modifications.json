@@ -6004,12 +6004,12 @@
             },
             "golem_armor_chestplate": {
                 "from": [
-                    85000,
-                    185000
-                ],
-                "to": [
                     200000,
                     300000
+                ],
+                "to": [
+                    100000,
+                    140000
                 ]
             },
             "golem_armor_helmet": {
@@ -13392,7 +13392,7 @@
                 ]
             }
         },
-        "total_mods": 3880
+        "total_mods": 3881
     },
     "395028811399299082": {
         "modification_history": {},
