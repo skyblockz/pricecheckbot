@@ -9289,12 +9289,6 @@
     },
     {
         "ac": true,
-        "hi": 604000,
-        "low": 441000,
-        "name": "tightly_tied_hay_bale"
-    },
-    {
-        "ac": true,
         "hi": 60000,
         "low": 40000,
         "name": "zombie_lord_boots"
@@ -14362,5 +14356,11 @@
         "hi": 2000000,
         "low": 1000000,
         "name": "sharp_rock"
+    },
+    {
+        "ac": true,
+        "hi": 604000,
+        "low": 441000,
+        "name": "tightly-tied_hay_bale"
     }
 ]
