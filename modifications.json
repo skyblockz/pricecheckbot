@@ -752,6 +752,16 @@
                     47500000
                 ]
             },
+            "jungle_pickaxe": {
+                "from": [
+                    850000,
+                    1500000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "leggings_of_divan": {
                 "from": [
                     42300000,
@@ -813,7 +823,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
