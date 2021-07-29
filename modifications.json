@@ -7933,12 +7933,12 @@
             },
             "mastiff_chestplate": {
                 "from": [
-                    550000,
-                    650000
-                ],
-                "to": [
                     680000,
                     750000
+                ],
+                "to": [
+                    500000,
+                    600000
                 ]
             },
             "mastiff_crown": {
@@ -13952,7 +13952,7 @@
                 ]
             }
         },
-        "total_mods": 4882
+        "total_mods": 4883
     },
     "395028811399299082": {
         "modification_history": {},
