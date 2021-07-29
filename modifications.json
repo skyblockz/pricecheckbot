@@ -1135,6 +1135,16 @@
                     12800000
                 ]
             },
+            "sorrow_chestplate": {
+                "from": [
+                    6000000,
+                    6000000
+                ],
+                "to": [
+                    6500000,
+                    7000000
+                ]
+            },
             "sorrow_helmet": {
                 "from": [
                     3500000,
@@ -1226,7 +1236,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "647100327048511519": {
         "modification_history": {},
