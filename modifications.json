@@ -11673,6 +11673,16 @@
                     890000
                 ]
             },
+            "sugar": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    1,
+                    3
+                ]
+            },
             "sugar_cane_minion_i": {
                 "from": null,
                 "to": [
@@ -13273,7 +13283,7 @@
                 ]
             }
         },
-        "total_mods": 3733
+        "total_mods": 3734
     },
     "395028811399299082": {
         "modification_history": {},
