@@ -4825,12 +4825,12 @@
             },
             "exp_share_core": {
                 "from": [
-                    750000,
-                    870000
-                ],
-                "to": [
                     500000,
                     580000
+                ],
+                "to": [
+                    550000,
+                    600000
                 ]
             },
             "experience_artifact": {
@@ -13869,7 +13869,7 @@
                 ]
             }
         },
-        "total_mods": 4368
+        "total_mods": 4369
     },
     "395028811399299082": {
         "modification_history": {},
