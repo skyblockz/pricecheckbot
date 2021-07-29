@@ -8183,12 +8183,12 @@
             },
             "minion_storage_x-pender": {
                 "from": [
-                    490000,
-                    545000
-                ],
-                "to": [
                     420000,
                     487000
+                ],
+                "to": [
+                    500000,
+                    625000
                 ]
             },
             "minion_storage_xpender": {
@@ -13902,7 +13902,7 @@
                 ]
             }
         },
-        "total_mods": 4556
+        "total_mods": 4557
     },
     "395028811399299082": {
         "modification_history": {},
