@@ -13126,12 +13126,12 @@
             },
             "wise_dragon_chestplate": {
                 "from": [
-                    450000,
-                    500000
-                ],
-                "to": [
                     500000,
                     525000
+                ],
+                "to": [
+                    420000,
+                    480000
                 ]
             },
             "wise_dragon_fragment": {
@@ -13552,7 +13552,7 @@
                 ]
             }
         },
-        "total_mods": 4032
+        "total_mods": 4033
     },
     "395028811399299082": {
         "modification_history": {},
