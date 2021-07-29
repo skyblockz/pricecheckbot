@@ -8904,12 +8904,12 @@
             },
             "ornate_zombie_sword": {
                 "from": [
-                    915000,
-                    950000
-                ],
-                "to": [
                     880000,
                     1000000
+                ],
+                "to": [
+                    950000,
+                    1100000
                 ]
             },
             "overflux_capacitor": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4584
+        "total_mods": 4585
     },
     "395028811399299082": {
         "modification_history": {},
