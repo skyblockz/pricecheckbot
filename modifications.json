@@ -13623,12 +13623,12 @@
             },
             "zombie_ring": {
                 "from": [
-                    10000,
-                    11500
-                ],
-                "to": [
                     24000,
                     40000
+                ],
+                "to": [
+                    25000,
+                    25000
                 ]
             },
             "zombie_skeleton_horse_skin": {
@@ -13712,7 +13712,7 @@
                 ]
             }
         },
-        "total_mods": 4113
+        "total_mods": 4114
     },
     "395028811399299082": {
         "modification_history": {},
