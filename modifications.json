@@ -10212,12 +10212,12 @@
             },
             "repelling_candle": {
                 "from": [
-                    80000,
-                    90000
-                ],
-                "to": [
                     27000,
                     30000
+                ],
+                "to": [
+                    10000,
+                    10000
                 ]
             },
             "revenant_boots": {
@@ -13922,7 +13922,7 @@
                 ]
             }
         },
-        "total_mods": 4650
+        "total_mods": 4651
     },
     "395028811399299082": {
         "modification_history": {},
