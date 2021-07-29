@@ -3142,6 +3142,16 @@
                     700000
                 ]
             },
+            "emerald_armor_leggings": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     250000,
@@ -13442,7 +13452,7 @@
                 ]
             }
         },
-        "total_mods": 3906
+        "total_mods": 3907
     },
     "395028811399299082": {
         "modification_history": {},
