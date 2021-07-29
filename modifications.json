@@ -12929,12 +12929,12 @@
             },
             "training_dummy": {
                 "from": [
-                    60000,
-                    60000
-                ],
-                "to": [
                     100000,
                     130000
+                ],
+                "to": [
+                    69000,
+                    70000
                 ]
             },
             "transmission_tuner": {
@@ -13942,7 +13942,7 @@
                 ]
             }
         },
-        "total_mods": 4746
+        "total_mods": 4747
     },
     "395028811399299082": {
         "modification_history": {},
