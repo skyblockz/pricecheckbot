@@ -5964,12 +5964,12 @@
             },
             "golden_professor_head": {
                 "from": [
-                    900000,
-                    1200000
-                ],
-                "to": [
                     1000000,
                     2100000
+                ],
+                "to": [
+                    650000,
+                    980000
                 ]
             },
             "golden_sadan_head": {
@@ -13632,7 +13632,7 @@
                 ]
             }
         },
-        "total_mods": 4094
+        "total_mods": 4095
     },
     "395028811399299082": {
         "modification_history": {},
