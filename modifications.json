@@ -3644,12 +3644,12 @@
             },
             "enchanted_glistering_melon": {
                 "from": [
-                    3200,
-                    4500
-                ],
-                "to": [
                     3230,
                     10000
+                ],
+                "to": [
+                    3600,
+                    9900
                 ]
             },
             "enchanted_glowstone": {
@@ -13859,7 +13859,7 @@
                 ]
             }
         },
-        "total_mods": 4306
+        "total_mods": 4307
     },
     "395028811399299082": {
         "modification_history": {},
