@@ -10038,10 +10038,13 @@
                 ]
             },
             "salmon_hat": {
-                "from": null,
-                "to": [
+                "from": [
                     80,
                     85
+                ],
+                "to": [
+                    90,
+                    95
                 ]
             },
             "salmon_opal": {
@@ -13230,7 +13233,7 @@
                 ]
             }
         },
-        "total_mods": 3683
+        "total_mods": 3684
     },
     "395028811399299082": {
         "modification_history": {},
