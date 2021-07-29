@@ -12983,12 +12983,12 @@
             },
             "wishing_compass": {
                 "from": [
-                    5000,
-                    9000
-                ],
-                "to": [
                     6000,
                     6000
+                ],
+                "to": [
+                    3000,
+                    5000
                 ]
             },
             "wither_artifact": {
@@ -13319,7 +13319,7 @@
                 ]
             }
         },
-        "total_mods": 3784
+        "total_mods": 3785
     },
     "395028811399299082": {
         "modification_history": {},
