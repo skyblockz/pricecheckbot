@@ -9041,12 +9041,12 @@
             },
             "personal_bank_item": {
                 "from": [
-                    32000,
-                    32000
-                ],
-                "to": [
                     25000,
                     40000
+                ],
+                "to": [
+                    24000,
+                    25000
                 ]
             },
             "personal_compactor_4000": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4587
+        "total_mods": 4588
     },
     "395028811399299082": {
         "modification_history": {},
