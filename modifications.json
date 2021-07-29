@@ -9977,6 +9977,16 @@
                     8000000
                 ]
             },
+            "ruby-polished_drill_engine": {
+                "from": [
+                    26000000,
+                    30000000
+                ],
+                "to": [
+                    23750000,
+                    29500000
+                ]
+            },
             "ruby_drill_model_tx-15": {
                 "from": [
                     3750000,
@@ -13220,7 +13230,7 @@
                 ]
             }
         },
-        "total_mods": 3680
+        "total_mods": 3681
     },
     "395028811399299082": {
         "modification_history": {},
