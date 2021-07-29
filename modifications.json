@@ -4328,12 +4328,12 @@
             },
             "epic_dreadlord_sword": {
                 "from": [
-                    10000,
-                    17000
-                ],
-                "to": [
                     19000,
                     50000
+                ],
+                "to": [
+                    44000,
+                    100000
                 ]
             },
             "epic_griffin_upgrade_stone": {
@@ -13342,7 +13342,7 @@
                 ]
             }
         },
-        "total_mods": 3829
+        "total_mods": 3830
     },
     "395028811399299082": {
         "modification_history": {},
