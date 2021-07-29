@@ -3354,12 +3354,12 @@
             },
             "enchanted_bone": {
                 "from": [
-                    360,
-                    490
-                ],
-                "to": [
                     310,
                     370
+                ],
+                "to": [
+                    1,
+                    2
                 ]
             },
             "enchanted_bone_block": {
@@ -13859,7 +13859,7 @@
                 ]
             }
         },
-        "total_mods": 4287
+        "total_mods": 4288
     },
     "395028811399299082": {
         "modification_history": {},
