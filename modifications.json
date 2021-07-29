@@ -3094,12 +3094,12 @@
             },
             "electron_transmitter": {
                 "from": [
-                    200000,
-                    200000
-                ],
-                "to": [
                     15000,
                     180000
+                ],
+                "to": [
+                    190000,
+                    200000
                 ]
             },
             "elegant_tuxedo_jacket": {
@@ -13849,7 +13849,7 @@
                 ]
             }
         },
-        "total_mods": 4206
+        "total_mods": 4207
     },
     "395028811399299082": {
         "modification_history": {},
