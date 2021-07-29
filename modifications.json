@@ -738,12 +738,12 @@
             },
             "accessory_enrichment_swapper": {
                 "from": [
-                    69000,
-                    70000
-                ],
-                "to": [
                     75000,
                     75000
+                ],
+                "to": [
+                    107000,
+                    107000
                 ]
             },
             "adaptive_blade": {
@@ -13849,7 +13849,7 @@
                 ]
             }
         },
-        "total_mods": 4192
+        "total_mods": 4193
     },
     "395028811399299082": {
         "modification_history": {},
