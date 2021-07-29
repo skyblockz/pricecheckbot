@@ -12757,6 +12757,16 @@
                     34380
                 ]
             },
+            "tightly-tied_hay_bale": {
+                "from": [
+                    441000,
+                    604000
+                ],
+                "to": [
+                    604300,
+                    604300
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     443000,
@@ -13932,7 +13942,7 @@
                 ]
             }
         },
-        "total_mods": 4732
+        "total_mods": 4733
     },
     "395028811399299082": {
         "modification_history": {},
