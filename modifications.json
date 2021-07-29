@@ -13993,6 +13993,16 @@
     },
     "542138722582265887": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    300000,
+                    340000
+                ],
+                "to": [
+                    350000,
+                    395000
+                ]
+            },
             "dark_orb": {
                 "from": [
                     500000,
@@ -14064,7 +14074,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "565775808124289025": {
         "modification_history": {},
