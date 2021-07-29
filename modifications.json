@@ -9862,12 +9862,12 @@
             },
             "rock_paper_shears": {
                 "from": [
-                    10000,
-                    10000
-                ],
-                "to": [
                     100000,
                     300000
+                ],
+                "to": [
+                    20000,
+                    30000
                 ]
             },
             "roofed_forest_biome_stick": {
@@ -13220,7 +13220,7 @@
                 ]
             }
         },
-        "total_mods": 3677
+        "total_mods": 3678
     },
     "395028811399299082": {
         "modification_history": {},
