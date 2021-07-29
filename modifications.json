@@ -828,12 +828,12 @@
             },
             "amber_power_scroll": {
                 "from": [
-                    2970000,
-                    3000000
-                ],
-                "to": [
                     1550000,
                     1650000
+                ],
+                "to": [
+                    1000000,
+                    1200000
                 ]
             },
             "amethyst_power_scroll": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4601
+        "total_mods": 4602
     },
     "395028811399299082": {
         "modification_history": {},
