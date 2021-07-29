@@ -938,12 +938,12 @@
             },
             "arachne_crystal": {
                 "from": [
-                    350000,
-                    450000
-                ],
-                "to": [
                     450000,
                     500000
+                ],
+                "to": [
+                    400000,
+                    435000
                 ]
             },
             "arachne_fragment": {
@@ -13849,7 +13849,7 @@
                 ]
             }
         },
-        "total_mods": 4197
+        "total_mods": 4198
     },
     "395028811399299082": {
         "modification_history": {},
