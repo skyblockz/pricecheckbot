@@ -4884,10 +4884,13 @@
                 ]
             },
             "eye_of_ender": {
-                "from": null,
-                "to": [
+                "from": [
                     20,
                     25
+                ],
+                "to": [
+                    30,
+                    30
                 ]
             },
             "fairys_fedora": {
@@ -13869,7 +13872,7 @@
                 ]
             }
         },
-        "total_mods": 4373
+        "total_mods": 4374
     },
     "395028811399299082": {
         "modification_history": {},
