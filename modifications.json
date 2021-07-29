@@ -6311,12 +6311,12 @@
             },
             "hardened_diamond_leggings": {
                 "from": [
-                    19000,
-                    20000
-                ],
-                "to": [
                     20000,
                     50000
+                ],
+                "to": [
+                    30000,
+                    30000
                 ]
             },
             "hardened_wood": {
@@ -13382,7 +13382,7 @@
                 ]
             }
         },
-        "total_mods": 3872
+        "total_mods": 3873
     },
     "395028811399299082": {
         "modification_history": {},
