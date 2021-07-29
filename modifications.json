@@ -12035,10 +12035,13 @@
                 ]
             },
             "tic_tac_toe": {
-                "from": null,
-                "to": [
+                "from": [
                     500000,
                     500000
+                ],
+                "to": [
+                    100000,
+                    230000
                 ]
             },
             "tier_1_common_euclids_wheat_hoe": {
@@ -13303,7 +13306,7 @@
                 ]
             }
         },
-        "total_mods": 3746
+        "total_mods": 3747
     },
     "395028811399299082": {
         "modification_history": {},
