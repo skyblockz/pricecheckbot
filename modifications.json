@@ -8683,10 +8683,13 @@
                 ]
             },
             "null_atom": {
-                "from": null,
-                "to": [
+                "from": [
                     68000,
                     79000
+                ],
+                "to": [
+                    56000,
+                    56000
                 ]
             },
             "null_blade": {
@@ -13909,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4576
+        "total_mods": 4577
     },
     "395028811399299082": {
         "modification_history": {},
