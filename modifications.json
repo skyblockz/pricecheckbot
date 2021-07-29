@@ -2346,12 +2346,12 @@
             },
             "common_prehistoric_egg": {
                 "from": [
-                    200000,
-                    250000
-                ],
-                "to": [
                     175000,
                     200000
+                ],
+                "to": [
+                    200000,
+                    275000
                 ]
             },
             "compactor": {
@@ -13912,7 +13912,7 @@
                 ]
             }
         },
-        "total_mods": 4607
+        "total_mods": 4608
     },
     "395028811399299082": {
         "modification_history": {},
