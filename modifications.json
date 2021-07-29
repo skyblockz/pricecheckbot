@@ -9330,6 +9330,16 @@
                     2500000
                 ]
             },
+            "rare_ice_spray_wand": {
+                "from": [
+                    23200000,
+                    24000000
+                ],
+                "to": [
+                    24000000,
+                    25250000
+                ]
+            },
             "rare_prehistoric_egg": {
                 "from": [
                     800000,
@@ -13352,7 +13362,7 @@
                 ]
             }
         },
-        "total_mods": 3841
+        "total_mods": 3842
     },
     "395028811399299082": {
         "modification_history": {},
