@@ -13826,12 +13826,12 @@
             },
             "zombie_commander_whip": {
                 "from": [
-                    10000,
-                    100000
-                ],
-                "to": [
                     25000,
                     39000
+                ],
+                "to": [
+                    10000,
+                    35000
                 ]
             },
             "zombie_leggings": {
@@ -13952,7 +13952,7 @@
                 ]
             }
         },
-        "total_mods": 4819
+        "total_mods": 4820
     },
     "395028811399299082": {
         "modification_history": {},
