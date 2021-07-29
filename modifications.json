@@ -11928,12 +11928,12 @@
             },
             "spooky_disc": {
                 "from": [
-                    30000,
-                    30000
-                ],
-                "to": [
                     66666,
                     99999
+                ],
+                "to": [
+                    15000,
+                    100000
                 ]
             },
             "spooky_enderman_skin": {
@@ -13925,7 +13925,7 @@
                 ]
             }
         },
-        "total_mods": 4705
+        "total_mods": 4706
     },
     "395028811399299082": {
         "modification_history": {},
