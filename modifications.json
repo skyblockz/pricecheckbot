@@ -7249,12 +7249,12 @@
             },
             "legendary_zombie_knight_sword": {
                 "from": [
-                    60000,
-                    100000
-                ],
-                "to": [
                     30000,
                     50000
+                ],
+                "to": [
+                    60000,
+                    75000
                 ]
             },
             "leggings_of_growth": {
@@ -13352,7 +13352,7 @@
                 ]
             }
         },
-        "total_mods": 3839
+        "total_mods": 3840
     },
     "395028811399299082": {
         "modification_history": {},
