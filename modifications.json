@@ -7702,12 +7702,12 @@
             },
             "maddox_batphone": {
                 "from": [
-                    700000,
-                    900000
-                ],
-                "to": [
                     650000,
                     750000
+                ],
+                "to": [
+                    480000,
+                    770000
                 ]
             },
             "magic_find_enrichment": {
@@ -13902,7 +13902,7 @@
                 ]
             }
         },
-        "total_mods": 4537
+        "total_mods": 4538
     },
     "395028811399299082": {
         "modification_history": {},
