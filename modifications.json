@@ -5630,12 +5630,12 @@
             },
             "glacite_chestplate": {
                 "from": [
-                    3000,
-                    9000
-                ],
-                "to": [
                     15000,
                     19000
+                ],
+                "to": [
+                    8000,
+                    10000
                 ]
             },
             "glacite_helmet": {
@@ -13492,7 +13492,7 @@
                 ]
             }
         },
-        "total_mods": 3971
+        "total_mods": 3972
     },
     "395028811399299082": {
         "modification_history": {},
