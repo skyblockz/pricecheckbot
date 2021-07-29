@@ -2019,12 +2019,12 @@
             },
             "chestplate_of_growth": {
                 "from": [
-                    350000,
-                    500000
-                ],
-                "to": [
                     280000,
                     290000
+                ],
+                "to": [
+                    250000,
+                    300000
                 ]
             },
             "chestplate_of_the_pack": {
@@ -13392,7 +13392,7 @@
                 ]
             }
         },
-        "total_mods": 3884
+        "total_mods": 3885
     },
     "395028811399299082": {
         "modification_history": {},
