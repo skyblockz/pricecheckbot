@@ -10232,12 +10232,12 @@
             },
             "revenant_catalyst": {
                 "from": [
-                    8000,
-                    8000
-                ],
-                "to": [
                     17000,
                     20000
+                ],
+                "to": [
+                    8000,
+                    10000
                 ]
             },
             "revenant_chestplate": {
@@ -13922,7 +13922,7 @@
                 ]
             }
         },
-        "total_mods": 4651
+        "total_mods": 4652
     },
     "395028811399299082": {
         "modification_history": {},
