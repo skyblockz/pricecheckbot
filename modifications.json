@@ -12412,12 +12412,12 @@
             },
             "tacticians_sword": {
                 "from": [
-                    75000,
-                    300000
-                ],
-                "to": [
                     60000,
                     75000
+                ],
+                "to": [
+                    59000,
+                    100000
                 ]
             },
             "taiga_biome_stick": {
@@ -13932,7 +13932,7 @@
                 ]
             }
         },
-        "total_mods": 4723
+        "total_mods": 4724
     },
     "395028811399299082": {
         "modification_history": {},
