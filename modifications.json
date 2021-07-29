@@ -11998,10 +11998,13 @@
                 ]
             },
             "thick_sword_of_revelations": {
-                "from": null,
-                "to": [
+                "from": [
                     3000000,
                     3900000
+                ],
+                "to": [
+                    2700000,
+                    4000000
                 ]
             },
             "thick_tacticians_sword": {
@@ -13329,7 +13332,7 @@
                 ]
             }
         },
-        "total_mods": 3822
+        "total_mods": 3823
     },
     "395028811399299082": {
         "modification_history": {},
