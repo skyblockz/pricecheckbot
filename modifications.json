@@ -8223,12 +8223,12 @@
             },
             "mithril-infused_fuel_tank": {
                 "from": [
-                    10000000,
-                    18000000
-                ],
-                "to": [
                     12000000,
                     13400000
+                ],
+                "to": [
+                    13500000,
+                    18000000
                 ]
             },
             "mithril-plated_drill_engine": {
@@ -13902,7 +13902,7 @@
                 ]
             }
         },
-        "total_mods": 4559
+        "total_mods": 4560
     },
     "395028811399299082": {
         "modification_history": {},
