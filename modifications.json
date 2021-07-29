@@ -13029,12 +13029,12 @@
             },
             "uncommon_griffin_upgrade_stone": {
                 "from": [
-                    1000000,
-                    1800000
-                ],
-                "to": [
                     1250000,
                     1250000
+                ],
+                "to": [
+                    1280000,
+                    1290000
                 ]
             },
             "uncommon_prehistoric_egg": {
@@ -13892,7 +13892,7 @@
                 ]
             }
         },
-        "total_mods": 4473
+        "total_mods": 4474
     },
     "395028811399299082": {
         "modification_history": {},
