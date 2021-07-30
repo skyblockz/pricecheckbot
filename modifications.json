@@ -3073,6 +3073,16 @@
                     8500000
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    32,
+                    32
+                ],
+                "to": [
+                    15,
+                    15
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     590000,
@@ -3304,7 +3314,7 @@
                 ]
             }
         },
-        "total_mods": 5259
+        "total_mods": 5260
     },
     "395028811399299082": {
         "modification_history": {},
