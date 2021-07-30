@@ -412,6 +412,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "builders_wand": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    3600000,
+                    3700000
+                ]
+            },
             "juju_shortbow": {
                 "from": [
                     32500000,
@@ -443,7 +453,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "395028811399299082": {
         "modification_history": {},
