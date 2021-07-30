@@ -3513,6 +3513,16 @@
                     3000000
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    8,
+                    8
+                ],
+                "to": [
+                    11,
+                    11
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3744,7 +3754,7 @@
                 ]
             }
         },
-        "total_mods": 5303
+        "total_mods": 5304
     },
     "395028811399299082": {
         "modification_history": {},
