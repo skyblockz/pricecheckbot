@@ -752,6 +752,16 @@
                     250000
                 ]
             },
+            "flamebreaker_helmet": {
+                "from": [
+                    750000,
+                    800000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "flamebreaker_leggings": {
                 "from": [
                     887000,
@@ -983,7 +993,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "466769036122783744": {
         "modification_history": {},
