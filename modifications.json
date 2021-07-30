@@ -923,6 +923,16 @@
                     7000
                 ]
             },
+            "beating_heart": {
+                "from": [
+                    18000,
+                    25000
+                ],
+                "to": [
+                    19000,
+                    24250
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1084,7 +1094,7 @@
                 ]
             }
         },
-        "total_mods": 5037
+        "total_mods": 5038
     },
     "395028811399299082": {
         "modification_history": {},
