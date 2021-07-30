@@ -1113,6 +1113,16 @@
                     5000000
                 ]
             },
+            "candy_artifact": {
+                "from": [
+                    290000,
+                    300000
+                ],
+                "to": [
+                    300000,
+                    320000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1274,7 +1284,7 @@
                 ]
             }
         },
-        "total_mods": 5056
+        "total_mods": 5057
     },
     "395028811399299082": {
         "modification_history": {},
