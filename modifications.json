@@ -726,6 +726,16 @@
                     74000
                 ]
             },
+            "amber_material": {
+                "from": [
+                    2800000,
+                    3200000
+                ],
+                "to": [
+                    3000000,
+                    5000000
+                ]
+            },
             "aspect_of_the_jerry": {
                 "from": null,
                 "to": [
@@ -734,7 +744,7 @@
                 ]
             }
         },
-        "total_mods": 5002
+        "total_mods": 5003
     },
     "395028811399299082": {
         "modification_history": {},
