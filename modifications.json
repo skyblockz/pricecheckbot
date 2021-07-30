@@ -3033,6 +3033,16 @@
                     450000
                 ]
             },
+            "gift_the_fish": {
+                "from": [
+                    50000,
+                    200000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     590000,
@@ -3264,7 +3274,7 @@
                 ]
             }
         },
-        "total_mods": 5255
+        "total_mods": 5256
     },
     "395028811399299082": {
         "modification_history": {},
