@@ -913,6 +913,16 @@
                     350000
                 ]
             },
+            "battle_disc": {
+                "from": [
+                    666,
+                    999
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "control_switch": {
                 "from": [
                     150000,
@@ -1024,7 +1034,7 @@
                 ]
             }
         },
-        "total_mods": 5031
+        "total_mods": 5032
     },
     "395028811399299082": {
         "modification_history": {},
