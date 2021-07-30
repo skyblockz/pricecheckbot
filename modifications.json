@@ -806,6 +806,16 @@
                     50000
                 ]
             },
+            "ascension_rope": {
+                "from": [
+                    4000,
+                    17000
+                ],
+                "to": [
+                    500,
+                    2000
+                ]
+            },
             "aspect_of_the_jerry": {
                 "from": null,
                 "to": [
@@ -814,7 +824,7 @@
                 ]
             }
         },
-        "total_mods": 5010
+        "total_mods": 5011
     },
     "395028811399299082": {
         "modification_history": {},
