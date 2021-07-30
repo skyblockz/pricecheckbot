@@ -3083,6 +3083,16 @@
                     15
                 ]
             },
+            "goblin_egg": {
+                "from": [
+                    4000,
+                    4000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     590000,
@@ -3314,7 +3324,7 @@
                 ]
             }
         },
-        "total_mods": 5260
+        "total_mods": 5261
     },
     "395028811399299082": {
         "modification_history": {},
