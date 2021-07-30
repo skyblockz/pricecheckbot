@@ -1083,6 +1083,16 @@
                     12000000
                 ]
             },
+            "builders_wand": {
+                "from": [
+                    3330000,
+                    3650000
+                ],
+                "to": [
+                    3000000,
+                    3500000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1244,7 +1254,7 @@
                 ]
             }
         },
-        "total_mods": 5053
+        "total_mods": 5054
     },
     "395028811399299082": {
         "modification_history": {},
