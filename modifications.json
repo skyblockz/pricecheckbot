@@ -1393,6 +1393,16 @@
                     350000
                 ]
             },
+            "dark_queens_soul_drop": {
+                "from": [
+                    120000,
+                    144000
+                ],
+                "to": [
+                    120000,
+                    130000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1534,7 +1544,7 @@
                 ]
             }
         },
-        "total_mods": 5082
+        "total_mods": 5083
     },
     "395028811399299082": {
         "modification_history": {},
