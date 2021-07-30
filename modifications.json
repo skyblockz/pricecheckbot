@@ -3493,6 +3493,16 @@
                     27000000
                 ]
             },
+            "inflatable_jerry": {
+                "from": [
+                    25,
+                    100
+                ],
+                "to": [
+                    125,
+                    150
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3724,7 +3734,7 @@
                 ]
             }
         },
-        "total_mods": 5301
+        "total_mods": 5302
     },
     "395028811399299082": {
         "modification_history": {},
