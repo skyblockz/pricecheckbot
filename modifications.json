@@ -442,6 +442,16 @@
                     80000
                 ]
             },
+            "spirit_bow": {
+                "from": [
+                    900000,
+                    950000
+                ],
+                "to": [
+                    880000,
+                    900000
+                ]
+            },
             "storms_chestplate": {
                 "from": [
                     20200000,
@@ -453,7 +463,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "395028811399299082": {
         "modification_history": {},
