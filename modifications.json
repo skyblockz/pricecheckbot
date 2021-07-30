@@ -903,6 +903,16 @@
                     200000
                 ]
             },
+            "small_backpack": {
+                "from": [
+                    9000,
+                    20000
+                ],
+                "to": [
+                    7800,
+                    8000
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     100000,
@@ -924,7 +934,7 @@
                 ]
             }
         },
-        "total_mods": 5021
+        "total_mods": 5022
     },
     "395028811399299082": {
         "modification_history": {},
