@@ -3153,6 +3153,16 @@
                     1100000
                 ]
             },
+            "golden_powder": {
+                "from": [
+                    200000,
+                    295000
+                ],
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     590000,
@@ -3384,7 +3394,7 @@
                 ]
             }
         },
-        "total_mods": 5267
+        "total_mods": 5268
     },
     "395028811399299082": {
         "modification_history": {},
