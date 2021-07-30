@@ -5065,12 +5065,6 @@
     },
     {
         "ac": true,
-        "hi": 480,
-        "low": 480,
-        "name": "enchanted_cocoa_beans"
-    },
-    {
-        "ac": true,
         "hi": 10000,
         "low": 3000,
         "name": "mine_affinity_talisman"
@@ -14386,5 +14380,11 @@
         "hi": 65000000,
         "low": 65000000,
         "name": "sunny_side_goblin_omelette"
+    },
+    {
+        "ac": true,
+        "hi": 480,
+        "low": 480,
+        "name": "enchanted_cocoa_bean"
     }
 ]
