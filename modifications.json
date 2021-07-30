@@ -3333,6 +3333,16 @@
                     50000
                 ]
             },
+            "hard_stone": {
+                "from": [
+                    5,
+                    5
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3564,7 +3574,7 @@
                 ]
             }
         },
-        "total_mods": 5285
+        "total_mods": 5286
     },
     "395028811399299082": {
         "modification_history": {},
