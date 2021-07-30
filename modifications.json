@@ -883,6 +883,16 @@
                     50000
                 ]
             },
+            "base_griffin_upgrade_stone": {
+                "from": [
+                    450000,
+                    840000
+                ],
+                "to": [
+                    500000,
+                    540000
+                ]
+            },
             "bat_artifact": {
                 "from": [
                     750000,
@@ -3474,7 +3484,7 @@
                 ]
             }
         },
-        "total_mods": 5276
+        "total_mods": 5277
     },
     "395028811399299082": {
         "modification_history": {},
