@@ -1171,6 +1171,16 @@
                     2000000
                 ]
             },
+            "final_destination_helmet": {
+                "from": [
+                    1450000,
+                    1750000
+                ],
+                "to": [
+                    1590000,
+                    1690000
+                ]
+            },
             "implosion": {
                 "from": [
                     6700000,
@@ -1416,7 +1426,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "647100327048511519": {
         "modification_history": {},
