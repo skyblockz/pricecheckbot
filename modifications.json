@@ -742,6 +742,16 @@
                     1700000
                 ]
             },
+            "flamebreaker_boots": {
+                "from": [
+                    375000,
+                    500000
+                ],
+                "to": [
+                    180000,
+                    250000
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     61500000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "466769036122783744": {
         "modification_history": {},
