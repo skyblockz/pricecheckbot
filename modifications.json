@@ -1003,6 +1003,16 @@
                     30
                 ]
             },
+            "blessed_fruit": {
+                "from": [
+                    1000000,
+                    1150000
+                ],
+                "to": [
+                    1200000,
+                    2000000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1164,7 +1174,7 @@
                 ]
             }
         },
-        "total_mods": 5045
+        "total_mods": 5046
     },
     "395028811399299082": {
         "modification_history": {},
