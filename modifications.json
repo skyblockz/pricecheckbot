@@ -3443,6 +3443,16 @@
                     5000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    110000,
+                    120000
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3674,7 +3684,7 @@
                 ]
             }
         },
-        "total_mods": 5296
+        "total_mods": 5297
     },
     "395028811399299082": {
         "modification_history": {},
