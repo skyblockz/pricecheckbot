@@ -1043,6 +1043,16 @@
                     25000
                 ]
             },
+            "bone": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    2,
+                    2
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1204,7 +1214,7 @@
                 ]
             }
         },
-        "total_mods": 5049
+        "total_mods": 5050
     },
     "395028811399299082": {
         "modification_history": {},
