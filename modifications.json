@@ -1513,6 +1513,16 @@
                     6500000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    140000,
+                    200000
+                ],
+                "to": [
+                    31000,
+                    50000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1654,7 +1664,7 @@
                 ]
             }
         },
-        "total_mods": 5094
+        "total_mods": 5095
     },
     "395028811399299082": {
         "modification_history": {},
