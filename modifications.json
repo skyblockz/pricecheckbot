@@ -1583,6 +1583,16 @@
                     520000
                 ]
             },
+            "journal_entry": {
+                "from": [
+                    1000,
+                    1500
+                ],
+                "to": [
+                    2000,
+                    30000
+                ]
+            },
             "jumbo_backpack": {
                 "from": [
                     1900000,
@@ -1684,7 +1694,7 @@
                 ]
             }
         },
-        "total_mods": 5097
+        "total_mods": 5098
     },
     "395028811399299082": {
         "modification_history": {},
