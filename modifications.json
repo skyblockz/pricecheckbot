@@ -3403,6 +3403,16 @@
                     300000
                 ]
             },
+            "horsemans_candle": {
+                "from": [
+                    190000,
+                    300000
+                ],
+                "to": [
+                    250000,
+                    250000
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3634,7 +3644,7 @@
                 ]
             }
         },
-        "total_mods": 5292
+        "total_mods": 5293
     },
     "395028811399299082": {
         "modification_history": {},
