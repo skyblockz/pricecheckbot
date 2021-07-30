@@ -422,6 +422,16 @@
                     3700000
                 ]
             },
+            "infinite_quiver_x": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "juju_shortbow": {
                 "from": [
                     32500000,
@@ -463,7 +473,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395028811399299082": {
         "modification_history": {},
