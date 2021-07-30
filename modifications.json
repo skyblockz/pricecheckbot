@@ -1413,6 +1413,16 @@
                     15000
                 ]
             },
+            "deep_sea_orb": {
+                "from": [
+                    4000000,
+                    4000000
+                ],
+                "to": [
+                    4700000,
+                    4750000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1554,7 +1564,7 @@
                 ]
             }
         },
-        "total_mods": 5084
+        "total_mods": 5085
     },
     "395028811399299082": {
         "modification_history": {},
