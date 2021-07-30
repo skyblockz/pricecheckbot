@@ -1053,6 +1053,16 @@
                     2
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    10000,
+                    40000
+                ],
+                "to": [
+                    5000,
+                    25000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1214,7 +1224,7 @@
                 ]
             }
         },
-        "total_mods": 5050
+        "total_mods": 5051
     },
     "395028811399299082": {
         "modification_history": {},
