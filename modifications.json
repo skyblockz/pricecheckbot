@@ -893,6 +893,16 @@
                     145000
                 ]
             },
+            "large_backpack": {
+                "from": [
+                    198000,
+                    200000
+                ],
+                "to": [
+                    220000,
+                    240000
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     45000,
@@ -944,7 +954,7 @@
                 ]
             }
         },
-        "total_mods": 5023
+        "total_mods": 5024
     },
     "395028811399299082": {
         "modification_history": {},
