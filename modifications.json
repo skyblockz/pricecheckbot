@@ -3373,6 +3373,16 @@
                     2333000
                 ]
             },
+            "rare_griffin_upgrade_stone": {
+                "from": [
+                    2150000,
+                    2490000
+                ],
+                "to": [
+                    2200000,
+                    2380000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     250000,
@@ -3494,7 +3504,7 @@
                 ]
             }
         },
-        "total_mods": 5278
+        "total_mods": 5279
     },
     "395028811399299082": {
         "modification_history": {},
