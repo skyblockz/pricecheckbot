@@ -2583,6 +2583,16 @@
                     500000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    50000000,
+                    54800000
+                ],
+                "to": [
+                    51500000,
+                    54900000
+                ]
+            },
             "ftx_3070": {
                 "from": [
                     240000,
@@ -2714,7 +2724,7 @@
                 ]
             }
         },
-        "total_mods": 5200
+        "total_mods": 5201
     },
     "395028811399299082": {
         "modification_history": {},
