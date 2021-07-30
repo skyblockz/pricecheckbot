@@ -1573,6 +1573,16 @@
                     59000
                 ]
             },
+            "edible_mace": {
+                "from": [
+                    295000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    475000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1724,7 +1734,7 @@
                 ]
             }
         },
-        "total_mods": 5101
+        "total_mods": 5102
     },
     "395028811399299082": {
         "modification_history": {},
