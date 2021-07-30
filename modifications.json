@@ -1013,6 +1013,16 @@
                     2000000
                 ]
             },
+            "block_zapper": {
+                "from": [
+                    1290000,
+                    1499999
+                ],
+                "to": [
+                    1350000,
+                    1450000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1174,7 +1184,7 @@
                 ]
             }
         },
-        "total_mods": 5046
+        "total_mods": 5047
     },
     "395028811399299082": {
         "modification_history": {},
