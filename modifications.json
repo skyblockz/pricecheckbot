@@ -2483,6 +2483,16 @@
                     200000
                 ]
             },
+            "end_stone_bow": {
+                "from": [
+                    7500,
+                    10000
+                ],
+                "to": [
+                    5500,
+                    7000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9500000,
@@ -2624,7 +2634,7 @@
                 ]
             }
         },
-        "total_mods": 5191
+        "total_mods": 5192
     },
     "395028811399299082": {
         "modification_history": {},
