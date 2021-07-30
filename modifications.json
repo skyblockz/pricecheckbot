@@ -1463,6 +1463,16 @@
                     1400000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    625000,
+                    900000
+                ],
+                "to": [
+                    450000,
+                    700000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1604,7 +1614,7 @@
                 ]
             }
         },
-        "total_mods": 5089
+        "total_mods": 5090
     },
     "395028811399299082": {
         "modification_history": {},
