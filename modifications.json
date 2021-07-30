@@ -842,9 +842,19 @@
                     1,
                     1
                 ]
+            },
+            "aspiring_leap": {
+                "from": [
+                    60000,
+                    200000
+                ],
+                "to": [
+                    124000,
+                    200000
+                ]
             }
         },
-        "total_mods": 5013
+        "total_mods": 5014
     },
     "395028811399299082": {
         "modification_history": {},
