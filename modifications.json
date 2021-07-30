@@ -422,6 +422,16 @@
                     32600000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    51000,
+                    75000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "storms_chestplate": {
                 "from": [
                     20200000,
@@ -433,7 +443,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "395028811399299082": {
         "modification_history": {},
