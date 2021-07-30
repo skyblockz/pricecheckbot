@@ -3433,6 +3433,16 @@
                     48000
                 ]
             },
+            "hunk_of_ice": {
+                "from": [
+                    100,
+                    200
+                ],
+                "to": [
+                    500,
+                    5000
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3664,7 +3674,7 @@
                 ]
             }
         },
-        "total_mods": 5295
+        "total_mods": 5296
     },
     "395028811399299082": {
         "modification_history": {},
