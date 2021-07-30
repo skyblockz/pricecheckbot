@@ -1433,6 +1433,16 @@
                     1100000
                 ]
             },
+            "diamond_atom": {
+                "from": [
+                    60000,
+                    73000
+                ],
+                "to": [
+                    120000,
+                    340000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1574,7 +1584,7 @@
                 ]
             }
         },
-        "total_mods": 5086
+        "total_mods": 5087
     },
     "395028811399299082": {
         "modification_history": {},
