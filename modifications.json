@@ -1183,6 +1183,16 @@
                     125000
                 ]
             },
+            "clay": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    4,
+                    4
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1344,7 +1354,7 @@
                 ]
             }
         },
-        "total_mods": 5063
+        "total_mods": 5064
     },
     "395028811399299082": {
         "modification_history": {},
