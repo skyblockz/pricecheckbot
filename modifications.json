@@ -1443,6 +1443,16 @@
                     340000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    20000,
+                    50000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1584,7 +1594,7 @@
                 ]
             }
         },
-        "total_mods": 5087
+        "total_mods": 5088
     },
     "395028811399299082": {
         "modification_history": {},
