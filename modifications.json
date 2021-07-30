@@ -1473,6 +1473,16 @@
                     700000
                 ]
             },
+            "dirt_bottle": {
+                "from": [
+                    170000,
+                    200000
+                ],
+                "to": [
+                    99000,
+                    250000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     190000,
@@ -1614,7 +1624,7 @@
                 ]
             }
         },
-        "total_mods": 5090
+        "total_mods": 5091
     },
     "395028811399299082": {
         "modification_history": {},
