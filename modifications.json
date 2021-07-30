@@ -3383,6 +3383,16 @@
                     500000
                 ]
             },
+            "hilt_of_true_ice": {
+                "from": [
+                    30000,
+                    70000
+                ],
+                "to": [
+                    94000,
+                    100000
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3614,7 +3624,7 @@
                 ]
             }
         },
-        "total_mods": 5290
+        "total_mods": 5291
     },
     "395028811399299082": {
         "modification_history": {},
