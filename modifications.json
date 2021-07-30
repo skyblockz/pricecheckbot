@@ -3353,6 +3353,16 @@
                     335000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    45000,
+                    60000
+                ],
+                "to": [
+                    39000,
+                    40000
+                ]
+            },
             "journal_entry": {
                 "from": [
                     1000,
@@ -3584,7 +3594,7 @@
                 ]
             }
         },
-        "total_mods": 5287
+        "total_mods": 5288
     },
     "395028811399299082": {
         "modification_history": {},
