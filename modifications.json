@@ -1093,6 +1093,16 @@
                     3500000
                 ]
             },
+            "bulky_stone": {
+                "from": [
+                    600000,
+                    1200000
+                ],
+                "to": [
+                    1900000,
+                    2550000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     330000,
@@ -1254,7 +1264,7 @@
                 ]
             }
         },
-        "total_mods": 5054
+        "total_mods": 5055
     },
     "395028811399299082": {
         "modification_history": {},
