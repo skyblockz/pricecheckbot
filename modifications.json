@@ -1613,6 +1613,16 @@
                     1800000
                 ]
             },
+            "emerald": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    8,
+                    8
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     350000,
@@ -1764,7 +1774,7 @@
                 ]
             }
         },
-        "total_mods": 5105
+        "total_mods": 5106
     },
     "395028811399299082": {
         "modification_history": {},
