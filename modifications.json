@@ -664,12 +664,12 @@
             },
             "perfect_jade_gemstone": {
                 "from": [
-                    34300000,
-                    34300000
-                ],
-                "to": [
                     33333000,
                     33333000
+                ],
+                "to": [
+                    34999999,
+                    34999999
                 ]
             },
             "perfect_jasper_gemstone": {
@@ -783,7 +783,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "395028811399299082": {
         "modification_history": {},
