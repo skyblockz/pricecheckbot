@@ -189,6 +189,16 @@
                     250000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    66000000,
+                    68800000
+                ],
+                "to": [
+                    52500000,
+                    57500000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     150000,
@@ -540,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "364186225382391809": {
         "modification_history": {},
