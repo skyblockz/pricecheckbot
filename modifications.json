@@ -101,12 +101,12 @@
             },
             "holy_dragon_helmet": {
                 "from": [
-                    120000,
-                    150000
-                ],
-                "to": [
                     140000,
                     170000
+                ],
+                "to": [
+                    170000,
+                    225000
                 ]
             },
             "holy_dragon_leggings": {
@@ -400,7 +400,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "364186225382391809": {
         "modification_history": {},
