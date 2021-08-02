@@ -564,12 +564,12 @@
             },
             "flawless_amethyst_gemstone": {
                 "from": [
-                    2400000,
-                    2400000
-                ],
-                "to": [
                     2900000,
                     2900000
+                ],
+                "to": [
+                    2599998,
+                    2599998
                 ]
             },
             "flawless_jade_gemstone": {
@@ -773,7 +773,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "395028811399299082": {
         "modification_history": {},
