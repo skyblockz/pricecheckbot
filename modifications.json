@@ -331,12 +331,12 @@
             },
             "shard_of_the_shredded": {
                 "from": [
-                    15000000,
-                    16000000
-                ],
-                "to": [
                     11500000,
                     13000000
+                ],
+                "to": [
+                    10200000,
+                    11000000
                 ]
             },
             "strong_dragon_boots": {
@@ -550,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "364186225382391809": {
         "modification_history": {},
