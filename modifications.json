@@ -109,6 +109,16 @@
                     10000
                 ]
             },
+            "rare_diamond": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "rock_candy": {
                 "from": [
                     770,
@@ -120,7 +130,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "275329625478004737": {
         "modification_history": {},
