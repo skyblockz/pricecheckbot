@@ -109,6 +109,16 @@
                     10000
                 ]
             },
+            "molten_cube": {
+                "from": [
+                    99,
+                    5000
+                ],
+                "to": [
+                    250,
+                    750
+                ]
+            },
             "rare_diamond": {
                 "from": [
                     500,
@@ -130,7 +140,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "275329625478004737": {
         "modification_history": {},
