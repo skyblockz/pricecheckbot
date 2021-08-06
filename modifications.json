@@ -19,6 +19,16 @@
                     7500
                 ]
             },
+            "bonzos_mask": {
+                "from": [
+                    350000,
+                    395000
+                ],
+                "to": [
+                    375000,
+                    400000
+                ]
+            },
             "bonzos_staff": {
                 "from": [
                     1500000,
@@ -50,7 +60,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "275329625478004737": {
         "modification_history": {},
