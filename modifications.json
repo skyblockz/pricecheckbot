@@ -179,6 +179,16 @@
                     750
                 ]
             },
+            "optical_lens": {
+                "from": [
+                    5000,
+                    7000
+                ],
+                "to": [
+                    5000,
+                    7500
+                ]
+            },
             "precursor_gear": {
                 "from": [
                     490000,
@@ -260,7 +270,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "275329625478004737": {
         "modification_history": {},
