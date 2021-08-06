@@ -69,6 +69,16 @@
                     60000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    300000,
+                    307000
+                ],
+                "to": [
+                    380000,
+                    400000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     2500,
@@ -90,7 +100,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "275329625478004737": {
         "modification_history": {},
