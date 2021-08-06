@@ -79,6 +79,16 @@
                     6000000
                 ]
             },
+            "end_stone_geode": {
+                "from": [
+                    250000,
+                    725000
+                ],
+                "to": [
+                    90000,
+                    10000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     45000,
@@ -140,7 +150,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "275329625478004737": {
         "modification_history": {},
