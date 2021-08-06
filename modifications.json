@@ -1448,6 +1448,16 @@
                     525000000
                 ]
             },
+            "mineral_boots": {
+                "from": [
+                    280000,
+                    300000
+                ],
+                "to": [
+                    460000,
+                    510000
+                ]
+            },
             "mineral_chestplate": {
                 "from": [
                     790000,
@@ -1629,7 +1639,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "647100327048511519": {
         "modification_history": {},
