@@ -39,6 +39,16 @@
                     2500000
                 ]
             },
+            "dark_orb": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     45000,
@@ -60,7 +70,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "275329625478004737": {
         "modification_history": {},
