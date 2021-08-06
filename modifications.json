@@ -139,6 +139,16 @@
                     13000000
                 ]
             },
+            "lapis_crystal": {
+                "from": [
+                    450,
+                    500
+                ],
+                "to": [
+                    250,
+                    500
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     45000,
@@ -290,7 +300,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "275329625478004737": {
         "modification_history": {},
