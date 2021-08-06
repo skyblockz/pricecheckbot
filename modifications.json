@@ -79,6 +79,16 @@
                     6000000
                 ]
             },
+            "diamond_atom": {
+                "from": [
+                    120000,
+                    340000
+                ],
+                "to": [
+                    325000,
+                    400000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     50000,
@@ -200,7 +210,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "275329625478004737": {
         "modification_history": {},
