@@ -68,9 +68,19 @@
                     5000,
                     10000
                 ]
+            },
+            "rock_candy": {
+                "from": [
+                    770,
+                    2000
+                ],
+                "to": [
+                    14000,
+                    16000
+                ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "275329625478004737": {
         "modification_history": {},
