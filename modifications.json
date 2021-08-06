@@ -79,6 +79,16 @@
                     6000000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    50000,
+                    125000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "end_stone_geode": {
                 "from": [
                     250000,
@@ -170,7 +180,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "275329625478004737": {
         "modification_history": {},
