@@ -129,6 +129,16 @@
                     750
                 ]
             },
+            "premium_flesh": {
+                "from": [
+                    400,
+                    500
+                ],
+                "to": [
+                    50,
+                    150
+                ]
+            },
             "rare_diamond": {
                 "from": [
                     500,
@@ -150,7 +160,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "275329625478004737": {
         "modification_history": {},
