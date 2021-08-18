@@ -151,6 +151,16 @@
                     255000
                 ]
             },
+            "necromancers_brooch": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    45000,
+                    75000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     105000,
@@ -622,7 +632,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "364186225382391809": {
         "modification_history": {},
