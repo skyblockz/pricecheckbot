@@ -471,6 +471,16 @@
                     4250000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1750000,
+                    1900000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "spirit_bow": {
                 "from": [
                     900000,
@@ -792,7 +802,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "364186225382391809": {
         "modification_history": {},
