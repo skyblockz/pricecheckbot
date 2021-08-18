@@ -381,6 +381,16 @@
                     10000000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    590000,
+                    600000
+                ],
+                "to": [
+                    600000,
+                    850000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     105000,
@@ -502,7 +512,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "364186225382391809": {
         "modification_history": {},
