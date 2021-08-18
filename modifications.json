@@ -51,6 +51,16 @@
                     1200000
                 ]
             },
+            "crystallized_heart": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    700000,
+                    1000000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     1180000,
@@ -542,7 +552,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "364186225382391809": {
         "modification_history": {},
