@@ -51,6 +51,16 @@
                     1200000
                 ]
             },
+            "bonzos_mask": {
+                "from": [
+                    390000,
+                    400000
+                ],
+                "to": [
+                    325000,
+                    425000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     450000,
@@ -592,7 +602,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "364186225382391809": {
         "modification_history": {},
