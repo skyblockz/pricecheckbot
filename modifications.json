@@ -381,6 +381,16 @@
                     10000000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    990000,
+                    1250000
+                ],
+                "to": [
+                    900000,
+                    120000
+                ]
+            },
             "tarantula_chestplate": {
                 "from": [
                     250000,
@@ -532,7 +542,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "364186225382391809": {
         "modification_history": {},
