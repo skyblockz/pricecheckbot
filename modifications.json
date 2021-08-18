@@ -461,6 +461,16 @@
                     4250000
                 ]
             },
+            "spirit_bow": {
+                "from": [
+                    900000,
+                    1400000
+                ],
+                "to": [
+                    1000000,
+                    2000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -742,7 +752,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "364186225382391809": {
         "modification_history": {},
