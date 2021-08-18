@@ -131,6 +131,16 @@
                     3250000
                 ]
             },
+            "combo_i": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    15000,
+                    75000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     450000,
@@ -912,7 +922,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "364186225382391809": {
         "modification_history": {},
