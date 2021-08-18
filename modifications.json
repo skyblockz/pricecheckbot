@@ -301,6 +301,16 @@
                     50000
                 ]
             },
+            "no_pain_no_gain_v": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     105000,
@@ -942,7 +952,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "364186225382391809": {
         "modification_history": {},
