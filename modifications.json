@@ -261,6 +261,16 @@
                     21000000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    1300000,
+                    1800000
+                ],
+                "to": [
+                    2300000,
+                    3000000
+                ]
+            },
             "revenant_falchion": {
                 "from": [
                     500000,
@@ -472,7 +482,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "364186225382391809": {
         "modification_history": {},
