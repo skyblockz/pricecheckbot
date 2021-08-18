@@ -311,6 +311,16 @@
                     450000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    2300000,
+                    3000000
+                ],
+                "to": [
+                    3100000,
+                    3500000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -552,7 +562,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "364186225382391809": {
         "modification_history": {},
