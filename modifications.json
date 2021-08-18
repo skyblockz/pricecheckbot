@@ -51,6 +51,16 @@
                     750000
                 ]
             },
+            "adaptive_helmet": {
+                "from": [
+                    1800000,
+                    1950000
+                ],
+                "to": [
+                    240000,
+                    450000
+                ]
+            },
             "aspect_of_the_dragons": {
                 "from": [
                     650000,
@@ -692,7 +702,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "364186225382391809": {
         "modification_history": {},
