@@ -291,6 +291,16 @@
                     190000
                 ]
             },
+            "overload_i": {
+                "from": [
+                    900000,
+                    950000
+                ],
+                "to": [
+                    875000,
+                    1100000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     140000,
@@ -872,7 +882,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "364186225382391809": {
         "modification_history": {},
