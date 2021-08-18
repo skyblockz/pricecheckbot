@@ -321,6 +321,16 @@
                     3500000
                 ]
             },
+            "scythe_blade": {
+                "from": [
+                    3500000,
+                    3700000
+                ],
+                "to": [
+                    3600000,
+                    4250000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     600000,
@@ -582,7 +592,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "364186225382391809": {
         "modification_history": {},
