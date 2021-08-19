@@ -1356,6 +1356,16 @@
                     20000
                 ]
             },
+            "goblin_helmet": {
+                "from": [
+                    1500,
+                    4200
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "reaper_boots": {
                 "from": [
                     8000000,
@@ -1477,7 +1487,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "647100327048511519": {
         "modification_history": {},
