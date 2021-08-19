@@ -1336,6 +1336,16 @@
                     1250000
                 ]
             },
+            "shark_scale_leggings": {
+                "from": [
+                    1000000,
+                    1350000
+                ],
+                "to": [
+                    1150000,
+                    1250000
+                ]
+            },
             "sponge_chestplate": {
                 "from": [
                     1200000,
@@ -1377,7 +1387,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "647100327048511519": {
         "modification_history": {},
