@@ -1376,6 +1376,16 @@
                     20000
                 ]
             },
+            "goblin_leggings": {
+                "from": [
+                    1500,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "reaper_boots": {
                 "from": [
                     8000000,
@@ -1497,7 +1507,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "647100327048511519": {
         "modification_history": {},
