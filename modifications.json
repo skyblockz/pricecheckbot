@@ -1141,6 +1141,16 @@
                     10000000
                 ]
             },
+            "gemstone_gauntlet": {
+                "from": [
+                    70000000,
+                    78000000
+                ],
+                "to": [
+                    42200000,
+                    42700000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     81000000,
@@ -1152,7 +1162,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395028811399299082": {
         "modification_history": {},
