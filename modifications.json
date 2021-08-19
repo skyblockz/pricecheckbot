@@ -1316,6 +1316,16 @@
                     250000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    7500,
+                    12000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "reaper_boots": {
                 "from": [
                     8000000,
@@ -1437,7 +1447,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "647100327048511519": {
         "modification_history": {},
