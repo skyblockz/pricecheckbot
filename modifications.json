@@ -1104,6 +1104,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "auto_recombobulator": {
+                "from": [
+                    10900000,
+                    11000000
+                ],
+                "to": [
+                    11700000,
+                    12300000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     7000000,
@@ -1182,7 +1192,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "395028811399299082": {
         "modification_history": {},
