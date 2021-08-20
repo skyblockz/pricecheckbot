@@ -1144,6 +1144,16 @@
                     12300000
                 ]
             },
+            "blessed_bait": {
+                "from": [
+                    175,
+                    240
+                ],
+                "to": [
+                    201,
+                    400
+                ]
+            },
             "carrot_bait": {
                 "from": [
                     47,
@@ -1342,7 +1352,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395028811399299082": {
         "modification_history": {},
