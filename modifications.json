@@ -1211,6 +1211,16 @@
                     25750000
                 ]
             },
+            "fish_bait": {
+                "from": [
+                    60,
+                    77
+                ],
+                "to": [
+                    97,
+                    118
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     70000000,
@@ -1292,7 +1302,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "395028811399299082": {
         "modification_history": {},
