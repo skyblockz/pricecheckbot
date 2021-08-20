@@ -1320,9 +1320,19 @@
                     6500000,
                     7500000
                 ]
+            },
+            "spooky_bait": {
+                "from": [
+                    30,
+                    50
+                ],
+                "to": [
+                    34,
+                    42
+                ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395028811399299082": {
         "modification_history": {},
