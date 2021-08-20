@@ -1241,6 +1241,16 @@
                     1350000
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    12,
+                    12
+                ],
+                "to": [
+                    9,
+                    15
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     4500000,
@@ -1282,7 +1292,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "395028811399299082": {
         "modification_history": {},
