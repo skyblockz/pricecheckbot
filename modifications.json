@@ -1251,6 +1251,16 @@
                     1350000
                 ]
             },
+            "light_bait": {
+                "from": [
+                    50,
+                    75
+                ],
+                "to": [
+                    44,
+                    71
+                ]
+            },
             "minnow_bait": {
                 "from": [
                     12,
@@ -1302,7 +1312,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395028811399299082": {
         "modification_history": {},
