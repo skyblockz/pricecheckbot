@@ -1381,6 +1381,16 @@
                     42
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    300000,
+                    330000
+                ],
+                "to": [
+                    261360,
+                    274593
+                ]
+            },
             "whale_bait": {
                 "from": [
                     1200,
@@ -1392,7 +1402,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395028811399299082": {
         "modification_history": {},
