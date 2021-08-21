@@ -465,6 +465,16 @@
                     150000
                 ]
             },
+            "jungle_heart": {
+                "from": [
+                    1080000,
+                    1500000
+                ],
+                "to": [
+                    850000,
+                    900000
+                ]
+            },
             "life_preserver": {
                 "from": [
                     478000,
@@ -949,7 +959,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "565775808124289025": {
         "modification_history": {},
