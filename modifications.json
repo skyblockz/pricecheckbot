@@ -107,6 +107,16 @@
                     10500000
                 ]
             },
+            "delicate_v": {
+                "from": [
+                    620000,
+                    650000
+                ],
+                "to": [
+                    810000,
+                    820000
+                ]
+            },
             "gemstone_chamber": {
                 "from": null,
                 "to": [
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "565775808124289025": {
         "modification_history": {},
