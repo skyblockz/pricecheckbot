@@ -259,12 +259,12 @@
             },
             "hay_bale": {
                 "from": [
-                    19,
-                    25
-                ],
-                "to": [
                     20000,
                     100000
+                ],
+                "to": [
+                    19,
+                    25
                 ]
             },
             "hegemony_artifact": {
@@ -574,7 +574,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "565775808124289025": {
         "modification_history": {},
