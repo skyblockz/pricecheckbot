@@ -98,9 +98,12 @@
     "565668065153384459": {
         "modification_history": {
             "dark_wolf_skin": {
-                "from": null,
-                "to": [
+                "from": [
                     104000000,
+                    10500000
+                ],
+                "to": [
+                    10400000,
                     10500000
                 ]
             },
@@ -135,7 +138,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "565775808124289025": {
         "modification_history": {},
