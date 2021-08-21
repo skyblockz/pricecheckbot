@@ -454,6 +454,16 @@
                     14500000
                 ]
             },
+            "shimmer_skin_wise": {
+                "from": [
+                    13500000,
+                    13900000
+                ],
+                "to": [
+                    1050000,
+                    12500000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -482,7 +492,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "565775808124289025": {
         "modification_history": {},
