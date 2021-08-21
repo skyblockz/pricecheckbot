@@ -573,6 +573,16 @@
                     10000000
                 ]
             },
+            "reaper_orb": {
+                "from": [
+                    32500000,
+                    33500000
+                ],
+                "to": [
+                    34000000,
+                    37500000
+                ]
+            },
             "red_goblin_egg": {
                 "from": null,
                 "to": [
@@ -779,7 +789,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "565775808124289025": {
         "modification_history": {},
