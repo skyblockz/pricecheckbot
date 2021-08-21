@@ -137,6 +137,16 @@
                     820000
                 ]
             },
+            "flying_pig": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    70000,
+                    80000
+                ]
+            },
             "gemstone_chamber": {
                 "from": null,
                 "to": [
@@ -226,7 +236,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "565775808124289025": {
         "modification_history": {},
