@@ -758,6 +758,16 @@
                     18500000
                 ]
             },
+            "treasure_artifact": {
+                "from": [
+                    27400000,
+                    33000000
+                ],
+                "to": [
+                    36000000,
+                    37000000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     1700000,
@@ -789,7 +799,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "565775808124289025": {
         "modification_history": {},
