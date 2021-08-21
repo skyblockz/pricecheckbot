@@ -333,6 +333,16 @@
                     1000000
                 ]
             },
+            "radiant_endermite_skin": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    9500000,
+                    10000000
+                ]
+            },
             "red_goblin_egg": {
                 "from": null,
                 "to": [
@@ -385,7 +395,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "565775808124289025": {
         "modification_history": {},
