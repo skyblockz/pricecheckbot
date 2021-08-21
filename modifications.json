@@ -559,6 +559,16 @@
                     340000
                 ]
             },
+            "spider_egg_mixin": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    400000,
+                    750000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "565775808124289025": {
         "modification_history": {},
