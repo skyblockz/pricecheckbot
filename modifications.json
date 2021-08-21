@@ -107,6 +107,13 @@
                     10500000
                 ]
             },
+            "gemstone_chamber": {
+                "from": null,
+                "to": [
+                    20600000,
+                    20700000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": [
                     2400000,
@@ -138,7 +145,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "565775808124289025": {
         "modification_history": {},
