@@ -519,6 +519,16 @@
                     12500000
                 ]
             },
+            "sorrow": {
+                "from": [
+                    245000,
+                    268000
+                ],
+                "to": [
+                    320000,
+                    340000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -554,7 +564,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "565775808124289025": {
         "modification_history": {},
