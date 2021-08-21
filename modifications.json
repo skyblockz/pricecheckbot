@@ -236,6 +236,16 @@
                     20000
                 ]
             },
+            "life_preserver": {
+                "from": [
+                    478000,
+                    500000
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "necrons_chestplate": {
                 "from": [
                     27900000,
@@ -318,7 +328,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "565775808124289025": {
         "modification_history": {},
