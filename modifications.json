@@ -230,6 +230,16 @@
                     250000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    54000000,
+                    55000000
+                ],
+                "to": [
+                    85000000,
+                    86000000
+                ]
+            },
             "exp_share_core": {
                 "from": [
                     750000,
@@ -671,7 +681,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "565775808124289025": {
         "modification_history": {},
