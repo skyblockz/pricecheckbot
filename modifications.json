@@ -418,6 +418,16 @@
                     5000000
                 ]
             },
+            "pond_island": {
+                "from": [
+                    100,
+                    200
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "pooch_sword": {
                 "from": [
                     700000,
@@ -584,7 +594,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "565775808124289025": {
         "modification_history": {},
