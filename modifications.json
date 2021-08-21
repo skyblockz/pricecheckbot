@@ -465,6 +465,16 @@
                     14500000
                 ]
             },
+            "shimmer_skin_unstable": {
+                "from": [
+                    12000000,
+                    12000000
+                ],
+                "to": [
+                    11000000,
+                    13000000
+                ]
+            },
             "shimmer_skin_wise": {
                 "from": [
                     1050000,
@@ -503,7 +513,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "565775808124289025": {
         "modification_history": {},
