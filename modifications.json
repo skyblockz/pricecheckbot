@@ -124,6 +124,13 @@
                     5000000
                 ]
             },
+            "red_goblin_egg": {
+                "from": null,
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "royal_pigeon": {
                 "from": [
                     8900000,
@@ -152,7 +159,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "565775808124289025": {
         "modification_history": {},
