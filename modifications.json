@@ -134,6 +134,16 @@
                     20700000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    28000,
+                    30000
+                ],
+                "to": [
+                    31000,
+                    34000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": [
                     2400000,
@@ -189,7 +199,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "565775808124289025": {
         "modification_history": {},
