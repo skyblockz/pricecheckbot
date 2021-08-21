@@ -172,6 +172,16 @@
                     4500000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    27300000,
+                    29000000
+                ],
+                "to": [
+                    32000000,
+                    33000000
+                ]
+            },
             "clownfish_minion_skin": {
                 "from": null,
                 "to": [
@@ -769,7 +779,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "565775808124289025": {
         "modification_history": {},
