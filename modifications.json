@@ -301,6 +301,16 @@
                     3000000
                 ]
             },
+            "hilt_of_true_ice": {
+                "from": [
+                    45000,
+                    70000
+                ],
+                "to": [
+                    85000,
+                    100000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     28000,
@@ -651,7 +661,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "565775808124289025": {
         "modification_history": {},
