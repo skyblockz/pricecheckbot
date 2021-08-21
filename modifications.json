@@ -134,6 +134,16 @@
                     5000000
                 ]
             },
+            "pooch_sword": {
+                "from": [
+                    700000,
+                    900000
+                ],
+                "to": [
+                    950000,
+                    1000000
+                ]
+            },
             "red_goblin_egg": {
                 "from": null,
                 "to": [
@@ -169,7 +179,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "565775808124289025": {
         "modification_history": {},
