@@ -283,6 +283,16 @@
                     8000000
                 ]
             },
+            "jerry_stone": {
+                "from": [
+                    170000,
+                    200000
+                ],
+                "to": [
+                    80000,
+                    150000
+                ]
+            },
             "life_preserver": {
                 "from": [
                     478000,
@@ -445,7 +455,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "565775808124289025": {
         "modification_history": {},
