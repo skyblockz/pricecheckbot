@@ -408,6 +408,13 @@
                     10000
                 ]
             },
+            "lvl100_legendary_ammonite": {
+                "from": null,
+                "to": [
+                    64000000,
+                    66000000
+                ]
+            },
             "lvl1_legendary_ammonite": {
                 "from": null,
                 "to": [
@@ -725,7 +732,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "565775808124289025": {
         "modification_history": {},
