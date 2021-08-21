@@ -444,6 +444,16 @@
                     30000
                 ]
             },
+            "shimmer_skin_holy": {
+                "from": [
+                    140000000,
+                    15000000
+                ],
+                "to": [
+                    14500000,
+                    14500000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -472,7 +482,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "565775808124289025": {
         "modification_history": {},
