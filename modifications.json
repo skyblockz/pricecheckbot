@@ -263,6 +263,16 @@
                     32000000
                 ]
             },
+            "necrons_leggings": {
+                "from": [
+                    14400000,
+                    14550000
+                ],
+                "to": [
+                    16300000,
+                    17300000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": [
                     2400000,
@@ -335,7 +345,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "565775808124289025": {
         "modification_history": {},
