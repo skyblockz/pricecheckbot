@@ -724,6 +724,16 @@
                     750000
                 ]
             },
+            "spiked_atrocity": {
+                "from": [
+                    20200000,
+                    20400000
+                ],
+                "to": [
+                    34000000,
+                    36000000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -809,7 +819,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "565775808124289025": {
         "modification_history": {},
