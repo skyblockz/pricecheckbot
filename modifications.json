@@ -223,6 +223,13 @@
                     950000
                 ]
             },
+            "end_portal_fumes": {
+                "from": null,
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "exp_share_core": {
                 "from": [
                     750000,
@@ -614,7 +621,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "565775808124289025": {
         "modification_history": {},
