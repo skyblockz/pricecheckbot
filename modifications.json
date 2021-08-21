@@ -871,6 +871,16 @@
                     15000000
                 ]
             },
+            "storms_helmet": {
+                "from": [
+                    3250000,
+                    3700000
+                ],
+                "to": [
+                    2700000,
+                    2800000
+                ]
+            },
             "sun_minion_skin": {
                 "from": null,
                 "to": [
@@ -979,7 +989,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "565775808124289025": {
         "modification_history": {},
