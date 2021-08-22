@@ -1169,6 +1169,16 @@
                     25
                 ]
             },
+            "heat_helmet": {
+                "from": [
+                    12000,
+                    15000
+                ],
+                "to": [
+                    12000,
+                    12000
+                ]
+            },
             "heat_leggings": {
                 "from": [
                     12000,
@@ -2064,7 +2074,7 @@
                 ]
             }
         },
-        "total_mods": 212
+        "total_mods": 213
     },
     "565775808124289025": {
         "modification_history": {},
