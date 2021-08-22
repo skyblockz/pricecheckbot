@@ -3086,6 +3086,16 @@
                     1000000
                 ]
             },
+            "lvl_1_epic_wither_skeleton": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    525000,
+                    550000
+                ]
+            },
             "lvl_1_legendary_armadillo": {
                 "from": [
                     2800000,
@@ -3307,7 +3317,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "676937120069189632": {
         "modification_history": {},
