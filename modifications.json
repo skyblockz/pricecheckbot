@@ -2830,6 +2830,16 @@
                     1150000
                 ]
             },
+            "strong_dragon_helmet": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    590000,
+                    600000
+                ]
+            },
             "vampire_fang": {
                 "from": [
                     3400000,
@@ -2881,7 +2891,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "676937120069189632": {
         "modification_history": {},
