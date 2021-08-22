@@ -3076,6 +3076,16 @@
                     1000000
                 ]
             },
+            "lvl_1_legendary_armadillo": {
+                "from": [
+                    2800000,
+                    2900000
+                ],
+                "to": [
+                    2900000,
+                    3000000
+                ]
+            },
             "lvl_1_legendary_enderman": {
                 "from": [
                     33500000,
@@ -3287,7 +3297,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "676937120069189632": {
         "modification_history": {},
