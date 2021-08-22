@@ -2029,6 +2029,16 @@
                     275000
                 ]
             },
+            "skeleton_grunt_helmet": {
+                "from": [
+                    6000,
+                    8000
+                ],
+                "to": [
+                    5037,
+                    16000
+                ]
+            },
             "sorrow": {
                 "from": [
                     245000,
@@ -2374,7 +2384,7 @@
                 ]
             }
         },
-        "total_mods": 244
+        "total_mods": 245
     },
     "565775808124289025": {
         "modification_history": {},
