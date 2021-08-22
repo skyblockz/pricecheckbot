@@ -1383,6 +1383,16 @@
                     3400000
                 ]
             },
+            "lapis_armor_boots": {
+                "from": [
+                    200,
+                    2000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "leggings_of_divan": {
                 "from": [
                     45000000,
@@ -2134,7 +2144,7 @@
                 ]
             }
         },
-        "total_mods": 220
+        "total_mods": 221
     },
     "565775808124289025": {
         "modification_history": {},
