@@ -2966,6 +2966,16 @@
                     5000000
                 ]
             },
+            "common_beastmaster_crest": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    395000,
+                    400000
+                ]
+            },
             "crooked_artifact": {
                 "from": [
                     31000000,
@@ -3694,7 +3704,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "676937120069189632": {
         "modification_history": {},
