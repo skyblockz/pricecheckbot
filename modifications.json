@@ -400,6 +400,16 @@
                     900000
                 ]
             },
+            "divers_shirt": {
+                "from": [
+                    650000,
+                    700000
+                ],
+                "to": [
+                    1250000,
+                    1400000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "565775808124289025": {
         "modification_history": {},
