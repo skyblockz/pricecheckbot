@@ -3406,6 +3406,16 @@
                     160000
                 ]
             },
+            "shard_of_the_shredded": {
+                "from": [
+                    11800000,
+                    11900000
+                ],
+                "to": [
+                    10000000,
+                    10300000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     650000,
@@ -3537,7 +3547,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "676937120069189632": {
         "modification_history": {},
