@@ -1429,6 +1429,16 @@
                     65000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    400000,
+                    425000
+                ]
+            },
             "helmet_of_growth": {
                 "from": [
                     280000,
@@ -1480,7 +1490,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "738319291648180315": {
         "modification_history": {
