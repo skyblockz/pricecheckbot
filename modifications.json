@@ -3056,6 +3056,16 @@
                     6000000
                 ]
             },
+            "lvl_100_legendary_skeleton": {
+                "from": [
+                    17000000,
+                    18000000
+                ],
+                "to": [
+                    28800000,
+                    29000000
+                ]
+            },
             "lvl_1_epic_armadillo": {
                 "from": [
                     750000,
@@ -3357,7 +3367,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "676937120069189632": {
         "modification_history": {},
