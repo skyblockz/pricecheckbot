@@ -2173,6 +2173,16 @@
                     300000
                 ]
             },
+            "speedster_helmet": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    350000,
+                    500000
+                ]
+            },
             "spider_egg_mixin": {
                 "from": [
                     900000,
@@ -2518,7 +2528,7 @@
                 ]
             }
         },
-        "total_mods": 255
+        "total_mods": 256
     },
     "565775808124289025": {
         "modification_history": {},
