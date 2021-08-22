@@ -1169,6 +1169,16 @@
                     25
                 ]
             },
+            "heat_leggings": {
+                "from": [
+                    12000,
+                    25000
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     190000000,
@@ -2054,7 +2064,7 @@
                 ]
             }
         },
-        "total_mods": 211
+        "total_mods": 212
     },
     "565775808124289025": {
         "modification_history": {},
