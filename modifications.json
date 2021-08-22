@@ -2280,6 +2280,16 @@
                     600000
                 ]
             },
+            "spooky_leggings": {
+                "from": [
+                    240000,
+                    250000
+                ],
+                "to": [
+                    400000,
+                    400000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -2595,7 +2605,7 @@
                 ]
             }
         },
-        "total_mods": 263
+        "total_mods": 264
     },
     "565775808124289025": {
         "modification_history": {},
