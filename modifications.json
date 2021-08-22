@@ -299,6 +299,16 @@
                     4500000
                 ]
             },
+            "bat_person_helmet": {
+                "from": [
+                    320000,
+                    350000
+                ],
+                "to": [
+                    250000,
+                    400000
+                ]
+            },
             "beach_ball": {
                 "from": null,
                 "to": [
@@ -2904,7 +2914,7 @@
                 ]
             }
         },
-        "total_mods": 294
+        "total_mods": 295
     },
     "565775808124289025": {
         "modification_history": {},
