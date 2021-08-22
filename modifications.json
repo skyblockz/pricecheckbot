@@ -2630,6 +2630,16 @@
                     2200000
                 ]
             },
+            "lvl_100_legendary_sheep": {
+                "from": [
+                    5200000,
+                    6000000
+                ],
+                "to": [
+                    5555555,
+                    6000000
+                ]
+            },
             "lvl_1_epic_baby_yeti": {
                 "from": [
                     16600000,
@@ -2791,7 +2801,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "676937120069189632": {
         "modification_history": {},
