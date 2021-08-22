@@ -1429,6 +1429,16 @@
                     65000
                 ]
             },
+            "crystal_chestplate": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    470000,
+                    500000
+                ]
+            },
             "crystal_helmet": {
                 "from": [
                     200000,
@@ -1490,7 +1500,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "738319291648180315": {
         "modification_history": {
