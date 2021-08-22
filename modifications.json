@@ -1915,6 +1915,16 @@
                     75000
                 ]
             },
+            "salmon_chestplate": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "salmon_helmet": {
                 "from": [
                     20000,
@@ -2364,7 +2374,7 @@
                 ]
             }
         },
-        "total_mods": 243
+        "total_mods": 244
     },
     "565775808124289025": {
         "modification_history": {},
