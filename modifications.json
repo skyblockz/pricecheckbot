@@ -1393,6 +1393,16 @@
                     2000
                 ]
             },
+            "lapis_armor_chestplate": {
+                "from": [
+                    500,
+                    3000
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "leggings_of_divan": {
                 "from": [
                     45000000,
@@ -2144,7 +2154,7 @@
                 ]
             }
         },
-        "total_mods": 221
+        "total_mods": 222
     },
     "565775808124289025": {
         "modification_history": {},
