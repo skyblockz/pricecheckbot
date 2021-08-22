@@ -380,6 +380,16 @@
                     2150000000
                 ]
             },
+            "divers_boots": {
+                "from": [
+                    240000,
+                    300000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1143,7 +1153,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "565775808124289025": {
         "modification_history": {},
