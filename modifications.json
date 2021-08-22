@@ -1497,6 +1497,16 @@
                     2000
                 ]
             },
+            "mineral_helmet": {
+                "from": [
+                    300000,
+                    320000
+                ],
+                "to": [
+                    150000,
+                    250000
+                ]
+            },
             "necrons_boots": {
                 "from": [
                     9900000,
@@ -2184,7 +2194,7 @@
                 ]
             }
         },
-        "total_mods": 225
+        "total_mods": 226
     },
     "565775808124289025": {
         "modification_history": {},
