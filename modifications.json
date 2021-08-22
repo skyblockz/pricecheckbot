@@ -642,6 +642,16 @@
                     7000
                 ]
             },
+            "fairys_fedora": {
+                "from": [
+                    36000,
+                    40000
+                ],
+                "to": [
+                    8000,
+                    9000
+                ]
+            },
             "fairys_trousers": {
                 "from": [
                     10000,
@@ -1611,7 +1621,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "565775808124289025": {
         "modification_history": {},
