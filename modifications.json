@@ -840,6 +840,16 @@
                     9000000
                 ]
             },
+            "protector_dragon_chestplate": {
+                "from": [
+                    145000,
+                    195000
+                ],
+                "to": [
+                    130000,
+                    150000
+                ]
+            },
             "protector_dragon_helmet": {
                 "from": [
                     100000,
@@ -1233,7 +1243,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "565775808124289025": {
         "modification_history": {},
