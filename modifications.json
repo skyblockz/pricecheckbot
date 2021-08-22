@@ -249,6 +249,16 @@
                     10000000
                 ]
             },
+            "armor_of_magma_boots": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "bane_of_arthropods_vii": {
                 "from": [
                     1900000,
@@ -2864,7 +2874,7 @@
                 ]
             }
         },
-        "total_mods": 290
+        "total_mods": 291
     },
     "565775808124289025": {
         "modification_history": {},
