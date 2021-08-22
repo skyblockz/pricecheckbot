@@ -2384,6 +2384,16 @@
                     200000
                 ]
             },
+            "tarantula_chestplate": {
+                "from": [
+                    650000,
+                    750000
+                ],
+                "to": [
+                    400000,
+                    550000
+                ]
+            },
             "tier_boost": {
                 "from": [
                     77500000,
@@ -2615,7 +2625,7 @@
                 ]
             }
         },
-        "total_mods": 265
+        "total_mods": 266
     },
     "565775808124289025": {
         "modification_history": {},
