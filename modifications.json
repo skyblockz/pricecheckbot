@@ -2590,6 +2590,16 @@
                     2800
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    100000,
+                    130000
+                ],
+                "to": [
+                    120000,
+                    135000
+                ]
+            },
             "lvl_1_epic_baby_yeti": {
                 "from": [
                     16600000,
@@ -2731,7 +2741,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "676937120069189632": {
         "modification_history": {},
