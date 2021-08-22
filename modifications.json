@@ -869,6 +869,16 @@
                     20700000
                 ]
             },
+            "ghostly_boots": {
+                "from": [
+                    99000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     84000000,
@@ -1794,7 +1804,7 @@
                 ]
             }
         },
-        "total_mods": 185
+        "total_mods": 186
     },
     "565775808124289025": {
         "modification_history": {},
