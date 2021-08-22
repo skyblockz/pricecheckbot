@@ -1119,6 +1119,16 @@
                     50000
                 ]
             },
+            "hardened_diamond_helmet": {
+                "from": [
+                    20000,
+                    22000
+                ],
+                "to": [
+                    15000,
+                    50000
+                ]
+            },
             "hay_bale": {
                 "from": [
                     20000,
@@ -2014,7 +2024,7 @@
                 ]
             }
         },
-        "total_mods": 207
+        "total_mods": 208
     },
     "565775808124289025": {
         "modification_history": {},
