@@ -2243,6 +2243,16 @@
                     900000
                 ]
             },
+            "sponge_leggings": {
+                "from": [
+                    2000000,
+                    2100000
+                ],
+                "to": [
+                    1000000,
+                    1500000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -2558,7 +2568,7 @@
                 ]
             }
         },
-        "total_mods": 259
+        "total_mods": 260
     },
     "565775808124289025": {
         "modification_history": {},
