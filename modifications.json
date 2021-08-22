@@ -1089,6 +1089,16 @@
                     20000000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    150000,
+                    150000
+                ],
+                "to": [
+                    35000,
+                    100000
+                ]
+            },
             "handy_blood_chalice": {
                 "from": [
                     2500000,
@@ -1994,7 +2004,7 @@
                 ]
             }
         },
-        "total_mods": 205
+        "total_mods": 206
     },
     "565775808124289025": {
         "modification_history": {},
