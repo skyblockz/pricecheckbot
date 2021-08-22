@@ -450,6 +450,16 @@
                     3700000
                 ]
             },
+            "ember_boots": {
+                "from": [
+                    99000,
+                    99000
+                ],
+                "to": [
+                    25000,
+                    80000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1453,7 +1463,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "565775808124289025": {
         "modification_history": {},
