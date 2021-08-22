@@ -642,6 +642,16 @@
                     7000
                 ]
             },
+            "fairys_trousers": {
+                "from": [
+                    10000,
+                    50000
+                ],
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
             "fallen_star_helmet": {
                 "from": null,
                 "to": [
@@ -1601,7 +1611,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "565775808124289025": {
         "modification_history": {},
