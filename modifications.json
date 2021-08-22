@@ -632,6 +632,16 @@
                     550000
                 ]
             },
+            "fairy_chestplate": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    5000,
+                    7000
+                ]
+            },
             "fallen_star_helmet": {
                 "from": null,
                 "to": [
@@ -1591,7 +1601,7 @@
                 ]
             }
         },
-        "total_mods": 164
+        "total_mods": 165
     },
     "565775808124289025": {
         "modification_history": {},
