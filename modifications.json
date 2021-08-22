@@ -2183,6 +2183,16 @@
                     500000
                 ]
             },
+            "speedster_leggings": {
+                "from": [
+                    400000,
+                    600000
+                ],
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "spider_egg_mixin": {
                 "from": [
                     900000,
@@ -2528,7 +2538,7 @@
                 ]
             }
         },
-        "total_mods": 256
+        "total_mods": 257
     },
     "565775808124289025": {
         "modification_history": {},
