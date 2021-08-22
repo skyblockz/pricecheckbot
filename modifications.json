@@ -722,6 +722,16 @@
                     350000
                 ]
             },
+            "final_destination_boots": {
+                "from": [
+                    1790000,
+                    1800000
+                ],
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "flycatcher": {
                 "from": [
                     12000000,
@@ -1674,7 +1684,7 @@
                 ]
             }
         },
-        "total_mods": 173
+        "total_mods": 174
     },
     "565775808124289025": {
         "modification_history": {},
