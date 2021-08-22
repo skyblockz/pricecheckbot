@@ -1039,6 +1039,16 @@
                     800000
                 ]
             },
+            "golem_armor_chestplate": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "green_crab_hat_of_celebration": {
                 "from": [
                     8700000,
@@ -1954,7 +1964,7 @@
                 ]
             }
         },
-        "total_mods": 201
+        "total_mods": 202
     },
     "565775808124289025": {
         "modification_history": {},
