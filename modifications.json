@@ -3146,6 +3146,16 @@
                     17850000
                 ]
             },
+            "lvl_1_epic_elephant": {
+                "from": [
+                    2100000,
+                    2400000
+                ],
+                "to": [
+                    1600000,
+                    1800000
+                ]
+            },
             "lvl_1_epic_enderman": {
                 "from": [
                     70000,
@@ -3477,7 +3487,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "676937120069189632": {
         "modification_history": {},
