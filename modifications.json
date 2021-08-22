@@ -3126,6 +3126,16 @@
                     750000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    2800000,
+                    3000000
+                ],
+                "to": [
+                    3100000,
+                    3300000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     5000,
@@ -3317,7 +3327,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "676937120069189632": {
         "modification_history": {},
