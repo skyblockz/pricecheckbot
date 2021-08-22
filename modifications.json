@@ -518,6 +518,16 @@
                     500000
                 ]
             },
+            "emerald_armor_leggings": {
+                "from": [
+                    1000000,
+                    1500000
+                ],
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1521,7 +1531,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "565775808124289025": {
         "modification_history": {},
