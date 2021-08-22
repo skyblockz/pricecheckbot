@@ -919,6 +919,16 @@
                     40000
                 ]
             },
+            "goblin_chestplate": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     84000000,
@@ -1844,7 +1854,7 @@
                 ]
             }
         },
-        "total_mods": 190
+        "total_mods": 191
     },
     "565775808124289025": {
         "modification_history": {},
