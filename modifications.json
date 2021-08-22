@@ -2649,9 +2649,19 @@
                     650000,
                     700000
                 ]
+            },
+            "shark_scale_helmet": {
+                "from": [
+                    1150000,
+                    1250000
+                ],
+                "to": [
+                    850000,
+                    870000
+                ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "676937120069189632": {
         "modification_history": {},
