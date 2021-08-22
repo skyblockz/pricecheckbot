@@ -879,6 +879,16 @@
                     100000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    15000,
+                    30000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     84000000,
@@ -1804,7 +1814,7 @@
                 ]
             }
         },
-        "total_mods": 186
+        "total_mods": 187
     },
     "565775808124289025": {
         "modification_history": {},
