@@ -460,6 +460,16 @@
                     80000
                 ]
             },
+            "ember_leggings": {
+                "from": [
+                    10100000,
+                    10400000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1463,7 +1473,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "565775808124289025": {
         "modification_history": {},
