@@ -959,6 +959,16 @@
                     5000
                 ]
             },
+            "golden_bonzo_head": {
+                "from": [
+                    50000,
+                    160000
+                ],
+                "to": [
+                    230000,
+                    350000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     84000000,
@@ -1884,7 +1894,7 @@
                 ]
             }
         },
-        "total_mods": 194
+        "total_mods": 195
     },
     "565775808124289025": {
         "modification_history": {},
