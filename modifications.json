@@ -2691,6 +2691,13 @@
                     500000
                 ]
             },
+            "yog_chestplate": {
+                "from": null,
+                "to": [
+                    550000,
+                    750000
+                ]
+            },
             "yog_helmet": {
                 "from": null,
                 "to": [
@@ -2746,7 +2753,7 @@
                 ]
             }
         },
-        "total_mods": 279
+        "total_mods": 280
     },
     "565775808124289025": {
         "modification_history": {},
