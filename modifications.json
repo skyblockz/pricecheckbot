@@ -2223,6 +2223,16 @@
                     600000
                 ]
             },
+            "sponge_helmet": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    750000,
+                    900000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -2538,7 +2548,7 @@
                 ]
             }
         },
-        "total_mods": 257
+        "total_mods": 258
     },
     "565775808124289025": {
         "modification_history": {},
