@@ -832,6 +832,16 @@
                     7600000
                 ]
             },
+            "frozen_blaze_helmet": {
+                "from": [
+                    6800000,
+                    6900000
+                ],
+                "to": [
+                    7800000,
+                    8500000
+                ]
+            },
             "gemstone_chamber": {
                 "from": null,
                 "to": [
@@ -1764,7 +1774,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "565775808124289025": {
         "modification_history": {},
