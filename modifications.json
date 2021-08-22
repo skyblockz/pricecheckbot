@@ -2103,6 +2103,16 @@
                     36000000
                 ]
             },
+            "spirit_mask": {
+                "from": [
+                    250000,
+                    290000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -2418,7 +2428,7 @@
                 ]
             }
         },
-        "total_mods": 249
+        "total_mods": 250
     },
     "565775808124289025": {
         "modification_history": {},
