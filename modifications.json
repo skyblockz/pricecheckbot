@@ -1129,6 +1129,16 @@
                     50000
                 ]
             },
+            "hardened_diamond_leggings": {
+                "from": [
+                    20000,
+                    50000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "hay_bale": {
                 "from": [
                     20000,
@@ -2024,7 +2034,7 @@
                 ]
             }
         },
-        "total_mods": 208
+        "total_mods": 209
     },
     "565775808124289025": {
         "modification_history": {},
