@@ -840,6 +840,16 @@
                     9000000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "purple_crab_hat_of_celebration": {
                 "from": [
                     9400000,
@@ -1223,7 +1233,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "565775808124289025": {
         "modification_history": {},
