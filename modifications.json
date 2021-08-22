@@ -1199,6 +1199,16 @@
                     9000
                 ]
             },
+            "heavy_chestplate": {
+                "from": [
+                    5037,
+                    5300
+                ],
+                "to": [
+                    6000,
+                    6000
+                ]
+            },
             "heavy_helmet": {
                 "from": [
                     5037,
@@ -2104,7 +2114,7 @@
                 ]
             }
         },
-        "total_mods": 216
+        "total_mods": 217
     },
     "565775808124289025": {
         "modification_history": {},
