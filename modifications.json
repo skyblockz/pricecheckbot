@@ -1497,6 +1497,16 @@
                     2000
                 ]
             },
+            "mineral_boots": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "mineral_helmet": {
                 "from": [
                     300000,
@@ -2194,7 +2204,7 @@
                 ]
             }
         },
-        "total_mods": 226
+        "total_mods": 227
     },
     "565775808124289025": {
         "modification_history": {},
