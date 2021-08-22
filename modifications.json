@@ -3146,6 +3146,16 @@
                     750000
                 ]
             },
+            "lvl_1_legendary_skeleton": {
+                "from": [
+                    900000,
+                    920000
+                ],
+                "to": [
+                    1700000,
+                    1700000
+                ]
+            },
             "lvl_1_legendary_wither_skeleton": {
                 "from": [
                     2800000,
@@ -3347,7 +3357,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "676937120069189632": {
         "modification_history": {},
