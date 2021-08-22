@@ -2163,6 +2163,16 @@
                     8650000
                 ]
             },
+            "speedster_boots": {
+                "from": [
+                    290000,
+                    300000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "spider_egg_mixin": {
                 "from": [
                     900000,
@@ -2508,7 +2518,7 @@
                 ]
             }
         },
-        "total_mods": 254
+        "total_mods": 255
     },
     "565775808124289025": {
         "modification_history": {},
