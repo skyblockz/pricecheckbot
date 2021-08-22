@@ -772,6 +772,16 @@
                     400000
                 ]
             },
+            "flamebreaker_helmet": {
+                "from": [
+                    390000,
+                    450000
+                ],
+                "to": [
+                    400000,
+                    650000
+                ]
+            },
             "flycatcher": {
                 "from": [
                     12000000,
@@ -1724,7 +1734,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "565775808124289025": {
         "modification_history": {},
