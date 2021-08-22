@@ -159,6 +159,16 @@
                     400000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    360000,
+                    460000
+                ],
+                "to": [
+                    550000,
+                    650000
+                ]
+            },
             "aqua_crab_hat_of_celebration": {
                 "from": [
                     9500000,
@@ -2794,7 +2804,7 @@
                 ]
             }
         },
-        "total_mods": 283
+        "total_mods": 284
     },
     "565775808124289025": {
         "modification_history": {},
