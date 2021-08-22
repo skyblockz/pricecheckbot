@@ -1905,6 +1905,16 @@
                     14200000
                 ]
             },
+            "salmon_helmet": {
+                "from": [
+                    20000,
+                    25000
+                ],
+                "to": [
+                    20000,
+                    75000
+                ]
+            },
             "sandcastle_minon_skin": {
                 "from": null,
                 "to": [
@@ -2334,7 +2344,7 @@
                 ]
             }
         },
-        "total_mods": 240
+        "total_mods": 241
     },
     "565775808124289025": {
         "modification_history": {},
