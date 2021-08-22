@@ -2660,6 +2660,16 @@
                     95000
                 ]
             },
+            "lvl_1_epic_sheep": {
+                "from": [
+                    670000,
+                    700000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "lvl_1_legendary_enderman": {
                 "from": [
                     33500000,
@@ -2801,7 +2811,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "676937120069189632": {
         "modification_history": {},
