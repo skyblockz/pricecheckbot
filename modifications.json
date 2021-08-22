@@ -2590,6 +2590,16 @@
                     750000
                 ]
             },
+            "mimic_fragment": {
+                "from": [
+                    5000,
+                    8000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     170000,
@@ -2601,7 +2611,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "676937120069189632": {
         "modification_history": {},
