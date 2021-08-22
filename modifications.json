@@ -1169,6 +1169,16 @@
                     25
                 ]
             },
+            "heat_chestplate": {
+                "from": [
+                    11000,
+                    12000
+                ],
+                "to": [
+                    25000,
+                    100000
+                ]
+            },
             "heat_helmet": {
                 "from": [
                     12000,
@@ -2074,7 +2084,7 @@
                 ]
             }
         },
-        "total_mods": 213
+        "total_mods": 214
     },
     "565775808124289025": {
         "modification_history": {},
