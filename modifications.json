@@ -2600,6 +2600,16 @@
                     2000000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    490000,
+                    575000
+                ],
+                "to": [
+                    360000,
+                    460000
+                ]
+            },
             "deep_sea_orb": {
                 "from": [
                     4000000,
@@ -2851,7 +2861,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "676937120069189632": {
         "modification_history": {},
