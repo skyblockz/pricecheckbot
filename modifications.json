@@ -1119,6 +1119,16 @@
                     50000
                 ]
             },
+            "hardened_diamond_boots": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    45000,
+                    45000
+                ]
+            },
             "hardened_diamond_chestplate": {
                 "from": [
                     6000,
@@ -2044,7 +2054,7 @@
                 ]
             }
         },
-        "total_mods": 210
+        "total_mods": 211
     },
     "565775808124289025": {
         "modification_history": {},
