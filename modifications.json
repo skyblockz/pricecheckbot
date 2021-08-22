@@ -3046,6 +3046,16 @@
                     230000
                 ]
             },
+            "green_jerry_talisman": {
+                "from": [
+                    670000,
+                    700000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "iron_horse_armor": {
                 "from": null,
                 "to": [
@@ -3574,7 +3584,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "676937120069189632": {
         "modification_history": {},
