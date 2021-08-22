@@ -390,6 +390,16 @@
                     800000
                 ]
             },
+            "divers_mask": {
+                "from": [
+                    270000,
+                    300000
+                ],
+                "to": [
+                    850000,
+                    900000
+                ]
+            },
             "end_portal_fumes": {
                 "from": null,
                 "to": [
@@ -1153,7 +1163,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "565775808124289025": {
         "modification_history": {},
