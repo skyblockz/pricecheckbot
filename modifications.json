@@ -3146,6 +3146,16 @@
                     29000000
                 ]
             },
+            "lvl_100_legendary_tiger": {
+                "from": [
+                    25500000,
+                    27000000
+                ],
+                "to": [
+                    38000000,
+                    40000000
+                ]
+            },
             "lvl_1_epic_armadillo": {
                 "from": [
                     750000,
@@ -3517,7 +3527,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "676937120069189632": {
         "modification_history": {},
