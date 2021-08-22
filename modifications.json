@@ -2260,6 +2260,16 @@
                     1500000
                 ]
             },
+            "spooky_helmet": {
+                "from": [
+                    280000,
+                    320000
+                ],
+                "to": [
+                    300000,
+                    600000
+                ]
+            },
             "star_decorations": {
                 "from": null,
                 "to": [
@@ -2575,7 +2585,7 @@
                 ]
             }
         },
-        "total_mods": 261
+        "total_mods": 262
     },
     "565775808124289025": {
         "modification_history": {},
