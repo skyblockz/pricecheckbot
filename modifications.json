@@ -2073,6 +2073,16 @@
                     5037
                 ]
             },
+            "snow_suit_chestplate": {
+                "from": [
+                    8000,
+                    12000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "sorrow": {
                 "from": [
                     245000,
@@ -2468,7 +2478,7 @@
                 ]
             }
         },
-        "total_mods": 250
+        "total_mods": 251
     },
     "565775808124289025": {
         "modification_history": {},
