@@ -535,12 +535,12 @@
             },
             "chestplate_of_divan": {
                 "from": [
-                    43000000,
-                    60000000
-                ],
-                "to": [
                     62500000,
                     68000000
+                ],
+                "to": [
+                    60000000,
+                    65000000
                 ]
             },
             "clownfish_minion_skin": {
@@ -3094,7 +3094,7 @@
                 ]
             }
         },
-        "total_mods": 316
+        "total_mods": 317
     },
     "565775808124289025": {
         "modification_history": {},
