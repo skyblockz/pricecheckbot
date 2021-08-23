@@ -2942,6 +2942,13 @@
                     1000000
                 ]
             },
+            "winter_sack": {
+                "from": null,
+                "to": [
+                    250000,
+                    250000
+                ]
+            },
             "wise_dragon_boots": {
                 "from": [
                     625000,
@@ -3141,7 +3148,7 @@
                 ]
             }
         },
-        "total_mods": 322
+        "total_mods": 323
     },
     "565775808124289025": {
         "modification_history": {},
