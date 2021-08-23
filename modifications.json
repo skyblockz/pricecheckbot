@@ -3950,6 +3950,16 @@
                     40000
                 ]
             },
+            "salmon_helmet": {
+                "from": [
+                    20000,
+                    75000
+                ],
+                "to": [
+                    20000,
+                    23000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     64000000,
@@ -4151,7 +4161,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "676937120069189632": {
         "modification_history": {},
