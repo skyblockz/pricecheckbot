@@ -3453,6 +3453,16 @@
                     900000
                 ]
             },
+            "iron_claws": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    650000,
+                    800000
+                ]
+            },
             "iron_horse_armor": {
                 "from": null,
                 "to": [
@@ -4101,7 +4111,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "676937120069189632": {
         "modification_history": {},
