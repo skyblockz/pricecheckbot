@@ -3920,6 +3920,16 @@
                     35000000
                 ]
             },
+            "red_claw_talisman": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    20000,
+                    40000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     64000000,
@@ -4121,7 +4131,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "676937120069189632": {
         "modification_history": {},
