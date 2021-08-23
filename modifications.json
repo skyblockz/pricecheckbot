@@ -570,6 +570,16 @@
                     200000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    400000,
+                    425000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "dark_goggles": {
                 "from": [
                     43000,
@@ -3064,7 +3074,7 @@
                 ]
             }
         },
-        "total_mods": 310
+        "total_mods": 311
     },
     "565775808124289025": {
         "modification_history": {},
