@@ -3981,6 +3981,13 @@
                     3300000
                 ]
             },
+            "mender_crown": {
+                "from": null,
+                "to": [
+                    5000000,
+                    5000000
+                ]
+            },
             "mender_fedora": {
                 "from": [
                     380000,
@@ -4412,7 +4419,7 @@
                 ]
             }
         },
-        "total_mods": 115
+        "total_mods": 116
     },
     "676937120069189632": {
         "modification_history": {},
