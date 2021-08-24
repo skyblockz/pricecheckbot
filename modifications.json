@@ -598,10 +598,13 @@
                 ]
             },
             "creative_mind": {
-                "from": null,
-                "to": [
+                "from": [
                     1200000,
                     1200000
+                ],
+                "to": [
+                    1250000000,
+                    1250000000
                 ]
             },
             "crooked_artifact": {
@@ -3155,7 +3158,7 @@
                 ]
             }
         },
-        "total_mods": 323
+        "total_mods": 324
     },
     "565775808124289025": {
         "modification_history": {},
