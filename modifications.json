@@ -3390,6 +3390,13 @@
                     1250000
                 ]
             },
+            "dungeon_vii_potion": {
+                "from": null,
+                "to": [
+                    35000,
+                    35000
+                ]
+            },
             "elegant_tuxedo_jacket": {
                 "from": [
                     64000000,
@@ -4268,7 +4275,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "676937120069189632": {
         "modification_history": {},
