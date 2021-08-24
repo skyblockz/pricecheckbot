@@ -4231,6 +4231,16 @@
                     80000
                 ]
             },
+            "superboom_tnt": {
+                "from": [
+                    2500,
+                    3000
+                ],
+                "to": [
+                    3000,
+                    3000
+                ]
+            },
             "uncommon_beastmaster_crest": {
                 "from": [
                     800000,
@@ -4322,7 +4332,7 @@
                 ]
             }
         },
-        "total_mods": 106
+        "total_mods": 107
     },
     "676937120069189632": {
         "modification_history": {},
