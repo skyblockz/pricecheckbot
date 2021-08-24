@@ -3971,6 +3971,16 @@
                     80000
                 ]
             },
+            "metal_chestplate": {
+                "from": [
+                    200000,
+                    500000
+                ],
+                "to": [
+                    800000,
+                    800000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     5000,
@@ -4352,7 +4362,7 @@
                 ]
             }
         },
-        "total_mods": 109
+        "total_mods": 110
     },
     "676937120069189632": {
         "modification_history": {},
