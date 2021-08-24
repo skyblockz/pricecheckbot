@@ -4201,6 +4201,16 @@
                     1100000
                 ]
             },
+            "super_cleaver": {
+                "from": [
+                    80000,
+                    125000
+                ],
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "uncommon_beastmaster_crest": {
                 "from": [
                     800000,
@@ -4282,7 +4292,7 @@
                 ]
             }
         },
-        "total_mods": 102
+        "total_mods": 103
     },
     "676937120069189632": {
         "modification_history": {},
