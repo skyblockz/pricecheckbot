@@ -4161,6 +4161,16 @@
                     28500000
                 ]
             },
+            "stone_chestplate": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     625000,
@@ -4302,7 +4312,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "676937120069189632": {
         "modification_history": {},
