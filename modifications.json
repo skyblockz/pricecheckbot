@@ -4231,6 +4231,16 @@
                     80000
                 ]
             },
+            "super_undead_bow": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    800000,
+                    800000
+                ]
+            },
             "superboom_tnt": {
                 "from": [
                     2500,
@@ -4332,7 +4342,7 @@
                 ]
             }
         },
-        "total_mods": 107
+        "total_mods": 108
     },
     "676937120069189632": {
         "modification_history": {},
