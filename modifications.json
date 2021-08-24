@@ -3390,6 +3390,13 @@
                     1250000
                 ]
             },
+            "dungeon_i_potion": {
+                "from": null,
+                "to": [
+                    5000,
+                    5000
+                ]
+            },
             "dungeon_vii_potion": {
                 "from": null,
                 "to": [
@@ -4275,7 +4282,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "676937120069189632": {
         "modification_history": {},
