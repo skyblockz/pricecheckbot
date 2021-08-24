@@ -3951,6 +3951,16 @@
                     3300000
                 ]
             },
+            "mender_helmet": {
+                "from": [
+                    48000,
+                    70000
+                ],
+                "to": [
+                    80000,
+                    80000
+                ]
+            },
             "mimic_fragment": {
                 "from": [
                     5000,
@@ -4312,7 +4322,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "676937120069189632": {
         "modification_history": {},
