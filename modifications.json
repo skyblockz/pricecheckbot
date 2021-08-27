@@ -154,6 +154,16 @@
                     17220000
                 ]
             },
+            "etherwarp_merger": {
+                "from": [
+                    330000,
+                    350000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "jaderald": {
                 "from": [
                     12900000,
@@ -185,7 +195,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395028811399299082": {
         "modification_history": {},
