@@ -244,6 +244,16 @@
                     30000000
                 ]
             },
+            "looting_iv": {
+                "from": [
+                    30000,
+                    40000
+                ],
+                "to": [
+                    35000,
+                    38000
+                ]
+            },
             "luck_of_the_sea_vi": {
                 "from": [
                     78000,
@@ -365,7 +375,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395028811399299082": {
         "modification_history": {},
