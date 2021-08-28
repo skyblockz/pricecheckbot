@@ -267,9 +267,19 @@
                     180000,
                     250000
                 ]
+            },
+            "robotron_reflector": {
+                "from": [
+                    230000,
+                    290000
+                ],
+                "to": [
+                    385000,
+                    400000
+                ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "466769036122783744": {
         "modification_history": {},
