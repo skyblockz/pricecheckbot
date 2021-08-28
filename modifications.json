@@ -1507,6 +1507,16 @@
                     49000000
                 ]
             },
+            "pumpkin_dicer": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "tier_1_common_euclids_wheat_hoe": {
                 "from": [
                     1100000,
@@ -1558,7 +1568,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "565775808124289025": {
         "modification_history": {},
