@@ -1887,6 +1887,16 @@
                     15000
                 ]
             },
+            "hardened_diamond_helmet": {
+                "from": [
+                    15000,
+                    50000
+                ],
+                "to": [
+                    20000,
+                    20000
+                ]
+            },
             "helmet_of_divan": {
                 "from": [
                     58000000,
@@ -2028,7 +2038,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "565775808124289025": {
         "modification_history": {},
