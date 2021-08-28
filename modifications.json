@@ -1507,6 +1507,16 @@
                     30000
                 ]
             },
+            "emerald_armor_boots": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    650000,
+                    1000000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1698,7 +1708,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "565775808124289025": {
         "modification_history": {},
