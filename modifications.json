@@ -2260,6 +2260,16 @@
                     37000000
                 ]
             },
+            "lvl_1_legendary_rabbit": {
+                "from": [
+                    700000,
+                    750000
+                ],
+                "to": [
+                    500000,
+                    540000
+                ]
+            },
             "lvl_1_legendary_sheep": {
                 "from": [
                     3300000,
@@ -2271,7 +2281,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "676937120069189632": {
         "modification_history": {},
