@@ -625,6 +625,16 @@
                     170
                 ]
             },
+            "cluck_the_fish": {
+                "from": [
+                    16000000,
+                    17500000
+                ],
+                "to": [
+                    14500000,
+                    15750000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -846,7 +856,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "466769036122783744": {
         "modification_history": {},
