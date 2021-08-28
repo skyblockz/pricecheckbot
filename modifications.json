@@ -425,6 +425,16 @@
                     475000000
                 ]
             },
+            "bob-omb": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    5000,
+                    7500
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -586,7 +596,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "466769036122783744": {
         "modification_history": {},
