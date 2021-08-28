@@ -525,6 +525,16 @@
                     375000
                 ]
             },
+            "candy_talisman": {
+                "from": [
+                    76000,
+                    99000
+                ],
+                "to": [
+                    75000,
+                    125000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -686,7 +696,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "466769036122783744": {
         "modification_history": {},
