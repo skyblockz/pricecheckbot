@@ -2220,6 +2220,16 @@
                     4000
                 ]
             },
+            "goblin_chestplate": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    4000,
+                    4000
+                ]
+            },
             "goblin_leggings": {
                 "from": [
                     5000,
@@ -2391,7 +2401,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "676937120069189632": {
         "modification_history": {},
