@@ -418,6 +418,16 @@
                     125000
                 ]
             },
+            "rare_beastmaster_crest": {
+                "from": [
+                    2750000,
+                    3000000
+                ],
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -469,7 +479,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "466769036122783744": {
         "modification_history": {},
