@@ -1707,6 +1707,16 @@
                     550000
                 ]
             },
+            "flamebreaker_chestplate": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    670000,
+                    900000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1898,7 +1908,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "565775808124289025": {
         "modification_history": {},
