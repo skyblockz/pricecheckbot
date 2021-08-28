@@ -1497,6 +1497,16 @@
                     49000000
                 ]
             },
+            "tier_1_common_gauss_carrot_hoe": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "tier_1_common_newtons_nether_wart_hoe": {
                 "from": [
                     1100000,
@@ -1518,7 +1528,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "565775808124289025": {
         "modification_history": {},
