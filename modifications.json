@@ -730,6 +730,16 @@
                     30
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    75000,
+                    85000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -931,7 +941,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "466769036122783744": {
         "modification_history": {},
