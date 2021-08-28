@@ -1837,6 +1837,16 @@
                     7000000
                 ]
             },
+            "golem_armor_helmet": {
+                "from": [
+                    80000,
+                    85000
+                ],
+                "to": [
+                    67000,
+                    90000
+                ]
+            },
             "helmet_of_divan": {
                 "from": [
                     58000000,
@@ -1978,7 +1988,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "565775808124289025": {
         "modification_history": {},
