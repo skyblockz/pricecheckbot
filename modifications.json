@@ -1587,6 +1587,16 @@
                     40000
                 ]
             },
+            "fairys_fedora": {
+                "from": [
+                    8000,
+                    9000
+                ],
+                "to": [
+                    5000,
+                    20000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1778,7 +1788,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "565775808124289025": {
         "modification_history": {},
