@@ -730,6 +730,16 @@
                     30
                 ]
             },
+            "crystal_chestplate": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    600000,
+                    750000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     90000,
@@ -951,7 +961,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "466769036122783744": {
         "modification_history": {},
