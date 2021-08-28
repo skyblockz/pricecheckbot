@@ -358,6 +358,16 @@
                     250000
                 ]
             },
+            "bigfoots_lasso": {
+                "from": [
+                    15000,
+                    20000
+                ],
+                "to": [
+                    50000,
+                    125000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -519,7 +529,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "466769036122783744": {
         "modification_history": {},
