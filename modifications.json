@@ -338,6 +338,16 @@
                     12500
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    50000,
+                    150000
+                ],
+                "to": [
+                    30000,
+                    45000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -499,7 +509,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "466769036122783744": {
         "modification_history": {},
