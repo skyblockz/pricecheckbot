@@ -770,6 +770,16 @@
                     600000
                 ]
             },
+            "daedalus_stick": {
+                "from": [
+                    8800000,
+                    9000000
+                ],
+                "to": [
+                    8352602,
+                    8949997
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -971,7 +981,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "466769036122783744": {
         "modification_history": {},
