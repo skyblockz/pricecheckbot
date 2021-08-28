@@ -1547,6 +1547,16 @@
                     1000000
                 ]
             },
+            "replenish_i": {
+                "from": [
+                    1140000,
+                    1140000
+                ],
+                "to": [
+                    1100000,
+                    1100000
+                ]
+            },
             "tier_1_common_euclids_wheat_hoe": {
                 "from": [
                     1100000,
@@ -1598,7 +1608,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "565775808124289025": {
         "modification_history": {},
