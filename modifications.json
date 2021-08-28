@@ -1397,6 +1397,16 @@
                     4500000
                 ]
             },
+            "ember_chestplate": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    30000,
+                    70000
+                ]
+            },
             "ember_helmet": {
                 "from": [
                     100000,
@@ -1478,7 +1488,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "565775808124289025": {
         "modification_history": {},
