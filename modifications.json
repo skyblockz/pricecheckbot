@@ -160,9 +160,19 @@
                     400000,
                     500000
                 ]
+            },
+            "arachne_fragment": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "466769036122783744": {
         "modification_history": {},
