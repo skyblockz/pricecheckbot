@@ -2220,6 +2220,16 @@
                     16400000
                 ]
             },
+            "lvl_1_legendary_enderman": {
+                "from": [
+                    37000000,
+                    37000000
+                ],
+                "to": [
+                    35800000,
+                    37000000
+                ]
+            },
             "lvl_1_legendary_sheep": {
                 "from": [
                     3300000,
@@ -2231,7 +2241,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "676937120069189632": {
         "modification_history": {},
