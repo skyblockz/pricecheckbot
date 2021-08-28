@@ -735,6 +735,16 @@
                     30000
                 ]
             },
+            "streamers_century_cake": {
+                "from": [
+                    2200000,
+                    3000000
+                ],
+                "to": [
+                    2800000,
+                    3000000
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     125000,
@@ -766,7 +776,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "466769036122783744": {
         "modification_history": {},
