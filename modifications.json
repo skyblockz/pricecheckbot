@@ -2170,6 +2170,16 @@
     },
     "675938809996902410": {
         "modification_history": {
+            "glacite_boots": {
+                "from": [
+                    60000,
+                    100000
+                ],
+                "to": [
+                    7000,
+                    15000
+                ]
+            },
             "glacite_chestplate": {
                 "from": [
                     40000,
@@ -2361,7 +2371,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "676937120069189632": {
         "modification_history": {},
