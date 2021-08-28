@@ -1517,6 +1517,16 @@
                     1000000
                 ]
             },
+            "tier_1_common_pythagorean_potato_hoe": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "tier_1_common_turing_sugar_cane_hoe": {
                 "from": [
                     1100000,
@@ -1528,7 +1538,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "565775808124289025": {
         "modification_history": {},
