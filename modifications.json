@@ -1897,6 +1897,16 @@
                     20000
                 ]
             },
+            "hardened_diamond_leggings": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    100000,
+                    125000
+                ]
+            },
             "helmet_of_divan": {
                 "from": [
                     58000000,
@@ -2038,7 +2048,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "565775808124289025": {
         "modification_history": {},
