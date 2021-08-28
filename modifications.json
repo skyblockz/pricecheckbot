@@ -800,6 +800,16 @@
                     3350
                 ]
             },
+            "dctrs_space_helmet": {
+                "from": [
+                    569000000,
+                    900000000
+                ],
+                "to": [
+                    300000000,
+                    500000000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1001,7 +1011,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "466769036122783744": {
         "modification_history": {},
