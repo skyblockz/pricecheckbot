@@ -13747,12 +13747,6 @@
     },
     {
         "ac": true,
-        "hi": 600000,
-        "low": 550000,
-        "name": "turbo-wart_v"
-    },
-    {
-        "ac": true,
         "hi": 175000,
         "low": 165000,
         "name": "turbo-cacti_i"
@@ -14524,5 +14518,11 @@
         "hi": 40000,
         "low": 40000,
         "name": "turbo-warts_i"
+    },
+    {
+        "ac": true,
+        "hi": 600000,
+        "low": 550000,
+        "name": "turbo-warts_v"
     }
 ]
