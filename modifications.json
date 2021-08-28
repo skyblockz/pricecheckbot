@@ -760,6 +760,16 @@
                     450000
                 ]
             },
+            "crystal_leggings": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    525000,
+                    600000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -961,7 +971,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "466769036122783744": {
         "modification_history": {},
