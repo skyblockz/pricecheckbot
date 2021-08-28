@@ -378,6 +378,16 @@
                     75000
                 ]
             },
+            "blast_o_lantern": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -539,7 +549,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "466769036122783744": {
         "modification_history": {},
