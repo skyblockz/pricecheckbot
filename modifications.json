@@ -1397,6 +1397,16 @@
                     4500000
                 ]
             },
+            "ember_helmet": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    30000,
+                    45000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1458,7 +1468,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "565775808124289025": {
         "modification_history": {},
