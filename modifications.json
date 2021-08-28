@@ -70,9 +70,19 @@
                     11003,
                     12256
                 ]
+            },
+            "accessory_enrichment_swapper": {
+                "from": [
+                    69000,
+                    70000
+                ],
+                "to": [
+                    85000,
+                    95000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "466769036122783744": {
         "modification_history": {},
