@@ -368,6 +368,16 @@
                     125000
                 ]
             },
+            "biofuel": {
+                "from": [
+                    45000,
+                    50000
+                ],
+                "to": [
+                    37500,
+                    75000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -529,7 +539,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "466769036122783744": {
         "modification_history": {},
