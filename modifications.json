@@ -1717,6 +1717,16 @@
                     900000
                 ]
             },
+            "flamebreaker_helmet": {
+                "from": [
+                    400000,
+                    650000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1908,7 +1918,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "565775808124289025": {
         "modification_history": {},
