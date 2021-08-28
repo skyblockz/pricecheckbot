@@ -1347,6 +1347,16 @@
                     700000
                 ]
             },
+            "divers_trunks": {
+                "from": [
+                    960000,
+                    1050000
+                ],
+                "to": [
+                    700000,
+                    900000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1408,7 +1418,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "565775808124289025": {
         "modification_history": {},
