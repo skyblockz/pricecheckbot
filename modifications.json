@@ -555,6 +555,16 @@
                     2
                 ]
             },
+            "catalyst": {
+                "from": [
+                    120000,
+                    125000
+                ],
+                "to": [
+                    81124,
+                    80342
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -716,7 +726,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "466769036122783744": {
         "modification_history": {},
