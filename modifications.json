@@ -278,6 +278,16 @@
                     250000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    48000,
+                    48000
+                ],
+                "to": [
+                    95000,
+                    125000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     230000,
@@ -319,7 +329,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "466769036122783744": {
         "modification_history": {},
