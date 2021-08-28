@@ -13747,12 +13747,6 @@
     },
     {
         "ac": true,
-        "hi": 40000,
-        "low": 40000,
-        "name": "turbo-wart_i"
-    },
-    {
-        "ac": true,
         "hi": 800000,
         "low": 750000,
         "name": "turbo-wart_v"
@@ -14524,5 +14518,11 @@
         "hi": 475000000,
         "low": 469000000,
         "name": "blue_cheese_goblin_omelette"
+    },
+    {
+        "ac": true,
+        "hi": 40000,
+        "low": 40000,
+        "name": "turbo-warts_i"
     }
 ]
