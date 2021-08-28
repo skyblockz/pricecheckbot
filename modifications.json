@@ -1547,6 +1547,16 @@
                     2300000
                 ]
             },
+            "ender_chestplate": {
+                "from": [
+                    40000,
+                    50000
+                ],
+                "to": [
+                    40000,
+                    40000
+                ]
+            },
             "ender_leggings": {
                 "from": [
                     30000,
@@ -1748,7 +1758,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "565775808124289025": {
         "modification_history": {},
