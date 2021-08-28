@@ -258,6 +258,16 @@
                     2250000
                 ]
             },
+            "bandaged_mithril_pickaxe": {
+                "from": [
+                    70000,
+                    90000
+                ],
+                "to": [
+                    102500,
+                    125500
+                ]
+            },
             "control_switch": {
                 "from": [
                     200000,
@@ -369,7 +379,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "466769036122783744": {
         "modification_history": {},
