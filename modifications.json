@@ -597,12 +597,12 @@
             },
             "cleaver": {
                 "from": [
-                    30,
-                    30
-                ],
-                "to": [
                     100000,
                     150000
+                ],
+                "to": [
+                    30,
+                    40
                 ]
             },
             "common_beastmaster_crest": {
@@ -826,7 +826,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "466769036122783744": {
         "modification_history": {},
