@@ -595,6 +595,16 @@
                     4500000
                 ]
             },
+            "cleaver": {
+                "from": [
+                    30,
+                    30
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -806,7 +816,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "466769036122783744": {
         "modification_history": {},
