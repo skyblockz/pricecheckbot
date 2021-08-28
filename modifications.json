@@ -545,6 +545,16 @@
                     450000
                 ]
             },
+            "carrot": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    2,
+                    2
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -706,7 +716,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "466769036122783744": {
         "modification_history": {},
