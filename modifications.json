@@ -1277,6 +1277,16 @@
                     300000
                 ]
             },
+            "chestplate_of_divan": {
+                "from": [
+                    60000000,
+                    65000000
+                ],
+                "to": [
+                    46000000,
+                    48000000
+                ]
+            },
             "crystal_boots": {
                 "from": [
                     150000,
@@ -1378,7 +1388,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "565775808124289025": {
         "modification_history": {},
