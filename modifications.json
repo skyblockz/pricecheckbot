@@ -2250,6 +2250,16 @@
                     4000
                 ]
             },
+            "hardened_diamond_helmet": {
+                "from": [
+                    20000,
+                    20000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "lvl_100_epic_guardian": {
                 "from": [
                     2100000,
@@ -2411,7 +2421,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "676937120069189632": {
         "modification_history": {},
