@@ -1237,6 +1237,16 @@
                     50000
                 ]
             },
+            "bouncy_leggings": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1278,7 +1288,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "565775808124289025": {
         "modification_history": {},
