@@ -1057,6 +1057,16 @@
                     300000
                 ]
             },
+            "adaptive_helmet": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    2450000,
+                    2700000
+                ]
+            },
             "adaptive_leggings": {
                 "from": [
                     550000,
@@ -1068,7 +1078,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "565775808124289025": {
         "modification_history": {},
