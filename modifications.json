@@ -455,6 +455,16 @@
                     6750
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    2400000,
+                    2500000
+                ],
+                "to": [
+                    2675000,
+                    2750000
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -616,7 +626,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "466769036122783744": {
         "modification_history": {},
