@@ -388,6 +388,16 @@
                     5000
                 ]
             },
+            "blaze_powder": {
+                "from": [
+                    10,
+                    20
+                ],
+                "to": [
+                    15,
+                    20
+                ]
+            },
             "common_beastmaster_crest": {
                 "from": [
                     395000,
@@ -549,7 +559,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "466769036122783744": {
         "modification_history": {},
