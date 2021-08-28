@@ -1807,6 +1807,16 @@
                     3000000
                 ]
             },
+            "goldors_chestplate": {
+                "from": [
+                    22000000,
+                    23000000
+                ],
+                "to": [
+                    20500000,
+                    21500000
+                ]
+            },
             "goldors_helmet": {
                 "from": [
                     3000000,
@@ -1968,7 +1978,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "565775808124289025": {
         "modification_history": {},
