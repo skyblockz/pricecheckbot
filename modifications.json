@@ -2210,6 +2210,16 @@
                     15000
                 ]
             },
+            "goblin_boots": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    4000,
+                    4000
+                ]
+            },
             "lvl_100_epic_guardian": {
                 "from": [
                     2100000,
@@ -2371,7 +2381,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "676937120069189632": {
         "modification_history": {},
