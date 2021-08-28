@@ -2270,6 +2270,16 @@
                     12000
                 ]
             },
+            "hardened_diamond_leggings": {
+                "from": [
+                    100000,
+                    125000
+                ],
+                "to": [
+                    19000,
+                    20000
+                ]
+            },
             "lvl_100_epic_guardian": {
                 "from": [
                     2100000,
@@ -2431,7 +2441,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "676937120069189632": {
         "modification_history": {},
