@@ -1257,6 +1257,16 @@
                     100000
                 ]
             },
+            "cactus_knife": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "cheap_tuxedo_jacket": {
                 "from": [
                     600000,
@@ -1548,7 +1558,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "565775808124289025": {
         "modification_history": {},
