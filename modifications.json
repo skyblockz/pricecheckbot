@@ -1527,6 +1527,16 @@
                     1500000
                 ]
             },
+            "emerald_armor_leggings": {
+                "from": [
+                    600000,
+                    800000
+                ],
+                "to": [
+                    2000000,
+                    2300000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7500000,
@@ -1718,7 +1728,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "565775808124289025": {
         "modification_history": {},
