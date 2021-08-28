@@ -785,6 +785,16 @@
                     3000000
                 ]
             },
+            "super_cleaver": {
+                "from": [
+                    80000,
+                    80000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     125000,
@@ -816,7 +826,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "466769036122783744": {
         "modification_history": {},
