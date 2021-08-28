@@ -742,12 +742,12 @@
             },
             "crystal_helmet": {
                 "from": [
-                    180000,
-                    200000
-                ],
-                "to": [
                     375000,
                     500000
+                ],
+                "to": [
+                    300000,
+                    450000
                 ]
             },
             "electron_transmitter": {
@@ -951,7 +951,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "466769036122783744": {
         "modification_history": {},
