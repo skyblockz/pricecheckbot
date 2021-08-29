@@ -940,6 +940,16 @@
                     775045
                 ]
             },
+            "dwarven_tankard": {
+                "from": [
+                    50000,
+                    110000
+                ],
+                "to": [
+                    100000,
+                    175000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1191,7 +1201,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "466769036122783744": {
         "modification_history": {},
