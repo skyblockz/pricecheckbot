@@ -1230,6 +1230,16 @@
                     1132
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    540000,
+                    600000
+                ],
+                "to": [
+                    377145,
+                    338021
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -1471,7 +1481,7 @@
                 ]
             }
         },
-        "total_mods": 140
+        "total_mods": 141
     },
     "466769036122783744": {
         "modification_history": {},
