@@ -990,6 +990,16 @@
                     100
                 ]
             },
+            "egg": {
+                "from": [
+                    5,
+                    10
+                ],
+                "to": [
+                    8,
+                    9
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1241,7 +1251,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "466769036122783744": {
         "modification_history": {},
