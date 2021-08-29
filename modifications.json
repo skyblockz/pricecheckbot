@@ -1030,6 +1030,16 @@
                     12500
                 ]
             },
+            "ember_rod": {
+                "from": [
+                    1800000,
+                    1900000
+                ],
+                "to": [
+                    1250000,
+                    1500000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -1271,7 +1281,7 @@
                 ]
             }
         },
-        "total_mods": 120
+        "total_mods": 121
     },
     "466769036122783744": {
         "modification_history": {},
