@@ -840,6 +840,16 @@
                     7500
                 ]
             },
+            "desert_island": {
+                "from": [
+                    150,
+                    170
+                ],
+                "to": [
+                    50,
+                    75
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1041,7 +1051,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "466769036122783744": {
         "modification_history": {},
