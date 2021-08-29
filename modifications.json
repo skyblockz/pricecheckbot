@@ -830,6 +830,16 @@
                     4000
                 ]
             },
+            "defuse_kit": {
+                "from": [
+                    500,
+                    1000
+                ],
+                "to": [
+                    5000,
+                    7500
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1031,7 +1041,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "466769036122783744": {
         "modification_history": {},
