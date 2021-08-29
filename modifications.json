@@ -1040,6 +1040,16 @@
                     1500000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    386000,
+                    388000
+                ],
+                "to": [
+                    365000,
+                    400000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -1281,7 +1291,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "466769036122783744": {
         "modification_history": {},
