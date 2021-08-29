@@ -820,6 +820,16 @@
                     500000000
                 ]
             },
+            "decoy": {
+                "from": [
+                    4000,
+                    10000
+                ],
+                "to": [
+                    3125,
+                    4000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1021,7 +1031,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "466769036122783744": {
         "modification_history": {},
