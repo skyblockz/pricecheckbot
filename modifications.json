@@ -880,6 +880,16 @@
                     750000
                 ]
             },
+            "divan_fragment": {
+                "from": [
+                    650000,
+                    950000
+                ],
+                "to": [
+                    500000,
+                    600000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1081,7 +1091,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "466769036122783744": {
         "modification_history": {},
