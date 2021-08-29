@@ -910,6 +910,16 @@
                     3500000
                 ]
             },
+            "dungeon_chest_key": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    119000,
+                    175000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1161,7 +1171,7 @@
                 ]
             }
         },
-        "total_mods": 110
+        "total_mods": 111
     },
     "466769036122783744": {
         "modification_history": {},
