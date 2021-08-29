@@ -930,6 +930,16 @@
                     5000
                 ]
             },
+            "dwarven_super_compactor": {
+                "from": [
+                    640000,
+                    715000
+                ],
+                "to": [
+                    692740,
+                    775045
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     200000,
@@ -1181,7 +1191,7 @@
                 ]
             }
         },
-        "total_mods": 112
+        "total_mods": 113
     },
     "466769036122783744": {
         "modification_history": {},
