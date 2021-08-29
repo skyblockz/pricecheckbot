@@ -1719,12 +1719,12 @@
             },
             "bat_person_helmet": {
                 "from": [
-                    250000,
-                    400000
-                ],
-                "to": [
                     300000,
                     420000
+                ],
+                "to": [
+                    330000,
+                    450000
                 ]
             },
             "bat_person_leggings": {
@@ -2618,7 +2618,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "565775808124289025": {
         "modification_history": {},
