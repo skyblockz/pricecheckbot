@@ -1140,6 +1140,16 @@
                     55003
                 ]
             },
+            "enchanted_book_bundle": {
+                "from": [
+                    85000000,
+                    110000000
+                ],
+                "to": [
+                    67500000,
+                    68500000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -1381,7 +1391,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "466769036122783744": {
         "modification_history": {},
