@@ -1809,12 +1809,12 @@
             },
             "bouncy_helmet": {
                 "from": [
-                    30000,
-                    100000
-                ],
-                "to": [
                     40000,
                     50000
+                ],
+                "to": [
+                    30000,
+                    30000
                 ]
             },
             "bouncy_leggings": {
@@ -2618,7 +2618,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "565775808124289025": {
         "modification_history": {},
