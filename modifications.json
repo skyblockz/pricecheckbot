@@ -2657,6 +2657,16 @@
                     11500000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    625000,
+                    750000
+                ],
+                "to": [
+                    700000,
+                    700000
+                ]
+            },
             "tier_1_common_euclids_wheat_hoe": {
                 "from": [
                     1100000,
@@ -2748,7 +2758,7 @@
                 ]
             }
         },
-        "total_mods": 174
+        "total_mods": 175
     },
     "565775808124289025": {
         "modification_history": {},
