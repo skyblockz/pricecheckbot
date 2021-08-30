@@ -2439,12 +2439,12 @@
             },
             "golem_armor_leggings": {
                 "from": [
-                    125000,
-                    200000
-                ],
-                "to": [
                     145000,
                     160000
+                ],
+                "to": [
+                    150000,
+                    210000
                 ]
             },
             "hardened_diamond_chestplate": {
@@ -2628,7 +2628,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "565775808124289025": {
         "modification_history": {},
