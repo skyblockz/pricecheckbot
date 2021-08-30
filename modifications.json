@@ -1799,12 +1799,12 @@
             },
             "bouncy_chestplate": {
                 "from": [
-                    50000,
-                    100000
-                ],
-                "to": [
                     40000,
                     80000
+                ],
+                "to": [
+                    150000,
+                    200000
                 ]
             },
             "bouncy_helmet": {
@@ -2618,7 +2618,7 @@
                 ]
             }
         },
-        "total_mods": 116
+        "total_mods": 117
     },
     "565775808124289025": {
         "modification_history": {},
