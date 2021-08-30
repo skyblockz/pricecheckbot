@@ -2259,12 +2259,12 @@
             },
             "final_destination_helmet": {
                 "from": [
-                    1450000,
-                    1500000
-                ],
-                "to": [
                     1100000,
                     1400000
+                ],
+                "to": [
+                    1500000,
+                    1900000
                 ]
             },
             "final_destination_leggings": {
@@ -2628,7 +2628,7 @@
                 ]
             }
         },
-        "total_mods": 143
+        "total_mods": 144
     },
     "565775808124289025": {
         "modification_history": {},
