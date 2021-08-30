@@ -10297,12 +10297,6 @@
     },
     {
         "ac": true,
-        "hi": 45000000,
-        "low": 37500000,
-        "name": "rat_pet_lvl_100"
-    },
-    {
-        "ac": true,
         "hi": 240000,
         "low": 220000,
         "name": "pig_mask"
@@ -14476,5 +14470,11 @@
         "hi": 1000000,
         "low": 800000,
         "name": "lvl_1_legendary_rat"
+    },
+    {
+        "ac": true,
+        "hi": 45000000,
+        "low": 37500000,
+        "name": "lvl_100_legendary_rat"
     }
 ]
