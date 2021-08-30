@@ -1857,6 +1857,16 @@
                     350000
                 ]
             },
+            "cheap_tuxedo_pants": {
+                "from": [
+                    200000,
+                    350000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": [
                     60000000,
@@ -2618,7 +2628,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "565775808124289025": {
         "modification_history": {},
