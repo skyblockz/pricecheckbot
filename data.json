@@ -14305,12 +14305,6 @@
     },
     {
         "ac": true,
-        "hi": 66000000,
-        "low": 64000000,
-        "name": "lvl100_legendary_ammonite"
-    },
-    {
-        "ac": true,
         "hi": 12000000,
         "low": 8000000,
         "name": "end_rune_iii"
@@ -14476,5 +14470,11 @@
         "hi": 600000,
         "low": 550000,
         "name": "turbo-warts_v"
+    },
+    {
+        "ac": true,
+        "hi": 66000000,
+        "low": 64000000,
+        "name": "lvl_100_legendary_ammonite"
     }
 ]
