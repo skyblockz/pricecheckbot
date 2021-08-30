@@ -10297,12 +10297,6 @@
     },
     {
         "ac": true,
-        "hi": 1000000,
-        "low": 800000,
-        "name": "rat_pet_lvl_1"
-    },
-    {
-        "ac": true,
         "hi": 45000000,
         "low": 37500000,
         "name": "rat_pet_lvl_100"
@@ -14476,5 +14470,11 @@
         "hi": 66000000,
         "low": 64000000,
         "name": "lvl_100_legendary_ammonite"
+    },
+    {
+        "ac": true,
+        "hi": 1000000,
+        "low": 800000,
+        "name": "lvl_1_legendary_rat"
     }
 ]
