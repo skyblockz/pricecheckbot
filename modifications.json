@@ -2249,12 +2249,12 @@
             },
             "final_destination_chestplate": {
                 "from": [
-                    1600000,
-                    1700000
-                ],
-                "to": [
                     1850000,
                     1900000
+                ],
+                "to": [
+                    1500000,
+                    1800000
                 ]
             },
             "final_destination_helmet": {
@@ -2628,7 +2628,7 @@
                 ]
             }
         },
-        "total_mods": 145
+        "total_mods": 146
     },
     "565775808124289025": {
         "modification_history": {},
