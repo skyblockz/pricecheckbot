@@ -2009,12 +2009,12 @@
             },
             "ember_ash_boots": {
                 "from": [
-                    250000,
-                    400000
-                ],
-                "to": [
                     900000,
                     1000000
+                ],
+                "to": [
+                    1000000,
+                    1300000
                 ]
             },
             "ember_ash_chestplate": {
@@ -2628,7 +2628,7 @@
                 ]
             }
         },
-        "total_mods": 135
+        "total_mods": 136
     },
     "565775808124289025": {
         "modification_history": {},
