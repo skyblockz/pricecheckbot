@@ -2497,6 +2497,16 @@
                     50000
                 ]
             },
+            "heat_chestplate": {
+                "from": [
+                    25000,
+                    100000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "heat_leggings": {
                 "from": [
                     8000,
@@ -2658,7 +2668,7 @@
                 ]
             }
         },
-        "total_mods": 165
+        "total_mods": 166
     },
     "565775808124289025": {
         "modification_history": {},
