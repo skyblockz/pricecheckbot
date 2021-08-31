@@ -2060,6 +2060,16 @@
                     450000
                 ]
             },
+            "experiment_the_fish": {
+                "from": [
+                    50000,
+                    70000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     380000,
@@ -2301,7 +2311,7 @@
                 ]
             }
         },
-        "total_mods": 223
+        "total_mods": 224
     },
     "466769036122783744": {
         "modification_history": {},
