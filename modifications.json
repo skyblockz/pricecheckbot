@@ -241,6 +241,16 @@
                     150000000
                 ]
             },
+            "goldors_boots": {
+                "from": [
+                    1900000,
+                    2200000
+                ],
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
             "goldors_chestplate": {
                 "from": [
                     21000000,
@@ -1312,7 +1322,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "364186225382391809": {
         "modification_history": {},
