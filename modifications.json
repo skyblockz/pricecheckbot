@@ -461,6 +461,16 @@
                     19000000
                 ]
             },
+            "precursor_eye": {
+                "from": [
+                    25000000,
+                    25900000
+                ],
+                "to": [
+                    29000000,
+                    34000000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     200000,
@@ -1162,7 +1172,7 @@
                 ]
             }
         },
-        "total_mods": 113
+        "total_mods": 114
     },
     "364186225382391809": {
         "modification_history": {},
