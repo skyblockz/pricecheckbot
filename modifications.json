@@ -461,6 +461,16 @@
                     8000000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    75000,
+                    80000
+                ],
+                "to": [
+                    70000,
+                    150000
+                ]
+            },
             "maxors_boots": {
                 "from": [
                     1600000,
@@ -1462,7 +1472,7 @@
                 ]
             }
         },
-        "total_mods": 143
+        "total_mods": 144
     },
     "364186225382391809": {
         "modification_history": {},
