@@ -1380,6 +1380,16 @@
                     9628
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    65000,
+                    68000
+                ],
+                "to": [
+                    62209,
+                    65637
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -1621,7 +1631,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "466769036122783744": {
         "modification_history": {},
