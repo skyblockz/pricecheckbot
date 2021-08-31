@@ -4140,6 +4140,16 @@
                     8000000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    130000,
+                    135000
+                ],
+                "to": [
+                    173000,
+                    175000
+                ]
+            },
             "raggedy_shark_tooth_necklace": {
                 "from": [
                     14000,
@@ -4218,7 +4228,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "738319291648180315": {
         "modification_history": {
