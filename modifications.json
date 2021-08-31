@@ -81,6 +81,16 @@
                     2250000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    1250000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     325000,
@@ -732,7 +742,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "364186225382391809": {
         "modification_history": {},
