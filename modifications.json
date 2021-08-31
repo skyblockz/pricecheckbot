@@ -1910,6 +1910,16 @@
                     103072
                 ]
             },
+            "end_portal_frame": {
+                "from": [
+                    170000,
+                    200000
+                ],
+                "to": [
+                    62500,
+                    75000
+                ]
+            },
             "end_stone_bow": {
                 "from": [
                     5500,
@@ -2161,7 +2171,7 @@
                 ]
             }
         },
-        "total_mods": 209
+        "total_mods": 210
     },
     "466769036122783744": {
         "modification_history": {},
