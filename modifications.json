@@ -41,6 +41,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    325000,
+                    425000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "chimera_i": {
                 "from": [
                     69500000,
@@ -612,7 +622,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "364186225382391809": {
         "modification_history": {},
