@@ -4060,6 +4060,16 @@
                     21000000
                 ]
             },
+            "piggy_bank": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    121000,
+                    123000
+                ]
+            },
             "pocket_espresso_machine": {
                 "from": [
                     680000,
@@ -4128,7 +4138,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "738319291648180315": {
         "modification_history": {
