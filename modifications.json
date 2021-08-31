@@ -471,6 +471,16 @@
                     2750000
                 ]
             },
+            "terminator": {
+                "from": [
+                    750000000,
+                    875000000
+                ],
+                "to": [
+                    830000000,
+                    860000000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     120000,
@@ -592,7 +602,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "364186225382391809": {
         "modification_history": {},
