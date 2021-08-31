@@ -851,6 +851,16 @@
                     900000
                 ]
             },
+            "summoning_ring": {
+                "from": [
+                    11800000,
+                    12100000
+                ],
+                "to": [
+                    12500000,
+                    14000000
+                ]
+            },
             "superior_dragon_boots": {
                 "from": [
                     5300000,
@@ -1132,7 +1142,7 @@
                 ]
             }
         },
-        "total_mods": 110
+        "total_mods": 111
     },
     "364186225382391809": {
         "modification_history": {},
