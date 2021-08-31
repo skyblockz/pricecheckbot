@@ -1960,6 +1960,16 @@
                     100
                 ]
             },
+            "ender_bow": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    15000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2201,7 +2211,7 @@
                 ]
             }
         },
-        "total_mods": 213
+        "total_mods": 214
     },
     "466769036122783744": {
         "modification_history": {},
