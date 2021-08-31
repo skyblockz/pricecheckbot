@@ -471,6 +471,16 @@
                     50000
                 ]
             },
+            "rejuvenate_v": {
+                "from": [
+                    650000,
+                    660000
+                ],
+                "to": [
+                    750000,
+                    1250000
+                ]
+            },
             "revenant_boots": {
                 "from": [
                     90000,
@@ -942,7 +952,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "364186225382391809": {
         "modification_history": {},
