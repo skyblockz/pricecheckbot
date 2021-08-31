@@ -381,6 +381,16 @@
                     200000
                 ]
             },
+            "scarfs_studies": {
+                "from": [
+                    570000,
+                    625000
+                ],
+                "to": [
+                    550000,
+                    625000
+                ]
+            },
             "scythe_blade": {
                 "from": [
                     3600000,
@@ -652,7 +662,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "364186225382391809": {
         "modification_history": {},
