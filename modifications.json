@@ -91,6 +91,16 @@
                     1250000
                 ]
             },
+            "bigfoots_lasso": {
+                "from": [
+                    50000,
+                    125000
+                ],
+                "to": [
+                    20000,
+                    50000
+                ]
+            },
             "bonemerang": {
                 "from": [
                     3000000,
@@ -1402,7 +1412,7 @@
                 ]
             }
         },
-        "total_mods": 137
+        "total_mods": 138
     },
     "364186225382391809": {
         "modification_history": {},
