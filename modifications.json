@@ -371,6 +371,16 @@
                     8000000
                 ]
             },
+            "maxors_helmet": {
+                "from": [
+                    3500000,
+                    4200000
+                ],
+                "to": [
+                    2800000,
+                    3250000
+                ]
+            },
             "necromancer_lord_boots": {
                 "from": [
                     880000,
@@ -1242,7 +1252,7 @@
                 ]
             }
         },
-        "total_mods": 121
+        "total_mods": 122
     },
     "364186225382391809": {
         "modification_history": {},
