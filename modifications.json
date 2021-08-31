@@ -1031,6 +1031,16 @@
                     45000000
                 ]
             },
+            "thunderlord_vi": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    50000
+                ]
+            },
             "ultimate_wise_i": {
                 "from": [
                     180000,
@@ -1192,7 +1202,7 @@
                 ]
             }
         },
-        "total_mods": 116
+        "total_mods": 117
     },
     "364186225382391809": {
         "modification_history": {},
