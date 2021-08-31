@@ -1990,6 +1990,16 @@
                     120000
                 ]
             },
+            "endstone_rose": {
+                "from": [
+                    3000,
+                    7000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2231,7 +2241,7 @@
                 ]
             }
         },
-        "total_mods": 216
+        "total_mods": 217
     },
     "466769036122783744": {
         "modification_history": {},
