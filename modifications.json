@@ -941,6 +941,16 @@
                     3250000
                 ]
             },
+            "storms_helmet": {
+                "from": [
+                    2700000,
+                    2800000
+                ],
+                "to": [
+                    2500000,
+                    3250000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     660000,
@@ -1322,7 +1332,7 @@
                 ]
             }
         },
-        "total_mods": 129
+        "total_mods": 130
     },
     "364186225382391809": {
         "modification_history": {},
