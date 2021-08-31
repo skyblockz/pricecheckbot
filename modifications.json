@@ -871,6 +871,16 @@
                     900000
                 ]
             },
+            "scarf_fragment": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    15000,
+                    50000
+                ]
+            },
             "scarfs_grimoire": {
                 "from": [
                     10600000,
@@ -1452,7 +1462,7 @@
                 ]
             }
         },
-        "total_mods": 142
+        "total_mods": 143
     },
     "364186225382391809": {
         "modification_history": {},
