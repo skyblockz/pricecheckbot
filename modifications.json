@@ -51,6 +51,16 @@
                     800000
                 ]
             },
+            "adaptive_helmet": {
+                "from": [
+                    1900000,
+                    2400000
+                ],
+                "to": [
+                    1975000,
+                    2250000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     325000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "364186225382391809": {
         "modification_history": {},
