@@ -4000,6 +4000,16 @@
                     2600000
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    1950000,
+                    2000000
+                ],
+                "to": [
+                    2300000,
+                    2500000
+                ]
+            },
             "dull_shark_tooth_necklace": {
                 "from": [
                     39000,
@@ -4268,7 +4278,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "738319291648180315": {
         "modification_history": {
