@@ -231,6 +231,16 @@
                     60000
                 ]
             },
+            "fine_amber_gemstone": {
+                "from": [
+                    101000,
+                    116000
+                ],
+                "to": [
+                    60257,
+                    64602
+                ]
+            },
             "first_master_star": {
                 "from": [
                     15000000,
@@ -1712,7 +1722,7 @@
                 ]
             }
         },
-        "total_mods": 168
+        "total_mods": 169
     },
     "364186225382391809": {
         "modification_history": {},
