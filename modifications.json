@@ -1780,6 +1780,16 @@
                     49522
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    65000,
+                    68000
+                ],
+                "to": [
+                    66401,
+                    110000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2021,7 +2031,7 @@
                 ]
             }
         },
-        "total_mods": 195
+        "total_mods": 196
     },
     "466769036122783744": {
         "modification_history": {},
