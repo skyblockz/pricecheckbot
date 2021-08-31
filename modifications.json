@@ -651,6 +651,16 @@
                     860000000
                 ]
             },
+            "third_master_star": {
+                "from": [
+                    32000000,
+                    34000000
+                ],
+                "to": [
+                    41000000,
+                    45000000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     120000,
@@ -772,7 +782,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "364186225382391809": {
         "modification_history": {},
