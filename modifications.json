@@ -1980,6 +1980,16 @@
                     7
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    120000,
+                    135000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2221,7 +2231,7 @@
                 ]
             }
         },
-        "total_mods": 215
+        "total_mods": 216
     },
     "466769036122783744": {
         "modification_history": {},
