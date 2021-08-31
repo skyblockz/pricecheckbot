@@ -1930,6 +1930,16 @@
                     7500
                 ]
             },
+            "end_stone_geode": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    120000,
+                    150000
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2171,7 +2181,7 @@
                 ]
             }
         },
-        "total_mods": 210
+        "total_mods": 211
     },
     "466769036122783744": {
         "modification_history": {},
