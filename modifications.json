@@ -1950,6 +1950,16 @@
                     200000
                 ]
             },
+            "end_sword": {
+                "from": [
+                    150,
+                    150
+                ],
+                "to": [
+                    97,
+                    100
+                ]
+            },
             "epic_beastmaster_crest": {
                 "from": [
                     9700000,
@@ -2191,7 +2201,7 @@
                 ]
             }
         },
-        "total_mods": 212
+        "total_mods": 213
     },
     "466769036122783744": {
         "modification_history": {},
