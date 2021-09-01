@@ -5591,6 +5591,16 @@
                     4000
                 ]
             },
+            "green_egged_skin": {
+                "from": [
+                    4000000,
+                    6000000
+                ],
+                "to": [
+                    9000000,
+                    10000000
+                ]
+            },
             "hardened_diamond_boots": {
                 "from": [
                     45000,
@@ -5842,7 +5852,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "676937120069189632": {
         "modification_history": {},
