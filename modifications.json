@@ -1201,6 +1201,16 @@
                     400000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    3100000,
+                    3500000
+                ],
+                "to": [
+                    4200000,
+                    5000000
+                ]
+            },
             "rough_amber_gemstone": {
                 "from": [
                     13,
@@ -1932,7 +1942,7 @@
                 ]
             }
         },
-        "total_mods": 227
+        "total_mods": 228
     },
     "364186225382391809": {
         "modification_history": {},
