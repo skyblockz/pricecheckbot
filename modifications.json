@@ -6045,6 +6045,16 @@
                     1000000
                 ]
             },
+            "snow_suit_boots": {
+                "from": [
+                    15000,
+                    50000
+                ],
+                "to": [
+                    67000,
+                    70000
+                ]
+            },
             "superior_dragon_chestplate": {
                 "from": [
                     9400000,
@@ -6176,7 +6186,7 @@
                 ]
             }
         },
-        "total_mods": 252
+        "total_mods": 253
     },
     "565775808124289025": {
         "modification_history": {},
