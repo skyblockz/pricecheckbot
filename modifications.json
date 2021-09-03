@@ -1944,6 +1944,16 @@
                     11400
                 ]
             },
+            "gemstone_chamber": {
+                "from": [
+                    20600000,
+                    20700000
+                ],
+                "to": [
+                    17100000,
+                    17100000
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     42200000,
@@ -2242,7 +2252,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395028811399299082": {
         "modification_history": {},
