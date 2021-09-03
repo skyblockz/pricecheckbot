@@ -4361,6 +4361,16 @@
                     21000000
                 ]
             },
+            "light_bait": {
+                "from": [
+                    44,
+                    71
+                ],
+                "to": [
+                    20,
+                    27
+                ]
+            },
             "medium_backpack": {
                 "from": [
                     48000,
@@ -4542,7 +4552,7 @@
                 ]
             }
         },
-        "total_mods": 230
+        "total_mods": 231
     },
     "466769036122783744": {
         "modification_history": {},
