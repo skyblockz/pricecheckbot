@@ -5995,6 +5995,16 @@
                     180000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    140000,
+                    200000
+                ]
+            },
             "pumpkin_dicer": {
                 "from": [
                     1100000,
@@ -6236,7 +6246,7 @@
                 ]
             }
         },
-        "total_mods": 258
+        "total_mods": 259
     },
     "565775808124289025": {
         "modification_history": {},
