@@ -1954,6 +1954,16 @@
                     30000000
                 ]
             },
+            "necrons_boots": {
+                "from": [
+                    12700000,
+                    15000000
+                ],
+                "to": [
+                    12700000,
+                    12700000
+                ]
+            },
             "necrons_chestplate": {
                 "from": [
                     32600000,
@@ -2042,7 +2052,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "395028811399299082": {
         "modification_history": {},
