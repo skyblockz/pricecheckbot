@@ -5407,12 +5407,12 @@
             },
             "fancy_tuxedo_pants": {
                 "from": [
-                    2800000,
-                    4000000
-                ],
-                "to": [
                     1800000,
                     3300000
+                ],
+                "to": [
+                    2400000,
+                    3000000
                 ]
             },
             "final_destination_boots": {
@@ -5936,7 +5936,7 @@
                 ]
             }
         },
-        "total_mods": 210
+        "total_mods": 211
     },
     "565775808124289025": {
         "modification_history": {},
