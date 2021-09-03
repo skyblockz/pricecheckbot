@@ -5467,12 +5467,12 @@
             },
             "flamebreaker_chestplate": {
                 "from": [
-                    670000,
-                    900000
-                ],
-                "to": [
                     700000,
                     780000
+                ],
+                "to": [
+                    660000,
+                    850000
                 ]
             },
             "flamebreaker_helmet": {
@@ -5936,7 +5936,7 @@
                 ]
             }
         },
-        "total_mods": 219
+        "total_mods": 220
     },
     "565775808124289025": {
         "modification_history": {},
