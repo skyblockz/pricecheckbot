@@ -5447,12 +5447,12 @@
             },
             "final_destination_leggings": {
                 "from": [
-                    1300000,
-                    1500000
-                ],
-                "to": [
                     1200000,
                     1400000
+                ],
+                "to": [
+                    1000000,
+                    1100000
                 ]
             },
             "flamebreaker_boots": {
@@ -5936,7 +5936,7 @@
                 ]
             }
         },
-        "total_mods": 214
+        "total_mods": 215
     },
     "565775808124289025": {
         "modification_history": {},
