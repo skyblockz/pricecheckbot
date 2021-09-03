@@ -5697,12 +5697,12 @@
             },
             "heat_leggings": {
                 "from": [
-                    8000,
-                    9000
-                ],
-                "to": [
                     20000,
                     25000
+                ],
+                "to": [
+                    50000,
+                    60000
                 ]
             },
             "helmet_of_divan": {
@@ -5936,7 +5936,7 @@
                 ]
             }
         },
-        "total_mods": 225
+        "total_mods": 226
     },
     "565775808124289025": {
         "modification_history": {},
