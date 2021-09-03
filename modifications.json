@@ -4441,6 +4441,13 @@
                     250000
                 ]
             },
+            "game_annihilator": {
+                "from": null,
+                "to": [
+                    20000000000,
+                    30000000000
+                ]
+            },
             "greater_backpack": {
                 "from": [
                     550000,
@@ -4732,7 +4739,7 @@
                 ]
             }
         },
-        "total_mods": 249
+        "total_mods": 250
     },
     "466769036122783744": {
         "modification_history": {},
