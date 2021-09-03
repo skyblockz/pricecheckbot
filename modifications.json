@@ -1721,6 +1721,16 @@
                     50000
                 ]
             },
+            "transmission_tuner": {
+                "from": [
+                    100000,
+                    170000
+                ],
+                "to": [
+                    80000,
+                    150000
+                ]
+            },
             "ultimate_wise_i": {
                 "from": [
                     120000,
@@ -1972,7 +1982,7 @@
                 ]
             }
         },
-        "total_mods": 270
+        "total_mods": 271
     },
     "364186225382391809": {
         "modification_history": {},
