@@ -4897,12 +4897,12 @@
             },
             "angler_helmet": {
                 "from": [
-                    74,
-                    85
-                ],
-                "to": [
                     70,
                     80
+                ],
+                "to": [
+                    100,
+                    100
                 ]
             },
             "armor_of_magma_boots": {
@@ -6426,7 +6426,7 @@
                 ]
             }
         },
-        "total_mods": 280
+        "total_mods": 281
     },
     "565775808124289025": {
         "modification_history": {},
