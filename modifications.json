@@ -540,6 +540,16 @@
                     2000000
                 ]
             },
+            "defense_enrichment": {
+                "from": [
+                    1700000,
+                    1750000
+                ],
+                "to": [
+                    1850000,
+                    2000000
+                ]
+            },
             "eternal_hoof": {
                 "from": [
                     5500000,
@@ -621,7 +631,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "738319291648180315": {
         "modification_history": {
