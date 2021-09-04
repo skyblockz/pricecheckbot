@@ -560,6 +560,16 @@
                     7800000
                 ]
             },
+            "health_enrichment": {
+                "from": [
+                    1800000,
+                    1900000
+                ],
+                "to": [
+                    1850000,
+                    2000000
+                ]
+            },
             "lucky_hoof": {
                 "from": [
                     400000,
@@ -631,7 +641,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "738319291648180315": {
         "modification_history": {
