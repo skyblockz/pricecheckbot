@@ -221,6 +221,16 @@
                     3500000
                 ]
             },
+            "mathematical_hoe_blueprint": {
+                "from": [
+                    1100000,
+                    1200000
+                ],
+                "to": [
+                    8000000,
+                    1250000
+                ]
+            },
             "second_master_star": {
                 "from": [
                     30250000,
@@ -242,7 +252,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "466769036122783744": {
         "modification_history": {},
