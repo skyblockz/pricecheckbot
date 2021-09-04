@@ -520,6 +520,16 @@
                     500000
                 ]
             },
+            "critical_chance_enrichment": {
+                "from": [
+                    1700000,
+                    1800000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "eternal_hoof": {
                 "from": [
                     5500000,
@@ -601,7 +611,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "738319291648180315": {
         "modification_history": {
