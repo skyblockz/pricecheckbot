@@ -580,6 +580,16 @@
                     1900000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    375000,
+                    455000
+                ],
+                "to": [
+                    400000,
+                    410000
+                ]
+            },
             "health_enrichment": {
                 "from": [
                     1800000,
@@ -698,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "738319291648180315": {
         "modification_history": {
