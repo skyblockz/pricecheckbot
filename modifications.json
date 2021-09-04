@@ -190,9 +190,19 @@
                     7,
                     9
                 ]
+            },
+            "mana_flux_power_orb": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    3200000,
+                    3500000
+                ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "466769036122783744": {
         "modification_history": {},
