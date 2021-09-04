@@ -610,6 +610,16 @@
                     1250000
                 ]
             },
+            "hologram": {
+                "from": [
+                    290000,
+                    390000
+                ],
+                "to": [
+                    325000,
+                    350000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1500000,
@@ -718,7 +728,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "738319291648180315": {
         "modification_history": {
