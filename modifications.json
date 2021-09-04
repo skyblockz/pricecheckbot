@@ -750,6 +750,16 @@
                     755000
                 ]
             },
+            "minion_storage_x-pender": {
+                "from": [
+                    490000,
+                    545000
+                ],
+                "to": [
+                    600000,
+                    625000
+                ]
+            },
             "sea_creature_enrichment": {
                 "from": null,
                 "to": [
@@ -778,7 +788,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "738319291648180315": {
         "modification_history": {
