@@ -600,6 +600,16 @@
                     2000000
                 ]
             },
+            "heat_core": {
+                "from": [
+                    980000,
+                    980000
+                ],
+                "to": [
+                    1100000,
+                    1250000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1500000,
@@ -708,7 +718,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "738319291648180315": {
         "modification_history": {
