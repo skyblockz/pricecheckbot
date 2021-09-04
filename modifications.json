@@ -4967,12 +4967,12 @@
             },
             "armor_of_magma_leggings": {
                 "from": [
-                    110000,
-                    180000
-                ],
-                "to": [
                     300000,
                     400000
+                ],
+                "to": [
+                    250000,
+                    350000
                 ]
             },
             "bat_person_boots": {
@@ -6476,7 +6476,7 @@
                 ]
             }
         },
-        "total_mods": 288
+        "total_mods": 289
     },
     "565775808124289025": {
         "modification_history": {},
