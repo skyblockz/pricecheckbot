@@ -100,9 +100,19 @@
                     19,
                     22
                 ]
+            },
+            "lesser_orb_of_healing": {
+                "from": [
+                    63000,
+                    70000
+                ],
+                "to": [
+                    90000,
+                    120000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "466769036122783744": {
         "modification_history": {},
