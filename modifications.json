@@ -90,9 +90,19 @@
                     1600000,
                     1750000
                 ]
+            },
+            "leather": {
+                "from": [
+                    15,
+                    18
+                ],
+                "to": [
+                    19,
+                    22
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "466769036122783744": {
         "modification_history": {},
