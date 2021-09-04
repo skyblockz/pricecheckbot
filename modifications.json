@@ -150,9 +150,19 @@
                     700000,
                     1000000
                 ]
+            },
+            "magical_milk_bucket": {
+                "from": [
+                    100000,
+                    300000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "466769036122783744": {
         "modification_history": {},
