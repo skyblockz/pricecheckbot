@@ -231,6 +231,16 @@
                     1250000
                 ]
             },
+            "maxor_the_fish": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "second_master_star": {
                 "from": [
                     30250000,
@@ -252,7 +262,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "466769036122783744": {
         "modification_history": {},
