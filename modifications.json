@@ -620,6 +620,16 @@
                     350000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    99000,
+                    99000
+                ],
+                "to": [
+                    90000,
+                    110000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1500000,
@@ -728,7 +738,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "738319291648180315": {
         "modification_history": {
