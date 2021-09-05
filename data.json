@@ -7585,12 +7585,6 @@
     },
     {
         "ac": true,
-        "hi": 60000000,
-        "low": 45000000,
-        "name": "lvl_100_legendary_griffin"
-    },
-    {
-        "ac": true,
         "hi": 600000,
         "low": 580000,
         "name": "lvl_1_epic_megalodon"
@@ -14500,5 +14494,11 @@
         "hi": 68000000,
         "low": 64000000,
         "name": "level_100_legendary_ammonite"
+    },
+    {
+        "ac": true,
+        "hi": 60000000,
+        "low": 45000000,
+        "name": "level_100_legendary_griffin"
     }
 ]
