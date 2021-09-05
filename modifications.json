@@ -852,6 +852,16 @@
                     790000
                 ]
             },
+            "day_saver": {
+                "from": [
+                    3250,
+                    3350
+                ],
+                "to": [
+                    500,
+                    2500
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     8900,
@@ -1663,7 +1673,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "676937120069189632": {
         "modification_history": {},
