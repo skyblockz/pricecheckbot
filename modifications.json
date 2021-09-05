@@ -772,6 +772,16 @@
                     389950000
                 ]
             },
+            "budget_hopper": {
+                "from": [
+                    3000,
+                    30000
+                ],
+                "to": [
+                    6000,
+                    6000
+                ]
+            },
             "dungeon_chest_key": {
                 "from": [
                     119000,
@@ -1093,7 +1103,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "676937120069189632": {
         "modification_history": {},
