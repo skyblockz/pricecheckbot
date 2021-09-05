@@ -932,6 +932,16 @@
                     200000
                 ]
             },
+            "old_dragon_leggings": {
+                "from": [
+                    220000,
+                    220000
+                ],
+                "to": [
+                    190000,
+                    220000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     160000,
@@ -1283,7 +1293,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "676937120069189632": {
         "modification_history": {},
