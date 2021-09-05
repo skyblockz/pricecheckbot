@@ -1861,6 +1861,16 @@
                     80000
                 ]
             },
+            "adaptive_blade": {
+                "from": [
+                    650000,
+                    825000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "atomsplit_katana": {
                 "from": [
                     145000000,
@@ -2279,7 +2289,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "738319291648180315": {
         "modification_history": {
