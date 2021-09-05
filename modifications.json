@@ -762,6 +762,16 @@
                     5000000
                 ]
             },
+            "blast_o_lantern": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    2000,
+                    4000
+                ]
+            },
             "block_zapper": {
                 "from": [
                     1800000,
@@ -1623,7 +1633,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "676937120069189632": {
         "modification_history": {},
