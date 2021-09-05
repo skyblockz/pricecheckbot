@@ -1042,6 +1042,16 @@
                     120000
                 ]
             },
+            "magical_mushroom_soup": {
+                "from": [
+                    40,
+                    50
+                ],
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     430,
@@ -1643,7 +1653,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "676937120069189632": {
         "modification_history": {},
