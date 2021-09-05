@@ -379,6 +379,16 @@
                     300000
                 ]
             },
+            "armor_of_magma_leggings": {
+                "from": [
+                    250000,
+                    350000
+                ],
+                "to": [
+                    400000,
+                    400000
+                ]
+            },
             "helix": {
                 "from": [
                     120000,
@@ -420,7 +430,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "565775808124289025": {
         "modification_history": {},
