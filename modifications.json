@@ -1322,6 +1322,16 @@
                     2200000
                 ]
             },
+            "young_dragon_helmet": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "zombie_commander_whip": {
                 "from": [
                     10000,
@@ -1343,7 +1353,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "676937120069189632": {
         "modification_history": {},
