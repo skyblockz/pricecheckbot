@@ -952,6 +952,16 @@
                     220000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    140000,
+                    180000
+                ],
+                "to": [
+                    179000,
+                    200000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     160000,
@@ -1303,7 +1313,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "676937120069189632": {
         "modification_history": {},
