@@ -1452,6 +1452,16 @@
                     4900
                 ]
             },
+            "vaccine_talisman": {
+                "from": [
+                    150,
+                    200
+                ],
+                "to": [
+                    90,
+                    200
+                ]
+            },
             "weak_wolf_catalyst": {
                 "from": [
                     27000,
@@ -1583,7 +1593,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "676937120069189632": {
         "modification_history": {},
