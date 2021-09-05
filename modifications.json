@@ -2428,6 +2428,16 @@
                     625000
                 ]
             },
+            "rare_ice_spray_wand": {
+                "from": [
+                    23200000,
+                    24000000
+                ],
+                "to": [
+                    26000000,
+                    28000000
+                ]
+            },
             "sea_creature_enrichment": {
                 "from": null,
                 "to": [
@@ -2506,7 +2516,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "738319291648180315": {
         "modification_history": {
