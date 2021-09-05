@@ -932,6 +932,16 @@
                     600000
                 ]
             },
+            "jungle_axe": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     430,
@@ -1433,7 +1443,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "676937120069189632": {
         "modification_history": {},
