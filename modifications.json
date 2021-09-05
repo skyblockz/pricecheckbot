@@ -952,6 +952,16 @@
                     300000
                 ]
             },
+            "wolf_talisman": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    2200000,
+                    2200000
+                ]
+            },
             "zombie_commander_whip": {
                 "from": [
                     10000,
@@ -973,7 +983,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "676937120069189632": {
         "modification_history": {},
