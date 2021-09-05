@@ -912,6 +912,16 @@
                     1000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    140000,
+                    200000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     160000,
@@ -1263,7 +1273,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "676937120069189632": {
         "modification_history": {},
