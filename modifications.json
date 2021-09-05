@@ -2278,6 +2278,16 @@
                     320000
                 ]
             },
+            "green_jerry_talisman": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    990000,
+                    110000
+                ]
+            },
             "health_enrichment": {
                 "from": [
                     1800000,
@@ -2936,7 +2946,7 @@
                 ]
             }
         },
-        "total_mods": 106
+        "total_mods": 107
     },
     "738319291648180315": {
         "modification_history": {
