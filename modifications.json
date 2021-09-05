@@ -1412,6 +1412,16 @@
                     1380000
                 ]
             },
+            "training_dummy": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     1900000,
@@ -1593,7 +1603,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "676937120069189632": {
         "modification_history": {},
