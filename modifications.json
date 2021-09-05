@@ -832,6 +832,16 @@
                     950000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    800000,
+                    930000
+                ]
+            },
             "zombie_commander_whip": {
                 "from": [
                     10000,
@@ -853,7 +863,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "676937120069189632": {
         "modification_history": {},
