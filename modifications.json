@@ -1012,6 +1012,16 @@
                     5000
                 ]
             },
+            "lantern_helmet": {
+                "from": [
+                    110000,
+                    120000
+                ],
+                "to": [
+                    119000,
+                    120000
+                ]
+            },
             "magical_water_bucket": {
                 "from": [
                     430,
@@ -1603,7 +1613,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "676937120069189632": {
         "modification_history": {},
