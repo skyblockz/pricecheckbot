@@ -742,6 +742,16 @@
                     170000
                 ]
             },
+            "ender_bow": {
+                "from": [
+                    10000,
+                    15000
+                ],
+                "to": [
+                    39000,
+                    40000
+                ]
+            },
             "epic_zombie_knight_sword": {
                 "from": [
                     6000,
@@ -923,7 +933,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "676937120069189632": {
         "modification_history": {},
