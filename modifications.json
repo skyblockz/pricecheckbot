@@ -359,6 +359,16 @@
                     300000
                 ]
             },
+            "armor_of_magma_helmet": {
+                "from": [
+                    300000,
+                    300000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "helix": {
                 "from": [
                     120000,
@@ -400,7 +410,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "565775808124289025": {
         "modification_history": {},
