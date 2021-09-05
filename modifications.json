@@ -1092,6 +1092,16 @@
                     150000
                 ]
             },
+            "rare_farming_exp_boost": {
+                "from": [
+                    590000,
+                    600000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     300000,
@@ -1503,7 +1513,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "676937120069189632": {
         "modification_history": {},
