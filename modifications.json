@@ -1022,6 +1022,16 @@
                     300000
                 ]
             },
+            "turbo-warts_i": {
+                "from": [
+                    40000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    30000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     5000,
@@ -1083,7 +1093,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "676937120069189632": {
         "modification_history": {},
