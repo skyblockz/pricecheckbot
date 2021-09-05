@@ -1122,6 +1122,16 @@
                     650000
                 ]
             },
+            "rare_mining_exp_boost": {
+                "from": [
+                    575000,
+                    645000
+                ],
+                "to": [
+                    600000,
+                    640000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     300000,
@@ -1533,7 +1543,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "676937120069189632": {
         "modification_history": {},
