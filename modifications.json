@@ -1052,6 +1052,16 @@
                     600000
                 ]
             },
+            "snow_shovel": {
+                "from": [
+                    25000,
+                    25000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "snow_suit_boots": {
                 "from": [
                     67000,
@@ -1393,7 +1403,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "676937120069189632": {
         "modification_history": {},
