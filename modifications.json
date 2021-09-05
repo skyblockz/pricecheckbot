@@ -282,6 +282,16 @@
                     2500
                 ]
             },
+            "spirit_sword": {
+                "from": [
+                    1500000,
+                    2250000
+                ],
+                "to": [
+                    1500000,
+                    2000000
+                ]
+            },
             "superboom_tnt": {
                 "from": [
                     3000,
@@ -303,7 +313,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "466769036122783744": {
         "modification_history": {},
