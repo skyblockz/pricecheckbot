@@ -762,6 +762,16 @@
                     5000000
                 ]
             },
+            "block_zapper": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "blue_cheese_goblin_omelette": {
                 "from": [
                     469000000,
@@ -1413,7 +1423,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "676937120069189632": {
         "modification_history": {},
