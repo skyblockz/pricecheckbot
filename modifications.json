@@ -272,6 +272,16 @@
                     32500000
                 ]
             },
+            "spirit_leap": {
+                "from": [
+                    1000,
+                    1500
+                ],
+                "to": [
+                    2187,
+                    2500
+                ]
+            },
             "superboom_tnt": {
                 "from": [
                     3000,
@@ -293,7 +303,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "466769036122783744": {
         "modification_history": {},
