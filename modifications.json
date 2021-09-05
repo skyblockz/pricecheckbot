@@ -1692,6 +1692,16 @@
                     200
                 ]
             },
+            "voidling_minion_i": {
+                "from": [
+                    140000,
+                    145000
+                ],
+                "to": [
+                    300000,
+                    500000
+                ]
+            },
             "weak_wolf_catalyst": {
                 "from": [
                     27000,
@@ -1833,7 +1843,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "676937120069189632": {
         "modification_history": {},
