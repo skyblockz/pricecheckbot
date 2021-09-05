@@ -1861,6 +1861,16 @@
                     80000
                 ]
             },
+            "atomsplit_katana": {
+                "from": [
+                    145000000,
+                    148000000
+                ],
+                "to": [
+                    107000000,
+                    110000000
+                ]
+            },
             "attack_speed_enrichment": {
                 "from": [
                     1700000,
@@ -2269,7 +2279,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "738319291648180315": {
         "modification_history": {
