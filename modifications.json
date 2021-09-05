@@ -812,6 +812,16 @@
                     150000
                 ]
             },
+            "common_mining_exp_boost": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    190000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     925000,
@@ -1523,7 +1533,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "676937120069189632": {
         "modification_history": {},
