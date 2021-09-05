@@ -309,6 +309,16 @@
     },
     "565668065153384459": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    200000,
+                    290000
+                ],
+                "to": [
+                    185000,
+                    300000
+                ]
+            },
             "helix": {
                 "from": [
                     120000,
@@ -350,7 +360,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "565775808124289025": {
         "modification_history": {},
