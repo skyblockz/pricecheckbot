@@ -962,6 +962,16 @@
                     1000
                 ]
             },
+            "magnetic_talisman": {
+                "from": [
+                    900,
+                    1000
+                ],
+                "to": [
+                    1000,
+                    2000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     138000,
@@ -1473,7 +1483,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "676937120069189632": {
         "modification_history": {},
