@@ -772,6 +772,16 @@
                     600000
                 ]
             },
+            "raider_axe": {
+                "from": [
+                    160000,
+                    160000
+                ],
+                "to": [
+                    150000,
+                    150000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     570000,
@@ -843,7 +853,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "676937120069189632": {
         "modification_history": {},
