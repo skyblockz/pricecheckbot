@@ -852,6 +852,16 @@
                     1900000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    365000,
+                    400000
+                ],
+                "to": [
+                    350000,
+                    360000
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     1300000,
@@ -1483,7 +1493,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "676937120069189632": {
         "modification_history": {},
