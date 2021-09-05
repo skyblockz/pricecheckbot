@@ -1132,6 +1132,16 @@
                     150000
                 ]
             },
+            "rare_combat_exp_boost": {
+                "from": [
+                    145000,
+                    170000
+                ],
+                "to": [
+                    90000,
+                    150000
+                ]
+            },
             "rare_farming_exp_boost": {
                 "from": [
                     590000,
@@ -1573,7 +1583,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "676937120069189632": {
         "modification_history": {},
