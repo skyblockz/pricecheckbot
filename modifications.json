@@ -912,6 +912,16 @@
                     360000
                 ]
             },
+            "enchanted_bookshelf": {
+                "from": [
+                    4000,
+                    9000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "enchanted_hopper": {
                 "from": [
                     1300000,
@@ -1683,7 +1693,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "676937120069189632": {
         "modification_history": {},
