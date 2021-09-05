@@ -1072,6 +1072,16 @@
                     2000
                 ]
             },
+            "mystical_mushroom_soup": {
+                "from": [
+                    20000,
+                    35000
+                ],
+                "to": [
+                    5000,
+                    10000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     138000,
@@ -1653,7 +1663,7 @@
                 ]
             }
         },
-        "total_mods": 93
+        "total_mods": 94
     },
     "676937120069189632": {
         "modification_history": {},
