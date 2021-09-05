@@ -962,6 +962,16 @@
                     4900
                 ]
             },
+            "weak_wolf_catalyst": {
+                "from": [
+                    27000,
+                    30000
+                ],
+                "to": [
+                    50000,
+                    90000
+                ]
+            },
             "wolf_ring": {
                 "from": [
                     2150000,
@@ -1003,7 +1013,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "676937120069189632": {
         "modification_history": {},
