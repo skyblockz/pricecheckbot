@@ -2248,6 +2248,16 @@
                     410000
                 ]
             },
+            "golem_sword": {
+                "from": [
+                    343000,
+                    345000
+                ],
+                "to": [
+                    280000,
+                    320000
+                ]
+            },
             "health_enrichment": {
                 "from": [
                     1800000,
@@ -2496,7 +2506,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "738319291648180315": {
         "modification_history": {
