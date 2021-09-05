@@ -962,6 +962,16 @@
                     600000
                 ]
             },
+            "snow_suit_helmet": {
+                "from": [
+                    177000,
+                    245000
+                ],
+                "to": [
+                    35000,
+                    80000
+                ]
+            },
             "spider_boots": {
                 "from": [
                     360000,
@@ -1143,7 +1153,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "676937120069189632": {
         "modification_history": {},
