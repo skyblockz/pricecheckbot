@@ -862,6 +862,16 @@
                     720000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    25000,
+                    35000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     570000,
@@ -1013,7 +1023,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "676937120069189632": {
         "modification_history": {},
