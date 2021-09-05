@@ -2308,6 +2308,16 @@
                     700000
                 ]
             },
+            "ink_wand": {
+                "from": [
+                    1880000,
+                    2100000
+                ],
+                "to": [
+                    3100000,
+                    3300000
+                ]
+            },
             "intelligence_enrichment": {
                 "from": [
                     1500000,
@@ -2516,7 +2526,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "738319291648180315": {
         "modification_history": {
