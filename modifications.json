@@ -782,6 +782,16 @@
                     150000
                 ]
             },
+            "spider_boots": {
+                "from": [
+                    360000,
+                    375000
+                ],
+                "to": [
+                    699000,
+                    720000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     570000,
@@ -863,7 +873,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "676937120069189632": {
         "modification_history": {},
