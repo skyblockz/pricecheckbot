@@ -892,6 +892,16 @@
                     600000
                 ]
             },
+            "magical_water_bucket": {
+                "from": [
+                    430,
+                    480
+                ],
+                "to": [
+                    1000,
+                    1000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     160000,
@@ -1123,7 +1133,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "676937120069189632": {
         "modification_history": {},
