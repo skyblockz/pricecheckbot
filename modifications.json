@@ -2645,6 +2645,16 @@
                     300000
                 ]
             },
+            "silk-edge_sword": {
+                "from": [
+                    2700000,
+                    3000000
+                ],
+                "to": [
+                    2700000,
+                    2800000
+                ]
+            },
             "speed_artifact": {
                 "from": [
                     2700000,
@@ -2726,7 +2736,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "738319291648180315": {
         "modification_history": {
