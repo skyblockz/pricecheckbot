@@ -962,6 +962,16 @@
                     220000
                 ]
             },
+            "polished_pebble": {
+                "from": [
+                    90000,
+                    140000
+                ],
+                "to": [
+                    10000,
+                    70000
+                ]
+            },
             "protector_dragon_boots": {
                 "from": [
                     150000,
@@ -1403,7 +1413,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "676937120069189632": {
         "modification_history": {},
