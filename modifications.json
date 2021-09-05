@@ -1412,6 +1412,16 @@
                     30000
                 ]
             },
+            "uncommon_combat_exp_boost": {
+                "from": [
+                    70000,
+                    70000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     5000,
@@ -1553,7 +1563,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "676937120069189632": {
         "modification_history": {},
