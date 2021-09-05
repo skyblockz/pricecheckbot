@@ -1192,6 +1192,16 @@
                     2590000
                 ]
             },
+            "sea_lantern_hat": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    9999,
+                    9999
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     67900000,
@@ -1613,7 +1623,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "676937120069189632": {
         "modification_history": {},
