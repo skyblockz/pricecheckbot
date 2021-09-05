@@ -792,6 +792,16 @@
                     790000
                 ]
             },
+            "diamond_spreading": {
+                "from": [
+                    8900,
+                    10000
+                ],
+                "to": [
+                    13500,
+                    13500
+                ]
+            },
             "dungeon_chest_key": {
                 "from": [
                     119000,
@@ -1383,7 +1393,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "676937120069189632": {
         "modification_history": {},
