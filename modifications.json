@@ -1639,6 +1639,16 @@
                     3150000
                 ]
             },
+            "forest_biome_stick": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     600000,
@@ -2667,7 +2677,7 @@
                 ]
             }
         },
-        "total_mods": 160
+        "total_mods": 161
     },
     "676937120069189632": {
         "modification_history": {},
