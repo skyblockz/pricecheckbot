@@ -472,6 +472,16 @@
                     8000000
                 ]
             },
+            "pioneer_pickaxe": {
+                "from": [
+                    4800000,
+                    5000000
+                ],
+                "to": [
+                    5500000,
+                    6500000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -590,7 +600,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "466769036122783744": {
         "modification_history": {},
