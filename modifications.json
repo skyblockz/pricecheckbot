@@ -292,6 +292,16 @@
                     550000000
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    4,
+                    5
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -410,7 +420,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "466769036122783744": {
         "modification_history": {},
