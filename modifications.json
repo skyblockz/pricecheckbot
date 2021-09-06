@@ -1239,6 +1239,16 @@
                     400000
                 ]
             },
+            "chestplate_of_the_pack": {
+                "from": [
+                    400000,
+                    425000
+                ],
+                "to": [
+                    800000,
+                    1000000
+                ]
+            },
             "common_combat_exp_boost": {
                 "from": [
                     50000,
@@ -2547,7 +2557,7 @@
                 ]
             }
         },
-        "total_mods": 147
+        "total_mods": 148
     },
     "676937120069189632": {
         "modification_history": {},
