@@ -1829,6 +1829,16 @@
                     7000000
                 ]
             },
+            "golden_professor_head": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    1000000,
+                    1300000
+                ]
+            },
             "golem_sword": {
                 "from": [
                     400000,
@@ -3061,7 +3071,7 @@
                 ]
             }
         },
-        "total_mods": 205
+        "total_mods": 206
     },
     "676937120069189632": {
         "modification_history": {},
