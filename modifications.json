@@ -1669,6 +1669,16 @@
                     17000
                 ]
             },
+            "etherwarp_conduit": {
+                "from": [
+                    15100000,
+                    15500000
+                ],
+                "to": [
+                    15800000,
+                    16000000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     410000,
@@ -2874,7 +2884,7 @@
                 ]
             }
         },
-        "total_mods": 181
+        "total_mods": 182
     },
     "676937120069189632": {
         "modification_history": {},
