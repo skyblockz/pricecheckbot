@@ -1939,6 +1939,16 @@
                     2300000
                 ]
             },
+            "sea_creature_artifact": {
+                "from": [
+                    235000,
+                    240000
+                ],
+                "to": [
+                    230000,
+                    288000
+                ]
+            },
             "sea_creature_ring": {
                 "from": [
                     5000,
@@ -2507,7 +2517,7 @@
                 ]
             }
         },
-        "total_mods": 143
+        "total_mods": 144
     },
     "676937120069189632": {
         "modification_history": {},
