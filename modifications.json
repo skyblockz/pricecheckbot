@@ -2326,6 +2326,16 @@
                     1000
                 ]
             },
+            "scarf_fragment": {
+                "from": [
+                    15000,
+                    50000
+                ],
+                "to": [
+                    8000,
+                    10000
+                ]
+            },
             "scavenger_iv": {
                 "from": [
                     5000,
@@ -2984,7 +2994,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "676937120069189632": {
         "modification_history": {},
