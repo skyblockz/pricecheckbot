@@ -1739,6 +1739,16 @@
                     220000
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    60000000,
+                    65000000
+                ],
+                "to": [
+                    68000000,
+                    68500000
+                ]
+            },
             "polished_pebble": {
                 "from": [
                     90000,
@@ -2437,7 +2447,7 @@
                 ]
             }
         },
-        "total_mods": 136
+        "total_mods": 137
     },
     "676937120069189632": {
         "modification_history": {},
