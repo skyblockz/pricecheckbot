@@ -1229,6 +1229,16 @@
                     190000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    75000,
+                    85000
+                ],
+                "to": [
+                    75000,
+                    75000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     925000,
@@ -2147,7 +2157,7 @@
                 ]
             }
         },
-        "total_mods": 105
+        "total_mods": 106
     },
     "676937120069189632": {
         "modification_history": {},
