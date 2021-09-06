@@ -1299,6 +1299,16 @@
                     75000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    350000,
+                    370000
+                ],
+                "to": [
+                    385000,
+                    450000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     925000,
@@ -2557,7 +2567,7 @@
                 ]
             }
         },
-        "total_mods": 148
+        "total_mods": 149
     },
     "676937120069189632": {
         "modification_history": {},
