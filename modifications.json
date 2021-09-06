@@ -2663,6 +2663,16 @@
                     1700000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    90000,
+                    225000
+                ],
+                "to": [
+                    65000,
+                    100000
+                ]
+            },
             "taiga_biome_stick": {
                 "from": [
                     50,
@@ -3041,7 +3051,7 @@
                 ]
             }
         },
-        "total_mods": 203
+        "total_mods": 204
     },
     "676937120069189632": {
         "modification_history": {},
