@@ -1819,6 +1819,16 @@
                     640000
                 ]
             },
+            "red_claw_talisman": {
+                "from": [
+                    20000,
+                    40000
+                ],
+                "to": [
+                    5000,
+                    19000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     300000,
@@ -2377,7 +2387,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "676937120069189632": {
         "modification_history": {},
