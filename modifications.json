@@ -1669,6 +1669,16 @@
                     7300000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    230000,
+                    240000
+                ],
+                "to": [
+                    299000,
+                    299000
+                ]
+            },
             "magical_mushroom_soup": {
                 "from": [
                     40,
@@ -2537,7 +2547,7 @@
                 ]
             }
         },
-        "total_mods": 146
+        "total_mods": 147
     },
     "676937120069189632": {
         "modification_history": {},
