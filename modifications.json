@@ -1939,6 +1939,16 @@
                     2300000
                 ]
             },
+            "sea_creature_talisman": {
+                "from": [
+                    1500,
+                    1600
+                ],
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "sea_lantern_hat": {
                 "from": [
                     5000,
@@ -2487,7 +2497,7 @@
                 ]
             }
         },
-        "total_mods": 141
+        "total_mods": 142
     },
     "676937120069189632": {
         "modification_history": {},
