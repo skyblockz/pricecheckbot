@@ -462,6 +462,16 @@
                     550000
                 ]
             },
+            "pigman_sword": {
+                "from": [
+                    6800000,
+                    7200000
+                ],
+                "to": [
+                    7100000,
+                    8000000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -580,7 +590,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "466769036122783744": {
         "modification_history": {},
