@@ -1789,6 +1789,16 @@
                     10000
                 ]
             },
+            "nether_biome_stick": {
+                "from": [
+                    70,
+                    80
+                ],
+                "to": [
+                    300,
+                    1000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     138000,
@@ -2607,7 +2617,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "676937120069189632": {
         "modification_history": {},
