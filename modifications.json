@@ -402,6 +402,16 @@
                     85000000
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    23,
+                    26
+                ],
+                "to": [
+                    32,
+                    32
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -520,7 +530,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "466769036122783744": {
         "modification_history": {},
