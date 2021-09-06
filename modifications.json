@@ -432,6 +432,16 @@
                     800000
                 ]
             },
+            "pesto_goblin_omelette": {
+                "from": [
+                    11500000,
+                    13500000
+                ],
+                "to": [
+                    6900000,
+                    7500000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "466769036122783744": {
         "modification_history": {},
