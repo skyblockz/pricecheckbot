@@ -2246,6 +2246,16 @@
                     150000
                 ]
             },
+            "ranchers_boots": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    3200000,
+                    3500000
+                ]
+            },
             "rare_combat_exp_boost": {
                 "from": [
                     145000,
@@ -3024,7 +3034,7 @@
                 ]
             }
         },
-        "total_mods": 201
+        "total_mods": 202
     },
     "676937120069189632": {
         "modification_history": {},
