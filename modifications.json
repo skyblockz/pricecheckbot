@@ -502,6 +502,16 @@
                     215000000
                 ]
             },
+            "plasmaflux_power_orb": {
+                "from": [
+                    170000000,
+                    180000000
+                ],
+                "to": [
+                    230000000,
+                    250000000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -620,7 +630,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "466769036122783744": {
         "modification_history": {},
