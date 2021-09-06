@@ -442,6 +442,16 @@
                     7500000
                 ]
             },
+            "pickonimbus_2000": {
+                "from": [
+                    600000,
+                    720000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -560,7 +570,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "466769036122783744": {
         "modification_history": {},
