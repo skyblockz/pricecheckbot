@@ -2923,6 +2923,16 @@
                     3500000
                 ]
             },
+            "void_conqueror_enderman_skin": {
+                "from": [
+                    1800000,
+                    2000000
+                ],
+                "to": [
+                    1000000,
+                    1180000
+                ]
+            },
             "voidling_minion_i": {
                 "from": [
                     140000,
@@ -3101,7 +3111,7 @@
                 ]
             }
         },
-        "total_mods": 210
+        "total_mods": 211
     },
     "676937120069189632": {
         "modification_history": {},
