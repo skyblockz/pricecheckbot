@@ -392,6 +392,16 @@
                     65000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    63500000,
+                    68000000
+                ],
+                "to": [
+                    83000000,
+                    85000000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -510,7 +520,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "466769036122783744": {
         "modification_history": {},
