@@ -1739,6 +1739,16 @@
                     5000
                 ]
             },
+            "jungle_biome_stick": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "lantern": {
                 "from": [
                     9700,
@@ -2677,7 +2687,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "676937120069189632": {
         "modification_history": {},
