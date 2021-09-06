@@ -1299,6 +1299,16 @@
                     2500
                 ]
             },
+            "devour_ring": {
+                "from": [
+                    2300000,
+                    2500000
+                ],
+                "to": [
+                    2200000,
+                    2400000
+                ]
+            },
             "diamond_spreading": {
                 "from": [
                     8900,
@@ -2277,7 +2287,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "676937120069189632": {
         "modification_history": {},
