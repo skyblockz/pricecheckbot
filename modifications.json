@@ -1819,6 +1819,16 @@
                     640000
                 ]
             },
+            "red_claw_artifact": {
+                "from": [
+                    6200000,
+                    6500000
+                ],
+                "to": [
+                    7200000,
+                    8000000
+                ]
+            },
             "red_claw_talisman": {
                 "from": [
                     20000,
@@ -2387,7 +2397,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "676937120069189632": {
         "modification_history": {},
