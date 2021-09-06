@@ -292,6 +292,13 @@
                     550000000
                 ]
             },
+            "quartz": {
+                "from": null,
+                "to": [
+                    15,
+                    20
+                ]
+            },
             "second_master_star": {
                 "from": [
                     30250000,
@@ -403,7 +410,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "466769036122783744": {
         "modification_history": {},
