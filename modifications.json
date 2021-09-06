@@ -1639,6 +1639,16 @@
                     50000
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    130000,
+                    150000
+                ]
+            },
             "epic_combat_exp_boost": {
                 "from": [
                     1480000,
@@ -2934,7 +2944,7 @@
                 ]
             }
         },
-        "total_mods": 191
+        "total_mods": 192
     },
     "676937120069189632": {
         "modification_history": {},
