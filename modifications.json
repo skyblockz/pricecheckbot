@@ -522,6 +522,16 @@
                     300
                 ]
             },
+            "polished_pebble": {
+                "from": [
+                    10000,
+                    70000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -640,7 +650,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "466769036122783744": {
         "modification_history": {},
