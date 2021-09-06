@@ -1689,6 +1689,16 @@
                     16000000
                 ]
             },
+            "etherwarp_merger": {
+                "from": [
+                    200000,
+                    300000
+                ],
+                "to": [
+                    189000,
+                    200000
+                ]
+            },
             "experience_artifact": {
                 "from": [
                     410000,
@@ -2944,7 +2954,7 @@
                 ]
             }
         },
-        "total_mods": 192
+        "total_mods": 193
     },
     "676937120069189632": {
         "modification_history": {},
