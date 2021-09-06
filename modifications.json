@@ -2039,6 +2039,16 @@
                     200
                 ]
             },
+            "vampire_mask": {
+                "from": [
+                    3000000,
+                    3700000
+                ],
+                "to": [
+                    7000000,
+                    7000000
+                ]
+            },
             "voidling_minion_i": {
                 "from": [
                     140000,
@@ -2197,7 +2207,7 @@
                 ]
             }
         },
-        "total_mods": 110
+        "total_mods": 111
     },
     "676937120069189632": {
         "modification_history": {},
