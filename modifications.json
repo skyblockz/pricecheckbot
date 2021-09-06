@@ -1779,6 +1779,16 @@
                     250000
                 ]
             },
+            "radiant_power_orb": {
+                "from": [
+                    25000,
+                    25000
+                ],
+                "to": [
+                    17000,
+                    20000
+                ]
+            },
             "raider_axe": {
                 "from": [
                     160000,
@@ -2407,7 +2417,7 @@
                 ]
             }
         },
-        "total_mods": 133
+        "total_mods": 134
     },
     "676937120069189632": {
         "modification_history": {},
