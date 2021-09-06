@@ -1179,6 +1179,16 @@
                     5000000
                 ]
             },
+            "birch_forest_biome_stick": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "blast_o_lantern": {
                 "from": [
                     3000,
@@ -2657,7 +2667,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "676937120069189632": {
         "modification_history": {},
