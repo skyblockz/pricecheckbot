@@ -1359,6 +1359,16 @@
                     2500
                 ]
             },
+            "deep_ocean_biome_stick": {
+                "from": [
+                    42000,
+                    45000
+                ],
+                "to": [
+                    43000,
+                    68000
+                ]
+            },
             "devour_ring": {
                 "from": [
                     2300000,
@@ -2627,7 +2637,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "676937120069189632": {
         "modification_history": {},
