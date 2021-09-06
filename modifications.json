@@ -302,6 +302,16 @@
                     5
                 ]
             },
+            "nope_the_fish": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    50000,
+                    75000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -420,7 +430,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "466769036122783744": {
         "modification_history": {},
