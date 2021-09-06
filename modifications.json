@@ -362,6 +362,16 @@
                     1000
                 ]
             },
+            "oil_barrel": {
+                "from": [
+                    8000,
+                    9000
+                ],
+                "to": [
+                    7500,
+                    10000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -480,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "466769036122783744": {
         "modification_history": {},
