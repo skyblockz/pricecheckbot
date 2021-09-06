@@ -1369,6 +1369,16 @@
                     68000
                 ]
             },
+            "desert_biome_stick": {
+                "from": [
+                    500,
+                    525
+                ],
+                "to": [
+                    150,
+                    350
+                ]
+            },
             "devour_ring": {
                 "from": [
                     2300000,
@@ -2647,7 +2657,7 @@
                 ]
             }
         },
-        "total_mods": 158
+        "total_mods": 159
     },
     "676937120069189632": {
         "modification_history": {},
