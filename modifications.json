@@ -1949,6 +1949,13 @@
                     1000
                 ]
             },
+            "null": {
+                "from": null,
+                "to": [
+                    100,
+                    10000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     138000,
@@ -2807,7 +2814,7 @@
                 ]
             }
         },
-        "total_mods": 174
+        "total_mods": 175
     },
     "676937120069189632": {
         "modification_history": {},
