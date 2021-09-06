@@ -1979,6 +1979,16 @@
                     80000000
                 ]
             },
+            "personal_harp": {
+                "from": [
+                    700000,
+                    800000
+                ],
+                "to": [
+                    750000,
+                    850000
+                ]
+            },
             "polished_pebble": {
                 "from": [
                     90000,
@@ -2757,7 +2767,7 @@
                 ]
             }
         },
-        "total_mods": 169
+        "total_mods": 170
     },
     "676937120069189632": {
         "modification_history": {},
