@@ -1739,6 +1739,16 @@
                     1000
                 ]
             },
+            "fourth_master_star": {
+                "from": [
+                    36000000,
+                    40000000
+                ],
+                "to": [
+                    36500000,
+                    36880000
+                ]
+            },
             "frozen_chicken": {
                 "from": [
                     600000,
@@ -2844,7 +2854,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "676937120069189632": {
         "modification_history": {},
