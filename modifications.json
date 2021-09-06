@@ -422,6 +422,16 @@
                     185000000
                 ]
             },
+            "personal_harp": {
+                "from": [
+                    550000,
+                    900000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -540,7 +550,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "466769036122783744": {
         "modification_history": {},
