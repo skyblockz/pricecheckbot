@@ -1229,6 +1229,16 @@
                     4300000
                 ]
             },
+            "caster_vi": {
+                "from": [
+                    145000,
+                    150000
+                ],
+                "to": [
+                    360000,
+                    400000
+                ]
+            },
             "common_combat_exp_boost": {
                 "from": [
                     50000,
@@ -2517,7 +2527,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "676937120069189632": {
         "modification_history": {},
