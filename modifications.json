@@ -1229,6 +1229,16 @@
                     190000
                 ]
             },
+            "critical_vi": {
+                "from": [
+                    150000,
+                    175000
+                ],
+                "to": [
+                    70000,
+                    80000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     75000,
@@ -2237,7 +2247,7 @@
                 ]
             }
         },
-        "total_mods": 114
+        "total_mods": 115
     },
     "676937120069189632": {
         "modification_history": {},
