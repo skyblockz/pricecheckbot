@@ -1849,6 +1849,16 @@
                     7000000
                 ]
             },
+            "gemstone_gauntlet": {
+                "from": [
+                    32750000,
+                    34000000
+                ],
+                "to": [
+                    29800000,
+                    30000000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     2900000,
@@ -3141,7 +3151,7 @@
                 ]
             }
         },
-        "total_mods": 214
+        "total_mods": 215
     },
     "676937120069189632": {
         "modification_history": {},
