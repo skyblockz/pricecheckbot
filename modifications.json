@@ -2009,6 +2009,16 @@
                     2300000
                 ]
             },
+            "savanna_biome_stick": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     235000,
@@ -2597,7 +2607,7 @@
                 ]
             }
         },
-        "total_mods": 153
+        "total_mods": 154
     },
     "676937120069189632": {
         "modification_history": {},
