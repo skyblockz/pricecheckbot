@@ -2156,6 +2156,16 @@
                     1000
                 ]
             },
+            "nether_wart_pouch": {
+                "from": [
+                    700000,
+                    700000
+                ],
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
             "null": {
                 "from": null,
                 "to": [
@@ -3181,7 +3191,7 @@
                 ]
             }
         },
-        "total_mods": 218
+        "total_mods": 219
     },
     "676937120069189632": {
         "modification_history": {},
