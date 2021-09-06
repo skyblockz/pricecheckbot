@@ -2169,6 +2169,16 @@
                     1000
                 ]
             },
+            "scavenger_iv": {
+                "from": [
+                    5000,
+                    10000
+                ],
+                "to": [
+                    21000,
+                    25000
+                ]
+            },
             "sea_creature_artifact": {
                 "from": [
                     235000,
@@ -2767,7 +2777,7 @@
                 ]
             }
         },
-        "total_mods": 170
+        "total_mods": 171
     },
     "676937120069189632": {
         "modification_history": {},
