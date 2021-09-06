@@ -1999,6 +1999,16 @@
                     10000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    32600000,
+                    37500000
+                ],
+                "to": [
+                    31000000,
+                    31200000
+                ]
+            },
             "nether_biome_stick": {
                 "from": [
                     70,
@@ -2954,7 +2964,7 @@
                 ]
             }
         },
-        "total_mods": 193
+        "total_mods": 194
     },
     "676937120069189632": {
         "modification_history": {},
