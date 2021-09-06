@@ -1749,6 +1749,16 @@
                     68500000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    83000000,
+                    85000000
+                ],
+                "to": [
+                    77800000,
+                    80000000
+                ]
+            },
             "polished_pebble": {
                 "from": [
                     90000,
@@ -2447,7 +2457,7 @@
                 ]
             }
         },
-        "total_mods": 137
+        "total_mods": 138
     },
     "676937120069189632": {
         "modification_history": {},
