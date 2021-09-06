@@ -1459,6 +1459,16 @@
                     1499999
                 ]
             },
+            "end_biome_stick": {
+                "from": [
+                    550,
+                    575
+                ],
+                "to": [
+                    190,
+                    800
+                ]
+            },
             "end_stone_bow": {
                 "from": [
                     5000,
@@ -2617,7 +2627,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "676937120069189632": {
         "modification_history": {},
