@@ -332,6 +332,16 @@
                     500000
                 ]
             },
+            "null_ovoid": {
+                "from": [
+                    313000,
+                    320000
+                ],
+                "to": [
+                    320255,
+                    344999
+                ]
+            },
             "quartz": {
                 "from": null,
                 "to": [
@@ -450,7 +460,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "466769036122783744": {
         "modification_history": {},
