@@ -2079,6 +2079,16 @@
                     2300000
                 ]
             },
+            "roofed_forest_biome_stick": {
+                "from": [
+                    50,
+                    60
+                ],
+                "to": [
+                    100,
+                    1000
+                ]
+            },
             "savanna_biome_stick": {
                 "from": [
                     50,
@@ -2687,7 +2697,7 @@
                 ]
             }
         },
-        "total_mods": 162
+        "total_mods": 163
     },
     "676937120069189632": {
         "modification_history": {},
