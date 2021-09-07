@@ -927,6 +927,16 @@
                     4000000
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    2300000,
+                    3000000
+                ],
+                "to": [
+                    1100000,
+                    1300000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     7000000,
@@ -1018,7 +1028,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "565775808124289025": {
         "modification_history": {},
