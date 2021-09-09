@@ -6343,12 +6343,6 @@
     },
     {
         "ac": true,
-        "hi": 7500000,
-        "low": 7500000,
-        "name": "fish_minion_xi"
-    },
-    {
-        "ac": true,
         "hi": 80000,
         "low": 80000,
         "name": "undead_bow"
@@ -14512,5 +14506,11 @@
         "hi": 6400000,
         "low": 6200000,
         "name": "cow_minion_xii"
+    },
+    {
+        "ac": true,
+        "hi": 7500000,
+        "low": 7500000,
+        "name": "fishing_minion_xi"
     }
 ]
