@@ -165,6 +165,16 @@
                     65900000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    250000,
+                    300000
+                ],
+                "to": [
+                    85000,
+                    85000
+                ]
+            },
             "emerald_blade": {
                 "from": [
                     345000,
@@ -336,7 +346,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395028811399299082": {
         "modification_history": {},
