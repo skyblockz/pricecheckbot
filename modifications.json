@@ -385,6 +385,16 @@
                     5400000
                 ]
             },
+            "wand_of_atonement": {
+                "from": [
+                    4200000,
+                    7000000
+                ],
+                "to": [
+                    4000000,
+                    4000000
+                ]
+            },
             "warped_stone": {
                 "from": [
                     4300000,
@@ -406,7 +416,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395028811399299082": {
         "modification_history": {},
