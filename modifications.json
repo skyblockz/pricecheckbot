@@ -255,6 +255,16 @@
                     6000000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    250000,
+                    275000
+                ],
+                "to": [
+                    345000,
+                    345000
+                ]
+            },
             "scorpion_foil": {
                 "from": [
                     900000,
@@ -346,7 +356,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
