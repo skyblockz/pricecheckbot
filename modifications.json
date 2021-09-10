@@ -205,6 +205,16 @@
                     990000
                 ]
             },
+            "gloomlock_grimoire": {
+                "from": [
+                    7000000,
+                    14000000
+                ],
+                "to": [
+                    7100000,
+                    7100000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     31000,
@@ -426,7 +436,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "395028811399299082": {
         "modification_history": {},
