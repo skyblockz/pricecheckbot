@@ -222,6 +222,16 @@
                     1000000
                 ]
             },
+            "superior_dragon_helmet": {
+                "from": [
+                    6200000,
+                    6400000
+                ],
+                "to": [
+                    6000000,
+                    7000000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     110000,
@@ -343,7 +353,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "364186225382391809": {
         "modification_history": {},
