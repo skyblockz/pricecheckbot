@@ -671,6 +671,16 @@
                     1000000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1700000,
+                    2250000
+                ],
+                "to": [
+                    1690000,
+                    1800000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     720000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "508886846873272322": {
         "modification_history": {},
