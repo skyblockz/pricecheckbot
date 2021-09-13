@@ -1032,6 +1032,16 @@
                     350000
                 ]
             },
+            "life_steal_iv": {
+                "from": [
+                    80000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    90000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     500000,
@@ -1183,7 +1193,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "676937120069189632": {
         "modification_history": {},
