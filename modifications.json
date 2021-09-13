@@ -1122,6 +1122,16 @@
                     25000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    380000,
+                    400000
+                ],
+                "to": [
+                    600000,
+                    600000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     345000,
@@ -1250,7 +1260,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "676937120069189632": {
         "modification_history": {},
