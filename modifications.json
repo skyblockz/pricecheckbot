@@ -1092,6 +1092,16 @@
                     300000
                 ]
             },
+            "protection_vi": {
+                "from": [
+                    2700000,
+                    2900000
+                ],
+                "to": [
+                    4200000,
+                    4500000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     8000,
@@ -1230,7 +1240,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "676937120069189632": {
         "modification_history": {},
