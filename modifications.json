@@ -932,6 +932,16 @@
                     250000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    85000,
+                    85000
+                ],
+                "to": [
+                    130000,
+                    153000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     75000,
@@ -1033,7 +1043,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "676937120069189632": {
         "modification_history": {},
