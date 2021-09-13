@@ -1022,6 +1022,16 @@
                     200000
                 ]
             },
+            "end_stone_sword": {
+                "from": [
+                    190000,
+                    220000
+                ],
+                "to": [
+                    230000,
+                    250000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     400000,
@@ -1340,7 +1350,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "676937120069189632": {
         "modification_history": {},
