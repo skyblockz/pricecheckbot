@@ -1122,6 +1122,16 @@
                     3500000
                 ]
             },
+            "reaper_scythe": {
+                "from": [
+                    18900000,
+                    20000000
+                ],
+                "to": [
+                    19500000,
+                    20000000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     8000,
@@ -1270,7 +1280,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "676937120069189632": {
         "modification_history": {},
