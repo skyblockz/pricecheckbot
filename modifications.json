@@ -1012,6 +1012,16 @@
                     6000
                 ]
             },
+            "end_stone_geode": {
+                "from": [
+                    120000,
+                    150000
+                ],
+                "to": [
+                    199000,
+                    200000
+                ]
+            },
             "explosive_bow": {
                 "from": [
                     400000,
@@ -1330,7 +1340,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "676937120069189632": {
         "modification_history": {},
