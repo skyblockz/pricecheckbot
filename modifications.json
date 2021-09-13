@@ -1052,6 +1052,16 @@
                     6000000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    25000,
+                    35000
+                ],
+                "to": [
+                    39000,
+                    40000
+                ]
+            },
             "spirit_mask": {
                 "from": [
                     500000,
@@ -1083,7 +1093,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "676937120069189632": {
         "modification_history": {},
