@@ -932,6 +932,16 @@
                     85000
                 ]
             },
+            "happy_mask": {
+                "from": [
+                    25000,
+                    50000
+                ],
+                "to": [
+                    65000,
+                    70000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     500000,
@@ -953,7 +963,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "676937120069189632": {
         "modification_history": {},
