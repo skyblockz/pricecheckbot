@@ -952,6 +952,16 @@
                     70000
                 ]
             },
+            "kalhuiki_mask": {
+                "from": [
+                    100000,
+                    450000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "melon_minion_xi": {
                 "from": [
                     500000,
@@ -993,7 +1003,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "676937120069189632": {
         "modification_history": {},
