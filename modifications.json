@@ -1102,6 +1102,16 @@
                     100000
                 ]
             },
+            "horsemans_candle": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    440000,
+                    444000
+                ]
+            },
             "kalhuiki_mask": {
                 "from": [
                     100000,
@@ -1410,7 +1420,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "676937120069189632": {
         "modification_history": {},
