@@ -922,6 +922,16 @@
     },
     "675938809996902410": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    330000,
+                    500000
+                ],
+                "to": [
+                    230000,
+                    250000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     75000,
@@ -973,7 +983,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "676937120069189632": {
         "modification_history": {},
