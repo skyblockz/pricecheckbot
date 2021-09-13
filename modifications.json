@@ -1142,6 +1142,16 @@
                     2600000
                 ]
             },
+            "thick_scorpion_foil": {
+                "from": [
+                    820000,
+                    900000
+                ],
+                "to": [
+                    1300000,
+                    1500000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     7000000,
@@ -1163,7 +1173,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "676937120069189632": {
         "modification_history": {},
