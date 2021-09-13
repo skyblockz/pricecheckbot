@@ -1182,6 +1182,13 @@
                     8000000
                 ]
             },
+            "vampirism_v": {
+                "from": null,
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "vampirism_vi": {
                 "from": [
                     390000,
@@ -1203,7 +1210,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "676937120069189632": {
         "modification_history": {},
