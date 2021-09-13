@@ -1012,6 +1012,16 @@
                     300000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    8000,
+                    8000
+                ],
+                "to": [
+                    22000,
+                    25000
+                ]
+            },
             "rod_of_champions": {
                 "from": [
                     345000,
@@ -1073,7 +1083,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "676937120069189632": {
         "modification_history": {},
