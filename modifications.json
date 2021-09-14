@@ -264,6 +264,16 @@
                     10400000
                 ]
             },
+            "spider_artifact": {
+                "from": [
+                    3500000,
+                    3700000
+                ],
+                "to": [
+                    4990000,
+                    5000000
+                ]
+            },
             "spiked_atrocity": {
                 "from": [
                     27900000,
@@ -295,7 +305,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395028811399299082": {
         "modification_history": {},
