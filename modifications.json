@@ -164,6 +164,16 @@
                     1270000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    445000,
+                    450000
+                ],
+                "to": [
+                    490000,
+                    490000
+                ]
+            },
             "healing_tissue": {
                 "from": [
                     38000,
@@ -265,7 +275,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "395028811399299082": {
         "modification_history": {},
