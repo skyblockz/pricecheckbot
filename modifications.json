@@ -124,6 +124,16 @@
                     25000
                 ]
             },
+            "blue_jerry_talisman": {
+                "from": [
+                    5300000,
+                    5500000
+                ],
+                "to": [
+                    3200000,
+                    3200000
+                ]
+            },
             "bonzo_fragment": {
                 "from": [
                     5000,
@@ -355,7 +365,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "395028811399299082": {
         "modification_history": {},
