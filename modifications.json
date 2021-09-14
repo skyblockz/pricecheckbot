@@ -133,9 +133,19 @@
                     200000,
                     200000
                 ]
+            },
+            "scarf_fragment": {
+                "from": [
+                    8000,
+                    10000
+                ],
+                "to": [
+                    3000,
+                    3000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "395028811399299082": {
         "modification_history": {},
