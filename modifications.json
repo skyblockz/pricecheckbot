@@ -124,6 +124,16 @@
                     1270000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    38000,
+                    40000
+                ],
+                "to": [
+                    70000,
+                    70000
+                ]
+            },
             "jolly_pink_rock": {
                 "from": [
                     30000,
@@ -165,7 +175,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395028811399299082": {
         "modification_history": {},
