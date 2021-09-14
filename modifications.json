@@ -104,6 +104,16 @@
                     25000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    5000,
+                    15000
+                ],
+                "to": [
+                    6000,
+                    6000
+                ]
+            },
             "diamantes_handle": {
                 "from": [
                     1100000,
@@ -145,7 +155,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395028811399299082": {
         "modification_history": {},
