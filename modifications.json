@@ -144,6 +144,16 @@
                     9000000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    32000000,
+                    33000000
+                ],
+                "to": [
+                    28300000,
+                    28300000
+                ]
+            },
             "diamantes_handle": {
                 "from": [
                     1100000,
@@ -235,7 +245,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "395028811399299082": {
         "modification_history": {},
