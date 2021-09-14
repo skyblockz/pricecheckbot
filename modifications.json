@@ -134,6 +134,16 @@
                     6000
                 ]
             },
+            "candy_relic": {
+                "from": [
+                    7500000,
+                    7500000
+                ],
+                "to": [
+                    9000000,
+                    9000000
+                ]
+            },
             "diamantes_handle": {
                 "from": [
                     1100000,
@@ -225,7 +235,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "395028811399299082": {
         "modification_history": {},
