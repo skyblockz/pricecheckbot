@@ -304,6 +304,16 @@
                     36000000
                 ]
             },
+            "survivor_cube": {
+                "from": [
+                    2400000,
+                    2600000
+                ],
+                "to": [
+                    6000000,
+                    6000000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     2250000,
@@ -325,7 +335,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
