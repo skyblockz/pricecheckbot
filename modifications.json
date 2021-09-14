@@ -1691,6 +1691,16 @@
                     2500000
                 ]
             },
+            "snow_minion_xi": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    900000,
+                    1100000
+                ]
+            },
             "spider_catalyst": {
                 "from": [
                     25000,
@@ -1799,7 +1809,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "676937120069189632": {
         "modification_history": {},
