@@ -294,6 +294,16 @@
                     10400000
                 ]
             },
+            "speed_artifact": {
+                "from": [
+                    2750000,
+                    3000000
+                ],
+                "to": [
+                    3250000,
+                    3250000
+                ]
+            },
             "spider_artifact": {
                 "from": [
                     3500000,
@@ -345,7 +355,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395028811399299082": {
         "modification_history": {},
