@@ -144,6 +144,16 @@
                     200000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    125000,
+                    130000
+                ],
+                "to": [
+                    83000,
+                    83000
+                ]
+            },
             "scarf_fragment": {
                 "from": [
                     8000,
@@ -155,7 +165,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395028811399299082": {
         "modification_history": {},
