@@ -1100,6 +1100,16 @@
                     33000000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    540000000,
+                    550000000
+                ],
+                "to": [
+                    570000000,
+                    580000000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1100000,
@@ -1171,7 +1181,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "508886846873272322": {
         "modification_history": {},
