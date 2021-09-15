@@ -1070,6 +1070,16 @@
                     27000000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    31000000,
+                    31200000
+                ],
+                "to": [
+                    32000000,
+                    33000000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1100000,
@@ -1141,7 +1151,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "508886846873272322": {
         "modification_history": {},
