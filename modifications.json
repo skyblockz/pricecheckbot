@@ -1313,6 +1313,16 @@
                     1600000
                 ]
             },
+            "wither_boots": {
+                "from": [
+                    1600000,
+                    2500000
+                ],
+                "to": [
+                    1650000,
+                    1750000
+                ]
+            },
             "wither_chestplate": {
                 "from": [
                     20800000,
@@ -1344,7 +1354,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "647100327048511519": {
         "modification_history": {},
