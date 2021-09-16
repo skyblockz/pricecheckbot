@@ -1359,6 +1359,16 @@
                     180000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    385000,
+                    450000
+                ],
+                "to": [
+                    185000,
+                    200000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     9500000,
@@ -1400,7 +1410,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "565775808124289025": {
         "modification_history": {},
