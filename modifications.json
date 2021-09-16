@@ -1399,6 +1399,16 @@
                     150000
                 ]
             },
+            "ember_chestplate": {
+                "from": [
+                    150000,
+                    250000
+                ],
+                "to": [
+                    150000,
+                    170000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     9500000,
@@ -1440,7 +1450,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "565775808124289025": {
         "modification_history": {},
