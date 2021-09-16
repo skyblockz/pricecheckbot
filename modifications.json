@@ -1409,6 +1409,16 @@
                     170000
                 ]
             },
+            "ember_helmet": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "ember_leggings": {
                 "from": [
                     90000,
@@ -1460,7 +1470,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "565775808124289025": {
         "modification_history": {},
