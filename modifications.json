@@ -1684,6 +1684,16 @@
                     12500000
                 ]
             },
+            "revenant_chestplate": {
+                "from": [
+                    2400000,
+                    3250000
+                ],
+                "to": [
+                    2000000,
+                    2100000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     700000,
@@ -1805,7 +1815,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "647100327048511519": {
         "modification_history": {},
