@@ -2569,6 +2569,16 @@
                     1200000
                 ]
             },
+            "wither_goggles": {
+                "from": [
+                    5200000,
+                    5200000
+                ],
+                "to": [
+                    5000000,
+                    5000000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     140000,
@@ -2610,7 +2620,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "738319291648180315": {
         "modification_history": {
