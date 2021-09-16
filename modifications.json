@@ -1349,6 +1349,16 @@
                     3500000
                 ]
             },
+            "crystal_boots": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    125000,
+                    180000
+                ]
+            },
             "frozen_blaze_boots": {
                 "from": [
                     9500000,
@@ -1390,7 +1400,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "565775808124289025": {
         "modification_history": {},
