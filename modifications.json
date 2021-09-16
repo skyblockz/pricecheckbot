@@ -1238,8 +1238,19 @@
         "total_mods": 0
     },
     "565668065153384459": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    185000,
+                    300000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "565775808124289025": {
         "modification_history": {},
