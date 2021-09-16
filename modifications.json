@@ -1684,6 +1684,16 @@
                     12500000
                 ]
             },
+            "revenant_boots": {
+                "from": [
+                    150000,
+                    450000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "revenant_chestplate": {
                 "from": [
                     2400000,
@@ -1825,7 +1835,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "647100327048511519": {
         "modification_history": {},
