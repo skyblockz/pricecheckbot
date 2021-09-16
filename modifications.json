@@ -1694,6 +1694,16 @@
                     2100000
                 ]
             },
+            "revenant_leggings": {
+                "from": [
+                    100000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "shark_scale_boots": {
                 "from": [
                     700000,
@@ -1815,7 +1825,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "647100327048511519": {
         "modification_history": {},
