@@ -57,6 +57,16 @@
                     400000
                 ]
             },
+            "night_crystal": {
+                "from": [
+                    640000,
+                    650000
+                ],
+                "to": [
+                    275000,
+                    300000
+                ]
+            },
             "personal_harp": {
                 "from": [
                     1000000,
@@ -128,7 +138,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "308262271262654464": {
         "modification_history": {},
