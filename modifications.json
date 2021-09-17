@@ -37,6 +37,16 @@
                     450000
                 ]
             },
+            "survivor_cube": {
+                "from": [
+                    6000000,
+                    6000000
+                ],
+                "to": [
+                    1800000,
+                    2200000
+                ]
+            },
             "vampire_mask": {
                 "from": [
                     7600000,
@@ -48,7 +58,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "308262271262654464": {
         "modification_history": {},
