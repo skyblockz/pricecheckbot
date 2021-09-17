@@ -47,6 +47,16 @@
                     300000
                 ]
             },
+            "divans_alloy": {
+                "from": [
+                    1100000000,
+                    2000000000
+                ],
+                "to": [
+                    1000000000,
+                    1200000000
+                ]
+            },
             "level_1_legendary_ammonite": {
                 "from": [
                     970000,
@@ -138,7 +148,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "308262271262654464": {
         "modification_history": {},
