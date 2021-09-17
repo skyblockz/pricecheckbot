@@ -88,6 +88,16 @@
                     350000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    140000,
+                    180000
+                ],
+                "to": [
+                    140000,
+                    190000
+                ]
+            },
             "warden_heart": {
                 "from": [
                     210000000,
@@ -99,7 +109,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "364186225382391809": {
         "modification_history": {},
