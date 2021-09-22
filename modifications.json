@@ -1545,6 +1545,16 @@
                     7100000
                 ]
             },
+            "potato_spreading": {
+                "from": [
+                    10000,
+                    16000
+                ],
+                "to": [
+                    48000,
+                    49000
+                ]
+            },
             "potato_talisman": {
                 "from": [
                     7800000,
@@ -1606,7 +1616,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "676937120069189632": {
         "modification_history": {},
