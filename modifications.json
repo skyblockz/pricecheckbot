@@ -1495,6 +1495,16 @@
                     140000
                 ]
             },
+            "repelling_candle": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    20000,
+                    50000
+                ]
+            },
             "snake_rune_iii": {
                 "from": [
                     1500000,
@@ -1516,7 +1526,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "676937120069189632": {
         "modification_history": {},
