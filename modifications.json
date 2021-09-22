@@ -1398,6 +1398,16 @@
                     160
                 ]
             },
+            "lvl_100_legendary_guardian": {
+                "from": [
+                    4400000,
+                    4500000
+                ],
+                "to": [
+                    4700000,
+                    5000000
+                ]
+            },
             "snake_rune_iii": {
                 "from": [
                     1500000,
@@ -1409,7 +1419,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "676937120069189632": {
         "modification_history": {},
