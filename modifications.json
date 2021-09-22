@@ -1420,12 +1420,12 @@
             },
             "lvl_100_legendary_guardian": {
                 "from": [
-                    4400000,
-                    4500000
-                ],
-                "to": [
                     4700000,
                     5000000
+                ],
+                "to": [
+                    38000000,
+                    40000000
                 ]
             },
             "lvl_1_epic_guardian": {
@@ -1469,7 +1469,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "676937120069189632": {
         "modification_history": {},
