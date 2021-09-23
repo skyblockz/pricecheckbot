@@ -2944,6 +2944,16 @@
                     500000
                 ]
             },
+            "minion_expander": {
+                "from": [
+                    23000,
+                    26000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
+            },
             "ruby_drill_model_tx-15": {
                 "from": [
                     4150000,
@@ -2965,7 +2975,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "738319291648180315": {
         "modification_history": {
