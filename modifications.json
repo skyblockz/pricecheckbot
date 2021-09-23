@@ -277,6 +277,16 @@
                     31000
                 ]
             },
+            "frosty_the_snow_blaster": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "frosty_the_snow_cannon": {
                 "from": [
                     100000,
@@ -728,7 +738,7 @@
                 ]
             }
         },
-        "total_mods": 71
+        "total_mods": 72
     },
     "308262271262654464": {
         "modification_history": {},
