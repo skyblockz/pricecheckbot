@@ -2283,8 +2283,19 @@
         "total_mods": 0
     },
     "725542601926901770": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    750000,
+                    800000
+                ],
+                "to": [
+                    850000,
+                    900000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "738319291648180315": {
         "modification_history": {
