@@ -277,6 +277,16 @@
                     31000
                 ]
             },
+            "frosty_the_snow_cannon": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    1000,
+                    7000
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     29800000,
@@ -718,7 +728,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "308262271262654464": {
         "modification_history": {},
