@@ -337,6 +337,16 @@
                     35200000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    180000,
+                    230000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     65800000,
@@ -448,7 +458,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "308262271262654464": {
         "modification_history": {},
