@@ -127,6 +127,16 @@
                     750000
                 ]
             },
+            "haste_ring": {
+                "from": [
+                    300000,
+                    300000
+                ],
+                "to": [
+                    345000,
+                    375000
+                ]
+            },
             "hermit_crab_minion_skin": {
                 "from": [
                     1500000,
@@ -298,7 +308,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "308262271262654464": {
         "modification_history": {},
