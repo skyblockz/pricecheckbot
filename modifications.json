@@ -157,6 +157,16 @@
                     12500
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    5700,
+                    63295
+                ],
+                "to": [
+                    62000,
+                    64000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     320000,
@@ -388,7 +398,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "308262271262654464": {
         "modification_history": {},
