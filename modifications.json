@@ -437,6 +437,16 @@
                     135000
                 ]
             },
+            "revived_heart": {
+                "from": [
+                    4200000,
+                    5000000
+                ],
+                "to": [
+                    3300000,
+                    4200000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     65800000,
@@ -588,7 +598,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "308262271262654464": {
         "modification_history": {},
