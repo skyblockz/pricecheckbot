@@ -77,6 +77,16 @@
                     1800000000
                 ]
             },
+            "ender_bow": {
+                "from": [
+                    50000,
+                    50000
+                ],
+                "to": [
+                    2000,
+                    25000
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     29800000,
@@ -258,7 +268,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "308262271262654464": {
         "modification_history": {},
