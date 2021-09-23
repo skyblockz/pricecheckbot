@@ -147,6 +147,16 @@
                     33000
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    4546,
+                    10496
+                ],
+                "to": [
+                    11000,
+                    12500
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     320000,
@@ -368,7 +378,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "308262271262654464": {
         "modification_history": {},
