@@ -2374,6 +2374,16 @@
                     250000
                 ]
             },
+            "blaze_chestplate": {
+                "from": [
+                    3500000,
+                    4000000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "blaze_helmet": {
                 "from": [
                     3300000,
@@ -2385,7 +2395,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "738319291648180315": {
         "modification_history": {
