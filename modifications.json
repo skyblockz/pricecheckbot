@@ -2323,9 +2323,19 @@
                     190000,
                     210000
                 ]
+            },
+            "attack_speed_enrichment": {
+                "from": [
+                    1650000,
+                    1700000
+                ],
+                "to": [
+                    1975000,
+                    2100000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "738319291648180315": {
         "modification_history": {
