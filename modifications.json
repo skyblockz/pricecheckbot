@@ -187,6 +187,16 @@
                     300000
                 ]
             },
+            "enchanted_raw_beef": {
+                "from": [
+                    620,
+                    640
+                ],
+                "to": [
+                    640,
+                    640
+                ]
+            },
             "enchanted_red_mushroom_block": {
                 "from": [
                     25000,
@@ -408,7 +418,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "308262271262654464": {
         "modification_history": {},
