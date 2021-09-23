@@ -317,6 +317,16 @@
                     120000
                 ]
             },
+            "old_dragon_helmet": {
+                "from": [
+                    140000,
+                    190000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "personal_harp": {
                 "from": [
                     1000000,
@@ -498,7 +508,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "308262271262654464": {
         "modification_history": {},
