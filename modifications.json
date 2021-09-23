@@ -437,6 +437,16 @@
                     400000
                 ]
             },
+            "lvl_1_legendary_ender_dragon": {
+                "from": [
+                    439000000,
+                    450000000
+                ],
+                "to": [
+                    590000000,
+                    640000000
+                ]
+            },
             "night_crystal": {
                 "from": [
                     640000,
@@ -768,7 +778,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "308262271262654464": {
         "modification_history": {},
