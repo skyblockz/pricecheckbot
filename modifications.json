@@ -2553,9 +2553,19 @@
                     300000,
                     400000
                 ]
+            },
+            "final_destination_helmet": {
+                "from": [
+                    1150000,
+                    1300000
+                ],
+                "to": [
+                    1500000,
+                    1600000
+                ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "738319291648180315": {
         "modification_history": {
