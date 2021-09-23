@@ -4135,12 +4135,6 @@
     },
     {
         "ac": true,
-        "hi": 50000,
-        "low": 30000,
-        "name": "combat_xp_boost_1_potion"
-    },
-    {
-        "ac": true,
         "hi": 1000000,
         "low": 1000000,
         "name": "lvl_1_legendary_horse"
@@ -14524,5 +14518,11 @@
         "hi": 40000000,
         "low": 38000000,
         "name": "lvl_100_legendary_griffin"
+    },
+    {
+        "ac": true,
+        "hi": 50000,
+        "low": 30000,
+        "name": "combat_xp_boost_i_potion"
     }
 ]
