@@ -647,6 +647,16 @@
                     5000000
                 ]
             },
+            "wand_of_restoration": {
+                "from": [
+                    2550000,
+                    2700000
+                ],
+                "to": [
+                    900000,
+                    1100000
+                ]
+            },
             "winter_sack": {
                 "from": [
                     250000,
@@ -668,7 +678,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "308262271262654464": {
         "modification_history": {},
