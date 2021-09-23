@@ -2443,9 +2443,19 @@
                     400000,
                     450000
                 ]
+            },
+            "decent_coffee": {
+                "from": [
+                    5000,
+                    5000
+                ],
+                "to": [
+                    60000,
+                    60000
+                ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "738319291648180315": {
         "modification_history": {
