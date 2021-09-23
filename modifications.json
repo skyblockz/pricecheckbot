@@ -237,6 +237,16 @@
                     21500000
                 ]
             },
+            "green_candy": {
+                "from": [
+                    420,
+                    480
+                ],
+                "to": [
+                    700,
+                    750
+                ]
+            },
             "green_jerry_talisman": {
                 "from": [
                     990000,
@@ -608,7 +618,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "308262271262654464": {
         "modification_history": {},
