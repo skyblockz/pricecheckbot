@@ -2593,9 +2593,19 @@
                     1200000,
                     1300000
                 ]
+            },
+            "flamebreaker_helmet": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    1000000,
+                    1100000
+                ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "738319291648180315": {
         "modification_history": {
