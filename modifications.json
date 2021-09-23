@@ -2088,6 +2088,16 @@
                     49000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": [
+                    49000000,
+                    50000000
+                ],
+                "to": [
+                    32000000,
+                    33000000
+                ]
+            },
             "latest_update_century_cake": {
                 "from": [
                     2500000,
@@ -2266,7 +2276,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "676937120069189632": {
         "modification_history": {},
