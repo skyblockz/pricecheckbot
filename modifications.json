@@ -217,6 +217,16 @@
                     25000
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    27000
+                ],
+                "to": [
+                    25000,
+                    31000
+                ]
+            },
             "gemstone_gauntlet": {
                 "from": [
                     29800000,
@@ -438,7 +448,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "308262271262654464": {
         "modification_history": {},
