@@ -237,6 +237,16 @@
                     750000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    28000,
+                    33000
+                ],
+                "to": [
+                    20000,
+                    22500
+                ]
+            },
             "haste_ring": {
                 "from": [
                     300000,
@@ -428,7 +438,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "308262271262654464": {
         "modification_history": {},
