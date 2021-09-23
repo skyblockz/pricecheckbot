@@ -87,6 +87,16 @@
                     1700000
                 ]
             },
+            "emerald_blade": {
+                "from": [
+                    390000,
+                    390000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     320000,
@@ -308,7 +318,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "308262271262654464": {
         "modification_history": {},
