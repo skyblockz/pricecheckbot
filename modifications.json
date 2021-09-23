@@ -507,6 +507,16 @@
                     8500
                 ]
             },
+            "rabbit_hat": {
+                "from": [
+                    10,
+                    10
+                ],
+                "to": [
+                    1000,
+                    50000
+                ]
+            },
             "revived_heart": {
                 "from": [
                     4200000,
@@ -688,7 +698,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "308262271262654464": {
         "modification_history": {},
