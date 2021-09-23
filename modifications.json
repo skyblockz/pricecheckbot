@@ -567,6 +567,16 @@
                     500000
                 ]
             },
+            "speed_viii_potion": {
+                "from": [
+                    10000,
+                    28000
+                ],
+                "to": [
+                    28667,
+                    37400
+                ]
+            },
             "spider_boots": {
                 "from": [
                     699000,
@@ -708,7 +718,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "308262271262654464": {
         "modification_history": {},
