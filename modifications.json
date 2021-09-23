@@ -367,6 +367,16 @@
                     120000
                 ]
             },
+            "protector_dragon_helmet": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    125000,
+                    135000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     65800000,
@@ -488,7 +498,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "308262271262654464": {
         "modification_history": {},
