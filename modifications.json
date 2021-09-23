@@ -287,6 +287,16 @@
                     120000
                 ]
             },
+            "holy_dragon_helmet": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "level_1_legendary_ammonite": {
                 "from": [
                     970000,
@@ -518,7 +528,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "308262271262654464": {
         "modification_history": {},
