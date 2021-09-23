@@ -607,6 +607,16 @@
                     2200000
                 ]
             },
+            "tarantula_minion_i": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    65000,
+                    75000
+                ]
+            },
             "titanium_drill_dr-x655": {
                 "from": [
                     220000000,
@@ -698,7 +708,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "308262271262654464": {
         "modification_history": {},
