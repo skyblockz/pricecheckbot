@@ -1446,6 +1446,16 @@
     },
     "476126963040256020": {
         "modification_history": {
+            "beacon_v": {
+                "from": [
+                    35500000,
+                    36000000
+                ],
+                "to": [
+                    43900000,
+                    44000000
+                ]
+            },
             "boots_of_divan": {
                 "from": [
                     32000000,
@@ -1657,7 +1667,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "508886846873272322": {
         "modification_history": {},
