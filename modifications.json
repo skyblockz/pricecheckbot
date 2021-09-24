@@ -2194,6 +2194,16 @@
                     5000000
                 ]
             },
+            "wither_essence": {
+                "from": [
+                    4000,
+                    5000
+                ],
+                "to": [
+                    3000,
+                    5000
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     100,
@@ -2205,7 +2215,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "676937120069189632": {
         "modification_history": {},
