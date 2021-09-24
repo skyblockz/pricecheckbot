@@ -1516,6 +1516,16 @@
                     85000000
                 ]
             },
+            "treasure_artifact": {
+                "from": [
+                    36000000,
+                    37000000
+                ],
+                "to": [
+                    36000000,
+                    38000000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     41700000,
@@ -1527,7 +1537,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "508886846873272322": {
         "modification_history": {},
