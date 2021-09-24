@@ -888,6 +888,16 @@
                     500000
                 ]
             },
+            "sludge_juice": {
+                "from": [
+                    3050,
+                    3150
+                ],
+                "to": [
+                    2392,
+                    2475
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     100000,
@@ -909,7 +919,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395028811399299082": {
         "modification_history": {},
