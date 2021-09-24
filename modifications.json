@@ -897,9 +897,19 @@
                     200000,
                     200000
                 ]
+            },
+            "synthetic_heart": {
+                "from": [
+                    98500,
+                    150750
+                ],
+                "to": [
+                    350000,
+                    350000
+                ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395028811399299082": {
         "modification_history": {},
