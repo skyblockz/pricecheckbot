@@ -868,6 +868,16 @@
                     3125
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    6000,
+                    6000
+                ],
+                "to": [
+                    9000,
+                    9000
+                ]
+            },
             "control_switch": {
                 "from": [
                     160000,
@@ -1039,7 +1049,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395028811399299082": {
         "modification_history": {},
