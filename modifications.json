@@ -908,6 +908,16 @@
                     150000
                 ]
             },
+            "lasrs_eye": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    150000,
+                    150000
+                ]
+            },
             "ornate_zombie_sword": {
                 "from": [
                     1250000,
@@ -999,7 +1009,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395028811399299082": {
         "modification_history": {},
