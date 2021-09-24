@@ -898,6 +898,16 @@
                     150000
                 ]
             },
+            "ornate_zombie_sword": {
+                "from": [
+                    1250000,
+                    1500000
+                ],
+                "to": [
+                    1000000,
+                    1000000
+                ]
+            },
             "pioneer_pickaxe": {
                 "from": [
                     5500000,
@@ -979,7 +989,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "395028811399299082": {
         "modification_history": {},
