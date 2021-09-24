@@ -1486,6 +1486,16 @@
                     20700000
                 ]
             },
+            "golden_carrot": {
+                "from": [
+                    10,
+                    12
+                ],
+                "to": [
+                    600000000,
+                    610000000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     103000000,
@@ -1597,7 +1607,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "508886846873272322": {
         "modification_history": {},
