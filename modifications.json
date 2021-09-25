@@ -837,6 +837,16 @@
                     10700000
                 ]
             },
+            "sponge_chestplate": {
+                "from": [
+                    950000,
+                    1000000
+                ],
+                "to": [
+                    900000,
+                    950000
+                ]
+            },
             "sponge_helmet": {
                 "from": [
                     750000,
@@ -848,7 +858,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "647100327048511519": {
         "modification_history": {},
