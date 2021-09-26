@@ -1333,6 +1333,16 @@
                     900000
                 ]
             },
+            "power_v": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    9000,
+                    13000
+                ]
+            },
             "superior_dragon_helmet": {
                 "from": [
                     6200000,
@@ -1344,7 +1354,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "766482279387627530": {
         "modification_history": {},
