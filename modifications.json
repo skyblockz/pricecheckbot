@@ -1447,6 +1447,16 @@
                     2000000
                 ]
             },
+            "final_destination_chestplate": {
+                "from": [
+                    2400000,
+                    2500000
+                ],
+                "to": [
+                    1700000,
+                    1900000
+                ]
+            },
             "first_master_star": {
                 "from": [
                     14000000,
@@ -1708,7 +1718,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "766482279387627530": {
         "modification_history": {},
