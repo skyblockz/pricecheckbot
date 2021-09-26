@@ -1647,6 +1647,16 @@
                     4800000
                 ]
             },
+            "scarfs_studies": {
+                "from": [
+                    540000,
+                    575000
+                ],
+                "to": [
+                    650000,
+                    690000
+                ]
+            },
             "seal_of_the_family": {
                 "from": [
                     83500000,
@@ -1728,7 +1738,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "766482279387627530": {
         "modification_history": {},
