@@ -1327,6 +1327,16 @@
                     15000000
                 ]
             },
+            "autopet_rules_2-pack": {
+                "from": [
+                    7950000,
+                    8000000
+                ],
+                "to": [
+                    8400000,
+                    8750000
+                ]
+            },
             "barry_century_cake": {
                 "from": [
                     2450000,
@@ -1698,7 +1708,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "766482279387627530": {
         "modification_history": {},
