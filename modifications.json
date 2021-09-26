@@ -1547,6 +1547,16 @@
                     6000000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    65000,
+                    100000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "titan_killer_vii": {
                 "from": [
                     4000000,
@@ -1588,7 +1598,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "766482279387627530": {
         "modification_history": {},
