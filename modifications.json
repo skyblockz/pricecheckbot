@@ -1467,6 +1467,16 @@
                     2000000
                 ]
             },
+            "feather_falling_vi": {
+                "from": [
+                    2000,
+                    2500
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "ferocity_enrichment": {
                 "from": [
                     1800000,
@@ -1798,7 +1808,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "766482279387627530": {
         "modification_history": {},
