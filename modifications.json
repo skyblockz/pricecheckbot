@@ -1557,6 +1557,16 @@
                     3450000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    70000,
+                    70000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "health_enrichment": {
                 "from": [
                     1850000,
@@ -1898,7 +1908,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "766482279387627530": {
         "modification_history": {},
