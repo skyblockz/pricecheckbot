@@ -1687,6 +1687,16 @@
                     200000
                 ]
             },
+            "thunderbolt_vi": {
+                "from": [
+                    4000000,
+                    5000000
+                ],
+                "to": [
+                    10000,
+                    20000
+                ]
+            },
             "titan_killer_vii": {
                 "from": [
                     4000000,
@@ -1738,7 +1748,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "766482279387627530": {
         "modification_history": {},
