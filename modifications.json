@@ -1327,6 +1327,16 @@
                     230000
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    1975000,
+                    2100000
+                ],
+                "to": [
+                    2480000,
+                    2600000
+                ]
+            },
             "auto_recombobulator": {
                 "from": [
                     12000000,
@@ -1788,7 +1798,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "766482279387627530": {
         "modification_history": {},
