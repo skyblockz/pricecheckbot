@@ -1558,6 +1558,16 @@
                     153900000
                 ]
             },
+            "god_potion": {
+                "from": [
+                    400000,
+                    410000
+                ],
+                "to": [
+                    620000,
+                    630000
+                ]
+            },
             "golden_jerry_artifact": {
                 "from": [
                     90000000,
@@ -1989,7 +1999,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "766482279387627530": {
         "modification_history": {},
