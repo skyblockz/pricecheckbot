@@ -1568,6 +1568,16 @@
                     3450000
                 ]
             },
+            "gyrokinetic_wand": {
+                "from": [
+                    45000000,
+                    47800000
+                ],
+                "to": [
+                    49900000,
+                    50000000
+                ]
+            },
             "healing_tissue": {
                 "from": [
                     70000,
@@ -1939,7 +1949,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "766482279387627530": {
         "modification_history": {},
