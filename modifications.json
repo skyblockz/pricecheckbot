@@ -209,6 +209,16 @@
                     3000000
                 ]
             },
+            "maxors_leggings": {
+                "from": [
+                    7000000,
+                    8000000
+                ],
+                "to": [
+                    6900000,
+                    7500000
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     600000000,
@@ -690,7 +700,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "364186225382391809": {
         "modification_history": {},
