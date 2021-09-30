@@ -339,6 +339,16 @@
                     400000
                 ]
             },
+            "second_master_star": {
+                "from": [
+                    29000000,
+                    30000000
+                ],
+                "to": [
+                    30000000,
+                    35000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     700000,
@@ -530,7 +540,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "364186225382391809": {
         "modification_history": {},
