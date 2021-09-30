@@ -79,6 +79,16 @@
                     150000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    56000000,
+                    57000000
+                ],
+                "to": [
+                    59250000,
+                    65000000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
                     105000000,
@@ -570,7 +580,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "364186225382391809": {
         "modification_history": {},
