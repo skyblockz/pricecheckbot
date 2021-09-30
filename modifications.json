@@ -79,6 +79,16 @@
                     150000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    19800000,
+                    22000000
+                ],
+                "to": [
+                    15000000,
+                    21000000
+                ]
+            },
             "gemstone_chamber": {
                 "from": [
                     17100000,
@@ -520,7 +530,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "364186225382391809": {
         "modification_history": {},
