@@ -89,6 +89,16 @@
                     65000000
                 ]
             },
+            "ender_relic": {
+                "from": [
+                    160000000,
+                    185000000
+                ],
+                "to": [
+                    192000000,
+                    210000000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
                     105000000,
@@ -580,7 +590,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "364186225382391809": {
         "modification_history": {},
