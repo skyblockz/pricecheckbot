@@ -519,6 +519,16 @@
                     4000000
                 ]
             },
+            "storms_leggings": {
+                "from": [
+                    6700000,
+                    6900000
+                ],
+                "to": [
+                    7700000,
+                    9000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     700000,
@@ -770,7 +780,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "364186225382391809": {
         "modification_history": {},
