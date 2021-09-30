@@ -299,6 +299,16 @@
                     16000000
                 ]
             },
+            "necrons_leggings": {
+                "from": [
+                    15850000,
+                    16000000
+                ],
+                "to": [
+                    18000000,
+                    21000000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     100000,
@@ -810,7 +820,7 @@
                 ]
             }
         },
-        "total_mods": 76
+        "total_mods": 77
     },
     "364186225382391809": {
         "modification_history": {},
