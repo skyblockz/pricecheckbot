@@ -89,6 +89,16 @@
                     21000000
                 ]
             },
+            "fourth_master_star": {
+                "from": [
+                    36500000,
+                    36880000
+                ],
+                "to": [
+                    47500000,
+                    55000000
+                ]
+            },
             "gemstone_chamber": {
                 "from": [
                     17100000,
@@ -550,7 +560,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "364186225382391809": {
         "modification_history": {},
