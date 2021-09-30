@@ -799,6 +799,16 @@
                     6500000
                 ]
             },
+            "wither_shield": {
+                "from": [
+                    6900000,
+                    7500000
+                ],
+                "to": [
+                    3800000,
+                    5000000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     280000,
@@ -840,7 +850,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "364186225382391809": {
         "modification_history": {},
