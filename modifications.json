@@ -289,6 +289,16 @@
                     22000000
                 ]
             },
+            "revenant_falchion": {
+                "from": [
+                    600000,
+                    600000
+                ],
+                "to": [
+                    700000,
+                    1200000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     700000,
@@ -480,7 +490,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "364186225382391809": {
         "modification_history": {},
