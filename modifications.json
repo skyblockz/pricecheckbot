@@ -79,6 +79,16 @@
                     150000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    105000000,
+                    125000000
+                ],
+                "to": [
+                    123500000,
+                    140000000
+                ]
+            },
             "first_master_star": {
                 "from": [
                     19800000,
@@ -560,7 +570,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "364186225382391809": {
         "modification_history": {},
