@@ -2695,6 +2695,16 @@
                     1000000
                 ]
             },
+            "amethyst_power_scroll": {
+                "from": [
+                    1000000,
+                    1950000
+                ],
+                "to": [
+                    1200000,
+                    1400000
+                ]
+            },
             "antique_remedies": {
                 "from": [
                     10000,
@@ -4196,7 +4206,7 @@
                 ]
             }
         },
-        "total_mods": 160
+        "total_mods": 161
     },
     "738319291648180315": {
         "modification_history": {
