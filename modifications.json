@@ -2675,6 +2675,16 @@
                     7000000
                 ]
             },
+            "amber_material": {
+                "from": [
+                    3450000,
+                    3700000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "antique_remedies": {
                 "from": [
                     10000,
@@ -4176,7 +4186,7 @@
                 ]
             }
         },
-        "total_mods": 158
+        "total_mods": 159
     },
     "738319291648180315": {
         "modification_history": {
