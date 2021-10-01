@@ -587,6 +587,16 @@
                     7500000
                 ]
             },
+            "necromancer_lord_boots": {
+                "from": [
+                    500000,
+                    750000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
             "necromancer_lord_chestplate": {
                 "from": [
                     8000000,
@@ -1438,7 +1448,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "364186225382391809": {
         "modification_history": {},
