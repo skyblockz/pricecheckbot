@@ -2685,6 +2685,16 @@
                     2500000
                 ]
             },
+            "amber_power_scroll": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    700000,
+                    1000000
+                ]
+            },
             "antique_remedies": {
                 "from": [
                     10000,
@@ -4186,7 +4196,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "738319291648180315": {
         "modification_history": {
