@@ -197,6 +197,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "adaptive_helmet": {
+                "from": [
+                    1900000,
+                    2000000
+                ],
+                "to": [
+                    1300000,
+                    2000000
+                ]
+            },
             "astraea": {
                 "from": [
                     635000000,
@@ -1228,7 +1238,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "364186225382391809": {
         "modification_history": {},
