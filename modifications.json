@@ -47,6 +47,16 @@
                     120000000
                 ]
             },
+            "titanium_artifact": {
+                "from": [
+                    6900000,
+                    7000000
+                ],
+                "to": [
+                    6000000,
+                    6500000
+                ]
+            },
             "titanium_relic": {
                 "from": [
                     24000000,
@@ -58,7 +68,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "308262271262654464": {
         "modification_history": {},
