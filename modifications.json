@@ -2665,6 +2665,16 @@
                     13000000
                 ]
             },
+            "all_skills_exp_super_boost": {
+                "from": [
+                    5900000,
+                    6300000
+                ],
+                "to": [
+                    5500000,
+                    7000000
+                ]
+            },
             "antique_remedies": {
                 "from": [
                     10000,
@@ -4166,7 +4176,7 @@
                 ]
             }
         },
-        "total_mods": 157
+        "total_mods": 158
     },
     "738319291648180315": {
         "modification_history": {
