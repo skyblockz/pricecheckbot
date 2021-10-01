@@ -2720,6 +2720,16 @@
                     2750000
                 ]
             },
+            "master_skull_tier_3": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    2250000,
+                    3000000
+                ]
+            },
             "master_skull_tier_4": {
                 "from": [
                     11500000,
@@ -2761,7 +2771,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "738319291648180315": {
         "modification_history": {
