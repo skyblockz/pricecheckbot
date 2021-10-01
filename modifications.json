@@ -2109,9 +2109,19 @@
                     1900000,
                     2000000
                 ]
+            },
+            "adaptive_leggings": {
+                "from": [
+                    300000,
+                    450000
+                ],
+                "to": [
+                    280000,
+                    300000
+                ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "738319291648180315": {
         "modification_history": {
