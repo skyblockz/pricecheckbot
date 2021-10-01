@@ -2089,9 +2089,19 @@
                     190000,
                     200000
                 ]
+            },
+            "adaptive_chestplate": {
+                "from": [
+                    2500000,
+                    3000000
+                ],
+                "to": [
+                    3400000,
+                    3600000
+                ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "738319291648180315": {
         "modification_history": {
