@@ -117,6 +117,16 @@
                     2250000
                 ]
             },
+            "magic_find_enrichment": {
+                "from": [
+                    1750000,
+                    1900000
+                ],
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
             "master_skull_tier_1": {
                 "from": [
                     1500000,
@@ -225,7 +235,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "308262271262654464": {
         "modification_history": {},
