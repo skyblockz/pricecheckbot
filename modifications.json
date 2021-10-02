@@ -2865,6 +2865,16 @@
                     14000000
                 ]
             },
+            "auto_recombobulator": {
+                "from": [
+                    14000000,
+                    15000000
+                ],
+                "to": [
+                    11500000,
+                    13000000
+                ]
+            },
             "axe_of_the_shredded": {
                 "from": [
                     65900000,
@@ -4306,7 +4316,7 @@
                 ]
             }
         },
-        "total_mods": 174
+        "total_mods": 175
     },
     "738319291648180315": {
         "modification_history": {
