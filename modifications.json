@@ -124,6 +124,16 @@
                     2000000
                 ]
             },
+            "social_display": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    10000,
+                    10000
+                ]
+            },
             "titanium_artifact": {
                 "from": [
                     6900000,
@@ -165,7 +175,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "308262271262654464": {
         "modification_history": {},
