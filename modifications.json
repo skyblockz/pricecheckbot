@@ -27,6 +27,16 @@
                     700000000
                 ]
             },
+            "attack_speed_enrichment": {
+                "from": [
+                    2480000,
+                    2600000
+                ],
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
             "divans_alloy": {
                 "from": [
                     1000000000,
@@ -175,7 +185,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "308262271262654464": {
         "modification_history": {},
