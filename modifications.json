@@ -177,6 +177,16 @@
                     2250000
                 ]
             },
+            "jumbo_backpack": {
+                "from": [
+                    1420000,
+                    1500000
+                ],
+                "to": [
+                    2300000,
+                    2600000
+                ]
+            },
             "magic_find_enrichment": {
                 "from": [
                     1750000,
@@ -345,7 +355,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "308262271262654464": {
         "modification_history": {},
