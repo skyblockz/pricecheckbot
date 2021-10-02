@@ -149,12 +149,12 @@
             },
             "flawless_jade_gemstone": {
                 "from": [
-                    3600008,
-                    3899999
-                ],
-                "to": [
                     2250000,
                     2360000
+                ],
+                "to": [
+                    3350000,
+                    3540000
                 ]
             },
             "giant_cleaver": {
@@ -405,7 +405,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "308262271262654464": {
         "modification_history": {},
