@@ -3185,6 +3185,16 @@
                     4250000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    9000,
+                    9000
+                ],
+                "to": [
+                    5000,
+                    20000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     230000,
@@ -4506,7 +4516,7 @@
                 ]
             }
         },
-        "total_mods": 195
+        "total_mods": 196
     },
     "738319291648180315": {
         "modification_history": {
