@@ -224,6 +224,16 @@
                     800000
                 ]
             },
+            "plasma": {
+                "from": [
+                    78000,
+                    100000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            },
             "pulpous_orange_juice": {
                 "from": [
                     49000,
@@ -375,7 +385,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "308262271262654464": {
         "modification_history": {},
