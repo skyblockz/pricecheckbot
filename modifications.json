@@ -5845,6 +5845,16 @@
                     550000
                 ]
             },
+            "emerald_armor_leggings": {
+                "from": [
+                    1115000,
+                    1200000
+                ],
+                "to": [
+                    550000,
+                    1100000
+                ]
+            },
             "frozen_blaze_chestplate": {
                 "from": [
                     11000000,
@@ -5886,6 +5896,6 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     }
 }
