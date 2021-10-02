@@ -2915,6 +2915,16 @@
                     4200000
                 ]
             },
+            "bat_firework": {
+                "from": [
+                    320000,
+                    350000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "beagle_hound_skin": {
                 "from": [
                     4700000,
@@ -4336,7 +4346,7 @@
                 ]
             }
         },
-        "total_mods": 178
+        "total_mods": 179
     },
     "738319291648180315": {
         "modification_history": {
