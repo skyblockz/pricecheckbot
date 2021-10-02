@@ -134,6 +134,16 @@
                     2000000
                 ]
             },
+            "sea_creature_chance_enrichment": {
+                "from": [
+                    2400000,
+                    2600000
+                ],
+                "to": [
+                    2000000,
+                    2250000
+                ]
+            },
             "social_display": {
                 "from": [
                     200000,
@@ -185,7 +195,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "308262271262654464": {
         "modification_history": {},
