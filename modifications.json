@@ -77,6 +77,16 @@
                     1300000000
                 ]
             },
+            "end_portal_fumes": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    150000,
+                    180000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     59250000,
@@ -285,7 +295,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "308262271262654464": {
         "modification_history": {},
