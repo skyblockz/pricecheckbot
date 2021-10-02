@@ -5735,6 +5735,16 @@
                     200000
                 ]
             },
+            "crystal_helmet": {
+                "from": [
+                    185000,
+                    200000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "frozen_blaze_chestplate": {
                 "from": [
                     11000000,
@@ -5776,6 +5786,6 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     }
 }
