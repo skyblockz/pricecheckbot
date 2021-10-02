@@ -47,6 +47,16 @@
                     20000
                 ]
             },
+            "decent_coffee": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    5000,
+                    30000
+                ]
+            },
             "divans_alloy": {
                 "from": [
                     1000000000,
@@ -265,7 +275,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "308262271262654464": {
         "modification_history": {},
