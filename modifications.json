@@ -3235,6 +3235,16 @@
                     5500000
                 ]
             },
+            "builders_wand": {
+                "from": [
+                    4450000,
+                    4800000
+                ],
+                "to": [
+                    4200000,
+                    4500000
+                ]
+            },
             "challenging_rod": {
                 "from": [
                     95000,
@@ -4536,7 +4546,7 @@
                 ]
             }
         },
-        "total_mods": 198
+        "total_mods": 199
     },
     "738319291648180315": {
         "modification_history": {
