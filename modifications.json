@@ -5825,6 +5825,16 @@
                     250000
                 ]
             },
+            "emerald_armor_boots": {
+                "from": [
+                    660000,
+                    1000000
+                ],
+                "to": [
+                    450000,
+                    550000
+                ]
+            },
             "frozen_blaze_chestplate": {
                 "from": [
                     11000000,
@@ -5866,6 +5876,6 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     }
 }
