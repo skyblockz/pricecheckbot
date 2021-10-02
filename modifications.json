@@ -5785,6 +5785,16 @@
                     60000
                 ]
             },
+            "ember_leggings": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    220000,
+                    250000
+                ]
+            },
             "frozen_blaze_chestplate": {
                 "from": [
                     11000000,
@@ -5826,6 +5836,6 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     }
 }
