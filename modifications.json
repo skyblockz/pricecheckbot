@@ -1320,6 +1320,16 @@
                     140000
                 ]
             },
+            "master_skull_tier_1": {
+                "from": [
+                    600000,
+                    650000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "necrons_handle": {
                 "from": [
                     605000000,
@@ -1351,7 +1361,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "766482279387627530": {
         "modification_history": {},
