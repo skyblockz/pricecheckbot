@@ -11,6 +11,16 @@
                     3200000
                 ]
             },
+            "fuming_potato_book": {
+                "from": [
+                    970000,
+                    990000
+                ],
+                "to": [
+                    1150000,
+                    1270000
+                ]
+            },
             "minion_storage_x-pender": {
                 "from": [
                     600000,
@@ -32,7 +42,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "236625470387519488": {
         "modification_history": {},
