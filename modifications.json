@@ -71,6 +71,16 @@
                     730000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    156000,
+                    171000
+                ],
+                "to": [
+                    406000,
+                    422000
+                ]
+            },
             "ultimate_carrot_candy": {
                 "from": [
                     1000000,
@@ -82,7 +92,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "236625470387519488": {
         "modification_history": {},
