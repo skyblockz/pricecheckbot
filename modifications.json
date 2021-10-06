@@ -1401,6 +1401,16 @@
                     47000000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    70000,
+                    80000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
             "horsemans_candle": {
                 "from": [
                     440000,
@@ -1462,7 +1472,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "766482279387627530": {
         "modification_history": {},
