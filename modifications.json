@@ -1461,6 +1461,16 @@
                     35000
                 ]
             },
+            "grizzly_bait": {
+                "from": [
+                    800000,
+                    1200000
+                ],
+                "to": [
+                    1900000,
+                    2000000
+                ]
+            },
             "horsemans_candle": {
                 "from": [
                     440000,
@@ -1592,7 +1602,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "766482279387627530": {
         "modification_history": {},
