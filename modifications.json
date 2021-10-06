@@ -1431,6 +1431,16 @@
                     140000
                 ]
             },
+            "lvl_1_epic_tarantula": {
+                "from": [
+                    85000,
+                    90000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "lvl_1_legendary_tarantula": {
                 "from": [
                     820000,
@@ -1482,7 +1492,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "766482279387627530": {
         "modification_history": {},
