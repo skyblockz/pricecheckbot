@@ -1521,6 +1521,13 @@
                     3600000
                 ]
             },
+            "lvl_100_epic_rock": {
+                "from": null,
+                "to": [
+                    4000000,
+                    4300000
+                ]
+            },
             "lvl_100_epic_silverfish": {
                 "from": [
                     5500000,
@@ -1622,7 +1629,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "766482279387627530": {
         "modification_history": {},
