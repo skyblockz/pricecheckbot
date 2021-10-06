@@ -1421,6 +1421,16 @@
                     57000000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    36000000,
+                    39000000
+                ],
+                "to": [
+                    44000000,
+                    46000000
+                ]
+            },
             "epic_combat_exp_boost": {
                 "from": [
                     1525000,
@@ -1572,7 +1582,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "766482279387627530": {
         "modification_history": {},
