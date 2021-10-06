@@ -1511,6 +1511,16 @@
                     3000000
                 ]
             },
+            "lvl_100_epic_mithril_golem": {
+                "from": [
+                    1800000,
+                    1900000
+                ],
+                "to": [
+                    3500000,
+                    3600000
+                ]
+            },
             "lvl_100_epic_silverfish": {
                 "from": [
                     5500000,
@@ -1612,7 +1622,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "766482279387627530": {
         "modification_history": {},
