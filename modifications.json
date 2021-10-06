@@ -1391,6 +1391,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "epic_combat_exp_boost": {
+                "from": [
+                    1525000,
+                    1600000
+                ],
+                "to": [
+                    2400000,
+                    2500000
+                ]
+            },
             "fourth_master_star": {
                 "from": [
                     47500000,
@@ -1492,7 +1502,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "766482279387627530": {
         "modification_history": {},
