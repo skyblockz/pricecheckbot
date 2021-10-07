@@ -1588,6 +1588,16 @@
                     2700000
                 ]
             },
+            "lvl_100_legendary_flying_fish": {
+                "from": [
+                    21000000,
+                    24000000
+                ],
+                "to": [
+                    25000000,
+                    25400000
+                ]
+            },
             "lvl_1_epic_flying_fish": {
                 "from": [
                     190000,
@@ -1699,7 +1709,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "766482279387627530": {
         "modification_history": {},
