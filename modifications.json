@@ -1588,6 +1588,16 @@
                     2700000
                 ]
             },
+            "lvl_1_epic_flying_fish": {
+                "from": [
+                    190000,
+                    200000
+                ],
+                "to": [
+                    380000,
+                    400000
+                ]
+            },
             "lvl_1_epic_squid": {
                 "from": [
                     1600000,
@@ -1679,7 +1689,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "766482279387627530": {
         "modification_history": {},
