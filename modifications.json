@@ -1541,6 +1541,16 @@
                     3000000
                 ]
             },
+            "lucky_clover_core": {
+                "from": [
+                    2290000,
+                    2500000
+                ],
+                "to": [
+                    3100000,
+                    3300000
+                ]
+            },
             "lvl_100_epic_mithril_golem": {
                 "from": [
                     1800000,
@@ -1659,7 +1669,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "766482279387627530": {
         "modification_history": {},
