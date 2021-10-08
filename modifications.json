@@ -1745,6 +1745,16 @@
                     1750000
                 ]
             },
+            "epic_fishing_exp_boost": {
+                "from": [
+                    2000000,
+                    2500000
+                ],
+                "to": [
+                    3500000,
+                    4000000
+                ]
+            },
             "exp_share": {
                 "from": [
                     730000,
@@ -2056,7 +2066,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "738319291648180315": {
         "modification_history": {
