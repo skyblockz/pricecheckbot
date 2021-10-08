@@ -2234,6 +2234,16 @@
                     600000
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    30000,
+                    31000
+                ],
+                "to": [
+                    27147,
+                    28498
+                ]
+            },
             "kismet_feather": {
                 "from": [
                     375000,
@@ -2492,7 +2502,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "766482279387627530": {
         "modification_history": {},
