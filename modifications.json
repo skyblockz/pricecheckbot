@@ -2968,6 +2968,16 @@
                     52500000
                 ]
             },
+            "titanium-infused_fuel_tank": {
+                "from": [
+                    15500000,
+                    16600000
+                ],
+                "to": [
+                    19999999,
+                    20250000
+                ]
+            },
             "titanium-plated_drill_engine": {
                 "from": [
                     39000000,
@@ -2989,7 +2999,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "766482279387627530": {
         "modification_history": {},
