@@ -2134,6 +2134,16 @@
                     57000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    75000,
+                    85000
+                ],
+                "to": [
+                    95000,
+                    105000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     36000000,
@@ -2402,7 +2412,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "766482279387627530": {
         "modification_history": {},
