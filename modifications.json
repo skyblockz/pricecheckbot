@@ -236,6 +236,16 @@
                     175000
                 ]
             },
+            "electron_transmitter": {
+                "from": [
+                    268000,
+                    268000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     386,
@@ -328,7 +338,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "395028811399299082": {
         "modification_history": {},
