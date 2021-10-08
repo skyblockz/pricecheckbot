@@ -1605,6 +1605,16 @@
                     20000
                 ]
             },
+            "common_combat_exp_boost": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    115000,
+                    150000
+                ]
+            },
             "dark_orb": {
                 "from": [
                     650000,
@@ -1986,7 +1996,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "738319291648180315": {
         "modification_history": {
