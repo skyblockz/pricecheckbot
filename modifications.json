@@ -1755,6 +1755,16 @@
                     4000000
                 ]
             },
+            "epic_foraging_exp_boost": {
+                "from": [
+                    2250000,
+                    2600000
+                ],
+                "to": [
+                    3000000,
+                    3100000
+                ]
+            },
             "exp_share": {
                 "from": [
                     730000,
@@ -2076,7 +2086,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "738319291648180315": {
         "modification_history": {
