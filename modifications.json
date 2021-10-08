@@ -1955,6 +1955,16 @@
                     750000
                 ]
             },
+            "rare_fishing_exp_boost": {
+                "from": [
+                    400000,
+                    850000
+                ],
+                "to": [
+                    725000,
+                    775000
+                ]
+            },
             "red_scarf": {
                 "from": [
                     450000,
@@ -2066,7 +2076,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "738319291648180315": {
         "modification_history": {
