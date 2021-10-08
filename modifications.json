@@ -2381,6 +2381,16 @@
                     2700000
                 ]
             },
+            "lvl_100_legendary_black_cat": {
+                "from": [
+                    33000000,
+                    35000000
+                ],
+                "to": [
+                    60000000,
+                    62000000
+                ]
+            },
             "lvl_100_legendary_flying_fish": {
                 "from": [
                     21000000,
@@ -2612,7 +2622,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "766482279387627530": {
         "modification_history": {},
