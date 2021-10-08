@@ -266,6 +266,16 @@
                     110000
                 ]
             },
+            "potato_talisman": {
+                "from": [
+                    88000000,
+                    10000000
+                ],
+                "to": [
+                    10700000,
+                    11000000
+                ]
+            },
             "revenant_minion_xii": {
                 "from": null,
                 "to": [
@@ -358,7 +368,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395028811399299082": {
         "modification_history": {},
