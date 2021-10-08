@@ -1672,6 +1672,16 @@
                     13500000
                 ]
             },
+            "candy_ring": {
+                "from": [
+                    325000,
+                    375000
+                ],
+                "to": [
+                    475000,
+                    600000
+                ]
+            },
             "common_combat_exp_boost": {
                 "from": [
                     100000,
@@ -2203,7 +2213,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "738319291648180315": {
         "modification_history": {
