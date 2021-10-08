@@ -2501,6 +2501,16 @@
                     62000000
                 ]
             },
+            "gemstone_fuel_tank": {
+                "from": [
+                    57000000,
+                    60000000
+                ],
+                "to": [
+                    47500000,
+                    50000000
+                ]
+            },
             "glacite_helmet": {
                 "from": [
                     70000,
@@ -2949,7 +2959,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "766482279387627530": {
         "modification_history": {},
