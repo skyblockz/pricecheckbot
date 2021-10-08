@@ -276,6 +276,16 @@
                     396
                 ]
             },
+            "gemstone_chamber": {
+                "from": [
+                    16750000,
+                    18000000
+                ],
+                "to": [
+                    12800000,
+                    12800000
+                ]
+            },
             "handy_blood_chalice": {
                 "from": [
                     2900000,
@@ -438,7 +448,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395028811399299082": {
         "modification_history": {},
