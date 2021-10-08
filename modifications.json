@@ -1865,6 +1865,16 @@
                     850000
                 ]
             },
+            "rare_combat_exp_boost": {
+                "from": [
+                    90000,
+                    150000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "red_scarf": {
                 "from": [
                     450000,
@@ -1966,7 +1976,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "738319291648180315": {
         "modification_history": {
