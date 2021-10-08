@@ -1692,6 +1692,16 @@
                     200000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    29000000,
+                    29500000
+                ],
+                "to": [
+                    30000000,
+                    32000000
+                ]
+            },
             "common_combat_exp_boost": {
                 "from": [
                     100000,
@@ -2223,7 +2233,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "738319291648180315": {
         "modification_history": {
