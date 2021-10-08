@@ -1535,6 +1535,16 @@
     },
     "725542601926901770": {
         "modification_history": {
+            "all_skills_exp_boost": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "all_skills_exp_super_boost": {
                 "from": [
                     5500000,
@@ -1936,7 +1946,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "738319291648180315": {
         "modification_history": {
