@@ -250,6 +250,16 @@
                     11000000
                 ]
             },
+            "shark_scale_helmet": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    540000,
+                    550000
+                ]
+            },
             "travel_scroll_to_the_void_sepulture": {
                 "from": null,
                 "to": [
@@ -268,7 +278,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395028811399299082": {
         "modification_history": {},
