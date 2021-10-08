@@ -1735,6 +1735,16 @@
                     2000000
                 ]
             },
+            "epic_farming_exp_boost": {
+                "from": [
+                    1630000,
+                    1650000
+                ],
+                "to": [
+                    1500000,
+                    1750000
+                ]
+            },
             "exp_share": {
                 "from": [
                     730000,
@@ -2036,7 +2046,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "738319291648180315": {
         "modification_history": {
