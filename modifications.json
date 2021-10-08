@@ -276,6 +276,16 @@
                     110000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2500000,
+                    2750000
+                ],
+                "to": [
+                    3300000,
+                    3500000
+                ]
+            },
             "potato_talisman": {
                 "from": [
                     88000000,
@@ -388,7 +398,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "395028811399299082": {
         "modification_history": {},
