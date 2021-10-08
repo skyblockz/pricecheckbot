@@ -1955,6 +1955,16 @@
                     1200000
                 ]
             },
+            "uncommon_combat_exp_boost": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    110000,
+                    150000
+                ]
+            },
             "warped_stone": {
                 "from": [
                     4890000,
@@ -1976,7 +1986,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "738319291648180315": {
         "modification_history": {
