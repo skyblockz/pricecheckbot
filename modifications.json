@@ -216,6 +216,16 @@
                     396
                 ]
             },
+            "helmet_of_growth": {
+                "from": [
+                    400000,
+                    400000
+                ],
+                "to": [
+                    100000,
+                    110000
+                ]
+            },
             "revenant_minion_xii": {
                 "from": null,
                 "to": [
@@ -238,7 +248,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "395028811399299082": {
         "modification_history": {},
