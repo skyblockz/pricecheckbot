@@ -101,6 +101,16 @@
                     8200000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    15000000,
+                    17500000
+                ],
+                "to": [
+                    13700000,
+                    14700000
+                ]
+            },
             "flower_of_truth": {
                 "from": [
                     3375000,
@@ -412,7 +422,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "236625470387519488": {
         "modification_history": {},
