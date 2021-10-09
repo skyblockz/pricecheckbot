@@ -311,6 +311,16 @@
                     8300000
                 ]
             },
+            "terminator": {
+                "from": [
+                    740000000,
+                    800000000
+                ],
+                "to": [
+                    778000000,
+                    810000000
+                ]
+            },
             "ultimate_carrot_candy": {
                 "from": [
                     1000000,
@@ -322,7 +332,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "236625470387519488": {
         "modification_history": {},
