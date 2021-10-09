@@ -261,6 +261,16 @@
                     730000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    79000000,
+                    85000000
+                ],
+                "to": [
+                    85000000,
+                    87000000
+                ]
+            },
             "personal_compactor_4000": {
                 "from": [
                     950000,
@@ -472,7 +482,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "236625470387519488": {
         "modification_history": {},
