@@ -141,6 +141,16 @@
                     3800000
                 ]
             },
+            "storms_helmet": {
+                "from": [
+                    3300000,
+                    4000000
+                ],
+                "to": [
+                    3800000,
+                    4300000
+                ]
+            },
             "storms_leggings": {
                 "from": [
                     7700000,
@@ -162,7 +172,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "236625470387519488": {
         "modification_history": {},
