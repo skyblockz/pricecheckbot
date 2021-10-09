@@ -81,6 +81,16 @@
                     400000
                 ]
             },
+            "diamantes_handle": {
+                "from": [
+                    1300000,
+                    1400000
+                ],
+                "to": [
+                    1495000,
+                    1500000
+                ]
+            },
             "enchanted_glowstone": {
                 "from": [
                     62209,
@@ -572,7 +582,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "236625470387519488": {
         "modification_history": {},
