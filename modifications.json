@@ -121,6 +121,16 @@
                     3200000
                 ]
             },
+            "fourth_master_star": {
+                "from": [
+                    60000000,
+                    62000000
+                ],
+                "to": [
+                    48300000,
+                    49300000
+                ]
+            },
             "fuming_potato_book": {
                 "from": [
                     970000,
@@ -432,7 +442,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "236625470387519488": {
         "modification_history": {},
