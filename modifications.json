@@ -631,6 +631,16 @@
                     1480000
                 ]
             },
+            "vampire_witch_mask": {
+                "from": [
+                    3000000,
+                    3500000
+                ],
+                "to": [
+                    4900000,
+                    5300000
+                ]
+            },
             "venoms_touch": {
                 "from": [
                     640000,
@@ -652,7 +662,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "236625470387519488": {
         "modification_history": {},
