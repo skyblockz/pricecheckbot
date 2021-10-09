@@ -211,6 +211,16 @@
                     400000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    3300000,
+                    3500000
+                ],
+                "to": [
+                    2888888,
+                    3300000
+                ]
+            },
             "maxors_boots": {
                 "from": [
                     2700000,
@@ -482,7 +492,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "236625470387519488": {
         "modification_history": {},
