@@ -481,6 +481,16 @@
                     43090000
                 ]
             },
+            "treasure_artifact": {
+                "from": [
+                    30000000,
+                    32500000
+                ],
+                "to": [
+                    36100000,
+                    37400000
+                ]
+            },
             "treasure_ring": {
                 "from": [
                     3800000,
@@ -512,7 +522,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "236625470387519488": {
         "modification_history": {},
