@@ -131,6 +131,16 @@
                     422000
                 ]
             },
+            "storms_boots": {
+                "from": [
+                    2900000,
+                    4000000
+                ],
+                "to": [
+                    3300000,
+                    3800000
+                ]
+            },
             "ultimate_carrot_candy": {
                 "from": [
                     1000000,
@@ -142,7 +152,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "236625470387519488": {
         "modification_history": {},
