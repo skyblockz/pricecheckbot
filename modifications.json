@@ -181,6 +181,16 @@
                     730000
                 ]
             },
+            "quartz": {
+                "from": [
+                    15,
+                    20
+                ],
+                "to": [
+                    7,
+                    10
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5700000,
@@ -262,7 +272,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "236625470387519488": {
         "modification_history": {},
