@@ -61,6 +61,16 @@
                     12500000
                 ]
             },
+            "candy_relic": {
+                "from": [
+                    12500000,
+                    13500000
+                ],
+                "to": [
+                    11600000,
+                    12000000
+                ]
+            },
             "cheap_tuxedo_jacket": {
                 "from": [
                     1200000,
@@ -702,7 +712,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "236625470387519488": {
         "modification_history": {},
