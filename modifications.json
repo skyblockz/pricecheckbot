@@ -163,6 +163,16 @@
                     10500000
                 ]
             },
+            "reaper_orb": {
+                "from": [
+                    36000000,
+                    38000000
+                ],
+                "to": [
+                    750000,
+                    1500000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     840000,
@@ -344,7 +354,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "364186225382391809": {
         "modification_history": {},
