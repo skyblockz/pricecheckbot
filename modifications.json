@@ -73,6 +73,16 @@
                     2300000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    290000,
+                    340000
+                ],
+                "to": [
+                    325000,
+                    500000
+                ]
+            },
             "boots_of_the_pack": {
                 "from": [
                     310000,
@@ -384,7 +394,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "364186225382391809": {
         "modification_history": {},
