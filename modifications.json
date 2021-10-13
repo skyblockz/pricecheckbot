@@ -173,6 +173,16 @@
                     1000000
                 ]
             },
+            "precursor_gear": {
+                "from": [
+                    800000,
+                    900000
+                ],
+                "to": [
+                    600000,
+                    800000
+                ]
+            },
             "reaper_boots": {
                 "from": [
                     7800000,
@@ -534,7 +544,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "364186225382391809": {
         "modification_history": {},
