@@ -2066,6 +2066,16 @@
                     8750000
                 ]
             },
+            "superlite_motor": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    50000,
+                    60000
+                ]
+            },
             "treecapitator": {
                 "from": [
                     2000000,
@@ -2117,7 +2127,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "766482279387627530": {
         "modification_history": {},
