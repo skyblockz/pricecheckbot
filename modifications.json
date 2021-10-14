@@ -636,6 +636,16 @@
                     15000000
                 ]
             },
+            "perfect_sapphire_gemstone": {
+                "from": [
+                    25000000,
+                    31999995
+                ],
+                "to": [
+                    12000000,
+                    13875000
+                ]
+            },
             "perfect_topaz_gemstone": {
                 "from": [
                     30000000,
@@ -697,7 +707,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "395028811399299082": {
         "modification_history": {},
