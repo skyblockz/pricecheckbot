@@ -2036,6 +2036,16 @@
                     88500000
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    36000,
+                    39000
+                ],
+                "to": [
+                    34000,
+                    35500
+                ]
+            },
             "remnant_of_the_eye": {
                 "from": [
                     27000,
@@ -2167,7 +2177,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "766482279387627530": {
         "modification_history": {},
