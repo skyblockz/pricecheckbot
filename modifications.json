@@ -576,6 +576,16 @@
                     28500000
                 ]
             },
+            "gemstone_chamber": {
+                "from": [
+                    12800000,
+                    12800000
+                ],
+                "to": [
+                    12000000,
+                    12000000
+                ]
+            },
             "helmet_of_divan": {
                 "from": [
                     34000000,
@@ -597,7 +607,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "395028811399299082": {
         "modification_history": {},
