@@ -1922,6 +1922,16 @@
                     1600000
                 ]
             },
+            "legion_i": {
+                "from": [
+                    1400000,
+                    1750000
+                ],
+                "to": [
+                    1250000,
+                    1350000
+                ]
+            },
             "lvl_100_epic_armadillo": {
                 "from": null,
                 "to": [
@@ -2017,7 +2027,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "766482279387627530": {
         "modification_history": {},
