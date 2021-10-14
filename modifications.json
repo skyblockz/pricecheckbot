@@ -1922,6 +1922,16 @@
                     21800000
                 ]
             },
+            "bonzo_fragment": {
+                "from": [
+                    5000,
+                    20000
+                ],
+                "to": [
+                    18000,
+                    22000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     95000,
@@ -2067,7 +2077,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "766482279387627530": {
         "modification_history": {},
