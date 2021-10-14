@@ -1912,6 +1912,16 @@
                     21800000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    95000,
+                    105000
+                ],
+                "to": [
+                    90000,
+                    95000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     1100000,
@@ -2027,7 +2037,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "766482279387627530": {
         "modification_history": {},
