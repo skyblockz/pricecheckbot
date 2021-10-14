@@ -1909,6 +1909,16 @@
                     3800000
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    76000,
+                    78000
+                ],
+                "to": [
+                    72200,
+                    24500
+                ]
+            },
             "nether_artifact": {
                 "from": null,
                 "to": [
@@ -1977,7 +1987,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "766482279387627530": {
         "modification_history": {},
