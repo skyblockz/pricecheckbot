@@ -1932,6 +1932,16 @@
                     22000
                 ]
             },
+            "control_switch": {
+                "from": [
+                    240000,
+                    240000
+                ],
+                "to": [
+                    135000,
+                    140000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     95000,
@@ -2127,7 +2137,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "766482279387627530": {
         "modification_history": {},
