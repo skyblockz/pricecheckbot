@@ -797,6 +797,16 @@
                     10430000
                 ]
             },
+            "robotron_reflector": {
+                "from": [
+                    500000,
+                    500000
+                ],
+                "to": [
+                    495000,
+                    550000
+                ]
+            },
             "sorrow": {
                 "from": [
                     500000,
@@ -858,7 +868,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
