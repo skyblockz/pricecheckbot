@@ -777,6 +777,16 @@
                     790000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    50000,
+                    60000
+                ],
+                "to": [
+                    69000,
+                    70000
+                ]
+            },
             "helmet_of_divan": {
                 "from": [
                     34000000,
@@ -1038,7 +1048,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "395028811399299082": {
         "modification_history": {},
