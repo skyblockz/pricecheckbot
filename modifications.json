@@ -767,6 +767,16 @@
                     12000000
                 ]
             },
+            "gemstone_mixture": {
+                "from": [
+                    2160000,
+                    2195000
+                ],
+                "to": [
+                    1300000,
+                    1340000
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     720000,
@@ -1058,7 +1068,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "395028811399299082": {
         "modification_history": {},
