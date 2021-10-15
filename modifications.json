@@ -677,6 +677,16 @@
                     200000
                 ]
             },
+            "etherwarp_merger": {
+                "from": [
+                    500000,
+                    600000
+                ],
+                "to": [
+                    800000,
+                    800000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     6600000,
@@ -898,7 +908,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "395028811399299082": {
         "modification_history": {},
