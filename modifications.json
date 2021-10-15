@@ -777,6 +777,16 @@
                     1340000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    30000,
+                    35000
+                ],
+                "to": [
+                    40000,
+                    45000
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     720000,
@@ -1068,7 +1078,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "395028811399299082": {
         "modification_history": {},
