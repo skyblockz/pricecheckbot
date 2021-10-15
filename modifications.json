@@ -657,6 +657,16 @@
                     26000000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    140000,
+                    140000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": [
                     32000000,
@@ -988,7 +998,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "395028811399299082": {
         "modification_history": {},
