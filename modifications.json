@@ -647,6 +647,16 @@
                     28500000
                 ]
             },
+            "electron_transmitter": {
+                "from": [
+                    150000,
+                    160000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     6600000,
@@ -818,7 +828,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "395028811399299082": {
         "modification_history": {},
