@@ -840,6 +840,16 @@
                     800000
                 ]
             },
+            "pumpkin_minion_xi": {
+                "from": [
+                    800000,
+                    800000
+                ],
+                "to": [
+                    950000,
+                    1000000
+                ]
+            },
             "recombobulator_3000": {
                 "from": [
                     5881004,
@@ -861,7 +871,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "608358478712537110": {
         "modification_history": {},
