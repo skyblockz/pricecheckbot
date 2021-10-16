@@ -65,6 +65,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "minion_expander": {
+                "from": [
+                    60000,
+                    60000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "saber-tooth_tiger_skin": {
                 "from": [
                     10000000,
@@ -76,7 +86,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "395028811399299082": {
         "modification_history": {},
