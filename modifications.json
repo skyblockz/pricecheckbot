@@ -1314,8 +1314,19 @@
         "total_mods": 0
     },
     "754652206736605286": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "shark_scale_helmet": {
+                "from": [
+                    540000,
+                    550000
+                ],
+                "to": [
+                    750000,
+                    770000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "766482279387627530": {
         "modification_history": {},
