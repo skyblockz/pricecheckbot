@@ -960,6 +960,16 @@
                     270000
                 ]
             },
+            "voidling_minion_i": {
+                "from": [
+                    300000,
+                    500000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "voidling_minion_xi": {
                 "from": [
                     310000000,
@@ -1001,7 +1011,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "608358478712537110": {
         "modification_history": {},
