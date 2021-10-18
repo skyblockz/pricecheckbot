@@ -880,6 +880,16 @@
                     5800000
                 ]
             },
+            "super_compactor_3000": {
+                "from": [
+                    703346,
+                    724678
+                ],
+                "to": [
+                    570000,
+                    600000
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     300000,
@@ -891,7 +901,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "608358478712537110": {
         "modification_history": {},
