@@ -960,6 +960,16 @@
                     270000
                 ]
             },
+            "vorpal_katana": {
+                "from": [
+                    5400000,
+                    5400000
+                ],
+                "to": [
+                    7000000,
+                    7500000
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     300000,
@@ -981,7 +991,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "608358478712537110": {
         "modification_history": {},
