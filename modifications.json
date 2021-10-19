@@ -1351,6 +1351,16 @@
                     7500000
                 ]
             },
+            "wand_of_healing": {
+                "from": [
+                    3500,
+                    4500
+                ],
+                "to": [
+                    400,
+                    400
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     300000,
@@ -1372,7 +1382,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "608358478712537110": {
         "modification_history": {},
