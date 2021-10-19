@@ -383,6 +383,16 @@
                     2750000
                 ]
             },
+            "shadow_assassin_helmet": {
+                "from": [
+                    1700000,
+                    2500000
+                ],
+                "to": [
+                    1300000,
+                    1800000
+                ]
+            },
             "spirit_bone": {
                 "from": [
                     1000000,
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "364186225382391809": {
         "modification_history": {},
