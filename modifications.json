@@ -53,6 +53,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    280000,
+                    400000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     800000,
@@ -444,7 +454,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "364186225382391809": {
         "modification_history": {},
