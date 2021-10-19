@@ -1371,6 +1371,16 @@
                     50000
                 ]
             },
+            "wand_of_restoration": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    700000,
+                    700000
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     300000,
@@ -1392,7 +1402,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "608358478712537110": {
         "modification_history": {},
