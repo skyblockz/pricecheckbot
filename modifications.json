@@ -1361,6 +1361,16 @@
                     400
                 ]
             },
+            "wand_of_mending": {
+                "from": [
+                    90000,
+                    95000
+                ],
+                "to": [
+                    40000,
+                    50000
+                ]
+            },
             "wheat_minion_xi": {
                 "from": [
                     300000,
@@ -1382,7 +1392,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "608358478712537110": {
         "modification_history": {},
