@@ -723,6 +723,16 @@
                     2500000
                 ]
             },
+            "wither_leggings": {
+                "from": [
+                    6000000,
+                    7000000
+                ],
+                "to": [
+                    4900000,
+                    6000000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     120000,
@@ -764,7 +774,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "364186225382391809": {
         "modification_history": {},
