@@ -1371,6 +1371,16 @@
                     270000
                 ]
             },
+            "venoms_touch": {
+                "from": [
+                    585000,
+                    640000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "voidling_minion_i": {
                 "from": [
                     300000,
@@ -1462,7 +1472,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "608358478712537110": {
         "modification_history": {},
