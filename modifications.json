@@ -1291,6 +1291,16 @@
                     57000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    42000,
+                    42900
+                ],
+                "to": [
+                    40000,
+                    40000
+                ]
+            },
             "soul_fragment": {
                 "from": [
                     625000,
@@ -1412,7 +1422,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "608358478712537110": {
         "modification_history": {},
