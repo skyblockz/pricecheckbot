@@ -173,6 +173,16 @@
                     100000
                 ]
             },
+            "giant_tooth": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    325000,
+                    500000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     115000,
@@ -724,7 +734,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "364186225382391809": {
         "modification_history": {},
