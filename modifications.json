@@ -53,6 +53,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "adaptive_blade": {
+                "from": [
+                    650000,
+                    650000
+                ],
+                "to": [
+                    575000,
+                    650000
+                ]
+            },
             "bonzos_mask": {
                 "from": [
                     300000,
@@ -464,7 +474,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "364186225382391809": {
         "modification_history": {},
