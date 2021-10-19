@@ -703,6 +703,16 @@
                     1200000
                 ]
             },
+            "wither_chestplate": {
+                "from": [
+                    18000000,
+                    23000000
+                ],
+                "to": [
+                    16300000,
+                    18000000
+                ]
+            },
             "wither_helmet": {
                 "from": [
                     2200000,
@@ -754,7 +764,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "364186225382391809": {
         "modification_history": {},
