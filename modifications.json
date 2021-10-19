@@ -243,6 +243,16 @@
                     8000000
                 ]
             },
+            "maxors_boots": {
+                "from": [
+                    2500000,
+                    2800000
+                ],
+                "to": [
+                    2000000,
+                    2500000
+                ]
+            },
             "maxors_chestplate": {
                 "from": [
                     23000000,
@@ -814,7 +824,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "364186225382391809": {
         "modification_history": {},
