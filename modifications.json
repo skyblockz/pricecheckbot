@@ -1331,6 +1331,16 @@
                     600000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    5,
+                    7
+                ],
+                "to": [
+                    110,
+                    150
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     284656,
@@ -1432,7 +1442,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "608358478712537110": {
         "modification_history": {},
