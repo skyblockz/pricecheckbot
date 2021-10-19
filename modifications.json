@@ -1351,6 +1351,16 @@
                     7500000
                 ]
             },
+            "wand_of_atonement": {
+                "from": [
+                    4000000,
+                    4000000
+                ],
+                "to": [
+                    3200000,
+                    3500000
+                ]
+            },
             "wand_of_healing": {
                 "from": [
                     3500,
@@ -1402,7 +1412,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "608358478712537110": {
         "modification_history": {},
