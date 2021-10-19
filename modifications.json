@@ -183,6 +183,16 @@
                     500000
                 ]
             },
+            "goldors_helmet": {
+                "from": [
+                    3500000,
+                    3700000
+                ],
+                "to": [
+                    2900000,
+                    3500000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     115000,
@@ -824,7 +834,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "364186225382391809": {
         "modification_history": {},
