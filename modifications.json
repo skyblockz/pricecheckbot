@@ -373,6 +373,16 @@
                     9000000
                 ]
             },
+            "necrons_helmet": {
+                "from": [
+                    14000000,
+                    14500000
+                ],
+                "to": [
+                    13500000,
+                    16000000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     150000,
@@ -904,7 +914,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "364186225382391809": {
         "modification_history": {},
