@@ -273,6 +273,16 @@
                     4000000
                 ]
             },
+            "necromancer_sword": {
+                "from": [
+                    8000000,
+                    9000000
+                ],
+                "to": [
+                    7700000,
+                    9000000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     150000,
@@ -714,7 +724,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "364186225382391809": {
         "modification_history": {},
