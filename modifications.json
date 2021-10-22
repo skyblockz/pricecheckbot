@@ -2757,6 +2757,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "holy_dragon_boots": {
+                "from": [
+                    125000,
+                    155000
+                ],
+                "to": [
+                    120000,
+                    135000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     255000,
@@ -2868,7 +2878,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "766482279387627530": {
         "modification_history": {},
