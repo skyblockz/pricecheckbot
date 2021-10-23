@@ -1056,6 +1056,16 @@
                     3800000
                 ]
             },
+            "maxors_leggings": {
+                "from": [
+                    6450000,
+                    7000000
+                ],
+                "to": [
+                    6100000,
+                    6600000
+                ]
+            },
             "minion_expander": {
                 "from": [
                     60000,
@@ -1237,7 +1247,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395028811399299082": {
         "modification_history": {},
