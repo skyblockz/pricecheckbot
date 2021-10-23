@@ -1056,6 +1056,16 @@
                     870
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    74800000,
+                    75000000
+                ],
+                "to": [
+                    78800000,
+                    80000000
+                ]
+            },
             "red_claw_egg": {
                 "from": [
                     400000,
@@ -1107,7 +1117,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "395028811399299082": {
         "modification_history": {},
