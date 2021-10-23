@@ -996,6 +996,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "jacobs_ticket": {
+                "from": [
+                    8760,
+                    8920
+                ],
+                "to": [
+                    8430,
+                    8975
+                ]
+            },
             "minion_expander": {
                 "from": [
                     60000,
@@ -1027,7 +1037,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "395028811399299082": {
         "modification_history": {},
