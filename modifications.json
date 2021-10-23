@@ -1046,6 +1046,16 @@
                     20000000
                 ]
             },
+            "shark_fin": {
+                "from": [
+                    51,
+                    80
+                ],
+                "to": [
+                    39,
+                    73
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     985100,
@@ -1067,7 +1077,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "395028811399299082": {
         "modification_history": {},
