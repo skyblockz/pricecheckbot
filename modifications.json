@@ -363,6 +363,16 @@
                     146
                 ]
             },
+            "transmission_tuner": {
+                "from": [
+                    80000,
+                    150000
+                ],
+                "to": [
+                    180000,
+                    220000
+                ]
+            },
             "undead_catalyst": {
                 "from": [
                     2000,
@@ -394,7 +404,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "395028811399299082": {
         "modification_history": {},
