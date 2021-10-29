@@ -223,6 +223,16 @@
                     95000000
                 ]
             },
+            "pocket_espresso_machine": {
+                "from": [
+                    580000,
+                    600000
+                ],
+                "to": [
+                    400000,
+                    430000
+                ]
+            },
             "power_crystal": {
                 "from": [
                     140000,
@@ -404,7 +414,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395028811399299082": {
         "modification_history": {},
