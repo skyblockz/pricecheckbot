@@ -196,6 +196,16 @@
                     146
                 ]
             },
+            "undead_catalyst": {
+                "from": [
+                    2000,
+                    4900
+                ],
+                "to": [
+                    8000,
+                    12000
+                ]
+            },
             "wolf_tooth": {
                 "from": [
                     180,
@@ -207,7 +217,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "395028811399299082": {
         "modification_history": {},
