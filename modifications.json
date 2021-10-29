@@ -166,6 +166,16 @@
                     100000
                 ]
             },
+            "mana_steal_iii": {
+                "from": [
+                    175000,
+                    200000
+                ],
+                "to": [
+                    500000,
+                    500000
+                ]
+            },
             "null_atom": {
                 "from": null,
                 "to": [
@@ -384,7 +394,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "395028811399299082": {
         "modification_history": {},
