@@ -236,6 +236,16 @@
                     40000
                 ]
             },
+            "spider_catalyst": {
+                "from": [
+                    39000,
+                    40000
+                ],
+                "to": [
+                    20000,
+                    23000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     110,
@@ -277,7 +287,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "395028811399299082": {
         "modification_history": {},
