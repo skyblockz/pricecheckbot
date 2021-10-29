@@ -156,6 +156,16 @@
                     21400
                 ]
             },
+            "null_sphere": {
+                "from": [
+                    2552,
+                    2572
+                ],
+                "to": [
+                    1720,
+                    1770
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     78800000,
@@ -317,7 +327,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395028811399299082": {
         "modification_history": {},
