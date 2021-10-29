@@ -86,6 +86,16 @@
                     11550000
                 ]
             },
+            "beheaded_horror": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    30000,
+                    45000
+                ]
+            },
             "critical_vi": {
                 "from": [
                     70000,
@@ -237,7 +247,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395028811399299082": {
         "modification_history": {},
