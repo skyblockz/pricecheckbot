@@ -136,6 +136,16 @@
                     100000
                 ]
             },
+            "red_claw_egg": {
+                "from": [
+                    250000,
+                    290000
+                ],
+                "to": [
+                    200000,
+                    200000
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     20,
@@ -177,7 +187,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "395028811399299082": {
         "modification_history": {},
