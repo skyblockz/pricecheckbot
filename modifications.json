@@ -136,6 +136,16 @@
                     76800000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    88000000,
+                    89000000
+                ],
+                "to": [
+                    92000000,
+                    95000000
+                ]
+            },
             "power_crystal": {
                 "from": [
                     140000,
@@ -197,7 +207,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395028811399299082": {
         "modification_history": {},
