@@ -106,6 +106,16 @@
                     100000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    800000,
+                    880000
+                ]
+            },
             "fly_swatter": {
                 "from": [
                     500000,
@@ -307,7 +317,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
