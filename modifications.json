@@ -1833,6 +1833,16 @@
                     150000
                 ]
             },
+            "unstable_dragon_helmet": {
+                "from": [
+                    160000,
+                    165000
+                ],
+                "to": [
+                    200000,
+                    215000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     140000,
@@ -1874,7 +1884,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "766482279387627530": {
         "modification_history": {},
