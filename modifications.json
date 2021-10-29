@@ -116,6 +116,16 @@
                     880000
                 ]
             },
+            "etherwarp_merger": {
+                "from": [
+                    800000,
+                    800000
+                ],
+                "to": [
+                    940000,
+                    1100000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
                     105000000,
@@ -474,7 +484,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "395028811399299082": {
         "modification_history": {},
