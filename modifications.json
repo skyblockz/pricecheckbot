@@ -96,6 +96,16 @@
                     92000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    22500
+                ],
+                "to": [
+                    20400,
+                    21400
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     20,
@@ -137,7 +147,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395028811399299082": {
         "modification_history": {},
