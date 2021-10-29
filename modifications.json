@@ -443,6 +443,16 @@
                     12000
                 ]
             },
+            "void_conqueror_enderman_skin": {
+                "from": [
+                    1000000,
+                    1180000
+                ],
+                "to": [
+                    1500000,
+                    1900000
+                ]
+            },
             "warden_heart": {
                 "from": [
                     266000000,
@@ -464,7 +474,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "395028811399299082": {
         "modification_history": {},
