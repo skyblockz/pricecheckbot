@@ -116,6 +116,16 @@
                     880000
                 ]
             },
+            "exceedingly_rare_ender_artifact_upgrader": {
+                "from": [
+                    105000000,
+                    120000000
+                ],
+                "to": [
+                    109000000,
+                    125000000
+                ]
+            },
             "fly_swatter": {
                 "from": [
                     500000,
@@ -454,7 +464,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "395028811399299082": {
         "modification_history": {},
