@@ -256,6 +256,16 @@
                     23000
                 ]
             },
+            "tarantula_talisman": {
+                "from": [
+                    3500000,
+                    3500000
+                ],
+                "to": [
+                    3100000,
+                    3500000
+                ]
+            },
             "tarantula_web": {
                 "from": [
                     110,
@@ -297,7 +307,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395028811399299082": {
         "modification_history": {},
