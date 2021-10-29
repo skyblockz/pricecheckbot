@@ -126,6 +126,16 @@
                     21400
                 ]
             },
+            "overflux_capacitor": {
+                "from": [
+                    78800000,
+                    80000000
+                ],
+                "to": [
+                    76800000,
+                    76800000
+                ]
+            },
             "power_crystal": {
                 "from": [
                     140000,
@@ -187,7 +197,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "395028811399299082": {
         "modification_history": {},
