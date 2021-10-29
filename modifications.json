@@ -166,6 +166,16 @@
                     200000
                 ]
             },
+            "revenant_catalyst": {
+                "from": [
+                    22000,
+                    25000
+                ],
+                "to": [
+                    9000,
+                    38000
+                ]
+            },
             "revenant_flesh": {
                 "from": [
                     20,
@@ -227,7 +237,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "395028811399299082": {
         "modification_history": {},
