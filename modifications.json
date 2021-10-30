@@ -2197,6 +2197,16 @@
                     215000
                 ]
             },
+            "storms_boots": {
+                "from": [
+                    3900000,
+                    4300000
+                ],
+                "to": [
+                    4400000,
+                    4800000
+                ]
+            },
             "storms_chestplate": {
                 "from": [
                     19600000,
@@ -2378,7 +2388,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "766482279387627530": {
         "modification_history": {},
