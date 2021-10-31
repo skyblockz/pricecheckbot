@@ -809,6 +809,16 @@
                     7000000
                 ]
             },
+            "magma_bucket": {
+                "from": [
+                    1600000,
+                    1700000
+                ],
+                "to": [
+                    1800000,
+                    2000000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2400,
@@ -900,7 +910,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "608358478712537110": {
         "modification_history": {},
