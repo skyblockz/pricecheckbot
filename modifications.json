@@ -819,6 +819,16 @@
                     820000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    73000,
+                    83000
+                ],
+                "to": [
+                    52000,
+                    57000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     290000,
@@ -1020,7 +1030,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "608358478712537110": {
         "modification_history": {},
