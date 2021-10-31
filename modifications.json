@@ -819,6 +819,16 @@
                     2950
                 ]
             },
+            "plasma_bucket": {
+                "from": [
+                    4100000,
+                    4500000
+                ],
+                "to": [
+                    5000000,
+                    5200000
+                ]
+            },
             "protector_dragon_fragment": {
                 "from": [
                     2300,
@@ -890,7 +900,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "608358478712537110": {
         "modification_history": {},
