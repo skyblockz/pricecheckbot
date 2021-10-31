@@ -809,6 +809,16 @@
                     7000000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2300,
+                    5000
+                ],
+                "to": [
+                    2500,
+                    3000
+                ]
+            },
             "soul_whip": {
                 "from": [
                     12700000,
@@ -830,7 +840,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "608358478712537110": {
         "modification_history": {},
