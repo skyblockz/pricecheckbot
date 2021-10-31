@@ -819,6 +819,16 @@
                     3200000
                 ]
             },
+            "green_gift": {
+                "from": [
+                    10000,
+                    10200
+                ],
+                "to": [
+                    8900,
+                    9600
+                ]
+            },
             "hyper_catalyst": {
                 "from": [
                     135000,
@@ -950,7 +960,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "608358478712537110": {
         "modification_history": {},
