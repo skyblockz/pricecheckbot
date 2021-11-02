@@ -1835,6 +1835,16 @@
                     800000
                 ]
             },
+            "strong_dragon_helmet": {
+                "from": [
+                    800000,
+                    1000000
+                ],
+                "to": [
+                    800000,
+                    850000
+                ]
+            },
             "strong_dragon_leggings": {
                 "from": [
                     1050000,
@@ -1936,7 +1946,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "766482279387627530": {
         "modification_history": {},
