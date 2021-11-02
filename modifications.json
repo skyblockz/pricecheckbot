@@ -1615,6 +1615,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "block_zapper": {
+                "from": [
+                    2000000,
+                    2200000
+                ],
+                "to": [
+                    2200000,
+                    2500000
+                ]
+            },
             "builders_wand": {
                 "from": [
                     4400000,
@@ -1706,7 +1716,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "766482279387627530": {
         "modification_history": {},
