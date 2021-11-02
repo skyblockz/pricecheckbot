@@ -1665,6 +1665,16 @@
                     280000
                 ]
             },
+            "minion_storage_x-pender": {
+                "from": [
+                    670000,
+                    730000
+                ],
+                "to": [
+                    700000,
+                    750000
+                ]
+            },
             "ultimate_carrot_candy_upgrade": {
                 "from": [
                     3400000,
@@ -1676,7 +1686,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "766482279387627530": {
         "modification_history": {},
