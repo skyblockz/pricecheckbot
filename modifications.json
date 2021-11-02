@@ -1615,6 +1615,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "builders_wand": {
+                "from": [
+                    4400000,
+                    4700000
+                ],
+                "to": [
+                    4800000,
+                    5000000
+                ]
+            },
             "colossal_experience_bottle_upgrade": {
                 "from": [
                     400000,
@@ -1696,7 +1706,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "766482279387627530": {
         "modification_history": {},
