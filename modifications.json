@@ -1615,6 +1615,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "colossal_experience_bottle_upgrade": {
+                "from": [
+                    400000,
+                    500000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            },
             "god_potion": {
                 "from": [
                     650000,
@@ -1656,7 +1666,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "766482279387627530": {
         "modification_history": {},
