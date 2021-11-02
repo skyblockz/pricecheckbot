@@ -1614,8 +1614,19 @@
         "total_mods": 0
     },
     "754652206736605286": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "god_potion": {
+                "from": [
+                    650000,
+                    690000
+                ],
+                "to": [
+                    600000,
+                    650000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "766482279387627530": {
         "modification_history": {},
