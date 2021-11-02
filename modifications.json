@@ -1635,6 +1635,16 @@
                     650000
                 ]
             },
+            "hologram": {
+                "from": [
+                    325000,
+                    350000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "hyper_catalyst_upgrade": {
                 "from": [
                     90000,
@@ -1686,7 +1696,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "766482279387627530": {
         "modification_history": {},
