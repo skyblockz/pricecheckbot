@@ -215,6 +215,16 @@
                     180000
                 ]
             },
+            "bat_the_fish": {
+                "from": [
+                    499000,
+                    525000
+                ],
+                "to": [
+                    90000,
+                    200000
+                ]
+            },
             "control_switch": {
                 "from": [
                     200000,
@@ -336,7 +346,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "395028811399299082": {
         "modification_history": {},
