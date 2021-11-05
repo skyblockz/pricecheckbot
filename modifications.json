@@ -165,6 +165,16 @@
                     100000
                 ]
             },
+            "electron_transmitter": {
+                "from": [
+                    200000,
+                    200000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     495000,
@@ -176,7 +186,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "395028811399299082": {
         "modification_history": {},
