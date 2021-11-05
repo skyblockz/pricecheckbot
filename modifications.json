@@ -205,6 +205,16 @@
                     1300000
                 ]
             },
+            "bat_firework": {
+                "from": [
+                    100000,
+                    100000
+                ],
+                "to": [
+                    120000,
+                    180000
+                ]
+            },
             "control_switch": {
                 "from": [
                     200000,
@@ -326,7 +336,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "395028811399299082": {
         "modification_history": {},
