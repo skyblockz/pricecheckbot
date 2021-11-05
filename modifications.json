@@ -1728,6 +1728,16 @@
                     43000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    34600,
+                    36700
+                ],
+                "to": [
+                    36000,
+                    37600
+                ]
+            },
             "sludge_juice": {
                 "from": [
                     1950,
@@ -1859,7 +1869,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "608358478712537110": {
         "modification_history": {},
