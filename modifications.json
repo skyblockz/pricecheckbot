@@ -2116,6 +2116,16 @@
                     1400000
                 ]
             },
+            "goldors_chestplate": {
+                "from": [
+                    17900000,
+                    19000000
+                ],
+                "to": [
+                    19000000,
+                    20000000
+                ]
+            },
             "goldors_leggings": {
                 "from": [
                     6400000,
@@ -2637,7 +2647,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "766482279387627530": {
         "modification_history": {},
