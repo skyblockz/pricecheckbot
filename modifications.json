@@ -1718,6 +1718,16 @@
                     43000
                 ]
             },
+            "sludge_juice": {
+                "from": [
+                    1950,
+                    2100
+                ],
+                "to": [
+                    1600,
+                    1750
+                ]
+            },
             "soul_fragment": {
                 "from": [
                     1267000,
@@ -1839,7 +1849,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "608358478712537110": {
         "modification_history": {},
