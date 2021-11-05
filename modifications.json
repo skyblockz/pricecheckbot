@@ -1558,6 +1558,16 @@
                     1270
                 ]
             },
+            "enchanted_slime_block": {
+                "from": [
+                    131325,
+                    144899
+                ],
+                "to": [
+                    140000,
+                    180000
+                ]
+            },
             "enchanted_spruce_wood": {
                 "from": [
                     1120,
@@ -1849,7 +1859,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "608358478712537110": {
         "modification_history": {},
