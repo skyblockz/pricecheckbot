@@ -235,6 +235,16 @@
                     80000
                 ]
             },
+            "bejeweled_handle": {
+                "from": [
+                    150000,
+                    200000
+                ],
+                "to": [
+                    100000,
+                    100000
+                ]
+            },
             "control_switch": {
                 "from": [
                     200000,
@@ -356,7 +366,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395028811399299082": {
         "modification_history": {},
