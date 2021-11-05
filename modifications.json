@@ -2136,6 +2136,16 @@
                     20000000
                 ]
             },
+            "goldors_helmet": {
+                "from": [
+                    2900000,
+                    3500000
+                ],
+                "to": [
+                    4000000,
+                    4600000
+                ]
+            },
             "goldors_leggings": {
                 "from": [
                     6400000,
@@ -2657,7 +2667,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "766482279387627530": {
         "modification_history": {},
