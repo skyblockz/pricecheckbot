@@ -2206,6 +2206,16 @@
                     19500000
                 ]
             },
+            "maxors_leggings": {
+                "from": [
+                    6800000,
+                    7100000
+                ],
+                "to": [
+                    7000000,
+                    7600000
+                ]
+            },
             "minion_storage_x-pender": {
                 "from": [
                     670000,
@@ -2497,7 +2507,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "766482279387627530": {
         "modification_history": {},
