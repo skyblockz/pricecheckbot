@@ -1478,6 +1478,16 @@
                     375
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    377145,
+                    338021
+                ],
+                "to": [
+                    400000,
+                    430000
+                ]
+            },
             "enchanted_dark_oak_wood": {
                 "from": [
                     258,
@@ -1789,7 +1799,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "608358478712537110": {
         "modification_history": {},
