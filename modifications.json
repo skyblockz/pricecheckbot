@@ -2196,6 +2196,16 @@
                     280000
                 ]
             },
+            "maxors_chestplate": {
+                "from": [
+                    17900000,
+                    18100000
+                ],
+                "to": [
+                    18900000,
+                    19500000
+                ]
+            },
             "minion_storage_x-pender": {
                 "from": [
                     670000,
@@ -2487,7 +2497,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "766482279387627530": {
         "modification_history": {},
