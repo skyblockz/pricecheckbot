@@ -173,6 +173,16 @@
                     400000
                 ]
             },
+            "strong_dragon_helmet": {
+                "from": [
+                    800000,
+                    850000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
             "unstable_dragon_boots": {
                 "from": [
                     140000,
@@ -294,7 +304,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "364186225382391809": {
         "modification_history": {},
