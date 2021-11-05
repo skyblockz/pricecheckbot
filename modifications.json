@@ -165,6 +165,16 @@
                     100000
                 ]
             },
+            "autopet_rules_2-pack": {
+                "from": [
+                    7500000,
+                    8000000
+                ],
+                "to": [
+                    8000000,
+                    8000000
+                ]
+            },
             "control_switch": {
                 "from": [
                     200000,
@@ -226,7 +236,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "395028811399299082": {
         "modification_history": {},
