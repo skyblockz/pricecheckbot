@@ -2066,6 +2066,16 @@
                     600000
                 ]
             },
+            "golden_professor_head": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    910000,
+                    960000
+                ]
+            },
             "golden_scarf_head": {
                 "from": [
                     600000,
@@ -2447,7 +2457,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "766482279387627530": {
         "modification_history": {},
