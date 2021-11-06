@@ -944,6 +944,16 @@
                     550000
                 ]
             },
+            "enchanted_netherrack": {
+                "from": [
+                    240,
+                    249
+                ],
+                "to": [
+                    265,
+                    280
+                ]
+            },
             "enchanted_quartz_block": {
                 "from": [
                     195000,
@@ -1065,7 +1075,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "537441116413231134": {
         "modification_history": {},
