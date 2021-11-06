@@ -924,6 +924,16 @@
                     180000
                 ]
             },
+            "golden_livid_head": {
+                "from": [
+                    560000,
+                    600000
+                ],
+                "to": [
+                    800000,
+                    900000
+                ]
+            },
             "haste_ring": {
                 "from": [
                     345000,
@@ -1005,7 +1015,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "537441116413231134": {
         "modification_history": {},
