@@ -804,6 +804,16 @@
                     550000
                 ]
             },
+            "juju_shortbow": {
+                "from": [
+                    20000000,
+                    21000000
+                ],
+                "to": [
+                    1650000,
+                    17200000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     80000,
@@ -815,7 +825,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "537441116413231134": {
         "modification_history": {},
