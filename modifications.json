@@ -2032,6 +2032,16 @@
                     20000
                 ]
             },
+            "lightning_rune_iii": {
+                "from": [
+                    500000,
+                    800000
+                ],
+                "to": [
+                    220000,
+                    350000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     60000,
@@ -2113,7 +2123,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "888892003088236554": {
         "modification_history": {},
