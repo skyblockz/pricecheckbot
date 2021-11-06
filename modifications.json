@@ -2002,6 +2002,16 @@
                     80000
                 ]
             },
+            "necrons_chestplate": {
+                "from": [
+                    28000000,
+                    28600000
+                ],
+                "to": [
+                    28000000,
+                    30000000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     9000,
@@ -2023,7 +2033,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "888892003088236554": {
         "modification_history": {},
