@@ -944,6 +944,16 @@
                     550000
                 ]
             },
+            "diamond": {
+                "from": [
+                    8,
+                    9
+                ],
+                "to": [
+                    7,
+                    7
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1240,
@@ -1095,7 +1105,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "537441116413231134": {
         "modification_history": {},
