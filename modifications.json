@@ -153,6 +153,16 @@
                     175000000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    35000,
+                    100000
+                ],
+                "to": [
+                    50000,
+                    80000
+                ]
+            },
             "lvl_1_legendary_black_cat": {
                 "from": [
                     20750000,
@@ -204,7 +214,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "340061760704872448": {
         "modification_history": {},
