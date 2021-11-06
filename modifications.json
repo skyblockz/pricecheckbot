@@ -53,6 +53,16 @@
                     153000
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    220200,
+                    225000
+                ],
+                "to": [
+                    185000,
+                    195000
+                ]
+            },
             "sludge_juice": {
                 "from": [
                     1600,
@@ -64,7 +74,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "340061760704872448": {
         "modification_history": {},
