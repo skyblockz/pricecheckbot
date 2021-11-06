@@ -2032,6 +2032,16 @@
                     20000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    490000,
+                    490000
+                ],
+                "to": [
+                    400000,
+                    420000
+                ]
+            },
             "golden_rune_iii": {
                 "from": [
                     300000,
@@ -2173,7 +2183,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "888892003088236554": {
         "modification_history": {},
