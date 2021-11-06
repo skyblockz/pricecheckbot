@@ -2062,6 +2062,16 @@
                     15000
                 ]
             },
+            "treecapitator": {
+                "from": [
+                    1400000,
+                    1550000
+                ],
+                "to": [
+                    1250000,
+                    1550000
+                ]
+            },
             "uncommon_combat_exp_boost": {
                 "from": [
                     110000,
@@ -2083,7 +2093,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "888892003088236554": {
         "modification_history": {},
