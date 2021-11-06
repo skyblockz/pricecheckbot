@@ -2032,6 +2032,16 @@
                     20000
                 ]
             },
+            "golden_rune_iii": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    35000,
+                    50000
+                ]
+            },
             "lightning_rune_iii": {
                 "from": [
                     500000,
@@ -2143,7 +2153,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "888892003088236554": {
         "modification_history": {},
