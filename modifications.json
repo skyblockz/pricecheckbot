@@ -794,6 +794,16 @@
                     160000
                 ]
             },
+            "bat_talisman": {
+                "from": [
+                    160000,
+                    200000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "blood_god_crest": {
                 "from": [
                     3600000,
@@ -875,7 +885,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "537441116413231134": {
         "modification_history": {},
