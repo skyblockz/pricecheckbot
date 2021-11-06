@@ -2062,6 +2062,16 @@
                     30000000
                 ]
             },
+            "pestilence_rune_iii": {
+                "from": [
+                    200000,
+                    250000
+                ],
+                "to": [
+                    110000,
+                    140000
+                ]
+            },
             "rainbow_rune_iii": {
                 "from": [
                     500000,
@@ -2123,7 +2133,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "888892003088236554": {
         "modification_history": {},
