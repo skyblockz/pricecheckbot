@@ -1991,9 +1991,19 @@
                     15000,
                     20000
                 ]
+            },
+            "revenant_catalyst": {
+                "from": [
+                    9000,
+                    38000
+                ],
+                "to": [
+                    8000,
+                    15000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "888892003088236554": {
         "modification_history": {},
