@@ -884,6 +884,16 @@
                     550000
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    195000,
+                    193000
+                ],
+                "to": [
+                    160000,
+                    180000
+                ]
+            },
             "haste_ring": {
                 "from": [
                     345000,
@@ -965,7 +975,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "537441116413231134": {
         "modification_history": {},
