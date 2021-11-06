@@ -2052,6 +2052,16 @@
                     30000000
                 ]
             },
+            "rainbow_rune_iii": {
+                "from": [
+                    500000,
+                    800000
+                ],
+                "to": [
+                    250000,
+                    310000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     9000,
@@ -2093,7 +2103,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "888892003088236554": {
         "modification_history": {},
