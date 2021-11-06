@@ -1004,6 +1004,16 @@
                     7
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    52500,
+                    71700
+                ],
+                "to": [
+                    50000,
+                    61000
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1240,
@@ -1175,7 +1185,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "537441116413231134": {
         "modification_history": {},
