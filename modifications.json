@@ -42,9 +42,19 @@
                     990,
                     1100
                 ]
+            },
+            "enchanted_gold_block": {
+                "from": [
+                    194000,
+                    202099
+                ],
+                "to": [
+                    149000,
+                    153000
+                ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "340061760704872448": {
         "modification_history": {},
