@@ -133,6 +133,16 @@
                     195000
                 ]
             },
+            "enchanted_pufferfish": {
+                "from": [
+                    2400,
+                    2425
+                ],
+                "to": [
+                    2200,
+                    2400
+                ]
+            },
             "enchanted_quartz_block": {
                 "from": [
                     160000,
@@ -304,7 +314,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "340061760704872448": {
         "modification_history": {},
