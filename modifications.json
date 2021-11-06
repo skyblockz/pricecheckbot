@@ -1992,6 +1992,16 @@
                     20000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    60000,
+                    80000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     9000,
@@ -2013,7 +2023,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "888892003088236554": {
         "modification_history": {},
