@@ -1992,6 +1992,16 @@
                     18000000
                 ]
             },
+            "crystal_fragment": {
+                "from": [
+                    90000,
+                    95000
+                ],
+                "to": [
+                    110000,
+                    125000
+                ]
+            },
             "earth_shard": {
                 "from": [
                     120000,
@@ -2043,7 +2053,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "888892003088236554": {
         "modification_history": {},
