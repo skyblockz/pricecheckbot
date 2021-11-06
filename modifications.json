@@ -834,6 +834,16 @@
                     70000
                 ]
             },
+            "saddle": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    110000,
+                    130000
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     350000,
@@ -845,7 +855,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "537441116413231134": {
         "modification_history": {},
