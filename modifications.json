@@ -833,9 +833,19 @@
                     60000,
                     70000
                 ]
+            },
+            "treasure_talisman": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    380000,
+                    430000
+                ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "537441116413231134": {
         "modification_history": {},
