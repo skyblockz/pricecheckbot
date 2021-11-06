@@ -2052,6 +2052,16 @@
                     80000
                 ]
             },
+            "magical_rune_iii": {
+                "from": [
+                    900000,
+                    1000000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "necrons_chestplate": {
                 "from": [
                     28000000,
@@ -2133,7 +2143,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "888892003088236554": {
         "modification_history": {},
