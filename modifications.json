@@ -764,6 +764,16 @@
     },
     "519621152117882915": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    280000,
+                    400000
+                ],
+                "to": [
+                    400000,
+                    550000
+                ]
+            },
             "livid_fragment": {
                 "from": [
                     80000,
@@ -775,7 +785,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "537441116413231134": {
         "modification_history": {},
