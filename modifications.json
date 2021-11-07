@@ -1682,6 +1682,16 @@
                     1975000
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    72200,
+                    74500
+                ],
+                "to": [
+                    76200,
+                    76800
+                ]
+            },
             "null_atom": {
                 "from": [
                     33000,
@@ -1953,7 +1963,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "537441116413231134": {
         "modification_history": {},
