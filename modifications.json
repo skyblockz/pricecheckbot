@@ -1142,6 +1142,16 @@
                     2600
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    86000,
+                    88600
+                ],
+                "to": [
+                    47000,
+                    83000
+                ]
+            },
             "enchanted_cactus": {
                 "from": [
                     52500,
@@ -1943,7 +1953,7 @@
                 ]
             }
         },
-        "total_mods": 94
+        "total_mods": 95
     },
     "537441116413231134": {
         "modification_history": {},
