@@ -2920,6 +2920,16 @@
                     310000
                 ]
             },
+            "rare_silent_death": {
+                "from": [
+                    48000,
+                    60000
+                ],
+                "to": [
+                    30000,
+                    50000
+                ]
+            },
             "revenant_catalyst": {
                 "from": [
                     9000,
@@ -2971,7 +2981,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "888892003088236554": {
         "modification_history": {},
