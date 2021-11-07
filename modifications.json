@@ -2820,6 +2820,16 @@
                     50000
                 ]
             },
+            "infinite_quiver_10": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    240000,
+                    255000
+                ]
+            },
             "lightning_rune_iii": {
                 "from": [
                     500000,
@@ -2951,7 +2961,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "888892003088236554": {
         "modification_history": {},
