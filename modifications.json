@@ -1542,6 +1542,16 @@
                     4500000
                 ]
             },
+            "tiger_shark_tooth": {
+                "from": [
+                    10000,
+                    15250
+                ],
+                "to": [
+                    8000,
+                    10500
+                ]
+            },
             "treasure_talisman": {
                 "from": [
                     350000,
@@ -1593,7 +1603,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "537441116413231134": {
         "modification_history": {},
