@@ -1172,6 +1172,16 @@
                     165000
                 ]
             },
+            "enchanted_cooked_salmon": {
+                "from": [
+                    240000,
+                    260000
+                ],
+                "to": [
+                    248000,
+                    259000
+                ]
+            },
             "enchanted_diamond": {
                 "from": [
                     1240,
@@ -1663,7 +1673,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "537441116413231134": {
         "modification_history": {},
