@@ -2950,6 +2950,16 @@
                     1550000
                 ]
             },
+            "turbo-potato_i": {
+                "from": [
+                    66000,
+                    70000
+                ],
+                "to": [
+                    120000,
+                    140000
+                ]
+            },
             "uncommon_combat_exp_boost": {
                 "from": [
                     110000,
@@ -2981,7 +2991,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "888892003088236554": {
         "modification_history": {},
