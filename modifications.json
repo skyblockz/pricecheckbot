@@ -1272,6 +1272,16 @@
                     56000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    100000,
+                    113000
+                ],
+                "to": [
+                    90000,
+                    116000
+                ]
+            },
             "golden_livid_head": {
                 "from": [
                     560000,
@@ -1493,7 +1503,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "537441116413231134": {
         "modification_history": {},
