@@ -2770,6 +2770,16 @@
                     125000
                 ]
             },
+            "combo_i": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    40000,
+                    60000
+                ]
+            },
             "common_combat_exp_boost": {
                 "from": [
                     115000,
@@ -2961,7 +2971,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "888892003088236554": {
         "modification_history": {},
