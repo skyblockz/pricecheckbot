@@ -2984,6 +2984,16 @@
                     310000
                 ]
             },
+            "rare_conjuring": {
+                "from": [
+                    25000,
+                    25000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "rare_silent_death": {
                 "from": [
                     48000,
@@ -3075,7 +3085,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "888892003088236554": {
         "modification_history": {},
