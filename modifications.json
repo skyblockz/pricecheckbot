@@ -2847,6 +2847,16 @@
                     50000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    69000,
+                    70000
+                ],
+                "to": [
+                    75000,
+                    100000
+                ]
+            },
             "infinite_quiver_10": {
                 "from": [
                     300000,
@@ -3018,7 +3028,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "888892003088236554": {
         "modification_history": {},
