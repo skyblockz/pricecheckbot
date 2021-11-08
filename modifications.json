@@ -2814,6 +2814,16 @@
                     115000
                 ]
             },
+            "conjuring": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    15000,
+                    20000
+                ]
+            },
             "crystal_fragment": {
                 "from": [
                     90000,
@@ -3065,7 +3075,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "888892003088236554": {
         "modification_history": {},
