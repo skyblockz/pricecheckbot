@@ -1940,6 +1940,16 @@
                     500
                 ]
             },
+            "old_dragon_boots": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    250000
+                ]
+            },
             "old_dragon_fragment": {
                 "from": [
                     2400,
@@ -2301,7 +2311,7 @@
                 ]
             }
         },
-        "total_mods": 134
+        "total_mods": 135
     },
     "537441116413231134": {
         "modification_history": {},
