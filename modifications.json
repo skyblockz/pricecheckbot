@@ -1770,6 +1770,16 @@
                     400000
                 ]
             },
+            "farmer_boots": {
+                "from": [
+                    300000,
+                    400000
+                ],
+                "to": [
+                    300000,
+                    340000
+                ]
+            },
             "golden_livid_head": {
                 "from": [
                     560000,
@@ -2221,7 +2231,7 @@
                 ]
             }
         },
-        "total_mods": 125
+        "total_mods": 126
     },
     "537441116413231134": {
         "modification_history": {},
