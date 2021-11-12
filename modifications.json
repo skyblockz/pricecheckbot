@@ -611,6 +611,16 @@
                     8650
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    37000,
+                    38500
+                ],
+                "to": [
+                    44000,
+                    49000
+                ]
+            },
             "tasty_cheese": {
                 "from": [
                     10000,
@@ -656,7 +666,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "395028811399299082": {
         "modification_history": {},
