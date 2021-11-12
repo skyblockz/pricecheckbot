@@ -625,6 +625,16 @@
                     27000000
                 ]
             },
+            "worm_membrane": {
+                "from": [
+                    80000,
+                    90000
+                ],
+                "to": [
+                    88000,
+                    92000
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": [
                     100000,
@@ -636,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "395028811399299082": {
         "modification_history": {},
