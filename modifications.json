@@ -561,6 +561,16 @@
                     10900000
                 ]
             },
+            "tasty_cheese": {
+                "from": [
+                    10000,
+                    16666
+                ],
+                "to": [
+                    5350,
+                    6500
+                ]
+            },
             "travel_scroll_to_the_museum": {
                 "from": null,
                 "to": [
@@ -576,7 +586,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "395028811399299082": {
         "modification_history": {},
