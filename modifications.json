@@ -450,6 +450,16 @@
                     650000
                 ]
             },
+            "goblin_egg": {
+                "from": [
+                    8000,
+                    9000
+                ],
+                "to": [
+                    3370,
+                    3870
+                ]
+            },
             "gold_macaw_parrot_skin": {
                 "from": [
                     20000000,
@@ -586,7 +596,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
