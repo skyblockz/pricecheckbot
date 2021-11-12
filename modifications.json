@@ -461,6 +461,16 @@
                     8200000
                 ]
             },
+            "reaper_mask": {
+                "from": [
+                    8600000,
+                    10000000
+                ],
+                "to": [
+                    10800000,
+                    10900000
+                ]
+            },
             "travel_scroll_to_the_museum": {
                 "from": null,
                 "to": [
@@ -476,7 +486,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395028811399299082": {
         "modification_history": {},
