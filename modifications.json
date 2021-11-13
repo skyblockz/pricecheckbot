@@ -3317,6 +3317,16 @@
                     1400000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    69420,
+                    100000
+                ],
+                "to": [
+                    45000,
+                    55000
+                ]
+            },
             "great_spook_leggings": {
                 "from": null,
                 "to": [
@@ -3595,7 +3605,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "766482279387627530": {
         "modification_history": {},
