@@ -1342,6 +1342,16 @@
                     240000
                 ]
             },
+            "explosive_bow": {
+                "from": [
+                    915000,
+                    1000000
+                ],
+                "to": [
+                    750000,
+                    800000
+                ]
+            },
             "minion_expander": {
                 "from": [
                     100000,
@@ -1353,7 +1363,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "888892003088236554": {
         "modification_history": {},
