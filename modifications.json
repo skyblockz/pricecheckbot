@@ -1331,8 +1331,19 @@
         "total_mods": 0
     },
     "853342013491249183": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "minion_expander": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    20000,
+                    25000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "888892003088236554": {
         "modification_history": {},
