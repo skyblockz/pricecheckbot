@@ -703,6 +703,16 @@
                     150000
                 ]
             },
+            "holy_dragon_chestplate": {
+                "from": [
+                    350000,
+                    500000
+                ],
+                "to": [
+                    250000,
+                    260000
+                ]
+            },
             "holy_dragon_leggings": {
                 "from": [
                     200000,
@@ -834,7 +844,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "537441116413231134": {
         "modification_history": {},
