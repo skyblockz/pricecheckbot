@@ -3307,6 +3307,16 @@
                     30000
                 ]
             },
+            "dragon_claw": {
+                "from": [
+                    1050000,
+                    1200000
+                ],
+                "to": [
+                    1350000,
+                    1400000
+                ]
+            },
             "great_spook_leggings": {
                 "from": null,
                 "to": [
@@ -3585,7 +3595,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "766482279387627530": {
         "modification_history": {},
