@@ -1695,6 +1695,16 @@
                     5160000
                 ]
             },
+            "dungeon_orb": {
+                "from": [
+                    1000,
+                    5200
+                ],
+                "to": [
+                    0,
+                    0
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     253000,
@@ -1796,7 +1806,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "888892003088236554": {
         "modification_history": {},
