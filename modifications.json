@@ -1725,6 +1725,16 @@
                     60000
                 ]
             },
+            "rejuvenate_v": {
+                "from": [
+                    750000,
+                    1250000
+                ],
+                "to": [
+                    850000,
+                    1000000
+                ]
+            },
             "wand_of_restoration": {
                 "from": [
                     700000,
@@ -1746,7 +1756,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "888892003088236554": {
         "modification_history": {},
