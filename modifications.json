@@ -1675,6 +1675,16 @@
                     10000
                 ]
             },
+            "cow_minion_xi": {
+                "from": [
+                    3100000,
+                    3100000
+                ],
+                "to": [
+                    2150000,
+                    21700000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     253000,
@@ -1766,7 +1776,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "888892003088236554": {
         "modification_history": {},
