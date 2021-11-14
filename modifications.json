@@ -1735,6 +1735,16 @@
                     900000
                 ]
             },
+            "trap": {
+                "from": [
+                    500,
+                    6000
+                ],
+                "to": [
+                    500,
+                    500
+                ]
+            },
             "wand_of_restoration": {
                 "from": [
                     700000,
@@ -1756,7 +1766,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "888892003088236554": {
         "modification_history": {},
