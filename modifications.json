@@ -1644,8 +1644,16 @@
         "total_mods": 0
     },
     "754652206736605286": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "grandfather_clock": {
+                "from": null,
+                "to": [
+                    750420,
+                    1250000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "766482279387627530": {
         "modification_history": {},
