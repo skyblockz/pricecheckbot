@@ -996,6 +996,16 @@
                     9800000
                 ]
             },
+            "worm_membrane": {
+                "from": [
+                    88000,
+                    92000
+                ],
+                "to": [
+                    83200,
+                    84500
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     160000,
@@ -1037,7 +1047,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "537441116413231134": {
         "modification_history": {},
