@@ -68,6 +68,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "reaper_mask": {
+                "from": [
+                    10800000,
+                    10900000
+                ],
+                "to": [
+                    14400000,
+                    16000000
+                ]
+            },
             "warden_helmet": {
                 "from": [
                     295000000,
@@ -79,7 +89,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "364186225382391809": {
         "modification_history": {},
