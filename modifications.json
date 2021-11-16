@@ -1250,6 +1250,16 @@
                     9800000
                 ]
             },
+            "tarantula_boots": {
+                "from": [
+                    900000,
+                    1100000
+                ],
+                "to": [
+                    720000,
+                    800000
+                ]
+            },
             "worm_membrane": {
                 "from": [
                     88000,
@@ -1301,7 +1311,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "537441116413231134": {
         "modification_history": {},
