@@ -148,6 +148,16 @@
                     30000000
                 ]
             },
+            "tarantula_chestplate": {
+                "from": [
+                    550000,
+                    650000
+                ],
+                "to": [
+                    649000,
+                    1000000
+                ]
+            },
             "tarantula_helmet": {
                 "from": [
                     745000,
@@ -169,7 +179,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "364186225382391809": {
         "modification_history": {},
