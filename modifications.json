@@ -148,6 +148,16 @@
                     30000000
                 ]
             },
+            "tarantula_helmet": {
+                "from": [
+                    745000,
+                    800000
+                ],
+                "to": [
+                    780000,
+                    1000000
+                ]
+            },
             "warden_helmet": {
                 "from": [
                     295000000,
@@ -159,7 +169,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "364186225382391809": {
         "modification_history": {},
