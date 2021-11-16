@@ -980,6 +980,16 @@
                     10500000
                 ]
             },
+            "necromancer_lord_helmet": {
+                "from": [
+                    200000,
+                    400000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "necromancer_lord_leggings": {
                 "from": [
                     2600000,
@@ -1281,7 +1291,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "537441116413231134": {
         "modification_history": {},
