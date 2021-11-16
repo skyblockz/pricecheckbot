@@ -1050,6 +1050,16 @@
                     20000000
                 ]
             },
+            "overflux_power_orb": {
+                "from": [
+                    92000000,
+                    95000000
+                ],
+                "to": [
+                    99500000,
+                    102000000
+                ]
+            },
             "reaper_falchion": {
                 "from": [
                     3500000,
@@ -1291,7 +1301,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "537441116413231134": {
         "modification_history": {},
