@@ -1260,6 +1260,16 @@
                     800000
                 ]
             },
+            "tarantula_leggings": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "worm_membrane": {
                 "from": [
                     88000,
@@ -1311,7 +1321,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "537441116413231134": {
         "modification_history": {},
