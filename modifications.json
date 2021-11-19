@@ -2155,6 +2155,16 @@
                     10400000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    3000,
+                    3200
+                ],
+                "to": [
+                    3000,
+                    4000
+                ]
+            },
             "ice_minion_xi": {
                 "from": [
                     1000000,
@@ -2316,7 +2326,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "888892003088236554": {
         "modification_history": {},
