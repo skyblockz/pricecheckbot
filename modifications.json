@@ -53,6 +53,16 @@
                     2400
                 ]
             },
+            "enchanted_glowstone_dust": {
+                "from": [
+                    690,
+                    750
+                ],
+                "to": [
+                    717,
+                    868
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     39000,
@@ -94,7 +104,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "340061760704872448": {
         "modification_history": {},
