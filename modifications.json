@@ -471,6 +471,16 @@
                     15000
                 ]
             },
+            "etherwarp_conduit": {
+                "from": [
+                    18590000,
+                    18880000
+                ],
+                "to": [
+                    14490000,
+                    14600000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     9000000,
@@ -736,7 +746,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "395028811399299082": {
         "modification_history": {},
