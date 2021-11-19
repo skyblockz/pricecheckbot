@@ -723,6 +723,16 @@
                     250000
                 ]
             },
+            "enchanted_blaze_powder": {
+                "from": [
+                    2300,
+                    2600
+                ],
+                "to": [
+                    2130,
+                    2400
+                ]
+            },
             "enchanted_blaze_rod": {
                 "from": [
                     280000,
@@ -984,7 +994,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "537441116413231134": {
         "modification_history": {},
