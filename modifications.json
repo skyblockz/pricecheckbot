@@ -391,6 +391,16 @@
                     300000
                 ]
             },
+            "divans_alloy": {
+                "from": [
+                    780000000,
+                    850000000
+                ],
+                "to": [
+                    795000000,
+                    810000000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     60000,
@@ -566,7 +576,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "395028811399299082": {
         "modification_history": {},
