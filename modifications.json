@@ -123,6 +123,16 @@
                     450000
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    215000,
+                    732000
+                ],
+                "to": [
+                    700000,
+                    725000
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     58500000,
@@ -134,7 +144,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "340061760704872448": {
         "modification_history": {},
