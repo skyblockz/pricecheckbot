@@ -581,6 +581,16 @@
                     112
                 ]
             },
+            "stock_of_stonks": {
+                "from": [
+                    554500,
+                    609829
+                ],
+                "to": [
+                    215000,
+                    732000
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     60000,
@@ -636,7 +646,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "395028811399299082": {
         "modification_history": {},
