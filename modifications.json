@@ -53,6 +53,16 @@
                     2400
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    39000,
+                    41000
+                ],
+                "to": [
+                    30000,
+                    35000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     13000000,
@@ -84,7 +94,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "340061760704872448": {
         "modification_history": {},
