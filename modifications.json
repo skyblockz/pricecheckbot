@@ -471,6 +471,16 @@
                     960000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    75000,
+                    100000
+                ],
+                "to": [
+                    45000,
+                    55000
+                ]
+            },
             "jacobs_ticket": {
                 "from": [
                     7000,
@@ -686,7 +696,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395028811399299082": {
         "modification_history": {},
