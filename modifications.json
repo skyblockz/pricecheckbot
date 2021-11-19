@@ -451,6 +451,16 @@
                     960000
                 ]
             },
+            "jacobs_ticket": {
+                "from": [
+                    7000,
+                    9000
+                ],
+                "to": [
+                    7700,
+                    8100
+                ]
+            },
             "judgement_core": {
                 "from": [
                     471000000,
@@ -616,7 +626,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "395028811399299082": {
         "modification_history": {},
