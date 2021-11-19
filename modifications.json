@@ -371,6 +371,16 @@
                     6000
                 ]
             },
+            "challenging_rod": {
+                "from": [
+                    140000,
+                    140000
+                ],
+                "to": [
+                    160000,
+                    160000
+                ]
+            },
             "control_switch": {
                 "from": [
                     125000,
@@ -526,7 +536,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "395028811399299082": {
         "modification_history": {},
