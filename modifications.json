@@ -361,6 +361,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "electron_transmitter": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    150000,
+                    200000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     9000000,
@@ -396,7 +406,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "395028811399299082": {
         "modification_history": {},
