@@ -431,6 +431,16 @@
                     600000
                 ]
             },
+            "shark_fin": {
+                "from": [
+                    39,
+                    73
+                ],
+                "to": [
+                    50,
+                    112
+                ]
+            },
             "superlite_motor": {
                 "from": [
                     60000,
@@ -466,7 +476,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "395028811399299082": {
         "modification_history": {},
