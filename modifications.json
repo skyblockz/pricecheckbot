@@ -43,6 +43,16 @@
                     90000000
                 ]
             },
+            "catalyst": {
+                "from": [
+                    110000,
+                    125000
+                ],
+                "to": [
+                    127000,
+                    130000
+                ]
+            },
             "colossal_experience_bottle": {
                 "from": [
                     750000,
@@ -204,7 +214,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "340061760704872448": {
         "modification_history": {},
