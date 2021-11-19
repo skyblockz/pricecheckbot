@@ -723,6 +723,16 @@
                     250000
                 ]
             },
+            "enchanted_fish": {
+                "from": [
+                    3783,
+                    3790
+                ],
+                "to": [
+                    2700,
+                    3000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     70500,
@@ -964,7 +974,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "537441116413231134": {
         "modification_history": {},
