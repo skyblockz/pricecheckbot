@@ -283,6 +283,16 @@
                     235000
                 ]
             },
+            "werewolf_skin": {
+                "from": [
+                    17500,
+                    21000
+                ],
+                "to": [
+                    22500,
+                    42600
+                ]
+            },
             "wither_artifact": {
                 "from": [
                     58500000,
@@ -294,7 +304,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "340061760704872448": {
         "modification_history": {},
