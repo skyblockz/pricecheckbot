@@ -2137,12 +2137,12 @@
             },
             "enchanted_lava_bucket": {
                 "from": [
-                    253000,
-                    266000
-                ],
-                "to": [
                     220000,
                     240000
+                ],
+                "to": [
+                    230000,
+                    260000
                 ]
             },
             "explosive_bow": {
@@ -2356,7 +2356,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "888892003088236554": {
         "modification_history": {},
