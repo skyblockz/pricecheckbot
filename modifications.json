@@ -481,6 +481,16 @@
                     600000
                 ]
             },
+            "rod_of_champions": {
+                "from": [
+                    550000,
+                    620000
+                ],
+                "to": [
+                    500000,
+                    540000
+                ]
+            },
             "shark_fin": {
                 "from": [
                     39,
@@ -536,7 +546,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "395028811399299082": {
         "modification_history": {},
