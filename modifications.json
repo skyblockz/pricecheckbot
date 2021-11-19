@@ -401,6 +401,16 @@
                     700000
                 ]
             },
+            "lvl_1_legendary_megalodon": {
+                "from": [
+                    2800000,
+                    3500000
+                ],
+                "to": [
+                    3500000,
+                    4500000
+                ]
+            },
             "quick_claw": {
                 "from": [
                     68000000,
@@ -456,7 +466,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "395028811399299082": {
         "modification_history": {},
