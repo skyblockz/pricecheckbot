@@ -471,6 +471,16 @@
                     4500000
                 ]
             },
+            "necrons_handle": {
+                "from": [
+                    655000000,
+                    700000000
+                ],
+                "to": [
+                    770000000,
+                    790000000
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     305,
@@ -586,7 +596,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "395028811399299082": {
         "modification_history": {},
