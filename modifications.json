@@ -73,6 +73,16 @@
                     35000
                 ]
             },
+            "ender_artifact": {
+                "from": [
+                    44000000,
+                    46000000
+                ],
+                "to": [
+                    60000000,
+                    69000000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     13000000,
@@ -114,7 +124,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "340061760704872448": {
         "modification_history": {},
