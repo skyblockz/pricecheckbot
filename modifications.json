@@ -693,6 +693,16 @@
     },
     "519621152117882915": {
         "modification_history": {
+            "adaptive_boots": {
+                "from": [
+                    130000,
+                    400000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "shadow_assassin_boots": {
                 "from": [
                     1190000,
@@ -864,7 +874,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "537441116413231134": {
         "modification_history": {},
