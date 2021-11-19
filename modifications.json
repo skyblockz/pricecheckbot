@@ -381,6 +381,16 @@
                     200000
                 ]
             },
+            "enchanted_shark_fin": {
+                "from": [
+                    10750,
+                    13100
+                ],
+                "to": [
+                    10500,
+                    15000
+                ]
+            },
             "flower_minion_i": {
                 "from": [
                     9000000,
@@ -476,7 +486,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "395028811399299082": {
         "modification_history": {},
