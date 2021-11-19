@@ -604,9 +604,19 @@
                     80000,
                     80000
                 ]
+            },
+            "worm_membrane": {
+                "from": [
+                    83200,
+                    84500
+                ],
+                "to": [
+                    91000,
+                    92000
+                ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395028811399299082": {
         "modification_history": {},
