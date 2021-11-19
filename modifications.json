@@ -203,6 +203,16 @@
                     5900000
                 ]
             },
+            "purple_candy": {
+                "from": [
+                    8000,
+                    8500
+                ],
+                "to": [
+                    8500,
+                    9000
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     44000,
@@ -254,7 +264,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "340061760704872448": {
         "modification_history": {},
