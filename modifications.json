@@ -723,6 +723,16 @@
                     250000
                 ]
             },
+            "enchanted_blaze_rod": {
+                "from": [
+                    280000,
+                    290400
+                ],
+                "to": [
+                    312000,
+                    327000
+                ]
+            },
             "enchanted_fish": {
                 "from": [
                     3783,
@@ -974,7 +984,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "537441116413231134": {
         "modification_history": {},
