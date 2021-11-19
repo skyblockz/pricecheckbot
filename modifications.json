@@ -63,6 +63,16 @@
                     720000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    52000,
+                    57000
+                ],
+                "to": [
+                    67000,
+                    76000
+                ]
+            },
             "enchanted_flint": {
                 "from": [
                     3679,
@@ -264,7 +274,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "340061760704872448": {
         "modification_history": {},
