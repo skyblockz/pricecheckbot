@@ -391,6 +391,16 @@
                     81000000
                 ]
             },
+            "robotron_reflector": {
+                "from": [
+                    400000,
+                    450000
+                ],
+                "to": [
+                    560000,
+                    600000
+                ]
+            },
             "travel_scroll_to_the_crystal_hollows": {
                 "from": null,
                 "to": [
@@ -406,7 +416,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "395028811399299082": {
         "modification_history": {},
