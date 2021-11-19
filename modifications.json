@@ -103,6 +103,16 @@
                     12000000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    3000,
+                    4000
+                ],
+                "to": [
+                    3200,
+                    3400
+                ]
+            },
             "nether_wart": {
                 "from": [
                     4,
@@ -154,7 +164,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "340061760704872448": {
         "modification_history": {},
