@@ -521,6 +521,16 @@
                     81000000
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    37000,
+                    43000
+                ],
+                "to": [
+                    32400,
+                    38900
+                ]
+            },
             "robotron_reflector": {
                 "from": [
                     400000,
@@ -626,7 +636,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "395028811399299082": {
         "modification_history": {},
