@@ -123,6 +123,16 @@
                     3400
                 ]
             },
+            "hyper_catalyst": {
+                "from": [
+                    127000,
+                    133000
+                ],
+                "to": [
+                    145000,
+                    152000
+                ]
+            },
             "nether_wart": {
                 "from": [
                     4,
@@ -194,7 +204,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "340061760704872448": {
         "modification_history": {},
