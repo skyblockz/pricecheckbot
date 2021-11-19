@@ -253,6 +253,16 @@
                     450000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    9000,
+                    12500
+                ],
+                "to": [
+                    2600,
+                    3500
+                ]
+            },
             "stock_of_stonks": {
                 "from": [
                     215000,
@@ -284,7 +294,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "340061760704872448": {
         "modification_history": {},
