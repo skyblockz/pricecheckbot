@@ -62,9 +62,19 @@
                     10000000,
                     12000000
                 ]
+            },
+            "nether_wart": {
+                "from": [
+                    4,
+                    5
+                ],
+                "to": [
+                    3,
+                    4
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "340061760704872448": {
         "modification_history": {},
