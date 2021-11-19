@@ -451,6 +451,16 @@
                     960000
                 ]
             },
+            "judgement_core": {
+                "from": [
+                    471000000,
+                    484000000
+                ],
+                "to": [
+                    490000000,
+                    500000000
+                ]
+            },
             "lvl_1_epic_megalodon": {
                 "from": [
                     580000,
@@ -596,7 +606,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "395028811399299082": {
         "modification_history": {},
