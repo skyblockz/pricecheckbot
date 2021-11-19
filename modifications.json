@@ -361,6 +361,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "control_switch": {
+                "from": [
+                    125000,
+                    180000
+                ],
+                "to": [
+                    250000,
+                    300000
+                ]
+            },
             "electron_transmitter": {
                 "from": [
                     60000,
@@ -416,7 +426,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "395028811399299082": {
         "modification_history": {},
