@@ -1623,6 +1623,16 @@
                     8800000
                 ]
             },
+            "dragon_scale": {
+                "from": [
+                    45000,
+                    55000
+                ],
+                "to": [
+                    20000,
+                    35000
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     130000,
@@ -1884,7 +1894,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "766482279387627530": {
         "modification_history": {},
