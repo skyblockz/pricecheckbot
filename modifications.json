@@ -1612,8 +1612,19 @@
         "total_mods": 0
     },
     "754652206736605286": {
-        "modification_history": {},
-        "total_mods": 2
+        "modification_history": {
+            "holy_dragon_helmet": {
+                "from": [
+                    170000,
+                    180000
+                ],
+                "to": [
+                    250000,
+                    260000
+                ]
+            }
+        },
+        "total_mods": 3
     },
     "766482279387627530": {
         "modification_history": {},
