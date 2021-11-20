@@ -773,6 +773,16 @@
                     3000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    149000,
+                    153000
+                ],
+                "to": [
+                    132000,
+                    136000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     70500,
@@ -1024,7 +1034,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "537441116413231134": {
         "modification_history": {},
