@@ -2044,6 +2044,16 @@
                     16000000
                 ]
             },
+            "lvl_1_legendary_wither_skeleton": {
+                "from": [
+                    3100000,
+                    3300000
+                ],
+                "to": [
+                    1900000,
+                    2000000
+                ]
+            },
             "reaper_mask": {
                 "from": [
                     12500000,
@@ -2095,7 +2105,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "888892003088236554": {
         "modification_history": {},
