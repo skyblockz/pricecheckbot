@@ -2201,9 +2201,19 @@
                     200,
                     400
                 ]
+            },
+            "twilight_arrow_poison": {
+                "from": [
+                    1000,
+                    2000
+                ],
+                "to": [
+                    650,
+                    650
+                ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "888892003088236554": {
         "modification_history": {},
