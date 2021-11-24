@@ -1813,6 +1813,13 @@
                     160000
                 ]
             },
+            "recall_potion": {
+                "from": null,
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     800000,
@@ -1954,7 +1961,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "766482279387627530": {
         "modification_history": {},
