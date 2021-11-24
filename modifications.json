@@ -2182,6 +2182,16 @@
                     8600
                 ]
             },
+            "toxic_arrow_poison": {
+                "from": [
+                    2000,
+                    4000
+                ],
+                "to": [
+                    2000,
+                    2000
+                ]
+            },
             "trap": {
                 "from": [
                     500,
@@ -2193,7 +2203,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "888892003088236554": {
         "modification_history": {},
