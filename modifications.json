@@ -1854,6 +1854,16 @@
                     405000
                 ]
             },
+            "lapis_armor_helmet": {
+                "from": [
+                    3000,
+                    5000
+                ],
+                "to": [
+                    5000,
+                    6000
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     160000,
@@ -2082,7 +2092,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "766482279387627530": {
         "modification_history": {},
