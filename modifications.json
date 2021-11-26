@@ -1674,6 +1674,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "auto_recombobulator": {
+                "from": [
+                    10500000,
+                    12000000
+                ],
+                "to": [
+                    10750000,
+                    11500000
+                ]
+            },
             "bat_person_boots": {
                 "from": [
                     750000,
@@ -2232,7 +2242,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "766482279387627530": {
         "modification_history": {},
