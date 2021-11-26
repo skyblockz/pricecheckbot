@@ -1854,6 +1854,16 @@
                     405000
                 ]
             },
+            "lapis_armor_chestplate": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            },
             "lapis_armor_helmet": {
                 "from": [
                     3000,
@@ -2092,7 +2102,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "766482279387627530": {
         "modification_history": {},
