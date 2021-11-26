@@ -1904,6 +1904,16 @@
                     25000
                 ]
             },
+            "goblin_chestplate": {
+                "from": [
+                    2500,
+                    2500
+                ],
+                "to": [
+                    3000,
+                    3250
+                ]
+            },
             "goblin_helmet": {
                 "from": [
                     4500,
@@ -2282,7 +2292,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "766482279387627530": {
         "modification_history": {},
