@@ -2774,6 +2774,16 @@
                     75000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    3600000,
+                    3700000
+                ],
+                "to": [
+                    3800000,
+                    3900000
+                ]
+            },
             "enchanted_coal": {
                 "from": [
                     740,
@@ -2995,7 +3005,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "888892003088236554": {
         "modification_history": {},
