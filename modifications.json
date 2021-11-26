@@ -1764,6 +1764,16 @@
                     3800000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    30000000,
+                    32000000
+                ],
+                "to": [
+                    30000000,
+                    32500000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     1350000,
@@ -2222,7 +2232,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "766482279387627530": {
         "modification_history": {},
