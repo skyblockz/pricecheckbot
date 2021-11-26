@@ -1874,6 +1874,16 @@
                     6000
                 ]
             },
+            "lapis_armor_leggings": {
+                "from": [
+                    500,
+                    2000
+                ],
+                "to": [
+                    5500,
+                    6250
+                ]
+            },
             "old_dragon_boots": {
                 "from": [
                     160000,
@@ -2102,7 +2112,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "766482279387627530": {
         "modification_history": {},
