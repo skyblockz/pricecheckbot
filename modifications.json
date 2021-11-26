@@ -1834,6 +1834,16 @@
                     15000000
                 ]
             },
+            "glacite_boots": {
+                "from": [
+                    40000,
+                    45000
+                ],
+                "to": [
+                    24000,
+                    25000
+                ]
+            },
             "glacite_chestplate": {
                 "from": [
                     40000,
@@ -2192,7 +2202,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "766482279387627530": {
         "modification_history": {},
