@@ -1944,6 +1944,16 @@
                     1750
                 ]
             },
+            "heat_helmet": {
+                "from": [
+                    9000,
+                    10000
+                ],
+                "to": [
+                    35000,
+                    37500
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     130000,
@@ -2312,7 +2322,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "766482279387627530": {
         "modification_history": {},
