@@ -1834,6 +1834,16 @@
                     15000000
                 ]
             },
+            "glacite_helmet": {
+                "from": [
+                    40000,
+                    45000
+                ],
+                "to": [
+                    24000,
+                    25500
+                ]
+            },
             "holy_dragon_boots": {
                 "from": [
                     130000,
@@ -2162,7 +2172,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "766482279387627530": {
         "modification_history": {},
