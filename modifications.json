@@ -1981,6 +1981,16 @@
                     5000000
                 ]
             },
+            "skeletor_helmet": {
+                "from": [
+                    10036,
+                    10036
+                ],
+                "to": [
+                    15000,
+                    16500
+                ]
+            },
             "strong_dragon_boots": {
                 "from": [
                     800000,
@@ -2122,7 +2132,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "766482279387627530": {
         "modification_history": {},
