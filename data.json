@@ -7501,12 +7501,6 @@
     },
     {
         "ac": true,
-        "hi": 6000000,
-        "low": 5600000,
-        "name": "all_skills_exp_super_boost"
-    },
-    {
-        "ac": true,
         "hi": 4000000,
         "low": 3600000,
         "name": "sword_of_revelations"
@@ -14662,5 +14656,11 @@
         "hi": 2000000,
         "low": 900000,
         "name": "recall_potion"
+    },
+    {
+        "ac": true,
+        "hi": 6000000,
+        "low": 5600000,
+        "name": "all_skills_exp_super-boost"
     }
 ]

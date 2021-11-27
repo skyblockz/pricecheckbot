@@ -1652,10 +1652,6 @@
         "src": "ultimate_candy"
     },
     {
-        "dest": "all_skills_exp_super_boost",
-        "src": "all_skills_super_exp_boost"
-    },
-    {
         "dest": "explosive_bow",
         "src": "ebow"
     },
@@ -2914,5 +2910,9 @@
     {
         "dest": "shadow_fury",
         "src": "sf"
+    },
+    {
+        "dest": "all_skills_exp_super-boost",
+        "src": "all_skills_super_exp_boost"
     }
 ]
