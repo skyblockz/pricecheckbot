@@ -1402,6 +1402,13 @@
                     20000000
                 ]
             },
+            "lvl_100_rare_griffin": {
+                "from": null,
+                "to": [
+                    8000000,
+                    8500000
+                ]
+            },
             "lvl_100_uncommon_griffin": {
                 "from": null,
                 "to": [
@@ -1477,7 +1484,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "888892003088236554": {
         "modification_history": {},
