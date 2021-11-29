@@ -61,6 +61,16 @@
                     4000000
                 ]
             },
+            "carrot_bait": {
+                "from": [
+                    7,
+                    30
+                ],
+                "to": [
+                    27,
+                    45
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     299,
@@ -102,7 +112,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "340061760704872448": {
         "modification_history": {},
