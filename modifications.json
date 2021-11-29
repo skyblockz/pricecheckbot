@@ -61,6 +61,16 @@
                     4000000
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    11000,
+                    24000
+                ],
+                "to": [
+                    15000,
+                    39000
+                ]
+            },
             "enchanted_redstone_block": {
                 "from": [
                     30000,
@@ -72,7 +82,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "340061760704872448": {
         "modification_history": {},
