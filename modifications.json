@@ -171,6 +171,16 @@
                     1000000
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    19,
+                    25
+                ],
+                "to": [
+                    30,
+                    38
+                ]
+            },
             "rabbit_foot": {
                 "from": [
                     9,
@@ -212,7 +222,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "340061760704872448": {
         "modification_history": {},
