@@ -1580,6 +1580,16 @@
                     6400000
                 ]
             },
+            "luxurious_spool": {
+                "from": [
+                    450000,
+                    600000
+                ],
+                "to": [
+                    350000,
+                    400000
+                ]
+            },
             "lvl_100_epic_griffin": {
                 "from": [
                     9000000,
@@ -1682,7 +1692,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "888892003088236554": {
         "modification_history": {},
