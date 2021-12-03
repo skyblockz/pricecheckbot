@@ -221,6 +221,16 @@
                     1000000
                 ]
             },
+            "green_goblin_egg": {
+                "from": [
+                    2500,
+                    6300
+                ],
+                "to": [
+                    11600,
+                    17000
+                ]
+            },
             "hay_bale": {
                 "from": [
                     19,
@@ -342,7 +352,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "340061760704872448": {
         "modification_history": {},
