@@ -131,6 +131,16 @@
                     4
                 ]
             },
+            "dark_oak_wood": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    1,
+                    3
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     25600,
@@ -582,7 +592,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "340061760704872448": {
         "modification_history": {},
