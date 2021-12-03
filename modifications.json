@@ -231,6 +231,16 @@
                     1000000
                 ]
             },
+            "goblin_egg": {
+                "from": [
+                    3300,
+                    4100
+                ],
+                "to": [
+                    10500,
+                    13400
+                ]
+            },
             "green_goblin_egg": {
                 "from": [
                     2500,
@@ -362,7 +372,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "340061760704872448": {
         "modification_history": {},
