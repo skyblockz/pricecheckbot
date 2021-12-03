@@ -231,6 +231,16 @@
                     7500
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    80000,
+                    86000
+                ],
+                "to": [
+                    82600,
+                    91400
+                ]
+            },
             "fish_bait": {
                 "from": [
                     138,
@@ -472,7 +482,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "340061760704872448": {
         "modification_history": {},
