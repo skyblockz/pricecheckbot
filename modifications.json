@@ -111,6 +111,16 @@
                     28000
                 ]
             },
+            "enchanted_block_of_coal": {
+                "from": [
+                    115500,
+                    121000
+                ],
+                "to": [
+                    102000,
+                    110000
+                ]
+            },
             "enchanted_carrot": {
                 "from": [
                     299,
@@ -492,7 +502,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "340061760704872448": {
         "modification_history": {},
