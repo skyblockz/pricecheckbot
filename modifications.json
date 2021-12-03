@@ -361,6 +361,16 @@
                     2100
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    50,
+                    73
+                ],
+                "to": [
+                    11,
+                    69
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     103000,
@@ -402,7 +412,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "340061760704872448": {
         "modification_history": {},
