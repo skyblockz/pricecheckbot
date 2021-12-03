@@ -491,6 +491,16 @@
                     52
                 ]
             },
+            "spruce_wood": {
+                "from": [
+                    3,
+                    6
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "tarantula_silk": {
                 "from": [
                     103000,
@@ -532,7 +542,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "340061760704872448": {
         "modification_history": {},
