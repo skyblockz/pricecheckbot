@@ -281,6 +281,16 @@
                     28800000
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    14,
+                    16
+                ],
+                "to": [
+                    12,
+                    14
+                ]
+            },
             "rabbit_foot": {
                 "from": [
                     9,
@@ -422,7 +432,7 @@
                 ]
             }
         },
-        "total_mods": 44
+        "total_mods": 45
     },
     "340061760704872448": {
         "modification_history": {},
