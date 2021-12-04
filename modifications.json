@@ -143,6 +143,16 @@
                     4
                 ]
             },
+            "pumpkin": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    4,
+                    7
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     416000,
@@ -164,7 +174,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "340061760704872448": {
         "modification_history": {},
