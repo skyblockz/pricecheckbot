@@ -333,6 +333,16 @@
                     2300
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    20000,
+                    30000
+                ],
+                "to": [
+                    23000,
+                    29000
+                ]
+            },
             "enchanted_raw_beef": {
                 "from": [
                     601,
@@ -594,7 +604,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "340061760704872448": {
         "modification_history": {},
