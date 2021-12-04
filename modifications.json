@@ -2251,6 +2251,16 @@
                     225
                 ]
             },
+            "enchanted_redstone_block": {
+                "from": [
+                    39600,
+                    41100
+                ],
+                "to": [
+                    38800,
+                    40000
+                ]
+            },
             "green_gift": {
                 "from": [
                     10500,
@@ -2403,7 +2413,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "888892003088236554": {
         "modification_history": {},
