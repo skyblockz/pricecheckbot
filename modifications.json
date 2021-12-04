@@ -2290,6 +2290,16 @@
                     330000
                 ]
             },
+            "protector_dragon_boots": {
+                "from": [
+                    160000,
+                    225000
+                ],
+                "to": [
+                    160000,
+                    170000
+                ]
+            },
             "protector_dragon_chestplate": {
                 "from": [
                     150000,
@@ -2321,7 +2331,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "766482279387627530": {
         "modification_history": {},
