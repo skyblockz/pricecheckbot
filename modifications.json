@@ -2342,6 +2342,16 @@
                     15000000
                 ]
             },
+            "redstone": {
+                "from": [
+                    2,
+                    2
+                ],
+                "to": [
+                    1,
+                    1
+                ]
+            },
             "shadow_fury": {
                 "from": [
                     28500000,
@@ -2383,7 +2393,7 @@
                 ]
             }
         },
-        "total_mods": 16
+        "total_mods": 17
     },
     "888892003088236554": {
         "modification_history": {},
