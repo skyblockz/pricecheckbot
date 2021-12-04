@@ -103,6 +103,16 @@
                     39
                 ]
             },
+            "tightly_tied_hay_bale": {
+                "from": [
+                    416000,
+                    467000
+                ],
+                "to": [
+                    416000,
+                    4555000
+                ]
+            },
             "wheat": {
                 "from": [
                     2,
@@ -114,7 +124,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "340061760704872448": {
         "modification_history": {},
