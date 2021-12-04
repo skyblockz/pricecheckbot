@@ -113,6 +113,16 @@
                     39
                 ]
             },
+            "potato": {
+                "from": [
+                    1,
+                    2
+                ],
+                "to": [
+                    1,
+                    4
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     416000,
@@ -134,7 +144,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "340061760704872448": {
         "modification_history": {},
