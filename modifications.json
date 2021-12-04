@@ -2203,6 +2203,16 @@
     },
     "754652206736605286": {
         "modification_history": {
+            "dragon_horn": {
+                "from": [
+                    8500000,
+                    8800000
+                ],
+                "to": [
+                    7500000,
+                    8000000
+                ]
+            },
             "dragon_scale": {
                 "from": [
                     20000,
@@ -2501,7 +2511,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "766482279387627530": {
         "modification_history": {},
