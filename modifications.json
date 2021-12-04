@@ -463,6 +463,16 @@
                     16
                 ]
             },
+            "nether_wart": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    6,
+                    9
+                ]
+            },
             "polished_pumpkin": {
                 "from": [
                     148000,
@@ -604,7 +614,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "340061760704872448": {
         "modification_history": {},
