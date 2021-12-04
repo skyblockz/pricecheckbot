@@ -373,6 +373,16 @@
                     7
                 ]
             },
+            "raw_porkchop": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    12,
+                    21
+                ]
+            },
             "red_mushroom": {
                 "from": [
                     13,
@@ -414,7 +424,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "340061760704872448": {
         "modification_history": {},
