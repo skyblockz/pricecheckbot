@@ -853,6 +853,16 @@
                     18
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    8,
+                    8
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "rotten_flesh": {
                 "from": [
                     3,
@@ -964,7 +974,7 @@
                 ]
             }
         },
-        "total_mods": 95
+        "total_mods": 96
     },
     "340061760704872448": {
         "modification_history": {},
