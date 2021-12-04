@@ -193,6 +193,16 @@
                     6000
                 ]
             },
+            "enchanted_leather": {
+                "from": [
+                    6100,
+                    7000
+                ],
+                "to": [
+                    5000,
+                    5471
+                ]
+            },
             "enchanted_melon": {
                 "from": [
                     160,
@@ -384,7 +394,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "340061760704872448": {
         "modification_history": {},
