@@ -2412,6 +2412,16 @@
                     15000000
                 ]
             },
+            "perfect_ruby_gemstone": {
+                "from": [
+                    10120000,
+                    10460000
+                ],
+                "to": [
+                    9300000,
+                    9400000
+                ]
+            },
             "redstone": {
                 "from": [
                     2,
@@ -2463,7 +2473,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "888892003088236554": {
         "modification_history": {},
