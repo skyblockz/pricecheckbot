@@ -693,6 +693,16 @@
                     8
                 ]
             },
+            "string": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    3,
+                    6
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     2,
@@ -734,7 +744,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "340061760704872448": {
         "modification_history": {},
