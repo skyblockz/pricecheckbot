@@ -2241,6 +2241,16 @@
                     930
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    132000,
+                    136000
+                ],
+                "to": [
+                    131000000,
+                    135000000
+                ]
+            },
             "enchanted_redstone": {
                 "from": [
                     244,
@@ -2413,7 +2423,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "888892003088236554": {
         "modification_history": {},
