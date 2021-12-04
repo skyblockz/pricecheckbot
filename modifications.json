@@ -313,6 +313,16 @@
                     18
                 ]
             },
+            "sugar_cane": {
+                "from": [
+                    2,
+                    3
+                ],
+                "to": [
+                    3,
+                    4
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     416000,
@@ -334,7 +344,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "340061760704872448": {
         "modification_history": {},
