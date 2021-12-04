@@ -83,6 +83,16 @@
                     55901
                 ]
             },
+            "hay_bale": {
+                "from": [
+                    30,
+                    38
+                ],
+                "to": [
+                    30,
+                    39
+                ]
+            },
             "wheat": {
                 "from": [
                     2,
@@ -94,7 +104,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "340061760704872448": {
         "modification_history": {},
