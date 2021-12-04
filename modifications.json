@@ -583,6 +583,16 @@
                     18
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    3,
+                    6
+                ],
+                "to": [
+                    6,
+                    10
+                ]
+            },
             "sugar_cane": {
                 "from": [
                     2,
@@ -624,7 +634,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "340061760704872448": {
         "modification_history": {},
