@@ -2302,6 +2302,16 @@
                     137000
                 ]
             },
+            "enchanted_grilled_pork": {
+                "from": [
+                    130000,
+                    200000
+                ],
+                "to": [
+                    175000,
+                    190000
+                ]
+            },
             "enchanted_hard_stone": {
                 "from": [
                     2190,
@@ -3783,7 +3793,7 @@
                 ]
             }
         },
-        "total_mods": 199
+        "total_mods": 200
     },
     "537441116413231134": {
         "modification_history": {},
