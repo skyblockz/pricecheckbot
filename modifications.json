@@ -1832,6 +1832,16 @@
                     1300000
                 ]
             },
+            "recombobulator_3000": {
+                "from": [
+                    5300000,
+                    6000000
+                ],
+                "to": [
+                    6200000,
+                    6300000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     228000,
@@ -1853,7 +1863,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "537441116413231134": {
         "modification_history": {},
