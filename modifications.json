@@ -2832,6 +2832,16 @@
                     9
                 ]
             },
+            "sand": {
+                "from": [
+                    10,
+                    15
+                ],
+                "to": [
+                    2,
+                    5
+                ]
+            },
             "shark_bait": {
                 "from": [
                     7,
@@ -3163,7 +3173,7 @@
                 ]
             }
         },
-        "total_mods": 137
+        "total_mods": 138
     },
     "537441116413231134": {
         "modification_history": {},
