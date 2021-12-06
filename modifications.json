@@ -2822,6 +2822,16 @@
                     1400
                 ]
             },
+            "iron_ingot": {
+                "from": [
+                    1,
+                    10
+                ],
+                "to": [
+                    7,
+                    10
+                ]
+            },
             "jacobs_ticket": {
                 "from": [
                     7700,
@@ -3553,7 +3563,7 @@
                 ]
             }
         },
-        "total_mods": 176
+        "total_mods": 177
     },
     "537441116413231134": {
         "modification_history": {},
