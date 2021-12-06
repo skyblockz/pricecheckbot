@@ -2602,6 +2602,16 @@
                     10
                 ]
             },
+            "netherrack": {
+                "from": [
+                    0,
+                    1
+                ],
+                "to": [
+                    2,
+                    5
+                ]
+            },
             "null_atom": {
                 "from": [
                     33000,
@@ -3183,7 +3193,7 @@
                 ]
             }
         },
-        "total_mods": 139
+        "total_mods": 140
     },
     "537441116413231134": {
         "modification_history": {},
