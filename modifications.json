@@ -1972,6 +1972,16 @@
                     2500
                 ]
             },
+            "enchanted_raw_fish": {
+                "from": [
+                    2400,
+                    2500
+                ],
+                "to": [
+                    3170,
+                    3450
+                ]
+            },
             "enchanted_shark_fin": {
                 "from": [
                     10500,
@@ -2543,7 +2553,7 @@
                 ]
             }
         },
-        "total_mods": 75
+        "total_mods": 76
     },
     "537441116413231134": {
         "modification_history": {},
