@@ -1912,6 +1912,16 @@
                     31000
                 ]
             },
+            "soul_fragment": {
+                "from": [
+                    1300000,
+                    1600000
+                ],
+                "to": [
+                    1700000,
+                    1900000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     228000,
@@ -1943,7 +1953,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "537441116413231134": {
         "modification_history": {},
