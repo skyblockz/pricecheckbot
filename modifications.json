@@ -2072,6 +2072,16 @@
                     75000
                 ]
             },
+            "enchanted_cake": {
+                "from": [
+                    2000,
+                    15000
+                ],
+                "to": [
+                    3200,
+                    14000
+                ]
+            },
             "enchanted_charcoal": {
                 "from": [
                     635,
@@ -3733,7 +3743,7 @@
                 ]
             }
         },
-        "total_mods": 194
+        "total_mods": 195
     },
     "537441116413231134": {
         "modification_history": {},
