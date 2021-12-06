@@ -1842,6 +1842,16 @@
                     6300000
                 ]
             },
+            "refined_mineral": {
+                "from": [
+                    32400,
+                    38900
+                ],
+                "to": [
+                    28000,
+                    31000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     228000,
@@ -1863,7 +1873,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "537441116413231134": {
         "modification_history": {},
