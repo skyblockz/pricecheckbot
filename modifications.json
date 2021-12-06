@@ -2982,6 +2982,16 @@
                     10
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    76200,
+                    76800
+                ],
+                "to": [
+                    75000,
+                    79000
+                ]
+            },
             "nether_quartz": {
                 "from": [
                     16,
@@ -3623,7 +3633,7 @@
                 ]
             }
         },
-        "total_mods": 183
+        "total_mods": 184
     },
     "537441116413231134": {
         "modification_history": {},
