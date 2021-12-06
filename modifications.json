@@ -3702,6 +3702,16 @@
                     26000
                 ]
             },
+            "sugar_cane": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "summoning_eye": {
                 "from": [
                     1200000,
@@ -3883,7 +3893,7 @@
                 ]
             }
         },
-        "total_mods": 209
+        "total_mods": 210
     },
     "537441116413231134": {
         "modification_history": {},
