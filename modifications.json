@@ -1802,6 +1802,16 @@
                     750000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    3200,
+                    3400
+                ],
+                "to": [
+                    4300,
+                    4500
+                ]
+            },
             "phantom_rod": {
                 "from": [
                     675000,
@@ -1833,7 +1843,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "537441116413231134": {
         "modification_history": {},
