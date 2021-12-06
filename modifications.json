@@ -2682,6 +2682,16 @@
                     3300
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    32,
+                    32
+                ],
+                "to": [
+                    40,
+                    45
+                ]
+            },
             "phantom_rod": {
                 "from": [
                     675000,
@@ -3213,7 +3223,7 @@
                 ]
             }
         },
-        "total_mods": 142
+        "total_mods": 143
     },
     "537441116413231134": {
         "modification_history": {},
