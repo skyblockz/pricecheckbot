@@ -2522,6 +2522,16 @@
                     24000
                 ]
             },
+            "hard_stone": {
+                "from": [
+                    5,
+                    6
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     27147,
@@ -3253,7 +3263,7 @@
                 ]
             }
         },
-        "total_mods": 146
+        "total_mods": 147
     },
     "537441116413231134": {
         "modification_history": {},
