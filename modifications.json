@@ -3562,6 +3562,16 @@
                     65000
                 ]
             },
+            "red_mushroom": {
+                "from": [
+                    10,
+                    18
+                ],
+                "to": [
+                    12,
+                    22
+                ]
+            },
             "red_mushroom_block": {
                 "from": [
                     28,
@@ -3993,7 +4003,7 @@
                 ]
             }
         },
-        "total_mods": 220
+        "total_mods": 221
     },
     "537441116413231134": {
         "modification_history": {},
