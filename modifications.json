@@ -2242,6 +2242,16 @@
                     74000
                 ]
             },
+            "enchanted_iron_block": {
+                "from": [
+                    191000,
+                    200000
+                ],
+                "to": [
+                    220000,
+                    230000
+                ]
+            },
             "enchanted_jungle_wood": {
                 "from": [
                     970,
@@ -3533,7 +3543,7 @@
                 ]
             }
         },
-        "total_mods": 174
+        "total_mods": 175
     },
     "537441116413231134": {
         "modification_history": {},
