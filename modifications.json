@@ -3012,6 +3012,16 @@
                     65000
                 ]
             },
+            "redstone": {
+                "from": [
+                    1,
+                    1
+                ],
+                "to": [
+                    1,
+                    2
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     32400,
@@ -3403,7 +3413,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "537441116413231134": {
         "modification_history": {},
