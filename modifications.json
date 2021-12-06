@@ -1842,6 +1842,16 @@
                     172000
                 ]
             },
+            "clay": {
+                "from": [
+                    3,
+                    4
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "colossal_experience_bottle": {
                 "from": [
                     686000,
@@ -2463,7 +2473,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "537441116413231134": {
         "modification_history": {},
