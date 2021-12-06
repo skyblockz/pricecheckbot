@@ -2282,6 +2282,16 @@
                     2500
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    160000,
+                    170000
+                ],
+                "to": [
+                    200000,
+                    207000
+                ]
+            },
             "enchanted_raw_fish": {
                 "from": [
                     2400,
@@ -3353,7 +3363,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "537441116413231134": {
         "modification_history": {},
