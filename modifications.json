@@ -1882,6 +1882,16 @@
                     106000
                 ]
             },
+            "hamster_wheel": {
+                "from": [
+                    20000,
+                    23000
+                ],
+                "to": [
+                    23000,
+                    24000
+                ]
+            },
             "jacobs_ticket": {
                 "from": [
                     7700,
@@ -2033,7 +2043,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "537441116413231134": {
         "modification_history": {},
