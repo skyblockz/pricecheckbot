@@ -1892,6 +1892,16 @@
                     30
                 ]
             },
+            "carrot": {
+                "from": [
+                    3,
+                    8
+                ],
+                "to": [
+                    1,
+                    3
+                ]
+            },
             "carrot_bait": {
                 "from": [
                     27,
@@ -4143,7 +4153,7 @@
                 ]
             }
         },
-        "total_mods": 235
+        "total_mods": 236
     },
     "537441116413231134": {
         "modification_history": {},
