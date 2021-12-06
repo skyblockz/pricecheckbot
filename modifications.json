@@ -2002,6 +2002,16 @@
                     29000
                 ]
             },
+            "enchanted_oak_wood": {
+                "from": [
+                    1090,
+                    1190
+                ],
+                "to": [
+                    1250,
+                    1350
+                ]
+            },
             "enchanted_prismarine_shard": {
                 "from": [
                     390,
@@ -2633,7 +2643,7 @@
                 ]
             }
         },
-        "total_mods": 84
+        "total_mods": 85
     },
     "537441116413231134": {
         "modification_history": {},
