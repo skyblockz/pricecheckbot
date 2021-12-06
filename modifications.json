@@ -2052,6 +2052,16 @@
                     600
                 ]
             },
+            "enchanted_emerald_block": {
+                "from": [
+                    162000,
+                    167000
+                ],
+                "to": [
+                    150000,
+                    160000
+                ]
+            },
             "enchanted_end_stone": {
                 "from": [
                     900,
@@ -3413,7 +3423,7 @@
                 ]
             }
         },
-        "total_mods": 162
+        "total_mods": 163
     },
     "537441116413231134": {
         "modification_history": {},
