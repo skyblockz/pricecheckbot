@@ -1812,6 +1812,16 @@
                     1300000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    228000,
+                    235000
+                ],
+                "to": [
+                    277000,
+                    283000
+                ]
+            },
             "young_dragon_boots": {
                 "from": [
                     200000,
@@ -1823,7 +1833,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "537441116413231134": {
         "modification_history": {},
