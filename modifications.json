@@ -1922,6 +1922,16 @@
                     1900000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    2600,
+                    3500
+                ],
+                "to": [
+                    1500,
+                    2100
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     228000,
@@ -1963,7 +1973,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "537441116413231134": {
         "modification_history": {},
