@@ -1812,6 +1812,16 @@
                     750000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    67000,
+                    76000
+                ],
+                "to": [
+                    75000,
+                    96000
+                ]
+            },
             "golden_jerry_box": {
                 "from": [
                     1160000,
@@ -1983,7 +1993,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "537441116413231134": {
         "modification_history": {},
