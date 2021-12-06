@@ -1942,6 +1942,16 @@
                     2250000
                 ]
             },
+            "old_dragon_fragment": {
+                "from": [
+                    3600,
+                    5170
+                ],
+                "to": [
+                    2600,
+                    3300
+                ]
+            },
             "phantom_rod": {
                 "from": [
                     675000,
@@ -2143,7 +2153,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "537441116413231134": {
         "modification_history": {},
