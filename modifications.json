@@ -2122,6 +2122,16 @@
                     260
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    67000,
+                    73000
+                ],
+                "to": [
+                    71000,
+                    90000
+                ]
+            },
             "enchanted_hard_stone": {
                 "from": [
                     2190,
@@ -3303,7 +3313,7 @@
                 ]
             }
         },
-        "total_mods": 151
+        "total_mods": 152
     },
     "537441116413231134": {
         "modification_history": {},
