@@ -2622,6 +2622,16 @@
                     11000
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    7,
+                    9
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "golden_jerry_box": {
                 "from": [
                     1160000,
@@ -3523,7 +3533,7 @@
                 ]
             }
         },
-        "total_mods": 173
+        "total_mods": 174
     },
     "537441116413231134": {
         "modification_history": {},
