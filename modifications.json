@@ -2512,6 +2512,16 @@
                     1280
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    25100,
+                    50000
+                ],
+                "to": [
+                    24000,
+                    25000
+                ]
+            },
             "enchanted_mithril": {
                 "from": [
                     1500,
@@ -4013,7 +4023,7 @@
                 ]
             }
         },
-        "total_mods": 222
+        "total_mods": 223
     },
     "537441116413231134": {
         "modification_history": {},
