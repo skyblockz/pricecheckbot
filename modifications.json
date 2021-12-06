@@ -2502,6 +2502,16 @@
                     31000
                 ]
             },
+            "revenant_flesh": {
+                "from": [
+                    5,
+                    8
+                ],
+                "to": [
+                    6,
+                    9
+                ]
+            },
             "revenant_viscera": {
                 "from": [
                     40000,
@@ -2753,7 +2763,7 @@
                 ]
             }
         },
-        "total_mods": 96
+        "total_mods": 97
     },
     "537441116413231134": {
         "modification_history": {},
