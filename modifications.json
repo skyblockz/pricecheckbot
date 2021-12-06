@@ -1822,6 +1822,16 @@
                     96000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    240000,
+                    254000
+                ],
+                "to": [
+                    250000,
+                    254000
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     24700,
@@ -2063,7 +2073,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "537441116413231134": {
         "modification_history": {},
