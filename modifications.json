@@ -2392,6 +2392,16 @@
                     1600
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    2500,
+                    3000
+                ],
+                "to": [
+                    3500,
+                    3900
+                ]
+            },
             "enchanted_netherrack": {
                 "from": [
                     246,
@@ -3703,7 +3713,7 @@
                 ]
             }
         },
-        "total_mods": 191
+        "total_mods": 192
     },
     "537441116413231134": {
         "modification_history": {},
