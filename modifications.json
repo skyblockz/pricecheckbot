@@ -3082,6 +3082,16 @@
                     2
                 ]
             },
+            "refined_diamond": {
+                "from": [
+                    425000,
+                    440000
+                ],
+                "to": [
+                    420000,
+                    500000
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     32400,
@@ -3473,7 +3483,7 @@
                 ]
             }
         },
-        "total_mods": 168
+        "total_mods": 169
     },
     "537441116413231134": {
         "modification_history": {},
