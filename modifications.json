@@ -3472,6 +3472,16 @@
                     220000
                 ]
             },
+            "potato": {
+                "from": [
+                    1,
+                    4
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "power_crystal": {
                 "from": [
                     92000,
@@ -4103,7 +4113,7 @@
                 ]
             }
         },
-        "total_mods": 231
+        "total_mods": 232
     },
     "537441116413231134": {
         "modification_history": {},
