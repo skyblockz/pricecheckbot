@@ -1852,6 +1852,16 @@
                     96000
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    76000,
+                    85500
+                ],
+                "to": [
+                    70000,
+                    74000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     240000,
@@ -2223,7 +2233,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "537441116413231134": {
         "modification_history": {},
