@@ -11851,12 +11851,6 @@
     },
     {
         "ac": true,
-        "hi": 14000000,
-        "low": 13500000,
-        "name": "gemstone_drill_model_lt-522"
-    },
-    {
-        "ac": true,
         "hi": 32000000,
         "low": 30000000,
         "name": "topaz_drill_kgr-12"
@@ -14698,5 +14692,11 @@
         "hi": 2250000,
         "low": 2000000,
         "name": "book_of_stats"
+    },
+    {
+        "ac": true,
+        "hi": 14000000,
+        "low": 13500000,
+        "name": "gemstone_drill_lt-522"
     }
 ]
