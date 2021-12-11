@@ -2788,10 +2788,6 @@
         "src": "plasmaflux"
     },
     {
-        "dest": "fishing_minion_xi",
-        "src": "fish_minion_xi"
-    },
-    {
         "dest": "voidling_minion_xi",
         "src": "voidling_minion_11"
     },
@@ -2926,5 +2922,9 @@
     {
         "dest": "gemstone_drill_lt-522",
         "src": "gemstone_drill"
+    },
+    {
+        "dest": "fish_minion_xi",
+        "src": "fish_minion_xi"
     }
 ]
