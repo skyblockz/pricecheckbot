@@ -3788,6 +3788,16 @@
                     1
                 ]
             },
+            "spirit_sceptre": {
+                "from": [
+                    12000000,
+                    13000000
+                ],
+                "to": [
+                    13200000,
+                    13750000
+                ]
+            },
             "tarantula_talisman": {
                 "from": [
                     4300000,
@@ -3809,7 +3819,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "888892003088236554": {
         "modification_history": {},
