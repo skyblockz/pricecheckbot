@@ -3808,6 +3808,16 @@
                     50000
                 ]
             },
+            "bigfoots_lasso": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    120000,
+                    200000
+                ]
+            },
             "golden_necron_head": {
                 "from": [
                     15000000,
@@ -3889,7 +3899,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "888892003088236554": {
         "modification_history": {},
