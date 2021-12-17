@@ -3768,6 +3768,16 @@
                     50000
                 ]
             },
+            "golden_necron_head": {
+                "from": [
+                    15000000,
+                    15700000
+                ],
+                "to": [
+                    19000000,
+                    20000000
+                ]
+            },
             "hegemony_artifact": {
                 "from": [
                     265000000,
@@ -3839,7 +3849,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "888892003088236554": {
         "modification_history": {},
