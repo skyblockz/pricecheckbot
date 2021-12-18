@@ -2610,6 +2610,16 @@
                     28237
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    75000,
+                    79000
+                ],
+                "to": [
+                    76000,
+                    77000
+                ]
+            },
             "polished_pumpkin": {
                 "from": [
                     170000,
@@ -2641,7 +2651,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "600991846482706434": {
         "modification_history": {},
