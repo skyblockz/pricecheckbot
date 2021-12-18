@@ -413,6 +413,16 @@
                     220000
                 ]
             },
+            "horsemans_candle": {
+                "from": [
+                    590000,
+                    600000
+                ],
+                "to": [
+                    450000,
+                    500000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -444,7 +454,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "395028811399299082": {
         "modification_history": {},
