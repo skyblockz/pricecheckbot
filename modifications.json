@@ -981,6 +981,16 @@
                     1950
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1500,
+                    1600
+                ],
+                "to": [
+                    1100,
+                    1200
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     84000,
@@ -1532,7 +1542,7 @@
                 ]
             }
         },
-        "total_mods": 83
+        "total_mods": 84
     },
     "521123932376399902": {
         "modification_history": {},
