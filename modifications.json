@@ -1061,6 +1061,16 @@
                     1100000
                 ]
             },
+            "goblin_egg": {
+                "from": [
+                    10000,
+                    11000
+                ],
+                "to": [
+                    6400,
+                    7700
+                ]
+            },
             "golden_jerry_box": {
                 "from": [
                     1230000,
@@ -1612,7 +1622,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "521123932376399902": {
         "modification_history": {},
