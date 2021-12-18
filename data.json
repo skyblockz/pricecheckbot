@@ -12613,12 +12613,6 @@
     },
     {
         "ac": true,
-        "hi": 21000000,
-        "low": 20000000,
-        "name": "jasper_drill_model_x"
-    },
-    {
-        "ac": true,
         "hi": 127000,
         "low": 108000,
         "name": "green_jerry_box"
@@ -14698,5 +14692,11 @@
         "hi": 6600000,
         "low": 5400000,
         "name": "fish_minion_xi"
+    },
+    {
+        "ac": true,
+        "hi": 21000000,
+        "low": 20000000,
+        "name": "jasper_drill_x"
     }
 ]
