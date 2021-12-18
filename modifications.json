@@ -1661,6 +1661,16 @@
                     3900
                 ]
             },
+            "packed_ice": {
+                "from": [
+                    40,
+                    45
+                ],
+                "to": [
+                    61,
+                    71
+                ]
+            },
             "plasma_bucket": {
                 "from": [
                     5800000,
@@ -2202,7 +2212,7 @@
                 ]
             }
         },
-        "total_mods": 150
+        "total_mods": 151
     },
     "521123932376399902": {
         "modification_history": {},
