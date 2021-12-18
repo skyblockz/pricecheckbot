@@ -863,6 +863,16 @@
                     200000
                 ]
             },
+            "minion_storage_x-pender": {
+                "from": [
+                    700000,
+                    750000
+                ],
+                "to": [
+                    3500000,
+                    5000000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -904,7 +914,7 @@
                 ]
             }
         },
-        "total_mods": 89
+        "total_mods": 90
     },
     "395028811399299082": {
         "modification_history": {},
