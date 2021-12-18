@@ -262,9 +262,19 @@
                     50000,
                     50000
                 ]
+            },
+            "grappling_hook": {
+                "from": [
+                    7000,
+                    10000
+                ],
+                "to": [
+                    6000,
+                    6000
+                ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "395028811399299082": {
         "modification_history": {},
