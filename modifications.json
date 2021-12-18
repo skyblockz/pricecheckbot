@@ -1690,6 +1690,16 @@
                     190000
                 ]
             },
+            "enchanted_pork": {
+                "from": [
+                    1440,
+                    1700
+                ],
+                "to": [
+                    1900,
+                    2100
+                ]
+            },
             "enchanted_rabbit_foot": {
                 "from": [
                     2200,
@@ -1711,7 +1721,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "600991846482706434": {
         "modification_history": {},
