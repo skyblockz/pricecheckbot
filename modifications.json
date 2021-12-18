@@ -711,6 +711,16 @@
                     980000
                 ]
             },
+            "experience_bottle": {
+                "from": [
+                    15,
+                    38
+                ],
+                "to": [
+                    32,
+                    44
+                ]
+            },
             "grand_experience_bottle": {
                 "from": [
                     4300,
@@ -732,7 +742,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "521123932376399902": {
         "modification_history": {},
