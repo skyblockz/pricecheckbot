@@ -73,6 +73,16 @@
     },
     "390511370061217802": {
         "modification_history": {
+            "base_griffin_upgrade_stone": {
+                "from": [
+                    500000,
+                    550000
+                ],
+                "to": [
+                    670000,
+                    800000
+                ]
+            },
             "farming_for_dummies": {
                 "from": [
                     1550000,
@@ -304,7 +314,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "395028811399299082": {
         "modification_history": {},
