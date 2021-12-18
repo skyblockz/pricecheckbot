@@ -353,6 +353,16 @@
                     59000000
                 ]
             },
+            "happy_mask": {
+                "from": [
+                    65000,
+                    70000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -384,7 +394,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "395028811399299082": {
         "modification_history": {},
