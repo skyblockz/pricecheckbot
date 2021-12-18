@@ -453,6 +453,16 @@
                     80000
                 ]
             },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    120000,
+                    160000
+                ],
+                "to": [
+                    170000,
+                    185000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -484,7 +494,7 @@
                 ]
             }
         },
-        "total_mods": 47
+        "total_mods": 48
     },
     "395028811399299082": {
         "modification_history": {},
