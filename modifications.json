@@ -1161,6 +1161,16 @@
                     3000
                 ]
             },
+            "pufferfish": {
+                "from": [
+                    11,
+                    15
+                ],
+                "to": [
+                    12,
+                    14
+                ]
+            },
             "pumpkin_guts": {
                 "from": [
                     34000,
@@ -1402,7 +1412,7 @@
                 ]
             }
         },
-        "total_mods": 70
+        "total_mods": 71
     },
     "521123932376399902": {
         "modification_history": {},
