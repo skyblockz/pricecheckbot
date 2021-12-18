@@ -741,6 +741,16 @@
                     44
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    25000,
+                    27000
+                ],
+                "to": [
+                    24000,
+                    25000
+                ]
+            },
             "golden_jerry_box": {
                 "from": [
                     1230000,
@@ -912,7 +922,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "521123932376399902": {
         "modification_history": {},
