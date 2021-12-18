@@ -1021,6 +1021,16 @@
                     820
                 ]
             },
+            "enchanted_cobblestone": {
+                "from": [
+                    1300,
+                    1400
+                ],
+                "to": [
+                    1200,
+                    1260
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     437000,
@@ -2552,7 +2562,7 @@
                 ]
             }
         },
-        "total_mods": 185
+        "total_mods": 186
     },
     "521123932376399902": {
         "modification_history": {},
