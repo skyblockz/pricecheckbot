@@ -781,6 +781,16 @@
                     1150000
                 ]
             },
+            "red_gift": {
+                "from": [
+                    60000,
+                    65000
+                ],
+                "to": [
+                    58000,
+                    60000
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     28000,
@@ -802,7 +812,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "521123932376399902": {
         "modification_history": {},
