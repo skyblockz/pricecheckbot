@@ -713,6 +713,16 @@
                     30000000
                 ]
             },
+            "lesser_orb_of_healing": {
+                "from": [
+                    90000,
+                    120000
+                ],
+                "to": [
+                    68000,
+                    75000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -734,7 +744,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "395028811399299082": {
         "modification_history": {},
