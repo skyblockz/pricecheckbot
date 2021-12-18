@@ -821,6 +821,16 @@
                     9000
                 ]
             },
+            "plasma_bucket": {
+                "from": [
+                    5800000,
+                    6500000
+                ],
+                "to": [
+                    6000000,
+                    67500000
+                ]
+            },
             "power_crystal": {
                 "from": [
                     110000,
@@ -932,7 +942,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "521123932376399902": {
         "modification_history": {},
