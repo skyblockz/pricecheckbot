@@ -1051,6 +1051,16 @@
                     2560
                 ]
             },
+            "enchanted_glowstone": {
+                "from": [
+                    71000,
+                    90000
+                ],
+                "to": [
+                    73000,
+                    76000
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     1611,
@@ -2292,7 +2302,7 @@
                 ]
             }
         },
-        "total_mods": 159
+        "total_mods": 160
     },
     "521123932376399902": {
         "modification_history": {},
