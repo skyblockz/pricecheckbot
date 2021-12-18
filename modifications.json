@@ -673,6 +673,16 @@
                     680000
                 ]
             },
+            "lasrs_eye": {
+                "from": [
+                    200000,
+                    210000
+                ],
+                "to": [
+                    200000,
+                    300000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -704,7 +714,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "395028811399299082": {
         "modification_history": {},
