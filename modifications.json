@@ -583,6 +583,16 @@
                     560000000
                 ]
             },
+            "jumbo_backpack_upgrade": {
+                "from": [
+                    1800000,
+                    1800000
+                ],
+                "to": [
+                    2100000,
+                    2200000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -614,7 +624,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "395028811399299082": {
         "modification_history": {},
