@@ -2690,6 +2690,16 @@
                     1000
                 ]
             },
+            "enchanted_brown_mushroom_block": {
+                "from": [
+                    15500,
+                    19000
+                ],
+                "to": [
+                    39000,
+                    50000
+                ]
+            },
             "enchanted_cactus": {
                 "from": [
                     49000,
@@ -2941,7 +2951,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "600991846482706434": {
         "modification_history": {},
