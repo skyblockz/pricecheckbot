@@ -443,6 +443,16 @@
                     1200
                 ]
             },
+            "hurricane_bow": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    77000,
+                    80000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -474,7 +484,7 @@
                 ]
             }
         },
-        "total_mods": 46
+        "total_mods": 47
     },
     "395028811399299082": {
         "modification_history": {},
