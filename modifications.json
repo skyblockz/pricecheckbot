@@ -1101,6 +1101,16 @@
                     13000
                 ]
             },
+            "green_goblin_egg": {
+                "from": [
+                    11200,
+                    15000
+                ],
+                "to": [
+                    8000,
+                    11000
+                ]
+            },
             "green_jerry_box": {
                 "from": [
                     92000,
@@ -1572,7 +1582,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "521123932376399902": {
         "modification_history": {},
