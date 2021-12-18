@@ -961,6 +961,16 @@
                     5770
                 ]
             },
+            "enchanted_firework_rocket": {
+                "from": [
+                    120000,
+                    135000
+                ],
+                "to": [
+                    124000,
+                    156000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     70000,
@@ -1892,7 +1902,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "521123932376399902": {
         "modification_history": {},
