@@ -783,6 +783,16 @@
                     250000
                 ]
             },
+            "magma_core": {
+                "from": [
+                    890000,
+                    1000000
+                ],
+                "to": [
+                    2000000,
+                    2300000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -804,7 +814,7 @@
                 ]
             }
         },
-        "total_mods": 79
+        "total_mods": 80
     },
     "395028811399299082": {
         "modification_history": {},
