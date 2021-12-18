@@ -503,6 +503,16 @@
                     300
                 ]
             },
+            "ink_wand": {
+                "from": [
+                    3600000,
+                    3700000
+                ],
+                "to": [
+                    5000000,
+                    5850000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -534,7 +544,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "395028811399299082": {
         "modification_history": {},
