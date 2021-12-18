@@ -841,6 +841,16 @@
                     110000
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    84000,
+                    94000
+                ],
+                "to": [
+                    79000,
+                    84000
+                ]
+            },
             "experience_bottle": {
                 "from": [
                     15,
@@ -1322,7 +1332,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "521123932376399902": {
         "modification_history": {},
