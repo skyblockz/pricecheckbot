@@ -613,6 +613,16 @@
                     2400
                 ]
             },
+            "jungle_heart": {
+                "from": [
+                    650000,
+                    690000
+                ],
+                "to": [
+                    120000,
+                    250000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -644,7 +654,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "395028811399299082": {
         "modification_history": {},
