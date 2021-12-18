@@ -833,6 +833,16 @@
                     70000
                 ]
             },
+            "metal_chestplate": {
+                "from": [
+                    800000,
+                    800000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -874,7 +884,7 @@
                 ]
             }
         },
-        "total_mods": 86
+        "total_mods": 87
     },
     "395028811399299082": {
         "modification_history": {},
