@@ -633,6 +633,16 @@
                     85000
                 ]
             },
+            "jungle_pickaxe": {
+                "from": [
+                    750000,
+                    850000
+                ],
+                "to": [
+                    550000,
+                    600000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -664,7 +674,7 @@
                 ]
             }
         },
-        "total_mods": 65
+        "total_mods": 66
     },
     "395028811399299082": {
         "modification_history": {},
