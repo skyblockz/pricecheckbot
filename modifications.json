@@ -811,6 +811,16 @@
                     3200
                 ]
             },
+            "enchanted_cooked_fish": {
+                "from": [
+                    437000,
+                    466000
+                ],
+                "to": [
+                    330000,
+                    360000
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     70000,
@@ -1432,7 +1442,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "521123932376399902": {
         "modification_history": {},
