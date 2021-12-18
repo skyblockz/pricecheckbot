@@ -1421,6 +1421,16 @@
                     46
                 ]
             },
+            "glowstone_dust": {
+                "from": [
+                    10,
+                    13
+                ],
+                "to": [
+                    15,
+                    30
+                ]
+            },
             "goblin_egg": {
                 "from": [
                     10000,
@@ -2312,7 +2322,7 @@
                 ]
             }
         },
-        "total_mods": 161
+        "total_mods": 162
     },
     "521123932376399902": {
         "modification_history": {},
