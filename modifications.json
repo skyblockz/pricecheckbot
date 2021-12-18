@@ -763,6 +763,16 @@
                     680000
                 ]
             },
+            "magical_milk_bucket": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -784,7 +794,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "395028811399299082": {
         "modification_history": {},
