@@ -583,6 +583,16 @@
                     560000000
                 ]
             },
+            "jumbo_backpack": {
+                "from": [
+                    2450000,
+                    2600000
+                ],
+                "to": [
+                    3000000,
+                    3050000
+                ]
+            },
             "jumbo_backpack_upgrade": {
                 "from": [
                     1800000,
@@ -624,7 +634,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "395028811399299082": {
         "modification_history": {},
