@@ -711,6 +711,16 @@
                     980000
                 ]
             },
+            "grand_experience_bottle": {
+                "from": [
+                    4300,
+                    4500
+                ],
+                "to": [
+                    3900,
+                    4100
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     277000,
@@ -722,7 +732,7 @@
                 ]
             }
         },
-        "total_mods": 2
+        "total_mods": 3
     },
     "521123932376399902": {
         "modification_history": {},
