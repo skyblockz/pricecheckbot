@@ -553,6 +553,16 @@
                     40000
                 ]
             },
+            "jingle_bells": {
+                "from": [
+                    330000,
+                    430000
+                ],
+                "to": [
+                    450000,
+                    850000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -584,7 +594,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "395028811399299082": {
         "modification_history": {},
