@@ -573,6 +573,16 @@
                     30000
                 ]
             },
+            "judgement_core": {
+                "from": [
+                    490000000,
+                    500000000
+                ],
+                "to": [
+                    540000000,
+                    560000000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -604,7 +614,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "395028811399299082": {
         "modification_history": {},
