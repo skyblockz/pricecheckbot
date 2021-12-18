@@ -721,6 +721,16 @@
                     980000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    75000,
+                    96000
+                ],
+                "to": [
+                    78000,
+                    98000
+                ]
+            },
             "experience_bottle": {
                 "from": [
                     15,
@@ -872,7 +882,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "521123932376399902": {
         "modification_history": {},
