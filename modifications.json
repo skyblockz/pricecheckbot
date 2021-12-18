@@ -1021,6 +1021,16 @@
                     160
                 ]
             },
+            "minnow_bait": {
+                "from": [
+                    10,
+                    18
+                ],
+                "to": [
+                    4,
+                    16
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     204,
@@ -1302,7 +1312,7 @@
                 ]
             }
         },
-        "total_mods": 60
+        "total_mods": 61
     },
     "521123932376399902": {
         "modification_history": {},
