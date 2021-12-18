@@ -773,6 +773,16 @@
                     400000
                 ]
             },
+            "magma_bow": {
+                "from": [
+                    140000,
+                    150000
+                ],
+                "to": [
+                    230000,
+                    250000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -794,7 +804,7 @@
                 ]
             }
         },
-        "total_mods": 78
+        "total_mods": 79
     },
     "395028811399299082": {
         "modification_history": {},
