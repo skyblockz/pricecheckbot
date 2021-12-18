@@ -791,6 +791,16 @@
                     26000
                 ]
             },
+            "enchanted_shark_fin": {
+                "from": [
+                    13000,
+                    19000
+                ],
+                "to": [
+                    40000,
+                    110000
+                ]
+            },
             "experience_bottle": {
                 "from": [
                     15,
@@ -1152,7 +1162,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "521123932376399902": {
         "modification_history": {},
