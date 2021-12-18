@@ -493,6 +493,16 @@
                     44000000
                 ]
             },
+            "inflatable_jerry": {
+                "from": [
+                    50,
+                    500
+                ],
+                "to": [
+                    100,
+                    300
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -524,7 +534,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "395028811399299082": {
         "modification_history": {},
