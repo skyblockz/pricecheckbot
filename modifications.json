@@ -1041,6 +1041,16 @@
                     156000
                 ]
             },
+            "enchanted_flint": {
+                "from": [
+                    2000,
+                    2030
+                ],
+                "to": [
+                    2400,
+                    2560
+                ]
+            },
             "enchanted_gunpowder": {
                 "from": [
                     1611,
@@ -2262,7 +2272,7 @@
                 ]
             }
         },
-        "total_mods": 156
+        "total_mods": 157
     },
     "521123932376399902": {
         "modification_history": {},
