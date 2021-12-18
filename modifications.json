@@ -393,6 +393,16 @@
                     1800000
                 ]
             },
+            "helix": {
+                "from": [
+                    70000,
+                    100000
+                ],
+                "to": [
+                    10000,
+                    14000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -424,7 +434,7 @@
                 ]
             }
         },
-        "total_mods": 41
+        "total_mods": 42
     },
     "395028811399299082": {
         "modification_history": {},
