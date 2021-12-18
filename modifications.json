@@ -483,6 +483,16 @@
                     225000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": [
+                    32000000,
+                    33000000
+                ],
+                "to": [
+                    33000000,
+                    44000000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -514,7 +524,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "395028811399299082": {
         "modification_history": {},
