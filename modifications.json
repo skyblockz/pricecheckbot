@@ -921,6 +921,16 @@
                     456000
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    67000,
+                    75000
+                ],
+                "to": [
+                    55000,
+                    90000
+                ]
+            },
             "enchanted_clownfish": {
                 "from": [
                     3170,
@@ -1992,7 +2002,7 @@
                 ]
             }
         },
-        "total_mods": 129
+        "total_mods": 130
     },
     "521123932376399902": {
         "modification_history": {},
