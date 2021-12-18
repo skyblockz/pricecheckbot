@@ -1461,6 +1461,16 @@
                     34000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    45000,
+                    46000
+                ],
+                "to": [
+                    43000,
+                    44000
+                ]
+            },
             "shark_bait": {
                 "from": [
                     10,
@@ -1712,7 +1722,7 @@
                 ]
             }
         },
-        "total_mods": 101
+        "total_mods": 102
     },
     "521123932376399902": {
         "modification_history": {},
