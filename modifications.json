@@ -841,6 +841,16 @@
                     44
                 ]
             },
+            "fish_bait": {
+                "from": [
+                    100,
+                    167
+                ],
+                "to": [
+                    70,
+                    95
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     25000,
@@ -1292,7 +1302,7 @@
                 ]
             }
         },
-        "total_mods": 59
+        "total_mods": 60
     },
     "521123932376399902": {
         "modification_history": {},
