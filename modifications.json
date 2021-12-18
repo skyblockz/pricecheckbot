@@ -1801,6 +1801,16 @@
                     2500
                 ]
             },
+            "string": {
+                "from": [
+                    5,
+                    10
+                ],
+                "to": [
+                    5,
+                    8
+                ]
+            },
             "strong_dragon_fragment": {
                 "from": [
                     18000,
@@ -1982,7 +1992,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "521123932376399902": {
         "modification_history": {},
