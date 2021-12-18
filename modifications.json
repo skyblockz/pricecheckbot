@@ -643,6 +643,16 @@
                     600000
                 ]
             },
+            "kalhuiki_mask": {
+                "from": [
+                    300000,
+                    350000
+                ],
+                "to": [
+                    100000,
+                    150000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -674,7 +684,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "395028811399299082": {
         "modification_history": {},
