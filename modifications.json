@@ -843,6 +843,16 @@
                     1000000
                 ]
             },
+            "mimic_fragment": {
+                "from": [
+                    7000,
+                    9000
+                ],
+                "to": [
+                    9000,
+                    10000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -884,7 +894,7 @@
                 ]
             }
         },
-        "total_mods": 87
+        "total_mods": 88
     },
     "395028811399299082": {
         "modification_history": {},
