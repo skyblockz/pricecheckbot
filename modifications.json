@@ -731,6 +731,16 @@
                     4100
                 ]
             },
+            "jacobs_ticket": {
+                "from": [
+                    7400,
+                    7900
+                ],
+                "to": [
+                    8900,
+                    9000
+                ]
+            },
             "titanic_experience_bottle": {
                 "from": [
                     277000,
@@ -742,7 +752,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "521123932376399902": {
         "modification_history": {},
