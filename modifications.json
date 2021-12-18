@@ -853,6 +853,16 @@
                     10000
                 ]
             },
+            "mining_pumpkin": {
+                "from": [
+                    120000,
+                    120000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -894,7 +904,7 @@
                 ]
             }
         },
-        "total_mods": 88
+        "total_mods": 89
     },
     "395028811399299082": {
         "modification_history": {},
