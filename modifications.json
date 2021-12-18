@@ -733,6 +733,16 @@
                     200000
                 ]
             },
+            "lucky_clover": {
+                "from": [
+                    3600000,
+                    4000000
+                ],
+                "to": [
+                    4900000,
+                    5000000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -754,7 +764,7 @@
                 ]
             }
         },
-        "total_mods": 74
+        "total_mods": 75
     },
     "395028811399299082": {
         "modification_history": {},
