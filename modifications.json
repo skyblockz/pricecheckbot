@@ -2690,6 +2690,16 @@
                     221000
                 ]
             },
+            "enchanted_cactus_green": {
+                "from": [
+                    1700,
+                    2400
+                ],
+                "to": [
+                    1200,
+                    1500
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     106000,
@@ -2871,7 +2881,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "600991846482706434": {
         "modification_history": {},
