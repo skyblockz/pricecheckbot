@@ -1141,6 +1141,16 @@
                     850
                 ]
             },
+            "enchanted_lapis_block": {
+                "from": [
+                    45000,
+                    46000
+                ],
+                "to": [
+                    39000,
+                    41000
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     250000,
@@ -2412,7 +2422,7 @@
                 ]
             }
         },
-        "total_mods": 171
+        "total_mods": 172
     },
     "521123932376399902": {
         "modification_history": {},
