@@ -1011,6 +1011,16 @@
                     3200
                 ]
             },
+            "enchanted_coal": {
+                "from": [
+                    700,
+                    770
+                ],
+                "to": [
+                    680,
+                    820
+                ]
+            },
             "enchanted_cooked_fish": {
                 "from": [
                     437000,
@@ -2542,7 +2552,7 @@
                 ]
             }
         },
-        "total_mods": 184
+        "total_mods": 185
     },
     "521123932376399902": {
         "modification_history": {},
