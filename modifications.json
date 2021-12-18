@@ -2700,6 +2700,16 @@
                     1500
                 ]
             },
+            "enchanted_carrot_on_a_stick": {
+                "from": [
+                    3500,
+                    15000
+                ],
+                "to": [
+                    8900,
+                    19000
+                ]
+            },
             "enchanted_cooked_mutton": {
                 "from": [
                     106000,
@@ -2881,7 +2891,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "600991846482706434": {
         "modification_history": {},
