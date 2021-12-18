@@ -323,6 +323,16 @@
                     1300000
                 ]
             },
+            "grizzly_bait": {
+                "from": [
+                    1650000,
+                    1900000
+                ],
+                "to": [
+                    890000,
+                    1000000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -354,7 +364,7 @@
                 ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "395028811399299082": {
         "modification_history": {},
