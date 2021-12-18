@@ -1051,6 +1051,16 @@
                     2150
                 ]
             },
+            "enchanted_hard_stone": {
+                "from": [
+                    2000,
+                    2100
+                ],
+                "to": [
+                    2600,
+                    2800
+                ]
+            },
             "enchanted_ice": {
                 "from": [
                     820,
@@ -2232,7 +2242,7 @@
                 ]
             }
         },
-        "total_mods": 153
+        "total_mods": 154
     },
     "521123932376399902": {
         "modification_history": {},
