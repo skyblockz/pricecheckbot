@@ -751,6 +751,16 @@
                     4100
                 ]
             },
+            "green_jerry_box": {
+                "from": [
+                    92000,
+                    106000
+                ],
+                "to": [
+                    108000,
+                    127000
+                ]
+            },
             "jacobs_ticket": {
                 "from": [
                     7400,
@@ -792,7 +802,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "521123932376399902": {
         "modification_history": {},
