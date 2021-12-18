@@ -723,6 +723,16 @@
                     75000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    60000,
+                    80000
+                ],
+                "to": [
+                    140000,
+                    200000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -744,7 +754,7 @@
                 ]
             }
         },
-        "total_mods": 73
+        "total_mods": 74
     },
     "395028811399299082": {
         "modification_history": {},
