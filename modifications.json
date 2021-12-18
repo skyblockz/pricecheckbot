@@ -663,6 +663,16 @@
                     300000
                 ]
             },
+            "kismet_feather": {
+                "from": [
+                    500000,
+                    540000
+                ],
+                "to": [
+                    600000,
+                    680000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -694,7 +704,7 @@
                 ]
             }
         },
-        "total_mods": 68
+        "total_mods": 69
     },
     "395028811399299082": {
         "modification_history": {},
