@@ -761,6 +761,16 @@
                     10000
                 ]
             },
+            "dark_bait": {
+                "from": [
+                    980,
+                    2000
+                ],
+                "to": [
+                    950,
+                    1300
+                ]
+            },
             "dwarven_super_compactor": {
                 "from": [
                     780000,
@@ -1272,7 +1282,7 @@
                 ]
             }
         },
-        "total_mods": 57
+        "total_mods": 58
     },
     "521123932376399902": {
         "modification_history": {},
