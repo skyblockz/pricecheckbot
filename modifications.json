@@ -1731,6 +1731,16 @@
                     10
                 ]
             },
+            "nether_quartz": {
+                "from": [
+                    10,
+                    16
+                ],
+                "to": [
+                    8,
+                    16
+                ]
+            },
             "netherrack": {
                 "from": [
                     2,
@@ -2362,7 +2372,7 @@
                 ]
             }
         },
-        "total_mods": 166
+        "total_mods": 167
     },
     "521123932376399902": {
         "modification_history": {},
