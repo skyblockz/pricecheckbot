@@ -731,6 +731,16 @@
                     980000
                 ]
             },
+            "compactor": {
+                "from": [
+                    7200,
+                    9000
+                ],
+                "to": [
+                    8500,
+                    10000
+                ]
+            },
             "dwarven_super_compactor": {
                 "from": [
                     780000,
@@ -1082,7 +1092,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "521123932376399902": {
         "modification_history": {},
