@@ -1121,6 +1121,16 @@
                     2300000
                 ]
             },
+            "spiked_bait": {
+                "from": [
+                    70,
+                    140
+                ],
+                "to": [
+                    44,
+                    81
+                ]
+            },
             "spooky_shard": {
                 "from": [
                     1500,
@@ -1252,7 +1262,7 @@
                 ]
             }
         },
-        "total_mods": 55
+        "total_mods": 56
     },
     "521123932376399902": {
         "modification_history": {},
