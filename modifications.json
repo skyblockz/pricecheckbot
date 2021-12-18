@@ -821,6 +821,16 @@
                     122000
                 ]
             },
+            "cobblestone": {
+                "from": [
+                    7,
+                    10
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "colossal_experience_bottle": {
                 "from": [
                     710000,
@@ -2562,7 +2572,7 @@
                 ]
             }
         },
-        "total_mods": 186
+        "total_mods": 187
     },
     "521123932376399902": {
         "modification_history": {},
