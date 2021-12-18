@@ -1731,6 +1731,16 @@
                     44000
                 ]
             },
+            "rotten_flesh": {
+                "from": [
+                    6,
+                    9
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "shark_bait": {
                 "from": [
                     10,
@@ -2032,7 +2042,7 @@
                 ]
             }
         },
-        "total_mods": 133
+        "total_mods": 134
     },
     "521123932376399902": {
         "modification_history": {},
