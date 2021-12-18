@@ -823,6 +823,16 @@
                     3600000
                 ]
             },
+            "second_master_star": {
+                "from": [
+                    24500000,
+                    26700000
+                ],
+                "to": [
+                    34400000,
+                    34900000
+                ]
+            },
             "uncommon_griffin_upgrade_stone": {
                 "from": [
                     1000000,
@@ -834,7 +844,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "395028811399299082": {
         "modification_history": {},
