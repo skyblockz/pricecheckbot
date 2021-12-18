@@ -463,6 +463,16 @@
                     185000
                 ]
             },
+            "hyper_furnace": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    300000,
+                    400000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -494,7 +504,7 @@
                 ]
             }
         },
-        "total_mods": 48
+        "total_mods": 49
     },
     "395028811399299082": {
         "modification_history": {},
