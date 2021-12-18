@@ -1491,6 +1491,16 @@
                     22000
                 ]
             },
+            "hard_stone": {
+                "from": [
+                    2,
+                    4
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "holy_dragon_fragment": {
                 "from": [
                     2400,
@@ -2242,7 +2252,7 @@
                 ]
             }
         },
-        "total_mods": 154
+        "total_mods": 155
     },
     "521123932376399902": {
         "modification_history": {},
