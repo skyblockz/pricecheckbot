@@ -333,6 +333,16 @@
                     1000000
                 ]
             },
+            "guardian_chestplate": {
+                "from": [
+                    50000,
+                    80000
+                ],
+                "to": [
+                    125000,
+                    150000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -364,7 +374,7 @@
                 ]
             }
         },
-        "total_mods": 35
+        "total_mods": 36
     },
     "395028811399299082": {
         "modification_history": {},
