@@ -373,6 +373,16 @@
                     420000
                 ]
             },
+            "healing_tissue": {
+                "from": [
+                    45000,
+                    55000
+                ],
+                "to": [
+                    100000,
+                    120000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -404,7 +414,7 @@
                 ]
             }
         },
-        "total_mods": 39
+        "total_mods": 40
     },
     "395028811399299082": {
         "modification_history": {},
