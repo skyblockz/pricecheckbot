@@ -113,6 +113,16 @@
                     90000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    13700000,
+                    14700000
+                ],
+                "to": [
+                    15800000,
+                    16000000
+                ]
+            },
             "flake_the_fish": {
                 "from": [
                     300000,
@@ -824,7 +834,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "395028811399299082": {
         "modification_history": {},
