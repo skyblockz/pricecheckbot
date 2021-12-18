@@ -1111,6 +1111,16 @@
                     9000
                 ]
             },
+            "jungle_wood": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    3,
+                    6
+                ]
+            },
             "light_bait": {
                 "from": [
                     65,
@@ -1472,7 +1482,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "521123932376399902": {
         "modification_history": {},
