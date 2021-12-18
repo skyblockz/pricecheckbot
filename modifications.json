@@ -1381,6 +1381,16 @@
                     60000
                 ]
             },
+            "red_goblin_egg": {
+                "from": [
+                    15000,
+                    19300
+                ],
+                "to": [
+                    16000,
+                    17400
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     28000,
@@ -1602,7 +1612,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "521123932376399902": {
         "modification_history": {},
