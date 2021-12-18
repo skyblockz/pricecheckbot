@@ -801,6 +801,16 @@
                     9000
                 ]
             },
+            "power_crystal": {
+                "from": [
+                    110000,
+                    127000
+                ],
+                "to": [
+                    87000,
+                    98000
+                ]
+            },
             "pumpkin_guts": {
                 "from": [
                     34000,
@@ -902,7 +912,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "521123932376399902": {
         "modification_history": {},
