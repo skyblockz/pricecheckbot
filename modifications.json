@@ -513,6 +513,16 @@
                     5850000
                 ]
             },
+            "island_npc": {
+                "from": [
+                    180000,
+                    190000
+                ],
+                "to": [
+                    50000,
+                    70000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -544,7 +554,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "395028811399299082": {
         "modification_history": {},
