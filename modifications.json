@@ -623,6 +623,16 @@
                     250000
                 ]
             },
+            "jungle_key": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    70000,
+                    85000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -654,7 +664,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "395028811399299082": {
         "modification_history": {},
