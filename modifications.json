@@ -1741,6 +1741,16 @@
                     25000
                 ]
             },
+            "spider_eye": {
+                "from": [
+                    5,
+                    10
+                ],
+                "to": [
+                    3,
+                    5
+                ]
+            },
             "spiked_bait": {
                 "from": [
                     70,
@@ -1962,7 +1972,7 @@
                 ]
             }
         },
-        "total_mods": 126
+        "total_mods": 127
     },
     "521123932376399902": {
         "modification_history": {},
