@@ -731,6 +731,16 @@
                     98000
                 ]
             },
+            "enchanted_lava_bucket": {
+                "from": [
+                    250000,
+                    254000
+                ],
+                "to": [
+                    220000,
+                    240000
+                ]
+            },
             "experience_bottle": {
                 "from": [
                     15,
@@ -942,7 +952,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "521123932376399902": {
         "modification_history": {},
