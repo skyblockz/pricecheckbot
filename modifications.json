@@ -841,6 +841,16 @@
                     10000
                 ]
             },
+            "concentrated_stone": {
+                "from": [
+                    1200000,
+                    1300000
+                ],
+                "to": [
+                    1600000,
+                    1720000
+                ]
+            },
             "daedalus_stick": {
                 "from": [
                     17022167,
@@ -2222,7 +2232,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "521123932376399902": {
         "modification_history": {},
