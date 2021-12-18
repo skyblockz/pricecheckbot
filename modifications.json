@@ -793,6 +793,16 @@
                     2300000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    2888888,
+                    3300000
+                ],
+                "to": [
+                    4300000,
+                    6000000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -814,7 +824,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "395028811399299082": {
         "modification_history": {},
