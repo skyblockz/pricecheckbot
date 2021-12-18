@@ -323,6 +323,16 @@
                     1300000
                 ]
             },
+            "legendary_griffin_upgrade_stone": {
+                "from": [
+                    37500000,
+                    40000000
+                ],
+                "to": [
+                    29250000,
+                    30000000
+                ]
+            },
             "rare_griffin_upgrade_stone": {
                 "from": [
                     2300000,
@@ -344,7 +354,7 @@
                 ]
             }
         },
-        "total_mods": 33
+        "total_mods": 34
     },
     "395028811399299082": {
         "modification_history": {},
