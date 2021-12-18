@@ -881,6 +881,16 @@
                     2
                 ]
             },
+            "diamond": {
+                "from": [
+                    7,
+                    8
+                ],
+                "to": [
+                    7,
+                    9
+                ]
+            },
             "dwarven_super_compactor": {
                 "from": [
                     780000,
@@ -2452,7 +2462,7 @@
                 ]
             }
         },
-        "total_mods": 175
+        "total_mods": 176
     },
     "521123932376399902": {
         "modification_history": {},
