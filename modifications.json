@@ -791,6 +791,16 @@
                     1000
                 ]
             },
+            "bone": {
+                "from": [
+                    2,
+                    5
+                ],
+                "to": [
+                    1,
+                    3
+                ]
+            },
             "carrot_bait": {
                 "from": [
                     25,
@@ -2012,7 +2022,7 @@
                 ]
             }
         },
-        "total_mods": 131
+        "total_mods": 132
     },
     "521123932376399902": {
         "modification_history": {},
