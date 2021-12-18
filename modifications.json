@@ -1161,6 +1161,16 @@
                     1200
                 ]
             },
+            "enchanted_string": {
+                "from": [
+                    1200,
+                    1300
+                ],
+                "to": [
+                    1200,
+                    1250
+                ]
+            },
             "enchanted_wet_sponge": {
                 "from": [
                     84000,
@@ -1972,7 +1982,7 @@
                 ]
             }
         },
-        "total_mods": 127
+        "total_mods": 128
     },
     "521123932376399902": {
         "modification_history": {},
