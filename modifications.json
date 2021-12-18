@@ -4385,8 +4385,19 @@
         "total_mods": 0
     },
     "853342013491249183": {
-        "modification_history": {},
-        "total_mods": 10
+        "modification_history": {
+            "wither_catalyst": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    1200000,
+                    1300000
+                ]
+            }
+        },
+        "total_mods": 11
     },
     "888892003088236554": {
         "modification_history": {},
