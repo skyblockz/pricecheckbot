@@ -991,6 +991,16 @@
                     9000
                 ]
             },
+            "light_bait": {
+                "from": [
+                    65,
+                    110
+                ],
+                "to": [
+                    40,
+                    76
+                ]
+            },
             "lily_pad": {
                 "from": [
                     160,
@@ -1282,7 +1292,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "521123932376399902": {
         "modification_history": {},
