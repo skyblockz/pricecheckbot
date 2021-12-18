@@ -473,6 +473,16 @@
                     400000
                 ]
             },
+            "infinitorch": {
+                "from": [
+                    150000,
+                    350000
+                ],
+                "to": [
+                    150000,
+                    225000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -504,7 +514,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "395028811399299082": {
         "modification_history": {},
