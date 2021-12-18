@@ -653,6 +653,16 @@
                     150000
                 ]
             },
+            "kat_flower": {
+                "from": [
+                    250000,
+                    270000
+                ],
+                "to": [
+                    295000,
+                    300000
+                ]
+            },
             "legendary_griffin_upgrade_stone": {
                 "from": [
                     37500000,
@@ -684,7 +694,7 @@
                 ]
             }
         },
-        "total_mods": 67
+        "total_mods": 68
     },
     "395028811399299082": {
         "modification_history": {},
