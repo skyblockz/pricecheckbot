@@ -2770,6 +2770,16 @@
                     28237
                 ]
             },
+            "enchanted_sugar_cane": {
+                "from": [
+                    65000,
+                    67000
+                ],
+                "to": [
+                    52000,
+                    53000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     75000,
@@ -2821,7 +2831,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "600991846482706434": {
         "modification_history": {},
