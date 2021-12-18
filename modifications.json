@@ -841,6 +841,16 @@
                     360000
                 ]
             },
+            "enchanted_dark_oak_wood": {
+                "from": [
+                    500,
+                    600
+                ],
+                "to": [
+                    330,
+                    390
+                ]
+            },
             "enchanted_ink_sack": {
                 "from": [
                     70000,
@@ -1502,7 +1512,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "521123932376399902": {
         "modification_history": {},
