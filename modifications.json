@@ -3962,6 +3962,16 @@
                     2600
                 ]
             },
+            "werewolf_skin": {
+                "from": [
+                    22000,
+                    33000
+                ],
+                "to": [
+                    29000,
+                    53000
+                ]
+            },
             "wise_dragon_fragment": {
                 "from": [
                     26000,
@@ -3983,7 +3993,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "600991846482706434": {
         "modification_history": {},
