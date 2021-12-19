@@ -3842,6 +3842,16 @@
                     157000
                 ]
             },
+            "pumpkin_guts": {
+                "from": [
+                    38000,
+                    44000
+                ],
+                "to": [
+                    20000,
+                    44000
+                ]
+            },
             "purple_candy": {
                 "from": [
                     8800,
@@ -3963,7 +3973,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "600991846482706434": {
         "modification_history": {},
