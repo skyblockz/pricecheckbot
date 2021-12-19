@@ -3562,6 +3562,16 @@
                     1600000
                 ]
             },
+            "ectoplasm": {
+                "from": [
+                    78000,
+                    98000
+                ],
+                "to": [
+                    85000,
+                    100000
+                ]
+            },
             "enchanted_brown_mushroom": {
                 "from": [
                     620,
@@ -3953,7 +3963,7 @@
                 ]
             }
         },
-        "total_mods": 42
+        "total_mods": 43
     },
     "600991846482706434": {
         "modification_history": {},
