@@ -574,6 +574,16 @@
                     800000
                 ]
             },
+            "dctrs_space_helmet": {
+                "from": [
+                    300000000,
+                    500000000
+                ],
+                "to": [
+                    1230000000,
+                    1330000000
+                ]
+            },
             "epic_griffin_upgrade_stone": {
                 "from": [
                     6100000,
@@ -1412,7 +1422,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "395028811399299082": {
         "modification_history": {},
