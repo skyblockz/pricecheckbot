@@ -5167,6 +5167,16 @@
     },
     "853342013491249183": {
         "modification_history": {
+            "healing_tissue": {
+                "from": [
+                    100000,
+                    120000
+                ],
+                "to": [
+                    40000,
+                    80000
+                ]
+            },
             "snow_minion_xi": {
                 "from": [
                     900000,
@@ -5188,7 +5198,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "888892003088236554": {
         "modification_history": {},
