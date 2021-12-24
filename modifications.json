@@ -5702,6 +5702,16 @@
                     100000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    3700000,
+                    3800000
+                ],
+                "to": [
+                    3400000,
+                    3600000
+                ]
+            },
             "healing_tissue": {
                 "from": [
                     100000,
@@ -5773,7 +5783,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "888892003088236554": {
         "modification_history": {},
