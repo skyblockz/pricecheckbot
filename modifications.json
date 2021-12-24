@@ -57,6 +57,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "adaptive_chestplate": {
+                "from": [
+                    3400000,
+                    3500000
+                ],
+                "to": [
+                    3100000,
+                    3800000
+                ]
+            },
             "adaptive_helmet": {
                 "from": [
                     1750000,
@@ -558,7 +568,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "364186225382391809": {
         "modification_history": {},
