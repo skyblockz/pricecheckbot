@@ -5712,6 +5712,16 @@
                     3600000
                 ]
             },
+            "enchanted_gunpowder": {
+                "from": [
+                    2000,
+                    2150
+                ],
+                "to": [
+                    1800,
+                    2000
+                ]
+            },
             "gunpowder": {
                 "from": [
                     10,
@@ -5793,7 +5803,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "888892003088236554": {
         "modification_history": {},
