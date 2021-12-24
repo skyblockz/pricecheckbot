@@ -666,6 +666,16 @@
                     85000000
                 ]
             },
+            "bigfoots_lasso": {
+                "from": [
+                    50000,
+                    100000
+                ],
+                "to": [
+                    70000,
+                    100000
+                ]
+            },
             "diamantes_handle": {
                 "from": [
                     1400000,
@@ -934,7 +944,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "365916768805453834": {
         "modification_history": {},
