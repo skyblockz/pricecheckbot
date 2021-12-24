@@ -666,6 +666,16 @@
                     85000000
                 ]
             },
+            "diamantes_handle": {
+                "from": [
+                    1400000,
+                    1600000
+                ],
+                "to": [
+                    1449999,
+                    1500000
+                ]
+            },
             "dirt": {
                 "from": null,
                 "to": [
@@ -914,7 +924,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "365916768805453834": {
         "modification_history": {},
