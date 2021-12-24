@@ -693,6 +693,16 @@
                     110000000
                 ]
             },
+            "shadow_goggles": {
+                "from": [
+                    800000,
+                    800000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "wither_boots": {
                 "from": [
                     1600000,
@@ -724,7 +734,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "365916768805453834": {
         "modification_history": {},
