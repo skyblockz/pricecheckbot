@@ -57,6 +57,16 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "adaptive_helmet": {
+                "from": [
+                    1750000,
+                    2250000
+                ],
+                "to": [
+                    1600000,
+                    2500000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     1100000,
@@ -548,7 +558,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "364186225382391809": {
         "modification_history": {},
