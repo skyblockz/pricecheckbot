@@ -77,6 +77,16 @@
                     2500000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    190000,
+                    250000
+                ],
+                "to": [
+                    280000,
+                    500000
+                ]
+            },
             "dragon_claw": {
                 "from": [
                     1100000,
@@ -568,7 +578,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "364186225382391809": {
         "modification_history": {},
