@@ -2568,6 +2568,16 @@
                     450000
                 ]
             },
+            "reaper_gem": {
+                "from": [
+                    600000,
+                    1000000
+                ],
+                "to": [
+                    400000,
+                    500000
+                ]
+            },
             "skeleton_soldier_boots": {
                 "from": [
                     10000,
@@ -2589,7 +2599,7 @@
                 ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "476126963040256020": {
         "modification_history": {},
