@@ -2608,6 +2608,16 @@
                     1500000
                 ]
             },
+            "great_spook_chestplate": {
+                "from": [
+                    2700000,
+                    2900000
+                ],
+                "to": [
+                    1700000,
+                    2500000
+                ]
+            },
             "great_spook_helmet": {
                 "from": [
                     3100000,
@@ -2769,7 +2779,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "476126963040256020": {
         "modification_history": {},
