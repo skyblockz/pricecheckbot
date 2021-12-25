@@ -2538,6 +2538,16 @@
     },
     "472914917343887360": {
         "modification_history": {
+            "adaptive_chestplate": {
+                "from": [
+                    3100000,
+                    3800000
+                ],
+                "to": [
+                    3750000,
+                    4000000
+                ]
+            },
             "auger_rod": {
                 "from": [
                     15000000,
@@ -2629,7 +2639,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "476126963040256020": {
         "modification_history": {},
