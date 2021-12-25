@@ -909,6 +909,16 @@
                     9999
                 ]
             },
+            "hot_potato_book": {
+                "from": [
+                    38000,
+                    41000
+                ],
+                "to": [
+                    38000,
+                    38500
+                ]
+            },
             "null_ovoid": {
                 "from": [
                     427000,
@@ -1040,7 +1050,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "600991846482706434": {
         "modification_history": {},
