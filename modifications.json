@@ -2758,6 +2758,16 @@
                     5500000
                 ]
             },
+            "rare_machine_gun_bow": {
+                "from": [
+                    5038,
+                    5038
+                ],
+                "to": [
+                    6000,
+                    7500
+                ]
+            },
             "reaper_gem": {
                 "from": [
                     600000,
@@ -2799,7 +2809,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "476126963040256020": {
         "modification_history": {},
