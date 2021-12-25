@@ -2628,6 +2628,16 @@
                     200000
                 ]
             },
+            "infinityboom_tnt": {
+                "from": [
+                    33000000,
+                    44000000
+                ],
+                "to": [
+                    53000000,
+                    55000000
+                ]
+            },
             "jolly_pink_rock": {
                 "from": [
                     45000,
@@ -2739,7 +2749,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "476126963040256020": {
         "modification_history": {},
