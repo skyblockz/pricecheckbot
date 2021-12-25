@@ -879,6 +879,16 @@
                     40000000
                 ]
             },
+            "perfect_ruby_gemstone": {
+                "from": [
+                    9300000,
+                    9400000
+                ],
+                "to": [
+                    10000000,
+                    11000000
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     492000,
@@ -890,7 +900,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "600991846482706434": {
         "modification_history": {},
