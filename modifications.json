@@ -2558,6 +2558,16 @@
                     159000
                 ]
             },
+            "large_storage": {
+                "from": [
+                    360000,
+                    370000
+                ],
+                "to": [
+                    400000,
+                    450000
+                ]
+            },
             "skeleton_soldier_boots": {
                 "from": [
                     10000,
@@ -2569,7 +2579,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "476126963040256020": {
         "modification_history": {},
