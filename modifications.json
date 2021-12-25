@@ -2608,6 +2608,16 @@
                     450000
                 ]
             },
+            "livid_fragment": {
+                "from": [
+                    140000,
+                    200000
+                ],
+                "to": [
+                    70000,
+                    90000
+                ]
+            },
             "personal_compactor_7000": {
                 "from": [
                     6200000,
@@ -2659,7 +2669,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "476126963040256020": {
         "modification_history": {},
