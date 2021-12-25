@@ -829,6 +829,16 @@
                     3600000
                 ]
             },
+            "colossal_experience_bottle": {
+                "from": [
+                    880000,
+                    980000
+                ],
+                "to": [
+                    800000,
+                    999993
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     36000,
@@ -1050,7 +1060,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "600991846482706434": {
         "modification_history": {},
