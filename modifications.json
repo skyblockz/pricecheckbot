@@ -2537,8 +2537,19 @@
         "total_mods": 0
     },
     "472914917343887360": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "skeleton_soldier_boots": {
+                "from": [
+                    10000,
+                    10000
+                ],
+                "to": [
+                    10000,
+                    12000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "476126963040256020": {
         "modification_history": {},
