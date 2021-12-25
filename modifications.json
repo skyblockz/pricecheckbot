@@ -808,8 +808,19 @@
         "total_mods": 0
     },
     "592439415432019992": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "tightly_tied_hay_bale": {
+                "from": [
+                    492000,
+                    498000
+                ],
+                "to": [
+                    597000,
+                    820000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "600991846482706434": {
         "modification_history": {},
