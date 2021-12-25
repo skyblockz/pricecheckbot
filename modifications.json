@@ -819,6 +819,16 @@
                     999000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    3400000,
+                    3600000
+                ],
+                "to": [
+                    3200000,
+                    3600000
+                ]
+            },
             "enchanted_golden_carrot": {
                 "from": [
                     36000,
@@ -1030,7 +1040,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "600991846482706434": {
         "modification_history": {},
