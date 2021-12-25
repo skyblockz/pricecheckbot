@@ -909,6 +909,16 @@
                     355000
                 ]
             },
+            "null_sphere": {
+                "from": [
+                    2600,
+                    2800
+                ],
+                "to": [
+                    1900,
+                    2000
+                ]
+            },
             "perfect_amber_gemstone": {
                 "from": [
                     17250000,
@@ -1020,7 +1030,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "600991846482706434": {
         "modification_history": {},
