@@ -2568,6 +2568,16 @@
                     80000
                 ]
             },
+            "ender_helmet": {
+                "from": [
+                    25000,
+                    40000
+                ],
+                "to": [
+                    30000,
+                    40000
+                ]
+            },
             "hyper_catalyst": {
                 "from": [
                     140000,
@@ -2639,7 +2649,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "476126963040256020": {
         "modification_history": {},
