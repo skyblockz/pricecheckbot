@@ -2608,6 +2608,16 @@
                     1500000
                 ]
             },
+            "great_spook_staff": {
+                "from": [
+                    5000000,
+                    5400000
+                ],
+                "to": [
+                    4000000,
+                    5000000
+                ]
+            },
             "hyper_catalyst": {
                 "from": [
                     140000,
@@ -2749,7 +2759,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "476126963040256020": {
         "modification_history": {},
