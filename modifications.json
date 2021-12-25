@@ -1049,6 +1049,16 @@
                     820000
                 ]
             },
+            "titanic_experience_bottle": {
+                "from": [
+                    242000,
+                    252000
+                ],
+                "to": [
+                    261000,
+                    280000
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": [
                     43000,
@@ -1060,7 +1070,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "600991846482706434": {
         "modification_history": {},
