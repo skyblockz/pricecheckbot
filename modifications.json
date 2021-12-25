@@ -2588,6 +2588,16 @@
                     40000
                 ]
             },
+            "experiment_the_fish": {
+                "from": [
+                    50000,
+                    75000
+                ],
+                "to": [
+                    50000,
+                    50000
+                ]
+            },
             "fel_pearl": {
                 "from": [
                     89000,
@@ -2809,7 +2819,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "476126963040256020": {
         "modification_history": {},
