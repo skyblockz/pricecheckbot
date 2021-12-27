@@ -892,6 +892,16 @@
                     38000
                 ]
             },
+            "enchanted_redstone_lamp": {
+                "from": [
+                    46000,
+                    60000
+                ],
+                "to": [
+                    35000,
+                    52000
+                ]
+            },
             "refined_diamond": {
                 "from": [
                     470000,
@@ -903,7 +913,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "521123932376399902": {
         "modification_history": {},
