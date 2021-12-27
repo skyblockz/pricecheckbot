@@ -952,6 +952,16 @@
                     52000
                 ]
             },
+            "hard_stone": {
+                "from": [
+                    4,
+                    6
+                ],
+                "to": [
+                    2,
+                    4
+                ]
+            },
             "refined_diamond": {
                 "from": [
                     470000,
@@ -963,7 +973,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "521123932376399902": {
         "modification_history": {},
