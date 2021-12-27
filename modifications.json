@@ -842,6 +842,16 @@
                     146000
                 ]
             },
+            "enchanted_hard_stone": {
+                "from": [
+                    2600,
+                    2800
+                ],
+                "to": [
+                    2480,
+                    2770
+                ]
+            },
             "enchanted_iron": {
                 "from": [
                     1500,
@@ -953,7 +963,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "521123932376399902": {
         "modification_history": {},
