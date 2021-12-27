@@ -752,6 +752,16 @@
                     1300
                 ]
             },
+            "enchanted_gold": {
+                "from": [
+                    1230,
+                    1300
+                ],
+                "to": [
+                    1140,
+                    1180
+                ]
+            },
             "enchanted_gold_block": {
                 "from": [
                     137000,
@@ -783,7 +793,7 @@
                 ]
             }
         },
-        "total_mods": 7
+        "total_mods": 8
     },
     "521123932376399902": {
         "modification_history": {},
