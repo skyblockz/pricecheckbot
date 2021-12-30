@@ -1626,12 +1626,12 @@
             },
             "daedalus_stick": {
                 "from": [
-                    21000000,
-                    22000000
-                ],
-                "to": [
                     19100000,
                     19926000
+                ],
+                "to": [
+                    20000000,
+                    22000000
                 ]
             },
             "dwarven_super_compactor": {
@@ -2325,7 +2325,7 @@
                 ]
             }
         },
-        "total_mods": 97
+        "total_mods": 98
     },
     "600991846482706434": {
         "modification_history": {},
