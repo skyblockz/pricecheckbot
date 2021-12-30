@@ -1666,12 +1666,12 @@
             },
             "enchanted_ancient_claw": {
                 "from": [
-                    8700,
-                    30000
-                ],
-                "to": [
                     5700,
                     7700
+                ],
+                "to": [
+                    25000,
+                    48000
                 ]
             },
             "enchanted_baked_potato": {
@@ -2325,7 +2325,7 @@
                 ]
             }
         },
-        "total_mods": 98
+        "total_mods": 99
     },
     "600991846482706434": {
         "modification_history": {},
