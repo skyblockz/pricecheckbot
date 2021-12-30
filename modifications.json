@@ -1696,12 +1696,12 @@
             },
             "enchanted_blaze_rod": {
                 "from": [
-                    420000,
-                    456000
-                ],
-                "to": [
                     522000,
                     599998
+                ],
+                "to": [
+                    685000,
+                    740000
                 ]
             },
             "enchanted_cooked_fish": {
@@ -2325,7 +2325,7 @@
                 ]
             }
         },
-        "total_mods": 99
+        "total_mods": 100
     },
     "600991846482706434": {
         "modification_history": {},
