@@ -1796,12 +1796,12 @@
             },
             "perfect_ruby_gemstone": {
                 "from": [
-                    9300000,
-                    9400000
-                ],
-                "to": [
                     10000000,
                     11000000
+                ],
+                "to": [
+                    10400000,
+                    10900000
                 ]
             },
             "perfect_sapphire_gemstone": {
@@ -1885,7 +1885,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "600991846482706434": {
         "modification_history": {},
