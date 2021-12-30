@@ -1874,6 +1874,16 @@
                     13400000
                 ]
             },
+            "pumpkin_guts": {
+                "from": [
+                    20000,
+                    44000
+                ],
+                "to": [
+                    34000,
+                    48000
+                ]
+            },
             "purple_jerry_box": {
                 "from": [
                     950000,
@@ -1995,7 +2005,7 @@
                 ]
             }
         },
-        "total_mods": 54
+        "total_mods": 55
     },
     "600991846482706434": {
         "modification_history": {},
