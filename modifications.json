@@ -2004,6 +2004,16 @@
                     5700000
                 ]
             },
+            "protector_dragon_fragment": {
+                "from": [
+                    2400,
+                    3000
+                ],
+                "to": [
+                    2400,
+                    2500
+                ]
+            },
             "pumpkin_guts": {
                 "from": [
                     20000,
@@ -2165,7 +2175,7 @@
                 ]
             }
         },
-        "total_mods": 72
+        "total_mods": 73
     },
     "600991846482706434": {
         "modification_history": {},
