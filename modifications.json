@@ -1844,6 +1844,16 @@
                     47000
                 ]
             },
+            "jacobs_ticket": {
+                "from": [
+                    8900,
+                    9000
+                ],
+                "to": [
+                    8500,
+                    8700
+                ]
+            },
             "null_ovoid": {
                 "from": [
                     427000,
@@ -2085,7 +2095,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "600991846482706434": {
         "modification_history": {},
