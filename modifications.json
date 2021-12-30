@@ -1754,6 +1754,16 @@
                     26000
                 ]
             },
+            "enchanted_spruce_wood": {
+                "from": [
+                    1100,
+                    1200
+                ],
+                "to": [
+                    1000,
+                    1100
+                ]
+            },
             "enchanted_sugar": {
                 "from": [
                     316,
@@ -2255,7 +2265,7 @@
                 ]
             }
         },
-        "total_mods": 81
+        "total_mods": 82
     },
     "600991846482706434": {
         "modification_history": {},
