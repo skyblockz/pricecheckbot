@@ -126,6 +126,16 @@
                     800000000
                 ]
             },
+            "divans_drill": {
+                "from": [
+                    1250000000,
+                    1350000000
+                ],
+                "to": [
+                    1100000000,
+                    1250000000
+                ]
+            },
             "enchanting_table+": {
                 "from": null,
                 "to": [
@@ -428,7 +438,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "365916768805453834": {
         "modification_history": {},
