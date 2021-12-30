@@ -1614,6 +1614,16 @@
                     19926000
                 ]
             },
+            "dwarven_super_compactor": {
+                "from": [
+                    690000,
+                    725000
+                ],
+                "to": [
+                    737000,
+                    807000
+                ]
+            },
             "ectoplasm": {
                 "from": [
                     85000,
@@ -2065,7 +2075,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "600991846482706434": {
         "modification_history": {},
