@@ -286,6 +286,16 @@
                     1100000000
                 ]
             },
+            "shadow_assassin_boots": {
+                "from": [
+                    1100000,
+                    1500000
+                ],
+                "to": [
+                    900000,
+                    1200000
+                ]
+            },
             "storms_boots": {
                 "from": [
                     5000000,
@@ -337,7 +347,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "365916768805453834": {
         "modification_history": {},
