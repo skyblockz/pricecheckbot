@@ -1576,12 +1576,12 @@
             },
             "booster_cookie": {
                 "from": [
-                    3400000,
+                    3200000,
                     3600000
                 ],
                 "to": [
                     3200000,
-                    3600000
+                    3270000
                 ]
             },
             "colossal_experience_bottle": {
@@ -1885,7 +1885,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "600991846482706434": {
         "modification_history": {},
