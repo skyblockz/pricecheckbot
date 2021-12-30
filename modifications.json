@@ -2306,12 +2306,12 @@
             },
             "yellow_goblin_egg": {
                 "from": [
-                    43000,
-                    76000
-                ],
-                "to": [
                     58000,
                     68000
+                ],
+                "to": [
+                    80000,
+                    90000
                 ]
             },
             "young_dragon_fragment": {
@@ -2325,7 +2325,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "600991846482706434": {
         "modification_history": {},
