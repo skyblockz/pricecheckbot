@@ -1734,6 +1734,16 @@
                     5400
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    750,
+                    850
+                ],
+                "to": [
+                    900,
+                    950
+                ]
+            },
             "enchanted_lava_bucket": {
                 "from": [
                     220000,
@@ -2295,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "600991846482706434": {
         "modification_history": {},
