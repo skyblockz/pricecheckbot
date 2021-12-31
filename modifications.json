@@ -1143,6 +1143,16 @@
                     110000
                 ]
             },
+            "white_gift": {
+                "from": [
+                    7000,
+                    7600
+                ],
+                "to": [
+                    7200,
+                    7600
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": [
                     80000,
@@ -1154,7 +1164,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "600991846482706434": {
         "modification_history": {},
