@@ -902,6 +902,16 @@
                     388000
                 ]
             },
+            "enchanted_gold_block": {
+                "from": [
+                    140000,
+                    146000
+                ],
+                "to": [
+                    157000,
+                    174000
+                ]
+            },
             "enchanted_lapis_block": {
                 "from": [
                     44500,
@@ -1103,7 +1113,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "521123932376399902": {
         "modification_history": {},
