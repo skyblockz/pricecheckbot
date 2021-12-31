@@ -884,12 +884,12 @@
             },
             "enchanted_cooked_fish": {
                 "from": [
-                    370000,
-                    400000
-                ],
-                "to": [
                     250000,
                     256000
+                ],
+                "to": [
+                    373000,
+                    388000
                 ]
             },
             "enchanted_lily_pad": {
@@ -1043,7 +1043,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "521123932376399902": {
         "modification_history": {},
