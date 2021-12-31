@@ -87,6 +87,16 @@
                     200000
                 ]
             },
+            "lapis_armor_boots": {
+                "from": [
+                    5000,
+                    5500
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
+            },
             "lapis_armor_chestplate": {
                 "from": [
                     10000,
@@ -118,7 +128,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "340061760704872448": {
         "modification_history": {},
