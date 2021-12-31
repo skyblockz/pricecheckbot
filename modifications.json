@@ -1042,6 +1042,16 @@
                     12
                 ]
             },
+            "refined_diamond": {
+                "from": [
+                    495000,
+                    506000
+                ],
+                "to": [
+                    460000,
+                    520000
+                ]
+            },
             "shark_fin": {
                 "from": [
                     250,
@@ -1083,7 +1093,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "521123932376399902": {
         "modification_history": {},
