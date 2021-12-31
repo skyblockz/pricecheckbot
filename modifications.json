@@ -86,9 +86,19 @@
                     100000,
                     200000
                 ]
+            },
+            "lapis_armor_helmet": {
+                "from": [
+                    5000,
+                    6000
+                ],
+                "to": [
+                    1000,
+                    5000
+                ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "340061760704872448": {
         "modification_history": {},
