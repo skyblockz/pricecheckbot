@@ -903,6 +903,16 @@
                     16000
                 ]
             },
+            "enchanted_rabbit_hide": {
+                "from": [
+                    24000,
+                    26000
+                ],
+                "to": [
+                    23000,
+                    24000
+                ]
+            },
             "enchanted_sugar_cane": {
                 "from": [
                     53402,
@@ -1054,7 +1064,7 @@
                 ]
             }
         },
-        "total_mods": 19
+        "total_mods": 20
     },
     "600991846482706434": {
         "modification_history": {},
