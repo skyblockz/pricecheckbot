@@ -913,6 +913,16 @@
                     16000
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    24000,
+                    25000
+                ],
+                "to": [
+                    25000,
+                    30000
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     24000,
@@ -1164,7 +1174,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "600991846482706434": {
         "modification_history": {},
