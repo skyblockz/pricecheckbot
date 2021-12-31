@@ -862,6 +862,16 @@
                     34000
                 ]
             },
+            "enchanted_shark_fin": {
+                "from": [
+                    40000,
+                    110000
+                ],
+                "to": [
+                    19000,
+                    22800
+                ]
+            },
             "ink_sack": {
                 "from": [
                     880,
@@ -893,7 +903,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "521123932376399902": {
         "modification_history": {},
