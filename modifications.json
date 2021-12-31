@@ -1023,6 +1023,16 @@
                     27000
                 ]
             },
+            "super_enchanted_egg": {
+                "from": [
+                    235000,
+                    255000
+                ],
+                "to": [
+                    240000,
+                    270000
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": [
                     80000,
@@ -1034,7 +1044,7 @@
                 ]
             }
         },
-        "total_mods": 17
+        "total_mods": 18
     },
     "600991846482706434": {
         "modification_history": {},
