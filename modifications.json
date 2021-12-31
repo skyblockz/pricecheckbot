@@ -913,6 +913,16 @@
                     16000
                 ]
             },
+            "enchanted_cactus": {
+                "from": [
+                    156000,
+                    221000
+                ],
+                "to": [
+                    100000,
+                    130000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     5162,
@@ -1184,7 +1194,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "600991846482706434": {
         "modification_history": {},
