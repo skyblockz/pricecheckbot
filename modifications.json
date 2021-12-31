@@ -1043,6 +1043,16 @@
                     27000
                 ]
             },
+            "soulflow": {
+                "from": [
+                    23000,
+                    27500
+                ],
+                "to": [
+                    40000,
+                    52000
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     235000,
@@ -1064,7 +1074,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "600991846482706434": {
         "modification_history": {},
