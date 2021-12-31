@@ -1073,6 +1073,16 @@
                     270000
                 ]
             },
+            "tarantula_silk": {
+                "from": [
+                    102000,
+                    110000
+                ],
+                "to": [
+                    105000,
+                    110000
+                ]
+            },
             "yellow_goblin_egg": {
                 "from": [
                     80000,
@@ -1084,7 +1094,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "600991846482706434": {
         "modification_history": {},
