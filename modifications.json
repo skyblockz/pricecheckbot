@@ -992,6 +992,16 @@
                     1000
                 ]
             },
+            "lapis_lazuli": {
+                "from": [
+                    3,
+                    5
+                ],
+                "to": [
+                    4,
+                    6
+                ]
+            },
             "lily_pad": {
                 "from": [
                     134,
@@ -1073,7 +1083,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "521123932376399902": {
         "modification_history": {},
