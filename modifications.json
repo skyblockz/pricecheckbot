@@ -872,6 +872,16 @@
                     1000
                 ]
             },
+            "lily_pad": {
+                "from": [
+                    134,
+                    160
+                ],
+                "to": [
+                    190,
+                    206
+                ]
+            },
             "worm_membrane": {
                 "from": [
                     91000,
@@ -883,7 +893,7 @@
                 ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "521123932376399902": {
         "modification_history": {},
