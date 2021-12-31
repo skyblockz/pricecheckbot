@@ -882,6 +882,16 @@
                     22800
                 ]
             },
+            "enchanted_wet_sponge": {
+                "from": [
+                    79000,
+                    84000
+                ],
+                "to": [
+                    77000,
+                    92000
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     960000,
@@ -953,7 +963,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "521123932376399902": {
         "modification_history": {},
