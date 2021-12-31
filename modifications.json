@@ -66,9 +66,19 @@
                     1400000,
                     1500000
                 ]
+            },
+            "hyper_catalyst_upgrade": {
+                "from": [
+                    170000,
+                    185000
+                ],
+                "to": [
+                    100000,
+                    200000
+                ]
             }
         },
-        "total_mods": 3
+        "total_mods": 4
     },
     "340061760704872448": {
         "modification_history": {},
