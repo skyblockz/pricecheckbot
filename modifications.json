@@ -1002,6 +1002,16 @@
                     92000
                 ]
             },
+            "gold_ingot": {
+                "from": [
+                    6,
+                    8
+                ],
+                "to": [
+                    5,
+                    7
+                ]
+            },
             "great_white_shark_tooth": {
                 "from": [
                     960000,
@@ -1123,7 +1133,7 @@
                 ]
             }
         },
-        "total_mods": 28
+        "total_mods": 29
     },
     "521123932376399902": {
         "modification_history": {},
