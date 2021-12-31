@@ -1213,6 +1213,16 @@
                     110000
                 ]
             },
+            "tightly_tied_hay_bale": {
+                "from": [
+                    597000,
+                    820000
+                ],
+                "to": [
+                    600000,
+                    670000
+                ]
+            },
             "white_gift": {
                 "from": [
                     7000,
@@ -1234,7 +1244,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "600991846482706434": {
         "modification_history": {},
