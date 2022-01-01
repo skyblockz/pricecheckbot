@@ -147,6 +147,16 @@
                     20000000
                 ]
             },
+            "lvl_100_legendary_ammonite": {
+                "from": [
+                    64000000,
+                    66000000
+                ],
+                "to": [
+                    30000000,
+                    33000000
+                ]
+            },
             "lvl_100_legendary_blue_whale": {
                 "from": [
                     38000000,
@@ -188,7 +198,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "340061760704872448": {
         "modification_history": {},
