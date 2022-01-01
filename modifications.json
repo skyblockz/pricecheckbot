@@ -157,6 +157,16 @@
                     55000000
                 ]
             },
+            "lvl_100_legendary_sheep": {
+                "from": [
+                    5555555,
+                    6000000
+                ],
+                "to": [
+                    7000000,
+                    9000000
+                ]
+            },
             "lvl_100_legendary_tiger": {
                 "from": [
                     38000000,
@@ -178,7 +188,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "340061760704872448": {
         "modification_history": {},
