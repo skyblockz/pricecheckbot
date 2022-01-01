@@ -151,8 +151,19 @@
         "total_mods": 0
     },
     "360017282572877824": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "old_dragon_helmet": {
+                "from": [
+                    140000,
+                    180000
+                ],
+                "to": [
+                    170000,
+                    200000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "364186225382391809": {
         "modification_history": {},
