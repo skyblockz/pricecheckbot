@@ -137,6 +137,16 @@
                     44000000
                 ]
             },
+            "lvl_100_epic_tiger": {
+                "from": [
+                    10500000,
+                    11800000
+                ],
+                "to": [
+                    15000000,
+                    20000000
+                ]
+            },
             "lvl_100_legendary_blue_whale": {
                 "from": [
                     38000000,
@@ -148,7 +158,7 @@
                 ]
             }
         },
-        "total_mods": 11
+        "total_mods": 12
     },
     "340061760704872448": {
         "modification_history": {},
