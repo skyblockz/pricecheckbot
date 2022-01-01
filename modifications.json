@@ -795,6 +795,16 @@
     },
     "490712733772152839": {
         "modification_history": {
+            "bonzos_mask": {
+                "from": [
+                    400000,
+                    550000
+                ],
+                "to": [
+                    350000,
+                    550000
+                ]
+            },
             "diamond_livid_head": {
                 "from": [
                     200000000,
@@ -836,7 +846,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "508886846873272322": {
         "modification_history": {},
