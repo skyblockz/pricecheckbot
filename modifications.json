@@ -844,9 +844,19 @@
                     21000000,
                     27000000
                 ]
+            },
+            "undead_essence": {
+                "from": [
+                    800,
+                    1000
+                ],
+                "to": [
+                    500,
+                    1000
+                ]
             }
         },
-        "total_mods": 5
+        "total_mods": 6
     },
     "508886846873272322": {
         "modification_history": {},
