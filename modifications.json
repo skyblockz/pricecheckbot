@@ -1463,6 +1463,13 @@
                     206
                 ]
             },
+            "mercenary_axe": {
+                "from": null,
+                "to": [
+                    50000,
+                    100000
+                ]
+            },
             "nurse_shark_tooth": {
                 "from": [
                     520,
@@ -1544,7 +1551,7 @@
                 ]
             }
         },
-        "total_mods": 30
+        "total_mods": 31
     },
     "521123932376399902": {
         "modification_history": {},
