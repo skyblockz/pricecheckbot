@@ -1186,6 +1186,16 @@
                     550000
                 ]
             },
+            "diamond_bonzo_head": {
+                "from": [
+                    85000000,
+                    90000000
+                ],
+                "to": [
+                    200000000,
+                    210000000
+                ]
+            },
             "diamond_livid_head": {
                 "from": [
                     200000000,
@@ -1237,7 +1247,7 @@
                 ]
             }
         },
-        "total_mods": 6
+        "total_mods": 7
     },
     "508886846873272322": {
         "modification_history": {},
