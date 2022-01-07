@@ -2264,6 +2264,16 @@
                     52000
                 ]
             },
+            "spooky_shard": {
+                "from": [
+                    2000,
+                    2400
+                ],
+                "to": [
+                    2000,
+                    2500
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     235000,
@@ -2325,7 +2335,7 @@
                 ]
             }
         },
-        "total_mods": 63
+        "total_mods": 64
     },
     "600991846482706434": {
         "modification_history": {},
