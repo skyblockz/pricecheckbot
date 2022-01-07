@@ -514,12 +514,12 @@
             },
             "young_dragon_chestplate": {
                 "from": [
-                    375000,
-                    450000
-                ],
-                "to": [
                     400000,
                     550000
+                ],
+                "to": [
+                    300000,
+                    350000
                 ]
             },
             "young_dragon_helmet": {
@@ -543,7 +543,7 @@
                 ]
             }
         },
-        "total_mods": 43
+        "total_mods": 44
     },
     "364186225382391809": {
         "modification_history": {},
