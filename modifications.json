@@ -1826,12 +1826,12 @@
             },
             "ectoplasm": {
                 "from": [
-                    81000,
-                    96000
-                ],
-                "to": [
                     82000,
                     90000
+                ],
+                "to": [
+                    88000,
+                    110000
                 ]
             },
             "enchanted_ancient_claw": {
@@ -2315,7 +2315,7 @@
                 ]
             }
         },
-        "total_mods": 61
+        "total_mods": 62
     },
     "600991846482706434": {
         "modification_history": {},
