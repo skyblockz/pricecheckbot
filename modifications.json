@@ -1914,6 +1914,16 @@
                     30000
                 ]
             },
+            "enchanted_mithril": {
+                "from": [
+                    1550,
+                    1600
+                ],
+                "to": [
+                    1500,
+                    1600
+                ]
+            },
             "enchanted_rabbit_hide": {
                 "from": [
                     24000,
@@ -2225,7 +2235,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "600991846482706434": {
         "modification_history": {},
