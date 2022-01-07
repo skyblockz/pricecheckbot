@@ -1984,6 +1984,16 @@
                     9400
                 ]
             },
+            "green_jerry_box": {
+                "from": [
+                    110000,
+                    132000
+                ],
+                "to": [
+                    120000,
+                    130000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     46000,
@@ -2195,7 +2205,7 @@
                 ]
             }
         },
-        "total_mods": 45
+        "total_mods": 46
     },
     "600991846482706434": {
         "modification_history": {},
