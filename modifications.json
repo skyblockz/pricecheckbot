@@ -2046,12 +2046,12 @@
             },
             "hot_potato_book": {
                 "from": [
-                    46000,
-                    47000
-                ],
-                "to": [
                     45000,
                     49000
+                ],
+                "to": [
+                    40000,
+                    41000
                 ]
             },
             "hyper_catalyst": {
@@ -2345,7 +2345,7 @@
                 ]
             }
         },
-        "total_mods": 66
+        "total_mods": 67
     },
     "600991846482706434": {
         "modification_history": {},
