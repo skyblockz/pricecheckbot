@@ -1944,6 +1944,16 @@
                     6200
                 ]
             },
+            "enchanted_lily_pad": {
+                "from": [
+                    31700,
+                    34000
+                ],
+                "to": [
+                    39000,
+                    40000
+                ]
+            },
             "enchanted_melon_block": {
                 "from": [
                     24000,
@@ -2425,7 +2435,7 @@
                 ]
             }
         },
-        "total_mods": 80
+        "total_mods": 81
     },
     "600991846482706434": {
         "modification_history": {},
