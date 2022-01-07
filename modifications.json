@@ -2134,6 +2134,16 @@
                     27000
                 ]
             },
+            "refined_titanium": {
+                "from": [
+                    215000,
+                    230000
+                ],
+                "to": [
+                    200000,
+                    215000
+                ]
+            },
             "sludge_juice": {
                 "from": [
                     1970,
@@ -2215,7 +2225,7 @@
                 ]
             }
         },
-        "total_mods": 50
+        "total_mods": 51
     },
     "600991846482706434": {
         "modification_history": {},
