@@ -2144,6 +2144,16 @@
                     11900000
                 ]
             },
+            "power_crystal": {
+                "from": [
+                    87000,
+                    98000
+                ],
+                "to": [
+                    90000,
+                    100000
+                ]
+            },
             "purple_candy": {
                 "from": [
                     9800,
@@ -2295,7 +2305,7 @@
                 ]
             }
         },
-        "total_mods": 58
+        "total_mods": 59
     },
     "600991846482706434": {
         "modification_history": {},
