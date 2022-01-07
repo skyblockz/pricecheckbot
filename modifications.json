@@ -2144,6 +2144,16 @@
                     27000
                 ]
             },
+            "refined_mithril": {
+                "from": [
+                    30000,
+                    31000
+                ],
+                "to": [
+                    317000,
+                    333000
+                ]
+            },
             "refined_titanium": {
                 "from": [
                     215000,
@@ -2235,7 +2245,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "600991846482706434": {
         "modification_history": {},
