@@ -1613,6 +1613,16 @@
                     500
                 ]
             },
+            "gemstone_gauntlet": {
+                "from": [
+                    19500000,
+                    19700000
+                ],
+                "to": [
+                    17900000,
+                    1900000
+                ]
+            },
             "glacite_jewel": {
                 "from": [
                     80000,
@@ -1714,7 +1724,7 @@
                 ]
             }
         },
-        "total_mods": 13
+        "total_mods": 14
     },
     "540685105513889793": {
         "modification_history": {},
