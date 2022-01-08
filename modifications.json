@@ -2070,6 +2070,16 @@
                     500000
                 ]
             },
+            "nether_artifact": {
+                "from": [
+                    84500000,
+                    88500000
+                ],
+                "to": [
+                    97000000,
+                    101000000
+                ]
+            },
             "old_dragon_chestplate": {
                 "from": [
                     110000,
@@ -2181,7 +2191,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "540685105513889793": {
         "modification_history": {},
