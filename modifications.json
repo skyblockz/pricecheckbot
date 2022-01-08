@@ -571,6 +571,16 @@
                     3000000
                 ]
             },
+            "maxors_chestplate": {
+                "from": [
+                    27800000,
+                    35000000
+                ],
+                "to": [
+                    30000000,
+                    33000000
+                ]
+            },
             "maxors_helmet": {
                 "from": [
                     3000000,
@@ -642,7 +652,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "365916768805453834": {
         "modification_history": {},
