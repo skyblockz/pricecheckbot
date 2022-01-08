@@ -775,6 +775,16 @@
                     19000000
                 ]
             },
+            "one_for_all": {
+                "from": [
+                    14900000,
+                    15000000
+                ],
+                "to": [
+                    18000000,
+                    19000000
+                ]
+            },
             "rare_scatha_lvl_1": {
                 "from": null,
                 "to": [
@@ -820,7 +830,7 @@
                 ]
             }
         },
-        "total_mods": 25
+        "total_mods": 26
     },
     "365916768805453834": {
         "modification_history": {},
