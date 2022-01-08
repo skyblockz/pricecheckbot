@@ -2060,6 +2060,16 @@
                     500000
                 ]
             },
+            "old_dragon_chestplate": {
+                "from": [
+                    110000,
+                    150000
+                ],
+                "to": [
+                    190000,
+                    230000
+                ]
+            },
             "remnant_of_the_eye": {
                 "from": [
                     39000,
@@ -2151,7 +2161,7 @@
                 ]
             }
         },
-        "total_mods": 20
+        "total_mods": 21
     },
     "540685105513889793": {
         "modification_history": {},
