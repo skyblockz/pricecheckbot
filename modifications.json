@@ -1546,6 +1546,16 @@
                     550000
                 ]
             },
+            "booster_cookie": {
+                "from": [
+                    3100000,
+                    3200000
+                ],
+                "to": [
+                    3100000,
+                    3300000
+                ]
+            },
             "dctrs_space_helmet": {
                 "from": [
                     1230000000,
@@ -1634,7 +1644,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "508886846873272322": {
         "modification_history": {},
