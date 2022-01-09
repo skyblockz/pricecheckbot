@@ -1062,6 +1062,16 @@
                     87000
                 ]
             },
+            "enchanted_jungle_wood": {
+                "from": [
+                    900,
+                    950
+                ],
+                "to": [
+                    977,
+                    1000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     6000,
@@ -1813,7 +1823,7 @@
                 ]
             }
         },
-        "total_mods": 100
+        "total_mods": 101
     },
     "600991846482706434": {
         "modification_history": {},
