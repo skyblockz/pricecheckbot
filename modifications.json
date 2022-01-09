@@ -962,6 +962,16 @@
                     6450
                 ]
             },
+            "enchanted_melon_block": {
+                "from": [
+                    25000,
+                    30000
+                ],
+                "to": [
+                    25000,
+                    26000
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     2500,
@@ -1103,7 +1113,7 @@
                 ]
             }
         },
-        "total_mods": 27
+        "total_mods": 28
     },
     "600991846482706434": {
         "modification_history": {},
