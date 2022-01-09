@@ -912,6 +912,16 @@
                     3000
                 ]
             },
+            "enchanted_paper": {
+                "from": [
+                    300,
+                    480
+                ],
+                "to": [
+                    405,
+                    477
+                ]
+            },
             "enchanted_pork": {
                 "from": [
                     1900,
@@ -1013,7 +1023,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "600991846482706434": {
         "modification_history": {},
