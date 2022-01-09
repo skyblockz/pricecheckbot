@@ -852,6 +852,16 @@
                     127000
                 ]
             },
+            "enchanted_egg": {
+                "from": [
+                    1250,
+                    1400
+                ],
+                "to": [
+                    1300,
+                    1500
+                ]
+            },
             "enchanted_mutton": {
                 "from": [
                     2500,
@@ -923,7 +933,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "600991846482706434": {
         "modification_history": {},
