@@ -852,6 +852,16 @@
                     720000
                 ]
             },
+            "daedalus_stick": {
+                "from": [
+                    19000000,
+                    20000000
+                ],
+                "to": [
+                    20700000,
+                    23000000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     37000,
@@ -1363,7 +1373,7 @@
                 ]
             }
         },
-        "total_mods": 53
+        "total_mods": 54
     },
     "600991846482706434": {
         "modification_history": {},
