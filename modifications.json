@@ -1162,6 +1162,16 @@
                     35000
                 ]
             },
+            "goblin_egg": {
+                "from": [
+                    8000,
+                    8400
+                ],
+                "to": [
+                    6100,
+                    7600
+                ]
+            },
             "polished_pumpkin": {
                 "from": [
                     138000,
@@ -1213,7 +1223,7 @@
                 ]
             }
         },
-        "total_mods": 38
+        "total_mods": 39
     },
     "600991846482706434": {
         "modification_history": {},
