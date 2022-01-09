@@ -842,6 +842,16 @@
                     220000
                 ]
             },
+            "blue_goblin_egg": {
+                "from": [
+                    750000,
+                    795000
+                ],
+                "to": [
+                    600000,
+                    720000
+                ]
+            },
             "enchanted_baked_potato": {
                 "from": [
                     37000,
@@ -1233,7 +1243,7 @@
                 ]
             }
         },
-        "total_mods": 40
+        "total_mods": 41
     },
     "600991846482706434": {
         "modification_history": {},
