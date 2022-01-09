@@ -1252,6 +1252,16 @@
                     17000
                 ]
             },
+            "revenant_viscera": {
+                "from": [
+                    43000,
+                    44000
+                ],
+                "to": [
+                    55000,
+                    58000
+                ]
+            },
             "royal_pigeon": {
                 "from": [
                     8000000,
@@ -1343,7 +1353,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "600991846482706434": {
         "modification_history": {},
