@@ -1633,6 +1633,13 @@
                     10000000000000000000000000000000000000
                 ]
             },
+            "thoriumhd": {
+                "from": null,
+                "to": [
+                    50,
+                    100
+                ]
+            },
             "undead_essence": {
                 "from": [
                     800,
@@ -1644,7 +1651,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "508886846873272322": {
         "modification_history": {},
