@@ -842,6 +842,16 @@
                     127000
                 ]
             },
+            "enchanted_mutton": {
+                "from": [
+                    2500,
+                    2700
+                ],
+                "to": [
+                    2700,
+                    3000
+                ]
+            },
             "enchanted_rabbit_foot": {
                 "from": [
                     2053,
@@ -873,7 +883,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "600991846482706434": {
         "modification_history": {},
