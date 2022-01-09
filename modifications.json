@@ -1142,6 +1142,16 @@
                     330
                 ]
             },
+            "foul_flesh": {
+                "from": [
+                    24000,
+                    25000
+                ],
+                "to": [
+                    24000,
+                    26500
+                ]
+            },
             "glacite_jewel": {
                 "from": [
                     40000,
@@ -1193,7 +1203,7 @@
                 ]
             }
         },
-        "total_mods": 36
+        "total_mods": 37
     },
     "600991846482706434": {
         "modification_history": {},
