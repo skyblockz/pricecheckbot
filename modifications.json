@@ -1182,6 +1182,16 @@
                     9200000
                 ]
             },
+            "summoning_eye": {
+                "from": [
+                    1050000,
+                    1070000
+                ],
+                "to": [
+                    1100000,
+                    1200000
+                ]
+            },
             "super_enchanted_egg": {
                 "from": [
                     240000,
@@ -1203,7 +1213,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "600991846482706434": {
         "modification_history": {},
