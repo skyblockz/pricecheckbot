@@ -842,6 +842,16 @@
                     220000
                 ]
             },
+            "enchanted_baked_potato": {
+                "from": [
+                    37000,
+                    39000
+                ],
+                "to": [
+                    36000,
+                    38000
+                ]
+            },
             "enchanted_brown_mushroom": {
                 "from": [
                     700,
@@ -1153,7 +1163,7 @@
                 ]
             }
         },
-        "total_mods": 32
+        "total_mods": 33
     },
     "600991846482706434": {
         "modification_history": {},
