@@ -1052,6 +1052,16 @@
                     4700
                 ]
             },
+            "enchanted_ink_sack": {
+                "from": [
+                    82000,
+                    90000
+                ],
+                "to": [
+                    81000,
+                    87000
+                ]
+            },
             "enchanted_leather": {
                 "from": [
                     6000,
@@ -1753,7 +1763,7 @@
                 ]
             }
         },
-        "total_mods": 92
+        "total_mods": 93
     },
     "600991846482706434": {
         "modification_history": {},
