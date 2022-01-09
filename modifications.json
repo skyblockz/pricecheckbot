@@ -1292,6 +1292,16 @@
                     245000
                 ]
             },
+            "tarantula_web": {
+                "from": [
+                    130,
+                    140
+                ],
+                "to": [
+                    140,
+                    180
+                ]
+            },
             "tightly_tied_hay_bale": {
                 "from": [
                     600000,
@@ -1323,7 +1333,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "600991846482706434": {
         "modification_history": {},
