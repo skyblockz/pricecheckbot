@@ -1171,9 +1171,19 @@
                     220000,
                     245000
                 ]
+            },
+            "tightly_tied_hay_bale": {
+                "from": [
+                    600000,
+                    670000
+                ],
+                "to": [
+                    460000,
+                    570000
+                ]
             }
         },
-        "total_mods": 34
+        "total_mods": 35
     },
     "600991846482706434": {
         "modification_history": {},
