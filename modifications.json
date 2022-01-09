@@ -1382,6 +1382,16 @@
                     240
                 ]
             },
+            "perfect_amber_gemstone": {
+                "from": [
+                    8000000,
+                    8700000
+                ],
+                "to": [
+                    8000000,
+                    8400000
+                ]
+            },
             "perfect_amethyst_gemstone": {
                 "from": [
                     17500000,
@@ -1603,7 +1613,7 @@
                 ]
             }
         },
-        "total_mods": 77
+        "total_mods": 78
     },
     "600991846482706434": {
         "modification_history": {},
