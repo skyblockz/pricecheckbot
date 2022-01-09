@@ -1312,6 +1312,16 @@
                     2700000
                 ]
             },
+            "flawless_topaz_gemstone": {
+                "from": [
+                    1900000,
+                    2100000
+                ],
+                "to": [
+                    2200000,
+                    2650000
+                ]
+            },
             "foul_flesh": {
                 "from": [
                     24000,
@@ -1653,7 +1663,7 @@
                 ]
             }
         },
-        "total_mods": 82
+        "total_mods": 83
     },
     "600991846482706434": {
         "modification_history": {},
