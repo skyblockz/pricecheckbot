@@ -882,6 +882,16 @@
                     127000
                 ]
             },
+            "enchanted_cookie": {
+                "from": [
+                    63000,
+                    73000
+                ],
+                "to": [
+                    63000,
+                    68000
+                ]
+            },
             "enchanted_egg": {
                 "from": [
                     1250,
@@ -1043,7 +1053,7 @@
                 ]
             }
         },
-        "total_mods": 21
+        "total_mods": 22
     },
     "600991846482706434": {
         "modification_history": {},
