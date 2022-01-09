@@ -902,6 +902,16 @@
                     640000
                 ]
             },
+            "enchanted_bone_block": {
+                "from": [
+                    55000,
+                    90000
+                ],
+                "to": [
+                    85000,
+                    97000
+                ]
+            },
             "enchanted_brown_mushroom": {
                 "from": [
                     700,
@@ -1453,7 +1463,7 @@
                 ]
             }
         },
-        "total_mods": 62
+        "total_mods": 63
     },
     "600991846482706434": {
         "modification_history": {},
