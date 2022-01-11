@@ -790,6 +790,16 @@
                     10000
                 ]
             },
+            "lvl_100_epic_ender_dragon": {
+                "from": [
+                    128900000,
+                    129000000
+                ],
+                "to": [
+                    490000000,
+                    500000000
+                ]
+            },
             "necrons_chestplate": {
                 "from": [
                     40000000,
@@ -871,7 +881,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "540685105513889793": {
         "modification_history": {},
