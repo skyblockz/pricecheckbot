@@ -790,6 +790,16 @@
                     10000
                 ]
             },
+            "juju_shortbow": {
+                "from": [
+                    22900000,
+                    23200000
+                ],
+                "to": [
+                    22000000,
+                    24000000
+                ]
+            },
             "lvl_100_epic_ender_dragon": {
                 "from": [
                     128900000,
@@ -881,7 +891,7 @@
                 ]
             }
         },
-        "total_mods": 15
+        "total_mods": 16
     },
     "540685105513889793": {
         "modification_history": {},
