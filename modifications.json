@@ -790,6 +790,16 @@
                     3200000
                 ]
             },
+            "diamond_bonzo_head": {
+                "from": [
+                    115000000,
+                    100000000
+                ],
+                "to": [
+                    120000000,
+                    130000000
+                ]
+            },
             "diamond_necron_head": {
                 "from": [
                     180000000,
@@ -951,7 +961,7 @@
                 ]
             }
         },
-        "total_mods": 22
+        "total_mods": 23
     },
     "540685105513889793": {
         "modification_history": {},
