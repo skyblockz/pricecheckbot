@@ -2485,6 +2485,16 @@
                     2700
                 ]
             },
+            "goldors_chestplate": {
+                "from": [
+                    30000000,
+                    3500000
+                ],
+                "to": [
+                    28800000,
+                    30000000
+                ]
+            },
             "hot_potato_book": {
                 "from": [
                     40000,
@@ -2546,7 +2556,7 @@
                 ]
             }
         },
-        "total_mods": 9
+        "total_mods": 10
     },
     "725542601926901770": {
         "modification_history": {},
