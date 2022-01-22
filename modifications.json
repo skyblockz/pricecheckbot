@@ -2545,6 +2545,16 @@
                     4000000
                 ]
             },
+            "strong_dragon_chestplate": {
+                "from": [
+                    600000,
+                    750000
+                ],
+                "to": [
+                    870000,
+                    1000000
+                ]
+            },
             "tarantula_boots": {
                 "from": [
                     1500000,
@@ -2556,7 +2566,7 @@
                 ]
             }
         },
-        "total_mods": 10
+        "total_mods": 11
     },
     "725542601926901770": {
         "modification_history": {},
