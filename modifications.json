@@ -920,6 +920,16 @@
                     90000000
                 ]
             },
+            "nether_artifact": {
+                "from": [
+                    97000000,
+                    101000000
+                ],
+                "to": [
+                    100000000,
+                    105000000
+                ]
+            },
             "pastel_ender_dragon_skin": {
                 "from": [
                     10000000,
@@ -981,7 +991,7 @@
                 ]
             }
         },
-        "total_mods": 26
+        "total_mods": 27
     },
     "540685105513889793": {
         "modification_history": {},
