@@ -1326,8 +1326,19 @@
         "total_mods": 0
     },
     "718726349895893002": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "gemstone_mixture": {
+                "from": [
+                    1400000,
+                    1500000
+                ],
+                "to": [
+                    1270000,
+                    1300000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "725542601926901770": {
         "modification_history": {},
