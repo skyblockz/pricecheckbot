@@ -1367,6 +1367,16 @@
                     500000000
                 ]
             },
+            "jungle_amulet": {
+                "from": [
+                    2600000,
+                    2800000
+                ],
+                "to": [
+                    2400000,
+                    2700000
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     76800000,
@@ -1408,7 +1418,7 @@
                 ]
             }
         },
-        "total_mods": 8
+        "total_mods": 9
     },
     "725542601926901770": {
         "modification_history": {},
