@@ -1428,6 +1428,16 @@
                     2700000
                 ]
             },
+            "new_year_cake": {
+                "from": [
+                    95000,
+                    100000
+                ],
+                "to": [
+                    180000,
+                    200000
+                ]
+            },
             "overflux_capacitor": {
                 "from": [
                     76800000,
@@ -1469,7 +1479,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "725542601926901770": {
         "modification_history": {},
