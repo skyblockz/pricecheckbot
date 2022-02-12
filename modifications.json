@@ -1468,6 +1468,16 @@
                     500000000
                 ]
             },
+            "mutant_nether_wart": {
+                "from": [
+                    76000,
+                    77000
+                ],
+                "to": [
+                    51200,
+                    51200
+                ]
+            },
             "necrons_boots": {
                 "from": [
                     14800000,
@@ -1579,7 +1589,7 @@
                 ]
             }
         },
-        "total_mods": 23
+        "total_mods": 24
     },
     "725542601926901770": {
         "modification_history": {},
