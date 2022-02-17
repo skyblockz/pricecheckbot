@@ -1564,6 +1564,16 @@
                     600000000
                 ]
             },
+            "lvl_1_epic_baby_yeti": {
+                "from": [
+                    15000000,
+                    19000000
+                ],
+                "to": [
+                    5400000,
+                    5800000
+                ]
+            },
             "lvl_1_legendary_scatha": {
                 "from": [
                     1600000000,
@@ -1735,7 +1745,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "725542601926901770": {
         "modification_history": {},
