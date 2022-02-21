@@ -1584,6 +1584,16 @@
                     2700000
                 ]
             },
+            "lvl_100_legendary_blaze": {
+                "from": [
+                    75000000,
+                    79000000
+                ],
+                "to": [
+                    82000000,
+                    90000000
+                ]
+            },
             "lvl_100_legendary_scatha": {
                 "from": [
                     2140000000,
@@ -1805,7 +1815,7 @@
                 ]
             }
         },
-        "total_mods": 37
+        "total_mods": 38
     },
     "725542601926901770": {
         "modification_history": {},
