@@ -1824,6 +1824,16 @@
                     15000000
                 ]
             },
+            "builders_wand": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    4900000,
+                    4900000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": [
                     22800000,
@@ -2255,7 +2265,7 @@
                 ]
             }
         },
-        "total_mods": 85
+        "total_mods": 86
     },
     "725542601926901770": {
         "modification_history": {},
