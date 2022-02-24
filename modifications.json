@@ -1484,6 +1484,16 @@
                     150000
                 ]
             },
+            "adaptive_leggings": {
+                "from": [
+                    280000,
+                    500000
+                ],
+                "to": [
+                    150000,
+                    300000
+                ]
+            },
             "aspect_of_the_dragons": {
                 "from": [
                     500000,
@@ -1905,7 +1915,7 @@
                 ]
             }
         },
-        "total_mods": 49
+        "total_mods": 50
     },
     "725542601926901770": {
         "modification_history": {},
