@@ -1874,6 +1874,16 @@
                     50000
                 ]
             },
+            "catacombs_expert_ring": {
+                "from": [
+                    30000000,
+                    32500000
+                ],
+                "to": [
+                    28500000,
+                    28500000
+                ]
+            },
             "chestplate_of_divan": {
                 "from": [
                     22800000,
@@ -2305,7 +2315,7 @@
                 ]
             }
         },
-        "total_mods": 90
+        "total_mods": 91
     },
     "725542601926901770": {
         "modification_history": {},
