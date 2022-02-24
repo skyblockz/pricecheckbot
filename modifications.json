@@ -1894,6 +1894,16 @@
                     18000000
                 ]
             },
+            "concentrated_stone": {
+                "from": [
+                    1450000,
+                    1900000
+                ],
+                "to": [
+                    1700000,
+                    1820000
+                ]
+            },
             "crystallized_heart": {
                 "from": [
                     887000,
@@ -2315,7 +2325,7 @@
                 ]
             }
         },
-        "total_mods": 91
+        "total_mods": 92
     },
     "725542601926901770": {
         "modification_history": {},
