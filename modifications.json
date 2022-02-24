@@ -2034,6 +2034,16 @@
                     200000000
                 ]
             },
+            "digested_mosquito": {
+                "from": [
+                    800000,
+                    880000
+                ],
+                "to": [
+                    450000,
+                    650000
+                ]
+            },
             "divan_fragment": {
                 "from": [
                     900000,
@@ -2435,7 +2445,7 @@
                 ]
             }
         },
-        "total_mods": 104
+        "total_mods": 105
     },
     "725542601926901770": {
         "modification_history": {},
