@@ -1534,6 +1534,16 @@
                     875000000
                 ]
             },
+            "auto_recombobulator": {
+                "from": [
+                    10750000,
+                    11500000
+                ],
+                "to": [
+                    11200000,
+                    12000000
+                ]
+            },
             "boots_of_divan": {
                 "from": [
                     1800000,
@@ -1935,7 +1945,7 @@
                 ]
             }
         },
-        "total_mods": 52
+        "total_mods": 53
     },
     "725542601926901770": {
         "modification_history": {},
