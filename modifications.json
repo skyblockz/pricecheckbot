@@ -2864,6 +2864,16 @@
                     600000
                 ]
             },
+            "magma_bucket": {
+                "from": [
+                    1960000,
+                    2040000
+                ],
+                "to": [
+                    1870000,
+                    1970000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3165,7 +3175,7 @@
                 ]
             }
         },
-        "total_mods": 181
+        "total_mods": 182
     },
     "725542601926901770": {
         "modification_history": {},
