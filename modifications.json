@@ -2216,12 +2216,12 @@
             },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
-                    109000000,
-                    125000000
-                ],
-                "to": [
                     69000000,
                     73000000
+                ],
+                "to": [
+                    41000000,
+                    50000000
                 ]
             },
             "gemstone_mixture": {
@@ -2605,7 +2605,7 @@
                 ]
             }
         },
-        "total_mods": 123
+        "total_mods": 124
     },
     "725542601926901770": {
         "modification_history": {},
