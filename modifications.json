@@ -2324,6 +2324,16 @@
                     1000000
                 ]
             },
+            "first_master_star": {
+                "from": [
+                    14500000,
+                    16000000
+                ],
+                "to": [
+                    13900000,
+                    14900000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     1400000,
@@ -2705,7 +2715,7 @@
                 ]
             }
         },
-        "total_mods": 134
+        "total_mods": 135
     },
     "725542601926901770": {
         "modification_history": {},
