@@ -2494,6 +2494,16 @@
                     6000000
                 ]
             },
+            "golden_jerry_artifact": {
+                "from": [
+                    88800000,
+                    90000000
+                ],
+                "to": [
+                    86000000,
+                    92000000
+                ]
+            },
             "green_jerry_talisman": {
                 "from": [
                     1100000,
@@ -2905,7 +2915,7 @@
                 ]
             }
         },
-        "total_mods": 155
+        "total_mods": 156
     },
     "725542601926901770": {
         "modification_history": {},
