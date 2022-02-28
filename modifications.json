@@ -2344,6 +2344,16 @@
                     100000
                 ]
             },
+            "florid_zombie_sword": {
+                "from": [
+                    3600000,
+                    3900000
+                ],
+                "to": [
+                    2200000,
+                    3000000
+                ]
+            },
             "fourth_master_star": {
                 "from": [
                     38800000,
@@ -2755,7 +2765,7 @@
                 ]
             }
         },
-        "total_mods": 139
+        "total_mods": 140
     },
     "725542601926901770": {
         "modification_history": {},
