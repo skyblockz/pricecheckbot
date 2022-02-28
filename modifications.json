@@ -2404,6 +2404,16 @@
                     14500000
                 ]
             },
+            "frozen_chicken": {
+                "from": [
+                    970000,
+                    980000
+                ],
+                "to": [
+                    600000,
+                    900000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     1400000,
@@ -2805,7 +2815,7 @@
                 ]
             }
         },
-        "total_mods": 144
+        "total_mods": 145
     },
     "725542601926901770": {
         "modification_history": {},
