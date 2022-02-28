@@ -2456,12 +2456,12 @@
             },
             "gemstone_mixture": {
                 "from": [
-                    1400000,
-                    1500000
-                ],
-                "to": [
                     1270000,
                     1300000
+                ],
+                "to": [
+                    950000,
+                    1200000
                 ]
             },
             "gyrokinetic_wand": {
@@ -2855,7 +2855,7 @@
                 ]
             }
         },
-        "total_mods": 149
+        "total_mods": 150
     },
     "725542601926901770": {
         "modification_history": {},
