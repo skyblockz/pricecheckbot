@@ -2284,6 +2284,16 @@
                     400000
                 ]
             },
+            "final_destination_helmet": {
+                "from": [
+                    1000000,
+                    1200000
+                ],
+                "to": [
+                    900000,
+                    1000000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     1400000,
@@ -2665,7 +2675,7 @@
                 ]
             }
         },
-        "total_mods": 130
+        "total_mods": 131
     },
     "725542601926901770": {
         "modification_history": {},
