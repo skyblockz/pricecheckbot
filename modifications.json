@@ -2164,6 +2164,16 @@
                     2600
                 ]
             },
+            "enchanted_quartz_block": {
+                "from": [
+                    210000,
+                    240000
+                ],
+                "to": [
+                    379000,
+                    394000
+                ]
+            },
             "ender_artifact": {
                 "from": [
                     71000000,
@@ -2555,7 +2565,7 @@
                 ]
             }
         },
-        "total_mods": 117
+        "total_mods": 118
     },
     "725542601926901770": {
         "modification_history": {},
