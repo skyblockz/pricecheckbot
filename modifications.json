@@ -2994,6 +2994,16 @@
                     850000
                 ]
             },
+            "medium_backpack": {
+                "from": [
+                    60000,
+                    70000
+                ],
+                "to": [
+                    55000,
+                    60000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3295,7 +3305,7 @@
                 ]
             }
         },
-        "total_mods": 194
+        "total_mods": 195
     },
     "725542601926901770": {
         "modification_history": {},
