@@ -2184,6 +2184,16 @@
                     60000000
                 ]
             },
+            "enderman_cortex_rewriter": {
+                "from": [
+                    130000,
+                    150000
+                ],
+                "to": [
+                    80000,
+                    100000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
                     109000000,
@@ -2565,7 +2575,7 @@
                 ]
             }
         },
-        "total_mods": 119
+        "total_mods": 120
     },
     "725542601926901770": {
         "modification_history": {},
