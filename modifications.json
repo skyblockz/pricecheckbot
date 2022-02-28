@@ -2176,12 +2176,12 @@
             },
             "ender_artifact": {
                 "from": [
-                    71000000,
-                    75000000
-                ],
-                "to": [
                     66000000,
                     69000000
+                ],
+                "to": [
+                    54000000,
+                    60000000
                 ]
             },
             "exceedingly_rare_ender_artifact_upgrader": {
@@ -2565,7 +2565,7 @@
                 ]
             }
         },
-        "total_mods": 118
+        "total_mods": 119
     },
     "725542601926901770": {
         "modification_history": {},
