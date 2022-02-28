@@ -2874,6 +2874,16 @@
                     1970000
                 ]
             },
+            "mana_flux_power_orb": {
+                "from": [
+                    4300000,
+                    6000000
+                ],
+                "to": [
+                    2800000,
+                    3800000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3175,7 +3185,7 @@
                 ]
             }
         },
-        "total_mods": 182
+        "total_mods": 183
     },
     "725542601926901770": {
         "modification_history": {},
