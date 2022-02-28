@@ -2854,6 +2854,16 @@
                     500000000
                 ]
             },
+            "maddox_batphone": {
+                "from": [
+                    500000,
+                    660000
+                ],
+                "to": [
+                    400000,
+                    600000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3155,7 +3165,7 @@
                 ]
             }
         },
-        "total_mods": 180
+        "total_mods": 181
     },
     "725542601926901770": {
         "modification_history": {},
