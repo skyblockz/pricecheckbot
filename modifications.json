@@ -2484,6 +2484,16 @@
                     6000000
                 ]
             },
+            "green_jerry_talisman": {
+                "from": [
+                    1100000,
+                    1300000
+                ],
+                "to": [
+                    700000,
+                    800000
+                ]
+            },
             "gyrokinetic_wand": {
                 "from": [
                     50000000,
@@ -2875,7 +2885,7 @@
                 ]
             }
         },
-        "total_mods": 152
+        "total_mods": 153
     },
     "725542601926901770": {
         "modification_history": {},
