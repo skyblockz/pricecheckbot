@@ -2244,6 +2244,16 @@
                     1000000
                 ]
             },
+            "experience_artifact": {
+                "from": [
+                    350000,
+                    400000
+                ],
+                "to": [
+                    600000,
+                    600000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     1400000,
@@ -2625,7 +2635,7 @@
                 ]
             }
         },
-        "total_mods": 126
+        "total_mods": 127
     },
     "725542601926901770": {
         "modification_history": {},
