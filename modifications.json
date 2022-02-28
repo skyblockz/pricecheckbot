@@ -3004,6 +3004,16 @@
                     60000
                 ]
             },
+            "mineral_helmet": {
+                "from": [
+                    450000,
+                    500000
+                ],
+                "to": [
+                    125000,
+                    125000
+                ]
+            },
             "mineral_talisman": {
                 "from": [
                     740000,
@@ -3315,7 +3325,7 @@
                 ]
             }
         },
-        "total_mods": 196
+        "total_mods": 197
     },
     "725542601926901770": {
         "modification_history": {},
