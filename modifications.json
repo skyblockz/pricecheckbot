@@ -2904,6 +2904,16 @@
                     1400000
                 ]
             },
+            "master_skull_tier_3": {
+                "from": [
+                    2250000,
+                    3000000
+                ],
+                "to": [
+                    1900000,
+                    2300000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3205,7 +3215,7 @@
                 ]
             }
         },
-        "total_mods": 185
+        "total_mods": 186
     },
     "725542601926901770": {
         "modification_history": {},
