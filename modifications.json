@@ -2264,6 +2264,16 @@
                     300000
                 ]
             },
+            "feather_artifact": {
+                "from": [
+                    125000,
+                    145000
+                ],
+                "to": [
+                    110000,
+                    135000
+                ]
+            },
             "gemstone_mixture": {
                 "from": [
                     1400000,
@@ -2645,7 +2655,7 @@
                 ]
             }
         },
-        "total_mods": 128
+        "total_mods": 129
     },
     "725542601926901770": {
         "modification_history": {},
