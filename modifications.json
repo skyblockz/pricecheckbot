@@ -2644,6 +2644,16 @@
                     61000000
                 ]
             },
+            "intimidation_artifact": {
+                "from": [
+                    1000000,
+                    1000000
+                ],
+                "to": [
+                    1350000,
+                    1500000
+                ]
+            },
             "judgement_core": {
                 "from": [
                     350000000,
@@ -3025,7 +3035,7 @@
                 ]
             }
         },
-        "total_mods": 167
+        "total_mods": 168
     },
     "725542601926901770": {
         "modification_history": {},
