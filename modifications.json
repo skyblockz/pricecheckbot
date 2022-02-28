@@ -2204,6 +2204,16 @@
                     9500000
                 ]
             },
+            "etherwarp_conduit": {
+                "from": [
+                    14490000,
+                    14600000
+                ],
+                "to": [
+                    9000000,
+                    9000000
+                ]
+            },
             "exceedingly_rare_ender_artifact_upgrader": {
                 "from": [
                     109000000,
@@ -2595,7 +2605,7 @@
                 ]
             }
         },
-        "total_mods": 122
+        "total_mods": 123
     },
     "725542601926901770": {
         "modification_history": {},
