@@ -2304,6 +2304,13 @@
                     400000
                 ]
             },
+            "fifth_master_star": {
+                "from": null,
+                "to": [
+                    75000000,
+                    100000000
+                ]
+            },
             "final_destination_boots": {
                 "from": [
                     890000,
@@ -3355,7 +3362,7 @@
                 ]
             }
         },
-        "total_mods": 200
+        "total_mods": 201
     },
     "725542601926901770": {
         "modification_history": {},
