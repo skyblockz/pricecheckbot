@@ -3744,6 +3744,16 @@
     },
     "888892003088236554": {
         "modification_history": {
+            "lvl_100_legendary_hound": {
+                "from": [
+                    40000000,
+                    70000000
+                ],
+                "to": [
+                    48000000,
+                    50000000
+                ]
+            },
             "lvl_1_legendary_hound": {
                 "from": [
                     9500000,
@@ -3779,7 +3789,7 @@
                 ]
             }
         },
-        "total_mods": 4
+        "total_mods": 5
     },
     "898372105287123024": {
         "modification_history": {},
