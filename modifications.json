@@ -3448,6 +3448,16 @@
                     4000000
                 ]
             },
+            "perfect_leggings_tier_iii": {
+                "from": [
+                    3200000,
+                    3300000
+                ],
+                "to": [
+                    5000000,
+                    5000000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3629,7 +3639,7 @@
                 ]
             }
         },
-        "total_mods": 236
+        "total_mods": 237
     },
     "725542601926901770": {
         "modification_history": {},
