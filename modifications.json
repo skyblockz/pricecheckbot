@@ -3618,6 +3618,16 @@
                     350000
                 ]
             },
+            "power_crystal": {
+                "from": [
+                    90000,
+                    100000
+                ],
+                "to": [
+                    80000,
+                    86000
+                ]
+            },
             "purple_jerry_talisman": {
                 "from": [
                     26500000,
@@ -3796,7 +3806,7 @@
                 ]
             }
         },
-        "total_mods": 254
+        "total_mods": 255
     },
     "725542601926901770": {
         "modification_history": {},
