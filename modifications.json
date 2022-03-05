@@ -3388,6 +3388,16 @@
                     7000000
                 ]
             },
+            "perfect_chestplate_tier_xii": {
+                "from": [
+                    11100000,
+                    11200000
+                ],
+                "to": [
+                    8000000,
+                    8000000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3569,7 +3579,7 @@
                 ]
             }
         },
-        "total_mods": 230
+        "total_mods": 231
     },
     "725542601926901770": {
         "modification_history": {},
