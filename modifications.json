@@ -3358,6 +3358,16 @@
                     5200000
                 ]
             },
+            "perfect_chestplate_tier_ix": {
+                "from": [
+                    8600000,
+                    8700000
+                ],
+                "to": [
+                    7600000,
+                    7600000
+                ]
+            },
             "perfect_chestplate_tier_vi": {
                 "from": [
                     6000000,
@@ -3559,7 +3569,7 @@
                 ]
             }
         },
-        "total_mods": 229
+        "total_mods": 230
     },
     "725542601926901770": {
         "modification_history": {},
