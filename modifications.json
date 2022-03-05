@@ -3398,6 +3398,16 @@
                     8000000
                 ]
             },
+            "perfect_helmet_tier_i": {
+                "from": [
+                    1000000,
+                    1100000
+                ],
+                "to": [
+                    600000,
+                    700000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3579,7 +3589,7 @@
                 ]
             }
         },
-        "total_mods": 231
+        "total_mods": 232
     },
     "725542601926901770": {
         "modification_history": {},
