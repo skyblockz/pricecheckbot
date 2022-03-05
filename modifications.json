@@ -3318,6 +3318,16 @@
                     2500000
                 ]
             },
+            "perfect_boots_tier_xii": {
+                "from": [
+                    10300000,
+                    10400000
+                ],
+                "to": [
+                    7600000,
+                    8300000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3499,7 +3509,7 @@
                 ]
             }
         },
-        "total_mods": 223
+        "total_mods": 224
     },
     "725542601926901770": {
         "modification_history": {},
