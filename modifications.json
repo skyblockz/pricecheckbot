@@ -3061,6 +3061,16 @@
                     300000
                 ]
             },
+            "mithril_coat": {
+                "from": [
+                    70000,
+                    200000
+                ],
+                "to": [
+                    60000,
+                    140000
+                ]
+            },
             "mutant_nether_wart": {
                 "from": [
                     76000,
@@ -3362,7 +3372,7 @@
                 ]
             }
         },
-        "total_mods": 201
+        "total_mods": 202
     },
     "725542601926901770": {
         "modification_history": {},
