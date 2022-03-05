@@ -3548,6 +3548,16 @@
                     400000
                 ]
             },
+            "plasma_bucket": {
+                "from": [
+                    5500000,
+                    5700000
+                ],
+                "to": [
+                    4814000,
+                    5017000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3736,7 +3746,7 @@
                 ]
             }
         },
-        "total_mods": 247
+        "total_mods": 248
     },
     "725542601926901770": {
         "modification_history": {},
