@@ -3498,6 +3498,16 @@
                     2700000
                 ]
             },
+            "personal_compactor_7000": {
+                "from": [
+                    5000000,
+                    5500000
+                ],
+                "to": [
+                    4500000,
+                    4600000
+                ]
+            },
             "plasmaflux_power_orb": {
                 "from": [
                     239000000,
@@ -3686,7 +3696,7 @@
                 ]
             }
         },
-        "total_mods": 242
+        "total_mods": 243
     },
     "725542601926901770": {
         "modification_history": {},
