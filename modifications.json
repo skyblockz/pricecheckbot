@@ -3608,6 +3608,16 @@
                     10000000
                 ]
             },
+            "potion_affinity_artifact": {
+                "from": [
+                    173000,
+                    175000
+                ],
+                "to": [
+                    300000,
+                    350000
+                ]
+            },
             "purple_jerry_talisman": {
                 "from": [
                     26500000,
@@ -3786,7 +3796,7 @@
                 ]
             }
         },
-        "total_mods": 253
+        "total_mods": 254
     },
     "725542601926901770": {
         "modification_history": {},
