@@ -4696,6 +4696,13 @@
                     8000000
                 ]
             },
+            "flash_v": {
+                "from": null,
+                "to": [
+                    192000000,
+                    192000000
+                ]
+            },
             "gold_minion_xii": {
                 "from": null,
                 "to": [
@@ -4835,7 +4842,7 @@
                 ]
             }
         },
-        "total_mods": 29
+        "total_mods": 30
     },
     "898372105287123024": {
         "modification_history": {},
