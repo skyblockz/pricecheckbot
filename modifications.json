@@ -4689,6 +4689,13 @@
                     320000000
                 ]
             },
+            "fire_freeze_staff": {
+                "from": null,
+                "to": [
+                    300000,
+                    300000
+                ]
+            },
             "flash_i": {
                 "from": null,
                 "to": [
@@ -4849,7 +4856,7 @@
                 ]
             }
         },
-        "total_mods": 31
+        "total_mods": 32
     },
     "898372105287123024": {
         "modification_history": {},
