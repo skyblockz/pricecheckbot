@@ -4668,6 +4668,13 @@
                     17000000
                 ]
             },
+            "ferocious_mana_i": {
+                "from": null,
+                "to": [
+                    300000,
+                    450000
+                ]
+            },
             "gold_minion_xii": {
                 "from": null,
                 "to": [
@@ -4800,7 +4807,7 @@
                 ]
             }
         },
-        "total_mods": 24
+        "total_mods": 25
     },
     "898372105287123024": {
         "modification_history": {},
