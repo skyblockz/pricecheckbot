@@ -138,6 +138,13 @@
                     750000
                 ]
             },
+            "burststopper_artifact": {
+                "from": null,
+                "to": [
+                    200000000,
+                    225000000
+                ]
+            },
             "crude_gabagool": {
                 "from": null,
                 "to": [
@@ -209,7 +216,7 @@
                 ]
             }
         },
-        "total_mods": 14
+        "total_mods": 15
     },
     "364186225382391809": {
         "modification_history": {},
