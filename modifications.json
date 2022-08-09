@@ -109,8 +109,16 @@
         "total_mods": 0
     },
     "360017282572877824": {
-        "modification_history": {},
-        "total_mods": 0
+        "modification_history": {
+            "radioactive_vial": {
+                "from": null,
+                "to": [
+                    50000000,
+                    75000000
+                ]
+            }
+        },
+        "total_mods": 1
     },
     "364186225382391809": {
         "modification_history": {},
