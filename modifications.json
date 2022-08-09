@@ -173,6 +173,13 @@
                     2250000
                 ]
             },
+            "magma_rod": {
+                "from": null,
+                "to": [
+                    100000,
+                    200000
+                ]
+            },
             "obsidian_tablet": {
                 "from": null,
                 "to": [
@@ -195,7 +202,7 @@
                 ]
             }
         },
-        "total_mods": 12
+        "total_mods": 13
     },
     "364186225382391809": {
         "modification_history": {},
