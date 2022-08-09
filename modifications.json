@@ -110,6 +110,13 @@
     },
     "360017282572877824": {
         "modification_history": {
+            "inferno_fuel_block": {
+                "from": null,
+                "to": [
+                    60000,
+                    100000
+                ]
+            },
             "radioactive_vial": {
                 "from": null,
                 "to": [
@@ -118,7 +125,7 @@
                 ]
             }
         },
-        "total_mods": 1
+        "total_mods": 2
     },
     "364186225382391809": {
         "modification_history": {},
