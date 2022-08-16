@@ -4754,6 +4754,16 @@
                     3000000
                 ]
             },
+            "compactor": {
+                "from": [
+                    9600,
+                    11000
+                ],
+                "to": [
+                    2800,
+                    3950
+                ]
+            },
             "dwarf_turtle_shelmet": {
                 "from": [
                     3000000,
@@ -4915,7 +4925,7 @@
                 ]
             }
         },
-        "total_mods": 18
+        "total_mods": 19
     },
     "888892003088236554": {
         "modification_history": {
