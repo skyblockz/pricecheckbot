@@ -5124,6 +5124,16 @@
                     42800
                 ]
             },
+            "red_nose": {
+                "from": [
+                    5000,
+                    15000
+                ],
+                "to": [
+                    60,
+                    1100
+                ]
+            },
             "refined_mineral": {
                 "from": [
                     18000,
@@ -5352,7 +5362,7 @@
                 ]
             }
         },
-        "total_mods": 64
+        "total_mods": 65
     },
     "888892003088236554": {
         "modification_history": {
