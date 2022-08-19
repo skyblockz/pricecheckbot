@@ -4864,6 +4864,16 @@
                     2000000
                 ]
             },
+            "farming_for_dummies": {
+                "from": [
+                    1950000,
+                    1970000
+                ],
+                "to": [
+                    160000,
+                    230000
+                ]
+            },
             "frozen_scythe": {
                 "from": [
                     9100000,
@@ -5275,7 +5285,7 @@
                 ]
             }
         },
-        "total_mods": 56
+        "total_mods": 57
     },
     "888892003088236554": {
         "modification_history": {
