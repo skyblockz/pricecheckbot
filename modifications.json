@@ -5164,6 +5164,16 @@
                     210800
                 ]
             },
+            "transmission_tuner": {
+                "from": [
+                    180000,
+                    220000
+                ],
+                "to": [
+                    71000,
+                    100000
+                ]
+            },
             "unstable_dragon_fragment": {
                 "from": [
                     2400,
@@ -5235,7 +5245,7 @@
                 ]
             }
         },
-        "total_mods": 51
+        "total_mods": 52
     },
     "888892003088236554": {
         "modification_history": {
