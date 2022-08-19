@@ -5271,6 +5271,16 @@
                     112000
                 ]
             },
+            "suspicious_vial": {
+                "from": [
+                    100000,
+                    150000
+                ],
+                "to": [
+                    8100,
+                    23000
+                ]
+            },
             "tasty_cheese": {
                 "from": [
                     4700,
@@ -5402,7 +5412,7 @@
                 ]
             }
         },
-        "total_mods": 69
+        "total_mods": 70
     },
     "888892003088236554": {
         "modification_history": {
